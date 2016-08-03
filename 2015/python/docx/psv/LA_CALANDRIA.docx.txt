@@ -1,0 +1,304 @@
+
+--------------------------------------------------------------------------------
+SERIE LA CALANDRIA							 Símbolo: Lcl
+
+
+Pertenece a la familia "fina, montmorillonítica, neutra, térmica" de los Ocracualfes vérticos (planosol vertisólico).
+Suelo imperfectamente drenado, con concreciones de hierro-manganeso desde la superficie.
+Posee un epipedón somero, con colores claros, son ligeramente alcalinos a partir de los 55 cm aproximadamente.
+
+Suelo desarrollado sobre materiales limos calcáreos, arcillo limosos.
+
+
+Perfil tipo: ER7-7C
+Fecha: 14-XII-1979
+Ubicación: Estación "La Calandria" (foto 179-14b) - Dpto. Federal.
+Reconocedores: L.O. López; C.J. Vesco.
+
+
+A11: 00-10 cm; pardo grisáceo (10YR 5/2) en seco a pardo oscuro (10YR 4/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios, moderados y granular muy fina; barnices ("humic skins") escasos, finos; moteados de hierro-manganeso precisos, escasos y finos; concreciones de hierro-manganeso escasas y finas; límite gradual, suave.
+
+A12: 10-17 cm; pardo grisáceo (10YR 5/2) en seco y gris oscuro (10YR 4/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados con tendencia a prismas compuestos irregulares; barnices ("humic skins") escasos, medios y ("clay humic skins") escasos, finos; moteados de hierro-manganeso precisos, escasos y finos; concreciones de hierro-manganeso escasas, finas; límite claro, suave.
+
+B21t: 17-31 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares medios, moderados; barnices ("clay humic skins") escasos a abundantes; caras de fricción ("slickensides") escasas, finas e intersectadas; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso de 1 mm de diámetro; límite gradual, suave.
+
+B22t: 31-48 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y cuneiformes medios, moderados; barnices ("clay humic skins") escasos a abundantes; caras de fricción ("slickensides") abundantes, finas e intersectadas; concreciones de hierro-manganeso abundantes de hasta 2 mm de diámetro; límite claro, suave.
+
+B31ca: 48-82 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en bloques subangulares medios, débiles y cuneiformes chicos, débiles; barnices ("clay humic skins") escasos; caras de fricción ("slickensides") escasas, intersectadas; moteados de hierro-manganeso comunes a abundantes, precisos y finos; concreciones de hierro-manganeso escasas; concreciones de calcio escasas; límite gradual, ondulado.
+
+B32ca: 82-110 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, moderados; barnices ("clay humic skins") escasos, finos; caras de fricción ("slickensides") abundantes, medios e intersectados; límite claro, suave.
+
+Cca: 110 cm +; pardo (7.5YR 4/4) en húmedo; arcillo limoso; estructura masiva; chorreaduras de materia orgánica; algo gleizado; concreciones de calcio abundantes.
+Variabilidad de rasgos
+
+Se han descripto pedones con un incipiente A2, y otros, con horizontes superficiales muy compactados. Es muy común la heterogeneidad por pequeñas microdepresiones (lagunillas) típicas de esta unidad.
+	
+El B2t es muy potente, siendo el B22t el horizonte más enriquecido en arcilla con porcentajes que oscilan los 55%; aunque no se evidencia acumulación de arcilla, en Cca da tenores cercanos al 50%.
+
+La lixiviación es evidente en profundidad, ocurriendo por intermedio de grietas que forma en los horizontes inferiores "bolsones" de materia orgánica.
+
+Las concreciones de calcio pueden encontrarse en profundidades variables lo que denotaría microrrelieve gilgai del tipo irregular.
+
+
+Fases
+ 	
+No presenta a este nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Serie La Calandria se parece a la serie Arroyo Quebracho que es menos alcalino y a la serie Colonia Trece que es más alcalino y se presenta en otro paisaje.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial nulo. Permeabilidad lenta a muy lenta. Napa freática relativamente profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie La Calandria no presenta erosión y la susceptibilidad a la misma corre moderado peligro en surcos especialmente en las pendientes muy suaves y largas al ocurrir el desmonte.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Calandria
+
+ER7-7C
+
+
+
+
+
+
+
+Nº de registro
+ 3115
+ 3116
+ 3117
+ 3118
+ 3119
+ 3120
+ 3121
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 03-10
+ 12-17
+ 18-28
+ 35-45
+ 55-75
+ 75-100
+ +125
+Mat.organica (%)
+ 4.82
+ 2.75
+ 2.24
+ 2.58
+ 1.38
+ 0.86
+ 0.34
+N (%)
+ 0.20
+ 0.10
+ 0.10
+ 0.10
+ 0.04
+ 0.03
+ 0.03
+C/N
+ 15
+ 15
+ 15
+ 15
+ 20
+ 16
+ 8
+
+T < 2 μ
+
+ 32.00
+
+ 38.10
+
+ 43.90
+
+ 54.20
+
+ 46.80
+
+ 48.20
+
+ 49.60
+E 2-20 μ
+ 40.30
+ 38.00
+ 34.90
+ 32.70
+ 30.90
+ 31.60
+ 31.50
+X 2-50 μ
+ 67.10
+ 61.30
+ 55.70
+ 45.50
+ 62.70
+ 51.40
+ 49.80
+T 50-100 μ
+ 0.10
+ 0.10
+ 0.03
+ 0.03
+ 0.04
+ 0.04
+ 0.05
+U 100-250 μ
+ 0.30
+ 0.30
+ 0.20
+ 0.20
+ 0.20
+ 0.20
+ 0.30
+R 250-500 μ
+ 0.20
+ 0.20
+ 0.20
+ 0.10
+ 0.20
+ 0.20
+ 0.20
+A 500-1000 μ
+ 0.02
+ 0.02
+ 0.01
+ -
+ 0.02
+ 0.01
+ -
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ 1.1
+
+ 3.0
+
+ 1.4
+pH H2O
+ 5.9
+ 6.6
+ 7.1
+ 7.3
+ 8.3
+ 8.4
+ 8.4
+pH ClK
+ 5.4
+ 5.7
+ 6.1
+ 6.6
+ 7.1
+ 7.2
+ 7.1
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 25.5
+ 30.8
+ 40.1
+ 42.8
+ 41.6
+
+
+ 41.2
+
+
+ 40.2
+ d Ca++
+ 18.6
+ 24.8
+ 29.7
+ 33.3
+ 29.2
+ 30.1
+ 31.0
+C e
+
+
+
+
+
+
+
+Mg++
+ 3.8
+ 3.1
+ 7.2
+ 5.0
+ 6.6
+ 7.0
+ 4.3
+t c
+
+
+
+
+
+
+
+i a K+
+ 2.0
+ 2.9
+ 2.3
+ 2.7
+ 3.1
+ 3.1
+ 3.0
+o m
+
+
+
+
+
+
+
+n b Na+
+ 0.6
+ 0.5
+ 0.6
+ 0.6
+ 0.6
+ 0.7
+ 1.0
+e i
+
+
+
+
+
+
+
+s o H+
+ 0.6
+ -
+ 0.2
+ 1.2
+ 2.1
+ 0.3
+ 0.9
+

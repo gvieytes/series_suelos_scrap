@@ -1,0 +1,220 @@
+--------------------------------------------------------------------------------
+SERIE MARIA LUISA Símbolo: MaLu
+Pertenece a la familia "fina, montmorillonítica, levemente alcalina, térmica" de los Ocracualfes vérticos mólicos (planosol vertisólico con un epipedón mólico).
+Suelos desarrollados a partir de sedimentos limos calcáreos, arcillo limosos, pobremente drenados, con concreciones de hierro-manganeso desde la superficie de hasta 2 mm, y a partir de los 10 cm de profundidad hasta 4 mm de diámetro, con moteados de hierro-manganeso abundantes.
+Perfil tipo: ER7-30C
+Fecha: 26-VIII-1982
+Ubicación: Ea. "María Luisa" (foto 174-56) - Dpto Federal.
+Reconocedores: L.O. López; R.H. Fuentes; O.A. Foti.
+A11: 00-08 cm; pardo muy oscuro (10YR 4/2) en húmedo y gris claro (10IR 7/2) en seco; franco-arcillo-limoso; estructura en bloques angulares y subangulares irregulares débiles y finos con tendencia a masiva; muy duro en seco, friable en húmedo; barnices ("humic skins") escasos, finos; moteados de hierro-manganeso abundantes, medios y sobresalientes; concreciones de hierro-manganeso escasas de aproximadamente 2 mm; límite claro, suave.
+A12: 08-16 cm; gris muy oscuro (10IR 3/1) en húmedo y pardo grisáceo muy oscuro (10IR 3/2) en seco; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; duro en seco, ligeramente firme en húmedo; barnices ("clay humic skins") abundantes; moteados de hierro-manganeso abundantes, medios y sobresalientes; concreciones de hierro-manganeso abundantes de hasta 4 mm. Muestra lixiviación en la cara de los agregados; límite claro, suave.
+B21t: 16-43 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura de prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco; firme en húmedo; barnices ("clay humic skins") escasos; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro-manganeso abundantes, medios y precisos; concreciones de hierro-manganeso abundantes entre 2 y 4 mm; límite claro, suave.
+B22t: 43-62 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; barnices ("clay humic skins") abundantes; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso escasas; límite gradual ondulado.
+B3ca: 62-90 cm; pardo (7.5YR 5/2) en húmedo; arcillo-limoso; estructura de prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; friable en húmedo, ligeramente duro en seco; caras de fricción ("slickensides") abundantes, finas e intersectadas y gruesas no intersectadas; moteados de hierro-manganeso abundantes, medios y sobresalientes; concreciones de hierro-manganeso abundantes; concreciones de calcio abundantes; límite difuso, ondulado.
+Cca: 90 cm +; gris claro a gris (7.5YR 5.5/4) en húmedo; arcillo-limoso; estructura masiva; friable en húmedo, duro en seco; caras de fricción ("slickensides") abundantes, inherentes al material madre; gley fósil; carbonatos de calcio libres en la masa abundantes; chorreaduras de materia orgánica.
+Variabilidad de rasgos
+El solum posee normalmente entre 80-85 cm de espesor, pero se han encontrado algunos perfiles con discontinuidad a partir de 120 cm.
+El epipedón presenta una secuencia normal de A11 + A12 comúnmente lixiviados y la variabilidad está afectada especialmente por la actividad de bolsones causados por los cangrejales de agua dulce (Spartacus sp.), con chorreaduras de limo en la cara de los agregados. El espesor de este horizonte puede llegar a los 23 cm, pues la parte superior del horizonte B21t se lo puede incluir como B1. La textura es franco limosa a franco arcillo limosa con tenores de arcilla entre 30 y 35%.
+El B2 textural posee entre 45 y 65 cm de espesor, considerando que el B3ca presenta porcentajes muy altos de arcillas expandibles (montmorillonita ?), con movimiento en masa (churning). A partir de este horizonte las características vérticas son evidentes, aún en el horizonte C.
+Fases
+No se encuentran a este nivel de reconocimiento.
+Series similares y sus diferencias	
+Se parece a la serie Miñones, pero ésta tiene un epipedón más somero y presenta un paisaje con mayor hidromorfismo y a la serie Conscripto Bernardi - con quien está asociada en la fisiografía - la cual tiene un epipedón más lixiviado y se ubica en las partes más altas de la unidad.
+Drenaje
+Pobre a mal drenado; escurrimiento estancado a muy lento. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+	
+La serie María Luisa no presenta erosión, ni tampoco es susceptible a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie María Luisa
+ER7-30C
+Nº de registro
+ 3522
+ 3523
+ 3524
+ 3525
+ 3526
+ 3527
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-07
+ 10-15
+ 25-40
+ 47-60
+ 65-80
+ 100-120
+Mat.organica (%)
+ 3.30
+ 1.51
+ 1.44
+ 1.34
+ 0.52
+ 0.31
+N (%)
+ 0.14
+ 0.08
+ 0.07
+ 0.06
+ 0.03
+ 0.02
+C/N
+ 14
+ 11
+ 12
+ 13
+ 10
+ 9
+T < 2 μ
+ 28.75
+ 33.64
+ 43.81
+ 46.91
+ 44.10
+ 49.80
+E 2-20 μ
+ 43.75
+ 40.14
+ 36.61
+ 36.93
+ 30.86
+ 30.09
+X 2-50 μ
+ 70.61
+ 65.74
+ 55.95
+ 52.78
+ 55.60
+ 49.88
+T 50-100 μ
+ 0.26
+ 0.26
+ 0.10
+ 0.14
+ 0.14
+ 0.03
+U 100-250 μ
+ 0.34
+ 0.30
+ 0.12
+ 0.14
+ 0.14
+ 0.12
+R 250-500 μ
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.12
+A 500-1000 μ
+ 0.02
+ 0.03
+ 0.02
+ 0.03
+ 0.02
+ 0.05
+ 1000-2000 μ
+ 0.00
+ 0.03
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.7
+ 3.0
+pH H2O
+ 5.4
+ 5.5
+ 6.2
+ 6.3
+ 7.5
+ 7.6
+pH ClK
+ 5.1
+ 5.1
+ 5.7
+ 5.9
+ 6.9
+ 7.0
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 22.32
+ 24.07
+ 36.00
+ 43.55
+ 42.12
+ 39.28
+ d Ca++
+ 16.00
+ 17.00
+ 26.66
+ 22.44
+ 32.55
+ N.D.
+C e
+Mg++
+ 5.55
+ 4.67
+ 6.78
+ 7.56
+ 7.12
+ N.D.
+t c
+i a K+
+ 0.67
+ 0.48
+ 0.40
+ 0.56
+ 0.96
+ 0.89
+o m
+n b Na+
+ 1.65
+ 1.95
+ 2.70
+ 2.70
+ 3.70
+ 2.25
+e i
+s o H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+ 7.39
+ 8.10
+ 7.50
+ 6.20
+ 8.78
+ 5.73
+Equivalente de humedad (%)
+ 21.90
+ 26.15
+ 36.12
+ 36.22
+ 32.32
+ 30.85
+P asimilable (ppm)
+ 4.96
+ 5.84
+ 6.76
+ 5.84
+ 10.40
+ 7.20
+ 	
+N.D.= No determinado.

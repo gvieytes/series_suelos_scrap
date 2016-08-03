@@ -1,0 +1,31 @@
+HORIZONTE->NOMBRE(S)........# : ap | a1 | b1 | b21t | b22t | b3 | c
+HORIZONTE->Profundidad# cm: 0 | 15 | 26 | 45 | 75 | 103 | 160
+HORIZONTE->muestra# cm: 15 | 25 | 40 | 75 | 103 | 160 | ---
+HORIZONTE->Mat. orgánica# %: 3.78 | 3.07 | 1.34 | 1.05 | 0.45 | 0.19 | ---
+HORIZONTE->C orgánico# %: 2.19 | 1.78 | 0.78 | 0.61 | 0.26 | 0.11 | ---
+HORIZONTE->N total# %: 0.213 | 0.177 | 0.092 | 0.074 | 0.05 | --- | ---
+HORIZONTE->Relación C/N# ---: 10 | 10 | 8 | 8 | 5 | --- | ---
+HORIZONTE->Arcilla < 2µ# %: 21.3 | 25.2 | 29.8 | 49.6 | 33.0 | 27.3 | 20.0
+HORIZONTE->Limo 2-50µ# %: 67.8 | 62.7 | 60.6 | 46.1 | 59.1 | 62.5 | 67.7
+HORIZONTE->TOTAL# %: 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0
+HORIZONTE->Limo 2-20µ# %: --- | --- | --- | --- | --- | --- | ---
+HORIZONTE->Muy fina 50-100µ# %: 10.4 | 12.0 | 9.1 | 4.2 | 7.7 | 9.6 | 11.2
+HORIZONTE->Fina 100-250µ# %: 0.5 | 0.1 | 0.5 | 0.1 | 0.2 | 0.6 | 1.1
+HORIZONTE->Media 250-500µ# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+HORIZONTE->Gruesa 500-1000µ# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+HORIZONTE->Muy gruesa 1-2mm# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+HORIZONTE->Calcáreo, CaCO3# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | vest.
+HORIZONTE->Equiv.humedad# %: 25.5 | 29.0 | 27.5 | 41.9 | 32.1 | 28.4 | 27.2
+HORIZONTE->Resist.pasta# ohms: --- | --- | --- | --- | --- | --- | ---
+HORIZONTE->pH pasta (1:1)# ---: 5.5 | 5.7 | 5.7 | 6.0 | 6.1 | 6.1 | 7.4
+HORIZONTE->pH agua (1:2,5)# ---: 6.1 | 6.7 | 6.7 | 7.3 | 7.2 | 6.5 | 8.2
+HORIZONTE->pH 1N ClK (1:2,5)# ---: --- | --- | --- | --- | --- | --- | ---
+HORIZONTE->Ca++ intercambio# me/100g: 11.9 | 12.8 | 12.3 | 21.1 | 16.0 | 12.5 | ---
+HORIZONTE->Mg++ intercambio# me/100g: 4.2 | 3.3 | 3.1 | 6.5 | 6.6 | 6.1 | ---
+HORIZONTE->Na+ intercambio# me/100g: 0.3 | 0.3 | 0.3 | 0.5 | 0.5 | 0.4 | 0.7
+HORIZONTE->K+ intercambio# me/100g: 2.0 | 1.7 | 1.3 | 2.4 | 2.3 | 2.2 | 2.7
+HORIZONTE->H+ intercambio# me/100g: 6.9 | 6.8 | 5.1 | 6.3 | 4.6 | 3.5 | ---
+HORIZONTE->(Na+/T)# %: 1.4 | 1.3 | 1.5 | 1.4 | 1.7 | 1.7 | 4.5
+HORIZONTE->C.I.C., (T)# me/100g: 21.7 | 22.8 | 19.8 | 34.5 | 29.3 | 24.0 | 15.4
+HORIZONTE->Suma bases (S)# me/100g: 18.4 | 18.1 | 17.0 | 30.5 | 25.4 | 21.2 | ---
+HORIZONTE->Sat.bases, (S/T)# %: 85 | 79 | 86 | 88 | 87 | 88 | ---

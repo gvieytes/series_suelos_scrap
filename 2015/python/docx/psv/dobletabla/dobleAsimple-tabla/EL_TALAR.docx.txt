@@ -1,0 +1,229 @@
+
+--------------------------------------------------------------------------------
+SERIE EL TALAR Símbolo: ETa
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Hapludoles ácuicos.
+
+Suelo sódico y débilmente salino. Se ha originado a partir de redepósitos eólicos y fluviales de sedimentos loéssicos.
+
+
+Perfil tipo: 352C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: 16 km al S de la ciudad de Gualeguay (Hoja IGM 3360-23-3) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-8 cm; amarillo anaranjado opaco (10YR 7/3) en seco y pardo amarillento opaco (10YR 4/3) en húmedo; franco arcilloso; estructura en bloques subangulares medios moderados que rompen en bloques menores; duro; friable; no plástico, no adhesivo; concreciones ferromanganésicas escasas; moteados comunes, finos, débiles de color pardo brillante (7,5YR 5/8); raíces abundantes; límite inferior abrupto, suave.
+
+IIB21: 8-58 cm; pardo oscuro (10YR 3/3) en húmedo; franco arcilloso; estructura en bloques subangulares medios moderados que rompen en bloques menores; duro; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; concreciones calcáreas escasas; barnices (clay-skins) escasos; moteados abundantes, finos, débiles, de color pardo brillante (7,5YR 5/8); raíces comunes; límite inferior claro, ondulado.
+
+IIB22: 58-94 cm; pardo oscuro (7,5YR 3/3) en húmedo; arcilloso; estructura en bloques subangulares medios débiles que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; concreciones ferromanganésicas escasas; concreciones calcáreas comunes, de color gris claro (7,5YR 8/2); barnices (clay-skins) escasos; moteados abundantes, finos débiles, de color pardo brillante (7,5YR 5/8); raíces comunes; límite inferior claro, ondulado.
+
+IIB3: 94-143 cm; pardo (7,5YR 4/6) en húmedo; franco arcilloso; estructura en bloques subangulares medio débiles que rompen en bloques menores; firme; no plástico, no adhesivo; concreciones ferromanganésicas escasas; moteados abundantes, finos, débiles de color pardo brillante (7,5YR 5/8).
+
+
+Variabilidad de rasgos
+
+El horizonte superficial es de 8 cm de espesor, de color pardo amarillento opaco, bien provisto de materia orgánica, franco arcilloso y estructura en bloques moderados. Le siguen una sucesión de horizontes de texturas franco arcillosa y arcillosa. Las concreciones y moteados están presentes en todo el perfil. Las microconcreciones calcáreas se encuentran en los horizontes subsuperficiales.
+
+El perfil es débilmente salino y sódico a partir de los 8 cm clasificándose por alcalinidad sódica A1 33.
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Este suelo es de permeabilidad lenta y drenaje imperfecto.
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Talar
+
+352C INTA Castelar
+
+
+
+
+N° de registro
+
+
+
+
+Horizonte
+ A1
+ IIB21
+ IIB22
+ IIB3
+Profundidad (cm)
+ 2-6
+ 25-45
+ 70-85
+ 110-130
+Mat. orgánica (%)
+ 3.48
+ 1.4
+ 0.53
+ -
+C (%)
+ 2.02
+ 0.84
+ 0.31
+ -
+N (%)
+ 0.291
+ 0.084
+ 0.046
+ -
+C/N
+ 10
+ 11
+ 8
+ -
+
+T <2 u
+
+ 28.3
+
+ 30.9
+
+ 43.2
+
+ 33.6
+E 2-20 u
+ 20.6
+ 24.7
+ 18.3
+ 25.4
+X 2-50 u
+ 48.6
+ 46.1
+ 38.1
+ 44.2
+T 50-74 u
+ 7.4
+ 8.5
+ 8.7
+ 8.4
+U 74-100 u
+ 1.7
+ 1.7
+ 2.1
+ 2.9
+R 100-250 u
+ 8.4
+ 7.2
+ 5.4
+ 6.5
+A 250-500 u
+ 4.7
+ 4.5
+ 1.8
+ 3.7
+ 500-1000 u
+ 0.9
+ 1.1
+ 0.2
+ 0.7
+ 1000-2000 u
+ -
+ -
+ -
+ -
+
+
+
+
+
+CO3Ca (%)
+ 0
+ vest.
+ 0.5
+ 0
+Equivalente de humedad (%)
+ 23.4
+ 26.7
+ 48.6
+ 35.2
+Resistencia de la pasta (Ohms/cm)
+ 2111
+ 1088
+ 536
+ 633
+pH en pasta
+ 6.8
+ 7.7
+ 7.8
+ 7.4
+pH en agua (1:2,5)
+ 7.2
+ 8.5
+ 8.6
+ 8.3
+pH en KCl (1:2,5)
+ 5.7
+ 6.7
+ 7.1
+ 6.4
+Conductividad (mmhos/cm)
+ -
+ 2.01
+ 4.85
+ 3.27
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 5.9
+ -
+ -
+ 5.6
+
+Mg++
+ 6.2
+ -
+ -
+ 7.5
+
+Na[+]
+ 2.3
+ 6.8
+ 13.1
+ 11.1
+
+K[+]
+ 1.1
+ 1.1
+ 2.4
+ 2.0
+
+H[+]
+ 4.3
+ -
+ -
+ 2.8
+Na+ % del valor T
+ 14
+ 36
+ 52
+ 45
+Suma de bases, m.e./100 gr (S)
+ 15.5
+ -
+ -
+ 26.2
+C.I.C., m.e./100 gr (T)
+ 15.9
+ 19.0
+ 25.4
+ 24.5
+Saturación con bases, (%) (S/T)
+ 97
+ -
+ -
+ 100
+

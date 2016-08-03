@@ -1,0 +1,30 @@
+HORIZONTE->NOMBRE(S)........# : a | ba | bt | bc | c | ck
+HORIZONTE->Profundidad muestra# cm: 0-19 | 19-28 | 28-60 | 60-88 | 88-125 | 126-160
+HORIZONTE->Mat. orgánica# %: 3.45 | 1.84 | 0.91 | 0.40 | 0.34 | 0.17
+HORIZONTE->C orgánico# %: 2.00 | 1.07 | 0.53 | 0.23 | 0.20 | 0.10
+HORIZONTE->N total# %: 0.158 | 0.091 | 0.063 | 0.047 | 0.04 | 0.02
+HORIZONTE->Relación C/N# ---: 13 | 12 | 8 | 5 | 5 | 5
+HORIZONTE->Arcilla < 2µ# %: 35.0 | 41.9 | 41.6 | 35.7 | 25.5 | 21.2
+HORIZONTE->Limo 2-50µ# %: 61.8 | 55.7 | 55.7 | 60.8 | 63.0 | 66.1
+HORIZONTE->TOTAL# %: 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0
+HORIZONTE->Limo 2-20µ# %: 37.1 | 35.6 | 35.8 | 39.5 | 40.2 | 41.8
+HORIZONTE->Muy fina 50-100µ# %: 2.5 | 2.0 | 2.0 | 2.7 | 7.1 | 7.4
+HORIZONTE->Fina 100-250µ# %: 0.7 | 0.4 | 0.7 | 0.8 | 4.4 | 5.3
+HORIZONTE->Media 250-500µ# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+HORIZONTE->Gruesa 500-1000µ# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+HORIZONTE->Muy gruesa 1-2mm# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+HORIZONTE->Calcáreo, CaCO3# %: 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.6
+HORIZONTE->Equiv.humedad# %: - | - | - | - | - | 
+HORIZONTE->Resist.pasta# ohms: 1250 | 1310 | 1350 | 1390 | 1250 | 1010
+HORIZONTE->pH pasta (1:1)# ---: 6.7 | 6.7 | 7.0 | 7.1 | 7.3 | 8.3
+HORIZONTE->pH agua (1:2,5)# ---: 6.9 | 6.9 | 7.1 | 7.2 | 7.4 | 8.4
+HORIZONTE->pH 1N ClK (1:2,5)# ---: 5.4 | 5.3 | 5.3 | 5.4 | 5.5 | 7.4
+HORIZONTE->Ca++ intercambio# me/100g: 14.9 | 16.4 | 15.8 | 16.7 | 15.2 | 8.1
+HORIZONTE->Mg++ intercambio# me/100g: 3.7 | 4.3 | 4.9 | 4.3 | 5.4 | 7.5
+HORIZONTE->Na+ intercambio# me/100g: 0.5 | 0.6 | 0.5 | 0.7 | 0.8 | 1.6
+HORIZONTE->K+ intercambio# me/100g: 2.3 | 2.3 | 2.3 | 2.3 | 2.4 | 2.6
+HORIZONTE->H+ intercambio# me/100g: 2.7 | 3.5 | 2.6 | 1.8 | 1.8 | 0.0
+HORIZONTE->(Na+/T)# %: 2.2 | 2.3 | 1.9 | 2.8 | 3.3 | 8.8
+HORIZONTE->C.I.C., (T)# me/100g: 22.3 | 26.3 | 25.9 | 24.6 | 24.2 | 18.2
+HORIZONTE->Suma bases (S)# me/100g: 21.4 | 23.6 | 23.5 | 24.0 | 23.8 | 19.8
+HORIZONTE->Sat.bases, (S/T)# %: 96 | 90 | 91 | 98 | 98 | 109

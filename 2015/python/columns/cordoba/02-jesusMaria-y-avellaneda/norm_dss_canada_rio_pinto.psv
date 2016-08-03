@@ -1,0 +1,39 @@
+dss_canada_rio_pinto.psv ->> ID..........................: 206
+dss_canada_rio_pinto.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_canada_rio_pinto.psv ->> SERIE.......................: CAÑADA DEL RÍO PINTO
+dss_canada_rio_pinto.psv ->> UBICACION...................: 5 km del paraje homónimo, departamento Ischilín
+dss_canada_rio_pinto.psv ->> PROVINCIA...................: CORDOBA
+dss_canada_rio_pinto.psv ->> LATITUD.....................: S304700
+dss_canada_rio_pinto.psv ->> LONGITUD....................: O641100
+dss_canada_rio_pinto.psv ->> ALTITUD.....................: 675
+dss_canada_rio_pinto.psv ->> PENDIENTE...................: FALTA!
+dss_canada_rio_pinto.psv ->> DRENAJE.....................: FALTA!
+dss_canada_rio_pinto.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_canada_rio_pinto.psv ->> PERMEABILIDAD...............: FALTA!
+dss_canada_rio_pinto.psv ->> TIPO DE SUELO...............: FRANCA FINA CALCÁREA MIXTA TÉRMICA
+dss_canada_rio_pinto.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_canada_rio_pinto.psv ->> HORIZONTE->NOMBRE(S)........: A11ca | A12ca | IIca
+dss_canada_rio_pinto.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18 | 18-40 | 40a+
+dss_canada_rio_pinto.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 4,0 | 2,8 | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2,3 | 1,6 | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,22 | 0,16 | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,5 | 10,0 | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->ARCILLA 2 (%)....: 21,2 | 24,8 | 30,9
+dss_canada_rio_pinto.psv ->> HORIZONTE->LIMO 2-50 (%)....: 41,6 | 40,2 | 47,8
+dss_canada_rio_pinto.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,9 | 5,0 | 5,0
+dss_canada_rio_pinto.psv ->> HORIZONTE->AF 100-250 (%)...: 5,9 | 5,4 | 4,3
+dss_canada_rio_pinto.psv ->> HORIZONTE->AM 250-500 (%)...: 7,0 | 7,4 | 4,2
+dss_canada_rio_pinto.psv ->> HORIZONTE->AG 500-1000 (%)..: 10,4 | 10,6 | 5,1
+dss_canada_rio_pinto.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 5,1 | 4,2 | 3,9
+dss_canada_rio_pinto.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,7 | 0,3 | 13,6
+dss_canada_rio_pinto.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 23,0 | 22,3 | 24,9
+dss_canada_rio_pinto.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,4 | 7,7 | 7,8
+dss_canada_rio_pinto.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 18,3 | 20,0 | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,5 | 1,3 | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3 | 0,3 | 0,2
+dss_canada_rio_pinto.psv ->> HORIZONTE->CI ME/100G-K +...: 1,0 | 0,9 | 0,6
+dss_canada_rio_pinto.psv ->> HORIZONTE->CI ME/100G-H +...: 0,1 | 0,3 | 
+dss_canada_rio_pinto.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20,1 | 22,5 |  
+dss_canada_rio_pinto.psv ->> HORIZONTE->CIC ME/100G(T)...: 20,2 | 22,8 |  
+dss_canada_rio_pinto.psv ->> HORIZONTE->SAT.B % (S/T)....: 99,5 | 98,7 | 100

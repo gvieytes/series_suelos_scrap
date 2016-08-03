@@ -1,0 +1,351 @@
+
+--------------------------------------------------------------------------------
+SERIE EL TERRON Símbolo: ETrr
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, imperfecta a moderadamente bien drenados, con un epipedón mólico oscuro, franco-limoso, y un horizonte argílico franco-arcillo-limoso, con moteados de hierro-manganeso.
+
+Suelos desarrollados en loess de textura franco-arcillo-limosa.
+
+
+Perfil tipo: ER7-103C
+Fecha: 28-VI-1995
+Ubicación: Establecimiento "El Terrón" (foto 415-6), dto. Rincón de Nogoyá - Dpto. Victoria.
+Reconocedores: L.O.López; O.A.Foti.
+
+
+A1: 00-20 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y bloques subangulares medios, débiles; friable en húmedo; barnices "humic skins" comunes, finos; moteados de hierro-manganeso comunes, finos y precisos; presencia de pedotúbulos y lombrices; límite claro, suave.
+
+B21t: 20-44 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices "clay skins" comunes y "clay humic skins" escasos; caras de fricción ("slickensides") escasas, finas; concreciones de hierro-manganeso escasas; moteados de hierro comunes, medios y precisos; presencia de raíces aplastadas; límite claro, suave.
+
+B22t: 44-57 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subaugulares y angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins" y "clay humic skins" comunes; caras de fricción ("slickensides") escasas, gruesas e intersectadas; moteados de hierro-manganeso comunes, medios y precisos; chorreadura de materia orgánica; límite gradual, suave.
+
+B31: 57-79 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices "clay humic skins", escasos y finos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B32: 79-105 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices "clay humic" escasos; moteados de hierro-manganeso comunes, finos y precisos, límite difuso, suave.
+
+C: 105 cm+; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; moteados de hierro-manganeso comunes, finos y precisos,
+
+
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos del solum no se conoce, aunque ha podido observarse que las variaciones en el horizonte superficial (espesor, textura, etc.) están íntimamente relacionadas al factor erosivo (muy variable en corta distancia).
+
+Un rasgo frecuente en esta serie es la formación de un "piso de arado" que incluye la base del horizonte Ap y parte del B2t argílico.
+
+
+Fases
+
+Moderadamente erosionada (símbolo: ETrrh2).
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Pueblito Norte, pero ésta tiene un epipedón normalmente más profundo y un B2t más arcilloso, con características vérticas.
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado; escurrimiento superficial rápido. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie El Terrón tiene erosión actual moderada (principalmente en forma laminar), y su susceptibilidad a la misma es moderada a severa.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Terrón
+
+ER7-103C
+
+
+
+
+
+
+N° de registro
+ 10.414
+ 10.415
+ 10.416
+ 10.417
+ 10.418
+ 10.419
+Horizonte
+ A1
+ B21t
+ B22t
+ B31
+ B32
+ C
+Profundidad (cm)
+ 02-15
+ 25-37
+ 45-55
+ 66-75
+ 85-100
+ 110-120
+Mat.organica (%)
+ 3.77
+ 1.78
+ 0.78
+ 0.07
+ 0.07
+ 0.07
+N (%)
+ 0.21
+ 0.12
+ 0.07
+ 0.05
+ 0.04
+ 0.01
+C/N
+ 10
+ 8
+ 6
+ 0
+ 1
+ 2
+
+T < 2 u
+
+ 24.24
+
+ 38.58
+
+ 37.59
+
+ 32.18
+
+ 31.14
+
+ 30.01
+E 2-20 u
+ 28.54
+ 23.14
+ 23.15
+ 25.10
+ 26.32
+ 26.42
+X 2-50 u
+ 67.91
+ 55.66
+ 54.49
+ 58.60
+ 59.51
+ 60.99
+T 50-100 u
+ 1.43
+ 1.26
+ 2.65
+ 2.79
+ 2.64
+ 3.39
+U 100-500 u
+ 6.34
+ 4.44
+ 5.14
+ 6.36
+ 6.64
+ 5.45
+R 500-1000 u
+ 0.08
+ 0.06
+ 0.13
+ 0.07
+ 0.07
+ 0.12
+A
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+pH H2O
+ 6.4
+ 6.7
+ 7.2
+ 7.4
+ 7.4
+ 7.3
+pH ClK
+ 5.8
+ 5.6
+ 5.8
+ 5.8
+ 5.6
+ 5.5
+Conductividad eléctrica mmhos/cm
+
+
+
+
+
+
+
+Capacidad de
+interc. catiónico
+(m.e./100 g) = valor T
+
+
+
+ 18.64
+
+
+
+ 28.80
+
+
+
+ 27.82
+
+
+
+ 24.80
+
+
+
+ 24.63
+
+
+
+ 24.44
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 14.22
+ 20.14
+ 20.00
+ 19.23
+ 18.20
+ 18.60
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 1.20
+ 5.00
+ 3.62
+ 0.87
+ 1.40
+ 0.44
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.60
+ 1.10
+ 1.02
+ 0.84
+ 0.93
+ 0.90
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.53
+ 2.20
+ 2.20
+ 2.20
+ 2.20
+ 2.40
+e
+i
+
+
+
+
+
+
+
+S
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+% Na/T
+ 8.21
+ 7.64
+ 7.91
+ 8.87
+ 8.93
+ 9.82
+
+Equivalente de humedad (%)
+
+ 26.52
+
+ 36.69
+
+ 34.43
+
+ 30.54
+
+ 28.35
+
+ 27.86
+Fósforo asimilable (ppm)
+ 4.96
+ 3.01
+ 0.38
+ 0.0
+ 0.0
+ 0.0
+
+

@@ -1,0 +1,239 @@
+--------------------------------------------------------------------------------
+SERIE CABILDO Símbolo: Cab
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Ocracualfes vérticos.
+Suelos profundos, imperfectamente drenados, de colores claros.
+Poseen un epipedón algo eluviado, sobre un horizonte argílico que presenta pequeños cristales de yeso en el horizonte B22 y abundante calcáreo a poca profundidad (a partir de los 40 cm).
+Están desarrollados sobre limos calcáreos.
+Perfil tipo: ER1-112C
+Fecha: 17-VI-1999
+Ubicación: Ea. Don Ramón. (foto IR 452-8) Dto. Raíces Dpto. Villaguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-11 cm; gris muy oscuro (10YR 3,5/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; ligeramente duro en seco y friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso, comunes, finos y precisos; límite abrupto, suave.
+B21t: 11-38 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles que rompen en bloques angulares irregulares, medios, moderados; muy duro en seco, firme en húmedo; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22tca: 38-70 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares, medios, finos; muy duro en seco, muy firme en húmedo; caras de fricción ("slickensides") escasas, medias; comunes a abundantes carbonatos libres en la masa; concreciones calcáreas comunes, blandas; moteados de hierro-manganeso comunes, finos, precisos; escasos cristales finos de yeso; límite gradual, suave.
+B31ca: 70-90 cm; pardo a pardo oscuro (7,5YR 4,5/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay-skins") escasos a comunes; caras de fricción ("slickensides") escasas, medias; abundantes carbonatos libres en la masa; concreciones calcáreas, abundantes, blandas; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite gradual, suave.
+B32ca: 90-120 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques cuneiformes, gruesos, débiles; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") comunes, gruesas; abundantes carbonatos libres en la masa; concreciones calcáreas abundantes; moteados de hierro-manganeso abundantes, medios y precisos; límite difuso, suave.
+Cca: 120 cm +; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares, irregulares, medios, moderados; ligeramente duro en seco, friable en húmedo; comunes carbonatos libre en la masa; concreciones calcáreas abundantes, blandas; moteados de hierro-manganeso comunes, medios y sobresalientes.
+Variabilidad de rasgos
+Presenta un horizonte superficial A1 que en algunos pedones se podría describir como A2, con heterogeneidad de espesor que varía entre 8 y 12 cm, de textura franco-arcillo-limoso.
+El horizonte B2 es denso, poco permeable y penetrable por las raíces, con espesores que varían entre 50-60 cm, con abundantes caras de fricción ("slickensides"). El horizonte B22 muestra pequeños cristales de SO4Ca (yeso) y abundantes concreciones calcáreas.
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento muy lento. Permeabilidad lenta. Capa freática poco profunda. Grupo hidrológico D.
+Erosión
+La serie Cabildo no presenta erosión hídrica ni tiene peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Cabildo
+ER1-112C
+Nº de registro
+ 4.452
+ 4.453
+ 4.454
+ 4.455
+ 4.456
+ 4.457
+Horizonte
+ A1
+ B21t
+ B22tca
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 05-10
+ 15-30
+ 45-65
+ 75-85
+ 95-110
+ 120-130
+Mat.organica (%)
+ 6.6
+ 3.2
+ 1.7
+ 1.4
+ 0.1
+ 0.0
+N (%)
+ 0.29
+ 0.16
+ 0.07
+ 0.04
+ 0.02
+ 0.02
+C/N
+ 13
+ 12
+ 14
+ 19
+ 3
+ 2
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 28.72
+ 40.28
+ 45.43
+ 45.98
+ 48.00
+ 47.02
+E
+ 2-20 u
+ 37.32
+ 33.53
+ 34.36
+ 32.18
+ 30.01
+ 31.21
+X
+ 2-50 u
+ 68.91
+ 57.33
+ 53.11
+ 52.52
+ 50.28
+ 51.55
+T
+ 50-100 u
+ 1.11
+ 0.66
+ 0.64
+ 0.57
+ 0.46
+ 0.66
+U
+ 100-500 u
+ 1.15
+ 1.61
+ 0.76
+ 0.84
+ 1.21
+ 0.71
+R
+ 500-1000 u
+ 0.11
+ 0.12
+ 0.06
+ 0.09
+ 0.05
+ 0.06
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 5.58
+ 7.27
+ 4.66
+ 8.45
+Ph H2O
+ 6.0
+ 7.0
+ 8.0
+ 8.0
+ 8.6
+ 8.7
+Ph ClK
+ 5.0
+ 5.7
+ 7.2
+ 7.2
+ 7.3
+ 7.2
+C.E.(mmhos/cm)
+ 0.608
+ 0.600
+ 4.620
+ 3.513
+ 1.732
+ 0.739
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+ 31.60
+ 36.37
+ 45.76
+ 44.17
+ 46.72
+ 45.42
+d
+Ca++
+ 21.64
+ 28.11
+ -
+ -
+ -
+ -
+C
+e
+A
+Mg++
+ 1.93
+ 2.62
+ -
+ -
+ -
+ -
+T
+c
+I
+a
+K+
+ 1.28
+ 1.92
+ 0.86
+ 0.86
+ 0.76
+ 0.92
+O
+m
+N
+b
+Na+
+ 1.25
+ 2.65
+ 2.62
+ 3.51
+ 4.30
+ 4.62
+E
+i
+S
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 3.96
+ 7.29
+ 5.72
+ 7.95
+ 9.20
+ 10.17
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 31.13
+ 38.59
+ 43.42
+ 43.21
+ 46.91
+ 46.00
+Fósforo asimilable (ppm)
+ 15.78
+ 8.54
+ 3.71
+ 2.52
+ 2.57
+ 2.42

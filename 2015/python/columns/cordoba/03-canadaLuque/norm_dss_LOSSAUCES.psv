@@ -1,0 +1,39 @@
+dss_LOSSAUCES.psv ->> ID..........................: 319
+dss_LOSSAUCES.psv ->> CLASIFICACION...............: Haplustol típico
+dss_LOSSAUCES.psv ->> SERIE.......................: LOS SAUCES (Sauc)
+dss_LOSSAUCES.psv ->> UBICACION...................: 15 km al Este de la localidad de Villa María de Río Seco, departamento Río Seco
+dss_LOSSAUCES.psv ->> PROVINCIA...................: CORDOBA
+dss_LOSSAUCES.psv ->> LATITUD.....................: S294800
+dss_LOSSAUCES.psv ->> LONGITUD....................: O633600
+dss_LOSSAUCES.psv ->> ALTITUD.....................: FALTA!
+dss_LOSSAUCES.psv ->> PENDIENTE...................: FALTA!
+dss_LOSSAUCES.psv ->> DRENAJE.....................: FALTA!
+dss_LOSSAUCES.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LOSSAUCES.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LOSSAUCES.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_LOSSAUCES.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LOSSAUCES.psv ->> HORIZONTE->NOMBRE(S)........: a | bw | bc | c | ck
+dss_LOSSAUCES.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17 | 17-37 | 37-60 | 60-80 | 80a+
+dss_LOSSAUCES.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,14 | 1,10 | 0,91 | - | 
+dss_LOSSAUCES.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,24 | 0,64 | 0,53 | - | 
+dss_LOSSAUCES.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.11 | 0,08 | - | - | 
+dss_LOSSAUCES.psv ->> HORIZONTE->RELACIÓN C/N.....: 11,3 | 8,0 | - | - | 
+dss_LOSSAUCES.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15,6 | 18,7 | 17,3 | 14,2 | 10,2
+dss_LOSSAUCES.psv ->> HORIZONTE->LIMO 2-50 (%)....: 55,8 | 50,1 | 55,9 | 60,1 | 62,4
+dss_LOSSAUCES.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,1 | 3,7 | 6,2 | 7,1 | 5,9
+dss_LOSSAUCES.psv ->> HORIZONTE->AF 100-250 (%)...: 7,6 | 8,5 | 6,2 | 6,1 | 7,1
+dss_LOSSAUCES.psv ->> HORIZONTE->AM 250-500 (%)...: 3,6 | 3,9 | 2,4 | 2,6 | 3,4
+dss_LOSSAUCES.psv ->> HORIZONTE->AG 500-1000 (%)..: 8,9 | 9,8 | 6,4 | 6,6 | 7,3
+dss_LOSSAUCES.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 2,7 | 4,6 | 4,2 | 4,3 | 4,6
+dss_LOSSAUCES.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 2,2
+dss_LOSSAUCES.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 21,2 | 19,3 | 20,8 | 19,7 | 20,3
+dss_LOSSAUCES.psv ->> HORIZONTE->PH PASTA.........: 6,1 | 6,8 | 6,9 | 7,3 | 7,9
+dss_LOSSAUCES.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,5 | 7,1 | 7,1 | 7,5 | 8,1
+dss_LOSSAUCES.psv ->> HORIZONTE->CI ME/100G-Ca++..: 13,4 | 13,2 | 13,0 | 13,4 | 
+dss_LOSSAUCES.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,1 | 1,7 | 1,3 | 0,6 | 
+dss_LOSSAUCES.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,1 | 0,3 | 0,3 | 0,2 | 0,2
+dss_LOSSAUCES.psv ->> HORIZONTE->CI ME/100G-K+....: 1,0 | 0,9 | 0,9 | 1,1 | 1,0
+dss_LOSSAUCES.psv ->> HORIZONTE->CI ME/100G-H+....: 1,3 | 0,9 | 0,8 | 0,2 | 
+dss_LOSSAUCES.psv ->> HORIZONTE->SUM.B. ME/100G(S): 15,6 | 16,1 | 15,5 | 15,3 | 
+dss_LOSSAUCES.psv ->> HORIZONTE->CIC ME/100G(T)...: 16,9 | 17,2 | 16,5 | 15,5 | 12,8
+dss_LOSSAUCES.psv ->> HORIZONTE->SAT.B % (S/T)....: 92 | 94 | 94 | 99 | 

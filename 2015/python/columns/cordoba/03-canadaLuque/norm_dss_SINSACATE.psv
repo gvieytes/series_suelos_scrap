@@ -1,0 +1,38 @@
+dss_SINSACATE.psv ->> ID..........................: 328
+dss_SINSACATE.psv ->> CLASIFICACION...............: Argiustol údico
+dss_SINSACATE.psv ->> SERIE.......................: SINSACATE
+dss_SINSACATE.psv ->> UBICACION...................: 8 km al Norte de la ciudad de Jesús María, departamento Colón
+dss_SINSACATE.psv ->> PROVINCIA...................: CORDOBA
+dss_SINSACATE.psv ->> LATITUD.....................: S345500
+dss_SINSACATE.psv ->> LONGITUD....................: O640600
+dss_SINSACATE.psv ->> ALTITUD.....................: 550
+dss_SINSACATE.psv ->> PENDIENTE...................: FALTA!
+dss_SINSACATE.psv ->> DRENAJE.....................: FALTA!
+dss_SINSACATE.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_SINSACATE.psv ->> PERMEABILIDAD...............: FALTA!
+dss_SINSACATE.psv ->> TIPO DE SUELO...............: FINA MIXTA TÉRMICA
+dss_SINSACATE.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_SINSACATE.psv ->> HORIZONTE->NOMBRE(S)........: a | bt | bc | c
+dss_SINSACATE.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-38 | 38-90 | 90-120 | 120a+
+dss_SINSACATE.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,1 | 0,3 | - | 
+dss_SINSACATE.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,2 | 0,2 | - | 
+dss_SINSACATE.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,11 | 0,03 | - | 
+dss_SINSACATE.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,9 | 6,7 | - | 
+dss_SINSACATE.psv ->> HORIZONTE->ARCILLA 2 (%)....: 34 | 40 | 20,3 | 26,4
+dss_SINSACATE.psv ->> HORIZONTE->LIMO 2-50 (%)....: 56,7 | 50,1 | 60,8 | 61,2
+dss_SINSACATE.psv ->> HORIZONTE->AMF 50-100 (%)...: 2,8 | 3,1 | 4,2 | 5,5
+dss_SINSACATE.psv ->> HORIZONTE->AF 100-250 (%)...: 1,0 | 1,3 | 1,9 | 1,8
+dss_SINSACATE.psv ->> HORIZONTE->AM 250-500 (%)...: 0,7 | 1,2 | 1,4 | 1,4
+dss_SINSACATE.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,8 | 2,1 | 1,6 | 1,9
+dss_SINSACATE.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,3 | 1,0 | 0,7 | 0,9
+dss_SINSACATE.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0 | 0,0
+dss_SINSACATE.psv ->> HORIZONTE->PH PASTA.........: - | - | - | 
+dss_SINSACATE.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,5 | 6,6 | 6,7 | 6,6
+dss_SINSACATE.psv ->> HORIZONTE->CI ME/100G-Ca++..: 19,9 | 18,6 | 13,6 | 14,1
+dss_SINSACATE.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,0 | 0,9 | 1,1 | 0,8
+dss_SINSACATE.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,5 | 0,4 | 0,3 | 0,4
+dss_SINSACATE.psv ->> HORIZONTE->CI ME/100G-K+....: 1,9 | 1,4 | 1,2 | 1,3
+dss_SINSACATE.psv ->> HORIZONTE->CI ME/100G-H+....: 1,6 | 1,0 | 0,8 | 
+dss_SINSACATE.psv ->> HORIZONTE->SUM.B. ME/100G(S): 23,3 | 21,3 | 16,2 | 16,9
+dss_SINSACATE.psv ->> HORIZONTE->CIC ME/100G(T)...: 24,9 | 22,3 | 17,0 | 16,9
+dss_SINSACATE.psv ->> HORIZONTE->SAT.B % (S/T)....: 93,5 | 95,5 | 95,3 | 100

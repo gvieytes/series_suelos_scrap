@@ -1,0 +1,166 @@
+--------------------------------------------------------------------------------
+SERIE LOS CERRILLOS Símbolo: LCrr
+Pertenece a la familia "silícea, no ácida, térmica" de los Udisamentes típicos.
+Son suelos muy profundos, arenosos a areno-francos, de colores parduzcos y sin diferenciación de horizontes diagnósticos.
+Suelos desarrollados en arenas eólicas, parcialmente remezcladas con loess.
+Perfil tipo: ER7-65C
+Fecha: 19-IV-1990.
+Localización: Ea. "El Retiro" (foto H428-1) - Dpto. Diamante.
+Reconocedores: L.O. López; O.A. Foti.
+I: 00-24 cm; pardo (10YR 4/3) en húmedo; areno-franco fino; estructura de grano simple; suelto en seco; límite claro, suave.
+II: 24-58 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; areno-franco fino; estructura granular incipiente y bloques subangulares finos y débiles muy friable en húmedo; límite gradual, suave.
+III: 58-84 cm; pardo (10YR 4/3) en húmedo; areno-franco; estructura de grano simple; suelto en seco; límite gradual, suave.
+IV: 84-240 cm; pardo oscuro (10YR 3/3) en húmedo; areno-franco; estructura de grano simple.
+Variabilidad de rasgos
+El perfil consta generalmente de una sucesión de capas de muy poca diferenciación entre sí, aunque en algunos casos puede distinguirse la formación de un horizonte A1 de poco espesor (10-15 cm), de textura franco-arenosa a franca. En parte, la tendencia a la formación de una mejor estructura superficial puede estar dada por una mejor incorporación de materia orgánica en algunos sectores y, en parte, podría evidenciar un delgado aporte de materiales loésicos.
+Parte de los pedones que integran la serie presentan una discontinuidad litológica a partir de los 60-70 cm, constituida por una transición abrupta hacia materiales más arcillosos y de manifiesto origen marino, de un color que varía de pardo fuerte (7.5YR 4/6) a pardo (7.5YR 5/4). A los fines prácticos de uso y manejo, esta diferenciación no fue considerada a nivel de serie, sino que se las prefirió incluir como "variante" de una única serie.
+Fases
+No se observaron a nivel de detalle.
+Series similares y sus diferencias
+No existen series similares dentro del departamento Diamante, pero sí en otras áreas de la provincia. La Serie Los Cerrillos se parece a la Serie Puerto Algarrobo (que es de origen netamente fluvial y presenta una discontinuidad litológica formada por arenas y arcillas de colores más rojizos; además, presenta un drenaje más deficiente y está desarrollada en un paisaje de terrazas aluviales antiguas)' y a la Serie Tacuara (pero está posee un horizonte argílico y una textura menos arenosa en general)'. También se parece a otros suelos arenosos de otras partes de Entre Ríos: por ejemplo, cerca de las terrazas del Río Uruguay y en el sur de la Provincia.
+Drenaje
+Algo excesivamente drenado; escurrimiento superficial muy lento. Permeabilidad muy rápida (moderadamente lenta en la "variante" de la Serie debido a la discontinuidad). Napa freática profunda. Grupo hidrológico B.
+Erosión
+La Serie Los Cerrillos no presenta erosión, excepto en algunas pendientes sobre la "variante" de la serie, en la cual pueden distinguirse algunos surcos (incipientes) de escorrentía.
+────────────────────────────────────────────────────────
+[1]) ver G.W. van Barneveld et al. (1974). Suelos y Erosión de la Provincia de Entre Ríos (tomo II).
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Los Cerrillos
+ER7-65C
+Nº de registro
+ 5159
+ 5160
+ 5161
+ 5162
+Horizonte
+ I
+ II
+ III
+ IV
+Profundidad (cm)
+ 05-20
+ 28-42
+ 62-75
+ 110-140
+Mat.organica (%)
+ 0.07
+ 0.41
+ 0.34
+ 0.28
+N (%)
+ 0.05
+ 0.03
+ 0.02
+ 0.02
+C/N
+ 1
+ 8
+ 10
+ 8
+T
+ <2 u
+ 2.61
+ 3.60
+ 4.84
+ 5.60
+E
+ 2-20 u
+ 1.29
+ 2.32
+ 2.05
+ 2.02
+X
+ 2-50 u
+ 10.93
+ 12.92
+ 11.47
+ 11.37
+T
+ 50-100 u
+ 2.83
+ 2.56
+ 2.70
+ 2.51
+U
+ 100-500 u
+ 78.45
+ 76.28
+ 75.65
+ 76.12
+R
+ 500-1000 u
+ 5.15
+ 4.62
+ 4.85
+ 4.39
+A
+ 1000-2000 u
+ 0.03
+ 0.03
+ 0.49
+ 0.01
+CO3Ca (%)
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+pH H2O
+ 6.4
+ 6.7
+ 6.5
+ 6.4
+pH ClK
+ 5.2
+ 5.6
+ 5.2
+ 4.8
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 5.70
+ 6.50
+ 5.80
+ 7.30
+ d Ca ++
+ 2.50
+ 3.20
+ 3.60
+ 3.90
+C e
+Mg++
+ 1.10
+ 1.20
+ 1.10
+ 1.00
+t C
+i a K+
+ 1.20
+ 1.30
+ 1.20
+ 1.70
+o m
+n b Na+
+ 0.20
+ 0.20
+ 0.20
+ 0.19
+e i
+s o H+
+ 0.50
+ 0.60
+ 0.60
+ 0.50
+% Na/T
+ 3.51
+ 3.08
+ 3.45
+ 2.60
+Equivalente de humedad (%)
+ 4.77
+ 5.91
+ 6.10
+ 6.81
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -

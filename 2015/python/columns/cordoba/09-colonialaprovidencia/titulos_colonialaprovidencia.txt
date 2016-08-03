@@ -1,0 +1,559 @@
+Serie_Benjamin_Gould.psv ->> #
+Serie_Benjamin_Gould.psv ->> NOMBRE(S)........:
+Serie_Benjamin_Gould.psv ->> PROFUNDIDADES(CM):
+Serie_Benjamin_Gould.psv ->> MATERIA ORGÁN.(%):
+Serie_Benjamin_Gould.psv ->> CARBONO ORGÁN.(%):
+Serie_Benjamin_Gould.psv ->> NITRÓGENO TOT.(%):
+Serie_Benjamin_Gould.psv ->> RELACIÓN C/N.....:
+Serie_Benjamin_Gould.psv ->> ARCILLA 2 (%)....:
+Serie_Benjamin_Gould.psv ->> LIMO 2-50 (%)....:
+Serie_Benjamin_Gould.psv ->> AMF 50-100 (%)...:
+Serie_Benjamin_Gould.psv ->> AF 100-250 (%)...:
+Serie_Benjamin_Gould.psv ->> AM 250-500 (%)...:
+Serie_Benjamin_Gould.psv ->> AG 500-1000 (%)..:
+Serie_Benjamin_Gould.psv ->> AMG 1-2 mm (%)...:
+Serie_Benjamin_Gould.psv ->> CALCAREO CaCO3(%):
+Serie_Benjamin_Gould.psv ->> EQUIV. HUMEDAD(%):
+Serie_Benjamin_Gould.psv ->> PH PASTA.........:
+Serie_Benjamin_Gould.psv ->> PH H2O 1:2,5.....:
+Serie_Benjamin_Gould.psv ->> CI ME/100G-Mg ++.:
+Serie_Benjamin_Gould.psv ->> CI ME/100G-Na +..:
+Serie_Benjamin_Gould.psv ->> CI ME/100G-K +...:
+Serie_Benjamin_Gould.psv ->> CI ME/100G-H +...:
+Serie_Benjamin_Gould.psv ->> Na+ % DEL VALOR T:
+Serie_Benjamin_Gould.psv ->> SUM.B. ME/100G(S):
+Serie_Benjamin_Gould.psv ->> CIC ME/100G(T)...:
+Serie_Benjamin_Gould.psv ->> SAT.B % (S/T)....:
+Serie_Canals.psv ->> #
+Serie_Canals.psv ->> NOMBRE(S)........:
+Serie_Canals.psv ->> PROFUNDIDADES(CM):
+Serie_Canals.psv ->> MATERIA ORGÁN.(%):
+Serie_Canals.psv ->> CARBONO ORGÁN.(%):
+Serie_Canals.psv ->> NITRÓGENO TOT.(%):
+Serie_Canals.psv ->> RELACIÓN C/N.....:
+Serie_Canals.psv ->> ARCILLA 2 (%)....:
+Serie_Canals.psv ->> LIMO 2-50 (%)....:
+Serie_Canals.psv ->> AMF 50-100 (%)...:
+Serie_Canals.psv ->> AF 100-250 (%)...:
+Serie_Canals.psv ->> AM 250-500 (%)...:
+Serie_Canals.psv ->> AG 500-1000 (%)..:
+Serie_Canals.psv ->> AMG 1-2 mm (%)...:
+Serie_Canals.psv ->> CALCAREO CaCO3(%):
+Serie_Canals.psv ->> EQUIV. HUMEDAD(%):
+Serie_Canals.psv ->> PH PASTA.........:
+Serie_Canals.psv ->> PH H2O 1:2,5.....:
+Serie_Canals.psv ->> CI ME/100G-Mg ++.:
+Serie_Canals.psv ->> CI ME/100G-Na +..:
+Serie_Canals.psv ->> CI ME/100G-K +...:
+Serie_Canals.psv ->> CI ME/100G-H +...:
+Serie_Canals.psv ->> SUM.B. ME/100G(S):
+Serie_Canals.psv ->> CIC ME/100G(T)...:
+Serie_Canals.psv ->> SAT.B % (S/T)....:
+Serie_Estacion_Salguero.psv ->> #
+Serie_Estacion_Salguero.psv ->> NOMBRE(S)........:
+Serie_Estacion_Salguero.psv ->> PROFUNDIDADES(CM):
+Serie_Estacion_Salguero.psv ->> MATERIA ORGÁN.(%):
+Serie_Estacion_Salguero.psv ->> CARBONO ORGÁN.(%):
+Serie_Estacion_Salguero.psv ->> NITRÓGENO TOT.(%):
+Serie_Estacion_Salguero.psv ->> RELACIÓN C/N.....:
+Serie_Estacion_Salguero.psv ->> ARCILLA 2 (%)....:
+Serie_Estacion_Salguero.psv ->> LIMO 2-50 (%)....:
+Serie_Estacion_Salguero.psv ->> AMF 50-100 (%)...:
+Serie_Estacion_Salguero.psv ->> AF 100-250 (%)...:
+Serie_Estacion_Salguero.psv ->> AM 250-500 (%)...:
+Serie_Estacion_Salguero.psv ->> AG 500-1000 (%)..:
+Serie_Estacion_Salguero.psv ->> AMG 1-2 mm (%)...:
+Serie_Estacion_Salguero.psv ->> CALCAREO CaCO3(%):
+Serie_Estacion_Salguero.psv ->> EQUIV. HUMEDAD(%):
+Serie_Estacion_Salguero.psv ->> PH PASTA.........:
+Serie_Estacion_Salguero.psv ->> PH H2O 1:2,5.....:
+Serie_Estacion_Salguero.psv ->> CI ME/100G-Mg ++.:
+Serie_Estacion_Salguero.psv ->> CI ME/100G-Na +..:
+Serie_Estacion_Salguero.psv ->> CI ME/100G-K +...:
+Serie_Estacion_Salguero.psv ->> CI ME/100G-H +...:
+Serie_Estacion_Salguero.psv ->> CONDUCT mmhos/cm.:
+Serie_Estacion_Salguero.psv ->> SUM.B. ME/100G(S):
+Serie_Estacion_Salguero.psv ->> CIC ME/100G(T)...:
+Serie_Estacion_Salguero.psv ->> SAT.B % (S/T)....:
+Serie_Estacion_Salguero.psv ->> CI ME/100G-Mg ++.:
+Serie_Estacion_Salguero.psv ->> CI ME/100G-Na +..:
+Serie_Estacion_Salguero.psv ->> CI ME/100G-K +...:
+Serie_Estacion_Salguero.psv ->> C.EX.S ME/1-HCO3-:
+Serie_Estacion_Salguero.psv ->> C.EXT.S ME/1-SO4-:
+Serie_Estacion_Salguero.psv ->> C.EXT.S ME/1-Cl-.:
+Serie_Estancia_Don_Fransisco.psv ->> #
+Serie_Estancia_Don_Fransisco.psv ->> NOMBRE(S)........:
+Serie_Estancia_Don_Fransisco.psv ->> PROFUNDIDADES(CM):
+Serie_Estancia_Don_Fransisco.psv ->> MATERIA ORGÁN.(%):
+Serie_Estancia_Don_Fransisco.psv ->> CARBONO ORGÁN.(%):
+Serie_Estancia_Don_Fransisco.psv ->> NITRÓGENO TOT.(%):
+Serie_Estancia_Don_Fransisco.psv ->> RELACIÓN C/N.....:
+Serie_Estancia_Don_Fransisco.psv ->> ARCILLA 2 (%)....:
+Serie_Estancia_Don_Fransisco.psv ->> LIMO 2-50 (%)....:
+Serie_Estancia_Don_Fransisco.psv ->> AMF 50-100 (%)...:
+Serie_Estancia_Don_Fransisco.psv ->> AF 100-250 (%)...:
+Serie_Estancia_Don_Fransisco.psv ->> AM 250-500 (%)...:
+Serie_Estancia_Don_Fransisco.psv ->> AG 500-1000 (%)..:
+Serie_Estancia_Don_Fransisco.psv ->> AMG 1-2 mm (%)...:
+Serie_Estancia_Don_Fransisco.psv ->> CALCAREO CaCO3(%):
+Serie_Estancia_Don_Fransisco.psv ->> EQUIV. HUMEDAD(%):
+Serie_Estancia_Don_Fransisco.psv ->> PH PASTA.........:
+Serie_Estancia_Don_Fransisco.psv ->> PH H2O 1:2,5.....:
+Serie_Estancia_Don_Fransisco.psv ->> CI ME/100G-Mg ++.:
+Serie_Estancia_Don_Fransisco.psv ->> CI ME/100G-Na +..:
+Serie_Estancia_Don_Fransisco.psv ->> CI ME/100G-K +...:
+Serie_Estancia_Don_Fransisco.psv ->> CI ME/100G-H +...:
+Serie_Estancia_Don_Fransisco.psv ->> SUM.B. ME/100G(S):
+Serie_Estancia_Don_Fransisco.psv ->> CIC ME/100G(T)...:
+Serie_Estancia_Don_Fransisco.psv ->> SAT.B % (S/T)....:
+Serie_Estancia_La_Alicia.psv ->> #
+Serie_Estancia_La_Alicia.psv ->> NOMBRE(S)........:
+Serie_Estancia_La_Alicia.psv ->> PROFUNDIDADES(CM):
+Serie_Estancia_La_Alicia.psv ->> MATERIA ORGÁN.(%):
+Serie_Estancia_La_Alicia.psv ->> CARBONO ORGÁN.(%):
+Serie_Estancia_La_Alicia.psv ->> NITRÓGENO TOT.(%):
+Serie_Estancia_La_Alicia.psv ->> RELACIÓN C/N.....:
+Serie_Estancia_La_Alicia.psv ->> ARCILLA 2 (%)....:
+Serie_Estancia_La_Alicia.psv ->> LIMO 2-50 (%)....:
+Serie_Estancia_La_Alicia.psv ->> AMF 50-100 (%)...:
+Serie_Estancia_La_Alicia.psv ->> AF 100-250 (%)...:
+Serie_Estancia_La_Alicia.psv ->> AM 250-500 (%)...:
+Serie_Estancia_La_Alicia.psv ->> AG 500-1000 (%)..:
+Serie_Estancia_La_Alicia.psv ->> AMG 1-2 mm (%)...:
+Serie_Estancia_La_Alicia.psv ->> CALCAREO CaCO3(%):
+Serie_Estancia_La_Alicia.psv ->> EQUIV. HUMEDAD(%):
+Serie_Estancia_La_Alicia.psv ->> PH PASTA.........:
+Serie_Estancia_La_Alicia.psv ->> PH H2O 1:2,5.....:
+Serie_Estancia_La_Alicia.psv ->> CI ME/100G-Mg ++.:
+Serie_Estancia_La_Alicia.psv ->> CI ME/100G-Na +..:
+Serie_Estancia_La_Alicia.psv ->> CI ME/100G-K +...:
+Serie_Estancia_La_Alicia.psv ->> CI ME/100G-H +...:
+Serie_Estancia_La_Alicia.psv ->> Na+ % DEL VALOR T:
+Serie_Estancia_La_Alicia.psv ->> CONDUCT mmhos/cm.:
+Serie_Estancia_La_Alicia.psv ->> SUM.B. ME/100G(S):
+Serie_Estancia_La_Alicia.psv ->> CIC ME/100G(T)...:
+Serie_Estancia_La_Alicia.psv ->> SAT.B % (S/T)....:
+Serie_Estancia_La_Emilia.psv ->> #
+Serie_Estancia_La_Emilia.psv ->> NOMBRE(S)........:
+Serie_Estancia_La_Emilia.psv ->> PROFUNDIDADES(CM):
+Serie_Estancia_La_Emilia.psv ->> MATERIA ORGÁN.(%):
+Serie_Estancia_La_Emilia.psv ->> CARBONO ORGÁN.(%):
+Serie_Estancia_La_Emilia.psv ->> NITRÓGENO TOT.(%):
+Serie_Estancia_La_Emilia.psv ->> RELACIÓN C/N.....:
+Serie_Estancia_La_Emilia.psv ->> ARCILLA 2 (%)....:
+Serie_Estancia_La_Emilia.psv ->> LIMO 2-50 (%)....:
+Serie_Estancia_La_Emilia.psv ->> AMF 50-100 (%)...:
+Serie_Estancia_La_Emilia.psv ->> AF 100-250 (%)...:
+Serie_Estancia_La_Emilia.psv ->> AM 250-500 (%)...:
+Serie_Estancia_La_Emilia.psv ->> AG 500-1000 (%)..:
+Serie_Estancia_La_Emilia.psv ->> AMG 1-2 mm (%)...:
+Serie_Estancia_La_Emilia.psv ->> CALCAREO CaCO3(%):
+Serie_Estancia_La_Emilia.psv ->> EQUIV. HUMEDAD(%):
+Serie_Estancia_La_Emilia.psv ->> PH PASTA.........:
+Serie_Estancia_La_Emilia.psv ->> PH H2O 1:2,5.....:
+Serie_Estancia_La_Emilia.psv ->> CI ME/100G-Mg ++.:
+Serie_Estancia_La_Emilia.psv ->> CI ME/100G-Na +..:
+Serie_Estancia_La_Emilia.psv ->> CI ME/100G-K +...:
+Serie_Estancia_La_Emilia.psv ->> CI ME/100G-H +...:
+Serie_Estancia_La_Emilia.psv ->> Na+ % DEL VALOR T:
+Serie_Estancia_La_Emilia.psv ->> CONDUCT mmhos/cm.:
+Serie_Estancia_La_Emilia.psv ->> SUM.B. ME/100G(S):
+Serie_Estancia_La_Emilia.psv ->> CIC ME/100G(T)...:
+Serie_Estancia_La_Emilia.psv ->> SAT.B % (S/T)....:
+Serie_Estancia_Las_Mercedes.psv ->> #
+Serie_Estancia_Las_Mercedes.psv ->> NOMBRE(S)........:
+Serie_Estancia_Las_Mercedes.psv ->> PROFUNDIDADES(CM):
+Serie_Estancia_Las_Mercedes.psv ->> MATERIA ORGÁN.(%):
+Serie_Estancia_Las_Mercedes.psv ->> CARBONO ORGÁN.(%):
+Serie_Estancia_Las_Mercedes.psv ->> NITRÓGENO TOT.(%):
+Serie_Estancia_Las_Mercedes.psv ->> RELACIÓN C/N.....:
+Serie_Estancia_Las_Mercedes.psv ->> ARCILLA 2 (%)....:
+Serie_Estancia_Las_Mercedes.psv ->> LIMO 2-50 (%)....:
+Serie_Estancia_Las_Mercedes.psv ->> AMF 50-100 (%)...:
+Serie_Estancia_Las_Mercedes.psv ->> AF 100-250 (%)...:
+Serie_Estancia_Las_Mercedes.psv ->> AM 250-500 (%)...:
+Serie_Estancia_Las_Mercedes.psv ->> AG 500-1000 (%)..:
+Serie_Estancia_Las_Mercedes.psv ->> AMG 1-2 mm (%)...:
+Serie_Estancia_Las_Mercedes.psv ->> CALCAREO CaCO3(%):
+Serie_Estancia_Las_Mercedes.psv ->> EQUIV. HUMEDAD(%):
+Serie_Estancia_Las_Mercedes.psv ->> PH PASTA.........:
+Serie_Estancia_Las_Mercedes.psv ->> PH H2O 1:2,5.....:
+Serie_Estancia_Las_Mercedes.psv ->> CI ME/100G-Mg ++.:
+Serie_Estancia_Las_Mercedes.psv ->> CI ME/100G-Na +..:
+Serie_Estancia_Las_Mercedes.psv ->> CI ME/100G-K +...:
+Serie_Estancia_Las_Mercedes.psv ->> CI ME/100G-H +...:
+Serie_Estancia_Las_Mercedes.psv ->> SUM.B. ME/100G(S):
+Serie_Estancia_Las_Mercedes.psv ->> CIC ME/100G(T)...:
+Serie_Estancia_Las_Mercedes.psv ->> SAT.B % (S/T)....:
+Serie_General_Deheza.psv ->> #
+Serie_General_Deheza.psv ->> NOMBRE(S)........:
+Serie_General_Deheza.psv ->> PROFUNDIDADES(CM):
+Serie_General_Deheza.psv ->> MATERIA ORGÁN.(%):
+Serie_General_Deheza.psv ->> CARBONO ORGÁN.(%):
+Serie_General_Deheza.psv ->> NITRÓGENO TOT.(%):
+Serie_General_Deheza.psv ->> RELACIÓN C/N.....:
+Serie_General_Deheza.psv ->> ARCILLA 2 (%)....:
+Serie_General_Deheza.psv ->> LIMO 2-50 (%)....:
+Serie_General_Deheza.psv ->> AMF 50-100 (%)...:
+Serie_General_Deheza.psv ->> AF 100-250 (%)...:
+Serie_General_Deheza.psv ->> AM 250-500 (%)...:
+Serie_General_Deheza.psv ->> AG 500-1000 (%)..:
+Serie_General_Deheza.psv ->> AMG 1-2 mm (%)...:
+Serie_General_Deheza.psv ->> CALCAREO CaCO3(%):
+Serie_General_Deheza.psv ->> EQUIV. HUMEDAD(%):
+Serie_General_Deheza.psv ->> PH PASTA.........:
+Serie_General_Deheza.psv ->> PH H2O 1:2,5.....:
+Serie_General_Deheza.psv ->> CI ME/100G-Mg ++.:
+Serie_General_Deheza.psv ->> CI ME/100G-Na +..:
+Serie_General_Deheza.psv ->> CI ME/100G-K +...:
+Serie_General_Deheza.psv ->> CI ME/100G-H +...:
+Serie_General_Deheza.psv ->> CONDUCT mmhos/cm.:
+Serie_General_Deheza.psv ->> SUM.B. ME/100G(S):
+Serie_General_Deheza.psv ->> CIC ME/100G(T)...:
+Serie_General_Deheza.psv ->> SAT.B % (S/T)....:
+Serie_Laboulaye.psv ->> #
+Serie_Laboulaye.psv ->> NOMBRE(S)........:
+Serie_Laboulaye.psv ->> PROFUNDIDADES(CM):
+Serie_Laboulaye.psv ->> MATERIA ORGÁN.(%):
+Serie_Laboulaye.psv ->> CARBONO ORGÁN.(%):
+Serie_Laboulaye.psv ->> NITRÓGENO TOT.(%):
+Serie_Laboulaye.psv ->> RELACIÓN C/N.....:
+Serie_Laboulaye.psv ->> ARCILLA 2 (%)....:
+Serie_Laboulaye.psv ->> LIMO 2-50 (%)....:
+Serie_Laboulaye.psv ->> AMF 50-100 (%)...:
+Serie_Laboulaye.psv ->> AF 100-250 (%)...:
+Serie_Laboulaye.psv ->> AM 250-500 (%)...:
+Serie_Laboulaye.psv ->> AG 500-1000 (%)..:
+Serie_Laboulaye.psv ->> AMG 1-2 mm (%)...:
+Serie_Laboulaye.psv ->> CALCAREO CaCO3(%):
+Serie_Laboulaye.psv ->> EQUIV. HUMEDAD(%):
+Serie_Laboulaye.psv ->> PH PASTA.........:
+Serie_Laboulaye.psv ->> PH H2O 1:2,5.....:
+Serie_Laboulaye.psv ->> CI ME/100G-Mg ++.:
+Serie_Laboulaye.psv ->> CI ME/100G-Na +..:
+Serie_Laboulaye.psv ->> CI ME/100G-K +...:
+Serie_Laboulaye.psv ->> CI ME/100G-H +...:
+Serie_Laboulaye.psv ->> Na+ % DEL VALOR T:
+Serie_Laboulaye.psv ->> SUM.B. ME/100G(S):
+Serie_Laboulaye.psv ->> CIC ME/100G(T)...:
+Serie_Laboulaye.psv ->> SAT.B % (S/T)....:
+Serie_La_Carlota.psv ->> #
+Serie_La_Carlota.psv ->> NOMBRE(S)........:
+Serie_La_Carlota.psv ->> PROFUNDIDADES(CM):
+Serie_La_Carlota.psv ->> MATERIA ORGÁN.(%):
+Serie_La_Carlota.psv ->> CARBONO ORGÁN.(%):
+Serie_La_Carlota.psv ->> NITRÓGENO TOT.(%):
+Serie_La_Carlota.psv ->> RELACIÓN C/N.....:
+Serie_La_Carlota.psv ->> ARCILLA 2 (%)....:
+Serie_La_Carlota.psv ->> LIMO 2-50 (%)....:
+Serie_La_Carlota.psv ->> AMF 50-100 (%)...:
+Serie_La_Carlota.psv ->> AF 100-250 (%)...:
+Serie_La_Carlota.psv ->> AM 250-500 (%)...:
+Serie_La_Carlota.psv ->> AG 500-1000 (%)..:
+Serie_La_Carlota.psv ->> AMG 1-2 mm (%)...:
+Serie_La_Carlota.psv ->> CALCAREO CaCO3(%):
+Serie_La_Carlota.psv ->> EQUIV. HUMEDAD(%):
+Serie_La_Carlota.psv ->> PH PASTA.........:
+Serie_La_Carlota.psv ->> PH H2O 1:2,5.....:
+Serie_La_Carlota.psv ->> CI ME/100G-Mg ++.:
+Serie_La_Carlota.psv ->> CI ME/100G-Na +..:
+Serie_La_Carlota.psv ->> CI ME/100G-K +...:
+Serie_La_Carlota.psv ->> CI ME/100G-H +...:
+Serie_La_Carlota.psv ->> Na+ % DEL VALOR T:
+Serie_La_Carlota.psv ->> SUM.B. ME/100G(S):
+Serie_La_Carlota.psv ->> CIC ME/100G(T)...:
+Serie_La_Carlota.psv ->> SAT.B % (S/T)....:
+Serie_Las_Marinas.psv ->> #
+Serie_Las_Marinas.psv ->> NOMBRE(S)........:
+Serie_Las_Marinas.psv ->> PROFUNDIDADES(CM):
+Serie_Las_Marinas.psv ->> MATERIA ORGÁN.(%):
+Serie_Las_Marinas.psv ->> CARBONO ORGÁN.(%):
+Serie_Las_Marinas.psv ->> NITRÓGENO TOT.(%):
+Serie_Las_Marinas.psv ->> RELACIÓN C/N.....:
+Serie_Las_Marinas.psv ->> ARCILLA 2 (%)....:
+Serie_Las_Marinas.psv ->> LIMO 2-50 (%)....:
+Serie_Las_Marinas.psv ->> AMF 50-100 (%)...:
+Serie_Las_Marinas.psv ->> AF 100-250 (%)...:
+Serie_Las_Marinas.psv ->> AM 250-500 (%)...:
+Serie_Las_Marinas.psv ->> AG 500-1000 (%)..:
+Serie_Las_Marinas.psv ->> AMG 1-2 mm (%)...:
+Serie_Las_Marinas.psv ->> CALCAREO CaCO3(%):
+Serie_Las_Marinas.psv ->> EQUIV. HUMEDAD(%):
+Serie_Las_Marinas.psv ->> PH PASTA.........:
+Serie_Las_Marinas.psv ->> PH H2O 1:2,5.....:
+Serie_Las_Marinas.psv ->> CI ME/100G-Mg ++.:
+Serie_Las_Marinas.psv ->> CI ME/100G-Na +..:
+Serie_Las_Marinas.psv ->> CI ME/100G-K +...:
+Serie_Las_Marinas.psv ->> CI ME/100G-H +...:
+Serie_Las_Marinas.psv ->> Na+ % DEL VALOR T:
+Serie_Las_Marinas.psv ->> SUM.B. ME/100G(S):
+Serie_Las_Marinas.psv ->> CIC ME/100G(T)...:
+Serie_Las_Marinas.psv ->> SAT.B % (S/T)....:
+Serie_Leguizamon.psv ->> #
+Serie_Leguizamon.psv ->> NOMBRE(S)........:
+Serie_Leguizamon.psv ->> PROFUNDIDADES(CM):
+Serie_Leguizamon.psv ->> MATERIA ORGÁN.(%):
+Serie_Leguizamon.psv ->> CARBONO ORGÁN.(%):
+Serie_Leguizamon.psv ->> NITRÓGENO TOT.(%):
+Serie_Leguizamon.psv ->> RELACIÓN C/N.....:
+Serie_Leguizamon.psv ->> ARCILLA 2 (%)....:
+Serie_Leguizamon.psv ->> LIMO 2-50 (%)....:
+Serie_Leguizamon.psv ->> AMF 50-100 (%)...:
+Serie_Leguizamon.psv ->> AF 100-250 (%)...:
+Serie_Leguizamon.psv ->> AM 250-500 (%)...:
+Serie_Leguizamon.psv ->> AG 500-1000 (%)..:
+Serie_Leguizamon.psv ->> AMG 1-2 mm (%)...:
+Serie_Leguizamon.psv ->> CALCAREO CaCO3(%):
+Serie_Leguizamon.psv ->> EQUIV. HUMEDAD(%):
+Serie_Leguizamon.psv ->> PH PASTA.........:
+Serie_Leguizamon.psv ->> PH H2O 1:2,5.....:
+Serie_Leguizamon.psv ->> CI ME/100G-Mg ++.:
+Serie_Leguizamon.psv ->> CI ME/100G-Na +..:
+Serie_Leguizamon.psv ->> CI ME/100G-K +...:
+Serie_Leguizamon.psv ->> CI ME/100G-H +...:
+Serie_Leguizamon.psv ->> Na+ % DEL VALOR T:
+Serie_Leguizamon.psv ->> SUM.B. ME/100G(S):
+Serie_Leguizamon.psv ->> CIC ME/100G(T)...:
+Serie_Leguizamon.psv ->> SAT.B % (S/T)....:
+Serie_Los_Medanitos.psv ->> #
+Serie_Los_Medanitos.psv ->> NOMBRE(S)........:
+Serie_Los_Medanitos.psv ->> PROFUNDIDADES(CM):
+Serie_Los_Medanitos.psv ->> MATERIA ORGÁN.(%):
+Serie_Los_Medanitos.psv ->> CARBONO ORGÁN.(%):
+Serie_Los_Medanitos.psv ->> NITRÓGENO TOT.(%):
+Serie_Los_Medanitos.psv ->> RELACIÓN C/N.....:
+Serie_Los_Medanitos.psv ->> ARCILLA 2 (%)....:
+Serie_Los_Medanitos.psv ->> LIMO 2-50 (%)....:
+Serie_Los_Medanitos.psv ->> AMF 50-100 (%)...:
+Serie_Los_Medanitos.psv ->> AF 100-250 (%)...:
+Serie_Los_Medanitos.psv ->> AM 250-500 (%)...:
+Serie_Los_Medanitos.psv ->> AG 500-1000 (%)..:
+Serie_Los_Medanitos.psv ->> AMG 1-2 mm (%)...:
+Serie_Los_Medanitos.psv ->> CALCAREO CaCO3(%):
+Serie_Los_Medanitos.psv ->> EQUIV. HUMEDAD(%):
+Serie_Los_Medanitos.psv ->> PH PASTA.........:
+Serie_Los_Medanitos.psv ->> PH H2O 1:2,5.....:
+Serie_Los_Medanitos.psv ->> CI ME/100G-Mg ++.:
+Serie_Los_Medanitos.psv ->> CI ME/100G-Na +..:
+Serie_Los_Medanitos.psv ->> CI ME/100G-K +...:
+Serie_Los_Medanitos.psv ->> CI ME/100G-H +...:
+Serie_Los_Medanitos.psv ->> Na+ % DEL VALOR T:
+Serie_Los_Medanitos.psv ->> SUM.B. ME/100G(S):
+Serie_Los_Medanitos.psv ->> CIC ME/100G(T)...:
+Serie_Los_Medanitos.psv ->> SAT.B % (S/T)....:
+Serie_Los_Olmos.psv ->> #
+Serie_Los_Olmos.psv ->> NOMBRE(S)........:
+Serie_Los_Olmos.psv ->> PROFUNDIDADES(CM):
+Serie_Los_Olmos.psv ->> MATERIA ORGÁN.(%):
+Serie_Los_Olmos.psv ->> CARBONO ORGÁN.(%):
+Serie_Los_Olmos.psv ->> NITRÓGENO TOT.(%):
+Serie_Los_Olmos.psv ->> RELACIÓN C/N.....:
+Serie_Los_Olmos.psv ->> ARCILLA 2 (%)....:
+Serie_Los_Olmos.psv ->> LIMO 2-50 (%)....:
+Serie_Los_Olmos.psv ->> AMF 50-100 (%)...:
+Serie_Los_Olmos.psv ->> AF 100-250 (%)...:
+Serie_Los_Olmos.psv ->> AM 250-500 (%)...:
+Serie_Los_Olmos.psv ->> AG 500-1000 (%)..:
+Serie_Los_Olmos.psv ->> AMG 1-2 mm (%)...:
+Serie_Los_Olmos.psv ->> CALCAREO CaCO3(%):
+Serie_Los_Olmos.psv ->> EQUIV. HUMEDAD(%):
+Serie_Los_Olmos.psv ->> PH PASTA.........:
+Serie_Los_Olmos.psv ->> PH H2O 1:2,5.....:
+Serie_Los_Olmos.psv ->> CI ME/100G-Mg ++.:
+Serie_Los_Olmos.psv ->> CI ME/100G-Na +..:
+Serie_Los_Olmos.psv ->> CI ME/100G-K +...:
+Serie_Los_Olmos.psv ->> CI ME/100G-H +...:
+Serie_Los_Olmos.psv ->> Na+ % DEL VALOR T:
+Serie_Los_Olmos.psv ->> SUM.B. ME/100G(S):
+Serie_Los_Olmos.psv ->> CIC ME/100G(T)...:
+Serie_Los_Olmos.psv ->> SAT.B % (S/T)....:
+Serie_Manantiales.psv ->> #
+Serie_Manantiales.psv ->> NOMBRE(S)........:
+Serie_Manantiales.psv ->> PROFUNDIDADES(CM):
+Serie_Manantiales.psv ->> MATERIA ORGÁN.(%):
+Serie_Manantiales.psv ->> CARBONO ORGÁN.(%):
+Serie_Manantiales.psv ->> NITRÓGENO TOT.(%):
+Serie_Manantiales.psv ->> RELACIÓN C/N.....:
+Serie_Manantiales.psv ->> ARCILLA 2 (%)....:
+Serie_Manantiales.psv ->> LIMO 2-50 (%)....:
+Serie_Manantiales.psv ->> AMF 50-100 (%)...:
+Serie_Manantiales.psv ->> AF 100-250 (%)...:
+Serie_Manantiales.psv ->> AM 250-500 (%)...:
+Serie_Manantiales.psv ->> AG 500-1000 (%)..:
+Serie_Manantiales.psv ->> AMG 1-2 mm (%)...:
+Serie_Manantiales.psv ->> CALCAREO CaCO3(%):
+Serie_Manantiales.psv ->> EQUIV. HUMEDAD(%):
+Serie_Manantiales.psv ->> PH PASTA.........:
+Serie_Manantiales.psv ->> PH H2O 1:2,5.....:
+Serie_Manantiales.psv ->> PROFUNDIDADES(CM):
+Serie_Manantiales.psv ->> CI ME/100G-Mg ++.:
+Serie_Manantiales.psv ->> CI ME/100G-Na +..:
+Serie_Manantiales.psv ->> CI ME/100G-K +...:
+Serie_Manantiales.psv ->> CI ME/100G-H +...:
+Serie_Manantiales.psv ->> Na+ % DEL VALOR T:
+Serie_Manantiales.psv ->> SUM.B. ME/100G(S):
+Serie_Manantiales.psv ->> CIC ME/100G(T)...:
+Serie_Manantiales.psv ->> SAT.B % (S/T)....:
+Serie_Monte_de_los_Gauchos.psv ->> #
+Serie_Monte_de_los_Gauchos.psv ->> NOMBRE(S)........:
+Serie_Monte_de_los_Gauchos.psv ->> PROFUNDIDADES(CM):
+Serie_Monte_de_los_Gauchos.psv ->> MATERIA ORGÁN.(%):
+Serie_Monte_de_los_Gauchos.psv ->> CARBONO ORGÁN.(%):
+Serie_Monte_de_los_Gauchos.psv ->> NITRÓGENO TOT.(%):
+Serie_Monte_de_los_Gauchos.psv ->> RELACIÓN C/N.....:
+Serie_Monte_de_los_Gauchos.psv ->> ARCILLA 2 (%)....:
+Serie_Monte_de_los_Gauchos.psv ->> LIMO 2-50 (%)....:
+Serie_Monte_de_los_Gauchos.psv ->> AMF 50-100 (%)...:
+Serie_Monte_de_los_Gauchos.psv ->> AF 100-250 (%)...:
+Serie_Monte_de_los_Gauchos.psv ->> AM 250-500 (%)...:
+Serie_Monte_de_los_Gauchos.psv ->> AG 500-1000 (%)..:
+Serie_Monte_de_los_Gauchos.psv ->> AMG 1-2 mm (%)...:
+Serie_Monte_de_los_Gauchos.psv ->> CALCAREO CaCO3(%):
+Serie_Monte_de_los_Gauchos.psv ->> EQUIV. HUMEDAD(%):
+Serie_Monte_de_los_Gauchos.psv ->> PH PASTA.........:
+Serie_Monte_de_los_Gauchos.psv ->> PH H2O 1:2,5.....:
+Serie_Monte_de_los_Gauchos.psv ->> CI ME/100G-Mg ++.:
+Serie_Monte_de_los_Gauchos.psv ->> CI ME/100G-Na +..:
+Serie_Monte_de_los_Gauchos.psv ->> CI ME/100G-K +...:
+Serie_Monte_de_los_Gauchos.psv ->> CI ME/100G-H +...:
+Serie_Monte_de_los_Gauchos.psv ->> Na+ % DEL VALOR T:
+Serie_Monte_de_los_Gauchos.psv ->> SUM.B. ME/100G(S):
+Serie_Monte_de_los_Gauchos.psv ->> CIC ME/100G(T)...:
+Serie_Monte_de_los_Gauchos.psv ->> SAT.B % (S/T)....:
+Serie_Olaeta.psv ->> #
+Serie_Olaeta.psv ->> NOMBRE(S)........:
+Serie_Olaeta.psv ->> PROFUNDIDADES(CM):
+Serie_Olaeta.psv ->> MATERIA ORGÁN.(%):
+Serie_Olaeta.psv ->> CARBONO ORGÁN.(%):
+Serie_Olaeta.psv ->> NITRÓGENO TOT.(%):
+Serie_Olaeta.psv ->> RELACIÓN C/N.....:
+Serie_Olaeta.psv ->> ARCILLA 2 (%)....:
+Serie_Olaeta.psv ->> LIMO 2-50 (%)....:
+Serie_Olaeta.psv ->> AMF 50-100 (%)...:
+Serie_Olaeta.psv ->> AF 100-250 (%)...:
+Serie_Olaeta.psv ->> AM 250-500 (%)...:
+Serie_Olaeta.psv ->> AG 500-1000 (%)..:
+Serie_Olaeta.psv ->> AMG 1-2 mm (%)...:
+Serie_Olaeta.psv ->> CALCAREO CaCO3(%):
+Serie_Olaeta.psv ->> EQUIV. HUMEDAD(%):
+Serie_Olaeta.psv ->> PH PASTA.........:
+Serie_Olaeta.psv ->> PH H2O 1:2,5.....:
+Serie_Olaeta.psv ->> CI ME/100G-Mg ++.:
+Serie_Olaeta.psv ->> CI ME/100G-Na +..:
+Serie_Olaeta.psv ->> CI ME/100G-K +...:
+Serie_Olaeta.psv ->> CI ME/100G-H +...:
+Serie_Olaeta.psv ->> Na+ % DEL VALOR T:
+Serie_Olaeta.psv ->> SUM.B. ME/100G(S):
+Serie_Olaeta.psv ->> CIC ME/100G(T)...:
+Serie_Olaeta.psv ->> SAT.B % (S/T)....:
+Serie_Rosales.psv ->> #
+Serie_Rosales.psv ->> NOMBRE(S)........:
+Serie_Rosales.psv ->> PROFUNDIDADES(CM):
+Serie_Rosales.psv ->> MATERIA ORGÁN.(%):
+Serie_Rosales.psv ->> CARBONO ORGÁN.(%):
+Serie_Rosales.psv ->> NITRÓGENO TOT.(%):
+Serie_Rosales.psv ->> RELACIÓN C/N.....:
+Serie_Rosales.psv ->> ARCILLA 2 (%)....:
+Serie_Rosales.psv ->> LIMO 2-50 (%)....:
+Serie_Rosales.psv ->> AMF 50-100 (%)...:
+Serie_Rosales.psv ->> AF 100-250 (%)...:
+Serie_Rosales.psv ->> AM 250-500 (%)...:
+Serie_Rosales.psv ->> AG 500-1000 (%)..:
+Serie_Rosales.psv ->> AMG 1-2 mm (%)...:
+Serie_Rosales.psv ->> CALCAREO CaCO3(%):
+Serie_Rosales.psv ->> EQUIV. HUMEDAD(%):
+Serie_Rosales.psv ->> PH PASTA.........:
+Serie_Rosales.psv ->> PH H2O 1:2,5.....:
+Serie_Rosales.psv ->> CI ME/100G-Mg ++.:
+Serie_Rosales.psv ->> CI ME/100G-Na +..:
+Serie_Rosales.psv ->> CI ME/100G-K +...:
+Serie_Rosales.psv ->> CI ME/100G-H +...:
+Serie_Rosales.psv ->> Na+ % DEL VALOR T:
+Serie_Rosales.psv ->> SUM.B. ME/100G(S):
+Serie_Rosales.psv ->> CIC ME/100G(T)...:
+Serie_Rosales.psv ->> SAT.B % (S/T)....:
+Serie_San_Julian.psv ->> #
+Serie_San_Julian.psv ->> NOMBRE(S)........:
+Serie_San_Julian.psv ->> PROFUNDIDADES(CM):
+Serie_San_Julian.psv ->> MATERIA ORGÁN.(%):
+Serie_San_Julian.psv ->> CARBONO ORGÁN.(%):
+Serie_San_Julian.psv ->> NITRÓGENO TOT.(%):
+Serie_San_Julian.psv ->> RELACIÓN C/N.....:
+Serie_San_Julian.psv ->> ARCILLA 2 (%)....:
+Serie_San_Julian.psv ->> LIMO 2-50 (%)....:
+Serie_San_Julian.psv ->> AMF 50-100 (%)...:
+Serie_San_Julian.psv ->> AF 100-250 (%)...:
+Serie_San_Julian.psv ->> AM 250-500 (%)...:
+Serie_San_Julian.psv ->> AG 500-1000 (%)..:
+Serie_San_Julian.psv ->> AMG 1-2 mm (%)...:
+Serie_San_Julian.psv ->> CALCAREO CaCO3(%):
+Serie_San_Julian.psv ->> EQUIV. HUMEDAD(%):
+Serie_San_Julian.psv ->> PH PASTA.........:
+Serie_San_Julian.psv ->> PH H2O 1:2,5.....:
+Serie_San_Julian.psv ->> CI ME/100G-Mg ++.:
+Serie_San_Julian.psv ->> CI ME/100G-Na +..:
+Serie_San_Julian.psv ->> CI ME/100G-K +...:
+Serie_San_Julian.psv ->> CI ME/100G-H +...:
+Serie_San_Julian.psv ->> Na+ % DEL VALOR T:
+Serie_San_Julian.psv ->> SUM.B. ME/100G(S):
+Serie_San_Julian.psv ->> CIC ME/100G(T)...:
+Serie_San_Julian.psv ->> SAT.B % (S/T)....:
+Serie_Santa_Eufemia.psv ->> #
+Serie_Santa_Eufemia.psv ->> NOMBRE(S)........:
+Serie_Santa_Eufemia.psv ->> PROFUNDIDADES(CM):
+Serie_Santa_Eufemia.psv ->> MATERIA ORGÁN.(%):
+Serie_Santa_Eufemia.psv ->> CARBONO ORGÁN.(%):
+Serie_Santa_Eufemia.psv ->> NITRÓGENO TOT.(%):
+Serie_Santa_Eufemia.psv ->> RELACIÓN C/N.....:
+Serie_Santa_Eufemia.psv ->> ARCILLA 2 (%)....:
+Serie_Santa_Eufemia.psv ->> LIMO 2-50 (%)....:
+Serie_Santa_Eufemia.psv ->> AMF 50-100 (%)...:
+Serie_Santa_Eufemia.psv ->> AF 100-250 (%)...:
+Serie_Santa_Eufemia.psv ->> AM 250-500 (%)...:
+Serie_Santa_Eufemia.psv ->> AG 500-1000 (%)..:
+Serie_Santa_Eufemia.psv ->> AMG 1-2 mm (%)...:
+Serie_Santa_Eufemia.psv ->> CALCAREO CaCO3(%):
+Serie_Santa_Eufemia.psv ->> EQUIV. HUMEDAD(%):
+Serie_Santa_Eufemia.psv ->> PH PASTA.........:
+Serie_Santa_Eufemia.psv ->> PH H2O 1:2,5.....:
+Serie_Santa_Eufemia.psv ->> CI ME/100G-Mg ++.:
+Serie_Santa_Eufemia.psv ->> CI ME/100G-Na +..:
+Serie_Santa_Eufemia.psv ->> CI ME/100G-K +...:
+Serie_Santa_Eufemia.psv ->> CI ME/100G-H +...:
+Serie_Santa_Eufemia.psv ->> Na+ % DEL VALOR T:
+Serie_Santa_Eufemia.psv ->> CONDUCT mmhos/cm.:
+Serie_Santa_Eufemia.psv ->> SUM.B. ME/100G(S):
+Serie_Santa_Eufemia.psv ->> CIC ME/100G(T)...:
+Serie_Santa_Eufemia.psv ->> SAT.B % (S/T)....:
+Serie_Santa_Eufemia.psv ->> CI ME/100G-Mg ++.:
+Serie_Santa_Eufemia.psv ->> CI ME/100G-Na +..:
+Serie_Santa_Eufemia.psv ->> CI ME/100G-K +...:
+Serie_Santa_Eufemia.psv ->> C.EX.S ME/1-HCO3-:
+Serie_Santa_Eufemia.psv ->> C.EXT.S ME/1-SO4-:
+Serie_Santa_Eufemia.psv ->> C.EXT.S ME/1-Cl-.:
+Serie_Villa_Rossi.psv ->> #
+Serie_Villa_Rossi.psv ->> NOMBRE(S)........:
+Serie_Villa_Rossi.psv ->> PROFUNDIDADES(CM):
+Serie_Villa_Rossi.psv ->> MATERIA ORGÁN.(%):
+Serie_Villa_Rossi.psv ->> CARBONO ORGÁN.(%):
+Serie_Villa_Rossi.psv ->> NITRÓGENO TOT.(%):
+Serie_Villa_Rossi.psv ->> RELACIÓN C/N.....:
+Serie_Villa_Rossi.psv ->> ARCILLA 2 (%)....:
+Serie_Villa_Rossi.psv ->> LIMO 2-50 (%)....:
+Serie_Villa_Rossi.psv ->> AMF 50-100 (%)...:
+Serie_Villa_Rossi.psv ->> AF 100-250 (%)...:
+Serie_Villa_Rossi.psv ->> AM 250-500 (%)...:
+Serie_Villa_Rossi.psv ->> AG 500-1000 (%)..:
+Serie_Villa_Rossi.psv ->> AMG 1-2 mm (%)...:
+Serie_Villa_Rossi.psv ->> CALCAREO CaCO3(%):
+Serie_Villa_Rossi.psv ->> EQUIV. HUMEDAD(%):
+Serie_Villa_Rossi.psv ->> PH PASTA.........:
+Serie_Villa_Rossi.psv ->> PH H2O 1:2,5.....:
+Serie_Villa_Rossi.psv ->> CI ME/100G-Mg ++.:
+Serie_Villa_Rossi.psv ->> CI ME/100G-Na +..:
+Serie_Villa_Rossi.psv ->> CI ME/100G-K +...:
+Serie_Villa_Rossi.psv ->> CI ME/100G-H +...:
+Serie_Villa_Rossi.psv ->> Na+ % DEL VALOR T:
+Serie_Villa_Rossi.psv ->> SUM.B. ME/100G(S):
+Serie_Villa_Rossi.psv ->> CIC ME/100G(T)...:
+Serie_Villa_Rossi.psv ->> SAT.B % (S/T)....:

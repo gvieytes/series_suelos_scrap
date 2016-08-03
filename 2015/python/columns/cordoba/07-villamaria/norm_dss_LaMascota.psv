@@ -1,0 +1,48 @@
+dss_LaMascota.psv ->> ID..........................: 714
+dss_LaMascota.psv ->> CLASIFICACION...............: Natracualf típico
+dss_LaMascota.psv ->> SERIE.......................: LA MASCOTA (Mscta)
+dss_LaMascota.psv ->> UBICACION...................: 11,5 km al SSO de Alto Alegre, departamento Unión
+dss_LaMascota.psv ->> PROVINCIA...................: CORDOBA
+dss_LaMascota.psv ->> LATITUD.....................: S323600
+dss_LaMascota.psv ->> LONGITUD....................: O625600
+dss_LaMascota.psv ->> ALTITUD.....................: 155
+dss_LaMascota.psv ->> PENDIENTE...................: FALTA!
+dss_LaMascota.psv ->> DRENAJE.....................: FALTA!
+dss_LaMascota.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LaMascota.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LaMascota.psv ->> TIPO DE SUELO...............: FINA, ILLÍTICA, TÉRMICA
+dss_LaMascota.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_LaMascota.psv ->> HORIZONTE->NOMBRE(S)........: e | bt | bc | ck
+dss_LaMascota.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-16 | 16-49 | 49-76 | 76a+
+dss_LaMascota.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.32 | 0.99 | - | 
+dss_LaMascota.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.35 | 0.58 | 0.31 | 0.14
+dss_LaMascota.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.137 | 0.083 | 0.060 | 0.040
+dss_LaMascota.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.8 | 7.0 | 5.2 | 3.5
+dss_LaMascota.psv ->> HORIZONTE->ARCILLA 2 (%)....: 26.3 | 36.1 | 33.6 | 24.9
+dss_LaMascota.psv ->> HORIZONTE->LIMO 2-50 (%)....: 66.0 | 57.0 | 59.3 | 67.7
+dss_LaMascota.psv ->> HORIZONTE->AMF 50-100 (%)...: 6.0 | 4.8 | 6.3 | 7.4
+dss_LaMascota.psv ->> HORIZONTE->AF 100-250 (%)...: 0.9 | 0.6 | 0.5 | 0.6
+dss_LaMascota.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | 
+dss_LaMascota.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | 
+dss_LaMascota.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 
+dss_LaMascota.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0.56
+dss_LaMascota.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 26.7 | 31.2 | 30.7 | 31.9
+dss_LaMascota.psv ->> HORIZONTE->PH PASTA.........: 6.7 | 7.6 | 7.6 | 7.8
+dss_LaMascota.psv ->> HORIZONTE->PH H2O 1:2,5.....: - | - | - | 
+dss_LaMascota.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 15.2 | 16.3 | 14.0 | 
+dss_LaMascota.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.1 | 3.5 | 2.7 | 
+dss_LaMascota.psv ->> HORIZONTE->CI ME/100G-Na +..: 1.4 | 3.9 | 4.4 | 6.2
+dss_LaMascota.psv ->> HORIZONTE->CI ME/100G-K +...: 3 | 4.8 | 4.8 | 1.1
+dss_LaMascota.psv ->> HORIZONTE->CI ME/100G-H +...: 1.60 | - | - | 
+dss_LaMascota.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | 13.9 | 16.4 | 23.8
+dss_LaMascota.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | - | - | 4.44
+dss_LaMascota.psv ->> HORIZONTE->SUM.B. ME/100G(S): 21.7 | 28.5 | 26.9 | 
+dss_LaMascota.psv ->> HORIZONTE->CIC ME/100G(T)...: 22 | 28 | 26.8 | 26
+dss_LaMascota.psv ->> HORIZONTE->SAT.B % (S/T)....: 98.6 | 100 | 100 | 
+dss_LaMascota.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | - | - | 9.1
+dss_LaMascota.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | - | - | 0.6
+dss_LaMascota.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | - | - | 37.0
+dss_LaMascota.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | - | - | 1.95
+dss_LaMascota.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | - | - | 1.5
+dss_LaMascota.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | - | - | 31.0
+dss_LaMascota.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | - | - | 14.0

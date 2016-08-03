@@ -1,0 +1,332 @@
+
+--------------------------------------------------------------------------------
+SERIE ÑANDUBAY							 Símbolo: Ñby
+
+
+Pertenece a la familia "fina, levemente alcalina, térmica" de los Peludertes argiudólicos (vertisol con gilgai lineal, epipedón mólico y un B2 textural).
+Muestra gilgai lineal levemente desarrollado, poco visible en el campo pero sí en la fotografía aérea.
+ 	
+Suelos profundos, con un epipedón mólico algo lixiviado, franco-limoso a franco-arcillo-limoso, con grietas que llegan hasta la base del epipedón. Se han desarrollado sobre limos calcáreos franco arcillo limoso.
+
+
+Perfil tipo: ER7-20C
+Fecha: 24-IV-1981
+Ubicación: Ea. "Puesto de Tabla" (foto 181-48) - Dpto. Federal.
+Reconocedores: L.O. López; C.J. Vesco.
+
+
+A1: 00-11 cm; gris pardo claro (10YR 6.5/2) en seco; gris oscuro a gris muy oscuro (10YR 3.5/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, moderados; friable en húmedo; barnices ("humic skins") escasos, finos; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso escasas, finos; límite claro, suave.
+
+B1: 11-23 cm; pardo grisáceo (10YR 5/2) en seco; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso, estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay humic skins") escasos, finos; concreciones y moteados de hierro-manganeso escasos, finos; límite claro, suave.
+
+B21t: 23-36 cm; gris oscuro (10YR 4/1) en seco; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles a moderados que rompen en bloques angulares irregulares y cuneiformes medios, moderados; barnices ("clay humic skins") abundantes, gruesos; caras de fricción ("slickensides") abundantes, medios, no intersectados; límite claro, abrupto.
+
+B22t: 36-64 cm; gris oscuro (10YR 4/1) en seco; gris a gris muy oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; muy duro en seco, firme en húmedo; barnices ("clay skins") escasos, finos; caras de fricción ("slickensides") abundantes, medios a gruesos; moteados escasos a comunes y finos; concreciones de hierro-manganeso escasas y finas; concreciones de calcio escasas; límite claro, suave.
+
+B31ca: 64-77 cm; pardo muy oscuro (10YR 4/2) en seco; pardo a pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos, finos; caras de fricción ("slickensides") abundantes, finos a medios; moteados de hierro-manganeso escasos, precisos y finos; concreciones de calcio abundantes, carbonatos de calcio en la masa abundantes; límite gradual, suave.
+
+
+B32ca: 77-104 cm; pardo (7.5YR 5/4) en seco; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, moderados con tendencia a prismas compuestos irregulares medios, débiles; barnices ("clay skins") escasos, finos; caras de fricción ("slickensides") escasas, gruesas; moteados comunes, precisos y finos; límite gradual suave.
+
+Cca: 104 cm +; pardo (7.5YR 5/4) en húmedo; franco arcillo-limoso; estructura masiva; caras de fricción ("slickensides") escasas, inherentes al material parental; moteados comunes precisos y medios; concreciones de hierro-manganeso y concreciones de calcio abundantes.
+
+
+Variabilidad de rasgos
+
+El epipedón está compuesto por un A1 + B1, aunque se han descripto perfiles con A11 + A12 prevaleciendo en ambos la lixiviación y la porosidad; los tenores de arcilla oscilan entre 25-35% y están muy bien provistos de materia orgánica alrededor del 7% con muy buena estructura.
+
+El B2t bien desarrollado pero de poco espesor, no supera los 45 cm, con abundantes caras de fricción ("slickensides") generalmente gruesas y medios, no intersectados con tenores de arcilla entre 40-50%.
+
+Las concreciones de calcio, a partir de los 45 cm de profundidad, en poca cantidad; en algunos perfiles se han descripto cristales de sulfato de calcio (yeso) entre 60-70 cm de profundidad.
+
+
+Fases
+
+No posee a este nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Ramblones pero ésta tiene gilgai lineal bien desarrollado y se encuentra en un paisaje más dinámico y a la serie El Rancho en un paisaje con pendientes más suaves y largas.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+	
+La serie Ñandubay presenta erosión hídrica ligera en forma laminar y en sectores cercanos a los arroyos, en forma de surcos y cárcavas más anchas que profundas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Ñandubay
+
+ER7-20C
+
+
+
+
+
+
+
+Nº de registro
+ 3223
+ 3224
+ 3225
+ 3226
+ 3227
+ 3228
+ 3229
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 00-11
+ 13-17
+ 25-33
+ 44-58
+ 66-76
+ 85-100
+ 115-135
+Mat.organica (%)
+ 6.78
+ 3.96
+ 2.06
+ 1.58
+ 0.89
+ 0.62
+ 0.55
+N (%)
+ 0.32
+ 0.17
+ 0.12
+ 0.08
+ 0.05
+ 0.03
+ 0.02
+C/N
+ 12
+ 13
+ 10
+ 11
+ 10
+ 12
+ 16
+
+T < 2 μ
+
+ 26.64
+
+ 33.69
+
+ 49.14
+
+ 52.69
+
+ 42.69
+
+ 38.16
+
+ 38.83
+E 2-20 μ
+ 38.39
+ 35.11
+ 27.70
+ 29.82
+ 28.34
+ 30.22
+ 32.76
+X 2-50 μ
+ 72.81
+ 65.79
+ 50.49
+ 47.08
+ 53.33
+ 61.57
+ 60.92
+T 50-100 μ
+ 0.05
+ 0.03
+ 0.07
+ 0.02
+ 0.02
+ 0.01
+ 0.01
+U 100-250 μ
+ 0.26
+ 0.27
+ 0.18
+ 0.12
+ 3.86
+ 0.13
+ 0.14
+R 250-500 μ
+ 0.22
+ 0.00
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+A 500-1000 μ
+ 0.02
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.1
+
+ 11.0
+
+ 9.0
+
+ 7.0
+pH H2O
+ 5.9
+ 5.6
+ 6.4
+ 7.2
+ 7.8
+ 8.1
+ 8.1
+pH ClK
+ 5.6
+ 5.3
+ 5.9
+ 6.6
+ 7.3
+ 7.4
+ 7.3
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+ 29.26
+
+ 35.02
+ 43.21
+
+ 50.62
+ 45.77
+
+
+ 38.90
+
+
+ 38.78
+ d Ca++
+ 23.66
+ 20.00
+ 32.77
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+C e
+
+
+
+
+
+
+
+Mg++
+ 1.29
+ 2.89
+ 7.40
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+t c
+
+
+
+
+
+
+
+i a K+
+ 0.14
+ 0.07
+ 0.12
+ 0.07
+ 0.32
+ 0.30
+ 0.34
+o m
+
+
+
+
+
+
+
+n b Na+
+ 0.30
+ 0.82
+ 1.72
+ 2.10
+ 2.35
+ 2.25
+ 2.55
+e i
+
+
+
+
+
+
+
+s o H+
+ 3.87
+ 11.30
+ 1.20
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+ 1.03
+ 2.34
+ 3.98
+ 4.15
+ 5.13
+ 5.78
+ 6.58
+
+
+
+
+
+
+
+
+P asimilable (ppm)
+ 5.8
+ 2.7
+ 0.8
+ 1.6
+ 1.0
+ 0.8
+ N.D.
+
+N.D.= No determinado.

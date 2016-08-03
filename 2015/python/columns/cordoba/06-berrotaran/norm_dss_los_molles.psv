@@ -1,0 +1,40 @@
+dss_los_molles.psv ->> ID..........................: 610
+dss_los_molles.psv ->> CLASIFICACION...............: Ustorthent lítico paralítico esquelética
+dss_los_molles.psv ->> SERIE.......................: LOS MOLLES (Mlls)
+dss_los_molles.psv ->> UBICACION...................: 18 Km al NW de Almafuerte, departamento Calamuchita
+dss_los_molles.psv ->> PROVINCIA...................: CORDOBA
+dss_los_molles.psv ->> LATITUD.....................: S320500
+dss_los_molles.psv ->> LONGITUD....................: O642300
+dss_los_molles.psv ->> ALTITUD.....................: 650
+dss_los_molles.psv ->> PENDIENTE...................: FALTA!
+dss_los_molles.psv ->> DRENAJE.....................: FALTA!
+dss_los_molles.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_los_molles.psv ->> PERMEABILIDAD...............: FALTA!
+dss_los_molles.psv ->> TIPO DE SUELO...............: FRANCA GRUESA
+dss_los_molles.psv ->> COLOR ......................: PARDO OSCURO
+dss_los_molles.psv ->> HORIZONTE->NOMBRE(S)........: i | r
+dss_los_molles.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18 | 18a+
+dss_los_molles.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 14.8 | 
+dss_los_molles.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 8.6 | 
+dss_los_molles.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.76 | 
+dss_los_molles.psv ->> HORIZONTE->RELACIÓN C/N.....: 11.3 | 
+dss_los_molles.psv ->> HORIZONTE->ARCILLA 2 (%)....: 8.5 | 
+dss_los_molles.psv ->> HORIZONTE->LIMO 2-50 (%)....: 29.3 | 
+dss_los_molles.psv ->> HORIZONTE->AMF 50-100 (%)...: 14.9 | 
+dss_los_molles.psv ->> HORIZONTE->AF 100-250 (%)...: 17.6 | 
+dss_los_molles.psv ->> HORIZONTE->AM 250-500 (%)...: 12.7 | 
+dss_los_molles.psv ->> HORIZONTE->AG 500-1000 (%)..: 10.4 | 
+dss_los_molles.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 4.5 | 
+dss_los_molles.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 
+dss_los_molles.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 29.7 | 
+dss_los_molles.psv ->> HORIZONTE->PH PASTA.........: 6.5 | 
+dss_los_molles.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.9 | 
+dss_los_molles.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 12.3 | 
+dss_los_molles.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.9 | 
+dss_los_molles.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 
+dss_los_molles.psv ->> HORIZONTE->CI ME/100G-K +...: 0.8 | 
+dss_los_molles.psv ->> HORIZONTE->CI ME/100G-H ++..: 0.5 | 
+dss_los_molles.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | 
+dss_los_molles.psv ->> HORIZONTE->SUM.B. ME/100G(S): 14.4 | 
+dss_los_molles.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.9 | 
+dss_los_molles.psv ->> HORIZONTE->SAT.B % (S/T)....: 96.6 | 

@@ -1,0 +1,172 @@
+--------------------------------------------------------------------------------
+SERIE SANTA ELENA	 						 Símbolo: SE
+Pertenece a la familia "arcillosa fina, mixta, moderadamente alcalina, térmica" de los Ocracualfes típicos (Planosol, alcalino en el subsuelo).
+Son suelos desarrollados sobre materiales limo-loesoides retransportados, franco-arcillo-limosos.
+Imperfectamente drenados, con concreciones ferromanganesíferas en gran parte del perfil, tienen un epipedón somero, con colores claros, muy lixiviado y degradado; franco-limoso a franco-arcillo-limoso; un horizonte argílico arcillo-limoso a franco-arcillo-limoso; concreciones de calcáreo y algunos cristales de yeso a partir de los 35-50 cm.
+Son levemente alcalinos en el horizonte argílico y moderadamente alcalinos y a veces ligeramente salinos, en el B3 y C.
+Perfil tipo: ER2-30 C
+Fecha: 9/IX/1971
+Ubicación: Estancia La Loma (foto 482-10) - Dpto. La Paz
+Reconocedores: C.J.J. Vesco - G.W. van Barneveld
+A2: 00-12 cm; gris muy oscuro (10YR 2. 5/1) en húmedo; gris (10YR 7/1) en seco; franco limoso; estructura en bloques angulares irregulares y subangulares, con tendencia a masiva; extremadamente duro en seco; firme en húmedo; concreciones de hierro-manganeso escasas y muy finas; moteados de hierro-manganeso abundantes, medios, precisos; límite irregular, suave. Horizonte muy lixiviado con partículas de limo, de coloradas y sueltas en la superficie; pisoteo de animales.
+B2t: 12-42 cm; gris muy oscuro (10YR 3/J) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares que rompen en bloques angulares irregulares y agregados ''cuneiformes "medios y finos, moderados; muy duro en seco; firme en húmedo; concreciones calcáreas a partir de los 35 cm, escasas, duras; barnices ("humic y clay humic skins") escasos, finos; caras de fricción ("slickensides") escasas, finas, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado; horizonte con "nidos" (pockets) de material del A2.
+B3ca: 42-95 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares gruesos, débiles; extremadamente duro en seco;"muy firme en húmedo; concreciones calcáreas de hasta 1 cm, comunes; escasos cristales de yeso; caras de fricción ("slickensides") escasas, finas, no intersectadas; vestigios de concreciones de hierro-manganeso; moteados de hierro-manganeso comunes, finos, precisos; límite difuso, suave.
+Cca: 95 cm +; pardo, pardo oscuro (7.5YR 4/4); franco arcillo limoso; estructura en bloques angulares irregulares gruesos débiles; concreciones calcáreas de hasta 3 cm, comunes, duras y blandas; vestigios de cristales de yeso; concreciones de hierro-manganeso escasas, finas; moteados de hierro-manganeso, comunes, finos, precisos; barnices ("clay skins") comunes, finos, inherentes al material.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por la actividad de las hormigas (especies Atta vollenweideri y Acromyrmex lundi) cuya influencia se observa en más del 70% de los perfiles. Las mismas causan un microrrelieve que fácilmente puede ser interpretado como gilgai irregular.
+El epipedón varía de 10 a 15 cm, pero en ciertos lugares pueden observarse algunos algo más cortos o un poco más profundos (7-20 cm). Es muy lixiviado y en la mayoría de los casos puede ser descrito como A2, aunque también a veces como A1 lixiviado. Tiene una estructura débil a masiva en campos con mucho pisoteo y los colores nunca llegan a las exigencias para un epipedón mólico (son igual o más claros que 10YR 3. 5/1). Tiene 20-27% de arcilla y 1. 5-2. 5% de materia orgánica, en parte dispersa y en parte descompuesta. En general es levemente alcalino, con 2-6% de sodio intercambiable.
+El horizonte B2, argílico, generalmente tiene una estructura prismática; pero los prismas muchas veces son muy débiles. Tiene 38-45% de arcilla y normalmente está mejor expresado en su parte inferior. En la superior es común encontrar material del A2 traído por las hormigas. Las concreciones de calcáreo generalmente aparecen entre los 35-50 cm, pero no en pocos casos puede encontrárselos desde la base del epipedón. El horizonte es levemente alcalino con 6-10% de sodio intercambiable; en su parte inferior puede tener algunos cristales de yeso. En seco, se agrieta leve a moderadamente, presentando grietas de 1-2 cm de ancho que pueden llegar a la superficie.
+El B3 tiene un espesor variable y está caracterizado por la presencia de cristales de yeso en distintas cantidades. Es leve a moderadamente alcalino, con 8-15% de sodio intercambiable. Puede ser levemente salino.
+Son suelos desarrollados en materiales franco arcillo limosos con 34-39% de arcilla; moderadamente alcalinos, con aproximadamente 12-25% de sodio intercambiable (el porcentaje encontrado en el perfil es muy alto para la Serie), pueden ser levemente salinos.
+Fases
+Suavemente ondulada
+Series similares y sus diferencias
+Se parece a la Serie San Nicasio que es menos alcalina y más hidromórfica. Otros Planosoles son más vertisólicos (Ocracualfés vérticos).
+Drenaje
+Imperfectamente drenado; encharcamiento después de cada lluvia mayor; escurrimiento superficial nulo a muy lento. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie Santa Elena no está erosionada y no existe peligro en las partes muy planas; pero sí hay un severo riesgo de erosión en cárcavas en las zonas muy suavemente onduladas.
+Vegetación típica
+Monte ralo de espinillo (Acacia caven), aromito (Acacia aroma), quebracho blanco (Aspidosperma quebracho-blanco), chañar (Geoffroea decorticans) y algunos caranday o palma (Trithrinax campestris). Pasturas naturales muy pobres que incluyen variedades como Stipa sp., Cyperaceae, Hordeum pusillum , Chevreulia acuminata, Chaptalia integerrima y Phyla nodiflora.
+DATOS ANALÍTICOS DEL PERFIL TIPO
+Serie Santa Elena
+ER2-30 C
+Nº de registro
+ 530
+ 531
+ 532
+ 533
+Horizonte
+ A2
+ B2t
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-08
+ 25-35
+ 56-70
+ 105-115
+Mat.organica (%)
+ 3.3
+ 1.8
+ 0.5
+ 0.2
+C/N
+ 9
+ 9
+ 7
+ -
+T <2
+ 22.7
+ 41.9
+ 32,3
+ N.D.*
+E 2-20
+ 28.2
+ 27.7
+ 29.2
+ N.D.*
+X 2-50
+ 73.6
+ 55.9
+ 65.5
+ N.D.*
+T 50-100
+ 1.1
+ 0.9
+ 0.9
+ N.D.*
+U 100-250
+ 1.7
+ 0.7
+ 0.8
+ N.D.*
+R 250-500
+ 0.7
+ 0.4
+ 0.3
+ N.D.*
+A 500-1000
+ 0.2
+ 0.2
+ 0.2
+ N.D.*
+CO3Ca (%)
+ 0.0
+ 0.0
+ 6.0
+ 14.2
+pH H2O
+ 6.4
+ 7.9
+ 8.0
+ 8.5
+pH ClK
+ 5.5
+ 6.7
+ 7.1
+ 7.3
+Conductividad(mmhos/cm)
+ -
+ 0.8
+ 4.3
+ 3.1
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ 28.3
+ 51.6
+ 31.9
+ 29.0
+D
+Ca++
+ 21.0
+ 43.0
+ -
+ -
+C
+E
+A
+Mg++
+ 4.4
+ 4.3
+ -
+ -
+T
+C
+I
+A
+K+
+ 0.9
+ 1.0
+ 0.7
+ 1.2
+O
+M
+N
+B
+Na+
+ 1.2
+ 4.3
+ 3.4
+ 7.3
+E
+I
+S
+O
+H+
+ 3.9
+ 0.5
+ -
+ -
+% Na/T
+ 4.2
+ 8.3
+ 10.6
+ 25.1
+SO4Ca (g/%)
+ -
+ -
+ 0.14
+ 0.07
+*No determinado por el elevado porcentaje de carbonatos.

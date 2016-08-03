@@ -1,0 +1,254 @@
+
+--------------------------------------------------------------------------------
+SERIE MALAMBO								 Símbolo: Ma
+
+
+Pertenece a la familia "fina, mixta y térmica" de los Argiudoles ácuicos.
+Son suelos profundos, levemente erosionados y moderadamente bien drenados. Tienen un epipedón oscuro, franco-limoso a franco-arcillo-limoso y un horizonte argílico pardo oscuro, franco-arcillo-limoso a arcillo-limoso, con escasos moteados y calcáreo a 45-70 cm.
+Están desarrollados en loes calcáreo, de textura franco-limosa.
+
+
+Perfil tipo: ER2 - 28C
+Fecha: 8/IX/1971
+Ubicación: Estancia El Malambo (foto 481-4) - Dpto. La Paz
+Reconocedores: C.J.J. Vesco - G.W. van Barneveld
+
+
+Al: 00-10 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-limoso pesado; estructura en bloques subangulares, bloques angulares redondeados y algo de estructura granular, medios, moderados; friable en húmedo; barnices ("humic y clay humic skins") escasos y finos; límite claro, suave.
+
+B21t: 10-23 cm; negro (10YR 2/1) en húmedo; gris oscuro (10YR 4/1) en seco franco-arcillo-limoso; estructura en prismas compuestos irregulares medios moderados que rompen en prismas compuestos irregulares y bloques angulares irregulares con tendencia cuneiforme medios moderados; friable en húmedo; barnices ("clay-humic skins") comunes, finos a medios, caras de fricción ("slickensides") comunes, muy finas e intersectadas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+B22t: 25-50 cm; pardo oscuro (7.5YR 3/2) en húmedo; franco-arcillo-limoso pesado; estructura en prismas compuestos irregulares medios moderados que rompen en prismas compuestos irregulares y bloqueas angulares irregulares con tendencia cuneiforme, medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos a comunes, finos a medios; caras de fricción ("slickensides") comunes, finos, poco intersectados; moteados escasos, finos y débiles; límite gradual, suave.
+
+B3ca: 50-85 cm; pardo oscuro a pardo (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares medios moderados; friable en húmedo; concreciones de calcáreo escasas finas a medias; barnices ("clay-humic skins") escasos y finos, de color pardo grisáceo muy oscuro; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso escasos, finos y débiles; límite difuso, suave.
+
+C: 85 cm +; pardo (7.5YR 5/4) en húmedo; franco-limoso; estructura masiva; friable en húmedo; concreciones de calcáreo escasas y finas.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 80-100 cm. El epipedón mólico incluye los horizontes A1 y B1 y/o parte también del B21t. El espesor del epipedón es de 10-25 cm (variable por la erosión); el espesor correspondiente al perfil descripto como típico es el mínimo para la serie debido a que dicho perfil está moderadamente erosionado. Tiene 22-27 % de arcilla, 65-70 % de limo y hasta 3-4 % da materia orgánica. Su color del A1 varía de 10YR 3/1 a 10YR 3/2, tiene escasos barnices húmicos y está normalmente bien estructurado (en agregados granulares y bloques subangulares).
+El B2t, argílico, tiene un espesor de 40-60 cm y 34-38 % de arcilla con 57- 62 % de limo. El color varía de 10YR 3/1 a 7.5YR 3/2 y tiene estructura prismática que rompe a veces en bloques angulares irregulares con tendencia cuneiforme. Normalmente tiene escasos moteados y escasos a comunes barnices ("clay-humic skins"). Puede tener comunes caras de fricción ("slickensides"), finas a intersectadas.
+El calcáreo aparece a los 45-70 cm, (comúnmente en el horizonte B3) en forma de concreciones duras escasas y finas; los moteados de hierro-manganeso, son escasos y finos, débiles a precisos.
+El color del C varia de 10YR 4/3 a 7.5YR 5/4 y tiene 20-25 % de arcilla y 75-80 % de limo.
+El porcentaje de arena varía de 5 % en el A1, disminuyendo hacia el C con 2,5 %. Los materiales no tienen Na+ intercambiable o pueden raramente alcanzar valores máximos de un 5 %.
+
+
+Fases
+
+Moderadamente erosionada
+Severamente erosionada
+Imperfectamente drenada
+
+
+Drenaje
+
+Moderadamente bien drenado (existe una fase imperfectamente drenada); escurrimiento superficial medio a muy rápido. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Malambo tiene una erosión actual leve en forma laminar y existen fases por erosión moderada y severa, con un epipedón más corto y arcilloso.
+En general, la susceptibilidad a una erosión futura (en surcos y cárcavas) es moderada a severa. La fase severamente erosionada tiene grave riesgo de intensificación de la erosión en cárcavas profundas, por el proceso natural de disectación del paisaje.
+
+
+Vegetación típica
+
+Monte de Montiel; predominan el espinillo (Acacia caven); algarrobo (Prosopis nigra) y tala (Celtis sp.).
+DATOS ANALÍTICOS DEL PERFIL TIPO
+
+Serie Malambo
+
+ER2-28C
+
+
+
+
+
+Nº de registro
+ 517
+ 518
+ 519
+ 520
+ 521
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ C
+Profundidad (cm)
+ 03-10
+ 10-23
+ 27-42
+ 65-70
+ 100-110
+Mat.organica (%)
+ 3.9
+ 2.7
+ 1.8
+ 0.7
+ 0.2
+C/N
+ 11
+ 12
+ 11
+ 9
+ 6
+
+T <2
+ 26.2
+ 34.2
+ 37.9
+ 33.4
+ 21.6
+E 2-20
+ 31.2
+ 23.6
+ 18.2
+ 24.3
+ 28.5
+X 2-50
+ 68.8
+ 61.4
+ 58.6
+ 63.4
+ 76.0
+T 50-100
+ 2.2
+ 2.1
+ 1.9
+ 1.5
+ 1.3
+U 100-250
+ 2.3
+ 1.8
+ 1.2
+ 1.2
+ 0.8
+R 250-500
+ 0.6
+ 0.5
+ 0.4
+ 0.5
+ 0.3
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 1.6
+ 0.3
+pH H2O
+ 6.0
+ 6.7
+ 6.9
+ 7.6
+ 7.7
+pH ClK
+ 5.7
+ 5.7
+ 5.8
+ 6.6
+ 6.5
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 31.2
+ 37.4
+ 37.3
+ 34.3
+ 29.3
+
+D
+Ca++
+ 25.2
+ 30.3
+ 31.7
+ -
+ -
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 2.0
+ 2.3
+ 2.8
+ -
+ -
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 1.4
+ 1.5
+ 1.5
+ 1.3
+ 3.0
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.2
+ 0.2
+ 0.4
+ 0.5
+ 1.0
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 3.4
+ 3.0
+ 2.0
+ -
+ -
+% Na/T
+ 0.6
+ 0.5
+ 1.1
+ 1.5
+ 3.4
+
+Equivalente de humedad (%)
+ 32.2
+ 40.4
+ 41.2
+ 40.4
+ 33.8
+

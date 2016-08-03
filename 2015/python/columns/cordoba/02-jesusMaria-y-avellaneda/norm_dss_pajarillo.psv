@@ -1,0 +1,39 @@
+dss_pajarillo.psv ->> ID..........................: 231
+dss_pajarillo.psv ->> CLASIFICACION...............: Ustorthent paralítico esquelética
+dss_pajarillo.psv ->> SERIE.......................: PAJARILLO (Paj)
+dss_pajarillo.psv ->> UBICACION...................: FALTA!
+dss_pajarillo.psv ->> PROVINCIA...................: CORDOBA
+dss_pajarillo.psv ->> LATITUD.....................: S304600
+dss_pajarillo.psv ->> LONGITUD....................: O642700
+dss_pajarillo.psv ->> ALTITUD.....................: 1300
+dss_pajarillo.psv ->> PENDIENTE...................: FALTA!
+dss_pajarillo.psv ->> DRENAJE.....................: FALTA!
+dss_pajarillo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_pajarillo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_pajarillo.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA MÉSICA
+dss_pajarillo.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_pajarillo.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_pajarillo.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-10
+dss_pajarillo.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 6,2
+dss_pajarillo.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 3,6
+dss_pajarillo.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,33
+dss_pajarillo.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,9
+dss_pajarillo.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14,9
+dss_pajarillo.psv ->> HORIZONTE->LIMO 2-50 (%)....: 17,8
+dss_pajarillo.psv ->> HORIZONTE->AMF 50-100 (%)...: 4,2
+dss_pajarillo.psv ->> HORIZONTE->AF 100-250 (%)...: 11,2
+dss_pajarillo.psv ->> HORIZONTE->AM 250-500 (%)...: 15,1
+dss_pajarillo.psv ->> HORIZONTE->AG 500-1000 (%)..: 23,4
+dss_pajarillo.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 11,6
+dss_pajarillo.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0
+dss_pajarillo.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 20,9
+dss_pajarillo.psv ->> HORIZONTE->PH PASTA.........: -
+dss_pajarillo.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,2
+dss_pajarillo.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 17,8
+dss_pajarillo.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,6
+dss_pajarillo.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2
+dss_pajarillo.psv ->> HORIZONTE->CI ME/100G-K +...: 0,5
+dss_pajarillo.psv ->> HORIZONTE->CI ME/100G-H +...: 0,9
+dss_pajarillo.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20,1
+dss_pajarillo.psv ->> HORIZONTE->CIC ME/100G(T)...: 21,0
+dss_pajarillo.psv ->> HORIZONTE->SAT.B % (S/T)....: 95,7

@@ -1,0 +1,248 @@
+--------------------------------------------------------------------------------
+SERIE PALENQUE							 Símbolo: Pa
+Pertenece a la familia "fina, mixta, y térmica" de los Argiacuoles vérticos.
+Se ubican en pequeños sectores de la terraza alta e intermedia del Arroyo Don Gonzalo y afluentes del mismo. El epipedón, algo engrosado por aportes sedimentarios, es de textura franco-arcillo-limosa a franco-limosa, con un espesor que varía entre 30 y 35 cm. Tiene concreciones y moteados de hierro-manganeso comunes a abundantes.
+Se encuentra siempre lixiviado a tal punto que en la mayoría de los perfiles estudiados se describen horizontes A2, aunque no lo suficientemente claro corno para formar un horizonte Albico.
+Subyace un horizonte Argílico de textura arcillo-limosa y de un espesor que varía entre 50 y 70 cm. con comunes concreciones de hierro-manganeso, abundantes caras de fricción ("slickensides") gruesas e intersectadas y con grietas de más de un centímetro de diámetro que llegan hasta la base del epipedón. Es un horizonte muy denso y poco permeable.
+Perfil tipo: ER1 - 71C
+Fecha: 10/X/1985
+Ubicación: Arroyo Don Gonzalo (foto 473-28) - Dpto. La Paz.
+Reconocedores: C.A. Foti - R.H. Fuentes
+A11: 00-09 cm; gris oscuro (10YR 4/1) en seco; negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios moderados, ligeramente duro en seco, friable en húmedo; barnices ("humic-skins") comunes y finos; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso abundantes, finos y precisos; límite claro suave.
+A12: 09-19 cm; gris oscuro (10YR 4.5/1) en seco; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios débiles; blando en seco; muy friable en húmedo; barnices ("humic-skins") escasos y finos, concreciones de hierro-manganeso comunes y finos, moteados de hierro-manganeso abundantes, finos y sobresalientes, límite claro, suave.
+A2: 19-32 cm; gris (10YR 5/1) en seco; gris muy oscuro (10YR 5/1) en húmedo; franco-limoso, estructura granular y bloques subangulares medio débiles, blando en seco, muy friable en húmedo; barnices ("humic-skins") escasos y finos; concreciones de hierro-manganeso abundantes finas y blandas, moteados de hierro-manganeso abundantes finos y sobresalientes; límite abrupto, ondulado.
+B21t: 32-55 cm; negro (10YR 2.5/1) en húmedo, arcillo-limoso, estructura en prismas compuestos irregulares gruesos moderados que rompen en otros prismas compuestos irregulares medios fuertes; muy duro en seco, muy firme en húmedo; barnices ("clay humic skins") abundantes y gruesos. Caras de fricción ("slickensides") comunes y finos, concreciones de hierro manganeso escasas finas, moteados de hierro manganeso abundantes finos y precisos, límite claro, suave.
+B22t: 55-76 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, arcillo limoso, estructura en prismas compuestos irregulares medios débiles que rompen en bloques angulares irregulares y cuneiformes finos débiles; duro en seco, friable en húmedo; barnices, caras de fricción ("slickensides") abundantes finos, concreciones de hierro manganeso escasas finas, moteados de hierro-manganeso comunes finos y precisos, límite gradual, suave.
+B23: 76-100 cm; gris muy oscuro (10YR 3/1.5) en húmedo, arcillo limoso. Estructura en prismas compuestos irregulares medios débiles que rompen en bloques cuneiformes medios débiles, blando en seco y muy friable en húmedo. Barnices, caras de fricción ("slickensides") comunes finos y gruesos, moteados de hierro manganeso comunes finos y precisos. Límite gradual, suave.
+B31: 100-130 cm; pardo grisáceo muy oscuro (10YR 3.5/2) en húmedo; franco-arcillo-limoso y estructura en bloques cuneiformes medio débiles; blando en seco, muy friable en húmedo; barnices ("slickensides") comunes gruesos; moteados de hierro manganeso, comunes finos y precisos. Límite difuso suave.
+B32: 130 cm +; pardo grisáceo muy oscuro (10YR 3.5/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y cuneiforme medio débiles; blando en seco; muy friable en húmedo; barnices ("slickensides") escasos finos (clay skins) comunes finos; moteados de hierro manganeso comunes finos y precisos.
+Observaciones
+El horizonte C aparece a los 185 cm. de profundidad, color pardo a pardo oscuro (7.5YR 4.5/4) en seco con textura franco-arcillo-limosa y escasos carbonatos en la masa.
+Variabilidad de rasgos
+No se conoce para esta serie.
+Fases
+No se observaron a nivel de reconocimiento
+Drenaje
+Los suelos que caracterizan esta serie son imperfectamente drenados. Son áreas planas que se encharcan después de lluvias moderadas y presentan un escurrimiento lento y baja permeabilidad, así como también, se anegan por desbordes estacionales de dicho arroyo.
+Erosión
+La serie no presenta erosión actual y tampoco susceptibilidad a la misma.
+DATOS ANALÍTICOS DEL PERFIL TIPO
+Serie Palenque
+ER1-71C
+Nº de registro
+ 4454
+ 4455
+ 4456
+ 4457
+ 4458
+ 4459
+ 4460
+ 4461
+Horizonte
+ A11
+ A12
+ A2
+ B21t
+ B22t
+ B23
+ B31
+ B32
+Profundidad (cm)
+ 01-08
+ 11-19
+ 22-30
+ 35-50
+ 55-74
+ 80-90
+ 110-125
+ 130-145
+Mat.organica (%)
+ 6.74
+ 4.33
+ 2.89
+ 1.99
+ 1.38
+ 1.24
+ 0.83
+ 0.62
+C/N
+ 14
+ 14
+ 12
+ 14
+ 12
+ 14
+ 10
+ 11
+T
+E <2
+ 28.32
+ 30.07
+ 25.91
+ 44.13
+ 45.98
+ 42.15
+ 39.01
+ 34.99
+X 2-20
+ 45.58
+ 38.20
+ 45.54
+ 36.20
+ 32.96
+ 33.45
+ 34.08
+ 32.90
+T 2-50
+ 68.38
+ 69.16
+ 70.20
+ 53.89
+ 51.93
+ 55.31
+ 58.07
+ 59.59
+U 50-100
+ 1.381
+ 0.378
+ 1.447
+ 0.631
+ 0.592
+ 0.819
+ 1.214
+ 1.165
+R 100-500
+ 1.838
+ 0.366
+ 2.327
+ 1.270
+ 1.503
+ 1.587
+ 1.587
+ 2.480
+A 500-1000
+ 0.076
+ 0.024
+ 0.120
+ 0.073
+ 0.110
+ 0.114
+ 0.117
+ 1.775
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+pH H2O
+ 5.l
+ 5.2
+ 5.6
+ 6.7
+ 7,0
+ 7.5
+ 7.6
+ 7.7
+pH ClK
+ 5.0
+ 5.0
+ 5.5
+ 6.3
+ 6.9
+ 7.4
+ 7.5
+ 7.4
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+D
+Ca++
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+O
+M
+N
+B
+Na+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+E
+I
+S
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 26.74
+ 25.29
+ 23.75
+ 27.88
+ 31.78
+ 30.41
+ 29.20
+ 27.93

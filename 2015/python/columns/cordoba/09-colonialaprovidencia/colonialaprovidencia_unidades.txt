@@ -1,0 +1,315 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BGd7
+Capacidad de uso: VIws
+Índice de productividad: 15
+Descripción: Complejo de Series
+Series: BENJAMIN GOULD | LOS OLMOS | LOS MEDANITOS | MANANTIALES
+Porcentajes: 30 | 30 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BGd8
+Capacidad de uso: VIIws
+Índice de productividad: 6
+Descripción: Complejo de Series
+Series: BENJAMIN GOULD en fase fuertemente alcalina | SANTA EUFEMIA | Lagunas semipermanentes
+Porcentajes: 35 | 35 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BGd10
+Capacidad de uso: VIIws
+Índice de Productividad: 8
+Descripción: Complejo de Series
+Series: BENJAMIN GOULD en fase muy inundable | OLAETA en fase moderadamente alcalina | SANTA EUFEMIA en fase muy inundable | LOS MEDANITOS en fase inundable y fuertemente alcalina
+Porcentajes: 30 | 20 | 20 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co38
+Capacidad de uso: VIIws
+Índice de productividad: 3
+Descripción: Complejo indeterminado de suelos halo hidromórficos con 50% de bañados
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co43
+Capacidad de uso: VIIws
+Índice de Productividad: 6
+Descripción: Complejo indeterminado de suelos halohidromórficos muy inundables
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Lby2
+Capacidad de uso: IIIsc
+Índice de productividad: 49
+Descripción: Complejo de Series
+Series: LABOULAYE | ESTANCIA LAS MERCEDES | Suelos menores
+Porcentajes: 50 | 40 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Lby5
+Capacidad de uso: IIIsc
+Índice de Productividad: 58
+Descripción: Complejo de Series
+Series: LABOULAYE | LEGUIZAMON | LAS MARINAS
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LCt4
+Capacidad de uso: IVes
+Índice de Productividad: 34
+Descripción: Complejo de Series
+Series: LA CARLOTA en fase ligeramente erosionada por viento | OLAETA en fase ligera a moderadamente erosionada por viento
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LCt6
+Capacidad de uso: IVsc
+Índice de productividad: 34
+Descripción: Complejo de Series
+Series: LA CARLOTA | LA CARLOTA en fase moderadamente alcalina y moderadamente bien drenada | LOS MEDANITOS
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LCt9
+Capacidad de uso: VIes
+Índice de Productividad: 25
+Descripción: Complejo de Series
+Series: LA CARLOTA en fase ligeramente erosionada por viento | OLAETA en fase moderadamente erosionada | ESTANCIA LAS MERCEDES en fase severamente erosionada
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LCt10
+Capacidad de uso: IVec
+Índice de productividad: 16
+Descripción: Complejo de Series
+Series: LA CARLOTA | OLAETA en fase moderadamente erosionada por viento | ESTANCIA DON FRANCISCO | Suelos menores imperfectamente drenados
+Porcentajes: 40 | 30 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LCt11
+Capacidad de uso: IIIsc
+Índice de Productividad: 43
+Descripción: Complejo de Series
+Series: LA CARLOTA | LABOULAYE | LOS MEDANITOS | OLAETA en fase ligeramente erosionada por viento
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LMd6
+Capacidad de uso: VIws
+Índice de Productividad: 29
+Descripción: Complejo de Series
+Series: LOS MEDANITOS | CANALS en fase moderadamente bien drenada | BENJAMIN GOULD | LOS OLMOS
+Porcentajes: 30 | 30 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LMd8
+Capacidad de uso: VIws
+Índice de Productividad: 16
+Descripción: Complejo de Series
+Series: LOS MEDANITOS | MANANTIALES | OLAETA en fase moderadamente alcalina en profundidad
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LMd9
+Capacidad de uso: VIws
+Índice de Productividad: 20
+Descripción: Complejo de Series
+Series: LOS MEDANITOS | BENJAMIN GOULD | MANANTIALES | LA CARLOTA en fase moderadamente alcalina en profundidad
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LMd10
+Capacidad de uso: VIws
+Índice de productividad: 16
+Descripción: Complejo de Series
+Series: LOS MEDANITOS | LOS MEDANITOS en fase imperfectamente drenada | OLAETA en fase moderadamente erosionada por viento | BENJAMIN GOULD
+Porcentajes: 30 | 20 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LMd11
+Capacidad de uso: IVws
+Índice de Productividad: 28
+Descripción: Complejo de Series
+Series: LOS MEDANITOS | ESTANCIA DON FRANCISCO | LA CARLOTA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LMd12
+Capacidad de uso: IVws
+Índice de Productividad: 34
+Descripción: Complejo de Series
+Series: LOS MEDANITOS | ESTANCIA DON FRANCISCO | OLAETA
+Porcentajes: 20 | 40 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LMd13
+Capacidad de uso: VIIws
+Índice de productividad: 17
+Descripción: Complejo de Series
+Series: LOS MEDANITOS en fase moderadamente inundable | MANANTIALES en fase inundable | OLAETA en fase moderadamente alcalina en profundidad
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa1
+Capacidad de uso: IIIec
+Índice de productividad: 46
+Descripción: Asociación de Series
+Series: MONTE DE LOS GAUCHOS | LA CARLOTA en fase ligeramente erosionada por viento
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa2
+Capacidad de uso: IVws
+Índice de Productividad: 30
+Descripción: Asociación en fase muy poco inundable de Series
+Series: MONTE DE LOS GAUCHOS | GENERAL DEHEZA | ESTANCIA DON FRANCISCO
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa3
+Capacidad de uso: IIIsc
+Índice de Productividad: 50
+Descripción: Asociación de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | LA CARLOTA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa4
+Capacidad de uso: IVes
+Índice de Productividad: 43
+Descripción: Asociación de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA en fase ligeramente erosionada por viento | LOS MEDANITOS
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa5
+Capacidad de uso: VIes
+Índice de Productividad: 29
+Descripción: Asociación en fase moderada a ligeramente erosionada por viento de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | Suelos menores arenosos poco diferenciados
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa6
+Capacidad de uso: VIes
+Índice de Productividad: 24
+Descripción: Asociación en fase moderadamente erosionada por viento de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | Suelos arenosos poco diferenciados
+Porcentajes: 30 | 30 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa7
+Capacidad de uso: IIIws
+Índice de productividad: 47
+Descripción: Complejo de Series
+Series: MONTE DE LOS GAUCHOS | MONTE DE LOS GAUCHOS en fase poco anegable | ESTANCIA DON FRANCISCO
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ota10
+Capacidad de uso: VIes
+Índice de Productividad: 23
+Descripción: Complejo de Series
+Series: OLAETA en fase ligeramente erosionada por viento | OLAETA en fase moderadamente erosionada | ESTANCIA LAS MERCEDES
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs
+Capacidad de uso: IVws
+Índice de Productividad: 26
+Descripción: Complejo de Series
+Series: ROSALES | ROSALES en fase salina | VILLA ROSSI | Suelos menores
+Porcentajes: 50 | 20 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs1
+Capacidad de uso: IIIsc
+Índice de Productividad: 60
+Descripción: Complejo de Series
+Series: ROSALES | LEGUIZAMON | Suelos menores
+Porcentajes: 20 | 70 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs2
+Capacidad de uso: IVws
+Índice de Productividad: 36
+Descripción: Complejo de Series
+Series: ROSALES | ROSALES en fase salina | LAS MARINAS
+Porcentajes: 30 | 40 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs3
+Capacidad de uso: IVws
+Índice de Productividad: 37
+Descripción: Complejo de Series
+Series: ROSALES en fase salina | LAS MARINAS | ESTANCIA LA ALICIA en fase salina
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs9
+Capacidad de uso: VIws
+Índice de Productividad: 23
+Descripción: Complejo de Series
+Series: ROSALES | VILLA ROSSI | ESTANCIA LA ALICIA | Suelos menores
+Porcentajes: 40 | 30 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs11
+Capacidad de uso: IVws
+Índice de Productividad:16
+Descripción: Complejo en fase ligeramente anegable de Series
+Series: ROSALES | ROSALES en fase salina | VILLA ROSSI | Suelos menores
+Porcentajes: 50 | 20 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs20
+Capacidad de uso: IVws
+Índice de Productividad:19
+Descripción: Complejo de Series
+Series: ROSALES | ESTANCIA LA EMILIA | MANANTIALES
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs21
+Capacidad de uso: VIws
+Índice de Productividad:19
+Descripción: Complejo de Series
+Series: ROSALES en fase poco anegable | ROSALES en fase salina y anegable | VILLA ROSSI en fase anegable | Suelos menores
+Porcentajes: 50 | 20 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs22
+Capacidad de uso: VIws
+Índice de Productividad:13
+Descripción: Complejo en fase muy inundable de Series
+Series: ROSALES | VILLA ROSSI | ESTANCIA LA ALICIA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs23
+Capacidad de uso: VIws
+Índice de Productividad: 16
+Descripción: Complejo en fase moderadamente inundable de Series
+Series: ROSALES | VILLA ROSSI | ESTANCIA LA ALICIA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs25
+Capacidad de uso: VIIws
+Índice de Productividad:10
+Descripción: Complejo de Series
+Series: ROSALES en fase salina | ESTANCIA LA ALICIA en fase muy inundable | ESTACION SALGUERO en fase muy inundable
+Porcentajes: 35 | 35 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs27
+Capacidad de uso :VIws
+Índice de Productividad:14
+Descripción: Complejo de Series
+Series: ROSALES en fase imperfectamente drenada | LA CARLOTA en fase moderadamente bien drenada | LAS MARINAS
+Porcentajes: 30 | 35 | 35
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: VRs3
+Capacidad de uso: VIws
+Índice de Productividad: 12
+Descripción: Complejo indiferenciado de Series
+Series: VILLA ROSSI, SAN JULIÁN; y LOS MEDANITOS en fase salina
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: VRs4
+Capacidad de uso: VIIws
+Índice de Productividad: 7
+Descripción: Complejo indiferenciado de Series
+Series: VILLA ROSSI, ESTANCIA ALICIA y suelos menores hidromórficos salino sódicos
+Porcentajes:  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: L
+Capacidad de uso: VIII
+Índice de Productividad: 1
+Descripción: Lagunas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Lsp
+Capacidad de uso: VIII
+Índice de Productividad: 3
+Descripción: Lagunas semipermanentes
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: M+L
+Capacidad de uso: VIII
+Índice de Productividad: 5
+Descripción: Médanos + Lagunas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: M
+Capacidad de uso: VIII
+Índice de Productividad: 8
+Descripción: Médanos
+Series: 
+Porcentajes: 

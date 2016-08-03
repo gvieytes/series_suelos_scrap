@@ -1,0 +1,27 @@
+HORIZONTE->NOMBRE(S)........: E      |  E2     |  Btn    |  BC      |  C        |  Ck
+HORIZONTE->PROFUNDIDADES(CM): 0-19   |  19-33  |  33-62  |  62-103  |  103-124  |  124a+
+HORIZONTE->MATERIA ORGÁN.(%): 1,70   |  0,49   |  0,46   |  0,24    |  0,21     |  0,21
+HORIZONTE->CARBONO ORGÁN.(%): 0,99   |  0,29   |  0,27   |  0,14    |  0,12     |  0,12
+HORIZONTE->NITRÓGENO TOT.(%): 0,106  |  0,041  |  0,041  |  0,027   |  0,019    |  0,019
+HORIZONTE->RELACIÓN C/N.....: 9,3    |  7,1    |  6,5    |  5,2     |  6,3      |  6,3
+HORIZONTE->ARCILLA 2 (%)....: 4,0    |  5,0    |  14,0   |  10,4    |  6,8      |  6,8
+HORIZONTE->LIMO 2-50 (%)....: 46,6   |  45,0   |  43,7   |  42,0    |  43,2     |  44,6
+HORIZONTE->AMF 50-100 (%)...: 41,5   |  44,8   |  36,7   |  41,3    |  48,0     |  42,2
+HORIZONTE->AF 100-250 (%)...: 5,3    |  1,8    |  3,7    |  3,8     |  0,1      |  4,0
+HORIZONTE->AM 250-500 (%)...: 0,6    |  0,3    |  0,4    |  0,2     |  0,1      |  0,1
+HORIZONTE->AG 500-1000 (%)..: 0,7    |  0,3    |  0,8    |  0,3     |  0,1      |  0,7
+HORIZONTE->AMG 1-2 mm (%)...:        |         |  0,2    |  0,1     |           |
+HORIZONTE->CALCAREO CaCO3(%): 0,0    |  0,0    |  1,39   |  1,71    |  0,28     |  2,46
+HORIZONTE->EQUIV. HUMEDAD(%): 15,1   |  14,3   |  21,0   |  19,5    |  17,3     |  17,7
+HORIZONTE->PH PASTA.........: 6,0    |  7,2    |  8,3    |  9,1     |  9,4      |  9,5
+HORIZONTE->PH H2O 1:2,5.....: 5,0    |  5,7    |  6,5    |  6,9     |  7,2      |  7,5
+HORIZONTE->CI ME/100G-Ca ++.: 1,6    |  1,1    |         |          |           |
+HORIZONTE->CI ME/100G-Mg ++.: 1,6    |  1,1    |         |          |           |
+HORIZONTE->CI ME/100G-Na +..: 0,4    |  0,6    |         |  8,4     |  9,1      |  11,5
+HORIZONTE->CI ME/100G-K +...: 2,8    |  1,6    |  2,7    |  2,2     |  2,1      |  1,9
+HORIZONTE->CI ME/100G-H +...: 3,4    |  0,5    |         |          |           |
+HORIZONTE->Na+ % DEL VALOR T:        |  4      |         |  38      |  47       |  56
+HORIZONTE->SUM.B. ME/100G(S): 13,1   |  14,2   |         |          |           |
+HORIZONTE->CIC ME/100G(T)...: 16,5   |  15,0   |  28,3   |  22,4    |  19,4     |  20,4
+HORIZONTE->SAT.B % (S/T)....: 79     |  95     |         |          |           |
+HORIZONTE->% Na INTERC.(PSI): 2,5    |  15,1   |  29,5   |  46,3

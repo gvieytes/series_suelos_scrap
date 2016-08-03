@@ -1,0 +1,252 @@
+--------------------------------------------------------------------------------
+SERIE FEDERAL Símbolo: Fd
+Pertenece a la familia "fina, neutra, térmica" de los Peludertes argiudólicos (vertisol con gilgai irregular, epipedón mólico y B textural).
+Muestra un microrrelieve, con evidente movimiento en masa en el perfil, expresándose en superficie en forma irregular.
+Suelos moderadamente bien drenados. Presenta un epipedón mólico profundo, franco-limoso a franco-arcillo-limoso y un horizonte B2 textural argílico, arcillo limoso; concreciones calcáreas variables, por el movimiento en masa es frecuente encontrarlas a partir de los 65 cm de profundidad. Con gley fósil desde los 110 cm.
+Perfil tipo: ER7-32C
+Fecha: 23-IX-1982
+Ubicación: Ea. "San Antonio Ñu" (foto H168-4) - Dpto. Federal
+Reconocedores: L.O. López; R.H. Fuentes; O.A. Foti.
+A1: 00-10 cm; gris muy oscuro a pardo grisáceo muy oscuro (10YR 2/1.5) en húmedo; franco-arcillo-limoso; estructura granular y de bloques subangulares medios, moderados; ligeramente duro en seco; muy friable en húmedo; barnices ("clay-humic-skins") abundantes, medios; moteados de hierro-manganeso comunes, finos y débiles; concreciones de hierro-manganeso escasas; límite claro, suave.
+B1: 10-25 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; franco limoso; estructura en prismas compuestos irregulares finos, débiles que rompen en bloques subangulares medios, débiles; ligeramente duro en seco, muy friable en húmedo; barnices ("clay-humic-skins") abundantes, medios y gruesos; moteados de hierro-manganeso comunes, finos y débiles; concreciones de hierro-manganeso escasas; límite abrupto, suave.
+B21t: 25-48 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares y cuneiformes medios, moderados; muy duro en seco, firme en húmedo; barnices ("clay-humic-skins") escasos, finos; caras de fricción ("slickensides") abundantes y finas e intersectadas; moteados de hierro-manganeso comunes, finos y débiles; concreciones de hierro-manganeso abundantes de hasta 2 mm; límite claro, suave.
+B22t: 48-65 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques cuneiformes medios, finos; extremadamente duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B23ca: 65-86 cm; gris oscuro (10YR 4/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles; extremadamente duro en seco, muy firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso abundantes y gruesas; concreciones calcáreas abundantes de aproximadamente 3 cm; límite gradual, ondulado.
+B3ca: 86-115 cm; pardo (7.5YR 5/2) en húmedo; arcillo limoso; estructura en bloques cuneiformes medios, moderados con tendencia a prismas compuestos irregulares finos, débiles; muy duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y gruesos; moteados de hierro-manganeso abundantes, medios y sobresalientes; concreciones de hierro-manganeso abundantes; concreciones calcáreas fósiles, abundantes; límite gradual ondulado.
+Cca: 115 cm +; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") escasas, gruesas; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; concreciones calcáreas abundantes; carbonatos libres en la masa abundantes; gley fósil y chorreaduras de material superior por grietas.
+Variabilidad de rasgos:
+El solum tiene un espesor que varía entre 105 y 130 cm; el epipedón posee de 20 a 35 cm y está compuesto generalmente de A1 + B1 ó A11; A12 + B1 con muy buena estructura compuesta de agregados granulares y bloques subangulares débiles. Su textura oscila entre 25 y 30% de arcilla (franco limosa a franco-arcilla-limosa).
+El horizonte argílico tiene un espesor que varía entre 50 y 70 cm y un tenor de arcilla que oscila entre 40 y 50% con abundantes caras de fricción ("slickensides"); las características vérticas están mejor expresadas en la parte inferior del B2t a partir de los 60 cm de profundidad.
+El calcáreo en concreciones abundantes aparece a partir de los 70-80 cm; son escasas como carbonatos libres en la masa a partir de 110 y 115 cm.
+Fases
+No se ha descripto a nivel de reconocimiento.
+Series similares y sus diferencias.
+Se parece a la serie El Rancho, pero ésta se encuentra en un paisaje de pendientes con gilgai lineal, con la cual se encuentra generalmente asociada; también se asemeja a la serie Ramblones que es menos hidromórfica y se ubica en distinto paisaje y es más arcillosa a partir del B2t.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial lento. Capa frática profunda. Grupo hidrológico D.
+Erosión
+La serie Federal no presenta erosión, pero puede degradarse por el pisoteo de hacienda, formando "barreros de altura".
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Federal
+ER7-32C
+Nº de registro
+ 3.582
+ 3.583
+ 3.584
+ 3.585
+ 3.586
+ 3.587
+ 3.588
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B23ca
+ B3ca
+ Cca
+Profundidad (cm)
+ 0.1-0.9
+ 12-24
+ 30-42
+ 52-65
+ 72-83
+ 95-111
+ 130-150
+Mat.organica (%)
+ 7.57
+ 3.96
+ 2.58
+ 1.03
+ .69
+ 0.52
+ -
+N (%)
+ 0.30
+ 0.10
+ 0.10
+ 0.05
+ 0.03
+ 0.03
+ 0.02
+C/N
+ 13
+ 17
+ 15
+ 13
+ 13
+ 5
+ -
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 28.80
+ 24.90
+ 42.40
+ 46.40
+ 50.20
+ 51.50
+ 42.60
+E
+ 2-20 u
+ 40.70
+ 43.10
+ 33.60
+ 31.90
+ 29.10
+ 28.90
+ 30.60
+X
+ 2-50 u
+ 69.90
+ 62.80
+ 56.50
+ 52.10
+ 48.50
+ 47.20
+ 56.40
+T
+ 50-100 u
+ 0.10
+ 1.90
+ 0.10
+ 0.03
+ 0.04
+ 0.05
+ 0.04
+U
+ 100-250 u
+ 0.30
+ 9.50
+ 0.30
+ 0.40
+ 0.30
+ 0.30
+ 0.20
+R
+ 250-500 u
+ 0.70
+ 0.20
+ 0.70
+ 1.00
+ 0.90
+ 0.80
+ 0.70
+ 500-1000 u
+ 0.04
+ 0.60
+ 0.02
+ 0.04
+ 0.03
+ 0.05
+ 0.03
+A
+ 1000-2000 u
+ -
+ 0.05
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.4
+ 1.4
+ 3.0
+ 9.4
+PH H2O
+ 5.1
+ 5.2
+ 6.2
+ 7.2
+ 7.4
+ 7.6
+ 7.7
+PH ClK
+ 5.0
+ 4.9
+ 5.5
+ 6.6
+ 6.8
+ 7.0
+ 6.1
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g)=
+Valor T
+ 30.1
+ 23.5
+ 43.1
+ 45.1
+ 44.9
+ 45.0
+ 44.3
+d
+Ca++
+ 18.8
+ 17.8
+ 35.1
+ 36.6
+ 57.7
+ -
+ -
+C
+e
+A
+Mg++
+ 3.2
+ 2.4
+ 3.9
+ 7.9
+ 9.4
+ -
+ -
+T
+c
+I
+a
+K+
+ 0.8
+ 1.4
+ 2.3
+ 2.3
+ 2.6
+ 2.3
+ 2.4
+O
+m
+N
+b
+Na+
+ 0.9
+ 0.8
+ 0.7
+ 0.6
+ 0.7
+ 0.8
+ 0.9
+E
+i
+S
+o
+H+
+ 6.4
+ 1.1
+ 1.1
+ -
+ -
+ -
+ -
+% Na/T
+ 3.0
+ 3.4
+ 1.6
+ 1.3
+ 1.6
+ 1.8
+ 2.0
+────────────────────────────────────────────────────────

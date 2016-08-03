@@ -1,0 +1,374 @@
+
+--------------------------------------------------------------------------------
+SERIE PUESTO SARANDÍ						 Símbolo: PSar
+
+
+Pertenece a la familia "fina, montmorillonítica, no calcárea, térmica" de los Argiacuoles vérticos.
+Son suelos profundos, imperfectamente drenados y completamente descarbonatados.
+El material originario está constituido por limos no calcáreos, mezclados con elementos arcillo-húmicos, cuya presencia es debida a grietas antiguas existentes y a la actividad biológica, especialmente de hormigas.
+
+
+Perfil tipo: ER1-72C
+Fecha: 25-VIII-1992
+Ubicación: Estancia Las Cabezas (foto IR 409-56) - Dpto. Gualeguay
+Reconocedores: R.H. Fuentes; O.A. Foti.
+
+
+A11: 00-18 cm; pardo oscuro (10YR 3/3) en húmedo, pardo grisáceo oscuro (10YR 4/2) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso abundantes, finos y sobresalientes; límite abrupto, suave.
+
+A12: 18-34 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares débiles; ligeramente duro en seco, muy friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso comunes, finos y sobresalientes; límite abrupto, suave.
+
+A3: 34-46 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, débiles; ligeramente duro en seco, muy friable en húmedo; barnices ("clay-humic skins") escasos a comunes; moteados de hierro-manganeso comunes, finos y sobresalientes; límite abrupto, suave.
+
+B21t: 46-70 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; extremadamente duro en seco, muy firme en húmedo; concreciones de hierro-manganeso abundantes y finas; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite claro, suave.
+
+B22t: 70-90 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; muy duro en seco, muy firme en húmedo; concreciones de hierro-manganeso comunes y finas; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso abundantes, medios y precisos; grietas de hasta 2 cm de ancho rellenadas de material de horizontes suprayacentes; límite claro, suave.
+
+B31: 90-110 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, débiles; duro en seco, firme en húmedo; concreciones de hierro-manganeso escasas; barnices ("clay-humic skins") escasos; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual, suave.
+
+B32: 110-130 cm; pardo (7,5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; escasas concreciones de hierro-manganeso; barnices ("clay skins") comunes; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite difuso, suave.
+
+C: 130 cm+; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, débiles; ligeramente duro en seco, friable en húmedo; concreciones de hierro-manganeso escasas y finas; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso comunes, gruesos y sobresalientes; horizonte gleizado en las caras de los agregados.
+
+
+Variabilidad de rasgos
+
+El epipedón mólico incluye los horizontes A11 y A12, ó un A1 y A3. El espesor del A1 varía entre 15-20 cm y el A12 entre 12-15 cm, con un total de 20 a 35 cm para todo el epipedón. Tiene entre 27 a 30% de arcilla, aunque en algunas partes más planas y más hidromórficas puede contener un mayor porcentaje.
+
+El horizonte B2, argílico, generalmente tiene estructura prismática y colores pardos oscuros (10YR 4/3), posee 43% de arcilla y es el horizonte con más características vérticas, las cuales incluyen la presencia de caras de fricción y grietas de 2 a 3 cm de ancho. Cuando seco, estas grietas llegan, por lo general, hasta la base del epipedón. Las concreciones de hierro-manganeso son abundantes, decreciendo en profundidad. Otra característica de la serie es la notable cantidad de hormigueros ("tacurúes") que, muchas veces, disturban los perfiles.
+
+
+Fases
+
+No presenta a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Arroyo Nogoyá (pero esta está peor drenada y el horizonte argílico es menos arcilloso) y a la serie La Matilde (pero ésta tiene un epipedón engrosado y está saturada por una napa freática temporaria suspendida).
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial muy lento. Permeabilidad lenta. Napa freática algo profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Puesto Sarandí no está erosionada y no existe ningún peligro de erosión.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Puesto Sarandí
+
+ER1-72C
+
+
+
+
+
+
+
+
+Nº de registro
+ 6613
+ 6614
+ 6615
+ 6616
+ 6617
+ 6618
+ 6619
+ 6620
+Horizonte
+ A11
+ A12
+ A3
+ B21t
+ B22t
+ B31
+ B32
+ C
+Profundidad (cm)
+ 01-16
+ 20-30
+ 35-45
+ 50-68
+ 75-85
+ 95-105
+ 115-127
+ 138-150
+Mat.organica (%)
+ 3.32
+ 2.40
+ 1.09
+ 1.03
+ 0.90
+ 0.75
+ 0.15
+ 0.08
+N (%)
+ 0.18
+ 0.11
+ 0.07
+ 0.06
+ 0.05
+ 0.04
+ 0.03
+ 0.02
+C/N
+ 10
+ 12
+ 9
+ 9
+ 10
+ 10
+ 3
+ 2
+
+T < 2 μ
+ 27.88
+ 30.38
+ 30.78
+ 43.70
+ 43.65
+ 40.41
+ 38.02
+ 42.28
+E 2-20 μ
+ 35.89
+ 35.75
+ 34.57
+ 31.93
+ 31.80
+ 34.29
+ 36.98
+ 39.29
+X 2-50 μ
+ 59.32
+ 59.35
+ 56.93
+ 51.81
+ 48.63
+ 51.97
+ 56.48
+ 52.92
+T 50-100 μ
+ 7.51
+ 7.05
+ 6.31
+ 3.02
+ 3.00
+ 3.66
+ 2.00
+ 2.52
+U 100-500 μ
+ 5.23
+ 3.15
+ 5.90
+ 5.05
+ 4.71
+ 3.93
+ 3.46
+ 2.16
+R 500-1000 μ
+ 0.06
+ 0.07
+ 0.08
+ 0.04
+ 0.01
+ 0.03
+ 0.04
+ 0.12
+A 1000-2000 μ
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+pH H2O
+ 5.4
+ 5.4
+ 5.4
+ 5.6
+ 6.3
+ 6.9
+ 7.1
+ 7.2
+pH ClK
+ 4.8
+ 4.7
+ 4.8
+ 4.9
+ 5.4
+ 6.0
+ 6.2
+ 6.2
+CE (mmhos/cm)
+ 0.72
+ 0.22
+ 0.25
+ 0.24
+ 0.19
+ 0.30
+ 0.35
+ 0.21
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 28.20
+ 30.13
+ 30.00
+ 40.10
+ 40.00
+ 36.70
+ 34.70
+ 36.80
+ d Ca++
+ 22.10
+ 23.60
+ 23.50
+ 30.60
+ 31.00
+ 29.10
+ 27.50
+ 23.80
+C e
+
+
+
+
+
+
+
+
+Mg++
+ 4.10
+ 4.35
+ 4.30
+ 5.90
+ 6.00
+ 5.00
+ 4.70
+ 3.40
+t c
+
+
+
+
+
+
+
+
+i a K+
+ 1.41
+ 1.60
+ 1.60
+ 1.80
+ 1.70
+ 1.65
+ 1.63
+ 1.99
+o m
+
+
+
+
+
+
+
+
+n b Na+
+ 0.38
+ 0.48
+ 0.50
+ 0.79
+ 0.70
+ 0.67
+ 0.58
+ 0.65
+e i
+
+
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+
+
+% Na/T
+ 1.4
+ 1.6
+ 1.7
+ 2.0
+ 1.8
+ 1.8
+ 1.7
+ 1.8
+
+
+
+
+
+
+
+
+
+Equival. de humedad (%)
+ 25.76
+ 26.21
+ 25.19
+ 37.29
+ 40.84
+ 37.01
+ 37.44
+ 40.12
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+

@@ -1,0 +1,39 @@
+dss_totoral.psv ->> ID..........................: 241
+dss_totoral.psv ->> CLASIFICACION...............: Argiustol údico
+dss_totoral.psv ->> SERIE.......................: TOTORAL (Ttrl)
+dss_totoral.psv ->> UBICACION...................: 4 km al Este de la localidad homónima, departamento Totoral
+dss_totoral.psv ->> PROVINCIA...................: CORDOBA
+dss_totoral.psv ->> LATITUD.....................: S300500
+dss_totoral.psv ->> LONGITUD....................: O640200
+dss_totoral.psv ->> ALTITUD.....................: 550
+dss_totoral.psv ->> PENDIENTE...................: FALTA!
+dss_totoral.psv ->> DRENAJE.....................: FALTA!
+dss_totoral.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_totoral.psv ->> PERMEABILIDAD...............: FALTA!
+dss_totoral.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_totoral.psv ->> COLOR ......................: PARDO MUY OSCURO A GRIS MUY OSCURO
+dss_totoral.psv ->> HORIZONTE->NOMBRE(S)........: A1 | B2t | B3 | C
+dss_totoral.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-56 | 56-75 | 75a+
+dss_totoral.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,6 | 1,2 | - | 
+dss_totoral.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,5 | 0,7 | - | 
+dss_totoral.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,12 | 0,06 | - | 
+dss_totoral.psv ->> HORIZONTE->RELACIÓN C/N.....: 12,5 | 11,7 | - | 
+dss_totoral.psv ->> HORIZONTE->ARCILLA 2 (%)....: 24,8 | 33,1 | 30,5 | 28,5
+dss_totoral.psv ->> HORIZONTE->LIMO 2-50 (%)....: 50,9 | 46,4 | 49,9 | 52,9
+dss_totoral.psv ->> HORIZONTE->AMF 50-100 (%)...: 4,9 | 4,7 | 4,5 | 4,6
+dss_totoral.psv ->> HORIZONTE->AF 100-250 (%)...: 4,1 | 3,6 | 6,5 | 6,4
+dss_totoral.psv ->> HORIZONTE->AM 250-500 (%)...: 5,3 | 4,2 | 4,7 | 6,7
+dss_totoral.psv ->> HORIZONTE->AG 500-1000 (%)..: 6,0 | 4,6 | 3,9 | 3,4
+dss_totoral.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 1,4 | 1,1 | 0,9 | 0,9
+dss_totoral.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0 | 0,0
+dss_totoral.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 25,7 | 26,8 | 25,9 | 25,6
+dss_totoral.psv ->> HORIZONTE->PH PASTA.........: - | - | - | 
+dss_totoral.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,2 | 7,2 | 7,3 | 7,6
+dss_totoral.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 16,8 | 17,4 | 17,3 | 16,6
+dss_totoral.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,4 | 2,2 | 1,3 | 1,8
+dss_totoral.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4 | 0,4 | 0,3 | 0,3
+dss_totoral.psv ->> HORIZONTE->CI ME/100G-K +...: 1,9 | 1,4 | 1,1 | 1,0
+dss_totoral.psv ->> HORIZONTE->CI ME/100G-H +...: 1,3 | 1,1 | - | 
+dss_totoral.psv ->> HORIZONTE->SUM.B. ME/100G(S): 19,5 | 21,4 | 20,0 | 19,7
+dss_totoral.psv ->> HORIZONTE->CIC ME/100G(T)...: 20,8 | 22,5 | 20,0 | 19,7
+dss_totoral.psv ->> HORIZONTE->SAT.B % (S/T)....: 93,8 | 95,1 | 100 | 100

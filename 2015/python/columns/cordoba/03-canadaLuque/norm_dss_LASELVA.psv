@@ -1,0 +1,39 @@
+dss_LASELVA.psv ->> ID..........................: 313
+dss_LASELVA.psv ->> CLASIFICACION...............: Natrustol típico
+dss_LASELVA.psv ->> SERIE.......................: ESTANCIA LA SELVA (EstSlv)
+dss_LASELVA.psv ->> UBICACION...................: 12 km al Norte de Jesús María, departamento Totoral
+dss_LASELVA.psv ->> PROVINCIA...................: CORDOBA
+dss_LASELVA.psv ->> LATITUD.....................: S305500
+dss_LASELVA.psv ->> LONGITUD....................: O640500
+dss_LASELVA.psv ->> ALTITUD.....................: 553
+dss_LASELVA.psv ->> PENDIENTE...................: FALTA!
+dss_LASELVA.psv ->> DRENAJE.....................: FALTA!
+dss_LASELVA.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LASELVA.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LASELVA.psv ->> TIPO DE SUELO...............: FINA MIXTA TÉRMICA
+dss_LASELVA.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LASELVA.psv ->> HORIZONTE->NOMBRE(S)........: a | bt1 | bt2
+dss_LASELVA.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18 | 18-48 | 48a+
+dss_LASELVA.psv ->> HORIZONTE->MATERIA ORGÁN.(%): - | - | 
+dss_LASELVA.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,2 | 0,9 | 
+dss_LASELVA.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,10 | 0,09 | 
+dss_LASELVA.psv ->> HORIZONTE->RELACIÓN C/N.....: 12,0 | 10,0 | 
+dss_LASELVA.psv ->> HORIZONTE->ARCILLA 2 (%)....: 22,4 | 38,1 | 38,4
+dss_LASELVA.psv ->> HORIZONTE->LIMO 2-50 (%)....: 54,9 | 46,6 | 46,6
+dss_LASELVA.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,1 | 3,3 | 3,0
+dss_LASELVA.psv ->> HORIZONTE->AF 100-250 (%)...: 4,4 | 3,3 | 2,7
+dss_LASELVA.psv ->> HORIZONTE->AM 250-500 (%)...: 5,7 | 4,3 | 3,1
+dss_LASELVA.psv ->> HORIZONTE->AG 500-1000 (%)..: 6,3 | 5,3 | 4,3
+dss_LASELVA.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 1,3 | 1,1 | 1,5
+dss_LASELVA.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,2
+dss_LASELVA.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 21,8 | 27,2 | 29,6
+dss_LASELVA.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_LASELVA.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,7 | 8,1 | 8,7
+dss_LASELVA.psv ->> HORIZONTE->CI ME/100G-Ca++..: 14,6 | 18,8 | 16,4
+dss_LASELVA.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,6 | 1,9 | 2,3
+dss_LASELVA.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,7 | 2,2 | 4,0
+dss_LASELVA.psv ->> HORIZONTE->CI ME/100G-K+....: 1,3 | 1,4 | 1,5
+dss_LASELVA.psv ->> HORIZONTE->CI ME/100G-H+....: 2,0 | - | 
+dss_LASELVA.psv ->> HORIZONTE->SUM.B. ME/100G(S): 18,2 | 24,3 | 24,2
+dss_LASELVA.psv ->> HORIZONTE->CIC ME/100G(T)...: 20,2 | 24,4 | 24,2
+dss_LASELVA.psv ->> HORIZONTE->SAT.B % (S/T)....: 90,0 | 100 | 100

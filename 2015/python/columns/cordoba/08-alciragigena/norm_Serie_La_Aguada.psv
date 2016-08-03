@@ -1,0 +1,40 @@
+Serie_La_Aguada.psv ->> ID..........................: 809
+Serie_La_Aguada.psv ->> CLASIFICACION...............: Hapludol éntico
+Serie_La_Aguada.psv ->> SERIE.......................: LA AGUADA (Agda)
+Serie_La_Aguada.psv ->> UBICACION...................: 3,5 Km al NE de Rodeo Viejo, departamento Río Cuarto
+Serie_La_Aguada.psv ->> PROVINCIA...................: CORDOBA
+Serie_La_Aguada.psv ->> LATITUD.....................: S325500
+Serie_La_Aguada.psv ->> LONGITUD....................: O644100
+Serie_La_Aguada.psv ->> ALTITUD.....................: 500
+Serie_La_Aguada.psv ->> PENDIENTE...................: FALTA!
+Serie_La_Aguada.psv ->> DRENAJE.....................: FALTA!
+Serie_La_Aguada.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_La_Aguada.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_La_Aguada.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_La_Aguada.psv ->> COLOR ......................: PARDO OSCURO
+Serie_La_Aguada.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | c
+Serie_La_Aguada.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17 | 17-40 | 40a+
+Serie_La_Aguada.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,0 | - | -
+Serie_La_Aguada.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0,60 | - | -
+Serie_La_Aguada.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,08 | - | -
+Serie_La_Aguada.psv ->> HORIZONTE->RELACIÓN C/N.....: 7,5 | - | -
+Serie_La_Aguada.psv ->> HORIZONTE->ARCILLA 2 (%)....: 11,5 | 9,9 | 6,8
+Serie_La_Aguada.psv ->> HORIZONTE->LIMO 2-50 (%)....: 40,8 | 40,0 | 40,4
+Serie_La_Aguada.psv ->> HORIZONTE->AMF 50-100 (%)...: 45,0 | 45,0 | 48,5
+Serie_La_Aguada.psv ->> HORIZONTE->AF 100-250 (%)...: 2,6 | 2,8 | 2,4
+Serie_La_Aguada.psv ->> HORIZONTE->AM 250-500 (%)...: 0,3 | 0,4 | 0,0
+Serie_La_Aguada.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,4 | 0,5 | 0,4
+Serie_La_Aguada.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,0 | 0,0 | 0,0
+Serie_La_Aguada.psv ->> HORIZONTE->CaCO 3 (%).......: 0,0 | 0,0 | 0,0
+Serie_La_Aguada.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 12,0 | 12,6 | 10,4
+Serie_La_Aguada.psv ->> HORIZONTE->PH PASTA.........: 6,2 | 6,4 | 6,5
+Serie_La_Aguada.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,3 | 6,5 | 6,6
+Serie_La_Aguada.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 11,1 | 7,9 | 7,1
+Serie_La_Aguada.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,6 | 1,9 | 0,7
+Serie_La_Aguada.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4 | 0,4 | 0,4
+Serie_La_Aguada.psv ->> HORIZONTE->CI ME/100G-K +...: 1,1 | 1,0 | 0,7
+Serie_La_Aguada.psv ->> HORIZONTE->CI ME/100G-H +...: 0,6 | 0,4 | 0,4
+Serie_La_Aguada.psv ->> HORIZONTE->Na INTERC % (PSI): 2,9 | 3,4 | 4,3
+Serie_La_Aguada.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13,2 | 11,2 | 8,9
+Serie_La_Aguada.psv ->> HORIZONTE->CIC ME/100G(T)...: 13,8 | 11,6 | 9,3
+Serie_La_Aguada.psv ->> HORIZONTE->SAT.B % (S/T)....: 95,7 | 96,6 | 95,7

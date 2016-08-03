@@ -1,0 +1,236 @@
+--------------------------------------------------------------------------------
+SERIE GENERAL RAMIREZ Símbolo: GRz
+Pertenece a la familia "fina, levemente alcalina, térmica" de los Peludertes árgico-crómicos (Vertisol con gilgai y un B2 tetxtural de color pardo oscuro).
+Muestra un microrrelieve gilgai poco desarrollado, con ciclos de hasta 5 m.
+Son suelos muy profundos, ligeramente erosionados y moderada a imperfectamente drenados.
+En el bajo del gilgai tienen un epipedón oscuro, franco-arcillo-limoso, y un horizonte argílico arcillo-limoso a arcilloso. Las concreciones de calcáreo aparecen a los 65-75 cm de profundidad, o más profundo.
+Suelos desarrollados en limos calcáreos, franco-arcillo-limosos a arcillo-limosos.
+Perfil tipo: ER7-81C
+Fecha: 29-VI-1990.
+Ubicación: Ea. El Pilar (foto H434-24) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+A1: 00-11 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; blando en seco; friable en húmedo; barnices "humic skins", abundantes, medios; moteados de hierro comunes, medios y precisos; incipiente "piso de arado" a partir de los 10 cm; límite claro, suave.
+B1: 11-21 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, fuertes;ligeramente duro en seco; friable en húmedo; barnices "clay humic skins" abundantes y medios, y "clay skins", escasos y finos concreciones de hierro-manganeso escasas de hasta 0.2 cm; moteados de hierro y manganeso comunes, finos y precisos; límite gradual, ondulado.
+B21t: 21-47 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso a arcilloso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en agregados granulares, medios, moderados; duro en seco; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, finas e intersectadas; concreciones de hierro-manganeso escasas de hasta 0.2 cm; moteados de hierro y manganeso comunes, medios y precisos; grietas rellenas de material de horizontes suprayacentes; limo suelto en las caras de los agregados; límite difuso, suave.
+B22t: 47-81 cm; negro (10YR 2/1) en húmedo; arcillo-limoso a arcilloso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en prismas compuestos irregulares, medios, fuertes; extremadamente duro en seco; muy firme en húmedo; barnices "clay skins", abundantes a muy abundantes, gruesos; caras de fricción ("slickensides") muy abundantes, finas, intersectadas; concreciones de hierro-manganeso escasas, de hasta 0.3 cm; moteados de hierro y manganeso comunes, medios y precisos; límite gradual, suave.
+B23tca: 81-126 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso a arcilloso; estructura en prismas compuestos irregulares, gruesos, medios, que rompen en prismas compuestos irregulares, medios, fuertes; extremadamente duro en seco; muy firme en húmedo; barnices "clay skins", muy abundantes, gruesos; caras de fricción ("slickensides") abundantes, finas y gruesas, intersectadas; moteados de hierro y manganeso comunes, medios y precisos; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; límite abrupto, quebrado.
+B3ca: 126-155 cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso a arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; extremadamente duro en seco; firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas, intersectadas; moteados de hierro-manganeso abundantes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes; límite gradual, suave.
+Cca: 155+ cm; pardo fuerte (7.5YR 5/6) en húmedo; franco-arcillo-limoso; masivo; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes.
+Variabilidad de rasgos
+El solum varía entre 120-150 cm de espesor. En áreas planas a muy suavemente onduladas, muestra una amplia variabilidad en el espesor del epipedón (12 a 35 cm) en corta distancia. Donde la pendiente se acentúa, da lugar a la formación de microrrelieve gilgai linear, aunque en la mayoría de los perfiles estudiados éste sólo se aprecia en la fotografía aérea pero no llega a expresarse claramente en el campo.
+En los primeros 5-6 cm del epipedón es común el proceso de "self-mulching" (autoestructuración), esto es, la formación de agregados muy pequeños y resistentes (estructura migajosa). El porcentaje de arcilla oscila entre 30-45 % (franco-arcillo-limoso a arcillo-limoso) y el porcentaje de materia orgánica entre 4-7 %.
+El horizonte argílico tiene una textura de arcillo-limosa a arcillosa (hasta 60 %), que se incrementa con la profundidad, encontrándose mejor expresado en los subhorizontes B22t y el B23t. Su espesor suele alcanzar los 80 cm (incluyendo el horizonte B3t), con una estructura prismática fuerte y una consistencia extremadamente dura en seco y muy firme en húmedo. Las características vérticas están muy bien expresadas hasta el metro de profundidad: grietas de hasta 12 cm de ancho y caras de fricción ("slickensides") muy abundantes, gruesas e intersectadas.
+Las concreciones de carbonatos y el calcáreo libre en la masa aparecen normalmente entre los 60-75 cm de profundidad, aunque también es común la presencia de concreciones en superficie producto del arrastre de las mismas desde la cresta del gilgai, debido al agua de escorrentía.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Series similares y sus diferencias
+Se parece a la Serie María Dolores, aunque ésta muestra un gilgai linear bien desarrollado, un epipedón más somero y está desarrollada en un paisaje de erosión, con pendientes entre 2-3 %.
+Drenaje
+Moderada a imperfectamente drenado; escurrimiento superficial lento. Permeabilidad muy lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La Serie General Ramírez muestra una erosión actual, laminar, leve y tiene moderada susceptibilidad a la misma en sectores donde el paisaje se torna más dinámico (pendientes hacia cursos afluentes y cabeceras de cuencas).
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie General Ramírez
+ER7-81C
+NE de registro
+ 5.282
+ 5.283
+ 5.284
+ 5.285
+ 5.286
+ 5.287
+ 5.288
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B23tca
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-10
+ 12-20
+ 25-45
+ 55-75
+ 90-120
+ 140-155
+ 160-180
+Mat.organica (%)
+ 5.36
+ 4.99
+ 4.58
+ 3.80
+ 0.85
+ 0.08
+ 0.08
+N (%)
+ 0.26
+ 0.25
+ 0.17
+ 0.10
+ 0.05
+ 0.02
+ 0.02
+C/N
+ 12
+ 12
+ 15
+ 19
+ 9
+ 2
+ 2
+T < 2 u
+ 64.69
+ 61.35
+ 40.35
+ 40.73
+ 52.98
+ 38.46
+ 46.37
+E 2-20 u
+ 24.37
+ 24.74
+ 26.57
+ 24.40
+ 22.42
+ 31.38
+ 31.76
+X 2-50 u
+ 32.99
+ 35.95
+ 57.36
+ 56.46
+ 45.36
+ 60.32
+ 52.43
+T 50-100 u
+ 2.15
+ 1.95
+ 2.14
+ 2.44
+ 1.56
+ 1.18
+ 1.15
+U 100-500 u
+ 0.16
+ 0.11
+ 0.16
+ 0.36
+ 0.09
+ 0.04
+ 0.04
+R 500-1000 u
+ 0.02
+ -
+ 0.00
+ 0.01
+ 0.00
+ -
+ 0.02
+A 1000-2000 u
+ 0.06
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.4
+ 0.3
+ -
+ -
+ 3.7
+ 9.9
+ 1.2
+PH H2O
+ 7.5
+ 7.5
+ 7.5
+ 7.3
+ 8.0
+ 7.9
+ 7.9
+pH ClK
+ N.D.
+ N.D.
+ N.D.
+ 7.0
+ 7.8
+ 7.8
+ 7.7
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 42.50
+ 44.60
+ 46.50
+ 47.80
+ -
+ -
+ -
+d
+Ca++
+ 37.20
+ 40.10
+ 41.40
+ 45.10
+ -
+ -
+ -
+C
+e
+a
+Mg++
+ 3.10
+ 2.10
+ 2.80
+ 1.30
+ -
+ -
+ -
+t
+c
+i
+a
+K+
+ 1.32
+ 1.00
+ 0.80
+ 0.40
+ 0.40
+ 0.40
+ 0.36
+o
+m
+n
+b
+Na+
+ 0.30
+ 0.20
+ 0.20
+ 0.20
+ 0.40
+ 0.50
+ 0.50
+e
+i
+s
+o
+H+
+ 0.90
+ 0.90
+ 0.90
+ -
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 36.04
+ 38.44
+ 37.44
+ 39.57
+ 42.98
+ 37.13
+ 39.98

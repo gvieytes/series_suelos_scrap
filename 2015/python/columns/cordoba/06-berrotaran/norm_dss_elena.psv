@@ -1,0 +1,40 @@
+dss_elena.psv ->> ID..........................: 604
+dss_elena.psv ->> CLASIFICACION...............: Haplustol éntico thapto mólico
+dss_elena.psv ->> SERIE.......................: ELENA (Eln)
+dss_elena.psv ->> UBICACION...................: 5,5 Km al Oeste de la localidad homónima, departamento Río Cuarto
+dss_elena.psv ->> PROVINCIA...................: CORDOBA
+dss_elena.psv ->> LATITUD.....................: S323400
+dss_elena.psv ->> LONGITUD....................: O642600
+dss_elena.psv ->> ALTITUD.....................: 675
+dss_elena.psv ->> PENDIENTE...................: FALTA!
+dss_elena.psv ->> DRENAJE.....................: FALTA!
+dss_elena.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_elena.psv ->> PERMEABILIDAD...............: FALTA!
+dss_elena.psv ->> TIPO DE SUELO...............: FRANCA GRUESA
+dss_elena.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO A PARDO OSCURO
+dss_elena.psv ->> HORIZONTE->NOMBRE(S)........: ap | ii | iiia | iiiac | iiic
+dss_elena.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-40 | 40-59 | 59-78 | 78a+
+dss_elena.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.1 | 1.4 | - | - | 
+dss_elena.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.2 | 0.8 | - | - | 
+dss_elena.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.16 | - | - | - | 
+dss_elena.psv ->> HORIZONTE->RELACIÓN C/N.....: 7.5 | - | - | - | 
+dss_elena.psv ->> HORIZONTE->ARCILLA 2 (%)....: 13.5 | 12.5 | 15.6 | 12.9 | 10.0
+dss_elena.psv ->> HORIZONTE->LIMO 2-50 (%)....: 57.9 | 57.5 | 29.9 | 54.7 | 57.3
+dss_elena.psv ->> HORIZONTE->AMF 50-100 (%)...: 26.7 | 25.4 | 23.8 | 27.7 | 31.1
+dss_elena.psv ->> HORIZONTE->AF 100-250 (%)...: 1.3 | 1.2 | 2.4 | 1.6 | 1.4
+dss_elena.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1 | 0.1 | 0.4 | 0.2 | 0.1
+dss_elena.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.2 | 0.1 | 0.7 | 0.2 | 0.1
+dss_elena.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.1 | 0 | 0.2 | 0.1 | 0.1
+dss_elena.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 0 | 0 | 0 | 0
+dss_elena.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 16.5 | 17.1 | 20.3 | 18.3 | 16.8
+dss_elena.psv ->> HORIZONTE->PH PASTA.........: 6.6 | 7.6 | 7.7 | 7.9 | 7.9
+dss_elena.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.9 | 7.9 | 8.0 | 8.1 | 8.2
+dss_elena.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13.8 | 14.3 | 16.2 | 14.4 | 11.7
+dss_elena.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.9 | 0.7 | 0.2 | 1.1 | 1.1
+dss_elena.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3 | 0.3 | 0.3 | 0.3 | 0.3
+dss_elena.psv ->> HORIZONTE->CI ME/100G-K +...: 1.5 | 1.6 | 1.3 | 1.3 | 1.4
+dss_elena.psv ->> HORIZONTE->CI ME/100G-H +...: 0.8 | - | - | - | 
+dss_elena.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | - | 
+dss_elena.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16.5 | 16.9 | 18.0 | 17.1 | 14.5
+dss_elena.psv ->> HORIZONTE->CIC ME/100G(T)...: 17.3 | 16.9 | 18.0 | 17.1 | 14.5
+dss_elena.psv ->> HORIZONTE->SAT.B % (S/T)....: 95.4 | 100 | 100 | 100 | 100

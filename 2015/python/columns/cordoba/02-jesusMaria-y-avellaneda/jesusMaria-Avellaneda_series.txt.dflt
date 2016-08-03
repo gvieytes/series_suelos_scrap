@@ -1,0 +1,1600 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_altogrande.psv ->> ID..........................: 201
+dss_altogrande.psv ->> CLASIFICACION...............: Hasplustol típico
+dss_altogrande.psv ->> SERIE.......................: ALTO GRANDE (AlGr)
+dss_altogrande.psv ->> UBICACION...................: 14 km al Norte de Jesús María, departamento Totoral
+dss_altogrande.psv ->> PROVINCIA...................: CORDOBA
+dss_altogrande.psv ->> LATITUD.....................: S305200
+dss_altogrande.psv ->> LONGITUD....................: O640500
+dss_altogrande.psv ->> ALTITUD.....................: 570
+dss_altogrande.psv ->> PENDIENTE...................: FALTA!
+dss_altogrande.psv ->> DRENAJE.....................: FALTA!
+dss_altogrande.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_altogrande.psv ->> PERMEABILIDAD...............: FALTA!
+dss_altogrande.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_altogrande.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_altogrande.psv ->> HORIZONTE->NOMBRE(S)........: A |B2 |B3ca |Cca
+dss_altogrande.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-20 |20-38 |38-65 |65a+
+dss_altogrande.psv ->> HORIZONTE->Materia Orgánica (%): 3,3 |1,7 | |
+dss_altogrande.psv ->> HORIZONTE->Carbono Orgánico (%): 1,9 |1,0 | |
+dss_altogrande.psv ->> HORIZONTE->Nitrógeno total (%): 0,19 |0,10 | |
+dss_altogrande.psv ->> HORIZONTE->Relación C/N: 10,0 |10,0 | |
+dss_altogrande.psv ->> HORIZONTE->Arcilla, <2 μ (%): 19,0 |21,4 |17,0 |20,4
+dss_altogrande.psv ->> HORIZONTE->Limo, 2-50 μ (%): 56,5 |58,1 |61,2 |59,1
+dss_altogrande.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 7,3 |6,7 |6,6 |5,7
+dss_altogrande.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 4,0 |3,4 |2,9 |2,7
+dss_altogrande.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 4,5 |2,7 |3,2 |2,9
+dss_altogrande.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 6,9 |5,6 |4,6 |4,5
+dss_altogrande.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 2,1 |2,6 |2,2 |2,6
+dss_altogrande.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0 |0,0 |3,6 |7,8
+dss_altogrande.psv ->> HORIZONTE->Equivalente de humedad (%): 21,7 |22,0 |22,4 |22,4
+dss_altogrande.psv ->> HORIZONTE->pH en pasta: 6,9 |7,1 |7,3 |7,3
+dss_altogrande.psv ->> HORIZONTE->pH en agua 1:2,5: 7,3 |7,4 |7,6 |7,7
+dss_altogrande.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 18,5 |22,7 ||
+dss_altogrande.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,4 |0,7 | |
+dss_altogrande.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4 |0,3 |0,3 |0,3
+dss_altogrande.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,5 |1,1 |1,0 |1,1
+dss_altogrande.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,4 |0,2 ||
+dss_altogrande.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 20,8 |24,8 | |
+dss_altogrande.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 21,2 |25,0 |24,8 |24,9
+dss_altogrande.psv ->> HORIZONTE->Saturación con bases,% (S/T): 98,1 |99,2 |100|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_ascochinga.psv ->> ID..........................: 202
+dss_ascochinga.psv ->> CLASIFICACION...............: Argiustol údico
+dss_ascochinga.psv ->> SERIE.......................: ASCOCHINGA (Asc)
+dss_ascochinga.psv ->> UBICACION...................: 14 km al Oeste de Jesús María, departamento Totoral
+dss_ascochinga.psv ->> PROVINCIA...................: CORDOBA
+dss_ascochinga.psv ->> LATITUD.....................: S305500
+dss_ascochinga.psv ->> LONGITUD....................: O641400
+dss_ascochinga.psv ->> ALTITUD.....................: 600
+dss_ascochinga.psv ->> PENDIENTE...................: FALTA!
+dss_ascochinga.psv ->> DRENAJE.....................: FALTA!
+dss_ascochinga.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ascochinga.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ascochinga.psv ->> TIPO DE SUELO...............: FRANCA FINA A GRUESA MIXTA TÉRMICA
+dss_ascochinga.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ascochinga.psv ->> HORIZONTE->NOMBRE(S)........: Ap|A12|B21|B22|IIB3|IICca
+dss_ascochinga.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-11|11-21|21-54|54-79|79-98|98a+
+dss_ascochinga.psv ->> HORIZONTE->Materia Orgánica (%): 2,59|2,24| | | |
+dss_ascochinga.psv ->> HORIZONTE->Carbono Orgánico (%):  | | | | |
+dss_ascochinga.psv ->> HORIZONTE->Nitrógeno total (%): 0,14|0,14| | | |
+dss_ascochinga.psv ->> HORIZONTE->Relación C/N:  | | | | |
+dss_ascochinga.psv ->> HORIZONTE->Arcilla, <2 μ (%): 14,3|15,3|19,4|16,4|16|10,5
+dss_ascochinga.psv ->> HORIZONTE->Limo, 2-50 μ (%): 36,5|39,8|31,3|33.,7|34,5|37,1
+dss_ascochinga.psv ->> HORIZONTE->Arena total: 46,4|41,9|46,9|47,4|48|50
+dss_ascochinga.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0|0,0|5,9
+dss_ascochinga.psv ->> HORIZONTE->pH en pasta:  | | | | |
+dss_ascochinga.psv ->> HORIZONTE->pH en agua 1:2,5: 7,1|6,5|6,9|7,1|7,7|8,1
+dss_ascochinga.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 7,7|7,6|12|8,9|8,9|
+dss_ascochinga.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,7|2,6|0,9|1,9|1,3|
+dss_ascochinga.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,3|0,2|0,2|0,1|0,15
+dss_ascochinga.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,2|0,5|0,4|0,4|0,2|0,3
+dss_ascochinga.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,5|0,9|0,5|0,3| |
+dss_ascochinga.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | | | | |
+dss_ascochinga.psv ->> HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 11,4|11,9|14|12,7|10,6|9,8
+dss_ascochinga.psv ->> HORIZONTE->Saturación con bases,% (S/T): 96|92|96|98|99|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_barranca_yaco.psv ->> ID..........................: 203
+dss_barranca_yaco.psv ->> CLASIFICACION...............: Argiustol típico
+dss_barranca_yaco.psv ->> SERIE.......................: BARRANCA YACO (BYaco)
+dss_barranca_yaco.psv ->> UBICACION...................: 15 km al Norte de la ciudad de Jesús María, departamento Totoral
+dss_barranca_yaco.psv ->> PROVINCIA...................: CORDOBA
+dss_barranca_yaco.psv ->> LATITUD.....................: S305200
+dss_barranca_yaco.psv ->> LONGITUD....................: O640600
+dss_barranca_yaco.psv ->> ALTITUD.....................: 575
+dss_barranca_yaco.psv ->> PENDIENTE...................: FALTA!
+dss_barranca_yaco.psv ->> DRENAJE.....................: FALTA!
+dss_barranca_yaco.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_barranca_yaco.psv ->> PERMEABILIDAD...............: FALTA!
+dss_barranca_yaco.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_barranca_yaco.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_barranca_yaco.psv ->> HORIZONTE->NOMBRE(S)........: A1|B2t|B3|C|Cca
+dss_barranca_yaco.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-22|22-40|40-59|59-78|78a+
+dss_barranca_yaco.psv ->> HORIZONTE->Materia Orgánica (%): 3,1|1,0| | |
+dss_barranca_yaco.psv ->> HORIZONTE->Carbono Orgánico (%): 1,8|0,6| | |
+dss_barranca_yaco.psv ->> HORIZONTE->Nitrógeno total (%): 0,20|0,10| | |
+dss_barranca_yaco.psv ->> HORIZONTE->Relación C/N: 9,0|6,0| | |
+dss_barranca_yaco.psv ->> HORIZONTE->Arcilla, <2 μ (%): 24,0|31,1|26,0|21,0|18,0
+dss_barranca_yaco.psv ->> HORIZONTE->Limo, 2-50 μ (%): 63,4|58,7|62,0|68,0|33,0
+dss_barranca_yaco.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,0|4,9|5,2|6,1|6
+dss_barranca_yaco.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 1,2|1,2|1,2|1,3|1,4
+dss_barranca_yaco.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 1,4|1,0|1,1|1,1|1,0
+dss_barranca_yaco.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 2,6|1,8|1,7|1,8|1,9
+dss_barranca_yaco.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,9|1,2|1,3|1,4|1,5
+dss_barranca_yaco.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0|5,6
+dss_barranca_yaco.psv ->> HORIZONTE->Equivalente de humedad (%): 25,8|27,4|24,6|23,2|23,0
+dss_barranca_yaco.psv ->> HORIZONTE->pH en pasta:  | | | |
+dss_barranca_yaco.psv ->> HORIZONTE->pH en agua 1:2,5: 6,4|6,9|7,1|7,1|7,8
+dss_barranca_yaco.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 14,6|18,2|17,8|17,6|
+dss_barranca_yaco.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,0|0,5|0,6|0,4|
+dss_barranca_yaco.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,7|0,4|0,3|0,3|
+dss_barranca_yaco.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,8|1,2|0,8|0,7|
+dss_barranca_yaco.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,4|0,9|0,7|0,6|
+dss_barranca_yaco.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 18,1|20,3|19,5|19,0|18,2|
+dss_barranca_yaco.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 19,5|21,2|20,2|19,6|19,2|
+dss_barranca_yaco.psv ->> HORIZONTE->Saturación con bases,% (S/T): 92,8|95,8|96,5|96,9| |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_belen.psv ->> ID..........................: 204
+dss_belen.psv ->> CLASIFICACION...............: Argiustol údico
+dss_belen.psv ->> SERIE.......................: Belen (Bel)
+dss_belen.psv ->> UBICACION...................: 8 km al Noroeste de Jesús María, departamento Totoral
+dss_belen.psv ->> PROVINCIA...................: CORDOBA
+dss_belen.psv ->> LATITUD.....................: S305500
+dss_belen.psv ->> LONGITUD....................: S640400
+dss_belen.psv ->> ALTITUD.....................: 550
+dss_belen.psv ->> PENDIENTE...................: FALTA!
+dss_belen.psv ->> DRENAJE.....................: FALTA!
+dss_belen.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_belen.psv ->> PERMEABILIDAD...............: FALTA!
+dss_belen.psv ->> TIPO DE SUELO...............: FRANCA FINA A ARCILLOSA FINA MIXTA TÉRMICA
+dss_belen.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_belen.psv ->> HORIZONTE->NOMBRE(S)........: A1|B2t|B3|C
+dss_belen.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-26|26-60|60-85|85a+
+dss_belen.psv ->> HORIZONTE->Materia Orgánica (%): 2,9|1,2| | 
+dss_belen.psv ->> HORIZONTE->Carbono Orgánico (%): 1,7|0,7| | 
+dss_belen.psv ->> HORIZONTE->Nitrógeno total (%): 0,17|0,08| | 
+dss_belen.psv ->> HORIZONTE->Relación C/N: 10,0|8,8| | 
+dss_belen.psv ->> HORIZONTE->Arcilla, <2 μ (%): 29,1|37,5|31,1|28,9
+dss_belen.psv ->> HORIZONTE->Limo, 2-50 μ (%): 65,0|54,1|58,5|61,0
+dss_belen.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 2,6|4,6|4,6|9,7
+dss_belen.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 0,8|1,1|1,2|1,1
+dss_belen.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 0,6|0,9|0,7|0,7
+dss_belen.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 0,7|1,3|1,0|1,1
+dss_belen.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 1,1|0,1|0,4|0,4
+dss_belen.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0
+dss_belen.psv ->> HORIZONTE->Equivalente de humedad (%): 29,1|28,5|27,6|25,9
+dss_belen.psv ->> HORIZONTE->PH en pasta:  | | | 
+dss_belen.psv ->> HORIZONTE->PH en agua 1:2,5: 6,5|6,6|6,5|6,6
+dss_belen.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 18,7|16,7|16,0|15,4
+dss_belen.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,0|1,3|1,2|1,4
+dss_belen.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4|0,4|0,4|0,4
+dss_belen.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,6|1,3|1,2|1,2
+dss_belen.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,9|1,1|1,1|1,0
+dss_belen.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 21,7|19,7|18,8|18,4
+dss_belen.psv ->> HORIZONTE->Capacidad de intercambio cat. me/100 gr (T): 22,6|20,8|19,9|19,4
+dss_belen.psv ->> HORIZONTE->Saturación con bases,% (S/T): 96|94,7|94,5|94,8
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_camino_real.psv ->> ID..........................: 205
+dss_camino_real.psv ->> CLASIFICACION...............: Calciustol petrocálcico
+dss_camino_real.psv ->> SERIE.......................: Camino Real (CamR)
+dss_camino_real.psv ->> UBICACION...................: 5 km al Norte de Jesús María, departamento Totoral
+dss_camino_real.psv ->> PROVINCIA...................: CORDOBA
+dss_camino_real.psv ->> LATITUD.....................: S305500
+dss_camino_real.psv ->> LONGITUD....................: O640600
+dss_camino_real.psv ->> ALTITUD.....................: 550
+dss_camino_real.psv ->> PENDIENTE...................: FALTA!
+dss_camino_real.psv ->> DRENAJE.....................: FALTA!
+dss_camino_real.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_camino_real.psv ->> PERMEABILIDAD...............: FALTA!
+dss_camino_real.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_camino_real.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_camino_real.psv ->> HORIZONTE->NOMBRE(S)........: A|CCam
+dss_camino_real.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-18|18a+
+dss_camino_real.psv ->> HORIZONTE->Materia Orgánica (%): 3,1| 
+dss_camino_real.psv ->> HORIZONTE->Carbono Orgánico (%): 1,8| 
+dss_camino_real.psv ->> HORIZONTE->Nitrógeno total (%): 0,17| 
+dss_camino_real.psv ->> HORIZONTE->Relación C/N: 10,6| 
+dss_camino_real.psv ->> HORIZONTE->Arcilla, <2 μ (%): 19,6| 
+dss_camino_real.psv ->> HORIZONTE->Limo, 2-50 μ (%): 54,5| 
+dss_camino_real.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,8| 
+dss_camino_real.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 3,7| 
+dss_camino_real.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 4,1| 
+dss_camino_real.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 6,6| 
+dss_camino_real.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 3,4| 
+dss_camino_real.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 1,0| 
+dss_camino_real.psv ->> HORIZONTE->Equivalente de humedad (%): 23,0| 
+dss_camino_real.psv ->> HORIZONTE->pH en pasta: 7,0| 
+dss_camino_real.psv ->> HORIZONTE->pH en agua 1:2,5: 7,5| 
+dss_camino_real.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: |
+dss_camino_real.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++:  |
+dss_camino_real.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4|
+dss_camino_real.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,3|
+dss_camino_real.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +:  |
+dss_camino_real.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): |
+dss_camino_real.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 18,6| 
+dss_camino_real.psv ->> HORIZONTE->Saturación con bases,% (S/T): 100| 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_canada_rio_pinto.psv ->> ID..........................: 206
+dss_canada_rio_pinto.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_canada_rio_pinto.psv ->> SERIE.......................: CAÑADA DEL RÍO PINTO
+dss_canada_rio_pinto.psv ->> UBICACION...................: 5 km del paraje homónimo, departamento Ischilín
+dss_canada_rio_pinto.psv ->> PROVINCIA...................: CORDOBA
+dss_canada_rio_pinto.psv ->> LATITUD.....................: S304700
+dss_canada_rio_pinto.psv ->> LONGITUD....................: O641100
+dss_canada_rio_pinto.psv ->> ALTITUD.....................: 675
+dss_canada_rio_pinto.psv ->> PENDIENTE...................: FALTA!
+dss_canada_rio_pinto.psv ->> DRENAJE.....................: FALTA!
+dss_canada_rio_pinto.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_canada_rio_pinto.psv ->> PERMEABILIDAD...............: FALTA!
+dss_canada_rio_pinto.psv ->> TIPO DE SUELO...............: FRANCA FINA CALCÁREA MIXTA TÉRMICA
+dss_canada_rio_pinto.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_canada_rio_pinto.psv ->> HORIZONTE->NOMBRE(S)........: A11ca|A12ca|IIca
+dss_canada_rio_pinto.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-18|18-40|40a+
+dss_canada_rio_pinto.psv ->> HORIZONTE->Materia Orgánica (%): 4,0|2,8|
+dss_canada_rio_pinto.psv ->> HORIZONTE->Carbono Orgánico (%): 2,3|1,6|
+dss_canada_rio_pinto.psv ->> HORIZONTE->Nitrógeno total (%): 0,22|0,16|
+dss_canada_rio_pinto.psv ->> HORIZONTE->Relación C/N: 10,5|10,0|
+dss_canada_rio_pinto.psv ->> HORIZONTE->Arcilla, <2 μ (%): 21,2|24,8|30,9
+dss_canada_rio_pinto.psv ->> HORIZONTE->Limo, 2-50 μ (%): 41,6|40,2|47,8
+dss_canada_rio_pinto.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,9|5,0|5,0
+dss_canada_rio_pinto.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 5,9|5,4|4,3
+dss_canada_rio_pinto.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 7,0|7,4|4,2
+dss_canada_rio_pinto.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 10,4|10,6|5,1
+dss_canada_rio_pinto.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 5,1|4,2|3,9
+dss_canada_rio_pinto.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,7|0,3|13,6
+dss_canada_rio_pinto.psv ->> HORIZONTE->Equivalente de humedad (%): 23,0|22,3|24,9
+dss_canada_rio_pinto.psv ->> HORIZONTE->pH en pasta:  | |
+dss_canada_rio_pinto.psv ->> HORIZONTE->pH en agua 1:2,5: 7,4|7,7|7,8
+dss_canada_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 18,3|20,0|
+dss_canada_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,5|1,3|
+dss_canada_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,3|0,2
+dss_canada_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,0|0,9|0,6
+dss_canada_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,1|0,3|
+dss_canada_rio_pinto.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 20,1|22,5| 
+dss_canada_rio_pinto.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 20,2|22,8| 
+dss_canada_rio_pinto.psv ->> HORIZONTE->Saturación con bases,% (S/T): 99,5|98,7|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_cerro_negro.psv ->> ID..........................: 207
+dss_cerro_negro.psv ->> CLASIFICACION...............: Ustorthent lítico paralítico esquelética
+dss_cerro_negro.psv ->> SERIE.......................: CERRO NEGRO (CN)
+dss_cerro_negro.psv ->> UBICACION...................: 8 km al Oeste del paraje Cañada de Río Pinto, departamento Ischilín
+dss_cerro_negro.psv ->> PROVINCIA...................: CORDOBA
+dss_cerro_negro.psv ->> LATITUD.....................: S304700
+dss_cerro_negro.psv ->> LONGITUD....................: O641600
+dss_cerro_negro.psv ->> ALTITUD.....................: 1000
+dss_cerro_negro.psv ->> PENDIENTE...................: FALTA!
+dss_cerro_negro.psv ->> DRENAJE.....................: FALTA!
+dss_cerro_negro.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_cerro_negro.psv ->> PERMEABILIDAD...............: FALTA!
+dss_cerro_negro.psv ->> TIPO DE SUELO...............: FRANCA GRUESA
+dss_cerro_negro.psv ->> COLOR ......................: PARDO OSCURO
+dss_cerro_negro.psv ->> HORIZONTE->NOMBRE(S)........: A|II
+dss_cerro_negro.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-8|8-16
+dss_cerro_negro.psv ->> HORIZONTE->Materia Orgánica (%): 5,2|4,3
+dss_cerro_negro.psv ->> HORIZONTE->Carbono Orgánico (%): 3,0|2,5
+dss_cerro_negro.psv ->> HORIZONTE->Nitrógeno total (%): 0,27|0,22
+dss_cerro_negro.psv ->> HORIZONTE->Relación C/N: 11,1|11,4
+dss_cerro_negro.psv ->> HORIZONTE->Arcilla, <2 μ (%): 3,6|5,7
+dss_cerro_negro.psv ->> HORIZONTE->Limo, 2-50 μ (%): 16,0|17,4
+dss_cerro_negro.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 9,1|7,7
+dss_cerro_negro.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 15,7|13,1
+dss_cerro_negro.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 17,1|13,7
+dss_cerro_negro.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 23,1|20,7
+dss_cerro_negro.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 13,5|19,1
+dss_cerro_negro.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0
+dss_cerro_negro.psv ->> HORIZONTE->Equivalente de humedad (%): 17,6|16,2
+dss_cerro_negro.psv ->> HORIZONTE->pH en pasta:  | 
+dss_cerro_negro.psv ->> HORIZONTE->pH en agua 1:2,5: 7,3|7,3
+dss_cerro_negro.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 13,2|14,3
+dss_cerro_negro.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,5|0,9
+dss_cerro_negro.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,3
+dss_cerro_negro.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,8|0,7
+dss_cerro_negro.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,0|0,3
+dss_cerro_negro.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 14,8|16,2
+dss_cerro_negro.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 15,8|16,5
+dss_cerro_negro.psv ->> HORIZONTE->Saturación con bases,% (S/T): 93,7|98,2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_cortijo.psv ->> ID..........................: 208
+dss_el_cortijo.psv ->> CLASIFICACION...............: Argiustol típico
+dss_el_cortijo.psv ->> SERIE.......................: EL CORTIJO (Cort)
+dss_el_cortijo.psv ->> UBICACION...................: 6,4 km al SSE de Villa del Totoral, departamento Totoral
+dss_el_cortijo.psv ->> PROVINCIA...................: CORDOBA
+dss_el_cortijo.psv ->> LATITUD.....................: S304600
+dss_el_cortijo.psv ->> LONGITUD....................: O635800
+dss_el_cortijo.psv ->> ALTITUD.....................: 550
+dss_el_cortijo.psv ->> PENDIENTE...................: FALTA!
+dss_el_cortijo.psv ->> DRENAJE.....................: FALTA!
+dss_el_cortijo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_cortijo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_cortijo.psv ->> TIPO DE SUELO...............: FRANCA FINA A GRUESA MIXTA TÉRMICA
+dss_el_cortijo.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_el_cortijo.psv ->> HORIZONTE->NOMBRE(S)........: A1|B2t|B3|Cca
+dss_el_cortijo.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-20|20-44|44-65|65a+
+dss_el_cortijo.psv ->> HORIZONTE->Materia Orgánica (%): 2,8|1,6| | 
+dss_el_cortijo.psv ->> HORIZONTE->Carbono Orgánico (%): 1,6|0,9| |
+dss_el_cortijo.psv ->> HORIZONTE->Nitrógeno total (%): 0,16|0,09| | 
+dss_el_cortijo.psv ->> HORIZONTE->Relación C/N: 10,0|10,0| | 
+dss_el_cortijo.psv ->> HORIZONTE->Arcilla, <2 μ (%): 18,0|23,6|22,8|20,2
+dss_el_cortijo.psv ->> HORIZONTE->Limo, 2-50 μ (%): 49,9|48,4|48,9|54,9
+dss_el_cortijo.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 7,8|5,4|5,3|5,8
+dss_el_cortijo.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 7,1|6,5|6,3|6,6
+dss_el_cortijo.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 7,7|6,2|6,2|5,6
+dss_el_cortijo.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 7,8|6,6|6,7|5,3
+dss_el_cortijo.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 2,3|2,9|3,4|2,1
+dss_el_cortijo.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,2|0,0|0,0|0,6
+dss_el_cortijo.psv ->> HORIZONTE->Equivalente de humedad (%): 21,6|21,7|20,0|19,0
+dss_el_cortijo.psv ->> HORIZONTE->pH en pasta:  | | |
+dss_el_cortijo.psv ->> HORIZONTE->pH en agua 1:2,5: 7,2|7,3|7,4|8,2
+dss_el_cortijo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 13,9|15,2|15,4|
+dss_el_cortijo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,4|0,7|0,8|
+dss_el_cortijo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,6|0,5|0,4|0,3
+dss_el_cortijo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 3,3|2,9|1,6|1,3
+dss_el_cortijo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,6|0,9|0,6
+dss_el_cortijo.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 18,2|19,3|18,2|
+dss_el_cortijo.psv ->> HORIZONTE->Capacidad de intercambio catiónico me/100 gr (T): 19,8|20,2|18,8|17,9
+dss_el_cortijo.psv ->> HORIZONTE->Saturación con bases,% (S/T): 91,9|95,5|96,8|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_cruce.psv ->> ID..........................: 209
+dss_el_cruce.psv ->> CLASIFICACION...............: Haplustol udorthéntico
+dss_el_cruce.psv ->> SERIE.......................: EL CRUCE (Cruce)
+dss_el_cruce.psv ->> UBICACION...................: 9 km al ONO de Jesús María, departamento Totoral
+dss_el_cruce.psv ->> PROVINCIA...................: CORDOBA
+dss_el_cruce.psv ->> LATITUD.....................: S305500
+dss_el_cruce.psv ->> LONGITUD....................: O641200
+dss_el_cruce.psv ->> ALTITUD.....................: 600
+dss_el_cruce.psv ->> PENDIENTE...................: FALTA!
+dss_el_cruce.psv ->> DRENAJE.....................: FALTA!
+dss_el_cruce.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_cruce.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_cruce.psv ->> TIPO DE SUELO...............: ESQUELÉTICA FRANCA GRUESA MIXTA TÉRMICA
+dss_el_cruce.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_el_cruce.psv ->> HORIZONTE->NOMBRE(S)........: A|AC
+dss_el_cruce.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-22|22-47
+dss_el_cruce.psv ->> HORIZONTE->Materia Orgánica (%): 2,6|1,2
+dss_el_cruce.psv ->> HORIZONTE->Carbono Orgánico (%):  | 
+dss_el_cruce.psv ->> HORIZONTE->Nitrógeno total (%): 0,15|0,07
+dss_el_cruce.psv ->> HORIZONTE->Relación C/N:  | 
+dss_el_cruce.psv ->> HORIZONTE->Arcilla, <2 μ (%): 11,5|17,2
+dss_el_cruce.psv ->> HORIZONTE->Limo, 2-50 μ (%): 20,8|18,2
+dss_el_cruce.psv ->> HORIZONTE->Arena total: 68,2|64,5
+dss_el_cruce.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0
+dss_el_cruce.psv ->> HORIZONTE->Equivalente de humedad (%):  | 
+dss_el_cruce.psv ->> HORIZONTE->pH en pasta:  | 
+dss_el_cruce.psv ->> HORIZONTE->pH en agua 1:2,5: 6,7|7,5
+dss_el_cruce.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 12,3|10,8
+dss_el_cruce.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,1|1,6
+dss_el_cruce.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,3
+dss_el_cruce.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,6|1,1
+dss_el_cruce.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,6| 
+dss_el_cruce.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | 
+dss_el_cruce.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 15,9|13,8
+dss_el_cruce.psv ->> HORIZONTE->Saturación con bases,% (S/T): 96|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_durazno.psv ->> ID..........................: 210
+dss_el_durazno.psv ->> CLASIFICACION...............: Calciustol típico
+dss_el_durazno.psv ->> SERIE.......................: EL DURAZNO
+dss_el_durazno.psv ->> UBICACION...................: 6 km al Noroeste de la localidad de Avellaneda, departamento Ischilín
+dss_el_durazno.psv ->> PROVINCIA...................: CORDOBA
+dss_el_durazno.psv ->> LATITUD.....................: S303400
+dss_el_durazno.psv ->> LONGITUD....................: O641600
+dss_el_durazno.psv ->> ALTITUD.....................: 750
+dss_el_durazno.psv ->> PENDIENTE...................: FALTA!
+dss_el_durazno.psv ->> DRENAJE.....................: FALTA!
+dss_el_durazno.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_durazno.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_durazno.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_el_durazno.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_el_durazno.psv ->> HORIZONTE->NOMBRE(S)........: ACca|ACca|Cca
+dss_el_durazno.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-19|19-46|46 a +
+dss_el_durazno.psv ->> HORIZONTE->Materia Orgánica (%): 3,3|1,6| 
+dss_el_durazno.psv ->> HORIZONTE->Carbono Orgánico (%): 1,9|0,9| 
+dss_el_durazno.psv ->> HORIZONTE->Nitrógeno total (%): 0,19|1,08| 
+dss_el_durazno.psv ->> HORIZONTE->Relación C/N: 10,0|0,8| 
+dss_el_durazno.psv ->> HORIZONTE->Arcilla, <2 μ (%): 25,8|18,8|26,0
+dss_el_durazno.psv ->> HORIZONTE->Limo, 2-50 μ (%): 42,6|38,4|47,0
+dss_el_durazno.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,3|5,7|5,5
+dss_el_durazno.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 5,4|6,6|5,5
+dss_el_durazno.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 5,2|8,0|5,2
+dss_el_durazno.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 6,8|11,4|6,0
+dss_el_durazno.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 6,3|9,3|4,8
+dss_el_durazno.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 7,6|17,1|21,4
+dss_el_durazno.psv ->> HORIZONTE->Equivalente de humedad (%): 23,3|25,2|25,6
+dss_el_durazno.psv ->> HORIZONTE->pH en pasta: 7,2|7,3|7,4
+dss_el_durazno.psv ->> HORIZONTE->pH en agua 1:2,5: 7,6|7,9|8,1
+dss_el_durazno.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++:  | |
+dss_el_durazno.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++:  | |
+dss_el_durazno.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4|0,4|0,4
+dss_el_durazno.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,4|1,1|1,1
+dss_el_durazno.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +:  | |
+dss_el_durazno.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | |
+dss_el_durazno.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 25,7|21,6|
+dss_el_durazno.psv ->> HORIZONTE->Saturación con bases,% (S/T): 100|100|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_martillo.psv ->> ID..........................: 211
+dss_el_martillo.psv ->> CLASIFICACION...............: Udorthent lítico paralítico esquelética
+dss_el_martillo.psv ->> SERIE.......................: EL MARTILLO
+dss_el_martillo.psv ->> UBICACION...................: 5 km al Noroeste de Ongamira, departamento Ischilín
+dss_el_martillo.psv ->> PROVINCIA...................: CORDOBA
+dss_el_martillo.psv ->> LATITUD.....................: S304700
+dss_el_martillo.psv ->> LONGITUD....................: O642700
+dss_el_martillo.psv ->> ALTITUD.....................: 1300
+dss_el_martillo.psv ->> PENDIENTE...................: FALTA!
+dss_el_martillo.psv ->> DRENAJE.....................: FALTA!
+dss_el_martillo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_martillo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_martillo.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA MÉSICA
+dss_el_martillo.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_el_martillo.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_el_martillo.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-10
+dss_el_martillo.psv ->> HORIZONTE->Materia Orgánica (%): 6,2
+dss_el_martillo.psv ->> HORIZONTE->Carbono Orgánico (%): 3,6
+dss_el_martillo.psv ->> HORIZONTE->Nitrógeno total (%): 0,33
+dss_el_martillo.psv ->> HORIZONTE->Relación C/N: 10,9
+dss_el_martillo.psv ->> HORIZONTE->Arcilla, <2 μ (%): 14,9
+dss_el_martillo.psv ->> HORIZONTE->Limo, 2-50 μ (%): 17,8
+dss_el_martillo.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 4,2
+dss_el_martillo.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 11,2
+dss_el_martillo.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 15,1
+dss_el_martillo.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 23,4
+dss_el_martillo.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 11,6
+dss_el_martillo.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0
+dss_el_martillo.psv ->> HORIZONTE->Equivalente de humedad (%): 20,9
+dss_el_martillo.psv ->> HORIZONTE->pH en pasta:  
+dss_el_martillo.psv ->> HORIZONTE->pH en agua 1:2,5: 7,2
+dss_el_martillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 17,8
+dss_el_martillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,6
+dss_el_martillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2
+dss_el_martillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,5
+dss_el_martillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,9
+dss_el_martillo.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 20,1
+dss_el_martillo.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 21,0
+dss_el_martillo.psv ->> HORIZONTE->Saturación con bases,% (S/T): 95,7
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_rosario.psv ->> ID..........................: 212
+dss_el_rosario.psv ->> CLASIFICACION...............: Argiustol údico paralítico
+dss_el_rosario.psv ->> SERIE.......................: EL ROSARIO
+dss_el_rosario.psv ->> UBICACION...................: 2,7 km al Oeste de la ciudad de La Cumbre, departamento Punilla
+dss_el_rosario.psv ->> PROVINCIA...................: CORDOBA
+dss_el_rosario.psv ->> LATITUD.....................: S305900
+dss_el_rosario.psv ->> LONGITUD....................: O642800
+dss_el_rosario.psv ->> ALTITUD.....................: 1450
+dss_el_rosario.psv ->> PENDIENTE...................: FALTA!
+dss_el_rosario.psv ->> DRENAJE.....................: FALTA!
+dss_el_rosario.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_rosario.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_rosario.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA MÉSICA
+dss_el_rosario.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_el_rosario.psv ->> HORIZONTE->NOMBRE(S)........: A1|IIB2t
+dss_el_rosario.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-28|28-60
+dss_el_rosario.psv ->> HORIZONTE->Materia Orgánica (%): 4,1|1,0
+dss_el_rosario.psv ->> HORIZONTE->Carbono Orgánico (%): 2,4|0,6
+dss_el_rosario.psv ->> HORIZONTE->Nitrógeno total (%): 0,24|0,07
+dss_el_rosario.psv ->> HORIZONTE->Relación C/N: 10,0|8,6
+dss_el_rosario.psv ->> HORIZONTE->Arcilla, <2 μ (%): 10,7|23,6
+dss_el_rosario.psv ->> HORIZONTE->Limo, 2-50 μ (%): 26,0|22,6
+dss_el_rosario.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,1|4,8
+dss_el_rosario.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 10,6|7,9
+dss_el_rosario.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 12,7|10,4
+dss_el_rosario.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 19,9|17,7
+dss_el_rosario.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 12,6|10,2
+dss_el_rosario.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0
+dss_el_rosario.psv ->> HORIZONTE->Equivalente de humedad (%): 18,2|18,7
+dss_el_rosario.psv ->> HORIZONTE->pH en pasta:  | 
+dss_el_rosario.psv ->> HORIZONTE->pH en agua 1:2,5: 5,5|6,0
+dss_el_rosario.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 9,8|13,8
+dss_el_rosario.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,5|0,6
+dss_el_rosario.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,1|0,2
+dss_el_rosario.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,2|0,2
+dss_el_rosario.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2|0,4
+dss_el_rosario.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 10,6|14,8
+dss_el_rosario.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 11,8|15,2
+dss_el_rosario.psv ->> HORIZONTE->Saturación con bases,% (S/T): 89,8|97,4
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_estacion_macha.psv ->> ID..........................: 213
+dss_estacion_macha.psv ->> CLASIFICACION...............: Ustorthent paralítico
+dss_estacion_macha.psv ->> SERIE.......................: ESTACIÓN MACHA
+dss_estacion_macha.psv ->> UBICACION...................: 4,5 km al Sur del paraje homónimo, departamento Totoral
+dss_estacion_macha.psv ->> PROVINCIA...................: CORDOBA
+dss_estacion_macha.psv ->> LATITUD.....................: S303600
+dss_estacion_macha.psv ->> LONGITUD....................: O640700
+dss_estacion_macha.psv ->> ALTITUD.....................: 700
+dss_estacion_macha.psv ->> PENDIENTE...................: FALTA!
+dss_estacion_macha.psv ->> DRENAJE.....................: FALTA!
+dss_estacion_macha.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_estacion_macha.psv ->> PERMEABILIDAD...............: FALTA!
+dss_estacion_macha.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_estacion_macha.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_estacion_macha.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_estacion_macha.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-15
+dss_estacion_macha.psv ->> HORIZONTE->Materia Orgánica (%): 1,7
+dss_estacion_macha.psv ->> HORIZONTE->Carbono Orgánico (%): 1,0
+dss_estacion_macha.psv ->> HORIZONTE->Nitrógeno total (%): 0,09
+dss_estacion_macha.psv ->> HORIZONTE->Relación C/N: 11,1
+dss_estacion_macha.psv ->> HORIZONTE->Arcilla, <2 μ (%): 7,3
+dss_estacion_macha.psv ->> HORIZONTE->Limo, 2-50 μ (%): 15,7
+dss_estacion_macha.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,5
+dss_estacion_macha.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 13,7
+dss_estacion_macha.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 15,6
+dss_estacion_macha.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 21,9
+dss_estacion_macha.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 18,8
+dss_estacion_macha.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0
+dss_estacion_macha.psv ->> HORIZONTE->Equivalente de humedad (%): 11,6
+dss_estacion_macha.psv ->> HORIZONTE->pH en pasta:  
+dss_estacion_macha.psv ->> HORIZONTE->pH en agua 1:2,5: 7,7
+dss_estacion_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 13,6
+dss_estacion_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,4
+dss_estacion_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3
+dss_estacion_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,8
+dss_estacion_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +:  
+dss_estacion_macha.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 16,1
+dss_estacion_macha.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 16,2
+dss_estacion_macha.psv ->> HORIZONTE->Saturación con bases,% (S/T): 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_estancia_el_manzano.psv ->> ID..........................: 214
+dss_estancia_el_manzano.psv ->> CLASIFICACION...............: Haplustol paralítico
+dss_estancia_el_manzano.psv ->> SERIE.......................: ESTANCIA EL MANZANO
+dss_estancia_el_manzano.psv ->> UBICACION...................: 7 km al Norte del paraje Barranca Yaco, departamento Totoral
+dss_estancia_el_manzano.psv ->> PROVINCIA...................: CORDOBA
+dss_estancia_el_manzano.psv ->> LATITUD.....................: S304800
+dss_estancia_el_manzano.psv ->> LONGITUD....................: O6406
+dss_estancia_el_manzano.psv ->> ALTITUD.....................: 600
+dss_estancia_el_manzano.psv ->> PENDIENTE...................: FALTA!
+dss_estancia_el_manzano.psv ->> DRENAJE.....................: FALTA!
+dss_estancia_el_manzano.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_estancia_el_manzano.psv ->> PERMEABILIDAD...............: FALTA!
+dss_estancia_el_manzano.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_estancia_el_manzano.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_estancia_el_manzano.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_estancia_el_manzano.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-30
+dss_estancia_el_manzano.psv ->> HORIZONTE->Materia Orgánica (%): 2,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->Carbono Orgánico (%): 1,3
+dss_estancia_el_manzano.psv ->> HORIZONTE->Nitrógeno total (%): 0,12
+dss_estancia_el_manzano.psv ->> HORIZONTE->Relación C/N: 10,8
+dss_estancia_el_manzano.psv ->> HORIZONTE->Arcilla, <2 μ (%): 8,9
+dss_estancia_el_manzano.psv ->> HORIZONTE->Limo, 2-50 μ (%): 22,6
+dss_estancia_el_manzano.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 2,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 4,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 8,6
+dss_estancia_el_manzano.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 27,3
+dss_estancia_el_manzano.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 23,9
+dss_estancia_el_manzano.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0
+dss_estancia_el_manzano.psv ->> HORIZONTE->Equivalente de humedad (%): 13,3
+dss_estancia_el_manzano.psv ->> HORIZONTE->pH en pasta: 6,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->pH en agua 1:2,5: 6,9
+dss_estancia_el_manzano.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 8,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 9,8
+dss_estancia_el_manzano.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 11,0
+dss_estancia_el_manzano.psv ->> HORIZONTE->Saturación con bases,% (S/T): 89,0
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_estancia_la_selva.psv ->> ID..........................: 215
+dss_estancia_la_selva.psv ->> CLASIFICACION...............: Natrustol típico
+dss_estancia_la_selva.psv ->> SERIE.......................: ESTANCIA LA SELVA
+dss_estancia_la_selva.psv ->> UBICACION...................: 12 km al Norte de Jesús María, departamento Totoral
+dss_estancia_la_selva.psv ->> PROVINCIA...................: CORDOBA
+dss_estancia_la_selva.psv ->> LATITUD.....................: S305300
+dss_estancia_la_selva.psv ->> LONGITUD....................: O640500
+dss_estancia_la_selva.psv ->> ALTITUD.....................: 553
+dss_estancia_la_selva.psv ->> PENDIENTE...................: FALTA!
+dss_estancia_la_selva.psv ->> DRENAJE.....................: FALTA!
+dss_estancia_la_selva.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_estancia_la_selva.psv ->> PERMEABILIDAD...............: FALTA!
+dss_estancia_la_selva.psv ->> TIPO DE SUELO...............: ARCILLOSA FINA MIXTA TÉRMICA
+dss_estancia_la_selva.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_estancia_la_selva.psv ->> HORIZONTE->NOMBRE(S)........: A|B21t|B22t
+dss_estancia_la_selva.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-18|18-48|48a+
+dss_estancia_la_selva.psv ->> HORIZONTE->Materia Orgánica (%):  | |
+dss_estancia_la_selva.psv ->> HORIZONTE->Carbono Orgánico (%): 1,2|0,9|
+dss_estancia_la_selva.psv ->> HORIZONTE->Nitrógeno total (%): 0,10|0,09|
+dss_estancia_la_selva.psv ->> HORIZONTE->Relación C/N: 12,0|10,0|
+dss_estancia_la_selva.psv ->> HORIZONTE->Arcilla, <2 μ (%): 22,4|38,1|38,4
+dss_estancia_la_selva.psv ->> HORIZONTE->Limo, 2-50 μ (%): 54,9|46,6|46,6
+dss_estancia_la_selva.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,1|3,3|3,0
+dss_estancia_la_selva.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 4,4|3,3|2,7
+dss_estancia_la_selva.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 5,7|4,3|3,1
+dss_estancia_la_selva.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 6,3|5,3|4,3
+dss_estancia_la_selva.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 1,3|1,1|1,5
+dss_estancia_la_selva.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,2
+dss_estancia_la_selva.psv ->> HORIZONTE->Equivalente de humedad (%): 21,8|27,2|29,6
+dss_estancia_la_selva.psv ->> HORIZONTE->pH en pasta:  | |
+dss_estancia_la_selva.psv ->> HORIZONTE->pH en agua 1:2,5: 6,7|8,1|8,7
+dss_estancia_la_selva.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 14,6|18,8|16,4
+dss_estancia_la_selva.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,6|1,9|2,3
+dss_estancia_la_selva.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,7|2,2|4,0
+dss_estancia_la_selva.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,3|1,4|1,5
+dss_estancia_la_selva.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 2,0||
+dss_estancia_la_selva.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 18,2|24,3|24,2
+dss_estancia_la_selva.psv ->> HORIZONTE->Cap. de intercambio catiónica me/100 gr (T): 20,2|24,4|24,2
+dss_estancia_la_selva.psv ->> HORIZONTE->Saturación con bases,% (S/T): 90,0|100|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_estancia_todos_los_santos.psv ->> ID..........................: 216
+dss_estancia_todos_los_santos.psv ->> CLASIFICACION...............: Hapludol lítico paralítico
+dss_estancia_todos_los_santos.psv ->> SERIE.......................: ESTANCIA TODOS LOS SANTOS
+dss_estancia_todos_los_santos.psv ->> UBICACION...................: 9 km al Este de Ongamira, departamento Ischilín
+dss_estancia_todos_los_santos.psv ->> PROVINCIA...................: CORDOBA
+dss_estancia_todos_los_santos.psv ->> LATITUD.....................: S304700
+dss_estancia_todos_los_santos.psv ->> LONGITUD....................: O641900
+dss_estancia_todos_los_santos.psv ->> ALTITUD.....................: 1100
+dss_estancia_todos_los_santos.psv ->> PENDIENTE...................: FALTA!
+dss_estancia_todos_los_santos.psv ->> DRENAJE.....................: FALTA!
+dss_estancia_todos_los_santos.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_estancia_todos_los_santos.psv ->> PERMEABILIDAD...............: FALTA!
+dss_estancia_todos_los_santos.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA MÉSICA
+dss_estancia_todos_los_santos.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->NOMBRE(S)........: A|II
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-18|18-30
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Materia Orgánica (%): 3,6|2,4
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Carbono Orgánico (%): 2,1|1,4
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Nitrógeno total (%): 0,18|0,12
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Relación C/N: 11,7|11,7
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Arcilla, <2 μ (%): 8,5|9,3
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Limo, 2-50 μ (%): 16,0|20,2
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 6,5|3,8
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 13,2|10,2
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 13,8|14,3
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 22,2|21,3
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 18,6|18,4
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Equivalente de humedad (%): 17,4|14,7
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->pH en pasta:  | 
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->pH en agua 1:2,5: 6,7|6,8
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 10,5|9,9
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,4|1,2
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,2
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,7|0,6
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2|1,8
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 12,9|11,9
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Cap. de intercambio catiónica me/100 gr (T): 14,1|13,
+dss_estancia_todos_los_santos.psv ->> HORIZONTE->Saturación con bases,% (S/T):  | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_jesus_maria.psv ->> ID..........................: 217
+dss_jesus_maria.psv ->> CLASIFICACION...............: Argiustol údico
+dss_jesus_maria.psv ->> SERIE.......................: JESUS MARIA (JM)
+dss_jesus_maria.psv ->> UBICACION...................: FALTA!
+dss_jesus_maria.psv ->> PROVINCIA...................: CORDOBA
+dss_jesus_maria.psv ->> LATITUD.....................: S305200
+dss_jesus_maria.psv ->> LONGITUD....................: O641500
+dss_jesus_maria.psv ->> ALTITUD.....................: 630
+dss_jesus_maria.psv ->> PENDIENTE...................: FALTA!
+dss_jesus_maria.psv ->> DRENAJE.....................: FALTA!
+dss_jesus_maria.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_jesus_maria.psv ->> PERMEABILIDAD...............: FALTA!
+dss_jesus_maria.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_jesus_maria.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_jesus_maria.psv ->> HORIZONTE->NOMBRE(S)........: Ap|B2t|B3|Cca
+dss_jesus_maria.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-23|23-55|55-94|94a+
+dss_jesus_maria.psv ->> HORIZONTE->Materia Orgánica (%): 3,6|1,26|0,72| 
+dss_jesus_maria.psv ->> HORIZONTE->Carbono Orgánico (%): 2,0|0,7|0,4| 
+dss_jesus_maria.psv ->> HORIZONTE->Nitrógeno total (%): 0,16| | | 
+dss_jesus_maria.psv ->> HORIZONTE->Relación C/N: 12| | |
+dss_jesus_maria.psv ->> HORIZONTE->Arcilla, <2 μ (%): 23,1|28,1|25,68|20,33
+dss_jesus_maria.psv ->> HORIZONTE->Limo, 2-50 μ (%): 71,7|69,2|69,59|75,35
+dss_jesus_maria.psv ->> HORIZONTE->Arena muy fina 50-100 μ (%): 2,85|2,95|2,70|3,70
+dss_jesus_maria.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 1,60|1,50|1,70|2,4
+dss_jesus_maria.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 0,30|0,30|0,40|0,75
+dss_jesus_maria.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 0,50|0,30|0,40|0,75
+dss_jesus_maria.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,10|0,10|0,20|0,20
+dss_jesus_maria.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|4,4
+dss_jesus_maria.psv ->> HORIZONTE->pH en pasta:  | | |
+dss_jesus_maria.psv ->> HORIZONTE->pH en agua 1:2,5: 6,6|6,9|7,3|8,2
+dss_jesus_maria.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 14,0|17,2|15,5|
+dss_jesus_maria.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,1|0,9|1,1|
+dss_jesus_maria.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4|0,3|0,3|0,3
+dss_jesus_maria.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,9|1,3|0,9|1,1
+dss_jesus_maria.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,0|0,9|0,3|
+dss_jesus_maria.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | | |
+dss_jesus_maria.psv ->> HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 18,4|20,6|18,1|18,1
+dss_jesus_maria.psv ->> HORIZONTE->Saturación con bases,% (S/T): 94|96|98|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_la_emilia.psv ->> ID..........................: 218
+dss_la_emilia.psv ->> CLASIFICACION...............: Haplustol típico
+dss_la_emilia.psv ->> SERIE.......................: LA EMILIA (Emi)
+dss_la_emilia.psv ->> UBICACION...................: 15 km al NNE de Jesús María, departamento Totoral
+dss_la_emilia.psv ->> PROVINCIA...................: CORDOBA
+dss_la_emilia.psv ->> LATITUD.....................: S305000
+dss_la_emilia.psv ->> LONGITUD....................: O640200
+dss_la_emilia.psv ->> ALTITUD.....................: 500
+dss_la_emilia.psv ->> PENDIENTE...................: FALTA!
+dss_la_emilia.psv ->> DRENAJE.....................: FALTA!
+dss_la_emilia.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_la_emilia.psv ->> PERMEABILIDAD...............: FALTA!
+dss_la_emilia.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_la_emilia.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_la_emilia.psv ->> HORIZONTE->NOMBRE(S)........: A|B2|C1|Cca
+dss_la_emilia.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-19|19-43|43-60|60a+
+dss_la_emilia.psv ->> HORIZONTE->Materia Orgánica (%): 2,2|0,5| |
+dss_la_emilia.psv ->> HORIZONTE->Carbono Orgánico (%): 1,3|0,3| |
+dss_la_emilia.psv ->> HORIZONTE->Nitrógeno total (%): 0,10|0,02| |
+dss_la_emilia.psv ->> HORIZONTE->Relación C/N: 13,0|15,0| |
+dss_la_emilia.psv ->> HORIZONTE->Arcilla, <2 μ (%): 24,6|25,8|22,8|20
+dss_la_emilia.psv ->> HORIZONTE->Limo, 2-50 μ (%): 54,7|57,5|61,0|61,2
+dss_la_emilia.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,5|5,1|4,7|4,6
+dss_la_emilia.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 3,7|3,2|3,1|3,2
+dss_la_emilia.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 4,2|3,2|2,7|2,8
+dss_la_emilia.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 5,2|3,3|2,7|2,6
+dss_la_emilia.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 1,3|1,6|1,4|0,9
+dss_la_emilia.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|6,2
+dss_la_emilia.psv ->> HORIZONTE->Equivalente de humedad (%): 24,2|23,7|22,3|22,0
+dss_la_emilia.psv ->> HORIZONTE->pH en pasta:  | | |
+dss_la_emilia.psv ->> HORIZONTE->pH en agua 1:2,5: 7,3|7,5|7,7|8
+dss_la_emilia.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 13,7|14,1|13,0|13
+dss_la_emilia.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,9|1,5|1,9|1,8
+dss_la_emilia.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,2|0,4|0,3
+dss_la_emilia.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,7|1,1|1,4|1,4
+dss_la_emilia.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,6|||
+dss_la_emilia.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 16,6|19,6|16,7|16,5
+dss_la_emilia.psv ->> HORIZONTE->Cap. de intercambio catiónica me/100 gr (T): 18,2|16,9|16,7|16,5
+dss_la_emilia.psv ->> HORIZONTE->Saturación con bases,% (S/T): 91,2|100|100|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_la_lonja.psv ->> ID..........................: 219
+dss_la_lonja.psv ->> CLASIFICACION...............: Haplustol udorthéntico
+dss_la_lonja.psv ->> SERIE.......................: LA LONJA (Lonj)
+dss_la_lonja.psv ->> UBICACION...................: 25 km al Oeste de Jesús María, departamento Colón
+dss_la_lonja.psv ->> PROVINCIA...................: CORDOBA
+dss_la_lonja.psv ->> LATITUD.....................: S305800
+dss_la_lonja.psv ->> LONGITUD....................: O641000
+dss_la_lonja.psv ->> ALTITUD.....................: 550
+dss_la_lonja.psv ->> PENDIENTE...................: FALTA!
+dss_la_lonja.psv ->> DRENAJE.....................: FALTA!
+dss_la_lonja.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_la_lonja.psv ->> PERMEABILIDAD...............: FALTA!
+dss_la_lonja.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_la_lonja.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_la_lonja.psv ->> HORIZONTE->NOMBRE(S)........: Ap|ACca|Cca
+dss_la_lonja.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-22|22-46|46a+
+dss_la_lonja.psv ->> HORIZONTE->Materia Orgánica (%): 4,48| |
+dss_la_lonja.psv ->> HORIZONTE->Carbono Orgánico (%):  | |
+dss_la_lonja.psv ->> HORIZONTE->Nitrógeno total (%): 0,28| |
+dss_la_lonja.psv ->> HORIZONTE->Relación C/N:  | |
+dss_la_lonja.psv ->> HORIZONTE->Arcilla, <2 μ (%): 15,3|19,2|15,3
+dss_la_lonja.psv ->> HORIZONTE->Limo, 2-50 μ (%): 54,7|56,3|55,5
+dss_la_lonja.psv ->> HORIZONTE->Arena (%): 27,8|22,1|27,5
+dss_la_lonja.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|9,4|9,3
+dss_la_lonja.psv ->> HORIZONTE->Equivalente de humedad (%):  | |
+dss_la_lonja.psv ->> HORIZONTE->pH en pasta:  | |
+dss_la_lonja.psv ->> HORIZONTE->pH en agua 1:2,5: 7,5|8,0|8,1
+dss_la_lonja.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 13,8| |
+dss_la_lonja.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 3,9| |
+dss_la_lonja.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,3|0,3
+dss_la_lonja.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,5|0,2|0,4
+dss_la_lonja.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,6| |
+dss_la_lonja.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | |
+dss_la_lonja.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 19,1|22,0|16,1
+dss_la_lonja.psv ->> HORIZONTE->Saturación con bases,% (S/T): 97| |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_la_paz.psv ->> ID..........................: 220
+dss_la_paz.psv ->> CLASIFICACION...............: Haplustol udorthéntico paralítico
+dss_la_paz.psv ->> SERIE.......................: LA PAZ (Paz)
+dss_la_paz.psv ->> UBICACION...................: 16 km al Oeste de Jesús María, departamento Colón
+dss_la_paz.psv ->> PROVINCIA...................: CORDOBA
+dss_la_paz.psv ->> LATITUD.....................: S305600
+dss_la_paz.psv ->> LONGITUD....................: O641500
+dss_la_paz.psv ->> ALTITUD.....................: 600
+dss_la_paz.psv ->> PENDIENTE...................: FALTA!
+dss_la_paz.psv ->> DRENAJE.....................: FALTA!
+dss_la_paz.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_la_paz.psv ->> PERMEABILIDAD...............: FALTA!
+dss_la_paz.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_la_paz.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_la_paz.psv ->> HORIZONTE->NOMBRE(S)........: Aca
+dss_la_paz.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-24
+dss_la_paz.psv ->> HORIZONTE->Materia Orgánica (%): 10,5
+dss_la_paz.psv ->> HORIZONTE->Carbono Orgánico (%):  
+dss_la_paz.psv ->> HORIZONTE->Nitrógeno total (%): 0,41
+dss_la_paz.psv ->> HORIZONTE->Relación C/N:  
+dss_la_paz.psv ->> HORIZONTE->Arcilla, <2 μ (%): 20,6
+dss_la_paz.psv ->> HORIZONTE->Limo, 2-50 μ (%): 38,4
+dss_la_paz.psv ->> HORIZONTE->Arena (%): 38,5
+dss_la_paz.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 4,3
+dss_la_paz.psv ->> HORIZONTE->Equivalente de humedad (%):  
+dss_la_paz.psv ->> HORIZONTE->pH en pasta:  
+dss_la_paz.psv ->> HORIZONTE->pH en agua 1:2,5: 7,3
+dss_la_paz.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 
+dss_la_paz.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 
+dss_la_paz.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4
+dss_la_paz.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,1
+dss_la_paz.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,1
+dss_la_paz.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  
+dss_la_paz.psv ->> HORIZONTE->Cap. de intercambio catiónico me/100 gr (T): 15,1
+dss_la_paz.psv ->> HORIZONTE->Saturación con bases,% (S/T): 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_la_sentencia_1.psv ->> ID..........................: 221
+dss_la_sentencia_1.psv ->> CLASIFICACION...............: Argiustol údico
+dss_la_sentencia_1.psv ->> SERIE.......................: LA SENTENCIA I (Sent1)
+dss_la_sentencia_1.psv ->> UBICACION...................: 10 km al Noroeste de Jesús María, departamento Totoral
+dss_la_sentencia_1.psv ->> PROVINCIA...................: CORDOBA
+dss_la_sentencia_1.psv ->> LATITUD.....................: S305500
+dss_la_sentencia_1.psv ->> LONGITUD....................: O640900
+dss_la_sentencia_1.psv ->> ALTITUD.....................: 550
+dss_la_sentencia_1.psv ->> PENDIENTE...................: FALTA!
+dss_la_sentencia_1.psv ->> DRENAJE.....................: FALTA!
+dss_la_sentencia_1.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_la_sentencia_1.psv ->> PERMEABILIDAD...............: FALTA!
+dss_la_sentencia_1.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_la_sentencia_1.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_la_sentencia_1.psv ->> HORIZONTE->NOMBRE(S)........: Ap|A12|B2t|IIB3|IIC
+dss_la_sentencia_1.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-21|21-35|35-64|64-96|96 a +
+dss_la_sentencia_1.psv ->> HORIZONTE->Materia Orgánica (%): 2,9|3,1| | | 
+dss_la_sentencia_1.psv ->> HORIZONTE->Carbono Orgánico (%):  | | | | 
+dss_la_sentencia_1.psv ->> HORIZONTE->Nitrógeno total (%): 0,14|0,16| | | 
+dss_la_sentencia_1.psv ->> HORIZONTE->Relación C/N:  | | | | 
+dss_la_sentencia_1.psv ->> HORIZONTE->Arcilla, <2 μ (%): 21,4|25,6|32,3|26,9|16,4
+dss_la_sentencia_1.psv ->> HORIZONTE->Limo, 2-50 μ (%): 50,5|45,4|43,8|35,7|30,1
+dss_la_sentencia_1.psv ->> HORIZONTE->Arena (%): 26,0|25,7|21,3|35,6|50,7
+dss_la_sentencia_1.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0|0,0
+dss_la_sentencia_1.psv ->> HORIZONTE->Equivalente de humedad (%):  | | | | 
+dss_la_sentencia_1.psv ->> HORIZONTE->pH en pasta:  | | | | 
+dss_la_sentencia_1.psv ->> HORIZONTE->pH en agua 1:2,5: 6,6|6,5|6,8|7,1|7,2
+dss_la_sentencia_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 10,9|13,0|17,1|13,0|10,7
+dss_la_sentencia_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,7|1,0|1,0|2,6|1,3
+dss_la_sentencia_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,3|0,3|0,3|0,2
+dss_la_sentencia_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,3|1,0|1,0|0,5|0,4
+dss_la_sentencia_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,0|1,1|1,1|0,5|0,4
+dss_la_sentencia_1.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | | | | 
+dss_la_sentencia_1.psv ->> HORIZONTE->Capacidad de intercambio catiónico me/100 gr (T): 15,2|16,4|19,6|16,9|13,0
+dss_la_sentencia_1.psv ->> HORIZONTE->Saturación con bases,% (S/T): 93|93|94|97|97
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_la_sentencia_2.psv ->> ID..........................: 222
+dss_la_sentencia_2.psv ->> CLASIFICACION...............: Haplustol údico
+dss_la_sentencia_2.psv ->> SERIE.......................: LA SENTENCIA II (Sent2)
+dss_la_sentencia_2.psv ->> UBICACION...................: 17 km al Oeste de Jesús María, departamento Totoral
+dss_la_sentencia_2.psv ->> PROVINCIA...................: CORDOBA
+dss_la_sentencia_2.psv ->> LATITUD.....................: S305600
+dss_la_sentencia_2.psv ->> LONGITUD....................: O641400
+dss_la_sentencia_2.psv ->> ALTITUD.....................: 600
+dss_la_sentencia_2.psv ->> PENDIENTE...................: FALTA!
+dss_la_sentencia_2.psv ->> DRENAJE.....................: FALTA!
+dss_la_sentencia_2.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_la_sentencia_2.psv ->> PERMEABILIDAD...............: FALTA!
+dss_la_sentencia_2.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_la_sentencia_2.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_la_sentencia_2.psv ->> HORIZONTE->NOMBRE(S)........: A|B2|B3|Cca
+dss_la_sentencia_2.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-33|33-62|62-104|104a+
+dss_la_sentencia_2.psv ->> HORIZONTE->Materia Orgánica (%): 2,9|1,3| |
+dss_la_sentencia_2.psv ->> HORIZONTE->Carbono Orgánico (%):  | | |
+dss_la_sentencia_2.psv ->> HORIZONTE->Nitrógeno total (%): 0,17|0,07| |
+dss_la_sentencia_2.psv ->> HORIZONTE->Relación C/N:  | | |
+dss_la_sentencia_2.psv ->> HORIZONTE->Arcilla, <2 μ (%): 24,0|25,8|20,8|17,6
+dss_la_sentencia_2.psv ->> HORIZONTE->Limo, 2-50 μ (%): 41,0|41,6|42,8|42,8
+dss_la_sentencia_2.psv ->> HORIZONTE->Arena (%): 34,4|30,8|34,4|38,2
+dss_la_sentencia_2.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|1,7
+dss_la_sentencia_2.psv ->> HORIZONTE->Equivalente de humedad (%):  | | |
+dss_la_sentencia_2.psv ->> HORIZONTE->Ph en pasta:  | | |
+dss_la_sentencia_2.psv ->> HORIZONTE->pH en agua 1:2,5: 6,5|6,8|7,2|7,9
+dss_la_sentencia_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 15,2|18,1|18,3|
+dss_la_sentencia_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 2,2|1,8|1,2|
+dss_la_sentencia_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,2|0,3|0,2
+dss_la_sentencia_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,3|0,7|0,6|0,5
+dss_la_sentencia_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,6|1,2|0,3|
+dss_la_sentencia_2.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | | |
+dss_la_sentencia_2.psv ->> HORIZONTE->Cap. de intercam. catiónico me/100 gr (T): 20,6|22,0|20,7|18,3
+dss_la_sentencia_2.psv ->> HORIZONTE->Saturación con bases,% (S/T): 92|94|98|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_las_mercedes_1.psv ->> ID..........................: 223
+dss_las_mercedes_1.psv ->> CLASIFICACION...............: Argiustol típico
+dss_las_mercedes_1.psv ->> SERIE.......................: LAS MERCEDES I (Mer1)
+dss_las_mercedes_1.psv ->> UBICACION...................: 1,8 km al Sur de la localidad de Avellaneda, departamento Ischilín
+dss_las_mercedes_1.psv ->> PROVINCIA...................: CORDOBA
+dss_las_mercedes_1.psv ->> LATITUD.....................: S303600
+dss_las_mercedes_1.psv ->> LONGITUD....................: O641200
+dss_las_mercedes_1.psv ->> ALTITUD.....................: 740
+dss_las_mercedes_1.psv ->> PENDIENTE...................: FALTA!
+dss_las_mercedes_1.psv ->> DRENAJE.....................: FALTA!
+dss_las_mercedes_1.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_las_mercedes_1.psv ->> PERMEABILIDAD...............: FALTA!
+dss_las_mercedes_1.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_las_mercedes_1.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_las_mercedes_1.psv ->> HORIZONTE->NOMBRE(S)........: A1|B21t|B22|B3ca|Cca
+dss_las_mercedes_1.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-21|21-44|44-70|70-95|95a+
+dss_las_mercedes_1.psv ->> HORIZONTE->Materia Orgánica (%): 2,37|1,20|0,51|0,36|
+dss_las_mercedes_1.psv ->> HORIZONTE->Carbono Orgánico (%): 1,38|0,70|0,30|0,21|
+dss_las_mercedes_1.psv ->> HORIZONTE->Nitrógeno total (%): 140|79|51| | 
+dss_las_mercedes_1.psv ->> HORIZONTE->Relación C/N: 9,8|8,9|5,9| |
+dss_las_mercedes_1.psv ->> HORIZONTE->Arcilla, <2 μ (%): 23,3|28,4|23,7|21,8|18,0
+dss_las_mercedes_1.psv ->> HORIZONTE->Limo, 2-50 μ (%): 43,7|36,6|41,3|45,8|44,8
+dss_las_mercedes_1.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 3,2|3,3|3,7|4,7|4,0
+dss_las_mercedes_1.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 9,5|9,7|10,8|9,1|9,3
+dss_las_mercedes_1.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 5,0|4,8|4,5|4,2|4,0
+dss_las_mercedes_1.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 12,8|14,8|12,0|11,8|13,5
+dss_las_mercedes_1.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 2,7|4,0|5,0|4,1|7,2
+dss_las_mercedes_1.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|3,40|9,98
+dss_las_mercedes_1.psv ->> HORIZONTE->Equivalente de humedad (%): 21,3|21,6|21,9|19,3|20,8
+dss_las_mercedes_1.psv ->> HORIZONTE->pH en pasta: 6,4|6,3|6,5|7,3|7,7
+dss_las_mercedes_1.psv ->> HORIZONTE->pH en agua 1:2,5: 6,8|6,7|7,0|7,8|8,2
+dss_las_mercedes_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 12,5|13,1|13,1| |
+dss_las_mercedes_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 2,5|1,6|1,4| | 
+dss_las_mercedes_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2|0,1|0,2|0,1|0,1
+dss_las_mercedes_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,7|1,4|1,3|1,1|1,1
+dss_las_mercedes_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,9|0,9|0,6
+dss_las_mercedes_1.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 16,9|16,2|16,0| | 
+dss_las_mercedes_1.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 17,8|17,2|16,6|13,7|11,3
+dss_las_mercedes_1.psv ->> HORIZONTE->Saturación con bases,% (S/T): 95|94|96| | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_las_mercedes_2.psv ->> ID..........................: 224
+dss_las_mercedes_2.psv ->> CLASIFICACION...............: Argiustol típico
+dss_las_mercedes_2.psv ->> SERIE.......................: LAS MERCEDES II (Mer2)
+dss_las_mercedes_2.psv ->> UBICACION...................: 2 km al Sur de la localidad de Avellaneda, departamento Ischilín
+dss_las_mercedes_2.psv ->> PROVINCIA...................: CORDOBA
+dss_las_mercedes_2.psv ->> LATITUD.....................: S303700
+dss_las_mercedes_2.psv ->> LONGITUD....................: O641200
+dss_las_mercedes_2.psv ->> ALTITUD.....................: 730
+dss_las_mercedes_2.psv ->> PENDIENTE...................: FALTA!
+dss_las_mercedes_2.psv ->> DRENAJE.....................: FALTA!
+dss_las_mercedes_2.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_las_mercedes_2.psv ->> PERMEABILIDAD...............: FALTA!
+dss_las_mercedes_2.psv ->> TIPO DE SUELO...............: FRANCA FINA A ARCILLOSA FINA MIXTA TÉRMICA
+dss_las_mercedes_2.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_las_mercedes_2.psv ->> HORIZONTE->NOMBRE(S)........: A1p|B21t|B22|B3|Cca
+dss_las_mercedes_2.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-21|21-48|48-71|71-95|95a+
+dss_las_mercedes_2.psv ->> HORIZONTE->Materia Orgánica (%): 3,26|2|1|0,63|
+dss_las_mercedes_2.psv ->> HORIZONTE->Carbono Orgánico (%): 1,90|1,16|0,55|0,37|
+dss_las_mercedes_2.psv ->> HORIZONTE->Nitrógeno total (%): 158|111|73| |
+dss_las_mercedes_2.psv ->> HORIZONTE->Relación C/N: 12,0|10,4|7,5| |
+dss_las_mercedes_2.psv ->> HORIZONTE->Arcilla, <2 μ (%): 26,3|34,3|30,0|24,3|27,2
+dss_las_mercedes_2.psv ->> HORIZONTE->Limo, 2-50 μ (%): 55,4|52,5|54,7|59,0|56,0
+dss_las_mercedes_2.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 6,1|4,3|4,6|5,0|4,4
+dss_las_mercedes_2.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 4,6|4,7|5,2|4,7|4,9
+dss_las_mercedes_2.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 2,0|1,5|1,6|1,5|1,3
+dss_las_mercedes_2.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 4,9|3,4|4,1|4,0|3,6
+dss_las_mercedes_2.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,8|0,8|1,7|1,3|3,2
+dss_las_mercedes_2.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0|0|0|1,29|3,9
+dss_las_mercedes_2.psv ->> HORIZONTE->Equivalente de humedad (%): 26,0|27,7|24,1|26,3|27,2
+dss_las_mercedes_2.psv ->> HORIZONTE->pH en pasta: 6,3|6,8|7,0|7,4|7,6
+dss_las_mercedes_2.psv ->> HORIZONTE->pH en agua 1:2,5: 6,4|7,0|7,2|7,7|7,8
+dss_las_mercedes_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 13,9|20,0|18,1| |
+dss_las_mercedes_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,2|1,0|2,0| |
+dss_las_mercedes_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2|0,1|0,1|0,2|0,4
+dss_las_mercedes_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,9|1,3|1,1|1,3|1,7
+dss_las_mercedes_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2|0,6|0,3| |
+dss_las_mercedes_2.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 17,2|22,3|21,3| |
+dss_las_mercedes_2.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 18,5|23,0|21,7|16,0|21,3
+dss_las_mercedes_2.psv ->> HORIZONTE->Saturación con bases,% (S/T): 93|97|98| | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_las_piedras.psv ->> ID..........................: 225
+dss_las_piedras.psv ->> CLASIFICACION...............: Argiustol cumúlico
+dss_las_piedras.psv ->> SERIE.......................: LAS PIEDRAS (Pdrs)
+dss_las_piedras.psv ->> UBICACION...................: 24 km al NO de la ciudad de Jesús María, Dpto. Totoral
+dss_las_piedras.psv ->> PROVINCIA...................: CORDOBA
+dss_las_piedras.psv ->> LATITUD.....................: S304800
+dss_las_piedras.psv ->> LONGITUD....................: O641300
+dss_las_piedras.psv ->> ALTITUD.....................: 700
+dss_las_piedras.psv ->> PENDIENTE...................: FALTA!
+dss_las_piedras.psv ->> DRENAJE.....................: FALTA!
+dss_las_piedras.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_las_piedras.psv ->> PERMEABILIDAD...............: FALTA!
+dss_las_piedras.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_las_piedras.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_las_piedras.psv ->> HORIZONTE->NOMBRE(S)........: A1|B21t|B22t
+dss_las_piedras.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-40|40-60|60a+
+dss_las_piedras.psv ->> HORIZONTE->Materia Orgánica (%): 2,1|0,5| 
+dss_las_piedras.psv ->> HORIZONTE->Carbono Orgánico (%): 1,2|0,3| 
+dss_las_piedras.psv ->> HORIZONTE->Nitrógeno total (%): 0,12|0,03| 
+dss_las_piedras.psv ->> HORIZONTE->Relación C/N: 10,0|10,0| 
+dss_las_piedras.psv ->> HORIZONTE->Arcilla, <2 μ (%): 12,1|16,4|16,4
+dss_las_piedras.psv ->> HORIZONTE->Limo, 2-50 μ (%): 25,4|21,4|22,8
+dss_las_piedras.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 4,1|4,1|4,8
+dss_las_piedras.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 6,4|6,7|9,8
+dss_las_piedras.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 11,4|11,7|14,7
+dss_las_piedras.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 27,3|24,5|21,7
+dss_las_piedras.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 11,8|13,2|10,2
+dss_las_piedras.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0
+dss_las_piedras.psv ->> HORIZONTE->Equivalente de humedad (%): 14,2|14,6|13,2
+dss_las_piedras.psv ->> HORIZONTE->pH en pasta:  | | 
+dss_las_piedras.psv ->> HORIZONTE->pH en agua 1:2,5: 6,1|6,4|6,5
+dss_las_piedras.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 10,3|12,1|10,5
+dss_las_piedras.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,6|0,6|0,3
+dss_las_piedras.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2|0,2|0,2
+dss_las_piedras.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,4|0,3|0,2
+dss_las_piedras.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2|1,1|0,5
+dss_las_piedras.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 11,5|13,2|11,2
+dss_las_piedras.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 12,7|14,3|11,7
+dss_las_piedras.psv ->> HORIZONTE->Saturación con bases,% (S/T): 90,5|92,3|95,7
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_los_pozos.psv ->> ID..........................: 226
+dss_los_pozos.psv ->> CLASIFICACION...............: Haplustol entico
+dss_los_pozos.psv ->> SERIE.......................: LOS POZOS (Pzs)
+dss_los_pozos.psv ->> UBICACION...................: 7 km al NNO de Avellaneda, departamento Ischilín
+dss_los_pozos.psv ->> PROVINCIA...................: CORDOBA
+dss_los_pozos.psv ->> LATITUD.....................: S303200
+dss_los_pozos.psv ->> LONGITUD....................: O641500
+dss_los_pozos.psv ->> ALTITUD.....................: 750
+dss_los_pozos.psv ->> PENDIENTE...................: FALTA!
+dss_los_pozos.psv ->> DRENAJE.....................: FALTA!
+dss_los_pozos.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_los_pozos.psv ->> PERMEABILIDAD...............: FALTA!
+dss_los_pozos.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_los_pozos.psv ->> COLOR ......................: PARDO OSCURO
+dss_los_pozos.psv ->> HORIZONTE->NOMBRE(S)........: A|ACca|Cca
+dss_los_pozos.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-20|20-40|40a+
+dss_los_pozos.psv ->> HORIZONTE->Materia Orgánica (%): 2,9|1,2|
+dss_los_pozos.psv ->> HORIZONTE->Carbono Orgánico (%): 1,7|0,7|
+dss_los_pozos.psv ->> HORIZONTE->Nitrógeno total (%): 0,16|0,05|
+dss_los_pozos.psv ->> HORIZONTE->Relación C/N: 10,6|14,0|
+dss_los_pozos.psv ->> HORIZONTE->Arcilla, <2 μ (%): 17,6|24,8|19,2
+dss_los_pozos.psv ->> HORIZONTE->Limo, 2-50 μ (%): 67,0|63,0|68,4
+dss_los_pozos.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 7,7|5,6|12,4
+dss_los_pozos.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 2,1|1,2|1,4
+dss_los_pozos.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 1,3|0,9|1,1
+dss_los_pozos.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 1,6|1,2|1,4
+dss_los_pozos.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,6|1,1|1,0
+dss_los_pozos.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,3|5,5
+dss_los_pozos.psv ->> HORIZONTE->Equivalente de humedad (%): 24,6|23,9|23,2
+dss_los_pozos.psv ->> HORIZONTE->pH en pasta:  | | 
+dss_los_pozos.psv ->> HORIZONTE->pH en agua 1:2,5: 7,1|7,7|8,2
+dss_los_pozos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 18,8||
+dss_los_pozos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,4||
+dss_los_pozos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,5|0,4|0,4
+dss_los_pozos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 2,2|1,6|1,1
+dss_los_pozos.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,0||
+dss_los_pozos.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 21,9| |
+dss_los_pozos.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 22,9|20,8|20,1
+dss_los_pozos.psv ->> HORIZONTE->Saturación con bases,% (S/T): 95,6|100|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_macha.psv ->> ID..........................: 227
+dss_macha.psv ->> CLASIFICACION...............: Argiustol típico
+dss_macha.psv ->> SERIE.......................: MACHA (Mcha)
+dss_macha.psv ->> UBICACION...................: 4 km al Sur del paraje homónimo sito en el departamento Ischilín
+dss_macha.psv ->> PROVINCIA...................: CORDOBA
+dss_macha.psv ->> LATITUD.....................: S303600
+dss_macha.psv ->> LONGITUD....................: O640700
+dss_macha.psv ->> ALTITUD.....................: 650
+dss_macha.psv ->> PENDIENTE...................: FALTA!
+dss_macha.psv ->> DRENAJE.....................: FALTA!
+dss_macha.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_macha.psv ->> PERMEABILIDAD...............: FALTA!
+dss_macha.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_macha.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_macha.psv ->> HORIZONTE->NOMBRE(S)........: A|B2t|B3|C|Cca
+dss_macha.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-22|22-42|42-62|62-85|85a+
+dss_macha.psv ->> HORIZONTE->Materia Orgánica (%): 4,0|1,9| | | 
+dss_macha.psv ->> HORIZONTE->Carbono Orgánico (%): 2,3|1,1| | | 
+dss_macha.psv ->> HORIZONTE->Nitrógeno total (%): 0,22|0,11| | | 
+dss_macha.psv ->> HORIZONTE->Relación C/N: 10,5|10,0| | | 
+dss_macha.psv ->> HORIZONTE->Arcilla, <2 μ (%): 23,6|29,9|27,3|21,2| 
+dss_macha.psv ->> HORIZONTE->Limo, 2-50 μ (%): 65,4|58,9|63,6|67,2| 
+dss_macha.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,1|5,2|4,7|5,4| 
+dss_macha.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 1,4|1,3|1,1|1,1| 
+dss_macha.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 1,1|0,9|0,8|0,7| 
+dss_macha.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 1,0|1,1|0,8|0,9| 
+dss_macha.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,1|0,4|0,2|0,7| 
+dss_macha.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,1|0,0|0,0| 
+dss_macha.psv ->> HORIZONTE->Equivalente de humedad (%): 27,5|27,4|26,9|25,8| 
+dss_macha.psv ->> HORIZONTE->pH en pasta:  | | | | 
+dss_macha.psv ->> HORIZONTE->pH en agua 1:2,5: 6,5|6,7|6,9|7,0| 
+dss_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 18,1|18,8|17,1|17,0|
+dss_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,5|2,1|1,5|1,6|
+dss_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,5|0,5|0,4|0,4|
+dss_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 2,3|1,7|1,7|1,5|
+dss_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,4|0,7|0,7|0,5|
+dss_macha.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 22,4|23,1|20,7|20,5| 
+dss_macha.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 23,8|23,8|21,4|21,0|
+dss_macha.psv ->> HORIZONTE->Saturación con bases,% (S/T): 94,1|97,1|96,7|97,6|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_nacientes_rio_macha.psv ->> ID..........................: 228
+dss_nacientes_rio_macha.psv ->> CLASIFICACION...............: Natracualf típico
+dss_nacientes_rio_macha.psv ->> SERIE.......................: NACIENTES DEL RÍO
+dss_nacientes_rio_macha.psv ->> UBICACION...................: 4,5 km al OSO del paraje de Macha, departamento Totoral
+dss_nacientes_rio_macha.psv ->> PROVINCIA...................: CORDOBA
+dss_nacientes_rio_macha.psv ->> LATITUD.....................: S303400
+dss_nacientes_rio_macha.psv ->> LONGITUD....................: O640600
+dss_nacientes_rio_macha.psv ->> ALTITUD.....................: 650
+dss_nacientes_rio_macha.psv ->> PENDIENTE...................: FALTA!
+dss_nacientes_rio_macha.psv ->> DRENAJE.....................: FALTA!
+dss_nacientes_rio_macha.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_nacientes_rio_macha.psv ->> PERMEABILIDAD...............: FALTA!
+dss_nacientes_rio_macha.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_nacientes_rio_macha.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_nacientes_rio_macha.psv ->> HORIZONTE->NOMBRE(S)........: A2|B2t|B3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-12|12-34|34a+
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Materia Orgánica (%): 2,9|0,2|
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Carbono Orgánico (%): 1,7|0,1|
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Nitrógeno total (%): 0,15|0,01|
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Relación C/N: 11,3|10,0|
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Arcilla, <2 μ (%): 18,4|31,5|31,5
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Limo, 2-50 μ (%): 58,5|50,9|50,7
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 11,2|6,6|7,3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 6,3|5,1|5,1
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 1,6|1,3|1,3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 1,3|1,1|1,1
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,3|0,7|0,6
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,7
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Equivalente de humedad (%): 26,7|30,9|33,4
+dss_nacientes_rio_macha.psv ->> HORIZONTE->pH en pasta:  | |
+dss_nacientes_rio_macha.psv ->> HORIZONTE->pH en agua 1:2,5: 8,1|9,2|9,3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 10,5|10,0|
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,1|1,0|
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 4,7|4,4|12,6
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 3,0|3,1|2,9
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: ||
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 19,3|18,5|
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 19,4|18,6|18,5
+dss_nacientes_rio_macha.psv ->> HORIZONTE->Saturación con bases,% (S/T): 100|100|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_ongamira_1.psv ->> ID..........................: 229
+dss_ongamira_1.psv ->> CLASIFICACION...............: Ustorthent paralítico esquelética
+dss_ongamira_1.psv ->> SERIE.......................: ONGAMIRA I (Ong1)
+dss_ongamira_1.psv ->> UBICACION...................: 7 km al Norte de Ongamira, departamento Ischilín
+dss_ongamira_1.psv ->> PROVINCIA...................: CORDOBA
+dss_ongamira_1.psv ->> LATITUD.....................: S304700
+dss_ongamira_1.psv ->> LONGITUD....................: O642600
+dss_ongamira_1.psv ->> ALTITUD.....................: 1150
+dss_ongamira_1.psv ->> PENDIENTE...................: FALTA!
+dss_ongamira_1.psv ->> DRENAJE.....................: FALTA!
+dss_ongamira_1.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ongamira_1.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ongamira_1.psv ->> TIPO DE SUELO...............: ARENOSA CALCÁREA
+dss_ongamira_1.psv ->> COLOR ......................: PARDO ROJIZO OSCURO
+dss_ongamira_1.psv ->> HORIZONTE->NOMBRE(S)........: Aca|IIRca
+dss_ongamira_1.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-20|20 a +
+dss_ongamira_1.psv ->> HORIZONTE->Materia Orgánica (%): 5,9| 
+dss_ongamira_1.psv ->> HORIZONTE->Carbono Orgánico (%): 3,4| 
+dss_ongamira_1.psv ->> HORIZONTE->Nitrógeno total (%): 0,29| 
+dss_ongamira_1.psv ->> HORIZONTE->Relación C/N: 11,7| 
+dss_ongamira_1.psv ->> HORIZONTE->Arcilla, <2 μ (%): 6,5|4,6
+dss_ongamira_1.psv ->> HORIZONTE->Limo, 2-50 μ (%): 10,1|11,1
+dss_ongamira_1.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 6,3|4,3
+dss_ongamira_1.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 20,0|13,0
+dss_ongamira_1.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 18,0|16,0
+dss_ongamira_1.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 24,6|33,1
+dss_ongamira_1.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 12,7|18,4
+dss_ongamira_1.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 2,0|15,1
+dss_ongamira_1.psv ->> HORIZONTE->Equivalente de humedad (%): 17,9|11,6
+dss_ongamira_1.psv ->> HORIZONTE->pH en pasta:  | 
+dss_ongamira_1.psv ->> HORIZONTE->pH en agua 1:2,5: 6,9|8,4
+dss_ongamira_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 20,5|
+dss_ongamira_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,6|
+dss_ongamira_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,1|
+dss_ongamira_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,2|
+dss_ongamira_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,8|
+dss_ongamira_1.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 21,4| 
+dss_ongamira_1.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 22,2| 
+dss_ongamira_1.psv ->> HORIZONTE->Saturación con bases,% (S/T): 96,4| 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_ongamira_2.psv ->> ID..........................: 230
+dss_ongamira_2.psv ->> CLASIFICACION...............: Ustorthent paralítico
+dss_ongamira_2.psv ->> SERIE.......................: ONGAMIRA II (Ong2)
+dss_ongamira_2.psv ->> UBICACION...................: 8 km al Norte de Ongamira, departamento Ischilín
+dss_ongamira_2.psv ->> PROVINCIA...................: CORDOBA
+dss_ongamira_2.psv ->> LATITUD.....................: S304600
+dss_ongamira_2.psv ->> LONGITUD....................: O642600
+dss_ongamira_2.psv ->> ALTITUD.....................: 1155
+dss_ongamira_2.psv ->> PENDIENTE...................: FALTA!
+dss_ongamira_2.psv ->> DRENAJE.....................: FALTA!
+dss_ongamira_2.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ongamira_2.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ongamira_2.psv ->> TIPO DE SUELO...............: FRANCA GRUESA CALCÁREA FERRALÍTICA TÉRMICA
+dss_ongamira_2.psv ->> COLOR ......................: ROJO SOMBRÍO
+dss_ongamira_2.psv ->> HORIZONTE->NOMBRE(S)........: A|R
+dss_ongamira_2.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-14|14a+
+dss_ongamira_2.psv ->> HORIZONTE->Materia Orgánica (%): 4,8| 
+dss_ongamira_2.psv ->> HORIZONTE->Carbono Orgánico (%): 2,8| 
+dss_ongamira_2.psv ->> HORIZONTE->Nitrógeno total (%): 0,27| 
+dss_ongamira_2.psv ->> HORIZONTE->Relación C/N: 10,4| 
+dss_ongamira_2.psv ->> HORIZONTE->Arcilla, <2 μ (%): 12,7|18,6
+dss_ongamira_2.psv ->> HORIZONTE->Limo, 2-50 μ (%): 27,7|28,3
+dss_ongamira_2.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 19,2|18,1
+dss_ongamira_2.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 22,3|29,3
+dss_ongamira_2.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 8,4|6,9
+dss_ongamira_2.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 5,9|4,3
+dss_ongamira_2.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 3,8|3,8
+dss_ongamira_2.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,9|10,2
+dss_ongamira_2.psv ->> HORIZONTE->Equivalente de humedad (%): 17,5|17,0
+dss_ongamira_2.psv ->> HORIZONTE->pH en pasta:  |
+dss_ongamira_2.psv ->> HORIZONTE->pH en agua 1:2,5: 7,8|8,0
+dss_ongamira_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: |
+dss_ongamira_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: |
+dss_ongamira_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2|0,1
+dss_ongamira_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,8|0,2
+dss_ongamira_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +:  |
+dss_ongamira_2.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  |
+dss_ongamira_2.psv ->> HORIZONTE->Cap. de intercambio catiónico me/100 gr (T): 20,0|20,4
+dss_ongamira_2.psv ->> HORIZONTE->Saturación con bases,% (S/T): 100|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_pajarillo.psv ->> ID..........................: 231
+dss_pajarillo.psv ->> CLASIFICACION...............: Ustorthent paralítico esquelética
+dss_pajarillo.psv ->> SERIE.......................: PAJARILLO (Paj)
+dss_pajarillo.psv ->> UBICACION...................: FALTA!
+dss_pajarillo.psv ->> PROVINCIA...................: CORDOBA
+dss_pajarillo.psv ->> LATITUD.....................: S304600
+dss_pajarillo.psv ->> LONGITUD....................: O642700
+dss_pajarillo.psv ->> ALTITUD.....................: 1300
+dss_pajarillo.psv ->> PENDIENTE...................: FALTA!
+dss_pajarillo.psv ->> DRENAJE.....................: FALTA!
+dss_pajarillo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_pajarillo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_pajarillo.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA MÉSICA
+dss_pajarillo.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_pajarillo.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_pajarillo.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-10
+dss_pajarillo.psv ->> HORIZONTE->Materia Orgánica (%): 6,2
+dss_pajarillo.psv ->> HORIZONTE->Carbono Orgánico (%): 3,6
+dss_pajarillo.psv ->> HORIZONTE->Nitrógeno total (%): 0,33
+dss_pajarillo.psv ->> HORIZONTE->Relación C/N: 10,9
+dss_pajarillo.psv ->> HORIZONTE->Arcilla, <2 μ (%): 14,9
+dss_pajarillo.psv ->> HORIZONTE->Limo, 2-50 μ (%): 17,8
+dss_pajarillo.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 4,2
+dss_pajarillo.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 11,2
+dss_pajarillo.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 15,1
+dss_pajarillo.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 23,4
+dss_pajarillo.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 11,6
+dss_pajarillo.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0
+dss_pajarillo.psv ->> HORIZONTE->Equivalente de humedad (%): 20,9
+dss_pajarillo.psv ->> HORIZONTE->pH en pasta:  
+dss_pajarillo.psv ->> HORIZONTE->pH en agua 1:2,5: 7,2
+dss_pajarillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 17,8
+dss_pajarillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,6
+dss_pajarillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2
+dss_pajarillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,5
+dss_pajarillo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 0,9
+dss_pajarillo.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 20,1
+dss_pajarillo.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 21,0
+dss_pajarillo.psv ->> HORIZONTE->Saturación con bases,% (S/T): 95,7
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_puerta_hierro_1.psv ->> ID..........................: 232
+dss_puerta_hierro_1.psv ->> CLASIFICACION...............: Haplustol éntico páquico
+dss_puerta_hierro_1.psv ->> SERIE.......................: PUERTA DE HIERRO I (PtaH1)
+dss_puerta_hierro_1.psv ->> UBICACION...................: FALTA!
+dss_puerta_hierro_1.psv ->> PROVINCIA...................: CORDOBA
+dss_puerta_hierro_1.psv ->> LATITUD.....................: S305900
+dss_puerta_hierro_1.psv ->> LONGITUD....................: O641000
+dss_puerta_hierro_1.psv ->> ALTITUD.....................: 545
+dss_puerta_hierro_1.psv ->> PENDIENTE...................: FALTA!
+dss_puerta_hierro_1.psv ->> DRENAJE.....................: FALTA!
+dss_puerta_hierro_1.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_puerta_hierro_1.psv ->> PERMEABILIDAD...............: FALTA!
+dss_puerta_hierro_1.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_puerta_hierro_1.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_puerta_hierro_1.psv ->> HORIZONTE->NOMBRE(S)........: Ap|A12|ACca|IIca
+dss_puerta_hierro_1.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-12|12-55|55-90|90a+
+dss_puerta_hierro_1.psv ->> HORIZONTE->Materia Orgánica (%): 2,9|2,9|2,1|1,2
+dss_puerta_hierro_1.psv ->> HORIZONTE->Carbono Orgánico (%):  | | | 
+dss_puerta_hierro_1.psv ->> HORIZONTE->Nitrógeno total (%): 0,13|0,13|0,13|0,11
+dss_puerta_hierro_1.psv ->> HORIZONTE->Relación C/N:  | | | 
+dss_puerta_hierro_1.psv ->> HORIZONTE->Arcilla, <2 μ (%): 28,1|28,1|22,4|12,5
+dss_puerta_hierro_1.psv ->> HORIZONTE->Limo, 2-50 μ (%): 47,8|47,8|55,5|37,1
+dss_puerta_hierro_1.psv ->> HORIZONTE->Arena (%): 21,9|21,9|20,1|49,6
+dss_puerta_hierro_1.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|Vest.|2,8
+dss_puerta_hierro_1.psv ->> HORIZONTE->Equivalente de humedad (%):  | | | 
+dss_puerta_hierro_1.psv ->> HORIZONTE->pH en pasta:  | | | 
+dss_puerta_hierro_1.psv ->> HORIZONTE->pH en agua 1:2,5: 6,7|6,7|6,8|8,1
+dss_puerta_hierro_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 16,9|16,9|15,3| 
+dss_puerta_hierro_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,3|1,3|0,9| 
+dss_puerta_hierro_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4|0,4|0,2|0,2
+dss_puerta_hierro_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,2|1,2|1,0|0,6
+dss_puerta_hierro_1.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2|1,2|0,4|
+dss_puerta_hierro_1.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | | | 
+dss_puerta_hierro_1.psv ->> HORIZONTE->Capacidad de intercambio catiónica me/100 gr (T): 21,0|21,0|17,8|12,6
+dss_puerta_hierro_1.psv ->> HORIZONTE->Saturación con bases,% (S/T): 94|94|97|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_puerta_hierro_2.psv ->> ID..........................: 233
+dss_puerta_hierro_2.psv ->> CLASIFICACION...............: Ustipsament típico
+dss_puerta_hierro_2.psv ->> SERIE.......................: PUERTA DE HIERRO II (PtaH2)
+dss_puerta_hierro_2.psv ->> UBICACION...................: 4,9 km al Oeste de la ciudad de Jesús María, departamento Colón
+dss_puerta_hierro_2.psv ->> PROVINCIA...................: CORDOBA
+dss_puerta_hierro_2.psv ->> LATITUD.....................: S305800
+dss_puerta_hierro_2.psv ->> LONGITUD....................: O640900
+dss_puerta_hierro_2.psv ->> ALTITUD.....................: 550
+dss_puerta_hierro_2.psv ->> PENDIENTE...................: FALTA!
+dss_puerta_hierro_2.psv ->> DRENAJE.....................: FALTA!
+dss_puerta_hierro_2.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_puerta_hierro_2.psv ->> PERMEABILIDAD...............: FALTA!
+dss_puerta_hierro_2.psv ->> TIPO DE SUELO...............: ARENOSA MIXTA TÉRMICA
+dss_puerta_hierro_2.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_puerta_hierro_2.psv ->> HORIZONTE->NOMBRE(S)........: Ap|A12|II
+dss_puerta_hierro_2.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-12|12-49|49a+
+dss_puerta_hierro_2.psv ->> HORIZONTE->Materia Orgánica (%): 1,6|1,6| 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Carbono Orgánico (%):  | | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Nitrógeno total (%): 0,9|0,9| 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Relación C/N:  | | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Arcilla, <2 μ (%): 6,5|6,5| 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Limo, 2-50 μ (%): 16,0|16,0| 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Arena (%): 76,5|76,5| 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0| 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Equivalente de humedad (%):  | | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->PH en pasta:  | | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->PH en agua 1:2,5: 6,2|6,2| 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 4,7|4,7|
+dss_puerta_hierro_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,3|0,3|
+dss_puerta_hierro_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2|0,2|
+dss_puerta_hierro_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,9|0,9|
+dss_puerta_hierro_2.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,4|1,4|
+dss_puerta_hierro_2.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Cap. de intercambio catiónica me/100 gr (T):  | | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->Saturación con bases,% (S/T):  | | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_puesto_jacinto.psv ->> ID..........................: 234
+dss_puesto_jacinto.psv ->> CLASIFICACION...............: Haplustol páquico
+dss_puesto_jacinto.psv ->> SERIE.......................: PUESTO JACINTO (PJac)
+dss_puesto_jacinto.psv ->> UBICACION...................: 7 km al SSE de Macha, departamento Ischilín
+dss_puesto_jacinto.psv ->> PROVINCIA...................: CORDOBA
+dss_puesto_jacinto.psv ->> LATITUD.....................: S303600
+dss_puesto_jacinto.psv ->> LONGITUD....................: O640400
+dss_puesto_jacinto.psv ->> ALTITUD.....................: 600
+dss_puesto_jacinto.psv ->> PENDIENTE...................: FALTA!
+dss_puesto_jacinto.psv ->> DRENAJE.....................: FALTA!
+dss_puesto_jacinto.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_puesto_jacinto.psv ->> PERMEABILIDAD...............: FALTA!
+dss_puesto_jacinto.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_puesto_jacinto.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_puesto_jacinto.psv ->> HORIZONTE->NOMBRE(S)........: Ap|A12|II
+dss_puesto_jacinto.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-12|12-52|52a+
+dss_puesto_jacinto.psv ->> HORIZONTE->Materia Orgánica (%): 2,2|1,1| 
+dss_puesto_jacinto.psv ->> HORIZONTE->Carbono Orgánico (%): 1,3|0,6| 
+dss_puesto_jacinto.psv ->> HORIZONTE->Nitrógeno total (%): 0,11|0,04| 
+dss_puesto_jacinto.psv ->> HORIZONTE->Relación C/N: 11,8|12,5| 
+dss_puesto_jacinto.psv ->> HORIZONTE->Arcilla, <2 μ (%): 10,1|9,9|8,7
+dss_puesto_jacinto.psv ->> HORIZONTE->Limo, 2-50 μ (%): 16,4|18,6|21,0
+dss_puesto_jacinto.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,2|6,0|5,7
+dss_puesto_jacinto.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 12,8|14,8|11,3
+dss_puesto_jacinto.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 16,6|17,8|12,6
+dss_puesto_jacinto.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 24,4|21,6|19,3
+dss_puesto_jacinto.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 13,7|11,0|20,1
+dss_puesto_jacinto.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0
+dss_puesto_jacinto.psv ->> HORIZONTE->Equivalente de humedad (%): 11,2|9,9|12,4
+dss_puesto_jacinto.psv ->> HORIZONTE->pH en pasta:  | | 
+dss_puesto_jacinto.psv ->> HORIZONTE->pH en agua 1:2,5: 6,4|6,3|6,6
+dss_puesto_jacinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 6,7|4,4|7,3
+dss_puesto_jacinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,4|2,7|0,9
+dss_puesto_jacinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,3|0,3
+dss_puesto_jacinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,9|0,7|0,6
+dss_puesto_jacinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,4|1,4|1,0
+dss_puesto_jacinto.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 9,3|8,1|9,1
+dss_puesto_jacinto.psv ->> HORIZONTE->Cap. de intercambio catiónico me/100 gr (T): 10,7|9,5|10,1
+dss_puesto_jacinto.psv ->> HORIZONTE->Saturación con bases,% (S/T): 86,9|85,3|90,1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_rodeo_viejo.psv ->> ID..........................: 235
+dss_rodeo_viejo.psv ->> CLASIFICACION...............: Haplustol paralítico
+dss_rodeo_viejo.psv ->> SERIE.......................: RODEO VIEJO (RViej)
+dss_rodeo_viejo.psv ->> UBICACION...................: 3 km al Oeste de Villa del Totoral, departamento Totoral
+dss_rodeo_viejo.psv ->> PROVINCIA...................: CORDOBA
+dss_rodeo_viejo.psv ->> LATITUD.....................: S300300
+dss_rodeo_viejo.psv ->> LONGITUD....................: O300700
+dss_rodeo_viejo.psv ->> ALTITUD.....................: 550
+dss_rodeo_viejo.psv ->> PENDIENTE...................: FALTA!
+dss_rodeo_viejo.psv ->> DRENAJE.....................: FALTA!
+dss_rodeo_viejo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_rodeo_viejo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_rodeo_viejo.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_rodeo_viejo.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_rodeo_viejo.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_rodeo_viejo.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-20
+dss_rodeo_viejo.psv ->> HORIZONTE->Materia Orgánica (%): 3,1
+dss_rodeo_viejo.psv ->> HORIZONTE->Carbono Orgánico (%): 1,8
+dss_rodeo_viejo.psv ->> HORIZONTE->Nitrógeno total (%): 0,16
+dss_rodeo_viejo.psv ->> HORIZONTE->Relación C/N: 11,3
+dss_rodeo_viejo.psv ->> HORIZONTE->Arcilla, <2 μ (%): 9,5
+dss_rodeo_viejo.psv ->> HORIZONTE->Limo, 2-50 μ (%): 21,6
+dss_rodeo_viejo.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 10,9
+dss_rodeo_viejo.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 27,2
+dss_rodeo_viejo.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 13,5
+dss_rodeo_viejo.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 11,1
+dss_rodeo_viejo.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 4,1
+dss_rodeo_viejo.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0
+dss_rodeo_viejo.psv ->> HORIZONTE->Equivalente de humedad (%): 13,5
+dss_rodeo_viejo.psv ->> HORIZONTE->pH en pasta:  
+dss_rodeo_viejo.psv ->> HORIZONTE->pH en agua 1:2,5: 6,8
+dss_rodeo_viejo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 11,4
+dss_rodeo_viejo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,3
+dss_rodeo_viejo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2
+dss_rodeo_viejo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,4
+dss_rodeo_viejo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,5
+dss_rodeo_viejo.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 12,3
+dss_rodeo_viejo.psv ->> HORIZONTE->Cap. de intercambio catiónica me/100 gr (T): 13,8
+dss_rodeo_viejo.psv ->> HORIZONTE->Saturación con bases,% (S/T): 89,1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_ruta_60.psv ->> ID..........................: 236
+dss_ruta_60.psv ->> CLASIFICACION...............: Argiustol paralítico
+dss_ruta_60.psv ->> SERIE.......................: RUTA 60 (Rta60)
+dss_ruta_60.psv ->> UBICACION...................: 6 km al Norte de Sarmiento, departamento Ischilín
+dss_ruta_60.psv ->> PROVINCIA...................: CORDOBA
+dss_ruta_60.psv ->> LATITUD.....................: S304300
+dss_ruta_60.psv ->> LONGITUD....................: O640700
+dss_ruta_60.psv ->> ALTITUD.....................: 530
+dss_ruta_60.psv ->> PENDIENTE...................: FALTA!
+dss_ruta_60.psv ->> DRENAJE.....................: FALTA!
+dss_ruta_60.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ruta_60.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ruta_60.psv ->> TIPO DE SUELO...............: FRANCA FINA A GRUESA MIXTA TÉRMICA
+dss_ruta_60.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ruta_60.psv ->> HORIZONTE->NOMBRE(S)........: A|B2t|IIR
+dss_ruta_60.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-22|22-50|50a+
+dss_ruta_60.psv ->> HORIZONTE->Materia Orgánica (%): 2,1|0,7| 
+dss_ruta_60.psv ->> HORIZONTE->Carbono Orgánico (%): 1,2|0,4| 
+dss_ruta_60.psv ->> HORIZONTE->Nitrógeno total (%): 0,12|0,04| 
+dss_ruta_60.psv ->> HORIZONTE->Relación C/N: 10,0|10,0| 
+dss_ruta_60.psv ->> HORIZONTE->Arcilla, <2 μ (%): 11,9|19,2| 
+dss_ruta_60.psv ->> HORIZONTE->Limo, 2-50 μ (%): 28,5|25,4| 
+dss_ruta_60.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 3,9|2,9| 
+dss_ruta_60.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 6,4|5,6| 
+dss_ruta_60.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 12,5|8,8| 
+dss_ruta_60.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 23,1|19,4| 
+dss_ruta_60.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 12,8|19,4| 
+dss_ruta_60.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0| 
+dss_ruta_60.psv ->> HORIZONTE->Equivalente de humedad (%): 12,2|16,3| 
+dss_ruta_60.psv ->> HORIZONTE->pH en pasta:  | | 
+dss_ruta_60.psv ->> HORIZONTE->pH en agua 1:2,5: 6,7|7,2| 
+dss_ruta_60.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 6,9|13,3|
+dss_ruta_60.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,4|0,3|
+dss_ruta_60.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2|0,2|
+dss_ruta_60.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,5|0,3|
+dss_ruta_60.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,5|0,8|
+dss_ruta_60.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 8,0|14,1| 
+dss_ruta_60.psv ->> HORIZONTE->Cap. de intercambio catiónico me/100 gr (T): 9,5|14,9| 
+dss_ruta_60.psv ->> HORIZONTE->Saturación con bases,% (S/T): 84,2|94,6| 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_san_pablo.psv ->> ID..........................: 237
+dss_san_pablo.psv ->> CLASIFICACION...............: Haplustol údico
+dss_san_pablo.psv ->> SERIE.......................: SAN PABLO (SPblo)
+dss_san_pablo.psv ->> UBICACION...................: 1 km al Sudeste de la estancia homónima y a 8 km al Noroeste de la ciudad de Jesús María, departamento Totoral
+dss_san_pablo.psv ->> PROVINCIA...................: CORDOBA
+dss_san_pablo.psv ->> LATITUD.....................: S305700
+dss_san_pablo.psv ->> LONGITUD....................: O641500
+dss_san_pablo.psv ->> ALTITUD.....................: 550
+dss_san_pablo.psv ->> PENDIENTE...................: FALTA!
+dss_san_pablo.psv ->> DRENAJE.....................: FALTA!
+dss_san_pablo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_san_pablo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_san_pablo.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_san_pablo.psv ->> COLOR ......................: PARDO OSCURO
+dss_san_pablo.psv ->> HORIZONTE->NOMBRE(S)........: Ap|IIB21|IIB22|IIB3|III
+dss_san_pablo.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-26|26-38|38-74|74-96|96a+
+dss_san_pablo.psv ->> HORIZONTE->Materia Orgánica (%): 3,0|0,7|1,0|0,5|0,5
+dss_san_pablo.psv ->> HORIZONTE->Carbono Orgánico (%):  | | | | 
+dss_san_pablo.psv ->> HORIZONTE->Nitrógeno total (%): 0,14|0,01|0,04|0,03|0,01
+dss_san_pablo.psv ->> HORIZONTE->Relación C/N:  | | | | 
+dss_san_pablo.psv ->> HORIZONTE->Arcilla, <2 μ (%): 18,4|15,1|18,4|19,6|12,3
+dss_san_pablo.psv ->> HORIZONTE->Limo, 2-50 μ (%): 31,5|20,2|20,4|21,2|12,5
+dss_san_pablo.psv ->> HORIZONTE->Arena (%): 47,4|64,3|60,5|56,6|73,7
+dss_san_pablo.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0|0,0
+dss_san_pablo.psv ->> HORIZONTE->Equivalente de humedad (%):  | | | | 
+dss_san_pablo.psv ->> HORIZONTE->pH en pasta:  | | | | 
+dss_san_pablo.psv ->> HORIZONTE->pH en agua 1:2,5: 7,3|7,3|7,8|7,3|7,7
+dss_san_pablo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 12,7|9,1|11,0|9,1|7,3
+dss_san_pablo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,7|1,3|0,6|1,7|0,7
+dss_san_pablo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,2|0,1|0,2|0,2|0,1
+dss_san_pablo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 0,8|0,4|0,4|0,5|0,3
+dss_san_pablo.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2|0,5| |0,4
+dss_san_pablo.psv ->> HORIZONTE->Suma de bases, me/100 gr (S):  | | | | 
+dss_san_pablo.psv ->> HORIZONTE->Cap. de intercam. Catiónico me/100 gr (T): 15,6|12,4|12,2|11,9|8,6
+dss_san_pablo.psv ->> HORIZONTE->Saturación con bases,% (S/T): 92|96|100|97|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_santa_catalina.psv ->> ID..........................: 238
+dss_santa_catalina.psv ->> CLASIFICACION...............: Argiustol údico
+dss_santa_catalina.psv ->> SERIE.......................: SANTA CATALINA (StaC)
+dss_santa_catalina.psv ->> UBICACION...................: 2 km al Norte de la ciudad de Jesús María, departamento Colón
+dss_santa_catalina.psv ->> PROVINCIA...................: CORDOBA
+dss_santa_catalina.psv ->> LATITUD.....................: S305800
+dss_santa_catalina.psv ->> LONGITUD....................: O640400
+dss_santa_catalina.psv ->> ALTITUD.....................: 500
+dss_santa_catalina.psv ->> PENDIENTE...................: FALTA!
+dss_santa_catalina.psv ->> DRENAJE.....................: FALTA!
+dss_santa_catalina.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_santa_catalina.psv ->> PERMEABILIDAD...............: FALTA!
+dss_santa_catalina.psv ->> TIPO DE SUELO...............: FRANCA FINA
+dss_santa_catalina.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_santa_catalina.psv ->> HORIZONTE->NOMBRE(S)........: A1|B21t|B22t|B3|Cca
+dss_santa_catalina.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-24|24-42|42-60|60-95|95a+
+dss_santa_catalina.psv ->> HORIZONTE->Materia Orgánica (%): 2,1|0,9| | | 
+dss_santa_catalina.psv ->> HORIZONTE->Carbono Orgánico (%): 1,2|0,5| | | 
+dss_santa_catalina.psv ->> HORIZONTE->Nitrógeno total (%): 0,11|0,06| | | 
+dss_santa_catalina.psv ->> HORIZONTE->Relación C/N: 10,9|8,3| | | 
+dss_santa_catalina.psv ->> HORIZONTE->Arcilla, <2 μ (%): 23,4|29,5|30,1|25,2|24,2
+dss_santa_catalina.psv ->> HORIZONTE->Limo, 2-50 μ (%): 54,9|55,7|51,1|55,7|54,0
+dss_santa_catalina.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 4,6|4,4|4,2|5,2|4
+dss_santa_catalina.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 3,2|2,1|2,0|2,1|2,6
+dss_santa_catalina.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 3,9|2,6|2,6|2,5|2,3
+dss_santa_catalina.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 5,4|4,1|4,5|4,6|4,5
+dss_santa_catalina.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 2,1|1,4|2,4|2,3|2,6
+dss_santa_catalina.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0|6,8
+dss_santa_catalina.psv ->> HORIZONTE->pH en pasta: 6,7|7,0|7,1|7,2| 
+dss_santa_catalina.psv ->> HORIZONTE->pH en agua 1:2,5: 7,0|7,2|7,3|7,4|8,1
+dss_santa_catalina.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 15,2|18,3|18,7|18,2| 
+dss_santa_catalina.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,7|0,8|0,6|0,4| 
+dss_santa_catalina.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4|0,4|0,4|0,4| 
+dss_santa_catalina.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,2|1,0|0,8|0,7| 
+dss_santa_catalina.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,2|0,6|0,7|0,2|
+dss_santa_catalina.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 18,5|20,5|20,5|19,7| 
+dss_santa_catalina.psv ->> HORIZONTE->Cap. de intercambio catiónico, me/100 gr (T): 19,7|21,1|21,2|19,9| 
+dss_santa_catalina.psv ->> HORIZONTE->Saturación con bases,% (S/T): 93,9|97,1|96,6|99,0| 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_sinsacate.psv ->> ID..........................: 239
+dss_sinsacate.psv ->> CLASIFICACION...............: Argiustol údico
+dss_sinsacate.psv ->> SERIE.......................: SINSACATE (Sinsac)
+dss_sinsacate.psv ->> UBICACION...................: 8 km al Norte de la ciudad de Jesús María, departamento Colón
+dss_sinsacate.psv ->> PROVINCIA...................: CORDOBA
+dss_sinsacate.psv ->> LATITUD.....................: S345500
+dss_sinsacate.psv ->> LONGITUD....................: O640600
+dss_sinsacate.psv ->> ALTITUD.....................: 550
+dss_sinsacate.psv ->> PENDIENTE...................: FALTA!
+dss_sinsacate.psv ->> DRENAJE.....................: FALTA!
+dss_sinsacate.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_sinsacate.psv ->> PERMEABILIDAD...............: FALTA!
+dss_sinsacate.psv ->> TIPO DE SUELO...............: ARCILLOSA FINA MIXTA TÉRMICA
+dss_sinsacate.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_sinsacate.psv ->> HORIZONTE->NOMBRE(S)........: A1|B2t|B3|C
+dss_sinsacate.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-38|38-90|90-120|120a+
+dss_sinsacate.psv ->> HORIZONTE->Materia Orgánica (%): 2,1|0,3| | 
+dss_sinsacate.psv ->> HORIZONTE->Carbono Orgánico (%): 1,2|0,2| | 
+dss_sinsacate.psv ->> HORIZONTE->Nitrógeno total (%): 0,11|0,03| | 
+dss_sinsacate.psv ->> HORIZONTE->Relación C/N: 10,9|6,7| | 
+dss_sinsacate.psv ->> HORIZONTE->Arcilla, <2 μ (%): 34|40|20,3|26,4
+dss_sinsacate.psv ->> HORIZONTE->Limo, 2-50 μ (%): 56,7|50,1|60,8|61,2
+dss_sinsacate.psv ->> HORIZONTE->Arena muy fina 50-100 μ (%): 2,8|3,1|4,2|5,5
+dss_sinsacate.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 1,0|1,3|1,9|1,8
+dss_sinsacate.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 0,7|1,2|1,4|1,4
+dss_sinsacate.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 0,8|2,1|1,6|1,9
+dss_sinsacate.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,3|1,0|0,7|0,9
+dss_sinsacate.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0
+dss_sinsacate.psv ->> HORIZONTE->pH en pasta:  | | | 
+dss_sinsacate.psv ->> HORIZONTE->pH en agua 1:2,5: 6,5|6,6|6,7|6,6
+dss_sinsacate.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 19,9|18,6|13,6|14,1
+dss_sinsacate.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 1,0|0,9|1,1|0,8
+dss_sinsacate.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,5|0,4|0,3|0,4
+dss_sinsacate.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,9|1,4|1,2|1,3
+dss_sinsacate.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,6|1,0|0,8|
+dss_sinsacate.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 23,3|21,3|16,2|16,9
+dss_sinsacate.psv ->> HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 24,9|22,3|17,0|16,9
+dss_sinsacate.psv ->> HORIZONTE->Saturación con bases,% (S/T): 93,5|95,5|95,3|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_terrazas_rio_pinto.psv ->> ID..........................: 240
+dss_terrazas_rio_pinto.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_terrazas_rio_pinto.psv ->> SERIE.......................: TERRAZAS DEL RÍO PINTO (TrzRPnt)
+dss_terrazas_rio_pinto.psv ->> UBICACION...................: 4 km al Sur de Sarmiento, departamento Totoral
+dss_terrazas_rio_pinto.psv ->> PROVINCIA...................: CORDOBA
+dss_terrazas_rio_pinto.psv ->> LATITUD.....................: S304700
+dss_terrazas_rio_pinto.psv ->> LONGITUD....................: O641300
+dss_terrazas_rio_pinto.psv ->> ALTITUD.....................: 600
+dss_terrazas_rio_pinto.psv ->> PENDIENTE...................: FALTA!
+dss_terrazas_rio_pinto.psv ->> DRENAJE.....................: FALTA!
+dss_terrazas_rio_pinto.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_terrazas_rio_pinto.psv ->> PERMEABILIDAD...............: FALTA!
+dss_terrazas_rio_pinto.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_terrazas_rio_pinto.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->NOMBRE(S)........: A|AC|Cca
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-23|23-38|38a+
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Materia Orgánica (%): 2,8| | 
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Carbono Orgánico (%): 1,6| | 
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Nitrógeno total (%): 0,17| | 
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Relación C/N: 9,4| | 
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Arcilla, <2 μ (%): 18,2|20,4|17,4
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Limo, 2-50 μ (%): 54,7|55,5|60,0
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 5,3|5,1|5,8
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 3,2|3,0|2,9
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 4,2|3,7|3,2
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 8,2|6,4|5,0
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 4,3|3,7|3,3
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|7,4
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Equivalente de humedad (%): 23,5|22,6|23,0
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->pH en pasta:  | | 
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->pH en agua 1:2,5: 6,2|6,9|7,7
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 17,4|20,0|
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,9|1,0| 
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,3|0,2|0,2
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,5|0,7|0,4
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,7|0,2|
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 20,1|21,9|
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Cap. de intercambio catiónica me/100 gr (T): 21,8|22,1|19,6
+dss_terrazas_rio_pinto.psv ->> HORIZONTE->Saturación con bases,% (S/T): 92,2|99,1|100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_totoral.psv ->> ID..........................: 241
+dss_totoral.psv ->> CLASIFICACION...............: Argiustol údico
+dss_totoral.psv ->> SERIE.......................: TOTORAL (Ttrl)
+dss_totoral.psv ->> UBICACION...................: 4 km al Este de la localidad homónima, departamento Totoral
+dss_totoral.psv ->> PROVINCIA...................: CORDOBA
+dss_totoral.psv ->> LATITUD.....................: S300500
+dss_totoral.psv ->> LONGITUD....................: O640200
+dss_totoral.psv ->> ALTITUD.....................: 550
+dss_totoral.psv ->> PENDIENTE...................: FALTA!
+dss_totoral.psv ->> DRENAJE.....................: FALTA!
+dss_totoral.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_totoral.psv ->> PERMEABILIDAD...............: FALTA!
+dss_totoral.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_totoral.psv ->> COLOR ......................: PARDO MUY OSCURO A GRIS MUY OSCURO
+dss_totoral.psv ->> HORIZONTE->NOMBRE(S)........: A1|B2t|B3|C
+dss_totoral.psv ->> HORIZONTE->Profundidad de la muestra (cm): 0-23|23-56|56-75|75a+
+dss_totoral.psv ->> HORIZONTE->Materia Orgánica (%): 2,6|1,2| |
+dss_totoral.psv ->> HORIZONTE->Carbono Orgánico (%): 1,5|0,7| |
+dss_totoral.psv ->> HORIZONTE->Nitrógeno total (%): 0,12|0,06| |
+dss_totoral.psv ->> HORIZONTE->Relación C/N: 12,5|11,7| |
+dss_totoral.psv ->> HORIZONTE->Arcilla, <2 μ (%): 24,8|33,1|30,5|28,5
+dss_totoral.psv ->> HORIZONTE->Limo, 2-50 μ (%): 50,9|46,4|49,9|52,9
+dss_totoral.psv ->> HORIZONTE->Arena muy fina, 50-100 μ (%): 4,9|4,7|4,5|4,6
+dss_totoral.psv ->> HORIZONTE->Arena fina, 100-250 μ (%): 4,1|3,6|6,5|6,4
+dss_totoral.psv ->> HORIZONTE->Arena media, 250-500 μ (%): 5,3|4,2|4,7|6,7
+dss_totoral.psv ->> HORIZONTE->Arena gruesa, 500-1000 μ (%): 6,0|4,6|3,9|3,4
+dss_totoral.psv ->> HORIZONTE->Arena muy gruesa, 1-2 mm (%): 1,4|1,1|0,9|0,9
+dss_totoral.psv ->> HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|0,0
+dss_totoral.psv ->> HORIZONTE->Equivalente de humedad (%): 25,7|26,8|25,9|25,6
+dss_totoral.psv ->> HORIZONTE->pH en pasta:  | | |
+dss_totoral.psv ->> HORIZONTE->pH en agua 1:2,5: 7,2|7,2|7,3|7,6
+dss_totoral.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Ca ++: 16,8|17,4|17,3|16,6
+dss_totoral.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Mg ++: 0,4|2,2|1,3|1,8
+dss_totoral.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-Na +: 0,4|0,4|0,3|0,3
+dss_totoral.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-K +: 1,9|1,4|1,1|1,0
+dss_totoral.psv ->> HORIZONTE->Cationes de intercambio (me/100 gr)-H +: 1,3|1,1| |
+dss_totoral.psv ->> HORIZONTE->Suma de bases, me/100 gr (S): 19,5|21,4|20,0|19,7
+dss_totoral.psv ->> HORIZONTE->Cap. de intercambio catiónica me/100 gr (T): 20,8|22,5|20,0|19,7
+dss_totoral.psv ->> HORIZONTE->Saturación con bases,% (S/T): 93,8|95,1|100|100

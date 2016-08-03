@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 2
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|bw|bc|c
+HORIZONTE->Profundidad de la muestra (cm): 0-23|23-55|55-90|90 a +
+HORIZONTE->Materia Orgánica (%): 1.5|0.6|0.4|
+HORIZONTE->Carbono Orgánico (%): 0.9|0.4|0.2|
+HORIZONTE->Nitrógeno total (%): 0.14|0.09||
+HORIZONTE->Relación C/N: 6.4|4.0||
+HORIZONTE->Arcilla, <2 µ (%): 19.9|20.7|20.1|14.5
+HORIZONTE->Limo, 2-50 µ (%): 38.1|33.0|34.0|26.7
+HORIZONTE->Arena muy fina, 50-100 µ (%): 12.7|9.7|9.9|12.6
+HORIZONTE->Arena fina, 100-250 µ (%): 6.7|7.8|7.7|9.6
+HORIZONTE->Arena media, 250-500 µ (%): 10.2|13.2|13.3|14.9
+HORIZONTE->Arena gruesa, 500-1000 µ (%): 8.7|11.4|11.8|12.9
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): 3.8|4.6|4.5|8.8
+HORIZONTE->Calcáreo, CaCO3 (%): 0|0|0|0
+HORIZONTE->Equivalente de humedad (%): 19.6|18.7|18.8|16.2
+HORIZONTE->pH en pasta: |||
+HORIZONTE->pH en agua 1:2,5: 7.6|7.7|7.6|7.9
+HORIZONTE->Cationes de intercambio, me/100 gr-Ca++: 11.2|9.9|9.7|8.6
+HORIZONTE->Cationes de intercambio, me/100 gr-Mg++: 1.8|2.4|2.4|1.9
+HORIZONTE->Cationes de intercambio, me/100 gr-Na+: 0.1|0.1|0.1|0.2
+HORIZONTE->Cationes de intercambio, me/100 gr-K+: 0.9|0.6|0.8|0.7
+HORIZONTE->Cationes de intercambio, me/100 gr-H+: |||
+HORIZONTE->Suma de bases, me/100 gr (S): 14.0|13.1|13.0|11.3
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 14.0|13.1|13.0|11.3
+HORIZONTE->Saturación con bases, % (S/T): 100|100|100|100

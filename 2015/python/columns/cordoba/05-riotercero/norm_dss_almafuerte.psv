@@ -1,0 +1,39 @@
+dss_almafuerte.psv ->> ID..........................: 501
+dss_almafuerte.psv ->> CLASIFICACION...............: Haplustol típico
+dss_almafuerte.psv ->> SERIE.......................: ALMAFUERTE (Alm)
+dss_almafuerte.psv ->> UBICACION...................: 6.2 km al OSO de la localidad homónima, departamento Tercero Arriba
+dss_almafuerte.psv ->> PROVINCIA...................: CORDOBA
+dss_almafuerte.psv ->> LATITUD.....................: S321300
+dss_almafuerte.psv ->> LONGITUD....................: O641000
+dss_almafuerte.psv ->> ALTITUD.....................: 400
+dss_almafuerte.psv ->> PENDIENTE...................: FALTA!
+dss_almafuerte.psv ->> DRENAJE.....................: FALTA!
+dss_almafuerte.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_almafuerte.psv ->> PERMEABILIDAD...............: FALTA!
+dss_almafuerte.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+dss_almafuerte.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_almafuerte.psv ->> HORIZONTE->NOMBRE(S)........: a | bw | bc | c
+dss_almafuerte.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-55 | 55-90 | 90a+
+dss_almafuerte.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.5 | 0.6 | 0.4 | 
+dss_almafuerte.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.9 | 0.4 | 0.2 | 
+dss_almafuerte.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.14 | 0.09 | - | 
+dss_almafuerte.psv ->> HORIZONTE->RELACIÓN C/N.....: 6.4 | 4.0 | - | 
+dss_almafuerte.psv ->> HORIZONTE->ARCILLA 2 (%)....: 19.9 | 20.7 | 20.1 | 14.5
+dss_almafuerte.psv ->> HORIZONTE->LIMO 2-50 (%)....: 38.1 | 33.0 | 34.0 | 26.7
+dss_almafuerte.psv ->> HORIZONTE->AMF 50-100 (%)...: 12.7 | 9.7 | 9.9 | 12.6
+dss_almafuerte.psv ->> HORIZONTE->AF 100-250 (%)...: 6.7 | 7.8 | 7.7 | 9.6
+dss_almafuerte.psv ->> HORIZONTE->AM 250-500 (%)...: 10.2 | 13.2 | 13.3 | 14.9
+dss_almafuerte.psv ->> HORIZONTE->AG 500-1000 (%)..: 8.7 | 11.4 | 11.8 | 12.9
+dss_almafuerte.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 3.8 | 4.6 | 4.5 | 8.8
+dss_almafuerte.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0
+dss_almafuerte.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 19.6 | 18.7 | 18.8 | 16.2
+dss_almafuerte.psv ->> HORIZONTE->PH PASTA.........: - | - | - | 
+dss_almafuerte.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7.6 | 7.7 | 7.6 | 7.9
+dss_almafuerte.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 11.2 | 9.9 | 9.7 | 8.6
+dss_almafuerte.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.8 | 2.4 | 2.4 | 1.9
+dss_almafuerte.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.1 | 0.1 | 0.1 | 0.2
+dss_almafuerte.psv ->> HORIZONTE->CI ME/100G-K +...: 0.9 | 0.6 | 0.8 | 0.7
+dss_almafuerte.psv ->> HORIZONTE->CI ME/100G-H +...: - | - | - | 
+dss_almafuerte.psv ->> HORIZONTE->SUM.B. ME/100G(S): 14.0 | 13.1 | 13.0 | 11.3
+dss_almafuerte.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.0 | 13.1 | 13.0 | 11.3
+dss_almafuerte.psv ->> HORIZONTE->SAT.B % (S/T)....: 100 | 100 | 100 | 100

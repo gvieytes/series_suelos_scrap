@@ -1,0 +1,48 @@
+dss_AltoGrande.psv ->> ID..........................: 701
+dss_AltoGrande.psv ->> CLASIFICACION...............: Natracualf álbico
+dss_AltoGrande.psv ->> SERIE.......................: ALTO ALEGRE (AAlgr)
+dss_AltoGrande.psv ->> UBICACION...................: 10,6 km al Este de Alto Alegre, departamento Unión
+dss_AltoGrande.psv ->> PROVINCIA...................: CORDOBA
+dss_AltoGrande.psv ->> LATITUD.....................: S323300
+dss_AltoGrande.psv ->> LONGITUD....................: O624700
+dss_AltoGrande.psv ->> ALTITUD.....................: 137
+dss_AltoGrande.psv ->> PENDIENTE...................: FALTA!
+dss_AltoGrande.psv ->> DRENAJE.....................: FALTA!
+dss_AltoGrande.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_AltoGrande.psv ->> PERMEABILIDAD...............: FALTA!
+dss_AltoGrande.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+dss_AltoGrande.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_AltoGrande.psv ->> HORIZONTE->NOMBRE(S)........: e | bt | bc | c | 2ck
+dss_AltoGrande.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17 | 17-41 | 41-60 | 60-97 | 97a+
+dss_AltoGrande.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 0.73 | 0.48 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.43 | 0.28 | 0.10 | 0.10 | 0.06
+dss_AltoGrande.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.060 | 0.043 | 0.031 | 0.031 | 
+dss_AltoGrande.psv ->> HORIZONTE->RELACIÓN C/N.....: 7.1 | 6.5 | 3.2 | 3.2 | 
+dss_AltoGrande.psv ->> HORIZONTE->ARCILLA 2 (%)....: 17.5 | 19.5 | 17.8 | 17.7 | 11.8
+dss_AltoGrande.psv ->> HORIZONTE->LIMO 2-50 (%)....: 41.5 | 45.2 | 40.7 | 37.3 | 58.0
+dss_AltoGrande.psv ->> HORIZONTE->AMF 50-100 (%)...: 7.2 | 7.0 | 7.1 | 8.0 | 17.3
+dss_AltoGrande.psv ->> HORIZONTE->AF 100-250 (%)...: 26.6 | 22.7 | 25.2 | 30.0 | 9.0
+dss_AltoGrande.psv ->> HORIZONTE->AM 250-500 (%)...: 4.6 | 3.7 | 7.0 | 5.4 | 0.9
+dss_AltoGrande.psv ->> HORIZONTE->AG 500-1000 (%)..: 2.4 | 2.1 | 2.8 | 2.1 | 0.5
+dss_AltoGrande.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.1 | - | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.16 | 0.73 | 0.51 | 0.09 | 2.70
+dss_AltoGrande.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 21.6 | 29.8 | 25.6 | 21.2 | 22.1
+dss_AltoGrande.psv ->> HORIZONTE->PH PASTA.........: 8.6 | 8.9 | 8.9 | 8.6 | 8.6
+dss_AltoGrande.psv ->> HORIZONTE->PH H2O 1:2,5.....: 9.6 | 9.8 | 9.7 | 9.5 | 9.5
+dss_AltoGrande.psv ->> HORIZONTE->CI ME/100G-Ca ++.: - | - | - | 6.1 | 
+dss_AltoGrande.psv ->> HORIZONTE->CI ME/100G-Mg ++.: - | - | - | 1.1 | 
+dss_AltoGrande.psv ->> HORIZONTE->CI ME/100G-Na +..: 7.2 | 16.4 | 11.4 | 7.6 | 7.9
+dss_AltoGrande.psv ->> HORIZONTE->CI ME/100G-K +...: 1.6 | 2.4 | 2.3 | 1.8 | 2.4
+dss_AltoGrande.psv ->> HORIZONTE->CI ME/100G-H +...: - | - | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->Na+ % DEL VALOR T: 57 | 83.6 | 68.6 | 48.7 | 56
+dss_AltoGrande.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | 4.54 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->SUM.B. ME/100G(S): - | - | - | 16.6 | 
+dss_AltoGrande.psv ->> HORIZONTE->CIC ME/100G(T)...: 12.6 | 19.6 | 16.6 | 15.6 | 14
+dss_AltoGrande.psv ->> HORIZONTE->SAT.B % (S/T)....: - | - | - | 100 | 
+dss_AltoGrande.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | 3.0 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | 0.8 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | 47.0 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | 0.35 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | 15.0 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | 35.6 | - | - | 
+dss_AltoGrande.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | 1.5 | - | - | 

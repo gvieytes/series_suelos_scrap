@@ -1,0 +1,307 @@
+
+--------------------------------------------------------------------------------
+SERIE EL CIMARRÓN 							 Símbolo: Crn
+
+
+Pertenece a la familia "fina, montmorillonítica, alcalina (t), térmica" de los Ocracualfes vérticos (Planosol vertisólico).
+Suelos desarrollados sobre sedimentos "limos calcáreos", densos, franco-arcillo-limosos.
+
+Son suelos imperfectamente drenados, que poseen concreciones de hierro-manganeso desde la superficie. Tienen un epipedón de color claro, lixiviado y somero, franco-arcillo-limoso y un horizonte argílico con caras de fricción ("slickensides") intersectadas y calcáreo abundante a partir de los 35 cm.
+
+Suelos desarrollados sobre materiales "limos calcáreos", de textura franco-arcillo-limosa.
+
+
+Perfil tipo: ER7-59C
+Fecha: 16-VII-1991
+Ubicación: Ea. "El Relincho" (foto 481-40) - Dpto. Federal.
+Reconocedores: H.A. Tasi; L.O.López.
+
+
+A1: 00-12 cm; gris muy oscuro a gris oscuro (10YR 3.5/1) en húmedo; gris pardo claro a pardo grisáceo (10YR 5.5/2) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; friable en húmedo; barnices ("humic skins") escasos, medios; ("clay humic skins") escasos, medios; concreciones de hierro-manganeso escasas; moteados escasos, finos y débiles; límite gradual, suave.
+
+B21t: 12-32 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares, angulares irregulares y cuneiformes medios, moderados; friable en húmedo; barnices ("clay humic skins") abundantes; caras de fricción ("slickensides") escasas, finas e intersectadas; escasos carbonatos libres en la masa; concreciones calcáreas escasas; moteados de hierro-manganeso comunes, precisos y medios; límite gradual, ondulado.
+
+B22t: 32-50 cm; gris muy oscuro a gris oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en bloques angulares irregulares y cuneiformes medios, fuertes; friable en húmedo; barnices ("clay humic skins") escasos, medios; ("clay skins") escasos, 	finos; caras de fricción ("slickensides") abundantes, finas e intersectadas; carbonatos libres en la masa escasos; concreciones calcáreas escasas; concreciones de hierro-manganeso finas; moteados de hierro-	manganeso precisos y finos; límite claro, ondulado.
+
+B31tca: 50-65 cm; pardo oscuro a pardo grisáceo muy oscuro (10YR 3.5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, fuertes; firme en húmedo; caras de fricción ("slickensides") escasas, finas e intersectadas; cristales de sulfato de calcio (yeso) escasos; carbonatos 	libres en la masa abundantes; concreciones de calcio abundantes y duras; concreciones de hierro-manganeso abundantes y finas; moteados de hierro-manganeso comunes, precisos y medios; límite claro, suave.
+
+
+B32tcacs: 65-83 cm; pardo grisáceo a pardo muy oscuro (10YR 4.5/2) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; caras de fricción ("slickensides") escasas, finas; carbonato libre en la masa escaso; abundantes concreciones de calcio duras; concreciones de hierro-manganeso abundantes finas de menos de 2 mm; moteados de hierro-manganeso comunes, precisos y medios; cristales de sulfato de calcio abundantes; límite abrupto, suave.
+
+Ccacs: 83 cm +; pardo amarillento oscuro (10YR 4/4) en húmedo; franco-arcillo-limoso; estructura masiva; carbonatos libres en la masa escasos; abundantes concreciones de calcio; concreciones de hierro-manganeso abundantes, blandas y semiduras; moteados de hierro-manganeso abundantes, precisos y medios.
+
+
+Variabilidad de rasgos
+	
+El solum varía entre 70 y 110 cm de espesor, con un epipedón ócrico entre 7 y 15 cm compuesto de un A1 lixiviado que puede incluir una capa limosa de 0.5 cm de espesor.
+
+El B2t argílico tiene un incremento importante de arcilla (40-42%) con argilanes y caras de fricción y grietas que se cierran y abren con la variación de humedad. Presenta concreciones de hierro-manganeso abundantes a partir de los 10 cm aproximadamente.
+
+El B3 textural gípsico varía entre 40 y 46% de arcilla, con caras de fricción finas e intersectadas y cristales de yeso a partir de los 50 cm y abundantes concreciones de calcio.
+
+	
+Fases
+
+No posee a este nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Arroyo Quebracho pero ésta es más arcillosa desde la superficie y es más hidromórfica y a la serie La Calandria que posee otro paisaje y más hidromórfica.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial lento a medio. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie El Cimarrón tiene moderado a severo peligro de erosión en forma de surcos y cárcavas, aún bajo monte, en forma de surcos y cárcavas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Cimarrón
+
+ER7-59C
+
+
+
+
+
+
+Nº de registro
+ 6.083
+ 6.084
+ 6.085
+ 6.086
+ 6.087
+ 6.088
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 00-10
+ 15-30
+ 37-48
+ 53-64
+ 70-80
+ 125+
+Mat.organica (%)
+ 4.01
+ 2.83
+ 1.67
+ 1.17
+ 0.62
+ 0.64
+N (%)
+ 0.29
+ 0.13
+ 0.10
+ 0.07
+ 0.03
+ 0.03
+C/N
+ 8
+ 12
+ 9
+ 10
+ 11
+ 12
+
+T < 2 μ
+
+ 29.12
+
+ 39.44
+
+ 42.14
+
+ 46.46
+
+ 40.91
+
+ 38.21
+E 2-20 μ
+ 37.61
+ 37.37
+ 35.48
+ 33.82
+ 30.53
+ 34.02
+X 2-50 μ
+ 69.52
+ 59.11
+ 57.00
+ 52.61
+ 57.91
+ 57.62
+T 50-100 μ
+ 0.66
+ 0.87
+ 0.44
+ 0.33
+ 0.31
+ 0.30
+U 100-250 μ
+ 0.66
+ 0.56
+ 0.40
+ 0.52
+ 0.78
+ 3.84
+R 250-500 μ
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+A 500-1000 μ
+ 0.04
+ 0.02
+ 0.02
+ 0.08
+ 0.09
+ 0.03
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ 2.8
+
+ 1.9
+
+ 1.7
+
+ 14.6
+pH H2O
+ 6.4
+ 7.9
+ 8.1
+ 8.2
+ 7.6
+ 8.3
+pH ClK
+ 5.4
+ 6.6
+ 6.9
+ 7.0
+ 7.0
+ 7.1
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+
+ 25.14
+
+
+ 23.46
+
+
+ 25.06
+
+
+ 28.54
+
+
+ 20.97
+
+
+ 16.57
+ d Ca++
+ 10.21
+ 15.37
+ 15.76
+ 14.47
+ N.D
+ 11.84
+C e
+
+
+
+
+
+
+Mg++
+ 3.54
+ 3.24
+ 3.44
+ 3.62
+ N.D
+ 1.58
+t c
+
+
+
+
+
+
+i a K+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+o m
+
+
+
+
+
+
+n b Na+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+e i
+
+
+
+
+
+
+s o H+
+ 5.05
+ 1.26
+ 1.68
+ 0.84
+ 0.84
+ 0.84
+
+Equivalente de humedad (%)
+
+ 32.81
+
+ 44.49
+
+ 44.25
+
+ 41.44
+
+ 36.03
+
+ 34.22
+P asimilable (ppm)
+ 4.24
+ 4.35
+ 3.49
+ 3.46
+ 4.34
+ 4.27
+
+N.D.= No determinado.

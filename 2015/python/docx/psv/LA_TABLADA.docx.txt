@@ -1,0 +1,328 @@
+
+--------------------------------------------------------------------------------
+SERIE LA TABLADA Símbolo: LTa
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelos desarrollados sobre materiales loéssicos, franco-arcillo-limosos, de colores claros y sin presencia de carbonatos.
+Presentan un epipedón mólico de textura franco-arcillo-limosa de colores pardos oscuros, seguido de un horizonte argílico, arcillo-limoso y color oscuro.
+El perfil está totalmente descarbonatado.
+
+
+Perfil tipo: ER1-79C
+Fecha: 7-X-1992
+Ubicación: Estancia La Constancia (foto IR 420-64) - Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-18 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, pardo grisáceo (10YR 5/2) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+A12: 18-40 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices húmicos ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite abrupto, suave.
+
+B21t: 40-70 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares con tendencia cuneiforme medios, fuertes; muy duro en seco, muy firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B22t: 70-100 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme guesos y fuertes; duro en seco, friable en húmedo; barnices ("clay skins") abundantes; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual, suave.
+
+B3: 100-130 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares débiles, que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") abundantes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+C: 130 cm+; pardo (7,5YR 4,5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares débiles, con tendencia a masivo; barnices ("clay skins") escasos; moteados de hierro-manganeso escasos, finos y débiles.
+
+
+Variabilidad de rasgos
+
+El solum tiene una profundidad que oscila entre los 120-130 cm. El epipedón, de buen espesor, varía entre 20-40 cm y consta normalmente de un horizonte A11 y A12. Está bien estructurado y de consistencia friable cuando no está afectado por la erosión. Tiene un 25-30% de arcilla y 3,5 a 4% de materia orgánica.
+
+El horizonte argílico tiene un espesor que varía entre 60-70 cm y un tenor de arcilla de entre 40-45%. Tiene comunes caras de fricción ("slickensides"), sin calcáreo libre ni concreciones. Alrededor de los 100 cm sigue un horizonte de transición (B3) de textura arcillo-limosa y de color más claro, sin carbonatos libres ni concreciones.
+
+La total descarbonatación que presenta el perfil es una característica muy particular de esta serie.
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Cuatro Bocas, pero ésta es menos arcillosa y tiene algo de calcáreo en el subsuelo.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio a rápido. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+Serie La Tablada manifiesta una erosión actual ligera, especialmente en las lomas más altas del relieve. La susceptibilidad a la misma es moderada.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Tablada
+
+ER1-79C
+Nº de registro
+ 6.988
+ 6.989
+ 6.990
+ 6.991
+ 6.992
+ 6.993
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 03-14
+ 22-35
+ 46-58
+ 74-90
+ 105-115
+ 130-145
+Mat.organica (%)
+ 4.01
+ 3.35
+ 1.58
+ 0.89
+ 0.78
+ 0.37
+N (%)
+ 0.17
+ 0.13
+ 0.07
+ 0.06
+ 0.06
+ 0.04
+C/N
+ 12.87
+ 14.60
+ 11.35
+ 8.73
+ 8.73
+ 5.13
+
+T < 2 u
+
+ 29.88
+
+ 30.98
+
+ 45.89
+
+ 41.40
+
+ 39.93
+
+ 39.01
+E 2-20 u
+ 29.59
+ 35.74
+ 23.94
+ 26.35
+ 21.35
+ 26.28
+X 2-50 u
+ 64.64
+ 64.37
+ 49.45
+ 53.75
+ 55.11
+ 56.71
+T 50-100 u
+ 3.98
+ 2.29
+ 2.41
+ 1.96
+ 2.12
+ 1.92
+U 100-500 u
+ 1.47
+ 2.34
+ 2.23
+ 2.88
+ 2.83
+ 2.35
+R 500-1000 u
+ 0.03
+ 0.02
+ 0.02
+ 0.01
+ 0.01
+ 0.01
+A
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+pH H2O
+ 5.7
+ 5.7
+ 6.1
+ 6.6
+ 6.6
+ 7.3
+pH ClK
+ 5.1
+ 5.2
+ 5.4
+ 5.7
+ 5.5
+ 6.2
+C.E. (mmhos/cm)
+ 0.75
+ 0.78
+ 0.85
+ 0.88
+ 0.88
+ 0.95
+
+Capacidad de intercambio
+Catiónico (meq/100 g) =
+Valor T
+
+
+
+ 28.00
+
+
+
+ 29.76
+
+
+
+ 46.29
+
+
+
+ 37.85
+
+
+
+ 36.50
+
+
+
+ 35.70
+
+
+d
+Ca++
+ 22.60
+ 23.60
+ 35.49
+ 30.70
+ 29.60
+ 29.00
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 3.25
+ 4.01
+ 6.70
+ 4.20
+ 4.20
+ 4.15
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.25
+ 1.26
+ 1.80
+ 1.45
+ 1.30
+ 1.30
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.20
+ 0.30
+ 0.70
+ 1.00
+ 1.00
+ 1.00
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+% Na/T
+
+ 0.72
+
+ 1.01
+
+ 1.51
+
+ 2.64
+
+ 2.74
+
+ 2.80
+Equivalente de humedad (%)
+ 29.44
+ 32.29
+ 42.40
+ 37.20
+ 35.42
+ 35.90
+

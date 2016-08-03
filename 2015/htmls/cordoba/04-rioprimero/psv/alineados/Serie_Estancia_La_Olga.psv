@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: E    | Btnk  | BCk   | Ck
+HORIZONTE->PROFUNDIDADES(CM): 0-16 | 16-43 | 43-66 | 66a+
+HORIZONTE->MATERIA ORGÁN.(%): 1,3  | 0,4   |       |
+HORIZONTE->CARBONO ORGÁN.(%): 0,7  | 0,2   |       |
+HORIZONTE->NITRÓGENO TOT.(%): 0,1  |       |       |
+HORIZONTE->RELACIÓN C/N.....: 7,0  |       |       |
+HORIZONTE->ARCILLA 2 (%)....: 27,3 | 36,7  | 34,1  | 17,2
+HORIZONTE->LIMO 2-50 (%)....: 65,9 | 58,5  | 61,9  | 77,6
+HORIZONTE->AMF 50-100 (%)...: 3,3  | 2,5   | 2,9   | 2,9
+HORIZONTE->AF 100-250 (%)...: 1,2  | 1,2   | 0,6   | 0,9
+HORIZONTE->AM 250-500 (%)...: 0,1  | 0,2   |       |
+HORIZONTE->AG 500-1000 (%)..: 0,4  | 0,3   | 0,3   | 0,3
+HORIZONTE->AMG 1-2 mm (%)...:      |       | 0,3   |
+HORIZONTE->CALCAREO CaCO3(%): 0,5  | 2,1   | 7,3   | 6,0
+HORIZONTE->EQUIV. HUMEDAD(%): 28,9 | 36,9  | 33,8  | 32,8
+HORIZONTE->PH PASTA.........: 7,9  | 8,4   | 8,8   | 8,9 
+HORIZONTE->PH H2O 1:2,5.....:      |       |       |
+HORIZONTE->CI ME/100G-Ca ++.:      |       |       |
+HORIZONTE->CI ME/100G-Mg ++.: 0,5  | 2,1   | 7,3   | 6,0
+HORIZONTE->CI ME/100G-Na +..: 28,9 | 36,9  | 33,8  | 32,8
+HORIZONTE->CI ME/100G-K +...: 8,5  | 9,1   | 9,4   | 9,6
+HORIZONTE->CI ME/100G-H +...:      |       |       |
+HORIZONTE->SUM.B. ME/100G(S):      |       |       |
+HORIZONTE->CIC ME/100G(T)...: 16,4 | 17,7  | 15,3  | 9,4
+HORIZONTE->SAT.B % (S/T)....: 100  | 100   | 100   | 100
+HORIZONTE->% Na INTERC.(PSI): 18,9 | 49,7  | 61,4  | 65,0

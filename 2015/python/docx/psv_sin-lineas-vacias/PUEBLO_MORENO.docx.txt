@@ -1,0 +1,235 @@
+--------------------------------------------------------------------------------
+SERIE PUEBLO MORENO				 Símbolo: PbMo
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiudólicos.
+Suelos muy profundos, moderadamente bien drenados, desarrollados en materiales limos calcáreos, muy arcillosos.
+Perfil tipo: ER7-113C
+Fecha: 15-IV-97
+Ubicación: Establecimiento Sr. Rausch (foto IR 455-6) - Dpto. Paraná.
+Reconocedores: L.O.López; O.A.Foti
+Ap: 00-18 cm; gris muy oscuro (10YR 3/1) en húmedo y pardo grisáceo oscuro (10YR 4/2) en seco; franco-arcillo-limoso; estructura granular, bloques subangulares y bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B1: 18-36 cm; negro (10YR 2,5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices ("clay-humic skins") comunes y ("clay skins") escasos a comunes; caras de fricción ("slickensides") escasas a comunes, finas e intersectadas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+B21t: 36-74 cm; negro (10YR 2,5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en bloques angulares irregulares y cuneiformes gruesos, moderados; firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") abundantes, gruesas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+B22t: 74-99 cm; pardo oscuro (7,5YR 3,5/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares y angulares irregulares, medios, fuertes; firme en húmedo; barnices ("clay skins") comunes, finos y ("clay-humic skins") escasos; caras de fricción ("slickensides") abundantes y gruesas; escasos carbonatos libres en la masa; concreciones calcáreas escasas; moteados de hierro-manganeso abundantes, medios y precisos; límite claro, suave.
+B23tca: 99-124 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares y angulares irregulares medios, moderados; firme en húmedo; caras de fricción ("slickensides") comunes a abundantes y gruesas; comunes carbonatos libres en la masa; concreciones calcáreas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, suave.
+B3ca: 124-150 cm; pardo a pardo oscuro (7,5YR 4/2,5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles que rompen en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; caras de fricción ("slickensides") comunes; abundantes carbonatos libres en la masa; concreciones calcáreas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite difuso, suave.
+Cca: 150 cm +; pardo a pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; masivo; friable en húmedo; caras de fricción ("slickensides") comunes; abundante cantidad de carbonatos libres en la masa y en forma de micelios; concreciones calcáreas escasas; moteados de hierro-manganeso abundantes, medios y precisos.
+Variabilidad de rasgos
+El solum tiene más de 150 cm de profundidad. El epipedón mólico, con horizontes Ap y B1 con espesores que varían entre 25-36 cm presenta una estructura granular y prismas compuestos, finos y débiles. El epipedón tiene entre 30-35 % de arcilla y presenta colores oscuros.
+El horizonte argílico, de estructura prismática compuesta, tienen un espesor de 55-85 cm y normalmente está mejor expresado en su parte inferior y su porcentaje de arcilla varía entre los 40-45 %.
+Los moteados de hierro manganeso se hacen más evidentes a partir del B21t. Las concreciones calcáreas aparecen a partir de los 70 cm aumentando progresivamente en profundidad.
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Pueblo Moreno tiene erosión leve, y la susceptibilidad a la misma, especialmente en forma laminar, es moderada.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Pueblo Moreno
+ER7-113C
+Nº de registro
+ 1685
+ 1686
+ 1687
+ 1688
+ 1689
+ 1690
+ 1691
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B23tca
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 20-32
+ 40-65
+ 80-95
+ 105-120
+ 130-145
+ 150-160
+Mat.organica (%)
+ 3.53
+ 4.23
+ 2.82
+ 1.21
+ 0.63
+ 0.49
+ 0.07
+N (%)
+ 0.09
+ 0.10
+ 0.07
+ 0.04
+ 0.03
+ 0.02
+ 0.01
+C/N
+ 22
+ 24
+ 23
+ 15
+ 11
+ 10
+ 2
+T < 2 μ
+ 31.12
+ 31.85
+ 39.10
+ 39.66
+ 46.02
+ 46.42
+ 47.38
+E 2-20 μ
+ 36.74
+ 36.60
+ 34.11
+ 31.17
+ 22.42
+ 21.88
+ 23.40
+X 2-50 μ
+ 67.04
+ 66.19
+ 58.99
+ 58.79
+ 58.85
+ 52.62
+ 51.99
+T 50-100 μ
+ 0.67
+ 0.74
+ 0.50
+ 0.42
+ 0.24
+ 0.29
+ 0.22
+U 100-500 μ
+ 1.16
+ 1.21
+ 1.40
+ 1.12
+ 0.88
+ 0.65
+ 0.39
+R 500-1000 μ
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.02
+ 0.02
+A
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 3.64
+ 7.27
+ 5.33
+pH H2O
+ 7.5
+ 7.4
+ 7.4
+ 7.4
+ 8.2
+ 8.3
+ 8.3
+pH ClK
+ 6.9
+ 6.5
+ 6.3
+ 5.9
+ 6.9
+ 6.9
+ 6.9
+CE (mmhos/cm)
+ 1.111
+ 0.693
+ 0.741
+ 0.640
+ 0.624
+ 0.663
+ 0.717
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 28.32
+ 29.50
+ 39.23
+ 39.17
+ 45.15
+ 44.71
+ 44.28
+ d Ca++
+ 23.47
+ 24.32
+ 32.46
+ 31.21
+ 37.60
+ -
+ -
+C e
+Mg++
+ 2.12
+ 2.24
+ 2.80
+ 3.20
+ 3.45
+ -
+ -
+t c
+i a K+
+ 1.74
+ 1.53
+ 0.92
+ 1.21
+ 0.97
+ 1.32
+ 1.12
+o m
+n b Na+
+ 0.37
+ 0.50
+ 0.75
+ 1.39
+ 1.50
+ 1.75
+ 1.77
+e i
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.31
+ 1.69
+ 1.91
+ 3.55
+ 3.32
+ 3.91
+ 3.99
+Equivalente de humedad (%)
+ 34.00
+ 34.05
+ 43.00
+ 43.66
+ 45.00
+ 44.50
+ 45.00
+Fósforo asimilable (ppm)
+ 10.54
+ 4.35
+ 3.03
+ 2.39
+ 2.35
+ 2.34
+ 2.34

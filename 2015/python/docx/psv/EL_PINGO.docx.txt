@@ -1,0 +1,316 @@
+
+--------------------------------------------------------------------------------
+SERIE EL PINGO Símbolo: EPng
+
+
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Ocracualfes vérticos.
+Suelos desarrollados en materiales arcillo-limosos; poseen un horizonte argílico y calcáreo alto en el perfil (a partir de los 35 cm.).
+
+
+Perfil tipo: ER7-114C
+Fecha: 16-IV-97
+Ubicación: Establecimiento "El Potrillo" (foto IR 457-20) - Dpto. Paraná
+Reconocedores: O.A. Foti; O.L.López.
+
+
+A1: 00-12 cm; gris oscuro (10YR 4/1) en húmedo y pardo (10YR 5/2) en seco; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares gruesos, moderados; extremadamente duro en seco, firme en húmedo; barnices ("humic skins") escasos; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso comunes, medios y precisos; horizonte muy eluviado; límite abrupto, suave.
+
+B21t: 12-35 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares y angulares irregulares medios, moderados; duro en seco y firme en húmedo; barnices ("clay-humic skins") escasos y ("clay skins") comunes; caras de fricción ("slickensides") escasas a comunes, finas e intersectadas; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B22tca: 35-59 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes, gruesas e intersectadas; concreciones calcáreas comunes; escasos carbonatos libres en la masa; escasas concreciones ferromanganesíferas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B31ca: 59-83 cm; pardo oscuro (7.5YR 3,5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") escasas a comunes, gruesas e intersectadas; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas, abundantes ; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual, suave.
+
+B32ca: 83-104 cm; pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques subangulares medios, débiles con tendencia a prismas compuestos irregulares; friable en húmedo; caras de fricción ("slickensides") abundantes, finas e intersectadas; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes; moteados de hierro-manganeso abundantes, medios y precisos; presencia de gley; límite difuso, suave.
+
+Cca: 104 cm +; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; masivo; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas y no intersectadas; abundantes carbonatos libres en la masa; concreciones calcáreas comunes; moteados de hierro-manganeso abundantes, medios y precisos.
+Variabilidad de rasgos
+
+Como la mayoría de los Alfisoles, esta serie posee variaciones a poca distancia; las microdepresiones y los hormigueros son los principales factores causantes de dicha heterogeneidad.
+
+El epipedón ócrico (de color claro), compuesto de un horizonte A2 o A1 muy eluviado y con un cambio abrupto hacia un B2 textural.
+
+El A2 o A1 es somero con tenores de arcilla que no superan el 30%. En el B2 textural esos valores oscilan entre 45-50%. Presenta una estructura prismática y grietas rellenas con material de horizontes superiores.
+
+El calcáreo, libre en la masa y concreciones aparece a los 80 cm aproximadamente, aunque en algunos casos se lo ha encontrado a 30 cm de profundidad y en escasa cantidad.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Suelo imperfectamente drenado. Escurrimiento superficial muy lento a estancado. Permeabilidad muy lenta. Capa freática profunda. Grupo hidrológico D.	
+
+
+Erosión
+
+La serie El Pingo no presenta problemas de erosión, tampoco existe potencialidad a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Pingo
+
+ER7-114C
+
+
+
+
+
+
+Nº de registro
+ 1692
+ 1693
+ 1694
+ 1695
+ 1696
+ 1697
+Horizonte
+ A1
+ B21t
+ B22tca
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 03-12
+ 20-35
+ 40-55
+ 65-80
+ 90-100
+ 110-120
+Mat.organica (%)
+ 7.19
+ 2.82
+ 1.06
+ 0.63
+ 0.28
+ 0.07
+N (%)
+ 0.34
+ 0.13
+ 0.05
+ 0.04
+ 0.03
+ 0.02
+C/N
+ 12
+ 13
+ 11
+ 8
+ 5
+ 2
+
+T
+
+ <2 u
+
+ 29.92
+
+ 49.08
+
+ 50.48
+
+ 49.98
+
+ 48.05
+
+ 45.30
+E
+ 2-20 u
+ 33.63
+ 21.01
+ 21.98
+ 22.31
+ 20.68
+ 21.99
+X
+ 2-50 u
+ 67.39
+ 49.62
+ 48.32
+ 48.95
+ 50.80
+ 54.17
+T
+ 50-100 u
+ 1.24
+ 0.71
+ 0.81
+ 0.71
+ 0.50
+ 0.15
+U
+ 100-500 u
+ 1.43
+ 0.57
+ 0.38
+ 0.35
+ 0.64
+ 0.37
+R
+ 500-1000 u
+ 0.02
+ 0.02
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.51
+ 3.60
+ 10.20
+ 10.05
+pH H2O
+ 6.1
+ 7.3
+ 8.5
+ 8.6
+ 8.8
+ 8.7
+pH ClK
+ 5.2
+ 5.8
+ 6.9
+ 7.0
+ 7.1
+ 7.1
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+ 31.0
+
+
+ 46.2
+
+
+ 43.2
+
+
+ N.D.
+
+
+ 38.6
+
+
+ 36.1
+
+
+
+
+
+
+
+ d Ca ++
+ 17.8
+ 26.7
+ 31.5
+ 35.5
+ N.D.
+ N.D.
+C e
+
+
+
+
+
+
+Mg++
+ 3.4
+ 8.4
+ 8.0
+ 8.6
+ N.D.
+ N.D.
+t C
+
+
+
+
+
+
+i a K+
+ 0.9
+ 0.8
+ 0.8
+ 0.9
+ 0.9
+ 0.9
+o m
+
+
+
+
+
+
+n b Na+
+ 0.9
+ 1.9
+ 2.4
+ 2.6
+ 2.6
+ 2.4
+e i
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 2.9
+ 4.1
+ 5.6
+ -
+ 6.7
+ 6.7
+
+Equivalente de humedad (%)
+
+ 32.00
+
+ 53.00
+
+ 53.04
+
+ 52.74
+
+ 48.90
+
+ 43.59
+P asimilable (ppm)
+ 9.17
+ 4.35
+ 3.69
+ 1.69
+ 1.69
+ 1.69
+

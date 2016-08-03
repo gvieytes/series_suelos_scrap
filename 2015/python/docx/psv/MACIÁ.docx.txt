@@ -1,0 +1,334 @@
+
+--------------------------------------------------------------------------------
+SERIE MACIÁ Símbolo: Mc
+
+
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Ocracualfes vérticos.
+Suelos imperfectamente drenados, con un epipedón de colores claros, algo lixiviado y de textura limosa a franco-arcillo limosa.
+Están desarrollados en materiales densos, arcillosos, con concreciones calcáreas a partir de los 45 cm de profundidad.
+
+
+Perfil tipo: ER1-104C
+Fecha: 15-VII-94
+Ubicación: Arroyo Guardamonte (foto 438-52) - Dpto. Tala
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A1: 00-11 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo y pardo grisáceo (10YR 5/2) en seco; franco limoso; estructura granular y bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic-skins") escasos a comunes; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+
+B21t: 11-32 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco y firme en húmedo; caras de fricción ("slickensides") escasas a comunes, finas; barnices ("clay-humic") abundantes, moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B22t: 32-45 cm; gris muy oscuro a oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B31Ca: 45-75 cm; pardo oscuro (7.5YR 3/4) en húmedo; arcilloso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques cuneiformes gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y gruesas; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas, finas, comunes a abundantes; concreciones de hierro-manganeso comunes y finas; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite gradual, suave.
+
+B32Ca: 75-95 cm; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") escasos a comunes; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, hasta 3 cm de diámetro; moteados de hierro-manganeso abundantes, medios y sobresalientes; presencia de termitas; límite claro, suave.
+
+C: 95 cm +; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares finos, moderados; ligeramente duro en seco, friable en húmedo; chorreaduras de material superior por las caras de los agregados; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El solum varía de 90-100 cm. El epipedón incluye un horizonte A1 de 10 a 12 cm de espesor, de colores claros y algo lixiviado por las caras de los agregados. Presenta moteados de hierro-manganeso.
+
+El horizonte B2, de textura arcillo limosa, posee porcentajes de arcilla que varían entre 53 a 55%. Es un horizonte denso, poco permeables y penetrable por las raíces, con un espesor de 30-35 cm y con abundantes caras de fricción ("slickensides").
+
+El calcáreo, en forma de concreciones que llegan hasta los 3 cm de diámetro, se manifiesta a partir de los 45 cm de profundidad en el horizonte B3, desapareciendo en profundidad. Un rasgo característico de la serie es la activa presencia de hormigas.
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Altamirano, del Dpto. Tala, pero ésta presenta concreciones de hierro-manganeso desde la superficie y se ha desarrollado en un paisaje diferente.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial muy lento. Permeabilidad lenta a muy lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie presenta leve erosión actual y es moderadamente susceptible a este proceso.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Maciá
+
+ER1-104C
+N° de registro
+ 8.661
+ 8.662
+ 8.663
+ 8.664
+ 8.665
+ 8.666
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ C
+Profundidad (cm)
+ 02-09
+ 15-30
+ 35-43
+ 50-70
+ 80-90
+ 105-115
+Mat.organica (%)
+ 4.06
+ 2.07
+ 1.43
+ 0.79
+ 0.15
+ 0.07
+N (%)
+ 0.21
+ 0.10
+ 0.08
+ 0.05
+ 0.06
+ 0.03
+C/N
+ 10.81
+ 11.15
+ 9.30
+ 7.72
+ 1.23
+ 1.25
+
+T < 2 u
+
+ 26.86
+
+ 43.00
+
+ 53.28
+
+ 54.53
+
+ 50.01
+
+ 47.81
+E 2-20 u
+ 35.06
+ 29.87
+ 21.34
+ 22.12
+ 22.14
+ 22.90
+X 2-50 u
+ 61.01
+ 51.60
+ 43.24
+ 38.59
+ 45.72
+ 44.89
+T 50-100 u
+ 5.33
+ 2.99
+ 2.66
+ 4.88
+ 1.37
+ 3.24
+U 100-500 u
+ 6.78
+ 2.39
+ 0.81
+ 1.99
+ 2.87
+ 4.04
+R 500-1000 u
+ 0.02
+ 0.02
+ 0.01
+ 0.01
+ 0.03
+ 0.02
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+
+ vest.
+
+ vest.
+
+ 0.79
+
+ 2.97
+
+ 2.29
+
+ 0.19
+pH H2O
+ 6.9
+ 7.2
+ 7.8
+ 8.1
+ 8.1
+ 7.7
+pH ClK
+ 6.1
+ 6.3
+ 6.6
+ 6.9
+ 6.8
+ 6.1
+C.E. (mmhos/cm)
+ 2.12
+ 1.42
+ 1.60
+ 1.49
+ 1.28
+ 0.86
+
+Capacidad de intercambio
+Catiónico (meq/100 g) =
+valor T 	
+
+
+
+ 30.8
+
+
+
+ 36.6
+
+
+
+ 40.0
+
+
+
+ 40.0
+
+
+
+ 38.0
+
+
+
+ 37.2
+
+
+d
+Ca++
+ 22.5
+ 26.2
+ 28.9
+ 28.9
+ 27.2
+ 27.0
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 4.1
+ 5.6
+ 6.1
+ 6.2
+ 5.8
+ 5.7
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.9
+ 2.2
+ 2.5
+ 2.6
+ 2.3
+ 2.2
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.0
+ 1.4
+ 2.0
+ 2.2
+ 2.0
+ 2.0
+e
+i
+
+
+
+
+
+
+
+S
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+% Na/T
+
+ 3.25
+
+ 3.82
+
+ 5.00
+
+ 5.50
+
+ 5.26
+
+ 5.38
+
+Equivalente de humedad (%)
+
+ 27.78
+
+ 48.00
+
+ 52.36
+
+ 52.12
+
+ 49.30
+
+ 46.57
+

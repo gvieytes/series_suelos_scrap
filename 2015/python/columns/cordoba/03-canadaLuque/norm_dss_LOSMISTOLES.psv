@@ -1,0 +1,39 @@
+dss_LOSMISTOLES.psv ->> ID..........................: 318
+dss_LOSMISTOLES.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_LOSMISTOLES.psv ->> SERIE.......................: LOS MISTOLES (Mist)
+dss_LOSMISTOLES.psv ->> UBICACION...................: 8 km al NO de Cañada de Luque, departamento Totoral
+dss_LOSMISTOLES.psv ->> PROVINCIA...................: CORDOBA
+dss_LOSMISTOLES.psv ->> LATITUD.....................: S304100
+dss_LOSMISTOLES.psv ->> LONGITUD....................: O634600
+dss_LOSMISTOLES.psv ->> ALTITUD.....................: 280
+dss_LOSMISTOLES.psv ->> PENDIENTE...................: FALTA!
+dss_LOSMISTOLES.psv ->> DRENAJE.....................: FALTA!
+dss_LOSMISTOLES.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LOSMISTOLES.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LOSMISTOLES.psv ->> TIPO DE SUELO...............: LIMOSA FINA MIXTA TÉRMICA
+dss_LOSMISTOLES.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LOSMISTOLES.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | c | ck
+dss_LOSMISTOLES.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-46 | 46-75 | 75a+
+dss_LOSMISTOLES.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 4,2 | 1,7 | - | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2,5 | 1,0 | - | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->NITRÓGENO TOT.(%): - | - | - | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - | - | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->ARCILLA 2 (%)....: 28,7 | 24,5 | 20,4 | 23,6
+dss_LOSMISTOLES.psv ->> HORIZONTE->LIMO 2-50 (%)....: 64,2 | 67,1 | 69,6 | 67,0
+dss_LOSMISTOLES.psv ->> HORIZONTE->AMF 50-100 (%)...: 66,6 | 69,7 | 72,3 | 72,7
+dss_LOSMISTOLES.psv ->> HORIZONTE->AF 100-250 (%)...: 1,7 | 1,8 | 1,9 | 2,3
+dss_LOSMISTOLES.psv ->> HORIZONTE->AM 250-500 (%)...: 0,7 | 0,8 | 0,8 | 1,1
+dss_LOSMISTOLES.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,7 | 0,7 | 0,8 | 1,2
+dss_LOSMISTOLES.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,2 | 0,2 | 0,2 | 0,3
+dss_LOSMISTOLES.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0 | 1,4
+dss_LOSMISTOLES.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 29,2 | 25,6 | 25,0 | 24,8
+dss_LOSMISTOLES.psv ->> HORIZONTE->PH PASTA.........: - | - | - | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,3 | 7,3 | 7,7 | 8,3
+dss_LOSMISTOLES.psv ->> HORIZONTE->CI ME/100G-Ca++..: 13,8 | 14,9 | 14,5 | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,2 | 1,5 | 2,3 | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,8 | 0,7 | 0,7 | 0,9
+dss_LOSMISTOLES.psv ->> HORIZONTE->CI ME/100G-K+....: 4,7 | 2,6 | 1,7 | 2,1
+dss_LOSMISTOLES.psv ->> HORIZONTE->CI ME/100G-H+....: - | - | - | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20,5 | 19,7 | 19,2 | 
+dss_LOSMISTOLES.psv ->> HORIZONTE->CIC ME/100G(T)...: 23,9 | 20,3 | 19,2 | 20,0
+dss_LOSMISTOLES.psv ->> HORIZONTE->SAT.B % (S/T)....: 85,8 | 97,0 | 100,0 | 100,0

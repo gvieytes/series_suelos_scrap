@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 7
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|bw|bc|ck
+HORIZONTE->Profundidad de la muestra (cm): 0-21|21-43|43-74|74 a +
+HORIZONTE->Materia Orgánica (%): 2,6|1,4|-|-
+HORIZONTE->Carbono Orgánico (%): 1,50|0,80|-|-
+HORIZONTE->Nitrógeno total (%): 0,19||-|-
+HORIZONTE->Relación C/N: 7,9||-|-
+HORIZONTE->Arcilla, <2 μ (%): 13,8|14,1|9,2|9,8
+HORIZONTE->Limo, 2-50 μ (%): 51,8|52,8|56,4|51,7
+HORIZONTE->Arena muy fina, 50-100 μ (%): 31,3|28,3|29,3|34,1
+HORIZONTE->Arena fina, 100-250 μ (%): 0,2|2,0|1,4|1,6
+HORIZONTE->Arena media, 250-500 μ (%): 0,3|0,1|0,2|0,2
+HORIZONTE->Arena gruesa, 500-1000 μ (%): 0,4|0,3|0,3|0,2
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,3|0,2|0,0|0,3
+HORIZONTE->Carbonatos, CaCO3 (%): 0,0|0,0|0,0|5,9
+HORIZONTE->Equivalente de humedad (%): 17,6|26,1|15,5|16,2
+HORIZONTE->pH en pasta: 6,4|0,0|7,4|8,0
+HORIZONTE->pH en agua (1:2,5): 7,0|0,0|7,6|8,4
+HORIZONTE->Ca++: 8,6|9,4|10,0|
+HORIZONTE->Mg++: 0,8|1,2|1,1|
+HORIZONTE->Na+: 0,4|0,4|0,2|0,3
+HORIZONTE->K+: 1,7|1,8|1,4|1,0
+HORIZONTE->H+: 1,2|0,8||
+HORIZONTE->Sodio de intercambio, % (PSI): 3,1|2,9|1,6|2,8
+HORIZONTE->Suma de bases, meq/100 gr (S): 11,5|12,8|12,7|1,3
+HORIZONTE->Capacidad de intercambio catiónico, meq/100 gr (T): 12,8|13,6|11,9|10,8
+HORIZONTE->Saturación con bases, % (S/T): 89,8|94,1|100|12,0

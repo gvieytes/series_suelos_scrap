@@ -1,0 +1,268 @@
+
+--------------------------------------------------------------------------------
+SERIE SANTA MARÍA CHICA Símbolo: SMCh
+
+
+Pertenece a la familia "franca fina, silícea, ácida, térmica" de los Udifluventes típicos.
+
+Suelo aluvial levemente salino y sódico a partir de un metro. Se ha desarrollado a partir de sedimentos marinos y continentales.
+
+
+Perfil tipo: 365C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: Establecimiento Forestal Mazaruca (Hoja IGM 3360-29-3) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-27 cm; amarillo anaranjado opaco (10YR 6/4) en húmedo; franco; estructura en bloques subangulares medios débiles; ligeramente firme; ligeramente plástico, ligeramente adhesivo; moteados abundantes, medios, precisos; raíces abundantes; límite inferior claro suave.
+
+IIC1: 27-102 cm; pardo amarillento opaco (10YR 5/4) en húmedo; franco; estructura en bloques subangulares medios débiles que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; concreciones ferromanganésicas escasas; moteados abundantes, gruesos, precisos; raíces comunes; límite inferior claro suave.
+
+IIIC2: 102-122 cm; pardo amarillento opaco (10YR 5/3) en húmedo; franco arcillo limoso; estructura en bloques angulares medios débiles que rompen en bloques menores; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; moteados abundantes, medios, sobresalientes; raíces comunes; límite inferior claro suave.
+
+IVC3: 122-157 cm; negro (10YR 1,7/1) en húmedo; franco arcillo limoso; estructura en bloques angulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; concreciones ferromanganésicas escasas; moteados escasos, finos, débiles; raíces escasas; límite inferior claro suave.
+
+VC4: 157-170 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco arcillo limoso; estructura en bloques angulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; concreciones calcáreas escasas; moteados comunes, medios, precisos.
+
+Variabilidad de rasgos
+
+El perfil de este suelo se caracteriza por la irregular distribución de la materia orgánica. 	
+	
+El horizonte superficial es de 27 cm de espesor, de color amarillo anaranjado opaco, con 1,4 % de materia orgánica, de textura franca y estructura en bloques subangulares. Le sigue una sucesión de capas de texturas franca a franco - arcillo limosa en profundidad con contenidos variables de materia orgánica; 0,6% en la capa IIC1, 2,9 % en la capa IIIC2 y 1 % en la capa IVC3 a 150 cm de profundidad. Presenta concreciones ferromanganésicas a partir de la capa subsuperficial, mientras que los moteados se observan desde la superficie.
+
+El perfil a partir de un metro tiene 11 mmhos/cm, siendo el PSI (Porcentaje de Sodio de Intercambio) del extracto de saturación de 21%, en superficie decreciendo en profundidad a 15 %, por lo que este suelo fue clasificado por alcalinidad sódica como A1 12.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Es un suelo de permeabilidad moderadamente lenta y drenaje imperfecto. Inundaciones por crecidas excepcionales del Paraná Ibicuy.
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Santa María Chica
+
+365C INTA Castelar
+
+
+
+
+
+N° de registro
+
+
+
+
+
+Horizonte
+ A1
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+Profundidad (cm)
+ 5-20
+ 40-60
+ 105-120
+ 130-150
+ 160-180
+Mat. orgánica (%)
+ 1.40
+ 0.60
+ 2.86
+ 0.98
+ -
+C (%)
+ 0.81
+ 0.35
+ 1.66
+ 0.57
+ -
+N (%)
+ 0.084
+ 0.076
+ 0.170
+ 0.07
+ -
+C/N
+ 10
+ 5
+ 10
+ 8
+ -
+
+T <2 u
+
+ 18.0
+
+ 21.4
+
+ 35.5
+
+ 39.3
+
+ 33.9
+E 2-20 u
+ 11.4
+ 15.3
+ 40.8
+ 41.4
+ 55.9
+X 2-50 u
+ 35.3
+ 49.4
+ 60.1
+ 56.9
+ 64.5
+T 50-74 u
+ 21.4
+ 12.9
+ 2.9
+ 1.9
+ 1.1
+U 74-100 u
+ 18.7
+ 11.8
+ 0.9
+ 1.1
+ 0.3
+R 100-250 u
+ 6.3
+ 4.4
+ 0.4
+ 0.7
+ 0.2
+A 250-500 u
+ 0.2
+ 0.1
+ 0.2
+ 0.1
+ 0.2
+ 500-1000 u
+ 0.1
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 14.0
+ 17.3
+ 32.5
+ 34.3
+ 31.0
+Resistencia de la pasta (Ohms/cm)
+ 5522
+ 1012
+ 368
+ 322
+ 476
+pH en pasta
+ 5.6
+ 5.3
+ 5.8
+ 7.0
+ 7.3
+pH en agua (1:2,5)
+ 4.9
+ 5.4
+ 6.0
+ 7.2
+ 7.7
+pH en KCl (1:2,5)
+ 4.9
+ 4.7
+ 5.3
+ 6.2
+ 6.3
+Conductividad (mmhos/cm)
+ -
+ 2.60
+ 11.24
+ 10.43
+ 6.64
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 4.4
+ 6.1
+ -
+ -
+ -
+
+Mg++
+ 3.6
+ 3.8
+ -
+ -
+ -
+
+Na[+]
+ 0.5
+ 0.5
+ -
+ -
+ -
+
+K[+]
+ 0.6
+ 0.2
+ -
+ -
+ -
+
+H[+]
+ 5.3
+ 4.1
+ -
+ -
+ -
+Na+ % del valor T
+ 5
+ 4
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ 9.1
+ 10.6
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 10.0
+ 12.2
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ 91
+ 87
+ -
+ -
+ -
+

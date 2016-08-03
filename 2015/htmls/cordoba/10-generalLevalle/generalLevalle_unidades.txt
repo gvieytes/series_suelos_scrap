@@ -1,0 +1,259 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co43
+Capacidad de uso: VIIws
+Índice de productividad: 6
+Descripción: Complejo indeterminado de suelos halohidromórficos muy inundables
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/1
+Capacidad de uso: IIIes
+Índice de productividad: 52
+Descripción: Complejo de Series
+Series: EL VEINTITRES | HUINCA RENANCÓ
+Porcentajes: 90 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/2
+Capacidad de uso: IIIes
+Índice de productividad: 48
+Descripción: Complejo de Series
+Series: EL VEINTITRÉS | HUINCA RENANCÓ
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/7
+Capacidad de uso: IVes
+Índice de productividad: 33
+Descripción: Complejo de Series
+Series: EL VEINTITRÉS | PINCÉN | HUINCA RENANCÓ
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/11
+Capacidad de uso: VIws
+Índice de productividad: 20
+Descripción: Complejo en fase inundable de Series
+Series: EL VEINTITRÉS | PINCÉN | HUINCA RENANCÓ
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/12
+Capacidad de uso: VIes
+Índice de productividad: 25
+Descripción: Complejo de Series
+Series: EL VEINTITRÉS | HUINCA RENANCÓ en fase ligera a moderadamente erosionada por viento | VILLA ROSSI | PINCÉN
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR1
+Capacidad de uso: VIIes
+Índice de productividad: 12
+Descripción: Complejo de Serie
+Series: HUINCA RENANCÓ | Suelos menores arenosos poco diferenciados | Relictos medanosos
+Porcentajes: 25 | 25 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR5
+Capacidad de uso: VIes
+Índice de Productividad: 20
+Descripción: Complejo de Series
+Series: HUINCA RENANCÓ | PINCÉN | Suelos menores arenosos poco diferenciados
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR6
+Capacidad de uso: VIes
+Índice de Productividad: 26
+Descripción: Complejo de Series
+Series: HUINCA RENANCÓ | Relictos medanosos
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Lby
+Capacidad de uso: IIIc
+Índice de productividad: 55
+Descripción: Consociación
+Series: LABOULAYE
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Lby7
+Capacidad de uso: IIIsc
+Índice de Productividad: 51
+Descripción: Complejo de Series
+Series: LABOULAYE | ROSALES | LAS MARINAS
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa3
+Capacidad de uso: IIIsc
+Índice de productividad: 50
+Descripción: Asociación de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | LA CARLOTA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa4
+Capacidad de uso: IVes
+Índice de productividad: 43
+Descripción: Asociación de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA en fase ligeramente erosionada por viento | LOS MEDANITOS
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa5
+Capacidad de uso: VIes
+Índice de Productividad: 29
+Descripción: Asociación en fase moderada a ligeramente erosionada por viento de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | Suelos menores arenosos poco diferenciados
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MGa6
+Capacidad de uso: VIes
+Índice de Productividad: 24
+Descripción: Asociación en fase moderadamente erosionada por viento de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | Suelos arenosos poco diferenciados
+Porcentajes: 30 | 30 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs
+Capacidad de uso: IVws
+Índice de Productividad: 26
+Descripción: Complejo de Series
+Series: ROSALES | ROSALES en fase salina | VILLA ROSSI | Suelos menores
+Porcentajes: 50 | 20 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs1
+Capacidad de uso: IIIsc
+Índice de productividad: 60
+Descripción: Complejo de Series
+Series: ROSALES | LEGUIZAMON | Suelos menores
+Porcentajes: 20 | 70 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs2
+Capacidad de uso: IVws
+Índice de productividad: 36
+Descripción: Complejo de Series
+Series: ROSALES | ROSALES en fase salina | LAS MARINAS
+Porcentajes: 30 | 40 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs3
+Capacidad de uso: VIws
+Índice de productividad: 37
+Descripción: Complejo de Series
+Series: ROSALES en fase salina | LAS MARINAS | ESTANCIA LA ALICIA en fase salina
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs4
+Capacidad de uso: IIIsc
+Índice de productividad: 48
+Descripción: Complejo de Series
+Series: ROSALES | LAS MARINAS | LABOULAYE
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs5
+Capacidad de uso: VIws
+Índice de productividad: 21
+Descripción: Complejo de Series
+Series: ROSALES en fase salina | ESTANCIA LA ALICIA | LAS ACACIAS
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs7
+Capacidad de uso: VIIws
+Índice de productividad: 16
+Descripción: Complejo en fase anegable de Series
+Series: ROSALES | ESTANCIA LA ALICIA | Suelos menores
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs8
+Capacidad de uso: IVws
+Índice de Productividad: 34
+Descripción: Complejo de Series
+Series: ROSALES | ESTANCIA LA ALICIA | LEGUIZAMÓN
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs9
+Capacidad de uso: VIws
+Índice de Productividad: 23
+Descripción: Complejo de Series
+Series: ROSALES | VILLA ROSSI | ESTANCIA LA ALICIA | Suelos menores
+Porcentajes: 40 | 30 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs10
+Capacidad de uso: VIws
+Índice de Productividad: 24
+Descripción: Complejo en fase anegable de Series
+Series: ROSALES | ESTANCIA LA ALICIA | ESTACIÓN SALGUERO
+Porcentajes: 30 | 30 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs12
+Capacidad de uso: VIIws
+Índice de productividad: 12
+Descripción: Complejo de Series
+Series: ROSALES | ESTANCIA LA ALICIA | ESTACIÓN SALGUERO
+Porcentajes: 30 | 30 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs21
+Capacidad de uso: VIws
+Índice de Productividad: 19
+Descripción: Complejo de Series
+Series: ROSALES en fase poco anegable | ROSALES en fases salina y anegable | VILLA ROSSI en fase anegable | Suelos menores
+Porcentajes: 50 | 20 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs22
+Capacidad de uso: VIws
+Índice de productividad: 13
+Descripción: Complejo en fase muy inundable de Series
+Series: ROSALES | VILLA ROSSI | ESTANCIA LA ALICIA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs23
+Capacidad de uso: VIws
+Índice de Productividad: 16
+Descripción: Complejo en fase moderadamente inundable de Series
+Series: ROSALES | VILLA ROSSI | ESTANCIA LA ALICIA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs24
+Capacidad de uso: VIws
+Índice de productividad: 15
+Descripción: Complejo en fase muy inundable de Series
+Series: ROSALES | ROSALES en fase salina | Suelos menores salino sódicos
+Porcentajes: 50 | 40 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs25
+Capacidad de uso: VIIws
+Índice de productividad: 10
+Descripción: Complejo de Series
+Series: ROSALES en fase salina | ESTANCIA LA ALICIA en fase muy inundable | ESTACION SALGUERO en fase muy inundable
+Porcentajes: 30 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Rs26
+Capacidad de uso: VIIws
+Índice de productividad: 7
+Descripción: Complejo en fase muy inundable de Series
+Series: ROSALES en fase salina | ESTANCIA LA ALICIA | Suelos fuertemente salino sódicos
+Porcentajes: 30 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: L
+Capacidad de uso: VIII
+Índice de productividad: 1
+Descripción: Lagunas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Lsp
+Capacidad de uso: VIII
+Índice de productividad: 3
+Descripción: Lagunas semipermanentes
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: L+Bñ
+Capacidad de uso: VIII
+Índice de productividad: 5
+Descripción: Lagunas + bañados
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: M
+Capacidad de uso: VIII
+Índice de productividad: 8
+Descripción: Médanos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: M+L
+Capacidad de uso: VIII
+Índice de productividad: 5
+Descripción: Médanos + lagunas
+Series: 
+Porcentajes: 

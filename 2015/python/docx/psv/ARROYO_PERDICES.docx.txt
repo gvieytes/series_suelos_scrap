@@ -1,0 +1,355 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO PERDICES Símbolo: APer
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con epipedón oscuro, franco-limoso y un horizonte argílico arcillo-limoso, con algunas concreciones ferromanganesíferas y muy escasas concreciones calcáreas.
+
+Están desarrollados en materiales limos-loessoides retransportados.
+
+
+Perfil tipo: ER1 -129C
+Fecha: 22-X-2002
+Ubicación: Ea. Dos Tranqueras, 7 Km al NE de Perdices. (foto IR 096-20). Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-20 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-limoso; estructura granular media, moderada; blando en seco, friable en húmedo; barnices ("humic skins") escasos a comunes; moteados de hierro-manganeso escasos, finos y débiles; presencia de arena fina en las caras de los agregados; límite claro, suave.
+
+A12: 20-33 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, moderados; blando en seco; friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; presencia de arena fina en las caras de los agregados; límite abrupto, suave.
+
+B21t: 33-60 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares medios, fuertes; muy duro en seco y muy firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso escasos, finos y precisos; límite gradual, suave.
+
+B22t: 60-85 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares medios, fuertes; muy duro en seco; muy firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B3: 85-105 cm; gris oscuro (10YR 4/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco; firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso comunes, finos y precisos; concreciones ferromanganesíferas comunes; límite difuso, suave.
+
+C: 105 cm+; pardo grisáceo (10YR 5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares finos, moderados; duro en seco; friable en húmedo; barnices ("clay skins") comunes, finos; cara de fricción ("slickensides") escasas, finas; muy escasas concreciones calcáreas; moteados de hierro-manganeso, abundantes gruesos y sobresalientes; horizonte algo gleizado y cementado.
+Variabilidad de rasgos
+
+El solum varía generalmente entre 110-120 cm. El epipedón mólico comprende los horizontes A11 y A12 y normalmente tiene un espesor de 30-35 cm, es franco-limoso, y está bien estructurado.
+
+El horizonte argílico, con estructura prismática, tiene un espesor de 50-55 cm, con porcentaje de arcilla de 48-49 %.
+
+Las concreciones ferromanganesíferas aparecen en el horizonte B3, a los 85 cm de profundidad aproximadamente, pero desaparecen en el horizonte C.
+
+El calcáreo en forma concrecional está muy profundo, a los 100-105 cm y en cantidad muy escasa.
+
+
+Fases
+
+No se determinaron a nivel de reconocimiento
+
+
+Drenaje
+
+Moderadamente bien drenado; Escurrimiento superficial lento. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Arroyo Perdices no tiene erosión actual pero tiene susceptibilidad a la misma.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Perdices
+
+ER1-129C
+
+
+
+
+
+
+N° de registro
+ 10766
+ 10767
+ 10768
+ 10769
+ 10770
+ 10771
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm
+ 04-15
+ 21-32
+ 36-55
+ 65-80
+ 90-100
+ 120-140
+Mat.organica (%)
+ 4.63
+ 3.68
+ 2.05
+ 1.51
+ 1.14
+ 0.15
+C (%)
+ 2.69
+ 2.14
+ 1.19
+ 0.88
+ 0.66
+ 0.09
+N (%)
+ 0.236
+ 0.166
+ 0.099
+ 0.086
+ 0.043
+ 0.033
+C/N
+ 11.40
+ 12.89
+ 12.02
+ 10.23
+ 15.35
+ 2.73
+
+T <2
+
+ 25.98
+
+ 26.57
+
+ 48.28
+
+ 49.38
+
+ 43.78
+
+ 41.04
+E 2-20
+ 35.33
+ 34.02
+ 28.82
+ 28.44
+ 39.02
+ 29.98
+X 2-50
+ 64.90
+ 63.91
+ 46.82
+ 46.02
+ 51.73
+ 48.54
+T 50-100
+ 1.23
+ 1.21
+ 0.78
+ 0.61
+ 0.74
+ 2.13
+U 100-250
+ 7.73
+ 8.08
+ 3.96
+ 3.87
+ 3.66
+ 8.03
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.16
+ 0.23
+ 0.16
+ 0.12
+ 0.09
+ 0.26
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+PH H2O
+ 5.6
+ 6.0
+ 6.5
+ 7.1
+ 7.8
+ 8.1
+PH ClK
+ 4.9
+ 5.0
+ 5.4
+ 5.7
+ 6.6
+ 6.8
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+
+
+
+ 20.55
+
+
+
+
+ 19.70
+
+
+
+
+ 31.55
+
+
+
+
+ 34.03
+
+
+
+
+ 29.19
+
+
+
+
+ 23.56
+
+D
+Ca++
+ 9.38
+ 9.92
+ 18.59
+ 18.68
+ 21.07
+ 17.29
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 3.30
+ 3.40
+ 5.81
+ 5.99
+ 6.14
+ 4.06
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 0.98
+ 0.50
+ 1.09
+ 0.94
+ 0.98
+ 0.98
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 0.31
+ 0.36
+ 0.82
+ 0.53
+ 0.60
+ 0.53
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+ 6.57
+ 5.52
+ 5.24
+ 7.89
+ 0.40
+ 0.71
+
+% Na/T
+
+ 0.02
+
+ 0.02
+
+ 0.03
+
+ 0.02
+
+ 0.02
+
+ 0.02
+
+Equiv. de humedad (%)
+
+ 27.96
+
+ 27.19
+
+ 46.16
+
+ 47.02
+
+ 45.74
+
+ 40.01
+
+P disponible (ppm)
+
+ 14.00
+
+ 8.30
+
+ 4.70
+
+ 4.70
+
+ 4.10
+
+ 3.30
+

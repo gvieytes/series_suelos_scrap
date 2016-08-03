@@ -1,0 +1,711 @@
+aaroncastellanos_datos_analiticos.htm
+  Latitud: 34° 10' 21'' S
+  Longitud: 61° 51' 00'' W
+  18,5 km al SSE de Est. Sancti Spíritu (depto. Gral. López, Santa Fe)
+  Altitud: 95 m
+alejoledesma_datos_analiticos.htm
+  Latitud: 33° 38' S
+  Longitud: 62° 34' W
+  5 km al SESE de Alejo Ledesma (Córdoba)
+  Altitud: 123
+ambrosetti_datos_analiticos.htm
+  Latitud: 30º 11' 47'' S
+  Longitud: 61º 41' 58'' W
+  Altitud: 88.1 m
+amenabar_datos_analiticos.htm
+  Latitud: 34° 06' 24'' S
+  Longitud: 62° 12' 00'' W
+  11,5 km al SSE de Est. Sancti Spíritu (depto. Gral. López, Santa Fe)
+  Altitud: 112 ms.n.m.
+angeloni_datos_analiticos.htm
+  Latitud: 30° 52' 58'' S
+  Datos analíticos: Longitud: 60° 40' 33'' W
+  Altitud: 53 m
+apeaderoarrascaeta_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+arequito_datos_analiticos.htm
+  Latitud: 33º 11' 44'' S
+  Longitud: 61º 26' 15'' W
+  6 km al SE de Arequito (depto. Caseros, Santa Fe)
+  Altitud: 89.8 m
+armstrong_datos_analiticos.htm
+  Latitud: 32º 50' 00'' S
+  Longitud: 61º 06' 17'' O
+  5,20 km al S de Armstrong (depto. Belgrano, Santa Fe)
+  Altitud: 118.4 m
+arocena_datos_analiticos.htm
+  Latitud 31° 59' S
+  Longitud: 61° 00' 03'' W
+  Altitud: 32.5 m
+arroyoaguiar_datos_analiticos.htm
+  Latitud: 31° 28' 25'' S
+  Longitud: 60° 44' 54'' W
+  Altitud: 19 m
+arroyojuarez_datos_analiticos.htm
+  Latitud: 33° 38' 05'' S
+  Longitud: 60° 27' 30'' W
+  5 km al NW de la Est. Guerrico (pdo. Pergamino, Bs.As.)
+  Altitud: 43 m
+arroyolastortugas_datos_analiticos.htm
+  Latitud: 32° 34' S
+  Longitud: 61° 56' W
+arroyosanantonio_datos_analiticos.htm
+  Latitud: 30° 44' 43'' S
+  Longitud: 60° 50' 03'' W
+  Altitud: 47.5 m
+arrufo_datos_analiticos.htm
+  Latitud: 30º 20' 23'' S
+  Longitud: 61º 50' 39'' W
+  Altitud: 91.3 m
+ascochinga_datos_analiticos.htm
+  Latitud: 31° 17' 40'' S
+  Longitud: 60° 40' 50'' W
+  Altitud: 18.7 m
+aurelia_datos_analiticos.htm
+  Latitud: 31° 21' 49'' S
+  Longitud: 61° 08' 41'' W
+  Altitud: 47,5 m
+barrancas_datos_analiticos.htm
+  Latitud: 32° 5' 29'' S
+  Longitud: 60° 59' 19'' W
+  Altitud: 26.25 m
+benjamingould_datos_analiticos.htm
+  Latitud: 33° 31' S
+  Longitud: 62° 39' W
+  9,5 km al NNW de Alejo Ledesma (depto. Unión, Córdoba)
+  Altitud: 110.5 m
+bernardodeirigoyen_datos_analiticos.htm
+  Latitud: 31° 28' 42'' S
+  Longitud: 61° 09' 24'' W
+  Altitud: 37.5 m
+bigand_datos_analiticos.htm
+  Latitud: 33º 27' 32'' S
+  Longitud: 61º 10' 50'' W
+  9 km al S de Bigand (depto. Caseros, Santa Fe)
+  Altitud: 92 m
+bossi_datos_analiticos.htm
+  Latitud: 30º 30' 46'' S
+  Longitud: 61º 42' 28'' W
+  Altitud: 93.8 m
+bustinza_datos_analiticos.htm
+  Latitud: 32° 44' 45'' S
+  Longitud: 61° 07' 17'' W
+  Altitud: 93 m
+cafferata_datos_analiticos.htm
+  Latitud: 33º 28' 01'' S
+  Longitud: 62º 07' 45'' W
+  4,5 km al SSW de Cafferata (depto. Gral. López, Santa Fe)
+  Altitud: 114 m
+campoandino_datos_analiticos.htm
+  Latitud: 31° 28' 36'' S
+  Longitud: 60° 42' 08'' W
+  Altitud: 18.5 m
+canalsanantonio_datos_analiticos.htm
+  Latitud: 31° 47' 42'' S
+  Longitud: 62° 13' 42'' W
+  Altitud: 100,5 m
+candioti_datos_analiticos.htm
+  Latitud: 31° 27' 42''
+  Longitud: 60° 39' 52''
+  Altitud: 17,5 m
+carlospellegrini_datos_analiticos.htm
+  Latitud: 32º 11' 40'' S
+  Longitud: 61º 52' 29'' W
+  Altitud: 106 m
+casilda_datos_analiticos.htm
+  Latitud: 33° 01' S
+  Longitud:;61° 12' 45''W
+  3,5 km al NW de Casilda (depto. Caseros, Santa Fe)
+castellanos_datos_analiticos.htm
+  Latitud: 31° 12' S
+  Longitud: 61° 30' W
+  Altitud: 96 m
+cayasta_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+chabas_datos_analiticos.htm
+  Latitud: 33° 21' 52'' S
+  Longitud: 61° 22' 02''W
+  12 km al NE de Firmat (depto. Caseros, Santa Fe)
+  Altitud: 96 m
+chilca_datos_analiticos.htm
+  Latitud: 32º 03' 36'' S
+  Longitud: 61º 53' 20'' W
+  Altitud: 103 m
+chovet_datos_analiticos.htm
+  Latitud: 33° 49' 30'' S
+  Longitud: 61° 33' 10''W
+  3 km de Chovet (depto. Gral. López, Santa Fe)
+  Altitud: 96 m
+clason_datos_analiticos.htm
+  Latitud: 32º 36' 44'' S
+  Longitud: 61º 13' 25'' W
+  5,5 km al SE de Totoras (depto. Iriondo, Santa Fe)
+  Altitud: 60 m
+colastine_datos_analiticos.htm
+  Latitud: 32° 05' 29'' S
+  Longitud: 60° 59' 19'' W
+  Altitud: 26.25 m
+coloniaalpina_datos_analiticos.htm
+  Latitud: 30° 10' 42'' S
+  Longitud: 62° 05' 23'' W
+  Altitud: 98 m.s.n.m
+coloniacastelar_datos_analiticos.htm
+  Latitud: 31º 41' 24'' S
+  Longitud: 62º 00' 18'' W
+  Altitud: 104 m
+coloniamackinley_datos_analiticos.htm
+  Latitud: 30º 10' 42'' S
+  Longitud: 62º 04' 43'' W
+  Altitud: 98 m
+coloniamendigueren_datos_analiticos.htm
+  Latitud: 32° 37' S
+  Longitud: 61° 52' W
+  Altitud: 78 m
+coloniamoreno_datos_analiticos.htm
+  Latitud: 32° 06' S
+  Longitud: 62° 01' W
+  Altitud: 88.2 m
+coloniaprogreso_datos_analiticos.htm
+  Latitud: 33º 18' S
+  Longitud: 62º 19' W
+  11 km al S de Isla Verde (depto. Marcos Juárez, Córdoba)
+  Altitud: 110 m
+coloniarosa_datos_analiticos.htm
+  Latitud: 30º 27' 33'' S
+  Longitud: 61º 53'04'' W
+  Altitud: 91.8 m
+coloniateresa_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud: 358m
+constituyentes_datos_analiticos.htm
+  Latitud: 31° 24' 30'' S
+  Longitud: 60° 40' W
+  Altitud: 19 m
+coronda_datos_analiticos.htm
+  Latitud: 32° 02' 23'' S
+  Longitud: 60° 56' 20'' W
+  Altitud: 16.0 m
+correa_datos_analiticos.htm
+  Serie: Correa (Crr) Latitud: 32º 56' 00'' S
+  Datos analíticos Longitud: 61º 23' 20'' O
+  13 km al S de Cañada de Gómez (depto. Iriondo, Santa Fe)
+  Altitud: 102.5 m
+crispi_datos_analiticos.htm
+  Latitud: 31º 41' 24'' S
+  Longitud: 62º 00' 18'' W
+  Altitud: 104 m
+cululu_datos_analiticos.htm
+  Latitud: 31° 27' S
+  Longitud: 60° 49' W
+  Altitud: 21.5 m
+curupayti_datos_analiticos.htm
+  Latitud: 30º2'1'' S
+  Longitud: 61º31'44'' W
+  Altitud: 80 m
+delgado_datos_analiticos.htm
+  Latitud: 34° 09' 40'' S
+  Longitud: 61° 15' 20''W
+  3 km al NW de Delgado (pdo. Gral. Arenales, Bs.As.)
+  Altitud: 94 m
+diaz_datos_analiticos.htm
+  Latitud: 32° 21' 40'' S
+  Longitud: 61° 10' 45'' W
+  Altitud: 31 m
+divisademayo_datos_analiticos.htm
+  Latitud: 33° 29' 23'' S
+  Longitud: 61° 42' 15''W
+  Villa Divisa de Mayo (depto. Gral. López, Santa Fe). Altitud: 107 m
+dosprovincias_datos_analiticos.htm
+  Latitud: 30° 10' 42'' S
+  Longitud: 62° 05' 23''W
+  Altitud:98 m.sn.m.
+elabolengo_datos_analiticos.htm
+  Latitud: 34° 14' 30'' S
+  Longitud: 62° 11' 54''W
+  15 km al NW de San Gregorio (depto. Gral. López, Santa Fe)
+  Altitud: 106 m
+elarbolito_datos_analiticos.htm
+  Latitud: 33° 43' 20'' S
+  Longitud: 61° 07' 35'' W
+elcantor_datos_analiticos.htm
+  Latitud:  33° 32' 04'' S
+  Longitud: 62° 18' 39''W
+  5,5 km al WSW de Est. El Cantor (depto. Gral. López, Santa Fe)
+  Altitud: 115
+ellaurel_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+elmocoreta_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+elpedernal_datos_analiticos.htm
+  Latitud: 33° 15' 20'' S
+  Longitud: 61° 31' 00'' W
+  11 km al ESE de Est. Elortondo (depto. Gral. López, Santa Fe)
+  Altitud: 85 m
+elrecuerdo_datos_analiticos.htm
+  Latitud: 33º 45' 10'' S
+  Longitud: 61º 09' 15'' W
+  6 km al NE de Wheeelwright (depto. Constitución, Santa Fe)
+  Altitud: 88 m
+eltrebol_datos_analiticos.htm
+  Latitud: 32° 11' 53'' S
+  Longitud: 61° 30' 20'' W
+  Altitud: 62 m
+esperanza_datos_analiticos.htm
+  Latitud: 31° 21' 49'' S
+  Longitud: 61° 08' 41'' W
+  Altitud: 47.5 m
+estanciasantaana_datos_analiticos.htm
+  Latitud: 34° 13' 21'' S
+  Longitud: 62° 07' 20'' W
+  13 km al NNW de Est. San Gregorio (depto. Gral. López, Santa Fe) Altitud: 121 m
+eusebia_datos_analiticos.htm
+  Latitud: 31º 08' 7.8'' S
+  Longitud: 61º 56' 40.6'' O
+faustina_datos_analiticos.htm
+  Latitud: 33º 46' 05'' S
+  Longitud: 60º 54' 50'' W
+  11 km al SW de La Vanguardia (pdo. Pergamino, Bs. As.)
+  Altitud: 77 m
+fortintiburcio_datos_analiticos.htm
+  Latitud: 34° 22' 43'' S
+  Longitud: 60° 56' 20'' W
+  15 km NE de la Est. Agustina (pdo. Junín, Buenos Aires).
+  Altitud: 72.5 m s.n.m.
+gaboto_datos_analiticos.htm
+  Latitud: 32° 25' S
+  Longitud: 60° 50' W
+  Altitud: 15 m
+gelly_datos_analiticos.htm
+  Latitud: 33° 33' 30'' S   
+  Longitud:60° 49' 00'' W
+  2 km al SW de Peyrano (depto. Constitución, Santa Fe)
+  Altitud: 63 m 
+gessler_datos_analiticos.htm
+  Serie: Gessler (GLE)
+  Latitud: 31º 54' S
+  Longitud: 61º 12' 30'' W
+  Altitud: 45.5 m
+guatimozin_datos_analiticos.htm
+  Latitud: 33º 32' S
+  Longitud: 62º 24' W
+  12,2 km al N de Arias (Córdoba)
+  Altitud:117 m
+hansen_datos_analiticos.htm
+  Latitud: 33° 01' 35'' S
+  Longitud: 60° 47' 19'' W
+  Altitud: 35 m.s.n.m.
+helvecia_datos_analiticos.htm
+  Latitud: °''' S
+  Longitud: ° ''' W
+  Altitud:
+hersilia_datos_analiticos.htm
+  Latitud: 30º 10' 52'' S
+  Longitud: 61º 30' 34'' W
+  Altitud: 83.1 m
+huemul_datos_analiticos.htm
+  Latitud: 33° 46' 25'' S
+  Longitud:;60° 55' 10''W
+  4 km al NW de la Ea. El Huemul (pdo. Colón, Buenos Aires).
+  Altitud: 75 m
+hughes_datos_analiticos.htm
+  Latitud: 33° 45' 40'' S
+  Longitud: 61° 22' 30''W
+  6 km al NW de Hugues (depto. Gral. López, Santa Fe).
+  Altitud: 99 m
+humboldt_datos_analiticos.htm
+  Latitud: 31° 21' 49'' S
+  Longitud: 61° 08' 41'' W
+  Altitud: 47,5 m
+jacinto_datos_analiticos.htm
+  Latitud: 30° 43' 56'' S
+  Longitud: 60° 56' 35'' W
+  Altitud: 54 m
+juncal_datos_analiticos.htm
+  Latitud: 33° 41' 00'' S
+  Longitud: 61° 02' 15'' W
+  Altitud: 87,5 m.s.n.m.
+laalpina_datos_analiticos.htm
+  Latitud: 32º 31' 32'' S
+  Longitud: 61º 13' 34'' W
+  3 km al ESE de Clason (depto. San Jerónimo, Santa Fe)
+  Altitud: 42.5 m
+lacurva_datos_analiticos.htm
+  Latitud: 31° 21' 49'' S
+  Longitud: 61° 08' 41'' W
+  Altitud: 47,5 m
+laelena_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+laesmeralda_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+laflorida_datos_analiticos.htm
+  Latitud: 32° 34' S
+  Longitud: 61° 54' W
+  Altitud: 79 m
+lagerda_datos_analiticos.htm
+  Latitud: 30° 51' 48'' S
+  Longitud: 60° 55' 43'' W
+  Altitud: 48 m
+lagermania_datos_analiticos.htm
+  Latitud: 32° 30' 02'' S
+  Longitud: 61° 26' W
+  Altitud: 70 m
+laindiada_datos_analiticos.htm
+  Latitud: 61º 35' 00'' S
+  Longitud: 33º 29' 30'' W
+  10 km al SW de la Est. Firmat (depto. Gral. López, Santa Fe).
+  Altitud: 96 m
+laleoncita_datos_analiticos.htm
+  Latitud: 33º 11' S
+  Longitud: 62º 07' W
+  Altitud: 100 m
+  6 km al S de Camilo Aldao (Córdoba)
+landeta_datos_analiticos.htm
+  Latitud: 32° 10' 48'' S
+  Longitud: 61° 50' 33'' W
+  Altitud: 107 m
+lapatria_datos_analiticos.htm
+  Latitud: 32º 41' 00'' S
+  Longitud: 61º 20' 25'' W
+  Altitud: 75 m
+lapelada_datos_analiticos.htm
+  Latitud: 30° 52' 21'' S
+  Longitud: 60° 55' 35'' W
+  Altitud: 48,5 m
+larivieri_datos_analiticos.htm
+  Latitud: 32° 39' 44'' S
+  Longitud: 61° 32' 05'' W
+  Altitud: 100 m
+larubia_datos_analiticos.htm
+  Latitud: 30º 27' 33'' S
+  Longitud: 61º 53' 06'' W
+  Altitud: 91.8 m
+lasbandurrias_datos_analiticos.htm
+  Latitud: 32° 04' 13'' S
+  Longitud: 61° 30' 07'' W
+  Altitud: 51 m
+lasgamas_datos_analiticos.htm
+  Latitud: 33º 45' 00'' S
+  Longitud: 60º 56' 35'' W
+  Altitud: 79 m
+  12 km al SSW de Pearson (pdo. Colón, Buenos Aires)
+laspalmeras_datos_analiticos.htm
+  Latitud: 30º 31' 20'' S
+  Longitud: 61º 36' 58'' W
+  Altitud: 92.5 m
+lasparvas_datos_analiticos.htm
+  Latitud: 31° 19' 05'' S
+  Longitud: 61° 18' 25''W
+  2 km de Gral. Arenales (pdo. Gral. Arenales, Bs. As)
+  Altitud: 90 m
+lasprusianas_datos_analiticos.htm
+  Latitud: 31° 21' 49'' S
+  Longitud: 61° 08' 41'' W
+  Altitud: 47.5 m
+lastunas_datos_analiticos.htm
+  Latitud: 31° 27' 46'' S
+  Longitud: 60° 59' 21'' W
+  Altitud: 38,5 m
+lasturbias_datos_analiticos.htm
+  Latitud: 32° 29' 55'' S
+  Longitud: 61° 25' W
+  Altitud: 63 m
+lazoraida_datos_analiticos.htm
+  Latitud: 33º 54' 30'' S
+  Longitud: 61º 28' 00'' W
+  9 km al SE de Est. Santa Emilia (Santa Fe)
+  Altitud: 95 m
+lazzarino_datos_analiticos.htm
+  Latitud: 33° 49' 16'' S
+  Longitud: 62° 03' 00'' W
+  11,5 km al SW de Venado Tuerto (depto. Gral. López, Santa Fe)
+  Altitud: 110 m
+lehmann_datos_analiticos.htm
+  Latitud: 31º 12' S
+  Longitud: 61º 30' W
+  Altitud: 96 m
+lima_datos_analiticos.htm
+  Latitud: 33° 45' 15'' S;
+  Longitud: 60° 48' 30'' W
+  2 km S de La Vanguardia (pdo. Pergamino, Buenos Aires).
+  Altitud: 78 m
+lomaalta_datos_analiticos.htm
+  Latitud: 31º 56' S
+  Longitud: 61º 43' 40'' W
+  Altitud: 82 m
+loscardos_datos_analiticos.htm
+  Latitud: 32° 28' 39'' S
+  Longitud: 61° 32' 24'' W
+  Altitud: 93 m
+loscerillos_datos_analiticos.htm
+  Latitud: °''' S
+  Longitud: ° ''' W
+  Altitud:
+loscharabones_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+losmedanitos_datos_analiticos.htm
+  Latitud: 33º 33' 00'' S
+  Longitud: 62º 39' 00'' W
+  11,7 km al WNW de Alejo Ledesma (Córdoba)
+  Altitud: 118 m
+lucianoleiva_datos_analiticos.htm
+  Latitud: 30° 55' 33'' S
+  Longitud: 60° 32' 19'' W
+  Altitud: 27 m
+maciel_datos_analiticos.htm
+  Latitud:32° 36' 46''
+  Longitud: 61° 03' 37'' W
+  11 km al ESE de Totoras (depto. Iriondo, Santa Fe)
+  Altitud: 41 m
+maggiolo_datos_analiticos.htm
+  Latitud: 33° 53' 05''
+  Longitud: 62° 03' 45''W
+  4 km SE de Est. San Eduardo (depto. Gral. López, Santa Fe)
+  Altitud: 117 m s.n.m.
+maizales_datos_analiticos.htm
+  Latitud: 33° 23' 10'' S
+  Longitud: 60° 58' 15'' W
+  7 km al S de la Est. Maizales (depto. San Lorenzo, Santa Fe).
+  Altitud:70 m
+manantiales_datos_analiticos.htm
+  Latitud: 33° 47' 35'' S
+  Longitud: 60° 17' 60'' W
+  15 km de la Est. Acevedo (depto. Rosario, Santa Fe)
+  Altitud: 51 m
+marialuisa_datos_analiticos.htm
+  Latitud: 30° 52' 29'' S
+  Longitud: 60° 54' 09'' W
+  Altitud: 48 m
+matilde_datos_analiticos.htm
+  Latitud: 31° 59' 18'' S
+  Longitud: 61° 00' 03'' W
+  Altitud: 30.5 m
+melincue_datos_analiticos.htm
+  Latitud: 33º 40' 40'' S
+  Longitud: 61º 20' 50'' W
+  5 km al NNW de Labordeboy (depto. Gral. López, Santa Fe)
+  Altitud: 97 m
+monigotes_datos_analiticos.htm
+  Latitud: 30º 20' 23'' S
+  Longitud: 61º 49' 58'' W
+  Altitud: 90.9 m
+monteoscuridad_datos_analiticos.htm
+  Latitud: 30º 25' 59'' S
+  Longitud: 62º 04' 54'' W
+  Altitud: 94.5 m
+murphy_datos_analiticos.htm
+  Latitud: 33° 39' 43'' S
+  Longitud: 61° 47' 50''W
+  6,5 km al ESE de Est. Murphy (depto. Gral. López, Santa Fe)
+  Altitud: 108 m
+oliveros_datos_analiticos.htm
+  Latitud: 32° 29' 13'' S
+  Longitud: 60° 53' 42'' W
+  Altitud: 25.7 m
+paikin_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+pergamino_datos_analiticos.htm
+  Latitud: 33° 51' 50'' S
+  Longitud: 60° 40' 05''W
+  10 km al SW de Pergamino (Buenos Aires)
+  Altitud: 76 m
+petronila_datos_analiticos.htm
+  Latitud: 30° 41' 41'' S
+  Longitud: 60° 49' 46'' W
+  Altitud: 52 m
+peyrano_datos_analiticos.htm
+  Latitud: 33° 38' 50'' S
+  Longitud: 60° 41' 55'' W
+  2 km al NNE de El Socorro (pdo. Pergamino, Buenos Aires)
+  Altitud:;70 m
+Pilar_datos_analiticos.htm
+  Latitud: 31º 28' 42'' S
+  Longitud: 61º 09' 24'' W
+  Altitud: 47 m
+pueblocasas_datos_analiticos.htm
+  Latitud: 32° 11' S
+  Longitud: 61° 34' 56'' W
+  Altitud: 61 m
+pueblodeirigoyen_datos_analiticos.htm
+  Serie: Pueblo Irigoyen (PUI)
+  Latitud: 31° 28' 42'' S
+  Longitud: 61° 09' 24'' W
+  Altitud: 37.5 m
+puebloelisa_datos_analiticos.htm
+  Latitud: 32º 42' 40'' S
+  Longitud: 61º 32' 42'' W
+  4 km al SW de Pueblo Elisa (depto. Belgrano, Santa Fe)
+  Altitud: 90 m
+rafaela_datos_analiticos.htm
+  Latitud: 31º 12' S
+  Longitud: 61º 30' W
+  Altitud: 96 m
+ramallo_datos_analiticos.htm
+  Latitud: 33° 40' 50''
+  Longitud: 60° 03' 10''W
+  11 km al NNE de Pérez Millán (pdo. Ramallo, Buenos Aires).
+  Altitud: 48 m
+ramona_datos_analiticos.htm
+  Latitud: 31º 05' 09.7'' S
+  Longitud: 61º 55' 59.2'' O
+rancagua_datos_analiticos.htm
+  Latitud: 33° 58' 20'' S;
+  Longitud: 60° 35' 10'' W;
+  10 km al N de Est. Rancagua (pdo. Pergamino, Buenos Aires)
+  Altitud: 65 m
+Recreo_datos_analiticos.htm
+  Serie: Recreo (REC)
+  Latitud: 31º 17' 40'' S
+  Longitud: 60º 40' 41'' W
+  Altitud: 18.7 m
+rincondeavila_datos_analiticos.htm
+  Latitud: 31° 20' 08'' S
+  Longitud: 60° 50' 48'' W
+  Altitud 34 m
+riosalado_datos_analiticos.htm
+  Latitud: 31° 27' S
+  Longitud: 60° 49' W
+  Altitud: 21,5 m
+rojas_datos_analiticos.htm
+  Latitud: 34° 08' 08'' S
+  Longitud: 60° 59' 45''W
+  24 km al W de Rojas (pdo. Rojas, Buenos Aires)
+  Altitud: 80 m
+saforcada_datos_analiticos.htm
+  Serie: Saforcada (Saf)
+  Latitud: 34° 24' 50''
+  Longitud: 61° 05' 08''W
+  5 km Est. Agustina (pdo. Junín, Buenos Aires)
+  Altitud: 95 m s.n.m.
+sanantonio_datos_analiticos.htm
+  Latitud:
+  Longitud:
+sanbernardo_datos_analiticos.htm
+  Latitud: 30° 54' 39'' S
+  Longitud: 60° 34' 35'' W
+  Altitud:
+sanjusto_datos_analiticos.htm
+  Latitud: 30° 56' 27'' S
+  Longitud: 60° 41' 56''W
+  Altitud: 53 m
+sanmartindelasescobas_datos_analiticos.htm
+  Latitud: 31° 54' 45'' S
+  Longitud: 61° 30' 57'' W
+  Altitud: 60 m
+sanpedro_datos_analiticos.htm
+  Latitud:
+  Longitud:
+  Altitud:
+santafilipina_datos_analiticos.htm
+  Latitud: 32º 41' 40'' S
+  Longitud:;;61º 16' 45'' W
+  5 km al N de Bustinza (depto. Iriondo, Santa Fe).
+  Altitud: 68 m
+santaisabel_datos_analiticos.htm
+  Latitud: 33°57'47'' S;
+  Longitud: 61°36'20'' W
+  5 km al N de Villa Cañás (depto. Gral. López, Santa Fe)
+  Altitud: 103 m
+santamarianorte_datos_analiticos.htm
+  Latitud: 31º 28' 42'' S
+  Longitud: 61º 09' 24'' W
+  Altitud: 47 m
+sastre_datos_analiticos.htm
+  Latitud: 31º 41' 24'' S
+  Longitud: 62º 00' 18'' W
+  Altitud: 104 m
+schiffner_datos_analiticos.htm
+  Latitud: 31º 47' 42'' S
+  Longitud: 62º 13' 42'' W
+  Altitud: 100.5 m
+serodino_datos_analiticos.htm
+  Latitud: 32° 35' 55'' S
+  Longitud: 61° 02' 19'' W
+  Altitud: 34 m
+soldemayo_datos_analiticos.htm
+  Latitud: 30° 57' 10'' S
+  Longitud: 60° 52' 18'' W
+  Altitud: 46,5 m
+teodelina_datos_analiticos.htm
+  Latitud: 34º 13' 20'' S
+  Longitud: 61º 14' 50'' W
+  1 km al NW de Est. Ham (pdo. Gral. Arenales, Buenos Aires)
+  Altitud: 90 m
+totoras_datos_analiticos.htm
+  Latitud: 32° 19' 48'' S
+  Longitud: 61° 03' W
+  Altitud: 30.1 m
+tresreyes_datos_analiticos.htm
+  Serie: Tres Reyes (TRS)
+  Latitud: 30° 51' 14'' S
+  Longitud: 60° 30' 29'' W
+  Altitud: 28 m
+treslagunas_datos_analiticos.htm
+  Latitud: 32° 36' 56'' S
+  Longitud: 61° 32' 03'' S
+  Altitud: 90 m
+venadotuerto_datos_analiticos.htm
+  Latitud: 33º 44' 20'' S
+  Longitud: 61º 52' 00'' W
+  9 km al ENE de V. Tuerto (depto. Gral. López, Santa Fe)
+  Altitud: 112 m
+videla_datos_analiticos.htm
+  Latitud: 30° 56' 34'' S
+  Longitud: 60° 35' 15'' W
+  Altitud: 46 m
+vila_datos_analiticos.htm
+  Latitud: 31º 08' 08'' S
+  Longitud: 61º 52' 03.3'' O
+villada_datos_analiticos.htm
+  Latitud: 33° 25' 40'' S
+  Longitud: 61° 03' 20'' W
+  10 km al SE de Bigand (depto. Caseros, Santa Fe).
+  Altitud: 75 m
+villaeloisa_datos_analiticos.htm
+  Latitud: 32º 57' 22'' S
+  Longitud: 61º 39' 48'' W
+  11 km al W de Villa Eloísa (depto. Iriondo, Santa Fe).
+  Altitud:???
+wheelwright_datos_analiticos.htm
+  Latitud: 33º 41' 00'' S
+  Longitud: 61º 15' 45'' W
+  12 km al NNW de Wheelwright (depto. Gral. López, Santa Fe).
+  Altitud: 92 m
+zaballa_datos_analiticos.htm
+  Latitud: 32°57'15''
+  Longitud:;60°49'42''W
+  7,5 km al W de Funes (depto. Rosario, Santa Fe).
+  Altitud: 28.75 m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

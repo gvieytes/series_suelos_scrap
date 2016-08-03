@@ -1,0 +1,349 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO LOS BAYOS Símbolo: LBy
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con epipedón de color oscuro, franco-arcillo-limoso y un horizonte argílico, oscuro, arcillo-limoso, con algunas concreciones ferromanganesíferas y muy escasas concreciones calcáreas.
+
+
+Perfil tipo: ER1-139C
+Fecha: 14-XI-2002
+Ubicación: 3,3 Km al sudeste de Escriña. (foto IR 120-42). Dto.Pehuajó al Norte, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-13 cm; pardo grisáceo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, firme en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+
+A12: 13-26 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes a abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+
+B21t: 26-47 cm; pardo muy oscuro (10YR 2/2) en húmedo;; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares medios, fuertes; muy duro en seco, firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") escasas a comunes, medias; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B22t: 47-73 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en bloques angulares irregulares y bloques cuneiformes medios, fuertes; muy duro en seco, firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") escasas a comunes, medias; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, suave.
+
+B3: 73-110 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, moderados; ligeramente duro en seco y friable en húmedo; caras de fricción ("slickensides") escasas a comunes, finas; concreciones calcáreas muy escasas y finas; moteados de hierro-manganeso, abundantes, gruesos y sobresalientes; límite difuso, suave.
+
+C: 110 cm +; marrón fuerte (7,5YR 4/6) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco y blando en húmedo; barnices ("clay skins") escasos; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El solum tiene 100-115 cm. El epipedón mólico, con horizontes A11 y A12 alcanza una espesor de 25-30 cm. Está bien estructurado y contiene entre 3.5-4.4 % de materia orgánica.
+
+El horizonte argílico, de estructura prismática compuesta, tiene un espesor de 50-55 cm y normalmente está mejor expresado en su parte inferior. Cuando seco, el horizonte se agrieta poco. El porcentaje de arcilla varía de 48.8-49.9. El horizonte B3 con abundantes moteados tiene muy escasas concreciones calcáreas.
+
+
+Fases
+
+No se describieron nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+Serie Arroyo Los Bayos tiene erosión actual ligera y corre moderado peligro de erosión en surcos.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Los Bayos
+
+ER1-139C
+
+
+
+
+
+
+N° de registro
+ 11068
+ 11069
+ 11070
+ 11071
+ 11072
+ 11073
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm
+ 04-12
+ 15-25
+ 30-45
+ 50-70
+ 75-100
+ 125-135
+Mat.organica (%)
+ 4.47
+ 3.53
+ 2.98
+ 2.06
+ 1.38
+ 0.22
+C (%)
+ 2.60
+ 2.05
+ 1.73
+ 1.20
+ 0.80
+ 0.13
+N (%)
+ 0.196
+ 0.170
+ 0.135
+ 0.107
+ 0.064
+ 0.036
+C/N
+ 13.27
+ 12.06
+ 12.81
+ 11.21
+ 12.50
+ 3.61
+T <2
+ 28.38
+ 29.91
+ 48.85
+ 49.91
+ 49.01
+ 47.01
+E 2-20
+ 30.92
+ 30.14
+ 23.95
+ 27.30
+ 28.01
+ 27.92
+X 2-50
+ 66.13
+ 65.68
+ 48.59
+ 47.30
+ 48.97
+ 51.27
+T 50-100
+ 1.36
+ 0.96
+ 0.70
+ 0.56
+ 0.46
+ 0.38
+U 100-250
+ 4.02
+ 3.42
+ 1.81
+ 2.20
+ 1.55
+ 1.29
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.11
+ 0.03
+ 0.05
+ 0.03
+ 0.01
+ 0.02
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+PH H2O
+ 6.6
+ 6.3
+ 6.8
+ 7.2
+ 7.8
+ 7.6
+PH ClK
+ 5.5
+ 5.1
+ 5.3
+ 5.8
+ 6.3
+ 5.9
+Conductividad eléctrica mmhos/cm
+
+ 0,31
+
+ 0,31
+
+ 0,19
+
+ 0,23
+
+ 0,24
+
+ 0,20
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+
+ 27,20
+
+
+ 27,83
+
+
+ 46,78
+
+
+ 50,00
+
+
+ 50,46
+
+
+ 48,30
+
+D
+Ca++
+ 18,55
+ 19,15
+ 39,11
+ 40,77
+ 40,89
+ 37,65
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 3,60
+ 3,70
+ 4,30
+ 5,12
+ 5,06
+ 5,83
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 1,32
+ 0,86
+ 1,08
+ 1,52
+ 1,12
+ 1,94
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 1,25
+ 1,25
+ 1,17
+ 1,82
+ 1,37
+ 1,62
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+ 2,03
+ 2,50
+ 1,72
+ -
+ -
+ -
+
+% Na/T
+
+ 0.046
+
+ 0.045
+
+ 0.025
+
+ 0.036
+
+ 0.027
+
+ 0.034
+
+Equivalente de humedad (%)
+
+
+ 27.70
+
+
+ 31.22
+
+
+ 48.11
+
+
+ 50.00
+
+
+ 49.82
+
+
+ 46.56
+
+P disponible (ppm)
+
+ 12.20
+
+ 9.20
+
+ 5.50
+
+ 4.70
+
+ 4.30
+
+ 3.40
+

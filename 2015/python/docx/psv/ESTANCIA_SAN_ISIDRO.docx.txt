@@ -1,0 +1,160 @@
+
+--------------------------------------------------------------------------------
+SERIE ESTANCIA SAN ISIDRO Símbolo: ESI
+
+
+Pertenece a la familia "no ácida, térmica" de los Udisamentes típicos.
+
+Suelo arenoso, sin desarrollo edáfico.
+
+Sin o con muy escasa cobertura vegetal (en el relieve eólico de acumulación-deflación).
+
+Estos suelos son susceptibles de estar afectados por erosión eólica moderada.
+
+
+Perfil tipo: 316C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 1,5 Km al NO de la localidad de Ibicuy (Hoja IGM 3360-35-2) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+C1: 0-110 cm; pardo amarillento brillante (10YR 7/6) en seco y pardo amarillento brillante (10YR 6/6) en húmedo; arenoso; estructura masiva; suelto; muy friable; no plástico, no adhesivo; raíces comunes; límite inferior gradual, suave.
+
+IIC2: 110-175 cm; pardo oscuro (7,5YR 3/3) en húmedo; arenoso; masivo; suelto; muy friable; no plástico, no adhesivo.
+
+
+Variabilidad de rasgos
+
+El perfil está formado por capas arenosas sin estructura y sin materia orgánica.
+
+Es un suelo no salino, no alcalino, pobre en tenor de cationes de cambio, de pH muy fuerte a fuertemente ácido.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Permeabilidad rápida y algo excesivamente drenado, sin peligro de inundación.
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Estancia San Isidro
+
+316C INTA Castelar
+
+
+N° de registro
+
+
+Horizonte
+ C1
+ IIC2
+Profundidad (cm)
+ -
+ -
+Mat.organica (%)
+ -
+ -
+C (%)
+ -
+ -
+N (%)
+ -
+ -
+C/N
+ -
+ -
+
+T <2 u
+
+ 7.5
+
+ 7.7
+E 2-20 u
+ 0.5
+ 1.7
+X 2-50 u
+ 2.8
+ 2.2
+T 50-74 u
+ 0.1
+ 0.1
+U 74-100 u
+ 0.2
+ 0.2
+R 100-250 u
+ 77.1
+ 74.4
+A 250-500 u
+ 10.4
+ 14.6
+ 500-1000 u
+ 1.0
+ 0.8
+ 1000-2000 u
+ -
+ -
+
+
+
+CO3Ca (%)
+ 0
+ 0
+Equivalente de humedad (%)
+ 2.9
+ 2.1
+Resistencia de la pasta (Ohms/cm)
+ 69504
+ 44888
+pH en pasta
+ 5.2
+ 4.8
+PH H2O
+ 5.9
+ 5.5
+pH ClK
+ 4.3
+ 4.0
+Conductividad (mmhos/cm)
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ 0.70
+ 0.50
+
+Mg++
+ 0.30
+ 0.50
+
+Na+
+ 0.05
+ 0.05
+
+K+
+ 0.05
+ 0.05
+
+H+
+ 1.20
+ 1.00
+% Na/T
+ 3
+ 3
+Suma de bases, m.e./100 gr (S)
+ 1.10
+ 1.10
+C.I.C., m.e./100 gr (T)
+ 1.50
+ 1.7
+Saturación con bases, (%) (S/T)
+ 73
+ 65
+

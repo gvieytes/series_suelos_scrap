@@ -1,0 +1,35 @@
+dss_el_cruce.psv ->> ID..........................: 209
+dss_el_cruce.psv ->> CLASIFICACION...............: Haplustol udorthéntico
+dss_el_cruce.psv ->> SERIE.......................: EL CRUCE (Cruce)
+dss_el_cruce.psv ->> UBICACION...................: 9 km al ONO de Jesús María, departamento Totoral
+dss_el_cruce.psv ->> PROVINCIA...................: CORDOBA
+dss_el_cruce.psv ->> LATITUD.....................: S305500
+dss_el_cruce.psv ->> LONGITUD....................: O641200
+dss_el_cruce.psv ->> ALTITUD.....................: 600
+dss_el_cruce.psv ->> PENDIENTE...................: FALTA!
+dss_el_cruce.psv ->> DRENAJE.....................: FALTA!
+dss_el_cruce.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_cruce.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_cruce.psv ->> TIPO DE SUELO...............: ESQUELÉTICA FRANCA GRUESA MIXTA TÉRMICA
+dss_el_cruce.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_el_cruce.psv ->> HORIZONTE->NOMBRE(S)........: A | AC
+dss_el_cruce.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-22 | 22-47
+dss_el_cruce.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,6 | 1,2
+dss_el_cruce.psv ->> HORIZONTE->CARBONO ORGÁN.(%): - |  
+dss_el_cruce.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,15 | 0,07
+dss_el_cruce.psv ->> HORIZONTE->RELACIÓN C/N.....: - |  
+dss_el_cruce.psv ->> HORIZONTE->ARCILLA 2 (%)....: 11,5 | 17,2
+dss_el_cruce.psv ->> HORIZONTE->LIMO 2-50 (%)....: 20,8 | 18,2
+dss_el_cruce.psv ->> HORIZONTE->ARENA TOTAL......: 68,2 | 64,5
+dss_el_cruce.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0
+dss_el_cruce.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): - |  
+dss_el_cruce.psv ->> HORIZONTE->PH PASTA.........: - |  
+dss_el_cruce.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,7 | 7,5
+dss_el_cruce.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 12,3 | 10,8
+dss_el_cruce.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,1 | 1,6
+dss_el_cruce.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3 | 0,3
+dss_el_cruce.psv ->> HORIZONTE->CI ME/100G-K +...: 1,6 | 1,1
+dss_el_cruce.psv ->> HORIZONTE->CI ME/100G-H +...: 0,6 |  
+dss_el_cruce.psv ->> HORIZONTE->SUM.B. ME/100G(S): - |  
+dss_el_cruce.psv ->> HORIZONTE->CIC ME/100G(T)...: 15,9 | 13,8
+dss_el_cruce.psv ->> HORIZONTE->SAT.B % (S/T)....: 96 | 100

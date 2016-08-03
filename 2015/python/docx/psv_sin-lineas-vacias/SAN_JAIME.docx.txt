@@ -1,0 +1,226 @@
+--------------------------------------------------------------------------------
+SERIE SAN JAIME 	 Símbolo: Sjm
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiacuólicos.
+La presencia de microrrelieve gilgai visible en el terreno es una característica de este suelo. En general, la unidad no presenta monte, aunque puede hallarse esporádicamente en algunos sectores.
+El horizonte superficial (A1) es franco limoso, con estructura granular y en bloques; aparece normalmente lixiviado. Es oscuro en húmedo y los moteados de hierro y manganeso son comunes y finos. El espesor varía entre 20 y 36 cm. El porcentaje de materia orgánica es alto y se aproxima al 5 %.
+El horizonte subsuperficial (B2) es franco arcillo limoso, denso, poco permeable y penetrable por las raíces. La estructura e prismática, pero es común la presencia de bloques cuneiformes. Las caras de fricción ("slickensides") son comunes al igual que los moteados de hierro y manganeso.
+Las concreciones calcáreas aparecen en la base del horizonte y su presencia varía de escasas a comunes. Presenta concreciones finas de hierro y manganeso.
+En los perfiles estudiados se encontraron horizontes transicionales (horizonte B3) con concreciones calcáreas comunes, lo mismo que de hierro y manganeso. Los moteados de estos elementos son comunes.
+Al horizonte C, lo constituyen limos calcáreos semigleizados.
+Los perfiles observados presentan algo de arena en todos los horizontes, sin embargo, aunque en el momento de realizarse el levantamiento la época era marcadamente seca, ni siempre se advirtió la presencia de grietas.
+Perfil tipo: ER4 - 18C
+Ubicación: 3.7 Km al N de San Jaime de la Frontera.
+Reconocedores: J.M. Pérez; G.W. van Barneveld.
+A11: 00-20 cm; negro (10 YR 2,5/1) en húmedo; gris oscuro (10 YR 4/1) en seco; franco limoso; estructura en bloques subangulares y angulares irregulares medios moderados; muy duro en seco; friable en húmedo; plástico, ligeramente adhesivo; vestigios de concreciones de hierro; vestigios de barnices ("humic skins") muy finos; moteados comunes, finos, débiles; horizonte lixiviado; límite inferior claro suave.
+A12: 20-35 cm; negro (10 YR 2,5/1) en húmedo; gris oscuro (10 YR 4/1) en seco; franco arcillo limoso; estructura en bloques angulares irregulares y subangulares medios moderados; muy duro en seco; firme en húmedo; plástico, adhesivo; concreciones de hierro comunes finas; vestigios de barnices ("humic skins"); moteados comunes, finos y precisos horizonte lixiviado; límite inferior claro ondulado.
+B21t: 35-87 cm; negro (10 YR 2/1) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; extremadamente duro en seco; muy firme en húmedo; muy plástico, adhesivo; concreciones de hierro escasas, finas; vestigios de barnices ("humic skins") finos; caras de fricción ("slickensides") comunes, finas; moteados comunes, finos y precisos; grietas de 1 cm de ancho; límite inferior gradual suave.
+B22t: 87-107 cm; negro (10 YR 2,5/1) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares irregulares y cuneiformes medios moderados; extremadamente duro en seco; firme en húmedo; muy plástico, adhesivo; concreciones de hierro y manganeso comunes, finas; escasas concreciones calcáreas (desde 95 cm) finas; caras de fricción ("slickensides") comunes, finas; moteados escasos, finos, precisos; límite claro ondulado.
+B3ca: 107-140 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y cuneiformes gruesos, moderados; friable en húmedo; plástico, adhesivo; concreciones de hierro y manganeso comunes, finas; caras de fricción ("slickensides") escasas, medias; moteados comunes, finos y precisos; límite inferior difuso ondulado.
+Cca (g): 140 cm + (105); pardo grisáceo oscuro (10YR 4,5/1) en húmedo; arcillo limoso; estructura en bloques angulares medios débiles a masivo; friable en húmedo; plástico, adhesivo; concreciones de hierro y manganeso comunes, finas, escasas concreciones calcáreas finas; caras de fricción ("slickensides") escasas a comunes, medias; moteados comunes, finos, precisos.
+Fases
+No se han descripto a escala de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial rápido. Permeabilidad lenta. Grupo hidrológico D.
+Erosión
+	
+La serie San Jaime presenta erosión actual leve y la susceptibilidad a la misma es también leve.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie San Jaime
+ER4 - 18 C
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca(g)
+Profundidad (cm)
+ 4-18
+ 20-35
+ 48-75
+ 89-100
+ 112-130
+ 142-165
+Mat.organica (%)
+ 4,98
+ 4,04
+ 2,59
+ 1,51
+ 0,56
+ 0,30
+C (%)
+ 2,90
+ 2,35
+ 1,51
+ 0,88
+ 0,33
+ 0,18
+N (%)
+ 0,237
+ 0,176
+ 0,096
+ 0,066
+ 0,033
+ 0,022
+C/N
+ 12
+ 13
+ 16
+ 13
+ 10
+ 8
+T
+ <2 u
+ 23,8
+ 27,1
+ 33,6
+ 34,4
+ 49,0
+ 57,5
+E
+ 2-20 u
+ -
+ -
+ -
+ -
+ -
+ -
+X
+ 2-50 u
+ 72,3
+ 68,5
+ 62,2
+ 60,6
+ 47,1
+ 40,7
+T
+ 50-100 u
+ 0,6
+ 0,6
+ 0,6
+ 0,6
+ 0,4
+ 0,3
+U
+ 100-250 u
+ 2,2
+ 2,5
+ 2,2
+ 2,5
+ 1,8
+ 0,9
+R
+ 250-500 u
+ 1,1
+ 1,3
+ 1,4
+ 1,9
+ 1,7
+ 0,9
+A
+ 500-1000 u
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 4,9
+ 4,2
+% Saturación de Agua
+Equivalente de Humedad (%)
+ 30,4
+ 32,5
+ 33,2
+ 38,0
+ 42,1
+ 44,6
+pH en pasta
+ 5,4
+ 5,4
+ 5,9
+ 6,5
+ 7,3
+ 7,3
+PH H2O
+ 5,5
+ 5,5
+ 5,9
+ 6,8
+ 7,6
+ 7,6
+pH ClK
+Conductividad (mmhos/cm)
+Sales solubles grs (%)
+Resistencia de la pasta (Ohms/cm)
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 26,3
+ 28,7
+ 30,3
+ 32,0
+ ND
+ ND
+Mg++
+ 4,2
+ 4,7
+ 4,2
+ 4,3
+ ND
+ ND
+Na+
+ 0,2
+ 0,2
+ 0,5
+ 0,6
+ 0,8
+ 1,2
+K+
+ 0,3
+ 0,4
+ 0,5
+ 0,5
+ 0,5
+ 0,7
+Valor S (m.e./ 100 gr.)
+ 31,0
+ 34,0
+ 35,5
+ 37,4
+ ND
+ ND
+H de cambio (m.e. / 100 gr.)
+ 5,2
+ 5,2
+ 3,1
+ 1,9
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 34,9
+ 38,1
+ 37,0
+ 37,4
+ 36,8
+ 43,7
+% de saturación de T
+ 89
+ 89
+ 96
+ 100
+ ND
+ ND
+% de saturación de S + H
+% Na/T
+ 0,6
+ 0,5
+ 1,4
+ 1,6
+ 2,2
+ 2,7

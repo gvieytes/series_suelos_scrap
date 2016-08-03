@@ -1,0 +1,25 @@
+HORIZONTE->NOMBRE(S)........: 
+HORIZONTE->Profundidad de la muestra (cm): 
+HORIZONTE->Materia Orgánica (%): 
+HORIZONTE->Carbono Orgánico (%): 
+HORIZONTE->Nitrógeno total (%): 
+HORIZONTE->Relación C/N: 
+HORIZONTE->Arcilla, <2 μ (%): 
+HORIZONTE->Limo, 2-50 μ (%): 
+HORIZONTE->Arena muy fina, 50-100 μ (%): 
+HORIZONTE->Arena fina, 100-250 μ (%): 
+HORIZONTE->Arena media, 250-500 μ (%): 
+HORIZONTE->Arena gruesa, 500-1000 μ (%): 
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): 
+HORIZONTE->Carbonatos (% CaCO3): 
+HORIZONTE->Equivalente de humedad (%): 
+HORIZONTE->pH en pasta: 
+HORIZONTE->pH en agua (1:2,5): 
+HORIZONTE->Mg++: 
+HORIZONTE->Na+: 
+HORIZONTE->K+: 
+HORIZONTE->H+: 
+HORIZONTE->Suma de bases, S (meq/100g): 
+HORIZONTE->Capacidad de intercambio catiónico, T (meq/100g): 
+HORIZONTE->Porcentaje de sodio de intercambio (P.S.I.): 
+HORIZONTE->Saturación con bases, S/T (%): 

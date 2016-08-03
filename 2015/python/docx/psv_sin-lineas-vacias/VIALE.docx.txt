@@ -1,0 +1,198 @@
+--------------------------------------------------------------------------------
+SERIE VIALE Símbolo: Vle
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiudólicos.
+Suelos imperfectamente drenados, con un horizonte superficial de color oscuro, franco-arcillo-limoso y un horizonte argílico, de textura arcillo-limosa, y calcáreo que aparece a 50 cm de profundidad aproximadamente.
+Suelos desarrollados en materiales franco-arcillo-limosos (limos calcáreos).
+Perfil tipo: ER7-129C
+Fecha: 20-III-1998
+Ubicación: 7 Km al E del cruce de rutas Nac. 18 y Pcial 32 (foto IR 447-8) - Dto. Quebracho - Dpto. Paraná.
+Reconocedores: O.A. Foti; L.O. López
+A1: 00-22 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, débiles; friable en húmedo; barnices ("clay-humic skins") comunes y ("humic skins") comunes; moteados de hierro-manganeso, comunes, medios y precisos; límite claro, suave.
+B21t: 22-50 cm; gris muy oscuro (10YR 3,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, gruesas e intersectadas; moteados de hierro-manganeso, comunes, medios y precisos; materiales del horizonte superior en las grietas; límite gradual, ondulado.
+B22t: 50-74 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes, gruesas e intersectadas; concreciones calcáreas escasas y finas; concreciones ferromanganesíferas, escasas; moteados de hierro-manganeso comunes, medios y precisos; materiales de horizontes superiores en grietas; límite claro, suave.
+B3ca: 74-103 cm; pardo a pardo oscuro (7,5YR 4,5/4) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas e intersectadas; concreciones calcáreas, comunes, finas y carbonatos libres en la masa abundantes; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; materiales de horizontes superiores en las grietas; presencia de pseudogley; límite difuso, suave.
+Cca: 103 cm +; color abigarrado; franco-arcillo-limoso; masivo; friable en húmedo; caras de fricción ("slickensides") escasas, finas e intersectadas; concreciones calcáreas, abundantes, finas y carbonatos libres en la masa abundantes; concreciones ferromanganesíferas comunes; moteados de hierro-manganeso abundantes, medios y precisos; materiales de horizontes superiores en las grietas, presencia de pseudogley; glaébulas de manganeso.
+Variabilidad de rasgos
+El solum varía de 100-105 cm de profundidad. El epipedón mólico está formado por un horizonte A1 y ocasionalmente un B1 y tiene un espesor de 20-25 cm, es de textura franco-arcillo-limosa y de color oscuro. El horizonte argílico de más de 50 cm de espesor tiene alrededor de 47-49 % de arcilla. El calcáreo aparece a los 70 cm aproximadamente aumentando considerablemente en profundidad.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial muy lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Viale no está erosionada pero tiene un ligero peligro de erosión en forma laminar, fundamentalmente en áreas bajo uso agrícola intensivo.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Viale
+ER7-129C
+Nº de registro
+ 2.727
+ 2.728
+ 2.729
+ 2.730
+ 2.731
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-20
+ 30-45
+ 55-70
+ 80-95
+ 105-115
+Mat.organica (%)
+ 4.2
+ 1.4
+ 1.1
+ 0.2
+ 0.1
+N (%)
+ 0.16
+ 0.07
+ 0.05
+ 0.02
+ 0.02
+C/N
+ 15
+ 11
+ 13
+ 5
+ 2
+T < 2 u
+ 37.92
+ 49.05
+ 48.87
+ 46.02
+ 44.20
+E 2-20 u
+ 33.57
+ 32.08
+ 33.80
+ 30.04
+ 30.71
+X 2-50 u
+ 60.54
+ 50.07
+ 50.07
+ 53.27
+ 55.18
+T 50-100 u
+ 0.46
+ 0.27
+ 0.23
+ 0.28
+ 0.20
+U 100-500 u
+ 1.01
+ 0.57
+ 0.81
+ 0.41
+ 0.41
+R 500-1000 u
+ 0.07
+ 0.04
+ 0.02
+ 0.02
+ 0.01
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.24
+ 14.28
+ 14.61
+pH H2O
+ 6.5
+ 6.8
+ 7.2
+ 8.1
+ 8.2
+pH ClK
+ 5.9
+ 6.2
+ 6.5
+ 7.3
+ 7.4
+Conductividad (mmhos/cm)
+ 0.640
+ 1.086
+ 0.741
+ 0.764
+ 0.741
+Capacidad de intercambio
+Catiónico (meq/100 g) =
+Valor T
+ 35.03
+ 46.11
+ 43.21
+ 41.31
+ 39.20
+d
+Ca++
+ 27.24
+ 38.53
+ 36.24
+ -
+ -
+C
+e
+a
+Mg++
+ 2.37
+ 2.62
+ 3.75
+ -
+ -
+t
+c
+i
+a
+K+
+ 1.05
+ 1.34
+ 1.47
+ 1.27
+ 1.28
+o
+m
+n
+b
+Na+
+ 0.37
+ 0.62
+ 0.75
+ 0.77
+ 0.81
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+% Na/T
+ 1.06
+ 1.34
+ 1.73
+ 1.86
+ 2.07
+Equivalente de humedad (%)
+ 35.89
+ 48.94
+ 48.40
+ 44.64
+ 42.62
+Fósforo asimilable ppm
+ 8.03
+ 4.77
+ 4.58
+ 2.56
+ 2.49

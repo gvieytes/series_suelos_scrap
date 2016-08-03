@@ -1,0 +1,40 @@
+Serie_Monte_Alto.psv ->> ID..........................: 812
+Serie_Monte_Alto.psv ->> CLASIFICACION...............: Haplustol éntico
+Serie_Monte_Alto.psv ->> SERIE.......................: MONTE ALTO (MtAlt)
+Serie_Monte_Alto.psv ->> UBICACION...................: 5,9 Km al SSE de la localidad de Etruria, departamento General San martín
+Serie_Monte_Alto.psv ->> PROVINCIA...................: CORDOBA
+Serie_Monte_Alto.psv ->> LATITUD.....................: S315800
+Serie_Monte_Alto.psv ->> LONGITUD....................: O631100
+Serie_Monte_Alto.psv ->> ALTITUD.....................: 145
+Serie_Monte_Alto.psv ->> PENDIENTE...................: FALTA!
+Serie_Monte_Alto.psv ->> DRENAJE.....................: FALTA!
+Serie_Monte_Alto.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Monte_Alto.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Monte_Alto.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Monte_Alto.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Monte_Alto.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | c | ck
+Serie_Monte_Alto.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-22 | 22-50 | 50-75 | 75a+
+Serie_Monte_Alto.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,8 | 0,17 | - | -
+Serie_Monte_Alto.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,6 | 0,1 | - | -
+Serie_Monte_Alto.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,17 | 0,01 | - | -
+Serie_Monte_Alto.psv ->> HORIZONTE->RELACIÓN C/N.....: 9,4 | 10 | - | -
+Serie_Monte_Alto.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18,0 | 15,8 | 12,9 | 12,3
+Serie_Monte_Alto.psv ->> HORIZONTE->LIMO 2-50 (%)....: 55,2 | 55,9 | 54,7 | 54,3
+Serie_Monte_Alto.psv ->> HORIZONTE->AMF 50-100 (%)...: 24,1 | 27,9 | 30,4 | 31,0
+Serie_Monte_Alto.psv ->> HORIZONTE->AF 100-250 (%)...: 0,4 | 0,3 | 0,4 | 0,3
+Serie_Monte_Alto.psv ->> HORIZONTE->AM 250-500 (%)...: 0,0 | 0,0 | 0,3 | 0
+Serie_Monte_Alto.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,1 | 0,0 | 0,1 | 0,1
+Serie_Monte_Alto.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,0 | 0,0 | 0,0 | 0,0
+Serie_Monte_Alto.psv ->> HORIZONTE->CaCO 3 (%).......: 0,0 | 0,0 | 0,0 | 3,1
+Serie_Monte_Alto.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 20,9 | 18,1 | 16,0 | 14,9
+Serie_Monte_Alto.psv ->> HORIZONTE->PH PASTA.........: 5,9 | 6,4 | 7,0 | 7,9
+Serie_Monte_Alto.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,1 | 6,9 | 7,3 | 8,1
+Serie_Monte_Alto.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8,5 | 9,9 | 10,4 | 
+Serie_Monte_Alto.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,0 | 1,0 | 0,7 | 
+Serie_Monte_Alto.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2 | 0,2 | 0,2 | 0,5
+Serie_Monte_Alto.psv ->> HORIZONTE->CI ME/100G-K +...: 2,1 | 1,7 | 1,2 | 1,8
+Serie_Monte_Alto.psv ->> HORIZONTE->CI ME/100G-H +...: 2,4 | 0,9 | 0,5 | 
+Serie_Monte_Alto.psv ->> HORIZONTE->Na INTERC % (PSI): 1,4 | 1,5 | 1,5 | 4,3
+Serie_Monte_Alto.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11,8 | 12,8 | 12,5 | 
+Serie_Monte_Alto.psv ->> HORIZONTE->CIC ME/100G(T)...: 14,5 | 13,8 | 13,0 | 11,6
+Serie_Monte_Alto.psv ->> HORIZONTE->SAT.B % (S/T)....: 81,4 | 92,8 | 96,2 | 

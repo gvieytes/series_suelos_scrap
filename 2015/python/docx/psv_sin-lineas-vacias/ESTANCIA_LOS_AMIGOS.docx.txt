@@ -1,0 +1,211 @@
+--------------------------------------------------------------------------------
+SERIE ESTANCIA LOS AMIGOS Símbolo: ELAm
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados, con epipedón oscuro, franco, de 20-25 cm de espesor y presencia de arena fina en las caras de los agregados, con un horizonte argílico oscuro, franco-arcilloso, con abundantes caras de fricción y concreciones calcáreas a partir 50-60 cm, aumentando considerablemente en profundidad.
+Están desarrollados sobres sedimentos loessoides retransportados.
+Perfil tipo: ER1-140C
+Fecha: 03-XI-2002
+Ubicación: Estancia Los Amigos, 12 Km al sudoeste de Gilbert. (foto 423-27). Dto. San Antonio, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes
+A1: 00-21 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; presencia de arena fina en las caras de los agregados; límite abrupto, suave.
+B21t: 21-50 cm; negro (10YR 2/1) en húmedo; franco-arcillosa ; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; muy duro en seco, firme en húmedo; barnices ("clay-humic skins") comunes; cara de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso escasos finos y precisos; presencia de arena fina en las caras de los agregados; escasos rodados de hasta 5 mm; límite claro, suave.
+B22t: 50-76 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillosa; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; muy duro en seco, firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes a abundantes y gruesas; concreciones calcáreas escasas, finas; muy escasos carbonatos libres en la masa; moteados de hierro-manganeso comunes medios y precisos; presencia de arena fina en las caras de los agregados; escasos rodados; límite claro, ondulado.
+B3ca: 76-110 cm; pardo grisáceo oscuro (7.5YR 4/2) en húmedo; franco-arcillosa; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, gruesas; concreciones calcáreas abundantes, finas; abundante cantidad de carbonatos libres en la masa; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; presencia de arena fina en las caras de los agregados; límite gradual, ondulado.
+Cca: 110 cm +; pardo (7.5YR 5/4) en húmedo; franco-arcillosa; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") escasos; concreciones calcáreas comunes, finas; abundantes carbonatos libres en la masa; moteados de hierro-manganeso abundantes, gruesos y sobresalientes.
+Variabilidad de rasgos
+El solum tiene 110 cm o más. El epipedón mólico con un espesor que varía entre 20 y 25 cm tiene 21-22 % de arcilla y 39.4 % de arena; es de color oscuro y está bien estructurado.
+El horizonte argílico, con estructura prismática, tiene un espesor de entre 50-55 cm y normalmente, está mejor expresado en su parte inferior. Su porcentaje de arcilla es de alrededor del 28-34 %, y es denso, poco penetrable por las raíces, con escasas concreciones calcáreas.
+Fases
+No se describieron a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial muy lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+Serie Estancia Los Amigos tiene una erosión actual leve y corre moderado peligro de erosión en surcos.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Estancia Los Amigos
+ER1-140C
+N° de registro
+ 11078
+ 11079
+ 11080
+ 11081
+ 11082
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm
+ 05-15
+ 25-45
+ 55-70
+ 80-100
+ 135-145
+Mat.organica (%)
+ 3.65
+ 2.06
+ 2.10
+ 0.26
+ 0.22
+C (%)
+ 2.12
+ 1.20
+ 1.22
+ 0.26
+ 0.22
+N (%)
+ 0.174
+ 0.087
+ 0.076
+ 0.043
+ 0.017
+C/N
+ 12.18
+ 13.79
+ 16.05
+ 6.05
+ 12.94
+T <2
+ 21 32
+ 28.01
+ 34.55
+ 34.75
+ 35.28
+E 2-20
+ 20.72
+ 23.09
+ 21.91
+ 21.82
+ 22.05
+X 2-50
+ 35.37
+ 37.22
+ 33.73
+ 31.84
+ 39.66
+T 50-100
+ 0.71
+ 0.63
+ 0.39
+ 1.90
+ 1.14
+U 100-250
+ 39.40
+ 32.28
+ 29.89
+ 29.57
+ 22.88
+R 250-500
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 3.15
+ 1.80
+ 1.38
+ 1.80
+ 0.84
+ 1000-2000
+ 0.05
+ 0.06
+ 0.06
+ 0.14
+ 0.20
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 5.32
+ 9.10
+PH H2O
+ 6.6
+ 6.9.
+ 7.6
+ 8.5
+ 8.8
+PH ClK
+ 5.9
+ 5.7
+ 6.3
+ 7.2
+ 7.2
+Conductividad eléctrica mmhos/cm
+ 0.69
+ 0.20
+ 0.32
+ 0.23
+ 0.50
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 18.90
+ 22.01
+ 33.82
+ 34.96
+ 34.92
+C
+D
+Ca++
+ 12.76
+ 15.26
+ 26.14
+ -
+ -
+A
+E
+T
+Mg++
+ 2.90
+ 3.05
+ 4.16
+ -
+ -
+I
+C
+O
+A
+K+
+ 1.32
+ 1.40
+ 1.36
+ 1.38
+ 1.42
+N
+M
+E
+B
+Na+
+ 1.12
+ 1.22
+ 1.35
+ 1.70
+ 1.86
+S
+I
+O
+H+
+ 0.70
+ 0.90
+ 0.70
+ -
+ -
+% Na/T
+ 0.059
+ 0.055
+ 0.040
+ 0.049
+ 0.053
+Equivalente de humedad (%)
+ 23.68
+ 28.87
+ 35.33
+ 33.93
+ 37.10
+P disponible (ppm)
+ 11.40
+ 4.90
+ 3.90
+ 3.40
+ 2.70

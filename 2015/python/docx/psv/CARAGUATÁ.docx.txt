@@ -1,0 +1,313 @@
+
+--------------------------------------------------------------------------------
+SERIE CARAGUATÁ Símbolo: Cgt
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderado a imperfectamente drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico oscuro, arcillo-limoso, con moteados de hierro-manganeso y caras de fricción ("slickensides").
+Suelos desarrollados sobre materiales loessoides retransportados.
+
+
+Perfil tipo: ER7-90C
+Fecha: 10-XII-1993
+Ubicación: Establecimiento "El Caraguatá" (foto 429-98) - dto. Chilcas - Dpto. Victoria.
+Reconocedores: O.L. López; O.A. Foti.
+
+
+A11: 00-15 cm; gris muy oscuro (10YR 3/1) en húmedo; gris oscuro a pardo grisáceo (10YR 4/1.5) en seco; franco-limoso; estructura granular y bloques subangulares finos a medios, débiles; ligeramente duro en seco; friable en húmedo; barnices ("humic skins") escasos, finos; moteados de hierro-manganeso escasos, finos y débiles; krotovinas; límite claro, suave.
+
+A12: 15-25 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; pardo a pardo oscuro (10YR 4/2) en seco; franco-arcillo-limoso; estructura en bloques subangulares medios, débiles; ligeramente duro en seco; muy friable en húmedo; barnices ("clay humic skins") escasos, finos; poroso; límite abrupto, suave.
+
+B21t: 25-46 cm; gris muy oscuro a pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques subangulares y angulares medios, moderados; extremadamente duro en seco; friable en húmedo; barnices ("clay skins") escasos, finos; caras de fricción ("slickensides") escasas a abundantes, finas e intersectadas; moteados de hierro-manganeso comunes, precisos y medios; límite claro, ondulado.
+
+B22t: 46-80 cm; pardo muy oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques subangulares y angulares irregulares medios, moderados; extremadamente duro en seco; friable en húmedo; barnices ("clay skins") escasos a moderados; caras de fricción ("slickensides") finas e intersectadas; moteados de hierro-manganeso, comunes, medios y precisos; chorreaduras de materia orgánica por grietas; límite claro, suave.
+
+B3ca: 80-107 cm; pardo oscuro (7.5YR 4/2.5) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; duro en seco; friable en húmedo; caras de fricción ("slickensides") abundantes gruesas, no intersectadas; moteados de hierro-manganeso comunes, precisos y medios; concreciones de hierro-manganeso escasas y finas; concreciones calcáreas, comunes; miscelios de carbonatos de calcio; límite, difuso, ondulado.
+
+Ccag: 107 cm+; pardo (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; abundantes carbonatos libres en la masa; concreciones calcáreas escasas en forma de glébules blandas y duras; pseudo gley en el 70% de la matriz del horizonte.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos no se conoce.
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+
+
+Series similares y sus diferencias
+
+Se parece a la serie El Diecisiete (que tiene un B2t más arcilloso y está ubicada en distinto paisaje) y a la serie La Abadía (con un epipedón más somero y un horizonte subsuperficial más denso), ambas del Dpto. Victoria.
+
+
+Drenaje
+
+Suelo moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Caraguatá es susceptible a la erosión en forma laminar y en surcos, especialmente en los sectores cercanos a los planos algo cóncavos de los afluentes del arroyo del Doll.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Caraguatá
+
+ER7-90C
+N° de registro
+ 8.234
+ 8.235
+ 8.236
+ 8.237
+ 8.238
+ 8.239
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 02-12
+ 17-22
+ 30-40
+ 50-70
+ 85-100
+ 114-120
+Mat.organica (%)
+ 4.11
+ 3.09
+ 1.68
+ 1.04
+ 0.31
+ 0.26
+C (%)
+ 2.38
+ 1.78
+ 0.97
+ 0.60
+ 0.18
+ 0.15
+N (%)
+ 0.220
+ 0.152
+ 0.104
+ 0.074
+ 0.044
+ 0.029
+C/N
+ 11
+ 12
+ 9
+ 8
+ 4
+ 5
+
+Análisis granulométrico(textura)
+
+
+
+
+
+
+
+ < 2 u
+ 23.0
+ 32.0
+ 33.0
+ 32.0
+ 21.0
+ 21.0
+ 2-50 u
+ 70.9
+ 62.1
+ 62.3
+ 63.3
+ 74.0
+ 74.5
+ 50-500 u
+ 6.1
+ 5.9
+ 4.8
+ 4.7
+ 5.1
+ 4.6
+
+CO3Ca (%)
+
+ N.D.
+
+ N.D.
+
+ N.D.
+
+ N.D.
+
+N.D.
+
+N.D.
+PH H2O
+ 5.52
+ 5.76
+ 6.14
+ 7.05
+ 7.87
+ 8.04
+pH ClK
+ 5.24
+ 5.17
+ 5.23
+ 5.80
+ 6.77
+ 7.08
+
+Capacidad de intercambio
+catiónico (cmol/Kg)
+Valor T
+
+
+
+ 23.87
+
+
+
+ 26.83
+
+
+
+ 35.63
+
+
+
+ 32.11
+
+
+
+ 30.96
+
+
+
+ 31.53
+
+Valor S
+
+
+ 19.29
+
+ 22.12
+
+ 33.24
+
+ 30.28
+
+ 27.81
+
+ 29.32
+
+d
+Ca++
+ 13.92
+ 17.77
+ 26.98
+ 21.40
+ 19.43
+ 24.98
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 3.31
+ 2.35
+ 3.80
+ 6.21
+ 5.16
+ 1.03
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 0.99
+ 0.79
+ 0.95
+ 0.78
+ 0.77
+ 0.73
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.07
+ 1.21
+ 1.51
+ 1.89
+ 2.45
+ 2.58
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ 4.58
+ 4.71
+ 2.39
+ 1.83
+ 3.15
+ 2.21
+
+Equivalente de humedad (%)
+
+ N.D.
+
+ N.D.
+
+ N.D.
+
+ N.D.
+
+ N.D.
+
+ N.D.
+Fósforo asimilable (ppm P2O5)
+ 10.02
+ 5.53
+ 2.72
+ 2.37
+ 2.79
+ 5.04
+
+N.D = No determinado.
+

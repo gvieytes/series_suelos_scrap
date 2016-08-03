@@ -1,0 +1,276 @@
+
+--------------------------------------------------------------------------------
+SERIE LA HIERRA	 Símbolo: Hie
+
+
+Pertenece a la familia "fina, montmorillonítica térmica" de los Peludertes argiacuólicos.
+Son suelos oscuros, arcillosos; algo hidromórficos y con un buen epipedón mólico levemente lixiviado. Tienen gilgai lineal bien desarrollado, están ubicados sobre un paisaje ondulado y sustentan una buena pastura natural con monte muy abierto de ñandubay.
+En muchos perfiles pueden apreciarse granos de arena fina, incluso hasta el material originario. Pero en algunos suelos de esta unidad, la arena disminuye en profundidad. Tienen un epipedón de 20 - 40 cm de profundidad y horizontes de acumulación de arcilla (horizontes B2) con espesores que varían notablemente entre 40 y 75 cm. La profundidad del calcáreo se encuentra en algunos casos a 70 cm, pero generalmente las concreciones de carbonatos de calcio se hacen visibles a los 90 cm.
+Los limos calcáreos del material madre muestran muchas vetas oscurecidas y alargadas de los horizontes superiores (B2).
+
+
+Perfil tipo: ER3 - 43C
+Ubicación: 7 Km al SO de San Jaime.
+Reconocedores: R.E. Kleinerman; L.O. López
+
+
+A1: 00-20 cm; negro en húmedo (10 YR 2,5/1); franco limoso; estructura granular y bloques subangulares medios moderados; friable en húmedo; plástico y ligeramente adhesivo en mojado; no se aprecian generalmente concreciones; barnices de materia orgánica escasos y finos; moteados de hierro manganeso escasos, débiles y finos; límite claro suave.
+
+B21: 20-45 cm; negro (10 YR 2,5/1) en húmedo; arcillo limoso; estructura de prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares cuneiformes medios moderados; firme en húmedo; muy plástico y adhesivo en mojado; concreciones de hierro manganeso escasas; slickensides escasos, finos e intersectados; moteados de hierro manganeso escasos, débiles y finos; límite difuso y suave.
+
+B22: 45-95 cm; negro (10 YR 2,5/1) en húmedo; arcillo limoso; estructura de prismas compuestos irregulares medios moderados a débiles, que rompen en bloques cuneiformes y bloques angulares irregulares medios moderados; firme en húmedo; muy plástico y adhesivo en mojado; concreciones de hierro manganeso escasas; slickensides muy abundantes, finos e intersectados; moteados escasos, débiles y finos; límite gradual suave.
+
+B31ca: 95-125 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco arcilloso; estructura en bloques angulares irregulares cuneiformes, gruesos y débiles; firme en húmedo; muy plástico y adhesivo en mojado; abundantes concreciones de hierro manganeso y de calcio; slickensides abundantes, medios y poco intersectados; moteados escasos, débiles y finos; límite difuso.
+
+B32ca(g): 125-155 cm; pardo grisáceo a gris parduzco claro (10 YR 5,5/2) en húmedo; franco arcillo limoso; friable en húmedo; plástico y adhesivo en mojado; concreciones de hierro manganeso abundantes y de calcio muy abundantes de hasta 1 cm, slickensides escasos y finos; moteados comunes, precisos y finos.
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Drenaje
+
+Imperfecto a moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad lenta. Grupo hidrológico D.
+
+
+Erosión
+
+La serie La Hierra actualmente no presenta erosión hídrica y la susceptibilidad a la misma es moderada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Hierra
+
+ER3 - 43C
+
+
+
+
+
+Horizonte
+ A1
+ B21
+ B22
+ B31ca
+ B32ca(g)
+Profundidad (cm)
+ 5-15
+ 25-35
+ 50-70
+ 110-120
+ 135-155
+Mat.organica (%)
+ 5,02
+ 2,99
+ 2,13
+ 1,15
+ 0,10
+C (%)
+ 2,92
+ 1,74
+ 1,24
+ 0,67
+ 0,06
+N (%)
+ 0,237
+ 0,159
+ 0,120
+ 0,101
+ ND
+C/N
+ 12
+ 11
+ 10
+ 7
+ ND
+
+T
+ <2 u
+ 24,9
+ 42,4
+ 42,0
+ 32,0
+ ND
+E
+ 2-20 u
+ 35,5
+ 38,3
+ 35,0
+ 20,0
+ ND
+X
+ 2-50 u
+ 36,0
+ 16,2
+ 20,0
+ 44,4
+ ND
+T
+ 50-100 u
+ 0,5
+ 0,5
+ 0,5
+ 0,5
+ ND
+U
+ 100-250 u
+ 1,9
+ 1,5
+ 1,4
+ 1,5
+ ND
+R
+ 250-500 u
+ 1,1
+ 1,0
+ 0,9
+ 1,2
+ ND
+A
+ 500-1000 u
+ 0,2
+ 0,1
+ 0,2
+ 0,4
+ ND
+
+
+
+
+
+
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 1,2
+ 8,8
+% Saturación de Agua
+
+
+
+
+
+Equivalente de Humedad (%)
+ 29,7
+ 41,5
+ 45,4
+ 42,3
+ 48,4
+pH en pasta
+ 4,8
+ 5,4
+ 6,6
+ 7,4
+ 7,6
+PH H2O
+ 5,0
+ 5,5
+ 6,7
+ 7,4
+ 7,4
+pH ClK
+ 4,9
+ 5,2
+ 6,1
+ 6,8
+ 7,0
+Conductividad (mmhos/cm)
+
+
+
+
+
+Sales solubles grs (%)
+
+
+
+
+
+Resistencia de la pasta (Ohms/cm)
+
+
+
+
+
+
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 27,2
+ 37,3
+ 41,9
+ ND
+ ND
+
+Mg++
+ 2,5
+ 3,3
+ 3,0
+ ND
+ ND
+
+Na+
+ 0,3
+ 0,7
+ 1,2
+ 1,3
+ 1,4
+
+K+
+ 0,3
+ 0,6
+ 0,6
+ 0,5
+ 0,5
+Valor S (m.e./ 100 gr.)
+ 30,3
+ 41,9
+ 46,7
+ ND
+ ND
+H de cambio (m.e. / 100 gr.)
+ 9,6
+ 4,2
+ 2,3
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 35,7
+ 45,4
+ 49,0
+ 43,2
+ 45,0
+% de saturación de T
+ 85
+ 92
+ 95
+ ND
+ ND
+% de saturación de S + H
+
+
+
+
+
+% Na/T
+ 0,8
+ 1,5
+ 2,4
+ 3,0
+ 3,1
+

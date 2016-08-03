@@ -1,0 +1,346 @@
+
+--------------------------------------------------------------------------------
+SERIE LA CONCORDIA Símbolo: LCo
+
+
+Pertenece a la familia "fina, montmorillonítica, ligeramente alcalina, térmica" de los Peludertes árgicos.
+
+Muestra un microrrelieve gilgai no visible en el terreno pero sí muy tenue en la fotografía aérea y en el perfil. Está ligeramente erosionada y moderadamente bien drenada; tiene un epipedón oscuro franco-arcillo-limoso y un horizonte argílico arcillo-limoso y las concreciones calcáreas aparecen a los 65-70 cm de profundidad.
+
+Suelos desarrollados en materiales "limos calcáreos", franco-arcillo-limosos.
+
+
+Perfil tipo: ER1-105C
+Fecha: 26-VII-94
+Ubicación: Altamirano Norte (foto 441-20) - Dpto. Tala
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-12 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, moderados; duro en seco, firme en húmedo; barnices ("humic-skins") abundantes; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+A12: 12-21 cm; negro (10YR 2/1.5) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios, moderados; duro en seco, firme en húmedo; barnices ("humic skins") abundantes; concreciones calcáreas por actividad biológica; moteados de hierro-manganeso escasos, finos y precisos; presencia de termitas; límite abrupto, suave.
+
+B21t: 21-41 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y finas; moteados de hierro-manganeso escasos, finos y precisos; presencia de termes y durinódulos; presencia de material del horizonte C por actividad biológica; límite claro, suave.
+
+B22t: 41-67 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques cuneiformes gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y gruesas; moteados de hierro-manganeso escasos, finos y precisos; presencia de material del horizonte C por actividad biológica; límite gradual, suave.
+
+B31Ca: 67-110 cm; gris muy oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en bloques angulares irregulares y cuneiformes, gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y gruesas; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas, hasta 2 cm de diámetro, abundantes; moteados de hierro-manganeso comunes y precisos; límite difuso, suave.
+
+B32Ca: 110-140 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques cuneiformes gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes gruesas e intersectadas; escasa a moderada cantidad de carbonatos libres en la masa; concreciones calcáreas, duras y blandas, abundantes; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite difuso, claro.
+
+Cca: 140 cm +; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") escasas y gruesas; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas duras y blandas, abundantes; moteados de hierro-manganeso comunes, medios y sobresalientes.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción de las arcillas, que da lugar a la formación del microrrelieve gilgai (el que, sin embargo, no alcanza a ser muy visible en el terreno).
+
+En el bajo del gilgai el epipedón puede llegar a los 20-22 cm y está caracterizado por presentar un horizonte A11 y A12 con estructura granular y en bloques subangulares. Los porcentajes de arcilla en el bajo del gilgai varían en 44-45% para el epipedón y 49-50% para el argílico.
+
+El calcáreo aparece en el horizonte B3 aproximadamente entre los 65-70 cm de profundidad, en forma de concreciones de hasta 2 cm de diámetro y en forma de abundante cantidad de carbonatos libres.
+
+
+Fases
+
+No posee a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie San Julián I., pero ésta tiene arena en el perfil. También se parece a la serie El Triángulo, aunque ésta tiene un epipedón más arcilloso.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio a rápido. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Serie La Concordia tiene una moderada susceptibilidad a la erosión hídrica.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Concordia
+
+ER1-105C
+Nº de registro
+ 8.667
+ 8.668
+ 8.669
+ 8.670
+ 8.671
+ 8.672
+ 8.673
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B31ca
+ B32cA
+ Cca
+Profundidad (cm)
+ 0-12
+ 14-20
+ 23-38
+ 43-64
+ 69-108
+ 115-135
+ 150-160
+Mat.organica (%)
+ 6.24
+ 4.19
+ 2.69
+ 2.34
+ 1.42
+ 0.20
+ 0.22
+N (%)
+ 0.28
+ 0.21
+ 0.11
+ 0.08
+ 0.06
+ 0.04
+ 0.03
+C/N
+ 12
+ 11
+ 13
+ 15
+ 12
+ 4
+ 3
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 38.60
+ 39.12
+ 51.68
+ 49.45
+ 51.30
+ 49.75
+ 50.40
+E
+ 2-20 u
+ 27.06
+ 29.07
+ 26.77
+ 28.70
+ 26.90
+ 19.16
+ 22.82
+X
+ 2-50 u
+ 59.09
+ 58.79
+ 46.14
+ 48.39
+ 47.09
+ 46.25
+ 48.69
+T
+ 50-100 u
+ 0.44
+ 0.33
+ 0.49
+ 0.52
+ 0.20
+ 1.06
+ 0.11
+U
+ 100-500 u
+ 1.79
+ 2.02
+ 1.64
+ 1.59
+ 1.38
+ 2.62
+ 0.67
+R
+ 500-1000 u
+ 0.08
+ 0.07
+ 0.05
+ 0.05
+ 0.03
+ 0.32
+ 0.13
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.50
+ 0.63
+ vest.
+ vest.
+ 7.80
+ 1.26
+ 8.10
+pH H2O
+ 7.2
+ 7.4
+ 7.5
+ 7.6
+ 8.0
+ 7.7
+ 8.2
+pH ClK
+ 6.9
+ 6.9
+ 6.8
+ 6.9
+ 7.2
+ 7.0
+ 7.1
+C.E.(mmhos/cm)
+ 1.79
+ 0.99
+ 0.81
+ 0.77
+ 1.00
+ 0.89
+ 1.45
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 36.10
+ 39.20
+ 45.00
+ 40.40
+ 43.90
+ 37.0
+ 37.20
+
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 24.90
+ 26.30
+ 31.30
+ 27.50
+ ND
+ 26.10
+ ND
+C
+e
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 6.20
+ 6.80
+ 7.10
+ 6.90
+ ND.
+ 6.0
+ ND
+t
+c
+
+
+
+
+
+
+
+
+i
+a
+K+
+ 2.70
+ 3.20
+ 3.60
+ 3.30
+ 3.40
+ 2.70
+ 3.40
+o
+m
+
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.90
+ 2.10
+ 2.30
+ 2.70
+ 3.50
+ 2.10
+ 3.60
+e
+i
+
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 5.26
+ 5.35
+ 5.11
+ 6.68
+ 7.97
+ 5.67
+ 9.684
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 40.20
+ 41.74
+ 53.71
+ 52.15
+ 48.99
+ 47.34
+ 49.14
+
+ND: No determinado
+

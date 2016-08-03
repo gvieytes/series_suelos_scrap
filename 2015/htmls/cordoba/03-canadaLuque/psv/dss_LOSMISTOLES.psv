@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 300
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|ac|c|ck
+HORIZONTE->Profundidad de la muestra (cm): 0-23|23-46|46-75|75 a +
+HORIZONTE->Materia Orgánica (%): 4,2|1,7||
+HORIZONTE->Carbono Orgánico (%): 2,5|1,0||
+HORIZONTE->Nitrógeno total (%): |||
+HORIZONTE->Relación C/N: |||
+HORIZONTE->Arcilla, <2 u (%): 28,7|24,5|20,4|23,6
+HORIZONTE->Limo, 2-50 u (%): 64,2|67,1|69,6|67,0
+HORIZONTE->Arena muy fina, 50-100 u (%): 66,6|69,7|72,3|72,7
+HORIZONTE->Arena fina, 100-250 u (%): 1,7|1,8|1,9|2,3
+HORIZONTE->Arena media, 250-500 u (%): 0,7|0,8|0,8|1,1
+HORIZONTE->Arena gruesa, 500-1000 u (%): 0,7|0,7|0,8|1,2
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,2|0,2|0,2|0,3
+HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|1,4
+HORIZONTE->Equivalente de humedad (%): 29,2|25,6|25,0|24,8
+HORIZONTE->pH en pasta: |||
+HORIZONTE->pH en agua 1:2,5: 6,3|7,3|7,7|8,3
+HORIZONTE->Cationes de intercambio (me/100 gr)-Ca++: 13,8|14,9|14,5|
+HORIZONTE->Cationes de intercambio (me/100 gr)-Mg++: 1,2|1,5|2,3|
+HORIZONTE->Cationes de intercambio (me/100 gr)-Na+: 0,8|0,7|0,7|0,9
+HORIZONTE->Cationes de intercambio (me/100 gr)-K+: 4,7|2,6|1,7|2,1
+HORIZONTE->Cationes de intercambio (me/100 gr)-H+: |||
+HORIZONTE->Suma de bases, me/100 gr (S): 20,5|19,7|19,2|
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 23,9|20,3|19,2|20,0
+HORIZONTE->Saturación con bases, % (S/T): 85,8|97,0|100,0|100,0

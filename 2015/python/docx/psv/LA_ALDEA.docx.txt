@@ -1,0 +1,358 @@
+
+--------------------------------------------------------------------------------
+SERIE LA ALDEA Símbolo: Ald
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argialboles cumúlicos.
+Son suelos desarrollados en materiales limos-loessoides retransportados, muy profundos, imperfectamente drenados, con un epipedón oscuro que en su parte inferior está eluviado.
+El horizonte argílico es oscuro de textura arcillo-limosa, con caras de fricción y moteados de hierro-manganeso.
+Presenta escasas concreciones calcáreas a partir del horizonte B3ca (aprox.
+110 cm de profundidad)
+
+
+Perfil tipo: ER7-115C
+Fecha: 16-IV-1997
+Ubicación: Area muestra Aldea Santa María (foto IR 455-4) - Dpto. Paraná.
+Reconocedores: L.O.López; O.A.Foti
+
+
+A11: 00-30 cm; gris muy oscuro (10YR 3/2) en húmedo; gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; duro en seco y friable en húmedo; barnices ("clay-humic skins") comunes y ("clay skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; limite gradual, suave.
+
+A12: 30-50 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios, débiles; blando en seco y muy friable en húmedo; barnices ("clay-humic skins") comunes y ("clay skins") escasos; moteados de hierro-manganeso comunes, medios y precisos; poroso; límite abrupto, suave.
+
+A2: 50-61 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; franco-limoso; estructura granular y bloques subangulares medios, moderados; muy friable en húmedo; barnices ("humic skins") escasos; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso abundantes, medios y precisos; límite abrupto, suave.
+
+B21t: 61-90 cm; gris muy oscuro (10YR 3,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en prismas compuestos irregulares medios, moderados; extremadamente duro en seco y firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, finas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B22t: 90-110 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, débiles; duro en seco y firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes finas e intersectadas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso abundantes, medios y precisos; grietas que llegan a la base del A2; límite gradual, suave.
+
+B3ca: 110-140 cm; pardo (7,5YR 5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloque subangulares medios, moderados; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas; concreciones ferromanganesíferas escasas; escasos carbonatos libres en la masa; concreciones calcáreas escasas; presencia de materiales de horizontes superiores en las grietas; moteados de hierro-manganeso abundantes, medios y precisos; límite difuso, suave.
+
+Cca: 140 cm +: pardo (7,5YR 5/2) en húmedo; arcillo-limoso; masivo; friable en húmedo; concreciones ferromanganesíferas escasas; concreciones calcáreas escasas; escasos carbonatos libres en la masa; moteados de hierro-manganeso abundantes, medios y precisos.
+
+
+Variabilidad de rasgos
+
+El solum tiene más de 120 cm. El epipedón mólico incluye los horizontes A11-A12 cuyo espesor oscila entre 40-50 cm. En algunos casos la eluviación no es suficiente para formar un A2.
+
+El epipedón tiene estructura en bloques subangulares y angulares.
+
+El horizonte argílico con estructura en prismas compuestos, tiene un espesor de 50-55 cm y normalmente está mejor expresado en su parte inferior (B22t), con abundantes moteados de hierro-manganeso.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento superficial lento. Permeabilidad moderada. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+Serie La Aldea no tiene erosión actual ni potencial, pero tiene acumulación de materiales, producto de procesos erosivos en sectores más elevados.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Aldea
+
+ER7-115C
+
+
+
+
+
+
+
+Nº de registro
+ 1698
+ 1699
+ 1700
+ 1701
+ 1702
+ 1703
+ 1704
+Horizonte
+ A11
+ A12
+ A2
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-25
+ 35-42
+ 50-60
+ 65-82
+ 95-108
+ 115-130
+ 150-160
+Mat.organica (%)
+ 3.2
+ 3.9
+ 2.5
+ 1.6
+ 0.4
+ 0.3
+ 0.1
+N (%)
+ 0.14
+ 0.14
+ 0.09
+ 0.08
+ 0.04
+ 0.03
+ 0.04
+C/N
+ 13
+ 15
+ 16
+ 11
+ 6
+ 5
+ 1
+
+T
+
+ <2 u
+
+ 32.79
+
+ 28.97
+
+ 26.35
+
+ 42.06
+
+ 454.29
+
+ 44.98
+
+ 42.51
+E
+ 2-20 u
+ 32.37
+ 35.33
+ 35.48
+ 27.45
+ 24.90
+ 26.00
+ 28.99
+X
+ 2-50 u
+ 65.19
+ 66.86
+ 67.24
+ 54.89
+ 51.01
+ 51.72
+ 52.56
+T
+ 50-100 u
+ 0.75
+ 1.37
+ 2.62
+ 1.11
+ 2.22
+ 0.81
+ 1.31
+U
+ 100-500 u
+ 1.26
+ 2.79
+ 3.78
+ 1.93
+ 1.47
+ 2.48
+ 3.61
+R
+ 500-1000 u
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.23
+ 0.45
+pH H2O
+ 6.7
+ 6.7
+ 6.7
+ 6.8
+ 7.0
+ 7.7
+ 7.9
+pH ClK
+ 6.3
+ 5.7
+ 5.8
+ 5.5
+ 5.5
+ 6.3
+ 6.6
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+ 32.0
+
+
+ 28.4
+
+
+ 24.1
+
+
+ 37.5
+
+
+ 37.0
+
+
+ 38.0
+
+
+ 34.0
+
+
+
+
+
+
+
+
+ d Ca ++
+ 24.0
+ 19.8
+ 14.2
+ 24.8
+ 24.8
+ 29.5
+ N.D.
+C e
+
+
+
+
+
+
+
+Mg++
+ 3.2
+ 1.4
+ 1.6
+ 2.8
+ 4.0
+ 3.0
+ N.D.
+t C
+
+
+
+
+
+
+
+i a K+
+ 0.8
+ 0.3
+ 0.3
+ 0.9
+ 1.2
+ 1.2
+ 1.2
+o m
+
+
+
+
+
+
+
+n b Na+
+ 0.5
+ 0.5
+ 0.5
+ 0.7
+ 0.7
+ 0.8
+ 0.8
+e i
+
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.6
+ 1.8
+ 2.1
+ 1.9
+ 1.9
+ 2.1
+ 2.4
+
+Equivalente de humedad (%)
+
+ 32.25
+
+ 31.35
+
+ 20.00
+
+ 44.69
+
+ 48.10
+
+ 45.99
+
+ 10.15
+P asimilable (ppm)
+ 3.78
+ 3.77
+ 3.03
+ 3.02
+ 3.02
+ 2.33
+ 1.71
+

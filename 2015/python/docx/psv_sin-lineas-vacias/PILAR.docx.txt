@@ -1,0 +1,251 @@
+--------------------------------------------------------------------------------
+SERIE PILAR								 Símbolo: Pi
+Pertenece a la familia franco "fina, montmorillonítica térmica" de los Argiudoles vérticos (molisoles arenosos con características vérticas).
+Tienen un epipedón de aproximadamente 30 cm, y pueden llegar hasta 45 cm de profundidad, con buena estructura, de textura franca, oscuros y con gran cantidad de raíces. Hay evidencias de lixiviación por las caras de los agregados. El espesor del horizonte B2 varía entre 30 a 50 cm en general.
+La profundidad del calcáreo oscila entre 55 y 90 cm y las concreciones de hierro y manganeso en casi todos los perfiles se muestran desde la superficie pero desaparecen aproximadamente a los 90 cm de profundidad.
+Perfil tipo: ER3 - 64C
+Ubicación: 7 Km al E de San Jaime.
+Reconocedores: R.E. Kleinerman; L.O. López
+A1: 00-18 cm; gris muy oscuro (10 YR 3/1) en húmedo y gris oscuro a gris (10 YR 4,5/1) en seco; franco limoso; estructura granular y bloques subangulares medios y débiles; duro en seco, friable en húmedo, ligeramente plástico y no adhesivo en mojado; escasas concreciones de hierro y manganeso; vestigios de barnices de materia orgánica; moteados escasos, precisos y finos; horizonte lixiviado por caras de los agregados; límite gradual suave.
+B1: 18-27 cm; negro (10 YR 2,5/1) en húmedo; franco arcilloso; estructura de prismas compuestos irregulares con tendencia a bloques angulares irregulares cuneiformes, medios y débiles; duro en seco; friable en húmedo, ligeramente plástico y adhesivo en mojado; escasas concreciones de hierro y manganeso; barnices de materia orgánica escasos y de colores húmico-arcillosos abundantes; moteados escasos, precisos y finos; límite claro suave.
+B21: 27-52 cm, gris muy oscuro (10 YR 3/1) en húmedo; franco arcilloso; prismas compuestos irregulares gruesos moderados que rompen en prismas compuestos medios moderados; duro en seco, friable en húmedo, plástico y adhesivo en mojado, concreciones de hierro y manganeso abundantes, barnices de arcilla iluvial escasos; moteados escasos, débiles, finos; límite gradual suave.
+B22: 52-77 cm; negro (10 YR 2,5/1) en húmedo; franco arcilloso; estructura de prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares cuneiformes medios débiles; duro en seco; firme en húmedo; plástico muy adhesivo en mojado; abundantes concreciones de hierro y manganeso; escasos barnices de arcilla iluvial y escasos slickensides; moteados escasos, débiles y finos; límite gradual y suave.
+B31ca: 77-92 cm; gris muy oscuro a gris oscuro (10 YR 3,5/1) en húmedo; franco arcilloso; estructura de prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares cuneiformes medios moderados; duro en seco, firme en húmedo, plástico y muy adhesivo en mojado; abundantes concreciones de hierro y manganeso y de calcio; slickensides abundantes y gruesos; moteados escasos, débiles y finos; límite claro suave.
+B32ca: 92-110 cm; pardo (10 YR 5/3) en húmedo; franco arcillo limoso; estructura de prismas compuestos irregulares medios y débiles con tendencia a masivo; duro en seco, firme en húmedo; muy plástico y muy adhesivo en mojado; abundantes concreciones cálcicas y escasas de hierro manganeso; slickensides escasos; moteados abundantes, precisos y finos; límite claro suave.
+C: 110 cm en +; gris parduzco (7,5 YR 5,5/2) en húmedo; franco arcillo limoso; estructura masiva; firme en húmedo, muy plástico y muy adhesivo en mojado; escasas concreciones cálcicas, no se ven barnices, moteados abundantes, finos y precisos.
+Fases
+No se han descripto a escala de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Grupo hidrológico C.
+Erosión
+	La serie Pilar presenta erosión hídrica actual leve y la susceptibilidad a la misma es moderada.
+	
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Pilar
+ER3 - 64C
+Horizonte
+ A1
+ B1
+ B21
+ B22
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 00-18
+ 18-27
+ 27-52
+ 52-77
+ 77-92
+ 92-110
+ 110+
+Mat.organica (%)
+ 4,68
+ 3,06
+ 1,82
+ 1,41
+ 0,99
+ 0,45
+ 0,31
+C (%)
+ 2,72
+ 1,78
+ 1,06
+ 0,82
+ 0,58
+ 0,26
+ 0,18
+N (%)
+ 0,21
+ 0,14
+ 0,07
+ 0,05
+ 0,03
+ 0,02
+ 0,01
+C/N
+ 13
+ 13
+ 15
+ 16
+ 19
+ 13
+ 18
+T
+ <2 u
+ 25,38
+ 28,15
+ 32,3
+ 38,11
+ ND
+ 27,98
+ 33,17
+E
+ 2-20 u
+ 33,80
+ 28,11
+ 30,33
+ 28,90
+ ND
+ 25,88
+ 30,16
+X
+ 20-50 u
+ 24,33
+ 21,17
+ 16,84
+ 14,79
+ ND
+ 31,45
+ 25,07
+T
+ 50-100 u
+ 0,89
+ 1,17
+ 0,77
+ 0,33
+ ND
+ 0,39
+ 0,17
+U
+ 100-250 u
+ 13,95
+ 18,87
+ 17,65
+ 15,64
+ ND
+ 12,38
+ 9,86
+R
+ 250-500 u
+ 9,86
+A
+ 500-1000 u
+ 1,65
+ 2,43
+ 2,00
+ 2,10
+ ND
+ 1,80
+ 1,45
+ 1000-2000 u
+ 0,07
+ 0,10
+ 0,11
+ 0,13
+ ND
+ 0,12
+ 0,12
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ Vest.
+ 5,95
+ 9,92
+ 9,84
+% Saturación de Agua
+Equivalente de Humedad (%)
+pH en pasta
+PH H2O
+ 5,6
+ 5,3
+ 5,8
+ 6,4
+ 7,1
+ 7,2
+ 7,3
+pH ClK
+ 5,3
+ 5,0
+ 5,0
+ 5,8
+ 6,9
+ 7,0
+ 7,0
+Conductividad (mmhos/cm)
+Sales solubles grs (%)
+Resistencia de la pasta (Ohms/cm)
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 20,65
+ 22,61
+ 21,74
+ 30,00
+ ND
+ ND
+ ND
+Mg++
+ 0,22
+ 0,98
+ 2,72
+ 3,15
+ ND
+ ND
+ ND
+Na+
+ -
+ -
+ -
+ -
+ -
+ -
+ 1,72
+K+
+ 0,01
+ 0,01
+ 0,05
+ 0,05
+ 0,29
+ 0,32
+ 0,26
+Valor S (m.e./ 100 gr.)
+ 24,33
+ 25,10
+ 26,61
+ 34,00
+ ND
+ ND
+ ND
+H de cambio (m.e. / 100 gr.)
+ 36,00
+ 2,45
+ 2,17
+ 5,13
+ ND
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 27,93
+ 27,55
+ 28,78
+ 39,13
+ 39,49
+ 36,03
+ 35,50
+% de saturación de T
+ 87
+ 91
+ 92
+ 87
+ ND
+ ND
+ ND
+% de saturación de S + H
+% Na/T
+ -
+ -
+ -
+ -
+ -
+ -
+ 4,8
+Fósforo asimilable ppm
+ 5,8
+ 4,3
+ 3,4
+ 4,3
+ 4,9
+ 1,6
+ 1,6

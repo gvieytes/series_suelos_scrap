@@ -1,0 +1,266 @@
+--------------------------------------------------------------------------------
+SERIE DON RAMON Símbolo: DRm
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiacuólicos.
+Suelos profundos, imperfectamente drenados, con concreciones ferromanganesíferas y horizonte argílico oscuro, arcillo-limoso.
+Están desarrollados sobre materiales arcillo-limosos, con calcáreo en concreciones a partir de los 85-90 cm de profundidad.
+Rara vez presentan microrrelieve gilgai visible en el campo aunque se observa muy tenuemente en la fotografía aérea.
+Perfil tipo: ER1-110C
+Fecha: 02-VI-1999
+Ubicación: Ea. Don Ramón. (foto IR 452-8) Dto. Raíces Dpto. Villaguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+Ap: 00-20 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y granular, medios, moderados; firme en húmedo, duro en seco; barnices ("humic skins") abundantes; concreciones ferromanganesíferas escasas de hasta 3 mm de diámetro; moteados de hierro-manganeso, comunes, finos y precisos; límite abrupto, suave.
+B1: 20-34 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, fuertes; firme en húmedo, duro en seco; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso, escasos, finos y precisos; límite claro, suave.
+B21t: 34-54 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, fuertes; muy firme en húmedo, muy duro en seco; caras de fricción ("slickensides") abundantes, finas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+B22t: 54-85 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques cuneiformes, medios, fuertes; muy firme en húmedo, muy duro en seco; caras de fricción ("slickensides") abundantes, gruesas e intersectadas; moteados de hierro-manganeso escaso, finos, débiles; límite gradual, ondulado.
+B31: 85-123 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques angulares irregulares y cuneiformes, medios, débiles; friable en húmedo, duro en seco; caras de fricción ("slickensides") comunes, medias e intersectadas; concreciones calcáreas, escasas, finas y carbonatos libres en la masa escasos; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+B32ca: 123-140 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares, irregulares y cuneiformes, medios, débiles; friable en húmedo, ligeramente duro en seco; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas, finas; concreciones calcáreas comunes y carbonatos libres en la masa abundantes; concreciones ferromanganesíferas escasas a comunes; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+Cca: 140 cm +; pardo grisáceo (7,5YR 5/2) en húmedo; arcillo-limoso; estructura en bloque angulares, irregulares, gruesos, débiles, friable en húmedo, ligeramente duro en seco; barnices ("clay-skins") escasos a comunes; caras de fricción ("slickensides") escasas a comunes, concreciones calcáreas abundantes, finas y medias, carbonatos libres en la masa abundantes; moteados de hierro-manganeso comunes, finos y sobresalientes.
+Variabilidad de rasgos
+El solum varía de 140-150 cm de profundidad. El epipedón mólico está constituido por un horizonte A1 o Ap y B1 y tiene un espesor de 18-20 cm, es de textura franco-arcillo-limosa y de color oscuro. El horizonte argílico de más de 50 cm de espesor tiene alrededor de 47-49 % de arcilla. El calcáreo aparece a los 85-90 cm aproximadamente aumentando considerablemente en profundidad.
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial muy lento. Permeabilidad moderadamente lenta. Capa freática poco profunda. Grupo hidrológico D.
+Erosión
+La serie Don Ramón no está erosionada pero tiene un ligero peligro de erosión en forma laminar, fundamentalmente en áreas bajo uso agrícola intensivo.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Don Ramón
+ER1-110C
+Nº de registro
+ 4.168
+ 4.169
+ 4.170
+ 4.171
+ 4.172
+ 4.173
+ 4.174
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B31
+ B32ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 23-30
+ 36-50
+ 58-80
+ 88-100
+ 125-137
+ 140-155
+Mat.organica (%)
+ 6.8
+ 5.2
+ 2.9
+ 2.6
+ 1.1
+ 0.7
+ 0.3
+N (%)
+ 0.33
+ 0.23
+ 0.11
+ 0.09
+ 0.04
+ 0.04
+ 0.02
+C/N
+ 12
+ 13
+ 15
+ 15
+ 14
+ 10
+ 10
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 37.43
+ 40.25
+ 48.95
+ 47.99
+ 45.50
+ 43.12
+ 42.50
+E
+ 2-20 u
+ 36.06
+ 33.47
+ 34.84
+ 36.85
+ 38.95
+ 40.11
+ 41.20
+X
+ 2-50 u
+ 60.89
+ 57.83
+ 49.98
+ 50.95
+ 53.19
+ 55.91
+ 56.81
+T
+ 50-100 u
+ 0.62
+ 0.60
+ 0.44
+ 0.31
+ 0.49
+ 0.31
+ 0.24
+U
+ 100-500 u
+ 1.01
+ 1.29
+ 0.60
+ 0.72
+ 0.80
+ 0.64
+ 0.44
+R
+ 500-1000 u
+ 0.05
+ 0.03
+ 0.03
+ 0.03
+ 0.02
+ 0.02
+ 0.01
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 0.94
+ 10.3
+ 14.7
+pH H2O
+ 6.1
+ 6.5
+ 6.8
+ 7.1
+ 7.8
+ 8.2
+ 8.5
+pH ClK
+ 5.2
+ 5.7
+ 5.6
+ 5.9
+ 6.7
+ 7.0
+ 7.2
+C.E.(mmhos/cm)
+ 0.808
+ 0.485
+ 0.355
+ 0.358
+ 0.762
+ 0.546
+ 0.554
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 36.42
+ 37.61
+ 43.35
+ 42.23
+ 40.78
+ 39.94
+ 38.65
+d
+Ca++
+ 28.82
+ 31.50
+ 38.45
+ 37.25
+ 36.42
+ ND
+ ND
+C
+e
+a
+Mg++
+ 2.49
+ 2.67
+ 2.58
+ 2.12
+ 1.18
+ ND
+ ND
+t
+c
+i
+a
+K+
+ 1.12
+ 1.11
+ 1.28
+ 1.60
+ 1.28
+ 1.01
+ 0.92
+o
+m
+n
+b
+Na+
+ 0.52
+ 0.57
+ 0.65
+ 0.92
+ 1.25
+ 2.05
+ 2.12
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.43
+ 1.51
+ 1.50
+ 2.18
+ 3.06
+ 5.13
+ 5.48
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 35.11
+ 38.32
+ 50.97
+ 50.71
+ 47.52
+ 45.01
+ 44.39
+Fósforo asimilable (ppm)
+ 31.71
+ 17.72
+ 4.98
+ 4.33
+ 3.05
+ 2.40
+ 1.94
+ND: No determinado

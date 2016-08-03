@@ -1,0 +1,264 @@
+
+--------------------------------------------------------------------------------
+SERIE YUQUERÍ GRANDE Símbolo: YG
+
+
+Pertenece a la familia "no ácida, térmica" de los Cuarzisamentes óxicos (suelo aluvial antiguo, arenoso, rojizo).
+
+Son suelos muy arenosos (poseen más del 80 % de esta fracción mineral), de característico color rojizo o rojo amarillento que yacen sobre materiales más arcillosos que se encuentran a más de 120 cm de profundidad, siendo común encontrarlos también hasta los 200 cm de profundidad.
+
+En algunos casos constituyen verdaderos médanos.
+
+
+Perfil tipo: ER2-46C
+Fecha: 2-VI-72.
+Ubicación: EEA INTA Concordia (foto IR164-8) - Dpto. Concordia.
+Reconocedores: W.H. Perilli; G.W. van Barneveld.
+
+
+Ap: 00-17 cm; (5YR 4/8) en húmedo; areno-gruesa; estructura en grano simple; suelto; krotovinas; manchas de materia orgánica; límite claro, ondulado.
+
+AC: 17-46 cm; (5YR 4/8) en húmedo; areno-gruesa; estructura en grano simple; suelto; krotovinas 5-6 cm; límite difuso, suave.
+
+C1: 46-125 cm; (5YR 4/8) en húmedo; areno-gruesa; estructura en grano simple; suelto; krotovinas 5-6 cm; límite difuso, suave.
+
+C2: 125-180 cm; (7,5YR 5/7) en húmedo; areno-gruesa; estructura en grano simple; suelto; 5% de cantos rodados; límite gradual.
+
+II: 180 cm+; (2,5YR 3/6) en húmedo; franco-arcillo-arenosa; estructura masiva; firme en húmedo; moteados profusos; concreciones de manganeso comunes; 15% de cantos rodados.
+
+
+Variabilidad de rasgos
+
+Los suelos de esta serie son muy arenosos, se componen fundamentalmente de capas con características similares pero de colores cada vez más rojizos en profundidad. Por lo general, tienen un A1 o Ap de 15-17 cm de espesor, más oscuro debido al contenido más elevado de materia orgánica, única característica que lo diferencia de las restantes capas ya que -textural y estructuralmente- son similares.
+
+Los porcentajes de arcilla en los distintos horizontes oscilan entre 7-10 %. Predominan arenas finas y medias y la cantidad de limo es despreciable (3%). Tienen muy baja capacidad de intercambio catiónico (1,2 a 3 %).
+
+En todo el perfil es común encontrar cantos rodados, que se hacen más abundantes en el límite de la capa II. Los materiales de esta capa son muy rojizos, franco-arcillo-arenosos, con cantos rodados que se distribuyen erráticamente en toda la masa, conformando en ciertos casos verdaderos lentes.
+
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Yuquerí Chico (Udifluventes óxicos) pero en ésta los materiales arcillosos aparecen a menores profundidades (menos de 100 cm).
+
+
+Drenaje
+
+Bien a excesivamente drenado; escurrimiento superficial moderado. Permeabilidad moderada. Napa freática profunda. Grupo hidrológico B
+
+
+Erosión
+
+Serie Yuquerí Grande no presenta erosión hídrica actual, y existe una leve susceptibilidad a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Yuquerí Grande
+
+ER2-46C
+
+
+
+
+N° de registro
+ 907
+ 908
+ 909
+ 910
+Horizonte
+ Ap
+ AC
+ C1
+ C2
+Profundidad (cm)
+ 05-16
+ 28-42
+ 65-85
+ 140-160
+Mat.organica (%)
+ 0,42
+ 0,21
+ 0,17
+ 0,00
+N (%)
+ -
+ -
+ -
+ -
+C/N
+ -
+ -
+ -
+ -
+
+T
+ <2 u
+
+ 7,30
+
+ 8,30
+
+ 7,60
+
+ 7,00
+E
+ 2-20 u
+ 0,80
+ 1,80
+ 2,00
+ 0,50
+X
+ 2-50 u
+ 2,70
+ 2,50
+ 3,00
+ 1,50
+T
+ 50-100 u
+ 1,00
+ 0,90
+ 1,00
+ 0,80
+U
+ 100-250 u
+ 41,60
+ 41,60
+ 42,00
+ 45,00
+R
+ 250-500 u
+ 44,70
+ 44,60
+ 45,20
+ 44,50
+A
+ 500-1000 u
+ 2,70
+ 2,10
+ 1,20
+ 1,20
+ Gravas
+ 1,10
+ 1,40
+ 0,50
+ 1,30
+
+CO3Ca (%)
+
+ 0,0
+
+ 0,0
+
+ 0,0
+
+ 0,0
+pH H2O
+ 5,4
+ 5,6
+ 5,6
+ 5,7
+pH ClK
+ 4,4
+ 4,4
+ 4,4
+ 4,8
+
+Capacidad de intercambio catiónico
+(m.e./100 g) =
+ Valor T
+
+ 1,22
+
+ 1,02
+
+ 1,02
+
+ 0,61
+
+d
+Ca++
+ 0,16
+ 0,16
+ 0,16
+ 0,19
+C
+e
+
+
+
+
+
+a
+
+Mg++
+ 0,11
+ 0,07
+ 0,04
+ 0,19
+t
+c
+
+
+
+
+
+i
+a
+K+
+ 0,10
+ 0,06
+ 0,04
+ 0,02
+o
+m
+
+
+
+
+
+n
+b
+Na+
+ 0,06
+ 0,05
+ 0,07
+ 0,13
+e
+i
+
+
+
+
+
+s
+o
+H+
+ 1,20
+ 0,80
+ 1,20
+ 0,40
+% Na/T
+ 4,92
+ 4,90
+ 6,86
+ 21,31
+
+Equivalente de humedad (%)
+
+ 1,9
+
+ 1,7
+
+ 1,7
+
+ 1,8
+Saturación con bases, (%) (S/T)
+ 26,0
+ 30,0
+ 20,0
+ 46,0
+

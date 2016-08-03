@@ -1,0 +1,316 @@
+
+--------------------------------------------------------------------------------
+SERIE PEDRO VEGA Símbolo: PVg
+
+
+Pertenece a la familia "fina, montmorillonitica, térmica" de los Peludertes argiudólicos.
+Suelos imperfecta a moderadamente bien drenados, con horizontes de colores oscuros y un horizonte argílico denso, desarrollados sobre limos calcáreos arcillo-limosos con moderada cantidad de carbonatos.
+
+Presentan un microrelieve gilgai lineal, poco visible en el terreno. El calcáreo, en forma de concreciones finas, aparece a partir de los 85-90 cm de profundidad.
+
+
+Perfil tipo: ER7-135C
+Fecha: 14-VI-00
+Ubicación: Campo sucesión Vizconti. 800 m ENE de Zenón Roca (foto IR 157-19). Dpto Villaguay.
+Reconocedores: O.A. Foti; L.O. Lopez
+
+
+A1: 00-18 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; firme en seco y friable en húmedo; barnices ("clay-humic skins") comunes ("clay skins") escasos; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B1: 18-26 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; firme en seco y friable en húmedo; barnices ("clay-humic skins") y ("clay skins") comunes; concreciones ferromanganesíferas escasas; moteados de hierro manganeso, comunes, medios y precisos; límite gradual, suave.
+
+B21t: 26-55 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares, medios, débiles; extremadamente duro en seco, firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes, finas e intersectadas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso vestigios; límite claro suave.
+
+B22t: 55-86 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, moderados; extremadamente duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas e intersectadas; concreciones ferromanganesíferas vestigios; moteados de hierro-manganeso comunes, medios, precisos; límite gradual, ondulado.
+
+B3ca: 86-112cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares medios, débiles; extremadamente duro en seco, friable en húmedo; caras de fricción ("slickensides") comunes, gruesas; abundantes carbonatos libres en la masa; concreciones calcáreas comunes, finas; moteados de hierro-manganeso abundantes, medios y precisos; limite gradual, suave.
+
+
+
+Cca: 112 cm +; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; masivo; firme en seco, friable en húmedo; comunes carbonatos libres en la masa; concreciones calcáreas comunes; moteados de hierro-manganeso abundantes, medios y precisos. Presencia de pseudogley.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 100-120 cm de espesor. El epipedón posee entre 20-30 cm y está compuesto generalmente de un A1 y B1. Un factor que incide en forma determinante en esta serie, es el grado de erosión laminar, a la que es muy susceptible.
+
+En algunos perfiles se ha observado la presencia de un horizonte B23.Cabe mencionar que al describir este perfil, se lo encontró muy mojado, por haber almacenado durante los cinco primeros meses un total de 1.100 mm de agua, por las intensas lluvias en la zona, lo que determina que muchas de las características estén enmascaradas por la humedad.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Pedro Vega es muy susceptible a la erosión hídrica, principalmente en forma laminar.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Pedro Vega
+
+ER7-135C
+Nº de registro
+ 5.165
+ 5.166
+ 5.167
+ 5.168
+ 5.169
+ 5.170
+Horizonte
+ A1
+ B1
+ B21
+ B22
+ B3
+ Cca
+Profundidad (cm)
+ 02-15
+ 20-25
+ 35-50
+ 60-80
+ 90-105
+ 120-140
+Mat.organica (%)
+ 5.7
+ 4.9
+ 2.9
+ 2.1
+ 1.0
+ 0.3
+N (%)
+ 0.29
+ 0.22
+ 0.11
+ 0.07
+ 0.04
+ 0.02
+C/N
+ 11
+ 13
+ 16
+ 16
+ 9
+ 7
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 34.68
+ 39.32
+ 37.90
+ 40.77
+ 46.91
+ 44.91
+E
+ 2-20 u
+ 34.98
+ 29.57
+ 31.60
+ 35.16
+ 27.75
+ 29.01
+X
+ 2-50 u
+ 64.32
+ 37.83
+ 60.98
+ 58.35
+ 52.37
+ 54.76
+T
+ 50-100 u
+ 0.61
+ 0.37
+ 0.51
+ 0.32
+ 0.25
+ 0.17
+U
+ 100-500 u
+ 0.35
+ 0.45
+ 0.59
+ 0.54
+ 0.45
+ 0.15
+R
+ 500-1000 u
+ 0.04
+ 0.03
+ 0.02
+ 0.02
+ 0.02
+ 0.01
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 9.17
+ 9.38
+pH H2O
+ 6.5
+ 6.5
+ 6.8
+ 7.2
+ 8.3
+ 8.4
+pH ClK
+ 5.3
+ 5.3
+ 5.6
+ 5.8
+ 7.0
+ 7.0
+C.E.(mmhos/cm)
+ 0.374
+ 0.289
+ 0.296
+ 0.347
+ 0.655
+ 0.678
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 38.39
+ 40.10
+ 36.14
+ 39.47
+ 43.99
+ 42.11
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 30.62
+ 30.80
+ 29.75
+ 35.82
+ ND
+ ND
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 1.40
+ 1.98
+ 2.36
+ 2.79
+ ND
+ ND
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 0.87
+ 0.80
+ 0.76
+ 0.36
+ 0.46
+ 0.46
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.50
+ 0.42
+ 0.43
+ 0.50
+ 1.50
+ 2.27
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 1.30
+ 1.05
+ 1.19
+ 1.27
+ 3.41
+ 5.39
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 36.96
+ 37.89
+ 40.00
+ 42.76
+ 44.31
+ 46.15
+
+Fósforo asimilable (ppm)
+ 7.1
+ 5.5
+ 3.3
+ 3.2
+ 3.0
+ 3.0
+
+ND: No determinado
+

@@ -1,0 +1,247 @@
+--------------------------------------------------------------------------------
+SERIE EL REPOSO Símbolo: ERe
+Pertenece a la familia "franca fina, silícea, térmica" de los Hapludoles fluvénticos.
+Es un suelo no sódico ni salino desarrollado sobre materiales eólicos y fluviales.
+Perfil tipo: 313C
+Fecha: 22-III-1976
+Ubicación: 5 km al N de la localidad de Ibicuy (Hoja IGM 3360-35-2) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+A11: 0-14 cm; negro pardusco (10YR 2/3) en húmedo; franco-arenoso; estructura en bloques subangulares finos y muy finos moderados que rompen a granular; friable; no plástico, no adhesivo; raíces abundantes; límite inferior claro, suave.
+A12: 14-34 cm; pardo muy oscuro. (7,5YR 2/3) en húmedo; franco-arenoso; estructura en bloques subangulares medios moderados que rompen en bloques menores; friable; no plástico, no adhesivo; raíces abundantes; límite inferior claro, suave.	
+IIC1: 34-45 cm; negro pardusco (7,5YR 3/2) en húmedo; franco-arcillo-arenoso; estructura en prismas medios moderados, que rompen en bloques angulares medios y finos; firme; plástico, adhesivo; barnices (clay skins) escasos; raíces comunes; límite inferior abrupto, ondulado.
+IIIC2: 45-57 cm; pardo oscuro (7,5YR 3/4) en húmedo; areno-franco; masivo; muy friable; no plástico, no adhesivo; raíces comunes; límite inferior claro, suave.
+IVC3: 57-65 cm; pardo muy oscuro (7,5YR 2/3) en húmedo; franco-arcillo-arenoso; estructura en bloques angulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; moteados comunes, medios y precisos de color pardo (7,5YR 4/6); raíces escasas; límite inferior abrupto, suave.
+IVC4: 65-107 cm; pardo amarillento opaco (10YR 4/3) en húmedo; franco-arcillo-arenoso; estructura en bloques angulares medios modera dos que rompen en bloques menores; firme; plástico, adhesivo; moteados abundantes, medios, sobresalientes de color pardo (7,5YR 4/6); raíces escasas; límite inferior claro, suave.
+VC5: 107-118 cm; gris claro (10YR 8/2) en húmedo; areno-franco; masivo; muy friable; no plástico, no adhesivo; moteados escasos, finos, débiles de color pardo (10YR 4/6); límite inferior abrupto, suave.
+VIC6: 118-152 cm; gris claro (10YR 7/2) en húmedo; arenoso; masivo; muy friable; no plástico, no adhesivo; moteados abundantes, gruesos, precisos, de color pardo (7,5YR 4/6); límite inferior abrupto, suave.
+VIIC7: 152-162 cm; pardo rojizo opaco (5YR 4/4) en húmedo; franco-arenoso; estructura en bloques subangulares débiles; friable, no plástico, no adhesivo; límite inferior abrupto, suave.
+VIIIC8: 162-172 cm; anaranjado (7,5YR 6/8) en húmedo; franco arenoso; masivo; friable; no plástico, no adhesivo; límite inferior abrupto, suave.
+IXC9: 172-182 cm; anaranjado opaco (7,5YR 6/4) en húmedo; franco-arenoso; estructura en bloques subangulares débiles; ligeramente friable; ligeramente plástico, ligeramente adhesivo.
+Variabilidad de rasgos
+El horizonte superficial es de 14 cm de espesor, de color negro pardusco, regularmente provisto de materia orgánica, franco arenoso y de estructura en bloques subangulares medios moderados; sigue una sucesión de capas alternantes de textura franco arcillo arenosa y areno franco, de estructura en bloques débiles y masiva respectivamente. Los moteados se presentan a partir de la capa IVC3.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Es un suelo de permeabilidad moderadamente lenta y moderadamente bien drenado y sin peligro de inundación.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie El Reposo
+313C INTA Castelar
+N° de registro
+Horizonte
+ A11
+ A12
+ IIC1
+ IIIC2
+ IVC3
+ IVC4
+Profundidad (cm)
+ 5-10
+ 20-30
+ 36-42
+ 48-55
+ 58-64
+ 70-100
+Mat. orgánica (%)
+ 1.9
+ 1.13
+ 0.43
+ 0.39
+ 0.74
+ -
+C (%)
+ 1.05
+ 0.66
+ 0.25
+ 0.23
+ 0.47
+ -
+N (%)
+ 0.138
+ 0.088
+ -
+ -
+ 0.052
+ -
+C/N
+ 8
+ 7
+ -
+ -
+ 9
+ -
+T <2 u
+ 15.4
+ 14.9
+ 25.3
+ 11.2
+ 22.6
+ 24.4
+E 2-20 u
+ 11.1
+ 10.3
+ 10.4
+ 1.5
+ 2.7
+ 4.8
+X 2-50 u
+ 14.1
+ 13.6
+ 12.5
+ 4.2
+ 6.8
+ 9.3
+T 50-74 u
+ 0.8
+ 1.3
+ 0.4
+ 0.2
+ 0.4
+ 4.0
+U 74-100 u
+ 2.6
+ 2.6
+ 1.2
+ 0.6
+ 1.0
+ 11.0
+R 100-250 u
+ 48.7
+ 46.5
+ 45.4
+ 67.2
+ 60.4
+ 42.8
+A 250-500 u
+ 16.9
+ 20.6
+ 14.3
+ 16.2
+ 8.0
+ 8.3
+ 500-1000 u
+ 1.5
+ 0.5
+ 0.9
+ 0.4
+ 0.8
+ 0.2
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 12.6
+ 12.0
+ 17.3
+ 5.4
+ 16.8
+ 18.2
+Resist. de la pasta (Ohms/cm)
+ 5280
+ 9240
+ 6402
+ 15180
+ 5016
+ 3505
+pH en pasta
+ 5.1
+ 4.8
+ 5.0
+ 5.4
+ 5.5
+ 5.7
+pH en agua (1:2,5)
+ 6.0
+ 6.0
+ 6.3
+ 6.5
+ 6.9
+ 7.2
+pH en KCl (1:2,5)
+ 4.7
+ 4.0
+ 4.2
+ 4.4
+ 4.5
+ 4.8
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+ -
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ 3.9
+ 3.3
+ 7.1
+ 2.15
+ 7.0
+ 7.1
+Mg++
+ 0.8
+ 2.1
+ 4.6
+ 1.05
+ 4.5
+ 5.3
+Na[+]
+ 0.3
+ 0.3
+ 0.5
+ 0.10
+ 0.4
+ 0.5
+K[+]
+ 0.7
+ 0.8
+ 1.0
+ 0.10
+ 0.7
+ 0.8
+H[+]
+ 8.5
+ 9.5
+ 9.0
+ 2.40
+ 7.1
+ 5.7
+Na+ % del valor T
+ 3
+ 3
+ 4
+ 2
+ 3
+ 3
+Suma de bases, m.e./100 gr (S)
+ 5.7
+ 6.5
+ 13.2
+ 3.40
+ 12.6
+ 13.7
+C.I.C., m.e./100 gr (T)
+ 8.8
+ 9.0
+ 16.3
+ 4.10
+ 14.2
+ 15.7
+Saturación con bases, (%) (S/T)
+ 65
+ 72
+ 81
+ 83
+ 89
+ 87

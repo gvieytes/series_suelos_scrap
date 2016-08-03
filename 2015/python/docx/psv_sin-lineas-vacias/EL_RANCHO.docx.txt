@@ -1,0 +1,227 @@
+--------------------------------------------------------------------------------
+SERIE EL RANCHO Símbolo: Rch
+Pertenece a la familia "fina, levemente alcalina y térmica" de los Peludertes argiacuólicos (vertisol muy oscuro con B2t y epipedón mólico).
+Suelos profundos, moderada a imperfectamente drenados, con concreciones de hierro-manganeso desde la superficie, un epipedón franco-limoso a franco-arcillo-limoso y un horizonte argílico oscuro, arcillo-limoso, con abundantes caras de fricción ("slickensides") y calcáreo a partir de los 60-70 cm.
+Tienen microrrelieve gilgai bien desarrollado, con ciclos de 4-5 m, visible en el campo y en la fotografía aérea. Son suelos desarrollados sobre materiales limos calcáreos de textura arcillo-limosa.
+Perfil tipo: ER7-33C
+Fecha: 23-IX-1982
+Ubicación: Ea. "San José" (foto 173-64) - Dpto. Federal.
+Reconocedores: L.O. López; R.H. Fuentes; O.A. Foti.
+A11: 00-11 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y granular medios, moderados; friable en húmedo, ligeramente duro en seco; barnices ("humic skins") abundantes; concreciones de hierro-manganeso escasas; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+A12: 11-28 cm; gris muy oscuro a pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, moderados; friable en húmedo, ligeramente duro en seco; barnices ("clay humic skins") abundantes; moteados escasos, concreciones de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+B21t: 28-47 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques subangulares y cuneiformes medios, fuertes; muy firme en húmedo, muy duro en seco; barnices ("clay skins") abundantes; caras de fricción ("slickensides"), finas e intersectadas; moteados de hierro-manganeso escasos, finos y precisos; concreciones de hierro-manganeso abundantes; límite gradual, ondulado.
+B22t: 47-65 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques cuneiformes medios, fuertes; firme en húmedo, extremadamente duro en seco; caras de fricción ("slickensides") abundantes, finos e intersectadas; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso abundantes; límite gradual, ondulado.
+B3ca: 65-85 cm; pardo grisáceo muy oscuro a pardo muy oscuro (10YR 3.5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques cuneiformes medios, fuertes; firme en húmedo, duro en seco; caras de fricción ("slickensides") abundantes, gruesas; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; concreciones de hierro-manganeso gruesas; carbonatos de calcio libre en la masa abundantes, concreciones calcáreas abundantes; límite difuso, ondulado.
+Cca: 85 cm +; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares gruesos, moderados; friable en húmedo y generalmente duro en seco; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; concreciones calcáreas abundantes, duras y blandas; cristales de sulfato de calcio escasos; carbonatos de calcio libre en la masa abundantes; gley fósil.
+Variabilidad de rasgos
+El epipedón está compuesto normalmente de un horizonte A11 + A12 ó A1 + B1 cuyo espesor varía entre 20-35 cm, de textura franco limosa a franco-arcillo-limosa.
+El B2t varía entre 35-60 cm de espesor debido al fenómeno de movimiento en masa; con estructura fuerte compuesta de prismas compuestos irregulares y bloques cuneiformes; el calcáreo aparece normalmente entre 70-80 cm en forma abundante.
+Fases
+No posee a este nivel de reconocimiento.
+Series similares y sus diferencias
+La serie el Rancho se parece a la serie Avigdor, pero ésta posee tenores de arcilla más altos desde superificie y se ubica en otro paisaje (El Rancho es algo más hidromórfico). También es parecido a la serie Ramblones, pero ésta es más arcillosa a partir del B2t y a la serie Federal que posee otro paisaje con gilgai irregular.
+Drenaje
+Moderado a imperfectamente drenado. Escurrimiento superficial medio. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie El Rancho presenta erosión hídrica en forma leve y en las cabeceras de arroyos en forma de surcos y cárcavas muy activas, de grado moderado a severo que, en general, tienen base ancha a partir del B2t.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie El Rancho
+ER7-33C
+Nº de registro
+ 3.589
+ 3.590
+ 3.591
+ 3.592
+ 3.593
+ 3.594
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 01-0.9
+ 12-28
+ 33-47
+ 52-64
+ 74-85
+ 130-140
+Mat.organica (%)
+ 6.95
+ 4.98
+ 2.78
+ 2.17
+ 0.55
+ 0.21
+N (%)
+ 0.32
+ 0.24
+ 0.11
+ 0.08
+ 0.03
+ 0.02
+C/N
+ 13
+ 12
+ 15
+ 16
+ 11
+ 65
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 27.47
+ 30.62
+ 33.63
+ 39.86
+ 45.04
+ 44.70
+E
+ 2-20 u
+ 33.74
+ 38.02
+ 32.47
+ 40.97
+ 23.81
+ 27.96
+X
+ 2-50 u
+ 71.46
+ 68.26
+ 63.00
+ 57.31
+ 54.09
+ 54.53
+T
+ 50-100 u
+ 0.14
+ 0.10
+ 0.13
+ 0.06
+ 0.03
+ 0.04
+U
+ 100-250 u
+ 0.31
+ 0.36
+ 0.42
+ 2.35
+ 0.26
+ 0.31
+R
+ 250-500 u
+ 0.59
+ 0.62
+ 0.69
+ 0.40
+ 0.55
+ 0.40
+A
+ 500-1000 u
+ 0.03
+ 0.04
+ 2.13
+ 0.02
+ 0.03
+ 0.02
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 8.4
+ 10.3
+pH H2O
+ 5.1
+ 5.2
+ 6.0
+ 6.8
+ 7.8
+ 8.0
+pH ClK
+ 4.6
+ 4.7
+ 5.5
+ 6.1
+ 7.2
+ 7.3
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 31.51
+ 32.28
+ 34.13
+ 49.01
+ 50.55
+ 45.73
+d
+Ca++
+ 28.01
+ 25.71
+ 31.40
+ 33.70
+ ND
+ ND
+C
+e
+a
+Mg++
+ 1.73
+ 4.05
+ 3.72
+ 2.95
+ ND
+ ND
+t
+c
+i
+a
+K+
+ 1.27
+ 0.66
+ 0.38
+ 0.34
+ 0.42
+ 0.43
+o
+m
+n
+b
+Na+
+ 1.02
+ 1.17
+ 2.00
+ 2.55
+ 4.90
+ 4.70
+e
+i
+s
+o
+H+
+ -
+ 0.79
+ -
+ 0.47
+ -
+ -
+% Na/T
+ 3.24
+ 3.62
+ 5.86
+ 5.20
+ 9.69
+ 10.28
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 26.52
+ 25.53
+ 26.89
+ 28.12
+ 32.77
+ 33.59
+ND= No determinado

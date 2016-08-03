@@ -1,0 +1,40 @@
+dss_LasPlayas.psv ->> ID..........................: 721
+dss_LasPlayas.psv ->> CLASIFICACION...............: Haplustol udorthéntico
+dss_LasPlayas.psv ->> SERIE.......................: LAS PLAYAS (Plyas)
+dss_LasPlayas.psv ->> UBICACION...................: 8,3 km al nor-noroeste de Ordoñez
+dss_LasPlayas.psv ->> PROVINCIA...................: CORDOBA
+dss_LasPlayas.psv ->> LATITUD.....................: S364600
+dss_LasPlayas.psv ->> LONGITUD....................: O625400
+dss_LasPlayas.psv ->> ALTITUD.....................: 142
+dss_LasPlayas.psv ->> PENDIENTE...................: FALTA!
+dss_LasPlayas.psv ->> DRENAJE.....................: FALTA!
+dss_LasPlayas.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LasPlayas.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LasPlayas.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+dss_LasPlayas.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_LasPlayas.psv ->> HORIZONTE->NOMBRE(S)........: ap | a | ac | c
+dss_LasPlayas.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-29 | 29-62 | 62-150
+dss_LasPlayas.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.45 | 2.42 | 0.87 | 
+dss_LasPlayas.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.43 | 1.41 | 0.51 | 
+dss_LasPlayas.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.12 | 0.11 | 0.06 | 0.04
+dss_LasPlayas.psv ->> HORIZONTE->RELACIÓN C/N.....: 11.81 | 11.8 | 7.39 | 4.77
+dss_LasPlayas.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18.4 | 21.2 | 16.2 | 14.7
+dss_LasPlayas.psv ->> HORIZONTE->LIMO 2-50 (%)....: 49.0 | 49.1 | 44.8 | 44.6
+dss_LasPlayas.psv ->> HORIZONTE->AMF 50-100 (%)...: 19.3 | 16.9 | 22.7 | 23.8
+dss_LasPlayas.psv ->> HORIZONTE->AF 100-250 (%)...: 12.1 | 10.2 | 15.0 | 13.4
+dss_LasPlayas.psv ->> HORIZONTE->AM 250-500 (%)...: 1.2 | 2.6 | 1.3 | 3.5
+dss_LasPlayas.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | 
+dss_LasPlayas.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 
+dss_LasPlayas.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0
+dss_LasPlayas.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24.2 | 25.2 | 19.7 | 18.7
+dss_LasPlayas.psv ->> HORIZONTE->PH PASTA.........: 5.8 | 6.2 | 6.6 | 7.0
+dss_LasPlayas.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.6 | 7.0 | 7.4 | 7.6
+dss_LasPlayas.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.1 | 12.0 | 8.6 | 8.0 
+dss_LasPlayas.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.9 | 2.8 | 4.1 | 4.8
+dss_LasPlayas.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.5 | 0.6 | 0.3 | 0.4
+dss_LasPlayas.psv ->> HORIZONTE->CI ME/100G-K +...: 2.6 | 1.8 | 1.4 | 1.0
+dss_LasPlayas.psv ->> HORIZONTE->CI ME/100G-H +...: - | - | - | 
+dss_LasPlayas.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | 
+dss_LasPlayas.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16.1 | 17.2 | 14.4 | 14.2
+dss_LasPlayas.psv ->> HORIZONTE->CIC ME/100G(T)...: 19.5 | 19.0 | 15.3 | 13.7
+dss_LasPlayas.psv ->> HORIZONTE->SAT.B % (S/T)....: 82 | 90 | 94 | 100

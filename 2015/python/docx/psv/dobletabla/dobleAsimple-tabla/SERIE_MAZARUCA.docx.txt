@@ -1,0 +1,313 @@
+
+--------------------------------------------------------------------------------
+SERIE MAZARUCA Símbolo: Maz
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Natracuoles típicos.
+
+Se ha desarrollado a partir de una sucesión de sedimentos marinos y continentales, mediante procesos de transporte y sedimentación fluvial. La serie Mazaruca es un suelo moderadamente salino y sódico.
+
+
+Perfil tipo: 314 C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 5 km al norte de Holt. (Hoja IGM 3360-35-2)
+Reconocedores: Gómez, L.A.; Nakama, V.
+
+
+A1: 0-12 cm; pardo oscuro (10YR 3/3) en húmedo, franco arcilloso, estructura en bloques subangulares débiles que rompen a bloques menores, firme, plástico y adhesivo, moteados abundantes, medios y precisos, raíces abundantes, límite inferior claro, suave.
+
+
+IIB21t: 12-54 cm; negro pardusco (10YR 3/2) en húmedo, arcillosa, estructura en prismas irregulares medios moderados; muy firme; plástico, adhesivo; concreciones ferromanganésicas escasas; barnices (clay skins) comunes; moteados comunes, medios y precisos de color pardo brillante (7,5YR 5/8) en húmedo, raíces comunes, límite inferior claro, suave.
+
+IIB22t: 54-79 cm; negro pardusco (10YR 3/1) en húmedo; arcilloso; de estructura en bloques subangulares medios moderados, que rompen a bloques menores; muy firme; plástico, adhesivo; concreciones ferromanganésicas escasas; barnices (clay skins) comunes; moteados abundantes medios precisos de color pardo brillante (7,5YR 5/8) en húmedo, raíces escasas; límite inferior abrupto, suave.
+
+IIIC1: 79-97 cm; amarillo pardo grisáceo (10YR 4/2) en húmedo; arcillo limoso; estructura en bloques subangulares medios moderados; concreciones ferromanganésicas escasas; barnices (clay skins) escasos; moteados abundantes precisos y medios de color pardo brillante (7,5YR 5/8) en húmedo; límite inferior abrupto, suave.
+
+IVC2: 97-122 cm; amarillo opaco (2,5Y 6/4) en húmedo; franco arenoso; estructura en bloques subangulares finos y débiles; duro, ligeramente firme, con moteados abundantes, gruesos y sobre - salientes, de color pardo brillante (7,5YR 5/8) en húmedo; límite abrupto, suave.
+
+VC3: 122 + cm; gris claro (10YR 8/1) en húmedo; areno franco; estructura masiva que rompe a grano simple con moteados comunes, grandes y sobresalientes, de color pardo brillante (10YR 7/8) en húmedo; nódulos de cementación.
+
+
+
+
+
+Variabilidad de rasgos
+
+El horizonte superior es de 12 cm de espesor, de color pardo oscuro, bien provisto de materia orgánica, franco arcilloso, de estructura en bloques subangulares medios débiles. Siguen horizontes de textura arcillosa (IIB21t y II22t) donde se observan barnices (clay skins) comunes y estructura prismática en el IIB21t.
+
+A continuación siguen capas con texturas cada vez más gruesas en profundidad, arcillo limosa (IIIC1), franco arenosa (IVC2) y areno franca (VC3) a 122 cm de profundidad. Las concreciones ferromanganésicas se observan en los dos horizontes arcillosos y en la capa IIIC1.
+
+Los moteados pre - cisos a sobresalientes se observan en todo el perfil.
+
+El perfil es moderadamente salino a partir del IIB22t a los 54 cm de profundidad. El sodio del valor T sobrepasa en 15 % a menos de 25 cm, siendo clasificado por alcalinidad sódica como Al 32.
+
+
+Fases
+
+Serie Mazaruca fase imperfectamente drenada 		 	 Símbolo: Maz.d2
+
+Esta fase se encuentra en los tendidos bajos y áreas cóncavas del sector de pendientes medias del gran cordón medanoso que constituye la llamada "Isla Ibicuy". La fase es de reducida extensión.
+
+
+Drenaje
+
+Este suelo es de permeabilidad lenta y drenaje pobre. Se producen anegamientos por lluvia.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Mazaruca
+
+314 C INTA Castelar
+
+
+
+
+
+
+N° de registro
+
+
+
+
+
+
+Horizonte
+ A1
+ IIB21t
+ IIB22t
+ IIIC1
+ IVC2
+ VC3
+Profundidad (cm)
+ 5-10
+ 20-40
+ 58-74
+ 82-94
+ 110-118
+ 130-160
+Mat. orgánica (%)
+ 3.9
+ 1.3
+ 0.56
+ -
+ -
+ -
+C (%)
+ 2.28
+ 0.72
+ 0.33
+ -
+ -
+ -
+N (%)
+ 0.273
+ 0.112
+ 0.060
+ -
+ -
+ -
+C/N
+ 8
+ 6
+ 5
+ -
+ -
+ -
+
+T <2 u
+
+ 35.3
+
+ 57.6
+
+ 56.8
+
+ 51.7
+
+ 18.4
+
+ 7.2
+E 2-20 u
+ 28.4
+ 22.2
+ 24.9
+ 23.1
+ 4.3
+ 3.0
+X 2-50 u
+ 42.5
+ 34.3
+ 37.8
+ 40.2
+ 8.8
+ 5.7
+T 50-74 u
+ 1.5
+ 0.5
+ 0.3
+ 0.2
+ 2.4
+ 0.9
+U 74-100 u
+ 1.3
+ 0.7
+ 0.3
+ 0.3
+ 4.2
+ 2.6
+R 100-250 u
+ 15.3
+ 5.5
+ 3.5
+ 4.9
+ 56.0
+ 70.5
+A 250-500 u
+ 3.8
+ 1.3
+ 1.3
+ 2.0
+ 9.3
+ 11.9
+ 500-1000 u
+ 0.3
+ 0.1
+ -
+ 0.7
+ 0.9
+ 1.2
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 31.6
+ 51.0
+ 52.5
+ 54.1
+ 18.0
+ 2.5
+Resistencia de la pasta (Ohms/cm)
+ 3875
+ 789
+ 373
+ 488
+ 1248
+ 43768
+pH en pasta
+ 5.0
+ 6.0
+ 5.7
+ 5.7
+ 6.1
+ 7.5
+pH en agua (1:2,5)
+ 5.7
+ 6.8
+ 6.3
+ 6.6
+ 7.4
+ 7.8
+pH en KCl (1:2,5)
+ 3.9
+ 4.9
+ 5.2
+ 5.1
+ 5.1
+ 6.0
+Conductividad (mmhos/cm)
+ -
+ 2.36
+ 11.01
+ 6.39
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 5.0
+ 8.6
+ 14.1
+ 8.0
+ 2.1
+ 0.95
+
+Mg++
+ 5.2
+ 12.5
+ 11.5
+ 10.6
+ 2.7
+ 1.25
+
+Na[+]
+ 0.7
+ 4.7
+ 6.0
+ 6.6
+ 1.2
+ 0.20
+
+K[+]
+ 0.6
+ 1.0
+ 0.8
+ 0.7
+ 0.2
+ 0.05
+
+H[+]
+ 14.7
+ 10.4
+ 10.7
+ 10.2
+ 2.2
+ 0.40
+Na+ % del valor T
+ 6
+ 16
+ 17
+ 22
+ 18
+ 9
+Suma de bases, m.e./100 gr (S)
+ 11.5
+ 26.8
+ 32.4
+ 25.9
+ 6.2
+ 2.45
+C.I.C., m.e./100 gr (T)
+ 21.1
+ 30.2
+ 35.9
+ 30.2
+ 6.8
+ 2.25
+Saturación con bases, (%) (S/T)
+ 55
+ 89
+ 90
+ 86
+ 91
+ 100
+

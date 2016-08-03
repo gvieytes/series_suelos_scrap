@@ -1,0 +1,308 @@
+
+--------------------------------------------------------------------------------
+SERIE SANTA ROSA							 Símbolo: SRa
+
+
+Pertenece a la familia "fina, montmorillonítica, moderadamente alcalina, térmica" de los Ocracualfes vérticos (Planosoles vérticos).
+
+Suelos desarrollados en materiales arcillo-limosos, imperfectamente drenados con un epipedón muy lixiviado sobre un horizonte argílico y calcáreo alto en el perfil (a partir de 40 cm. y abundante). 	
+
+
+Perfil tipo: ER7-14C
+Fecha: 8-V-1980
+Ubicación: Ea. "La Palmita" (foto 184-54 ) - Dpto. Federal
+Reconocedores: L.O. López; R.H. Fuentes; O.A. Foti.
+
+
+A2: 00-11cm; pardo amarillento (10YR 5/4) en seco y gris a gris oscuro (10YR 4/1.5) en húmedo; estructura en bloques subangulares medios, moderados y granular medios, fuertes; blando en seco y friable en húmedo; barnices "humic skins" escasos y finos; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas y finas; horizonte muy lixiviado; límite claro, suave.
+
+B1: 11-24cm; gris oscuro (10YR 4/1) en húmedo, arcillo-limoso; estructura en bloques subangulares medios, moderados; friable en húmedo; barnices "clay humic skins" escasos y finos; caras de fricción "slickensides" escasos y finos; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas y finas; horizonte algo gleizado (color 2.5Y 4/2); límite claro, suave.
+
+B21t: 24-40cm; gris muy oscuro a pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo, arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes medios, moderados con tendencia a prismas compuestos irregulares; duro en seco, firme en húmedo; barnices "clay humic skins" escasos, finos; caras de fricción "slickensides" abundantes, finos e intersectados; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso abundantes; límite claro, suave.
+
+B22tca: 40-60cm; pardo amarillento (10YR 5/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; muy duro en seco, firme en húmedo; barnices "clay humic skins" escasos; caras de fricción "slickensides" abundantes, finos e intersectados; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; concreciones de hierro-manganeso escasas y finas; concreciones de calcio abundantes, duras a semiduras y carbonatos en la masa, abundantes; límite claro suave.
+
+B3ca: 60-70cm; Pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes medios moderados con tendencia a prismas compuestos irregulares; muy duro en seco, firme en húmedo; barnices "clay humic skins" (por grietas) escasos y finos; caras de fricción "slickensides" abundantes, finas e intersectadas; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; concreciones de hierro-manganeso escasas y finas; concreciones de calcio abundantes, carbonatos en la masa abundante; límite gradual suave.
+
+Cca: 76cm+; pardo (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes medios, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción "slickensides" abundantes y finos; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; concreciones de hierro-manganeso escasas y finas; concreciones de calcio abundantes, duras y semiduras; carbonato en la masa, escasas.
+
+
+Variabilidad de rasgos
+
+Como la mayoría de los Alfisoles, la heterogeneidad de los pedones se debe principalmente a las microdepresiones y hormigueros. La serie Santa Rosa tiene un epipedón ócrico compuesto de un horizonte A2 o A1 muy lixiviado, seguido de A12 o B1 normalmente con síntomas de gley y un B2t argílico con 50-57% de arcilla y con grietas rellenas de material superior.
+
+El calcáreo en carbonatos y concreciones en forma abundante aparecen a partir de los 40 cm .
+El material originario posee normalmente alrededor de 40% de arcilla, con abundantes carbonatos y concreciones de calcio.
+
+
+Fases
+
+No posee a este nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Arroyo Quebracho (menos arcillosa, paisaje de pendientes suaves) y a la serie Grecco (menos arcillosa y más sódica).
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial muy lento a estancado. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Santa Rosa no presenta problemas de erosión, tampoco existe potencialidad a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Santa Rosa
+
+ER7-14C
+
+
+
+
+
+
+Nº de registro
+ 3155
+ 3156
+ 3157
+ 3158
+ 3159
+ 3160
+Horizonte
+ A2
+ B1
+ B21t
+ B22tca
+ B3ca
+ Cca
+Profundidad (cm)
+ 02-10
+ 13-24
+ 28-37
+ 45-55
+ 62-75
+ 85-105
+Mat.organica (%)
+ 4.23
+ 2.24
+ 2.09
+ 1.93
+ 0.83
+ 0.24
+N (%)
+ 0.9
+ 0.12
+ 0.11
+ 0.08
+ 0.05
+ 0.02
+C/N
+ 13
+ 11
+ 11
+ 14
+ 10
+ 7
+
+T < 2 μ
+
+ 32.62
+
+ 46.19
+
+ 56.81
+
+ 49.32
+
+ 43.10
+
+ 39.45
+E 2-20 μ
+ 33.42
+ 28.32
+ 27.65
+ 24.75
+ 32.82
+ 31.59
+X 2-50 μ
+ 66.21
+ 52.87
+ 42.73
+ 50.20
+ 56.25
+ 56.27
+T 50-100 μ
+ 0.16
+ 0.17
+ 0.05
+ 0.08
+ 0.11
+ 0.11
+U 100-250 μ
+ 0.95
+ 0.75
+ 0.40
+ 0.39
+ 0.49
+ 4.11
+R 250-500 μ
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+A 500-1000 μ
+ 0.06
+ 0.02
+ 0.01
+ 0.01
+ 0.05
+ 0.06
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 4.7
+
+ 9.3
+
+ 8.1
+pH H2O
+ 6.3
+ 7.2
+ 7.8
+ 8.0
+ 8.0
+ 7.9
+pH ClK
+ 5.3
+ 6.2
+ 6.9
+ 7.1
+ 7.2
+ 7.2
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+ 35.10
+
+
+ 39.58
+
+
+ 52.54
+
+
+ 51.22
+
+
+ 45.49
+
+
+
+ 44.25
+ d Ca++
+ 20.99
+ 31.73
+ 32.69
+ N.D.
+ N.D.
+ N.D.
+C e
+
+
+
+
+
+
+Mg++
+ 2.52
+ 3.58
+ 10.25
+ N.D.
+ N.D.
+ N.D.
+t c
+
+
+
+
+
+
+i a K+
+ 0.10
+ 0.12
+ 0.14
+ 0.14
+ 0.12
+ 0.05
+o m
+
+
+
+
+
+
+n b Na+
+ 1.00
+ 2.02
+ 2.47
+ 3.37
+ 2.85
+ 5.47
+e i
+
+
+
+
+
+
+s o H+
+ 10.49
+ 2.13
+ 7.09
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+ 2.85
+ 5.10
+ 4.70
+ 6.58
+ 6.27
+ 12.36
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 32.55
+ 45.10
+ 49.90
+ 47.77
+ 39.41
+ 38.29
+P asimilable (ppm)
+ 4.3
+ 2.4
+ 1.6
+ 1.0
+ N.D.
+ N.D.
+
+N.D.= No determinado.

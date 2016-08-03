@@ -1,0 +1,311 @@
+
+--------------------------------------------------------------------------------
+SERIE SAN BUENAVENTURA Símbolo: Bve
+
+
+Pertenece a la familia "fina, montmorillonítica, ligeramente alcalina, térmica" de los Peludertes argiacuólicos (vertisol hidromórfico, con gilgai tenue, epipedón mólico y B2 textural).
+
+Son suelos desarrollados sobre materiales franco-arcillo-limosos con hasta un 40 % de arcilla y con abundantes carbonatos tanto en la masa como en concreciones duras. Rara vez presentan microrrelieve gilgai visible en el campo, pero que se observa muy tenuemente en las fotografías aéreas. Tienen un epipedón franco- limoso, bien estructurado por el "self-mulching" (autoestructuración) y un horizonte argílico de textura arcillo-limosa. Las concreciones de calcáreo aparecen a los 65-75 cm de profundidad, y las ferromanganesíferas son abundantes a partir de los 30 cm llegando a tener hasta 3 mm de diámetro.
+
+
+Perfil tipo: ER7-52C
+Fecha: 26-VI-86
+Ubicación: Ea. San Buenaventura (foto IRH169-10) - Dpto. Federal
+Reconocedores: R.H. Fuentes; O.A. Foti.
+
+
+A11: 00-12 cm; gris muy oscuro (10YR 3/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-limoso; estructura granular y bloques subangulares, finos, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic-skins") abundantes, medios; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+A12: 12-28 cm; negro (10YR 2/1) en húmedo; franco-limoso; estructura en granular y bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("clay-humic-skins") abundantes; moteados de hierro escasos, finos y débiles; límite claro, suave.
+
+B21t: 28-62 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, gruesos, fuertes; extremadamente duro en seco; firme en húmedo; caras de fricción ("slickensides") abundantes, medias, intersectadas; moteados de hierro-manganeso escasos, finos y precisos; concreciones de hierro-manganeso de hasta 2 mm; límite gradual, suave.
+
+B22tca: 62-110 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, fuertes; muy duro en seco; firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; moteados de hierro-manganeso, comunes, finos y precisos; concreciones de hierro-manganeso abundantes, finas; concreciones calcáreas abundantes, blandas; límite difuso, ondulado.
+
+B3ca: 110-125 cm; pardo (7.5YR 5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados; ligeramente duro en seco; friable en húmedo; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; moteados de hierro-manganeso abundantes, medios y sobresalientes; concreciones de hierro-manganeso escasas, finas; concreciones calcáreas abundantes; materiales de horizontes superiores rellenado las grietas.
+
+Cca(g): 145 cm+; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura masiva; ligeramente duro en seco; friable en húmedo; caras de fricción ("slickensides") fósiles abundantes, finas, intersectadas; concreciones de hierro-manganeso abundantes; gley inherente al material.
+
+
+Variabilidad de rasgos
+
+El epipedón varía de 22 a 28 cm de espesor y está compuesto por los horizontes A11 y A12 que, en algunos perfiles, pueden describirse como A1 y B1 (este último con un espesor de 10 cm).
+
+El horizonte argílico, de estructura prismática fuerte que rompe en bloques cuneiformes, posee abundantes concreciones de hierro y manganeso. Los tenores de arcilla van de 37-50%, correspondiendo el mayor porcentaje al B22t; presenta abundantes caras de fricción ("slickensides") intersectadas. A partir de los 20-25 cm los límites de los horizontes son ondulados debido a la presencia de movimientos en masa ("churning"). Tiene grietas rellenas de materiales superficiales y raíces aplastadas en las caras de fricción.
+
+Los carbonatos se presentan en concreciones duras a partir de los 65 cm y en la masa algo más profundo (80-90 cm).
+
+
+Fases
+
+No presentan a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a las series Caraballo (con epipedón más profundo y más hidromórfica) y El Rancho (que es más arcillosa en superficie, y tiene gilgai lineal bien notable en el campo); ambas series son extensivas en el departamento Federal.
+
+
+Drenaje
+
+Moderado a imperfectamente drenado. Escurrimiento superficial moderado. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Serie Buenaventura presenta una erosión hídrica muy leve; se observan cárcavas muy típicas en las cabeceras de los arroyos menores, generalmente acentuadas por el tránsito de ganado.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie San Buenaventura
+
+ER7-52C
+Nº de registro
+ 4.658
+ 4.659
+ 4.660
+ 4.661
+ 4.662
+ 4.663
+Horizonte
+ A11
+ A12
+ B21t
+ B22tca
+ B3tca
+ Cca
+Profundidad (cm)
+ 02-07
+ 12-18
+ 37-53
+ 82-100
+ 117-137
+ 150-167
+Mat.organica (%)
+ 6.54
+ 4.47
+ 1.99
+ 1.10
+ 0.41
+ 0.07
+N (%)
+ 0.24
+ 1.15
+ 0.08
+ 0.04
+ 0.02
+ 0.01
+C/N
+ 15
+ 17
+ 14
+ 17
+ 12
+ 3
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 22.58
+ 25.59
+ 48.96
+ 50.33
+ 42.93
+ 35.74
+E
+ 2-20 u
+ 34.38
+ 34.18
+ 26.01
+ 29.57
+ 28.99
+ 47.18
+X
+ 2-50 u
+ 74.87
+ 71.49
+ 49.20
+ 48.19
+ 55.66
+ 0.00
+T
+ 50-100 u
+ 0.53
+ 0.66
+ 0.40
+ 0.28
+ 0.27
+ 0.13
+U
+ 100-500 u
+ 1.92
+ 2.21
+ 1.28
+ 1.19
+ 1.09
+ 0.37
+R
+ 500-1000 u
+ 0.10
+ 0.06
+ 0.05
+ 0.03
+ 0.04
+ 0.00
+A
+ 1000-2000 u
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ -
+ -
+ -
+ 1.4
+ 1.9
+ 1.5
+pH H2O
+ 5.6
+ 5.7
+ 6.8
+ 8.0
+ 8.1
+ 8.0
+pH ClK
+ 5.5
+ 5.7
+ 6.7
+ 7.9
+ 7.9
+ 7.8
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 16.49
+ 17.71
+ 26.22
+ 24.41
+ 27.53
+ 22.31
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 8.25
+ 9.45
+ 18.00
+ 18.31
+ 16.30
+ 18.71
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 1.18
+ 1.57
+ 1.57
+ 1.62
+ 2.04
+ 3.18
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 0.39
+ 0.21
+ 0.33
+ 0.27
+ 0.31
+ 0.44
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.74
+ 0.74
+ 1.12
+ 2.34
+ 2.35
+ 2.40
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ 8.42
+ 7.58
+ 2.95
+ 1.26
+ 1.26
+ 1.05
+% Na/T
+
+
+ 4.50
+ 4.20
+ 4.30
+ 9.60
+ 8.50
+ 10.80
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 23.74
+ 23.00
+ 33.94
+ 30.50
+ 29.03
+ 32.72
+
+Fósforo asimilable (ppm)
+ 6.28
+ 8.38
+ 2.34
+ 1.41
+ 1.07
+ 1.02
+

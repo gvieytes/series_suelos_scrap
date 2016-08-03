@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: A    | Bw    | BC    | Ck  
+HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-43 | 43-77 | 77a+
+HORIZONTE->MATERIA ORGÁN.(%): 1,4  | 0,7   | 0,6   | 
+HORIZONTE->CARBONO ORGÁN.(%): 0,8  | 0,4   | 0,3   | 
+HORIZONTE->NITRÓGENO TOT.(%): 0,09 | 0,06  | 0,05  | 
+HORIZONTE->RELACIÓN C/N.....: 8,8  | 6,6   | 6,0   |
+HORIZONTE->ARCILLA 2 (%)....: 25,5 | 24,8  | 24,5  | 18,5
+HORIZONTE->LIMO 2-50 (%)....: 65,9 | 70,5  | 70    | 75,6
+HORIZONTE->AMF 50-100 (%)...: 4,4  | 2,6   | 2,6   | 2,9
+HORIZONTE->AF 100-250 (%)...: 2,9  | 2,2   | 2,2   | 2,4 
+HORIZONTE->AM 250-500 (%)...: 0,7  | 0,3   | 0,3   | 0,3 
+HORIZONTE->AG 500-1000 (%)..: 0,7  | 0,7   | 0,8   | 0,7 
+HORIZONTE->AMG 1-2 mm (%)...:      | 0,2   |       | 0,3 
+HORIZONTE->CALCAREO CaCO3(%): 0,4  |       |       | 4,7
+HORIZONTE->EQUIV. HUMEDAD(%): 26,3 | 24,7  | 23,5  | 23,3
+HORIZONTE->PH PASTA.........: 7,5  | 7,6   | 7,8   | 7,7 
+HORIZONTE->PH H2O 1:2,5.....: 7,0  | 7,0   | 7,5   | 8,1 
+HORIZONTE->CI ME/100G-Ca ++.:      | 20,8  | 15,9  |     
+HORIZONTE->CI ME/100G-Mg ++.:      | 2,0   | 1,9   |     
+HORIZONTE->CI ME/100G-Na +..: 1,1  | 0,5   | 0,6   | 0,6 
+HORIZONTE->CI ME/100G-K +...: 2,3  | 0,8   | 1,1   | 1,2 
+HORIZONTE->CI ME/100G-H +...:      | 0,6   |       |     
+HORIZONTE->SUM.B. ME/100G(S):      | 24,1  | 19,5  |
+HORIZONTE->CIC ME/100G(T)...: 24,6 | 24,7  | 20,1  | 18,6
+HORIZONTE->SAT.B % (S/T)....: 98   | 97    | 97    | 100
+

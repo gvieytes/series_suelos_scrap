@@ -1,0 +1,214 @@
+--------------------------------------------------------------------------------
+SERIE LA ABADIA Símbolo: Ab
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderados a imperfectamente drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico oscuro, arcillo-limoso, con moteados de hierro-manganeso y caras de fricción ("slickensides").
+Suelos desarrollados sobre materiales loessoides retransportados.
+Perfil tipo: ER7-100C
+Fecha: 27-VI-1995
+Ubicación: Predio perteneciente a La Abadía del Niño Dios (foto 421-92) - dto. Corrales - Dpto. Victoria.
+Reconocedores: O.L. López; O.A. Foti.
+A1: 00-23 cm; gris muy oscuro (10YR 3/1.5) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices ("humic skins") comunes a abundantes, ("clay humic skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; presencia de arena fina en las caras de los agregados; presencia de lombrices; límite claro, suave.
+B21t: 23-40 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados que rompen en bloques angulares y cuneiformes, medios, moderados; firme en húmedo; barnices ("clay humic skins") escasos, ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes y finos, intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 40-64 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en prismas compuestos irregulares finos y débiles; firme en húmedo; barnices "clay humic skins" escasos, "clay skins" escasos a comunes; caras de fricción ("slickensides") finas, escasas a comunes, no intersectadas; moteados de hierro- manganeso, comunes, medios y precisos; límite gradual, suave.
+B31: 64-87 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, finos y débiles, que rompen en bloques subangulares y bloques angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins" escasos a comunes; caras de fricción ("slickensides") comunes y gruesas, poco intersectadas; moteados de hierro-manganeso comunes, finos y precisos, concreciones de hierro-manganeso escasas y finas; límite difuso, suave.
+B32ca: 87-110 cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios, débiles; friable en húmedo; caras de fricción ("slickensides") escasas a comunes, gruesas; moteados de hierro-manganeso comunes, medios y precisos; concreciones calcáreas escasas y finas; presencia de raíces aplastadas; límite claro, suave.
+Cca: 110 cm+; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura masiva; muy friable en húmedo; moteados de hierro-manganeso comunes, medios y precisos, miscelios de carbonatos libres en la masa.
+Variabilidad de rasgos
+La variabilidad de rasgos no se conoce.
+Fases
+No se han establecido fases a escala de reconocimiento (1:100.000).
+Series similares y sus diferencias
+La Serie La Abadía se parece a la serie El Diesiciete, pero ésta tiene un B2t menos arcilloso y se ubica en un paisaje distinto.
+Drenaje
+Suelo imperfecto a moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad lenta a moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie La Abadía tiene leve peligro de erosión laminar y en surcos, especialmente en las partes algo cóncavas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Abadía
+ER7-100C
+Nº de registro
+ 10.395
+ 10.396
+ 10.397
+ 10.398
+ 10.399
+ 10.400
+Horizonte
+ A1
+ B21t
+ B22t
+ B31
+ B32ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 30-40
+ 45-60
+ 70-80
+ 90-105
+ 110-115
+Mat.organica (%)
+ 4.06
+ 1.43
+ 1.28
+ 0.71
+ 0.07
+ 0.07
+C/N
+ 10
+ 7
+ 8
+ 6
+ 1
+ 1
+T < 2 u
+ 30.33
+ 48.9
+ 48.55
+ 45.55
+ 39.15
+ 34.79
+E 2-20 u
+ 29.31
+ 22.90
+ 22.71
+ 22.99
+ 25.66
+ 26.29
+X 2-50 u
+ 61.57
+ 46.38
+ 46.10
+ 48.82
+ 54.40
+ 58.41
+T 50-100 u
+ 0.62
+ 0.13
+ 0.68
+ 0.79
+ 0.16
+ 0.30
+U 100-250 u
+ 7.43
+ 5.35
+ 4.65
+ 4.75
+ 6.25
+ 6.46
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.3
+ 0.2
+ 0.3
+ 0.3
+ 1.0
+ 3.7
+PH H2O
+ 6.7
+ 6.6
+ 6.7
+ 7.2
+ 7.7
+ 7.8
+pH ClK
+ 6.2
+ 5.5
+ 5.4
+ 6.0
+ 6.6
+ 6.8
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 36.00
+ N.D.
+ N.D.
+ 43.00
+ 37.49
+ 35.20
+d
+Ca++
+ 25.21
+ N.D.
+ N.D.
+ 38.00
+ 29.60
+ 28.84
+C
+e
+a
+Mg++
+ 4.60
+ N.D.
+ N.D.
+ 3.20
+ 4.20
+ 2.00
+t
+c
+i
+a
+K+
+ 2.57
+ N.D.
+ N.D.
+ 1.44
+ 1.29
+ 1.36
+o
+m
+n
+b
+Na+
+ 1.67
+ N.D.
+ N.D.
+ 2.05
+ 1.92
+ 3.75
+e
+i
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+ 4.64
+ N.D.
+ N.D.
+ 4.77
+ 5.12
+ 10.65
+Equival. de humedad (%)
+ 28.3
+ 46.5
+ 46.7
+ 43.7
+ 37.5
+ 32.6
+Fósforo asimilable (ppm)
+ 4.5
+ 2.6
+ 1.9
+ 1.9
+ 0.0
+ 0.0

@@ -1,0 +1,39 @@
+Serie_Baigorria.psv ->> ID..........................: 802
+Serie_Baigorria.psv ->> CLASIFICACION...............: Haplustol udorthéntico
+Serie_Baigorria.psv ->> SERIE.......................: BAIGORRIA (Baig)
+Serie_Baigorria.psv ->> UBICACION...................: 4,2 Km al SO de la localidad de General Baigorria, departamento Río Cuarto
+Serie_Baigorria.psv ->> PROVINCIA...................: CORDOBA
+Serie_Baigorria.psv ->> LATITUD.....................: S325200
+Serie_Baigorria.psv ->> LONGITUD....................: O642300
+Serie_Baigorria.psv ->> ALTITUD.....................: 583
+Serie_Baigorria.psv ->> PENDIENTE...................: FALTA!
+Serie_Baigorria.psv ->> DRENAJE.....................: FALTA!
+Serie_Baigorria.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Baigorria.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Baigorria.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Baigorria.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO A PARDO OSCURO
+Serie_Baigorria.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | c | ck
+Serie_Baigorria.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-25 | 25-40 | 40-92 | 92a+
+Serie_Baigorria.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,06 | 0,86 | - | -
+Serie_Baigorria.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,2 | 0,5 | - | -
+Serie_Baigorria.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,08 | - | - | -
+Serie_Baigorria.psv ->> HORIZONTE->RELACIÓN C/N.....: 12,5 | - | - | -
+Serie_Baigorria.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9,0 | 7,8 | 5,1 | 4,0
+Serie_Baigorria.psv ->> HORIZONTE->LIMO 2-50 (%)....: 51,9 | 51,7 | 50,2 | 50,9
+Serie_Baigorria.psv ->> HORIZONTE->AMF 50-100 (%)...: 38,0 | 38,3 | 43,5 | 35,7
+Serie_Baigorria.psv ->> HORIZONTE->AF 100-250 (%)...: 3,2 | 3,3 | 2,1 | 7,8
+Serie_Baigorria.psv ->> HORIZONTE->AM 250-500 (%)...: 0,1 | 0,0 | 0,0 | 0,0
+Serie_Baigorria.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,4 | 0,1 | 0,0 | 0,1
+Serie_Baigorria.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,0 | 0,0 | 0,0 | 0,0
+Serie_Baigorria.psv ->> HORIZONTE->CaCO 3 (%).......: 0,0 | 0,0 | 0,0 | 3,8
+Serie_Baigorria.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 15,2 | 12,7 | 12,4 | 6,6
+Serie_Baigorria.psv ->> HORIZONTE->PH PASTA.........: 6,4 | 6,8 | 7,2 | 8,4
+Serie_Baigorria.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,7 | 7,0 | 7,4 | 8,6
+Serie_Baigorria.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8,2 | 8,5 | 8,8 | 
+Serie_Baigorria.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,2 | 0,9 | 1,7 | 
+Serie_Baigorria.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3 | 0,2 | 0,2 | 0,2
+Serie_Baigorria.psv ->> HORIZONTE->CI ME/100G-K +...: 2,1 | 1,8 | 1,4 | 0,9
+Serie_Baigorria.psv ->> HORIZONTE->CI ME/100G-H +...: 1,4 | 1,1 | 0,7 | 
+Serie_Baigorria.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11,8 | 11,4 | 12,1 | -
+Serie_Baigorria.psv ->> HORIZONTE->CIC ME/100G(T)...: 13,2 | 12,5 | 12,8 | 7,9
+Serie_Baigorria.psv ->> HORIZONTE->SAT.B % (S/T)....: 89,4 | 91,2 | 94,5 | -

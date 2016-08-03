@@ -1,0 +1,175 @@
+:%s/Horizonte:/NOMBRE(S)........:/g
+:%s/Profundidad de la muestra (cm)/PROFUNDIDADES(CM)/g
+:%s/Materia Orgánica (%)/MATERIA ORGÁN.(%)/g
+:%s/Materia orgánica (%)/MATERIA ORGÁN.(%)/g
+:%s/Carbono Orgánico (%)/CARBONO ORGÁN.(%)/g
+:%s/Carbono orgánico (%)/CARBONO ORGÁN.(%)/g
+:%s/Nitrógeno total (%)/NITRÓGENO TOT.(%)/g
+:%s/Relación C\/N/RELACIÓN C\/N...../g
+:%s/Arcilla, 2 u (%)/ARCILLA 2 (%)..../g
+:%s/Arcilla, <2 μ (%)/ARCILLA 2 (%)..../g
+:%s/Arcilla, <2µ (%)/ARCILLA 2 (%)..../g
+:%s/Arcilla, <2 µ (%)/ARCILLA 2 (%)..../g
+:%s/Arcilla ( < 2 µ ) (%)/ARCILLA 2 (%)..../g
+:%s/Arcilla, <2 u (%)/ARCILLA 2 (%)..../g
+:%s/Limo, 2-50 u (%)/LIMO 2-50 (%)..../g
+:%s/Limo, 2-50 μ (%)/LIMO 2-50 (%)..../g
+:%s/Limo, 2-50 µ (%)/LIMO 2-50 (%)..../g
+:%s/Limo, 2-50µ (%)/LIMO 2-50 (%)..../g
+:%s/Limo (2-20µ) (%)/LIMO 2-20 (%)..../g
+:%s/Limo (2-50µ) (%)/LIMO 2-50 (%)..../g
+:%s/Arena muy fina, 50-100 u (%)/AMF 50-100 (%).../g
+:%s/Arena muy fina, 50-100 μ (%)/AMF 50-100 (%).../g
+:%s/Arena muy fina, 50-100 μ (%)/AMF 50-100 (%).../g
+:%s/Arena muy fina 50-100 μ (%)/AMF 50-100 (%).../g
+:%s/Arena muy fina, 50-100 µ (%)/AMF 50-100 (%).../g
+:%s/Arena muy fina, 50-100µ (%)/AMF 50-100 (%).../g
+:%s/Arena muy fina (50-100µ) (%)/AMF 50-100 (%).../g
+:%s/Arena (%)/ARENA (%)......../g
+:%s/Arena fina, 100-250 u (%)/AF 100-250 (%).../g
+:%s/Arena fina, 100-250 μ (%)/AF 100-250 (%).../g
+:%s/Arena fina, 100-250 µ (%)/AF 100-250 (%).../g
+:%s/Arena fina, 100-250µ (%)/AF 100-250 (%).../g
+:%s/Arena fina (100-250µ) (%)/AF 100-250 (%).../g
+:%s/Arena media, 250-500 u (%)/AM 250-500 (%).../g
+:%s/Arena media, 250-500 μ (%)/AM 250-500 (%).../g
+:%s/Arena media, 250-500 µ (%)/AM 250-500 (%).../g
+:%s/Arena media, 250-500µ (%)/AM 250-500 (%).../g
+:%s/Arena media (250-500µ) (%)/AM 250-500 (%).../g
+:%s/Arena g., 500-1000 u (%)/AG 500-1000 (%)../g
+:%s/Arena gruesa, 500-1000 u (%)/AG 500-1000 (%)../g
+:%s/Arena gruesa, 500-1000 μ (%)/AG 500-1000 (%)../g
+:%s/Arena gruesa, 500-1000 µ (%)/AG 500-1000 (%)../g
+:%s/Arena gruesa, 500-1000 µ, (%)/AG 500-1000 (%)../g
+:%s/Arena gruesa, 500-1000µ (%)/AG 500-1000 (%)../g
+:%s/Arena gruesa (500-1000µ) (%)/AG 500-1000 (%)../g
+:%s/Arena muy gruesa, 1-2 mm (%)/AMG 1-2 mm (%).../g
+:%s/Arena muy gruesa, 1-2mm (%)/AMG 1-2 mm (%).../g
+:%s/Arena muy gruesa (1000-2000µ) (%)/AMG 1-2 mm (%).../g
+:%s/Arena muy gruesa, 1-2 mm, (%)/AMG 1-2 mm (%).../g
+:%s/Arena total/ARENA TOTAL....../g
+:%s/Calcáreo, CaCO3 (%)/CALCAREO CaCO3(%)/g
+:%s/Calcáreo, CaCO3 (%)/CALCAREO CaCO3(%)/g
+:%s/HORIZONTE->CaCO 3/HORIZONTE->CALCAREO CaCO3(%)/g
+:%s/Equivalente de humedad (%)/EQUIV. HUMEDAD(%)/g
+:%s/pH en pasta/PH PASTA........./g
+:%s/PH en pasta/PH PASTA........./g
+:%s/Ph en pasta/PH PASTA........./g
+:%s/pH en agua 1:2,5/PH H2O 1:2,5...../g
+:%s/PH en agua 1:2,5/PH H2O 1:2,5...../g
+:%s/pH en agua (1:2,5)/PH H2O 1:2,5...../g
+:%s/pH en H2O (1:2,5)/PH H2O 1:2,5...../g
+:%s/pH en H2O 1:2,5/PH H2O 1:2,5...../g
+:%s/Cationes de intercambio (me\/100 gr)-Ca ++/CI ME\/100G-Ca ++./g
+:%s/Cationes de intercambio (me\/100 gr)-Ca ++/CI ME\/100G-Ca ++./g
+:%s/Cationes de intercambio (me\/100 gr)-Ca++/CI ME\/100G-Ca ++./g
+:%s/Cationes de intercambio, me\/100 gr-Ca++/CI ME\/100G-Ca ++./g
+:%s/Cationes de cambio (me\/100 gr)-Ca ++/CI ME\/100G-Ca ++./g
+:%s/Cationes de cambio (me\/100 gr-Ca ++/CI ME\/100G-Ca ++./g
+:%s/HORIZONTE->Ca++/HORIZONTE->CI ME\/100G-Ca ++./g
+:%s/Cationes de intercambio (me\/100 gr)-Mg ++/CI ME\/100G-Mg ++./g
+:%s/Cationes de intercambio (me\/100 gr)-Mg ++/CI ME\/100G-Mg ++./g
+:%s/Cationes de intercambio (me\/100 gr)-Mg++/CI ME\/100G-Mg ++./g
+:%s/Cationes de intercambio, me\/100 gr-Mg++/CI ME\/100G-Mg ++./g
+:%s/Cationes de cambio (me\/100 gr)-Mg ++/CI ME\/100G-Mg ++./g
+:%s/Cationes de cambio (me\/100 gr-Mg ++/CI ME\/100G-Mg ++./g
+:%s/HORIZONTE->Mg++/HORIZONTE->CI ME\/100G-Mg ++./g
+:%s/Cationes de intercambio (me\/100 gr)-Na +/CI ME\/100G-Na +../g
+:%s/Cationes de intercambio (me\/100 gr)-Na +/CI ME\/100G-Na +../g
+:%s/Cationes de intercambio (me\/100 gr)-Na+/CI ME\/100G-Na +../g
+:%s/Cationes de intercambio, me\/100 gr-Na+/CI ME\/100G-Na +../g
+:%s/Cationes de cambio (me\/100 gr)-Na +/CI ME\/100G-Na +../g
+:%s/Cationes de cambio (me\/100 gr-Na +/CI ME\/100G-Na +../g
+:%s/HORIZONTE->Na+/HORIZONTE->CI ME\/100G-Na +../g
+:%s/Cationes de intercambio (me\/100 gr)-K +/CI ME\/100G-K +.../g
+:%s/Cationes de intercambio (me\/100 gr)-K +/CI ME\/100G-K +.../g
+:%s/Cationes de intercambio (me\/100 gr)-K+/CI ME\/100G-K +.../g
+:%s/Cationes de intercambio, me\/100 gr-K+/CI ME\/100G-K +.../g
+:%s/Cationes de cambio (me\/100 gr)-K +/CI ME\/100G-K +.../g
+:%s/Cationes de cambio (me\/100 gr-K +/CI ME\/100G-K +.../g
+:%s/HORIZONTE->K+/HORIZONTE->CI ME\/100G-K +.../g
+:%s/Cationes de intercambio (me\/100 gr)-H +/CI ME\/100G-H +.../g
+:%s/Cationes de intercambio (me\/100 gr)-H +/CI ME\/100G-H +.../g
+:%s/Cationes de intercambio (me\/100 gr)-H+/CI ME\/100G-H +.../g
+:%s/Cationes de intercambio, me\/100 gr-H+/CI ME\/100G-H +.../g
+:%s/Cationes de cambio (me\/100 gr)-H ++/CI ME\/100G-H ++../g
+:%s/Cationes de cambio (me\/100 gr)-H + cambio (me\/100g)/CI ME\/100G-H +.../g
+:%s/->H ++:/->CI ME\/100G-H +...:/g
+:%s/>H + cambio (me\/100g)-H +/>CI ME\/100G-H +.../g
+:%s/>H + cambio (me\/100g)/>CI ME\/100G-H +.../g
+:%s/HORIZONTE->H+/HORIZONTE->CI ME\/100G-H +.../g
+:%s/Valor T. CIC (me\/100g)/VT CIC ME\/100G.../g
+:%s/Suma de bases, me\/100 gr (S)/SUM.B. ME\/100G(S)/g
+:%s/Suma de bases, me\/100gr (S)/SUM.B. ME\/100G(S)/g
+:%s/Suma de bases (me\/100g) Valor S/SUM.B. ME\/100G(S)/g
+:%s/Suma de bases, meq\/100 gr (S)/SUM.B. ME\/100G(S)/g
+:%s/Capacidad de intercambio catiónico me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Capacidad de intercambio catiónica me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Capacidad de intercambio catiónico, me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Capacidad de intercambio catiónico, me\/100gr (T)/CIC ME\/100G(T).../g
+:%s/Capacidad de intercambio catiónico, meq\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Cap. de intercambio catiónico me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Cap. de intercambio catiónica me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Cap. de intercambio catiónico, me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Cap. de intercam. Catiónico me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Capacidad de intercambio cat. me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Cap. de intercam. catiónico me\/100 gr (T)/CIC ME\/100G(T).../g
+:%s/Saturación con bases, % (S\/T)/SAT.B % (S\/T)..../g
+:%s/Saturación con bases,% (S\/T)/SAT.B % (S\/T)..../g
+:%s/Saturación con bases S\/T (%)/SAT.B % (S\/T)..../g
+:%s/Na+, % del valor T/Na+ % DEL VALOR T/g
+:%s/Na+ (% del valor T)/Na+ % DEL VALOR T/g
+:%s/Na + (% del valor T)Na +/Na+ % DEL VALOR T/g
+:%s/Na + (% del valor T)/Na+ % DEL VALOR T/g
+:%s/Sodio de intercambio, % (PSI):/Na INTERC % (PSI):/g
+:%s/Comp.ext.sat. m.e.\/1-Ca++/C.EXT.S ME\/1-Ca++/g
+:%s/Composición extracto de saturación, me\/1-Ca++/C.EXT.S ME\/1-Ca++/g
+:%s/Composición extracto de saturación, me\/1: Ca++/C.EXT.S ME\/1-Ca++/g
+:%s/Comp.ext.sat. m.e.\/1-Mg++/C.EXT.S ME\/1-Mg++/g
+:%s/Composición extracto de saturación, me\/1-Mg++/C.EXT.S ME\/1-Mg++/g
+:%s/Comp.ext.sat. m.e.\/1-Na+/C.EXT.S ME\/1-Na+./g
+:%s/Composición extracto de saturación, me\/1-Na+/C.EXT.S ME\/1-Na+./g
+:%s/Comp.ext.sat. m.e.\/1-K+/C.EXT.S ME\/1-K+../g
+:%s/Composición extracto de saturación, me\/1-K+/C.EXT.S ME\/1-K+../g
+:%s/Comp.ext.sat. m.e.\/1-HCO3-/C.EX.S ME\/1-HCO3-/g
+:%s/Composición extracto de saturación, me\/1-HCO3-/C.EX.S ME\/1-HCO3-/g
+:%s/Comp.ext.sat. m.e.\/1-SO4-/C.EXT.S ME\/1-SO4-/g
+:%s/Composición extracto de saturación, me\/1-SO4=/C.EXT.S ME\/1-SO4-/g
+:%s/Comp.ext.sat. m.e.\/1-Cl-/C.EXT.S ME\/1-Cl-./g
+:%s/Composición extracto de saturación, me\/1-Cl-/C.EXT.S ME\/1-Cl-./g
+:%s/RELACIÓN C\/N.....|/RELACIÓN C\/N.....: /g
+:%s/Agua de la pasta (%)/H2O PASTA......../g
+:%s/Conductividad, mmhos\/cm:/CONDUCT mmhos\/cm.:/g
+:%s/Conductividad, mmhos\/cm (extracto de saturación):/CONDUCT mmhos\/cm.:/g
+:%s/CaCO 3 (%)/CaCO 3 (%)......./g
+:%s/Calcáreo, CaCO3, (%)/CaCO 3 (%)......./g
+:%s/CaCO 3 (%)..............:/CaCO 3 (%).......:/g
+:%s/Carbonatos, CaCO3 (%):/CaCO 3 (%).......:/g
+:%s/HORIZONTE->Mg++:/HORIZONTE->CI ME\/100G-Mg ++.:/g
+:%s/HORIZONTE->Na+:/HORIZONTE->CI ME\/100G-Na +..:/g
+:%s/HORIZONTE->K+:/HORIZONTE->CI ME\/100G-K +...:/g
+:%s/HORIZONTE->H+:/HORIZONTE->CI ME\/100G-H +...:/g
+:%s/HORIZONTE->HCO3-:/HORIZONTE->C.EX.S ME\/1-HCO3-:/g
+:%s/HORIZONTE->SO4-:/HORIZONTE->C.EXT.S ME\/1-SO4-:/g
+:%s/HORIZONTE->SO4=:/HORIZONTE->C.EXT.S ME\/1-SO4-:/g
+:%s/HORIZONTE->Cl-:/HORIZONTE->C.EXT.S ME\/1-Cl-.:/g
+
+:%s/HORIZONTE->Carbonatos (% CaCO3):/HORIZONTE->CaCO 3 (%).......:/g
+:%s/HORIZONTE->Suma de bases, S (meq\/100g):/HORIZONTE->SUM.B. ME\/100G(S):/g
+:%s/HORIZONTE->Capacidad de intercambio catiónico, T (meq\/100g):/HORIZONTE->CIC ME\/100G(T)...:/g
+:%s/HORIZONTE->Porcentaje de sodio de intercambio (P.S.I.):/HORIZONTE->% Na INTERC.(PSI):/g
+:%s/HORIZONTE->Saturación con bases, S\/T (%):/HORIZONTE->SAT.B % (S\/T)....:/g
+:%s/HORIZONTE->Conductividad (ext. satur.) (mmhos\/cm):/HORIZONTE->CONDUCT mmhos\/cm.:/g
+
+
+ESTO ES PARA GUIONES
+:%s/ |/|/g
+:%s/|/ | /g
+:%s/|  |/| - |/g
+:%s/|   |/| - |/g
+:%s/:  |/: - |/g
+:%s/|  |/| - |/g
+:%s/:  $/: -/g
+:%s/:   |/: - |/g
+:%s/: $/: -/g
+:%s/ a +$/a+/g

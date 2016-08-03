@@ -1,0 +1,294 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACb
+Capacidad de uso:VIws
+Índice de productividad: 26
+Descripción: Complejo de series
+Series: ARROYO CABRAL | ARROYO CABRAL en fase moderadamente sódica | LA PRIMAVERA | Suelos menores salino alcalinos
+Porcentajes: 30 | 20 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba
+Capacidad de uso: IIc
+Índice de productividad: 75
+Descripción: Consociación
+Series: BALLESTEROS
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba1
+Capacidad de uso: IIc
+Índice de productividad: 64
+Descripción: Consociación
+Series: BALLESTEROS en fase muy poco anegable
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba3
+Capacidad de uso: IVws
+Índice de productividad: 42
+Descripción: Complejo de series
+Series: BALLESTEROS en fase moderadamente bien drenada | EL CANDIL | SAN FRANCISCO DE ASÍS
+Porcentajes: 70 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba4
+Capacidad de uso: VIws
+Índice de productividad: 36
+Descripción: Complejo de series
+Series: BALLESTEROS en fase moderadamente bien drenada | LA REMONTA | SAN FRANCISCO DE ASÍS
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba5
+Capacidad de uso: VIIws
+Índice de productividad: 12
+Descripción: Complejo en fase poco anegable de series
+Series: BALLESTEROS | LA REMONTA | SAN FRANCISCO DE ASÍS
+Porcentajes: 20 | 40 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba7
+Capacidad de uso: IIIsc
+Índice de productividad: 64
+Descripción: Complejo de series
+Series: BALLESTEROS 50%; BALLESTEROS en fase sódica en profundidad 2 LAS PLAYAS | Suelos menores arenosos de derrame fluvial
+Porcentajes: 50 | 20 | 15 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba9
+Capacidad de uso: IIIsc
+Índice de productividad: 53
+Descripción: Complejo de series
+Series: BALLESTEROS | BALLESTEROS en fase salina y sódica en profundidad | VILLA MARÍA | VILLA MARÍA en fase salina sódica en profundidad
+Porcentajes: 20 | 30 | 30 | 20 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba10
+Capacidad de uso: IIIsc
+Índice de productividad: 55
+Descripción: Complejo de series
+Series: BALLESTEROS | BALLESTEROS en fase moderadamente bien drenada | AUSONIA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ba11
+Capacidad de uso: IVws
+Índice de productividad: 45
+Descripción: Complejo de series
+Series: BALLESTEROS en fase moderadamente bien drenada | VILLA MARÍA | AUSONIA
+Porcentajes: 40 | 20 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Cq3
+Capacidad de uso: VIws
+Índice de productividad: 22
+Descripción: Complejo indiferenciado de Series
+Series: CAYUQUEO | LA VICTORIA | HERNANDO | ETRURIA en fase ligera a moderadamente erosionada
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CVa
+Capacidad de uso: Vw
+Índice de productividad: 30
+Descripción: Consociación
+Series: COLONIA VIDELA
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CVa1
+Capacidad de uso: Vws
+Índice de productividad: 38
+Descripción: Complejo de series
+Series: COLONIA VIDELA en fase moderadamente alcalina | HERNANDO en fase moderadamente bien drenada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ECd5
+Capacidad de uso: VIws
+Índice de productividad: 25
+Descripción: Complejo de series
+Series: EL CANDIL | SAN FRANCISCO DE ASÍS | MORRISON | BALLESTEROS
+Porcentajes: 30 | 40 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ESa3
+Capacidad de uso: IVsc
+Índice de productividad: 42
+Descripción: Complejo de series
+Series: EL SAUCE | MANFREDI en fase moderadamente bien drenada | Suelos arenosos con distinto desarrollo, en capas enterrados
+Porcentajes: 30 | 20 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: GPz2
+Capacidad de uso: VIws
+Índice de productividad: 39
+Descripción: Complejo de series
+Series: GENERAL PAZ | LA LAGUNITA | LA PLAYOSA | LAS PLAYAS
+Porcentajes: 30 | 20 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LPy
+Capacidad de uso: IIIsc
+Índice de productividad: 67
+Descripción: Consociación
+Series: LAS PLAYAS
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LSd
+Capacidad de uso: VIIws
+Índice de productividad: 5
+Descripción: Complejo de series
+Series: LA SALADA | ALTO ALEGRE
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mf
+Capacidad de uso: IIIc
+Índice de productividad: 71
+Descripción: Consociación
+Series: MANFREDI
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mf1
+Capacidad de uso: IIIw
+Índice de productividad: 69
+Descripción: Asociación de series
+Series: MANFREDI | LA REYNA
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mf2
+Capacidad de uso: VIws
+Índice de productividad: 41
+Descripción: Complejo de series
+Series: MANFREDI en fase moderadamente bien drenada | LA RESISTENCIA | JAMES CRAIK
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mf3
+Capacidad de uso: IVws
+Índice de productividad: 50
+Descripción: Complejo de series
+Series: MANFREDI | HERNANDO en fase moderadamente bien drenada | Suelos menores cementados y alcalinos en profundidad
+Porcentajes: 30 | 40 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ML
+Capacidad de uso: VIws
+Índice de productividad: 28
+Descripción: Complejo indeterminado Monte Leña de suelos salinos y alcalinos en áreas deprimidas de derrame fluvial
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mo
+Capacidad de uso: VIws
+Índice de productividad: 14
+Descripción: Complejo indiferenciado en fase poco inundable de series
+Series: MORRISON | SAN FRANCISCO DE ASIS | LA MASCOTA
+Porcentajes: |||
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mo1
+Capacidad de uso: VIIws
+Índice de productividad: 6
+Descripción: Complejo en fase anegable de series 
+Series: MORRISON | SAN FRANCISCO DE ASIS | Suelos menores degradados salinos y sódicos
+Porcentajes: 20 | 50 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mo2
+Capacidad de uso: IIIws
+Índice de productividad: 51
+Descripción: Complejo de series
+Series: AMORRISON 40% y BALLESTEROS en fase moderadamente bien drenada
+Porcentajes: 40 | 60
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mo3
+Capacidad de uso: IVws
+Índice de productividad: 46
+Descripción: Complejo de series
+Series: MORRISON | BALLESTEROS en fase moderadamente bien drenada | AUSONIA
+Porcentajes: 30 | 50 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot
+Capacidad de uso: IIIc
+Índice de productividad: 64
+Descripción: Consociación ONCATIVO
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot1
+Capacidad de uso: IIIc
+Índice de productividad: 64
+Descripción: Asociación de series
+Series: ONCATIVO | MANFREDI en fase moderadamente bien drenada
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot2
+Capacidad de uso: IVws
+Índice de productividad: 51
+Descripción: Complejo de series
+Series: ONCATIVO | HERNANDO en fase moderadamente bien drenada | LA REMONTA
+Porcentajes: 30 | 40 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot3
+Capacidad de uso: IIIsc
+Índice de productividad: 52
+Descripción: Complejo de series
+Series: ONCATIVO | ONCATIVO en fase salina y sódica en profundidad | MANFREDI en fase sódica en profundidad
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot4
+Capacidad de uso: IVsc
+Índice de productividad: 44
+Descripción: Complejo de series
+Series: ONCATIVO | MANFREDI en fase moderadamente bien drenada | LA PLAYOSA | AUSONIA
+Porcentajes: 30 | 20 | 20 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot6
+Capacidad de uso: IIIsc
+Índice de productividad: 53
+Descripción: Complejo de series
+Series: ONCATIVO | MANFREDI en fase moderadamente bien drenada | VILLA MARÍA | VILLA MARÍA en fase salina y sódica en profundidad
+Porcentajes: 20 | 20 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot7
+Capacidad de uso: IIIec
+Índice de productividad: 58
+Descripción: Consociación
+Series: ONCATIVO en fase ligeramente erosionada
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ot8
+Capacidad de uso: IIIsc
+Índice de productividad: 66
+Descripción: Complejo de series
+Series: ONCATIVO 50%; BALLESTEROS | VILLA MARÍA
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Pyt
+Capacidad de uso: VIsc
+Índice de productividad: 10
+Descripción: Complejo indeterminado Pampayasta de suelos fluviales y fluvio-eólicos asociados a suelos salinos y sódicos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Pyt2
+Capacidad de uso: IVsc
+Índice de productividad: 31
+Descripción: Complejo indeterminado Pampayasta 2 de suelos arenosos y limosos moderadamente alcalinos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Pyt3
+Capacidad de uso: VIIws
+Índice de productividad: 4
+Descripción: Complejo indeterminado Pampayasta 3 de áreas de inundación con suelos degradados salinos y sódicos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: SM
+Capacidad de uso: IIsc
+Índice de productividad: 61
+Descripción: Complejo indeterminado San Marcos de áreas de derrame
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: SM1
+Capacidad de uso: IIIsc
+Índice de productividad: 41
+Descripción: Complejo indeterminado San Marcos 1 de suelos arenosos aluviales de terrazas altas del Río Tercero y paleocauces
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Tc2
+Capacidad de uso: VIws
+Índice de productividad: 19
+Descripción: Complejo de series
+Series: TICINO | CAYUQUEO | EL SAUCE | Suelos menores moderadamente bien drenados con alcalinidad subsuperficial
+Porcentajes: 30 | 30 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Tc3
+Capacidad de uso: VIIws
+Índice de productividad: 5
+Descripción: Complejo de series
+Series:  TICINO | TICINO en fase salina y sódica de superficie | LA RESISTENCIA en fase salina y sódica de superficie
+Porcentajes: 30 | 40 | 30

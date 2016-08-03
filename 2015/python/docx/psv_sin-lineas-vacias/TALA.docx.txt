@@ -1,0 +1,193 @@
+--------------------------------------------------------------------------------
+SERIE TALA								 Símbolo: Ta
+Pertenece a la familia "fina, montmorillonítica y térmica" de los Argiudoles vérticos.
+Suelo moderadamente bien drenado, con un epipedón muy oscuro, franco-arcillo-limoso a franco arcilloso; y un horizonte argílico oscuro, arcillo limoso, con concreciones de calcáreo a partir de los 40-50 cm y caras de fricción ("slickensides").
+Son suelos desarrollados sobre materiales limo-loesoides retransportados y mezclados con material arenoso fluvial, con concreciones ferromanganesíferas evidencias de gleización fósil.
+Perfil tipo: ER4-12C
+Fecha: 6/X/1971
+Ubicación: Área muestra Arroyo Yacaré (foto 495-19) - Dpto. La Paz
+Reconocedores: J.M.Pérez - G.W. van Barneveld
+A1: 00-14 cm; gris muy oscuro (10YR 3/1) en húmedo; gris a gris muy oscuro (10YR 4.5/1) en seco; franco arcilloso a franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques angulares redondeados medios moderados; muy duro en seco; muy firme en húmedo; barnices ("humic skins") escasos y finos; vestigios de concreciones de hierro-manganeso; moteados de hierro-manganeso comunes a abundantes, finos y precisos; límite claro, suave. Horizonte lixiviado.
+B21t: 14-38 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; gris oscuro (10YR 4/1) en seco; arcillo-limoso; estructura en prismas compuestos irregulares medios moderados a débiles, que rompen en bloques angulares irregulares medios moderados; muy duro en seco; muy firme en húmedo; concreciones de calcáreo a partir de los 20 cm, escasas y finas; barnices ("humic y clay humic skins") escasos y finos; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos, precisos; límite gradual, suave.
+B22ca: 38-74 cm; gris muy oscuro (10YR 3/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso pesado; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares irregulares y bloques angulares redondeados medios, moderados a débiles; muy firme en húmedo; concreciones de calcáreo comunes de hasta 3 mm; barnices ("clay-humic skins") escasos y finos; caras de fricción ("slickensides") escasas y finas, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B3ca: 74-100 cm; pardo grisáceo muy oscuro (10YR 3.5/2) en húmedo; pardo (10YR 5/3) en seco; franco-arcillo-limoso pesado; estructura en prismas compuestos irregulares medios débiles que rompen en bloques angulares irregulares medios moderados; firme en húmedo; concreciones de calcáreo abundantes de hasta 5 mm; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso escasos, finos y precisos; límite difuso, suave. Horizonte con manchas y chorreaduras de materia orgánica.
+Cca (g): 100 cm +; pardo oscuro a pardo (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso liviano; estructura masiva; friable en húmedo; escasa cantidad de carbonatos libres en la masa; comunes concreciones de calcáreo; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos. Horizonte con chorreaduras de materia orgánica y gley fósil (color gris rojizo, 5YR 5/2).
+Variabilidad de rasgos
+El solum varía de 75-125 cm. El epipedón tiene un espesor de 15-25 cm (que en las fases erosionadas puede variar de 10-15 cm) con una estructura en bloques subangulares y angulares moderados a fuertes; generalmente incluye un horizonte A11 y un A12, o un A1 y un B1 (en las fases erosionadas el epipedón es más somero, pudiendo describirse solo un A1 o, raras veces, un horizonte combinado AB). Tiene 22-30 % de arcilla y 15-20 % de arena -con predominio de arena fina (100-250 micrones)- y 2-3 % de materia orgánica.
+El horizonte B2, argílico, varía de 30-70 cm en espesor y tiene una estructura en prismas irregulares que rompen en bloques angulares moderados a fuertes, con caras de fricción ("slickensides") escasas a comunes; tiene 40-45 % de arcilla y 6-10 % de arena (menos que en el epipedón y disminuyendo en profundidad). Las concreciones de calcáreo, comunes a escasas y de 0.1-1 cm de diámetro, aparecen a los 40-50 cm. El calcáreo libre aparece más abajo (50-,70 cm).
+Son suelos desarrollados en materiales franco-arcillo-limosos, con 32-37 % de arcilla y 6-8 % de arena (menos que en el B2). El color del horizonte C varía de 7.5YR 6/4 a 5/3.
+Son materiales comúnmente poco alcalinos con 2-3 % de Na+ intercambiable; el contenido correspondiente al perfil tipo es demasiado elevado para la serie (15-17 %).
+El suelo se caracteriza por moteados (a veces desde superficie), concreciones ferromanganesíferas y síntomas de gleización que probablemente son fósiles ya que las condiciones actuales de drenaje no son tan pobres como para imprimir tales características en el perfil.
+Fases
+Ligeramente erosionada
+Moderadamente erosionada
+Severamente erosionada
+Muy poco anegadizo
+Suavemente inclinada a imperfectamente drenada
+Series similares y sus diferencias
+Se parece a la Serie Tacuaras (pero ésta es más arenosa y no tiene características vérticas).
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad moderadamente lenta a lenta. Napa freática moderadamente lenta a lenta. Napa freática moderadamente profunda. Grupo hidrológico C.
+Erosión
+Existen fases por erosión ligera, moderada y severa (pero estos dos últimos casos están casi restringidos a las áreas con mayor uso agrícola y son poco frecuentes).
+Vegetación típica
+Monte ralo de espinillo (Acacia caven), tala (Celtis sp.), ñandubay (Prosopis algarrobillo), chañar (Geoffroea decorticans), yuquerí (Acacia bonariensis) y cina-cina (Parkinsonia aculeata), con especies herbáceas cono Cyndodon dactylum (gramón), Schyzachyrium microstachum (cola de zorro), Setaria geniculata (pasto barabal) y Baccharis coridifolia.
+DATOS ANALÍTICOS DEL PERFIL TIPO
+Serie Tala
+ER4-12C
+Nº de registro
+ 550
+ 551
+ 552
+ 553
+ 554
+Horizonte
+ A1
+ B21t
+ B22ca
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-14
+ 26-36
+ 48-62
+ 84-98
+ 110-130
+Mat.organica (%)
+ 2.3
+ 2.0
+ 1.5
+ 0.5
+ 0.3
+C/N
+ 10
+ 10
+ 10
+ 10
+ 9
+T <2
+ 30.5
+ 45.0
+ 45.7
+ 35.9
+ 37.0
+E 2-20
+ 16.2
+ 15.5
+ 17.8
+ 20.2
+ 21.8
+X 2-50
+ 54.8
+ 46.8
+ 47.8
+ 56.6
+ 56.2
+T 50-100
+ 3.1
+ 1.8
+ 1.4
+ 1.3
+ 1.3
+U 100-250
+ 8.6
+ 4.4
+ 3.6
+ 4.4
+ 4.0
+R 250-500
+ 3.0
+ 2.0
+ 1.5
+ 1.8
+ 1.5
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.0
+ 0.2
+ 2.2
+ 6.4
+ 3.8
+pH H2O
+ 6.2
+ 7.6
+ 8.1
+ 8.3
+ 8.3
+pH ClK
+ 5.6
+ 6.4
+ 6.6
+ 6.7
+ 6.6
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ 25.8
+ 41.0
+ 38.4
+ 31.5
+ 34.0
+D
+Ca++
+ 19.5
+ -
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ 2.8
+ -
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 0.7
+ 0.6
+ 0.6
+ 0.7
+ 1.0
+O
+M
+N
+B
+Na+
+ 1.4
+ 3.2
+ 5.2
+ 5.5
+ 6.0
+E
+I
+S
+O
+H+
+ 2.0
+ -
+ -
+ -
+ -
+% Na/T
+ 5.4
+ 7.8
+ 13.5
+ 17.4
+ 17.7
+Equivalente de humedad (%)
+ 32.1
+ 46.6
+ 55.0
+ 46.1
+ 46.5

@@ -1,0 +1,215 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO ACHIRAS Símbolo: Aach
+Pertenece a la familia "fina, mixta, térmica" de los Argialboles típicos (Molisol con un horizonte álbico y un horizonte subsuperficial argílico).
+Son suelos profundos, moderadamente bien drenados, con un horizonte eluviado (A2) bien desarrollado y poroso, franco limoso, debajo de un epipedón mólico. Tienen un horizonte argílico oscuro, arcillo-limoso a franco-arcillo-limoso, con concreciones de hierro-manganeso de hasta 4 mm y algunas caras de fricción ("Slickensides") finas, no intersectadas.
+Son suelos desarrollados en materiales limos loessoides retransportados, franco-arcillo-limosos.
+Perfil tipo: ER1-1C
+Fecha: 17-XII-1974
+Ubicación: Paso Birrinchín (foto 484-12) - Dpto. Federal.
+Reconocedores: R.H. Fuentes; G.W. van Barneveld.
+A11: 00-12 cm; gris oscuro (10YR 4/1) en seco y gris muy oscuro a negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, débiles; blando en seco, friable en húmedo; moteados de hierro-manganeso precisos, escasos y finos; concreciones de hierro-manganeso escasas; muy poroso y lixiviado en la cara de los agregados; límite claro, suave.
+A12: 12-24 cm; gris oscuro (10YR 4/1) en seco y negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay humic skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; concreciones de hierro-manganeso escasas a abundantes; muy poroso y lixiviado en la cara de los agregados; límite claro, suave.
+A2: 24-40 cm; gris a gris claro (10YR 6/1) en seco y gris a gris oscuro (10YR 4.5/1) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados a masivo; blando en seco; muy friable en húmedo; moteados comunes, finos y precisos; concreciones de hierro-manganeso escasas; muy poroso; límite claro, suave.
+B21t: 40-63cm; gris oscuro (10YR 4/1) en seco y negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; extremadamente duro en seco; firme en húmedo; barnices ("clay humic skins") muy abundantes; moteados hierro-manganeso precisos, comunes y finos; concreciones de hierro-manganeso abundantes de hasta 2 mm; poros, crotovinas; límite gradual, suave.
+B22t: 63-81cm; gris oscuro (10YR 4/1) en seco, gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, muy fuertes; extremadamente duro en seco, muy firme en húmedo; barnices ("clay skins") abundantes; moteados de hierro-manganeso precisos, comunes y finos; concreciones de hierro-manganeso muy abundantes de hasta 4mm de diámetro; horizonte muy poroso; límite gradual, suave.
+B3ca: 81-105cm; pardo gris claro a pardo pálido (10YR 6/2.5) en seco, pardo grisáceo (10YR 5/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y bloques cuneiformes medios, moderados; duro en seco, friable en húmedo; barnices ("clay skins") abundantes; caras de fricción ("slickensides") escasos; moteados de hierro-manganeso precisos, comunes y finos; concreciones de hierro-manganeso abundantes de hasta 4mm; concreciones de calcio abundantes (muchas de ellas en forma de glébulas) hasta 10mm; horizonte poroso; límite difuso, suave.
+C: 105cm +; gris pardo a pardo pálido (10YR 6/2.5) en húmedo; caras de fricción ("slickensides") abundantes; moteados de hierro-manganeso abundantes; concreciones de hierro-manganeso abundantes, gruesas, colores abigarrado.
+Variabilidad de rasgos
+Se han descripto perfiles cuyos epipedones son mas someros (23cm) y con el horizonte de máxima eluviación no tan desarrollado; aunque los tenores de arcilla en el B2t se mantienen entre 40-46%, siendo el horizonte de máxima iluviación el B21. En todos los perfiles estudiados se observan moteados de hierro-manganeso comunes a abundantes como así también la porosidad es muy evidente; prevaleciendo además el cambio textural abrupto a partir de 25-40cm.
+Fases
+No presenta a nivel de reconocimiento.
+Series similares y sus diferencias
+La serie Arroyo Achiras se parece a la serie Yeso pero ésta es más arcillosa y con características vérticas y a la serie Banderas que tiene epipedón más somero, menos lixiviado y calcáreo más alto.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado, localmente algo lento. Permeabilidad moderadamente lenta. Napa freática 2 metros. Grupo hidrológico C.
+Erosión
+No presenta erosión hídrica, como tampoco susceptibilidad a la misma.
+	
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Achiras
+ER5-21C
+N° de registro
+ 1.630
+ 1.626
+ 1.627
+ 1.624
+ 1.625
+ 1.629
+Horizonte
+ A11
+ A12
+ A2
+ B21t
+ B22t
+ B3ca
+Profundidad (cm)
+ 01-12
+ 14-20
+ 25-35
+ 46-57
+ 67-78
+ 85-97
+Mat.organica (%)
+ 6.42
+ 3.25
+ 1.00
+ 0.86
+ 0.45
+ 0.14
+N (%)
+ 0.39
+ 0.25
+ 0.18
+ 0.07
+ 0.05
+ 0.05
+C/N
+ 8
+ 7
+ 3
+ 7
+ 5
+ 2
+T <2
+ 29.38
+ 29.90
+ 19.90
+ 36.67
+ 43.32
+ 37.39
+E 2-20
+ 35.81
+ 31.85
+ 38.02
+ 29.86
+ 26.58
+ 29.42
+X 2-50
+ 67.98
+ 67.95
+ 76.34
+ 60.12
+ 54.13
+ 60.17
+T 50-100
+ 0.12
+ 0.10
+ 0.09
+ 0.15
+ 0.02
+ 0.06
+U 100-250
+ 0.75
+ 0.70
+ 0.96
+ 0.75
+ 0.61
+ 0.58
+R 250-500
+ 1.63
+ 1.49
+ 2.56
+ 2.24
+ 1.83
+ 1.72
+A 500-1000
+ 1.14
+ 0.04
+ 0.16
+ 0.04
+ 0.06
+ 0.08
+ 1000-2000
+ 0.00
+ 0.00
+ 0.00
+ 0.04
+ 0.04
+ 0.00
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 1.7
+PH H2O
+ 5.8
+ 5.9
+ 6.2
+ 6.4
+ 6.9
+ 7.7
+PH ClK
+ 4.1
+ 4.5
+ 5.4
+ 5.1
+ 5.5
+ 6.4
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 28.5
+ 29.4
+ 19.2
+ 34.0
+ 32.4
+ 48.4
+D
+Ca++
+ 20.0
+ 15.8
+ 8.6
+ 22.4
+ 28.0
+ 39.8
+C
+E
+A
+Mg++
+ 1.8
+ 0.2
+ 0.4
+ 1.6
+ 1.8
+ 1.2
+T
+C
+I
+A
+K+
+ 0.1
+ 0.7
+ 0.5
+ 0.8
+ 0.9
+ 0.8
+O
+M
+N
+B
+Na+
+ 0.1
+ 0.8
+ 0.4
+ 1.0
+ 1.3
+ 1.4
+E
+I
+S
+O
+H+
+ 5.2
+ 10.9
+ 8.8
+ 7.1
+ -
+ -
+Equivalente de humedad (%)
+ 39.85
+ 29.58
+ 23.89
+ 34.19
+ 41.60
+ 36.68

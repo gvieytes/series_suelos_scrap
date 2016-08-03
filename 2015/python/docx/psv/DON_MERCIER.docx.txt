@@ -1,0 +1,347 @@
+
+--------------------------------------------------------------------------------
+SERIE DON MERCIER Símbolo: DMr
+
+
+Pertenece a la familia "fina, térmica" de los Peludertes árgicos.
+Presenta un epipedón somero, negro, franco con arena que disminuye en profundidad y un B2 textural argílico con prismas compuestos irregulares, caras de fricción ("slickensides") abundantes, finas e intersectadas y arena fina en todo el perfil.
+Son suelos profundos, imperfectamente drenados con gley fósil al metro de profundidad.
+
+Son suelos desarrollados en materiales arcillo-limosos ("limos calcáreos").
+
+
+Perfil tipo: ER7-104C
+Fecha: 18-VII-1995
+Ubicación: Estancia "La Fe" (foto IR 420-82) - dto. Montoya - Dpto. Victoria.
+Reconocedores: L.O.López; O.A.Foti.
+
+
+A1: 00-15 cm; negro (10YR 2.5/1) en húmedo; franco; estructura granular y en bloques subangulares medios, moderados; muy duro en seco, friable en húmedo; barnices ("clay-humic") comunes, finos; moteados de hierro-manganeso escasos, finos y precisos; límite abrupto, suave.
+
+B21t: 15-45 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo; estructura en prismas compuestos irregulares medios moderados que rompen a prismas compuestos irregulares finos, débiles; friable en húmedo; barnices ("clay-humic") escasos finos, ("clay skins"); caras de fricción ("slickensides") intersectadas, comunes finas; moteados de hierro-manganeso comunes, medios y precisos; concreciones de hierro-manganeso escasas, finas; límite claro, suave.
+
+B22t: 45-63 cm; gris oscuro (10YR 4/1) en húmedo; franco-arcilloso; estructura en prismas compuestos regulares gruesos y moderados, que rompen en bloques angulares y cuneiformes medios, moderados; extremadamente duro en seco y firme en húmedo; barnices ("clay humic skins") escasos; caras de fricción ("slickensides") intersectadas, comunes y finas; moteados de hierro-manganeso abundantes, medios y precisos; concreciones de hierro-manganeso escasas y finas; presencia de arena gruesa en la cara de los agregados; límite gradual, ondulado.
+
+B31ca: 63-74 cm; abigarrado en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares y bloques angulares irregulares medios, moderados; firme en húmedo; caras de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso abundantes, medios y precisos; carbonatos libres en la masa comunes a abundantes; concreciones de calcio escasas; presencia de arena gruesa; límite gradual, ondulado.
+
+B32ca: 74-102 cm; pardo (10YR 5/3) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares gruesos y fuertes que rompen a prismas compuestos irregulares, finos y débiles; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas; abundantes carbonatos libres en la masa; concreciones calcáreas escasas; moteados de hierro-manganeso abundantes, medios y precisos; miscelios de carbonatos de calcio; límite gradual, ondulado.
+
+Cg: 102 cm+; pardo pálido (10YR 6/3) en húmedo; franco-arcilloso; estructura masiva; friable en húmedo; caras de fricción ("slickensides") escasas y finas; gley fósil de colores abigarrados.
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por dos procesos: uno es la expansión y contracción del material arcilloso que da lugar a la formación incipiente del gilgai (aunque no se manifiesta como un microrrelieve visible en el terreno) y el otro, la erosión.
+
+Otro factor que determina la alta variabilidad de rasgos de la serie es el contenido en arena (fina y media) del horizonte Ap, muy variable de un pedón a otro y a corta distancia. A esto ha contribuido, además, la remoción de la superficie del suelo por la labranza mecánica, dada la asociación de estos Vertisoles con los suelos arenosos profundos que la circundan (serie Rincón de Nogoyá y otros suelos menores).
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Hernández que tiene un B2t más arcilloso y se encuentra en otro paisaje (divisorias de aguas entre el río Paraná y el A° Nogoyá) y a la Serie General Ramírez (con valores más altos de arcilla en el horizonte superficial).
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial medio; permeabilidad lenta; napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Don Mercier presenta un grado de erosión leve a moderada (laminar, en surcos y cárcavas) y tiene un moderado peligro de erosión severa en surcos y en cárcavas profundas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Don Mercier
+
+ER7-104C
+Nº de registro
+ 10.469
+ 10.470
+ 10.471
+ 10.472
+ 10.473
+ 10.474
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cg
+Profundidad (cm)
+ 02-14
+ 30-42
+ 50-60
+ 63-73
+ 80-95
+ 110-120
+Mat.organica (%)
+ 3.41
+ 1.21
+ 0.78
+ 0.71
+ 0.35
+ 0.07
+N (%)
+ 0.19
+ 0.07
+ 0.06
+ 0.07
+ 0.04
+ 0.00
+C/N
+ 10
+ 10
+ 8
+ 6
+ 6
+ 13
+
+T < 2 u
+
+ 21.17
+
+ 35.0
+
+ 33.10
+
+ 32.28
+
+ 32.00
+
+ 38.88
+E 2-20 u
+ 20.32
+ 16.01
+ 16.00
+ 17.14
+ 16.21
+ 20.14
+X 2-50 u
+ 38.21
+ 30.59
+ 30.16
+ 31.32
+ 30.22
+ 36.36
+T 50-100 u
+ 0.61
+ 0.08
+ 0.25
+ 0.37
+ 0.31
+ 0.37
+U 100-250 u
+ 38.68
+ 32.30
+ 30.54
+ 34.42
+ 35.80
+ 23.12
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 1.32
+ 2.02
+ 5.94
+ 1.59
+ 1.64
+ 1.22
+
+CO3Ca (%)
+
+ -
+
+ 0.5
+
+ 0.9
+
+ 5.5
+
+ 3.3
+
+ 0.6
+pH H2O
+ 5.1
+ 5.9
+ 7.6
+ 8.0
+ 8.0
+ 7.7
+pH ClK
+ 4.6
+ 5.0
+ 6.6
+ 6.9
+ 6.9
+ 6.5
+Conductividad eléctrica mmhos/cm
+
+
+ 0.469
+
+
+ 0.315
+
+
+ 0.654
+
+
+ 0.611
+
+
+ 0.577
+
+
+ 0.527
+
+Capacidad de intercambio
+Catiónico (meq/100 g) =
+valor T
+
+
+
+ 24.66
+
+
+
+ 36.44
+
+
+
+ 34.52
+
+
+
+ 31.22
+
+
+
+ 31.66D
+
+
+
+ 38.12
+
+
+d
+Ca++
+ 17.76
+ 29.32
+ 29.50
+ 26.60
+ 26.14
+ 32.12
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 1.20
+ 1.30
+ 1.46
+ 1.82
+ 2.08
+ 2.86
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.46
+ 1.28
+ 1.32
+ 1.28
+ 1.30
+ 1.36
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.46
+ 0.56
+ 1.15
+ 1.50
+ 1.75
+ 1.50
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+% Na/T
+
+ 1.86
+
+ 1.53
+
+ 3.33
+
+ 4.80
+
+ 5.53
+
+ 3.94
+Equivalente de humedad (%)
+ 21.59
+ 34.72
+ 33.62
+ 30.29
+ 30.73
+ 38.30
+Fósforo asimilable (ppm P2O5)
+ 2.36
+ 1.12
+ 1.10
+ -
+ -
+ -
+
+
+N.D.= No determinado.
+

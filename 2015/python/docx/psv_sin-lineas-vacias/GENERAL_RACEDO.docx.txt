@@ -1,0 +1,203 @@
+--------------------------------------------------------------------------------
+SERIE GENERAL RACEDO Símbolo: Rc
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados y levemente erosionados, con un epipedón oscuro, franco-arcillo-limoso, y un horizonte argílico oscuro, arcillo-limoso, con caras de fricción ("slickensides") y grietas cuando seco.
+Tienen concreciones de calcáreo a partir del horizonte B3.
+Son suelos desarrollados en materiales loessoides retransportados, franco-arcillo-limoso.
+Perfil tipo: ER7-1C
+Fecha: 25-X-1973
+Ubicación: Esc. Agrotécnica Las Delicias (foto IRH444-04) - Dpto. Paraná.
+Reconocedores: E. Scotta; G.W. van Barneveld.
+Ap: 00-17 cm; gris muy oscuro (10YR 3/1) en húmedo; gris (10YR 5/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic skins"), escasos y finos; límite claro, suave.
+B1: 17-27 cm; gris muy oscuro (10YR 3/1) en húmedo; gris a gris oscuro (10YR 4.5/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios, moderados; duro en seco; friable en húmedo; barnices ("clay-humic skins") comunes y finos; moteados de hierro-manganeso comunes, finos y precisos; horizonte levemente compactado ("piso de arado"); límite abrupto, suave.
+B21t: 27-49 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay humic skins") abundantes y medios; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 49-88 cm; pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay-humic skins") comunes y finos; caras de fricción ("slickensides") comunes y medias, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B3ca: 88-124 cm; pardo (7.5YR 5/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, débiles; firme en húmedo; caras de fricción ("slickensides") escasas y medias, no intersectadas; moteados de hierro-manganeso escasos, finos y débiles; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 1 cm, comunes; material de horizontes superiores; límite gradual, suave.
+Cca: 124 + cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; caras de fricción ("slickensides") escasas y medias, no intersectadas; moteados de hierro-manganeso escasos, finos y débiles; concreciones calcáreas de hasta 0.5 cm, comunes.
+Variabilidad de rasgos
+El solum varía de 110-120 cm, aproximadamente.
+El epipedón mólico incluye los horizontes A1 y B1 ó A3, y varía de 18-30 cm. El A1 varia de 12-20 cm y tiene una textura franco-arcillo-limosa (27-32% de arcilla) y 2.5-4 % de materia orgánica. El horizonte B1 ó A3 tiene una textura franco-arcillo-limosa (30-35 % de arcilla) y una estructura normalmente algo prismática. Por la acción de la labranza, el B1 está muchas veces mezclado con el A1, puede estar compactado ("piso de arado") y es común encontrar moteados en la parte inferior del mismo. El límite con el B2 frecuentemente es abrupto.
+El horizonte argílico, de estructura prismática compuesta, varía de 50-70 cm de espesor y tiene, aproximadamente, 44-50 %. Generalmente, tiene caras de fricción ("slickensides") no intersectadas y, en seco, se agrieta moderadamente, con grietas de hasta 1 cm. Las concreciones de calcáreo se encuentran en el horizonte B3, a partir de 70-100 cm; y, localmente, a mayor profundidad.
+Fases
+Moderadamente erosionada (símbolo: Rc.h2)
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial moderado. Permeabilidad muy lenta. Capa freática muy profunda. Grupo hidrológico D.
+Erosión
+La Serie General Racedo tiene una erosión actual leve; la susceptibilidad a la misma, en forma laminar y en surcos, es moderada. Parte de los suelos de esta serie pertenece a la fase moderadamente erosionada, con un epipedón de 07-15 cm más arcilloso que el modal, y con una estructura menos favorable y un tenor más bajo de materia orgánica.
+	
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie General Racedo
+ER7-1C
+Nº de registro
+ 1146
+ 1147
+ 1148
+ 1149
+ 1150
+ 1151
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-17
+ 17-27
+ 30-42
+ 52-68
+ 96-114
+ 130-142
+Mat.organica (%)
+ 3.46
+ 2.72
+ 1.43
+ 0.79
+ 0.45
+ 0.10
+N (%)
+ 0.223
+ 0.158
+ 0.118
+ 0.076
+ 0.052
+ -
+C/N
+ 9
+ 10
+ 7
+ 6
+ 5
+ -
+T
+ <2 u
+ 27.60
+ 30.90
+ 44.50
+ 43.20
+ 38.80
+ 36.30
+E
+ 2-20 u
+ 34.90
+ 30.50
+ 25.00
+ 25.00
+ 24.70
+ 26.60
+X
+ 2-50 u
+ 68.30
+ 65.40
+ 52.50
+ 53.60
+ 57.40
+ 60.00
+T
+ 50-200 u
+ 3.90
+ 3.50
+ 2.80
+ 3.10
+ 3.20
+ 2.70
+U
+ 200-1000 u
+ 0.20
+ 0.20
+ 0.20
+ 0.10
+ 0.60
+ 1.00
+R
+ 1000-2000 u
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+A
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 2.4
+ 3.6
+pH H2O
+ 5.8
+ 6.1
+ 6.5
+ 6.9
+ 8.3
+ 8.2
+pH ClK
+ 5.3
+ 5.4
+ 5.6
+ 5.8
+ 7.7
+ 7.5
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 20.90
+ 23.10
+ 33.70
+ 30.40
+ N.D.
+ N.D.
+ d Ca ++
+ 17.10
+ 18.80
+ 28.60
+ 26.30
+ 29.90
+ 29.90
+C e
+Mg++
+ 2.60
+ 1.90
+ 1.80
+ 1.70
+ N.D.
+ N.D.
+t C
+i a K+
+ 0.90
+ 0.60
+ 1.00
+ 1.10
+ 1.00
+ 1.10
+o m
+n b Na+
+ 0.20
+ 0.20
+ 0.60
+ 0.80
+ 0.90
+ 0.90
+e i
+s o H+
+ 2.10
+ 1.60
+ 1.70
+ 0.50
+ N.D.
+ N.D.
+% Na/T
+ 0.96
+ 0.87
+ 1.78
+ 2.63
+ -
+ -
+Equivalente de humedad (%)
+ 20.00
+ 31.40
+ 45.70
+ 43.40
+ 37.30
+ 36.20

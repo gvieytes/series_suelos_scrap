@@ -1,0 +1,273 @@
+--------------------------------------------------------------------------------
+SERIE CHAJARÍ								 Símbolo: Chj
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+El epipedón es oscuro, franco a franco arenoso y una profundidad que varía entre 15 - 20 cm y está bien estructurado.
+Le sigue un horizonte B2, denso, poco permeable; a menudo se presenta compactado y tiene estructura franco arcillosa a franco arcillo arenosa. Las caras de fricción ("slickensides") son escasas. Se agrieta en seco y el porcentaje de arcilla comúnmente supera el 30 %.
+ Presenta concreciones ferromanganesíferas y moteados desde la superficie.
+El horizonte B3 (transicional) es más claro que los suprayacentes y tiene concreciones calcáreas que aparecen a partir de los 50 - 60 cm, aunque se han estudiado perfiles donde éstas se encuentran a mayor profundidad.
+El material madre de esta serie está constituido por una mezcla de los sedimentos típicos que generaron los Vertisoles del área, con escaso aporte de las arenas de las antiguas terrazas del río Uruguay.
+
+
+Perfil tipo: ER3 - 56C
+Ubicación: 4 Km al O de la ciudad de Chajarí.
+Reconocedores: R.E. Kleinerman; L.O. López
+
+
+A1: 00-18 cm; pardo grisáceo muy oscuro (10 YR 3,5/2) en húmedo y pardo grisáceo (10 YR 5/2) en seco; franco limoso; estructura en gránulos y bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("humic skins") escasos, finos; moteados de hierro y manganeso comunes, finos y precisos; concreciones de los mismos elementos de hasta 2 mm de diámetro abundantes, finas; límite claro, suave.
+
+B21: 18-44 cm; gris muy oscuro (10 YR 3/1) en húmedo y gris (10 YR 5/1) en seco; franco arcilloso; estructura de prismas compuestos irregulares medios moderados a débiles que rompen en bloques angulares irregulares medios, moderados; firme en húmedo; barnices ("clay humic skins") comunes, finos; caras de fricción ("slickensides") escasas, finas; concreciones de hierro y manganeso comunes de hasta 1 mm de diámetro; moteados de esos elementos, comunes, finos y precisos; límite claro, suave.
+
+B22ca: 44-60 cm; gris muy oscuro (10 YR 3/1) en húmedo, gris oscuro (10 YR 4/1) en seco; franco arcillo limoso; estructura de prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, débiles, extremadamente duro en seco; muy firme en húmedo; barnices ("clay humic skins") escasos, finos; caras de fricción ("slickensides") escasas finas; concreciones de hierro y manganeso de hasta 1 mm de diámetro; comunes; concreciones calcáreas abundantes, finas, moteados de hierro manganeso comunes, finos; límite claro, suave.
+
+B31ca: 60-87 cm; pardo grisáceo oscuro (10 YR 4/2) en húmedo, gris parduzco claro (10 YR 6/2) en seco; franco limoso; estructura en bloques angulares irregulares gruesos, débiles; extremadamente duro en seco, muy firme en húmedo; concreciones de hierro manganeso comunes de hasta 1 mm de diámetro; abundantes concreciones calcáreas de hasta 0,5 mm de diámetro, duros; límite difuso, suave.
+
+B32ca: 87-110 cm; pardo claro (7,5 YR 6/4) en húmedo; franco arcillo limoso; estructura masiva con tendencia a bloques aplanados y angulares regulares, gruesos débiles; extremadamente duro en seco, muy firme en húmedo; concreciones de hierro y manganeso escasas a comunes, finas; abundantes concreciones calcáreas de hasta 1 cm de diámetro; moteados de hierro y manganeso comunes, finos y precisos.
+
+
+Fases
+	
+Serie Chajarí - Fase Mal Drenada		 	 			Símbolo: Chj d1
+
+Ubicada en pequeñas alturas mesetiformes. Una de sus características notables es la compactación del subsuelo.
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento superficial medio. Permeabilidad lenta. Grupo hidrológico C.	
+
+
+Erosión
+
+Por lo general esta serie no presenta erosión hídrica y tiene una moderada susceptibilidad a la misma. Cuando está bajo uso agrícola, los tenores de materia orgánica disminuyen rápidamente cuando no se tiene precaución en su manejo, favoreciendo el escurrimiento superficial.	
+
+
+
+
+
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Chajarí
+
+ER3 - 56C
+
+
+
+
+
+Horizonte
+ A1
+ B21
+ B22ca
+ B31ca
+ B32ca
+Profundidad (cm)
+ 0-14
+ 26-40
+ 48-57
+ 67-80
+ 93-106
+Mat.organica (%)
+ 3,70
+ 1,91
+ 1,57
+ 1,29
+ 1,09
+C (%)
+ 2,15
+ 1,11
+ 0,92
+ 0,75
+ 0,63
+N (%)
+ 0,20
+ 0,17
+ 0,18
+ 0,18
+ ND
+C/N
+ 11,0
+ 7,0
+ 5,0
+ 4,2
+ ND
+
+T
+ <2 u
+ 12,0
+ 33,8
+ 38,2
+ 26,1
+ 30,9
+E
+ 2-20 u
+ 25,8
+ 22,0
+ 22,2
+ 36,6
+ 35,7
+X
+ 2-50 u
+ 25,8
+ 23,8
+ 27,3
+ 16,9
+ 16,7
+T
+ 50-100 u
+ -
+ -
+ -
+ -
+ -
+U
+ 100-250 u
+ 19,5
+ 10,8
+ 9,56
+ 8,62
+ 8,67
+R
+ 250-500 u
+ -
+ -
+ -
+ -
+ -
+A
+ 500-1000 u
+ 16,7
+ 9,4
+ 10,6
+ 12,4
+ 9,5
+
+
+
+
+
+
+CO3Ca (%)
+ 0,0
+ 0,0
+ 3,9
+ 9,3
+ 5,5
+% Saturación de Agua
+ 38,3
+ 74,6
+ 81,6
+ 66,9
+ 76,2
+Equivalente de Humedad (%)
+ 18,6
+ 38,0
+ 42,0
+ 35,5
+ 37,2
+pH en pasta
+ 5,0
+ 7,5
+ 5,4
+ 8,0
+ 8,2
+PH H2O
+ 6,0
+ 7,6
+ 8,4
+ 8,5
+ 8,5
+pH ClK
+ 4,7
+ 5,7
+ 7,0
+ 7,1
+ 7,1
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+Sales solubles grs (%)
+ -
+ -
+ -
+ -
+ -
+Resistencia de la pasta (Ohms/cm)
+ 1352
+ 503
+ 454
+ 436
+ 575
+
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 20,6
+ 33,4
+ 42,0
+ 27,0
+ 34,4
+
+Mg++
+ 1,6
+ 0,4
+ 2,2
+ 3,0
+ 2,8
+
+Na+
+ 0,22
+ 0,98
+ 0,18
+ 2,5
+ 2,3
+
+K+
+ 0,07
+ 0,22
+ 0,08
+ 0,15
+ 0,1
+Valor S (m.e./ 100 gr.)
+ 22,4
+ 35,0
+ 44,4
+ 32,6
+ 39,6
+H de cambio (m.e. / 100 gr.)
+ 3,2
+ 2,7
+ ND
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 26,4
+ 37,9
+ 45,8
+ 34,9
+ 39,9
+% de saturación de T
+ 85,1
+ 92,3
+ 97,0
+ 93,5
+ 99,2
+% de saturación de S + H
+
+
+
+
+
+% Na/T
+ 0,8
+ 2,6
+ 0,4
+ 7,2
+ 5,8
+

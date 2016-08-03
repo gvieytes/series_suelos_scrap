@@ -1,0 +1,236 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO MARTINEZ I Símbolo: AMz I
+Pertenece a la familia "fina, montmorillonítica moderadamente alcalina, térmica" de los Natracualfes típicos.
+Suelos profundos, imperfectamente drenados, de colores claros.
+Poseen un epipedón algo eluviado, sobre un horizonte argílico que presenta pequeños cristales de yeso en el horizonte B2 y B3 y calcáreo alto en el perfil (35-40 cm), aumentando considerablemente en profundidad.
+Están desarrollados en limos calcáreos.
+Perfil tipo: ER1-115C
+Fecha: 19-VIII-1999
+Ubicación: (foto IR 446-40) - dto. Raíces - Dpto. Villaguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-10 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, gris (10YR 6/1 en seco; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques subangulares, medios, moderados; duro en seco y firme en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso, comunes, finos y precisos; límite abrupto, suave.
+B21t: 10-32 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; duro en seco, firme en húmedo; barnices ("clay-humic skins") comunes a abundantes; concreciones calcáreas, escasas; moteados de hierro-manganeso comunes, finos y débiles; límite claro, suave.
+B22tcacs: 32-55 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medios, finos; muy duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes; escasos carbonatos libres en la masa; concreciones calcáreas comunes, blandas; moteados de hierro-manganeso comunes, medios, precisos; comunes cristales finos de yeso; límite gradual, suave.
+B31cacs: 55-80 cm; gris oscuro (10YR 4/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; muy duro en seco, muy firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas; abundantes carbonatos libres en la masa; concreciones calcáreas, abundantes, blandas; moteados de hierro-manganeso comunes, medios y precisos; abundantes cristales de yeso; límite gradual, suave.
+B32ca: 80-120 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; muy duro en seco, firme en húmedo; barnices ("clay skins") comunes; abundantes carbonatos libres en la masa; concreciones calcáreas, abundantes, blandas y duras; moteados de hierro-manganeso, abundantes, medios y precisos; escasos a comunes cristales finos de yeso; límite gradual, suave.
+Cca: 120 cm +; pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; duro en seco, firme en húmedo; comunes carbonatos libres en la masa; concreciones calcáreas abundantes, blandas; caras de fricción ("slickensides") escasas a comunes; moteados de hierro-manganeso comunes, medios y sobresalientes.
+Variabilidad de rasgos
+El epipedón está compuesto normalmente de un horizonte A1 corto (su espesor varía de 10 a 12 cm.) que en algunos perfiles se puede describir como A2.
+El horizonte B2 varía entre 45 a 50 cm de espesor con estructura en bloques angulares y con presencia de yeso en forma de pequeños cristales variando en cantidad y profundidad, además es levemente salino a partir de los 35 cm. El calcáreo aparece muy alto en el perfil (30 cm. de profundidad).
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Drenaje
+Imperfectamente drenado. Escurrimiento muy lento. Permeabilidad lenta. Capa freática poco profunda. Grupo hidrológico D.
+Erosión
+La serie Arroyo Martínez está ligeramente erosionada y corre moderado peligro de erosión.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Martínez I
+ER1-115C
+Nº de registro
+ 4.754
+ 4.755
+ 4.756
+ 4.757
+ 4.758
+ 4.759
+Horizonte
+ A1
+ B21t
+ B22tcacs
+ B31cacs
+ B32ca
+ Cca
+Profundidad (cm)
+ 03-09
+ 15-25
+ 35-50
+ 60-75
+ 85-100
+ 130-145
+Mat.organica (%)
+ 6.2
+ 3.7
+ 2.2
+ 1.4
+ 0.9
+ 0.7
+N (%)
+ 0.23
+ 0.13
+ 0.06
+ 0.02
+ 0.01
+ 0.01
+C/N
+ 15
+ 16
+ 20
+ 28
+ 33
+ 43
+T
+ < 2 u
+ 31.21
+ 41.55
+ 50.66
+ 46.57
+ 45.76
+ 43.86
+E
+ 2-20 u
+ 30.58
+ 32.62
+ 27.81
+ 27.68
+ 28.01
+ 28.97
+X
+ 2-50 u
+ 67.57
+ 57.09
+ 48.49
+ 52.60
+ 53.35
+ 55.56
+T
+ 50-100 u
+ 0.47
+ 0.91
+ 0.22
+ 0.40
+ 0.12
+ 0.16
+U
+ 100-500 u
+ 0.74
+ 0.44
+ 0.61
+ 0.42
+ 0.76
+ 0.91
+R
+ 500-1000 u
+ 0.01
+ 0.01
+ 0.02
+ 0.01
+ 0.01
+ 0.01
+A
+1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 2.26
+ 8.66
+ 6.22
+ 5.90
+pH H2O
+ 6.6
+ 7.8
+ 8.0
+ 8.0
+ 8.1
+ 8.1
+pH ClK
+ 5.1
+ 6.1
+ 7.0
+ 7.2
+ 7.2
+ 7.2
+C.E.(mmhos/cm)
+ 0.593
+ 0.763
+ 4.620
+ 4.543
+ 3.504
+ 1.271
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+ 27.69
+ 34.80
+ 35.20
+ 35.20
+ 31.41
+ 26.10
+d
+Ca++
+ 23.20
+ 32.80
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+C
+e
+a
+Mg++
+ 0.61
+ 0.80
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+t
+c
+i
+a
+K+
+ 0.36
+ 0.56
+ 0.72
+ 0.78
+ 0.80
+ 0.75
+o
+m
+n
+b
+Na+
+ 1.67
+ 3.67
+ 5.87
+ 5.75
+ 8.00
+ 7.07
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 6.03
+ 10.55
+ 16.68
+ 16.91
+ 25.47
+ 27.09
+Equivalente de humedad (%)
+ 33.22
+ 43.29
+ 52.01
+ 47.34
+ 47.30
+ 46.00
+Fósforo asimilable ppm
+ 5.21
+ 4.38
+ 4.34
+ 3.42
+ 3.09
+ 2.96
+N.D.: No determinado

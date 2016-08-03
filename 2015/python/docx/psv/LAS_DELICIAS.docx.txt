@@ -1,0 +1,342 @@
+
+--------------------------------------------------------------------------------
+SERIE LAS DELICIAS					 Símbolo: LDe
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles cumúlicos.
+Son suelos muy profundos, con un epipedón engrosado, oscuro, franco-limoso a franco-arcillo-limoso.
+Están moderadamente bien a imperfectamente drenados, con exceso de agua subsuperficial provenientes de áreas vecinas más elevadas.
+Suelos desarrollados en loess recientemente retransportado, descarbonatado y leve a moderadamente cementado (carácter de duripán).
+
+
+Perfil tipo: ER1-7C
+Fecha: 29-VII-1970
+Ubicación: Estación Experimental INTA Paraná (foto IR 448-36) - Dpto. Paraná
+Reconocedores: G.R Pellini; G.W. van Barneveld.
+
+
+Ap: 00-13 cm; pardo muy oscuro (10YR 2/2) en húmedo y gris oscuro (10YR 4/1) en seco; franco-limoso; estructura granular y en bloques subangulares, medios, moderados; friable en húmedo, ligeramente duro en seco; vestigios de moteados de hierro; límite claro, suave.
+
+A12: 13-21 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; friable en húmedo; vestigios de moteados de hierro; localmente algo eluviado; límite abrupto, suave.
+
+A13: 21-37 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y subangulares medios, moderados con tendencia a prismas compuestos irregulares; friable en húmedo; barnices ("humic y clay-humic skins") escasos, finos; vestigios de moteados de hierro; localmente algo eluviado; límite gradual, suave.
+
+A3: 37-49 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos, finos; vestigios de moteados de hierro; leve a moderadamente eluviado; límite gradual, suave.
+
+B21t: 49-66 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en otros prismas medios, débiles y en bloques angulares irregulares medios, fuertes; firme en húmedo; barnices ("clay-humic skins") comunes, finos y medios; moteados de hierro escasos, finos y precisos; límite gradual, ondulado.
+
+B22t: 66-117 cm; pardo oscuro (7,5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en otros prismas compuestos irregulares, medios, moderados y bloques angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay-humic skins") abundantes, medios; caras de fricción ("slickensides") comunes no intersectadas; moteados de hierro comunes, finos y precisos; material de horizontes superiores en las grietas; límite gradual, suave.
+
+B23t: 117-157 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en otros prismas compuestos irregulares, medios, moderados y bloques angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay-humic skins") abundantes, medios; caras de fricción ("slickensides") comunes, no intersectadas; moteados de hierro-manganeso escasos, finos y precisos; material de horizontes superiores en las grietas; límite difuso, suave.
+
+B3: 157-170 cm; pardo (7,5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; firme en húmedo; barnices ("clay-humic skins") comunes, finos; moteados de hierro-manganeso escasos, finos y débiles; débilmente cementado.
+
+
+Variabilidad de rasgos
+
+El solum tiene siempre más de 150 cm; el epipedón mólico varía de 40-75 cm y está constituido principalmente por material acumulado, franco-arcillo-limoso a franco limoso; normalmente tiene síntomas de eluviación leve a moderada; la estructura de A1 varía de granular a bloques subangulares, el color varía de 10YR 2/1 a 10YR 2/2
+
+El horizonte argílico siempre tiene más de 60 cm de espesor y está generalmente mejor expresado y más densificado en la parte inferior y localmente tiene concreciones de hierro-manganeso escasas.
+
+El horizonte B3 es muy profundo y la variabilidad del espesor no se conoce. Su estructura es generalmente de prismas, localmente está leve a moderadamente cementado (carácter de duripán).
+
+El perfil muestra moteados en su totalidad, aunque no son siempre visibles por el estado de humedad y puede tener concreciones calcáreas, escasas, en la parte inferior del horizonte B3, a partir de 120 cm.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien a imperfectamente drenado. Escurrimiento superficial moderado. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Las Delicias muestra una leve a moderada deposición, sin que llegue a ser perjudicial, pero en algunas partes existe el peligro de erosión en cárcavas y surcos por agua pluvial concentrada.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Las Delicias
+
+ER1-7C
+
+
+
+
+
+
+
+Nº de registro
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+Horizonte
+ Ap+A12
+ A13
+ A3
+ B21t
+ B22t
+ B23t
+ B3
+Profundidad (cm)
+ 07-17
+ 25-33
+ 37-49
+ 53-62
+ 80-100
+ 122-136
+ 161-176
+Mat.organica (%)
+ 3.55
+ 3.55
+ 2.78
+ 1.90
+ 1.05
+ 0.58
+ 0.34
+N (%)
+ 0.19
+ 0.19
+ 0.15
+ 0.10
+ 0.07
+ 0.05
+ 0.04
+C/N
+ 11
+ 11
+ 11
+ 11
+ 9
+ 7
+ 5
+
+T < 2 μ
+
+ 24.7
+
+ 33.1
+
+ 31.2
+
+ 34.2
+
+ 45.3
+
+ 41.0
+
+ 34.6
+E 2-20 μ
+ 35.4
+ 32.1
+ 29.7
+ 28.7
+ 23.9
+ 24.3
+ 20.0
+X 2-50 μ
+ 71.7
+ 64.6
+ 65.6
+ 61.9
+ 51.3
+ 55.1
+ 56.6
+T 50-100 μ
+ 2.3
+ 1.5
+ 2.0
+ 2.4
+ 2.3
+ 2.5
+ 5.1
+U 100-500 μ
+ 1.3
+ 0.8
+ 1.2
+ 1.5
+ 1.1
+ 1.4
+ 3.6
+R 500-1000 μ
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.1
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.1
+pH H2O
+ 5.7
+ 5.8
+ 5.9
+ 6.0
+ 6.2
+ 6.5
+ 5.8
+pH ClK
+ 5.3
+ 5.2
+ 5.2
+ 5.0
+ 5.1
+ 5.3
+ 5.3
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 25.1
+ 29.6
+ 26.0
+ 24.6
+ 30.6
+
+
+ 27.0
+
+
+ 23.5
+ d Ca++
+ 15.6
+ 20.7
+ 18.5
+ 16.9
+ 22.9
+ 20.5
+ 17.4
+C e
+
+
+
+
+
+
+
+Mg++
+ 3.5
+ 3.5
+ 3.3
+ 3.3
+ 4.2
+ 3.6
+ 2.9
+t c
+
+
+
+
+
+
+
+i a K+
+ 1.9
+ 0.8
+ 0.7
+ 1.0
+ 1.9
+ 1.8
+ 1.6
+o m
+
+
+
+
+
+
+
+n b Na+
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+e i
+
+
+
+
+
+
+
+s o H+
+ 6.4
+ 6.4
+ 5.6
+ 5.6
+ 3.7
+ 2.8
+ 2.8
+
+
+
+
+
+
+
+
+% Na/T
+ 0.4
+ 0.3
+ 0.4
+ 0.4
+ 0.3
+ 0.4
+ 0.4
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 27.6
+ 34.9
+ 31.0
+ 31.5
+ 37.8
+ 35.0
+ 32.3
+

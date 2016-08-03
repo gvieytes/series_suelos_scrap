@@ -1,0 +1,48 @@
+dss_LaPlayosa.psv ->> ID..........................: 716
+dss_LaPlayosa.psv ->> CLASIFICACION...............: Natrustol típico
+dss_LaPlayosa.psv ->> SERIE.......................: LA PLAYOSA (Plys)
+dss_LaPlayosa.psv ->> UBICACION...................: 14,2 km al SSO de Pozo del Molle, departamento San Justo
+dss_LaPlayosa.psv ->> PROVINCIA...................: CORDOBA
+dss_LaPlayosa.psv ->> LATITUD.....................: S320800
+dss_LaPlayosa.psv ->> LONGITUD....................: O625800
+dss_LaPlayosa.psv ->> ALTITUD.....................: 163
+dss_LaPlayosa.psv ->> PENDIENTE...................: FALTA!
+dss_LaPlayosa.psv ->> DRENAJE.....................: FALTA!
+dss_LaPlayosa.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LaPlayosa.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LaPlayosa.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TÉRMICA
+dss_LaPlayosa.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LaPlayosa.psv ->> HORIZONTE->NOMBRE(S)........: ap | ab | bt | bcz | ck
+dss_LaPlayosa.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-32 | 32-65 | 65-80 | 80a+
+dss_LaPlayosa.psv ->> HORIZONTE->MATERIA ORGÁN.(%): - | - | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.46 | 1.36 | 0.44 | 0.27 | 0.25
+dss_LaPlayosa.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.15 | 0.13 | 0.06 | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.7 | 10.4 | 7.3 | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->ARCILLA 2 (%)....: 23.0 | 27.5 | 33.3 | 28.1 | 22.7
+dss_LaPlayosa.psv ->> HORIZONTE->LIMO 2-50 (%)....: 68.4 | 66.4 | 59.4 | 62.8 | 67.2
+dss_LaPlayosa.psv ->> HORIZONTE->AMF 50-100 (%)...: 8.5 | 7.6 | 7.8 | 9.0 | 7.9
+dss_LaPlayosa.psv ->> HORIZONTE->AF 100-250 (%)...: 0.6 | 0.3 | 0.5 | 0.8 | 0.5
+dss_LaPlayosa.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1 | - | - | 0.1 | 
+dss_LaPlayosa.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.1 | - | - | 0.1 | 
+dss_LaPlayosa.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 2.80
+dss_LaPlayosa.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24.8 | 25.0 | 26.1 | 25.7 | 25.0
+dss_LaPlayosa.psv ->> HORIZONTE->PH PASTA.........: 5.3 | 5.4 | 6.1 | 6.6 | 8.0
+dss_LaPlayosa.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.6 | 5.6 | 6.5 | 7.0 | 8.4
+dss_LaPlayosa.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8.5 | 10.5 | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.5 | 2.1 | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.3 | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CI ME/100G-K +...: 2.8 | 1.7 | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CI ME/100G-H +...: 2.7 | 2.5 | 0.9 | 0.3 | 
+dss_LaPlayosa.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | - | 9.12 | 25.5 | 25.5
+dss_LaPlayosa.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.0 | 14.6 | - | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->CIC ME/100G(T)...: 16.3 | 17.5 | 20.6 | 20.0 | 16.9
+dss_LaPlayosa.psv ->> HORIZONTE->SAT.B % (S/T)....: - | 79 | 83 | - | 
+dss_LaPlayosa.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | - | 27.2 | 30.4 | 28.7
+dss_LaPlayosa.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | - | 10.7 | 8.4 | 9.6
+dss_LaPlayosa.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | - | 50.0 | 214.4 | 216.4
+dss_LaPlayosa.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | - | 2.0 | 4.8 | 4.2
+dss_LaPlayosa.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | - | 1.6 | 4.8 | 3.2
+dss_LaPlayosa.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | - | 11.1 | 162.8 | 176.5
+dss_LaPlayosa.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | - | 80.0 | 91.2 | 75.2

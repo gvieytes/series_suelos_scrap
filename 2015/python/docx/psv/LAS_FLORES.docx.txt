@@ -1,0 +1,228 @@
+
+--------------------------------------------------------------------------------
+SERIE LAS FLORES							 Símbolo: LFlo
+
+
+Pertenece a la familia "fina, mixta alcalina, térmica" de los Natracualfes álbicos.
+Suelos desarrollados en materiales "limos calcáreos" franco-arcillo-limosos a arcillo-limosos, muy pobremente drenados, con un epipedón algo lixiviado, sin concreciones calcáreas y abundantes concreciones de hierro-manganeso a partir de los 25 cm.
+
+
+Perfil tipo: ER1-92C
+Fecha: 13-IV-1993
+Ubicación: Estancia Las Flores (foto IR 409-47) - Dpto. Gualeguay
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A2: 00-10 cm; pardo grisáceo (10YR 5/1) en seco; franco-limoso; estructura en bloque subangulares finos, débiles; blando en seco, friable en húmedo; moteados de hierro-manganeso comunes, medios y sobresalientes; límite abrupto, irregular.
+
+B21t: 10-28 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles, que rompen en bloques angulares irregulares finos, débiles; duro en seco, firme en húmedo; barnices ("clay-humic skins") comunes y finos; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B22t: 28-60 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles, que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; concreciones de hierro-manganeso abundantes y blandas; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B3: 60 cm+; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares regulares medios, moderados; duro en seco, firme en húmedo; concreciones de hierro-manganeso comunes y blandas; barnices ("clay skins") comunes; moteados de hierro-manganeso abundantes, medios y sobresalientes; presencia de grietas rellenas con material de los horizontes superiores.
+
+
+Variabilidad de rasgos
+
+Está determinada principalmente de acuerdo al mayor o menor aporte aluvial producido por las variaciones estacionales del río Paraná y por la presencia de una capa de agua fluctuante que está condicionada por el régimen pluvial y las crecientes del río.
+
+El epipedón consta de un horizonte A2 de reducido espesor (9-10 cm) de color pardo grisáceo, muy lixiviado y de estructura degradada. Está seguido de un horizonte B2t de estructura prismática débil, con colores que varían de gris muy oscuro (10YR 3/1) a pardo oscuro (10YR 3/3) y presenta abundantes concreciones ferromanganesíferas. En el horizonte transicional B3 disminuyen las concreciones pero aumentan considerablemente los moteados. Todo el perfil está descarbonatado.
+
+Fases
+
+No se determinaron fases a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+La serie Las Flores se parece a la serie Punta de Monte, pero ésta tiene elevada salinidad desde la superficie. También se parece a la serie General Nazar que es más alcalina.
+
+
+Drenaje
+
+Muy pobremente drenado; escurrimiento superficial estancado. Permeabilidad muy lenta. Napa freática casi superficial. Grupo hidrológico D.
+
+
+Erosión
+
+Serie Las Flores no tiene erosión actual ni peligro de erosión potencial.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Las Flores
+
+ER1-92C
+
+
+
+
+Nº de registro
+ 7747
+ 7748
+ 7749
+ 7750
+Horizonte
+ A2
+ B21t
+ B22t
+ B3
+Profundidad (cm)
+ 02-09
+ 13-26
+ 30-56
+ 60-65
+Mat.organica (%)
+ 7.16
+ 2.22
+ 0.80
+ 0.58
+N (%)
+ 0.34
+ 0.10
+ 0.05
+ 0.03
+C/N
+ 12
+ 12
+ 9
+ 10
+
+T < 2 μ
+ 23.71
+ 37.17
+ 45.74
+ 45.89
+E 2-20 μ
+ 28.74
+ 26.37
+ 22.59
+ 24.73
+X 2-50 μ
+ 64.42
+ 54.84
+ 44.87
+ 45.23
+T 50-100 μ
+ 4.11
+ 6.63
+ 2.43
+ 4.33
+U 100-500 μ
+ 7.55
+ 1.12
+ 6.81
+ 4.37
+R 500-1000 μ
+ 0.21
+ 0.24
+ 0.15
+ 0.15
+A 1000-2000 μ
+ 0.0
+ 0.0
+ 0.0
+ 0.03
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.18
+ 0.07
+pH H2O
+ 5.9
+ 7.6
+ 8.4
+ 8.0
+pH ClK
+ 4.7
+ 6.8
+ 7.2
+ 7.1
+CE (mmhos/cm)
+ 8.85
+ 9.15
+ 10.42
+ 8.60
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 21.40
+ 33.80
+ 45.10
+ 38.70
+ d Ca++
+ 15.40
+ 18.60
+ 21.70
+ 20.90
+C e
+
+
+
+
+Mg++
+ 1.66
+ 2.54
+ 4.28
+ 3.75
+t c
+
+
+
+
+i a K+
+ 0.75
+ 1.30
+ 1.55
+ 1.35
+o m
+
+
+
+
+n b Na+
+ 3.00
+ 11.25
+ 17.50
+ 12.50
+e i
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+
+
+
+
+
+% Na/T
+ 14.0
+ 33.3
+ 38.8
+ 33.3
+
+
+
+
+
+Equivalente de humedad (%)
+ -
+ -
+ -
+ -
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+

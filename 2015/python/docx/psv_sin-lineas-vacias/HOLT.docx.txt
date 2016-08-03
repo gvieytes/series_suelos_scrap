@@ -1,0 +1,178 @@
+--------------------------------------------------------------------------------
+SERIE HOLT Símbolo: Ho
+Pertenece a la familia "no ácida, térmica" de los Udisamentes típicos.
+La serie Holt es un suelo arenoso, no sódico ni salino.
+Perfil tipo: 315 C
+Fecha: 22-III-1976
+Ubicación: 6 km al E de la localidad de Ibicuy (Hoja IGM 3360-35-2) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+A1: 0-16 cm; pardo opaco (7,5YR 6/3) en seco y pardo (7.5YR 4/3) húmedo; areno franco; masivo; muy friable; no plástico, masivo; raíces abundantes; límite inferior claro, suave.
+C1: 16-80 cm; negro pardusco (7,5YR 3/2) en húmedo; areno franco; masivo; muy friable; no plástico, no adhesivo; moteados comunes, medios, precisos; raíces escasas; límite inferior claro, suave.
+IIC2: 80-116 cm; amarillo anaranjado opaco (10Y.R 7/3) en húmedo; arenoso; masivo; muy friable; no plástico, no adhesivo; moteados abundantes, gruesos, precisos de color pardo (7,5YR 4/6); límite inferior abrupto, suave.
+IIIC3: 116-140 cm; gris amarillento (2,5Y 6/1) en húmedo; franco limoso; estructura en bloques angulares medios, moderados que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; moteados abundantes, medios, preci - sos de color pardo rojizo (5Y.R 4/8).
+Variabilidad de rasgos
+El perfil es extremadamente a medianamente ácido. La capa superficial es de 16 cm de espesor, de color pardo, mal provisto en materia orgánica, arenoso franco y masivo. Siguen capas de textura más arenosa en profundidad hasta los 116 cm en que aparece otra de textura franco limosa. Es un suelo con bajo tenor en cationes de cambio. Se observa la presencia de moteados precisos a partir de la segunda capa.
+Fases
+No No presenta a escala 1:100.000.
+Drenaje
+La permeabilidad es moderadamente rápida, y el suelo está bien drenado, sin peligro de inundación.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Holt
+315C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ C1
+ IIC2
+ IIIC3
+Profundidad (cm)
+ 5-10
+ 20-50
+ 90-110
+ 125-140
+Mat.organica (%)
+ 0.57
+ 0.33
+ 0.14
+ -
+C (%)
+ 0.33
+ 0.19
+ 0.08
+ -
+N (%)
+ 0.060
+ -
+ -
+ -
+C/N
+ 6
+ -
+ -
+ -
+T <2 u
+ 9.7
+ 8.0
+ 6.6
+ 19.2
+E 2-20 u
+ 5.0
+ 3.7
+ 0.5
+ 32.3
+X 2-50 u
+ 6.5
+ 5.0
+ 3.0
+ 56.3
+T 50-74 u
+ 0.1
+ 0.1
+ 0.1
+ 0.9
+U 74-100 u
+ 0.1
+ 0.1
+ 0.1
+ 0.6
+R 100-250 u
+ 42.7
+ 48.3
+ 40.2
+ 16.0
+A 250-500 u
+ 40.4
+ 35.2
+ 49.0
+ 7.0
+ 500-1000 u
+ 0.5
+ 3.3
+ 1.0
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 5.0
+ 3.9
+ 2.8
+ 22.7
+Resistencia de la pasta (Ohms/cm)
+ 7095
+ 29684
+ 50680
+ 10426
+pH en pasta
+ 4.5
+ 4.4
+ 5.6
+ 5.6
+PH H2O
+ 5.5
+ 5.5
+ 5.8
+ 6.0
+pH ClK
+ 3.9
+ 3.9
+ 4.3
+ 4.2
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+Cationes de cambio (m.e./100 g)
+Ca++
+ 1.85
+ 0.50
+ 0.30
+ 4.6
+Mg++
+ 1.30
+ 0.70
+ 0.50
+ 4.2
+Na+
+ 0.10
+ 0.05
+ 0.05
+ 0.2
+K+
+ 0.15
+ 0.05
+ 0.05
+ 0.2
+H+
+ 2.60
+ 2.20
+ 1.00
+ 4.4
+% Na/T
+ 3
+ 2
+ 4
+ 2
+Suma de bases, m.e./100 gr (S)
+ 3.40
+ 1.30
+ 0.90
+ 9.2
+C.I.C., m.e./100 gr (T)
+ 3.60
+ 2.40
+ 1.20
+ 10.5
+Saturación con bases, (%) (S/T)
+ 94
+ 54
+ 75
+ 88

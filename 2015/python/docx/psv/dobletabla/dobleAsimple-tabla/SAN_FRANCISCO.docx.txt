@@ -1,0 +1,200 @@
+
+--------------------------------------------------------------------------------
+SERIE SAN FRANCISCO Símbolo: SFr
+
+
+Pertenece a la familia "franca gruesa, silícea, no ácida, térmica" de los Hidracuentes típicos.
+
+Desarrollado sobre material arcillo limo arenoso. Se encuentran en las antiguas superficies estuáricas o partes afectadas por las mareas Platense.
+
+La vegetación típica es Salicornia spp.
+
+
+Perfil tipo: 10C INTA Castelar
+Fecha: II-1986
+Ubicación: 1,5 km al SO de la Estancia Sagastume (Hoja IGM 3360-30-3) - Dpto. Islas del Ibicuy
+Reconocedores: L. A. Gómez; R. F. Ferrao
+
+
+I: 0-21 cm; pardo oscuro (10YR 3/3) en húmedo, pardo (10YR 5/3) en seco; franco arcillo limoso; bloques subangulares, medios, moderados; friable, no plástico, ligeramente adhesivo; límite inferior claro, suave.
+
+II: 21-37 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; pardo pálido (10YR 6/3) en seco; franco limoso; masivo; friable, no plástico, no adhesivo; moteados comunes, precisos y medios; límite inferior claro y suave.
+
+III: 37-170 cm; pardo amarillento claro (10YR 6/4) en húmedo; pardo muy pálido (10YR 8/4) en seco; franco arenoso; masivo; friable, no plástico, no adhesivo; abundantes concreciones de hierro manganeso; moteados abundantes, sobresalientes y gruesos.
+
+ Serie San Francisco
+
+
+Variabilidad de rasgos
+
+No se conoce.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad moderadamente lenta. Napa freática a 1.6 m.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie San Francisco
+
+10C INTA Castelar
+N° de registro
+ 30568
+ 30569
+ 30570
+Horizonte
+ I
+ II
+ III
+Profundidad (cm)
+ 2-19
+ 23-35
+ 40-170
+Mat.orgánica (%)
+ 2.10
+ 0.41
+ 0.10
+C (%)
+ 1.22
+ 0.24
+ 0.06
+N (%)
+ 0.236
+ -
+ -
+C/N
+ 5
+ -
+ -
+
+T <2 u
+
+ 33.2
+
+ 19.8
+
+ 7.5
+E 2-20 u
+ 26.9
+ 12.4
+ 5.7
+X 2-50 u
+ 50.3
+ 51.5
+ 22.5
+T 50-74 u
+ 10.7
+ 20.6
+ 38.7
+U 74-100 u
+ 3.6
+ 6.5
+ 25.0
+R 100-250 u
+ 2.2
+ 1.6
+ 6.3
+A 250-500 u
+ -
+ -
+ -
+
+
+
+
+Gravilla (> 7) Tosca Ca %
+ -
+ -
+ -
+CaCO3 (%) V
+ -
+ -
+ -
+Equiv. de humedad (%)
+ 33.0
+ 20.5
+ 7.9
+Resistencia de la pasta (Ohms/cm)
+ 150
+
+ 112
+ 112
+pH en pasta
+ 5.0
+ 6.1
+ 6.5
+pH en agua (1 . 2,5)
+ 5.5
+ 6.7
+ 6.9
+pH en l N KCl (1 : 2,5)
+ 4.7
+ 5.7
+ 6.1
+Conductividad (mmhos/cm)
+ 16.9
+ 21.3
+ 35.7
+ Cationes de camb (m. e / 100 g)
+Ca[++]
+ 14.8
+ 9.5
+ 3.3
+
+Mg++
+ 8.5
+ 5.2
+ 2.2
+
+Na+
+ 4.3
+ 5.5
+ 1.6
+
+K+
+ 0.3
+ 0.2
+ 0.1
+% Na+ en cambio de v. T
+ 17
+ 30
+ 29
+% de agua de saturación
+ 66
+ 49
+ 41
+Valor S (m.e./100 g)
+ 27.9
+ 20.4
+ 7.2
+H de cambio (m.e./100 g)
+ 8.7
+ 3.7
+ 2.2
+Valor T (m.e./100) NH4++ o Na+
+ 25.8
+ 18.2
+ 5.6
+% de saturación de T
+ 100
+ 100
+ 100
+% de saturación de S + H
+ 76
+ 85
+ 76
+Fósforo asimilable (ppm)
+ 2.0
+ 1.1
+ 4.4
+Factor de Humedad
+ 1.04
+ 1.02
+ 1.01
+

@@ -1,0 +1,235 @@
+--------------------------------------------------------------------------------
+SERIE EL ALTILLO Símbolo: EAl
+Pertenece a la familia "fina, motmorillonítica, ligeramente alcalina, térmica" de los Argiacuoles vérticos.
+Suelos profundos, imperfectamente drenados, desarrollados en materiales arcillo-limosos parcialmente descarbonatados; las escasas concreciones calcáreas aparecen a los 65-70 cm de profundidad.
+Tienen un horizonte argílico de color oscuro, arcillo-limoso, con abundantes concreciones ferromanganesíferas y pequeños cristales de yeso en el horizonte B3.
+Perfil tipo: ER1-113C
+Fecha: 17-VI-1999
+Ubicación: Ea. El Tigrecito. (foto IR 453-76) - Dto. Raíces - Dpto. Villaguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-14 cm; gris muy oscuro (10YR 3/1) en húmedo y pardo grisáceo muy oscuro (10YR 3/2) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, suave.
+B1: 14-23 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso, comunes, finos y precisos; límite abrupto, suave.
+B21t: 23-49 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloque angulares irregulares, medios, moderados; duro en seco, firme en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") escasas a comunes, finas; concreciones ferromanganesíferas, escasas, finas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+B22t: 49-64 cm; gris muy oscuro (10YR 3,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares,medios, débiles que rompen en bloques angulares irregulares, medios, moderados; muy duro en seco, firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") escasas, finas; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso comunes, medios, precisos; límite gradual, ondulado.
+B3ca: 64-98 cm; pardo oscuro (7,5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, fuertes; duro en seco, firme en húmedo; barnices clay skins") comunes, caras de fricción ("slickensides") escasas; concreciones calcáreas, escasas; escasos cristales muy finos de yeso; moteados de hierro-manganeso abundantes, medios y precisos; límite difuso, ondulado.
+C: 98 cm +; pardo (7,5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes, gruesas; moteados de hierro-manganeso abundantes, gruesos y sobresalientes.
+Variabilidad de rasgos
+El solum varía entre 95 y 110 cm. de espesor. Está compuesto de un horizonte A1, de color claro, franco-arcillo-limoso, seguido de un horizonte B1 muy oscuro y abundantes moteados.
+El horizonte argílico tiene estructura prismática, es denso, poco permeable con abundantes moteados de hierro manganeso y concreciones ferromanganesíferas, indicando el hidromorfismo que presentan estos suelos.
+A los 60-65 cm de profundidad aparece el horizonte transicional B3, algo más claro que los suprayacentes, con presencia de yeso en forma de pequeños cristales y calcáreo en escasa cantidad, en concreciones de 1 cm de diámetro aproximadamente.
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial muy lento Permeabilidad lenta. Capa freática poco profunda. Grupo hidrológico D.
+Erosión
+La serie El Altillo no presenta erosión hídrica.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie El Altillo
+ER1-113C
+Nº de registro
+ 4.458
+ 4.459
+ 4.460
+ 4.461
+ 4.462
+ 4.463
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3ca
+ C
+Profundidad (cm)
+ 03-14
+ 16-21
+ 26-45
+ 53-60
+ 70-95
+ 130-140
+Mat.organica (%)
+ 7.9
+ 4.6
+ 2.9
+ 1.5
+ 0.5
+ 0.2
+N (%)
+ 0.38
+ 0.20
+ 0.13
+ 0.07
+ 0.03
+ 0.02
+C/N
+ 12
+ 13
+ 12
+ 11
+ 10
+ 5
+T
+ < 2 u
+ 33.69
+ 34.25
+ 48.95
+ 49.91
+ 50.13
+ 48.90
+E
+ 2-20 u
+ 38.91
+ 36.02
+ 30.2
+ 29.81
+ 28.28
+ 30.12
+X
+ 2-50 u
+ 64.47
+ 63.23
+ 49.69
+ 49.11
+ 48.89
+ 49.66
+T
+ 50-100 u
+ 0.84
+ 0.94
+ 0.29
+ 0.64
+ 0.40
+ 0.95
+U
+ 100-500 u
+ 0.96
+ 1.41
+ 1.04
+ 0.33
+ 0.57
+ 0.47
+R
+ 500-1000 u
+ 0.04
+ 0.17
+ 0.03
+ 0.01
+ 0.01
+ 0.02
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.63
+ 2.97
+ 0.31
+pH H2O
+ 5.5
+ 5.7
+ 7.1
+ 7.7
+ 8.2
+ 7.7
+pH ClK
+ 4.6
+ 4.6
+ 5.7
+ 6.5
+ 6.8
+ 6.1
+C.E.(mmhos/cm)
+ 0.593
+ 0.347
+ 0.462
+ 0.327
+ 0.654
+ 0.393
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 36.43
+ 38.89
+ 44.21
+ 45.62
+ 48.03
+ 44.15
+d
+Ca++
+ 21.12
+ 23.23
+ 36.62
+ 37.38
+ -
+ 35.41
+C
+e
+a
+Mg++
+ 3.87
+ 2.46
+ 2.85
+ 3.10
+ -
+ 3.20
+t
+c
+i
+a
+K+
+ 1.10
+ 0.92
+ 1.60
+ 1.63
+ 1.69
+ 1.90
+o
+m
+n
+b
+Na+
+ 0.67
+ 1.05
+ 2.65
+ 2.65
+ 2.97
+ 2.75
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.84
+ 2.70
+ 5.99
+ 5.81
+ 6.18
+ 6.23
+Equivalente de humedad (%)
+ 34.10
+ 31.79
+ 51.90
+ 52.17
+ 52.75
+ 50.55
+Fósforo asimilable ppm
+ 19.18
+ 10.25
+ 5.77
+ 5.59
+ 4.15
+ 3.61

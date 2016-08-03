@@ -1,0 +1,169 @@
+--------------------------------------------------------------------------------
+SERIE NUEVA VIZCAYA							 Símbolo: NVya
+Pertenece a la familia "fina, neutra, térmica" de los Peludertes árgicos (vertisol con gilgai lineal y B2 textural argílico).
+Muestra un microrrelieve gilgai lineal grueso con ciclos de 5 m entre cresta y cresta.
+Son suelos profundos, arcillosos y oscuros, desarrollados sobre limos calcáreos arcillo limosos.
+Perfil tipo: ER7-6Cb
+Fecha: 22-XI-1979
+Ubicación: Estación Nueva Vizcaya (foto 177-62) - Dpto. Federal.
+Reconocedores: L.O. López; O. Fontana.
+A1: 00-18 cm; gris oscuro (10YR 3.5/1) en seco; gris oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; barnices ("clay humic skins") escasos; moteados de hierro-manganeso escasos, débiles y finos; concreciones de hierro-manganeso escasos; límite claro, suave.
+B21t: 18-50 cm; gris oscuro (10YR 4/1) en seco; negro a gris oscuro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay humic skins") abundantes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso escasos, finos y débiles; concreciones de hierro-manganeso escasas y finas; límite gradual, ondulado.
+B22t: 50-78 cm; gris oscuro (10YR 4/1) en seco; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, débiles; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, medios e intersectadas; moteados de hierro-manganeso comunes, débiles y finos; concreciones de hierro-manganeso abundantes de hasta 3 mm; límite difuso, ondulado.
+B3ca: 78-110 cm; gris a pardo grisáceo (10YR 5/1.5) en seco; gris oscuro a gris muy oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, débiles; duro en seco, friable en húmedo; caras de fricción ("slickensides") abundantes, gruesos, no intersectados; moteados de hierro-manganeso comunes, débiles y finos; concreciones de hierro-manganeso escasas; concreciones de calcio abundantes; límite difuso, ondulado.
+Cca: 110 cm +; gris rosado a pardo claro (7.5YR 6/2.5) en seco; pardo (7.5YR 5/2) en húmedo; estructura masiva; friable en húmedo; caras de fricción ("slickensides") abundantes y gruesas; moteados de hierro-manganeso abundantes, sobresalientes y gruesos; concreciones de hierro-manganeso abundantes.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción de las arcillas montmorilloníticas, que dan lugar a la formación del microrrelieve gilgai.
+En el bajo del gilgai el epipedón puede llegar, en casos excepcionales, a los 35 cm de profundidad y se caracteriza por presentar un horizonte A11 y A12 con muy buena estructura granular y en bloques subangulares.
+El común de la serie, como concepto central, presenta perfiles someros y algo lixiviados de no más de 20 cm de espesor compuestos de A1 y B1, presentando granos de arena gruesos que disminuyen en profundidad. En la cresta del gilgai se han encontrado cantos rodados entre 3-7 mm de diámetro.
+Los porcentajes de arcilla en el bajo del gilgai corresponden un 34% para el epipedón y 51% para el B22t y en la cresta, 42% para el epipedón, y a los 20 cm los porcentajes oscilan entre 50-55% de arcilla.
+El Cca normalmente presenta gley cuyos colores varían de 2.5YR 5/2 y 2.5YR 1.5/2 con sobresalientes carbonatos en la masa y concreciones de calcio duras, semiduras y blandas. Puede presentar estructura de prismas y bloques cuneiformes con caras de fricción ("slickensides") muy gruesas, no intersectadas.
+Fases
+No posee a esta escala de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Caraballo, epipedón mólico y más hidromórfico y a la serie San Buenaventura distinto paisaje y epipedón mólico.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Napa freática 22 m. Grupo hidrológico D.
+Erosión
+Suelo muy susceptible a la erosión hídrica en forma laminar y en cárcavas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Nueva Vizcaya
+ER7-6Cb
+Nº de registro
+ 3081
+ 3082
+ 3083
+ 3084
+ 3085
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 25-40
+ 57-73
+ 85-100
+ 115-130
+Mat.organica (%)
+ 6.58
+ 3.06
+ 1.98
+ 1.28
+ 0.64
+N (%)
+ 0.27
+ 0.15
+ 0.07
+ 0.04
+ 0.03
+C/N
+ 14
+ 12
+ 16
+ 18
+ 12
+T < 2 μ
+ 34.39
+ 45.62
+ 51.28
+ 47.42
+ 43.82
+E 2-20 μ
+ 32.07
+ 28.34
+ 31.73
+ 30.38
+ 29.75
+X 2-50 μ
+ 64.26
+ 53.04
+ 48.43
+ 52.32
+ 56.12
+T 50-100 μ
+ 0.37
+ 0.37
+ 0.08
+ 0.10
+ 0.04
+U 100-500 μ
+ 0.91
+ 0.96
+ 0.20
+ 0.15
+ 0.07
+R 500-1000 μ
+ 0.07
+ 0.05
+ 0.01
+ 0.01
+ 0.02
+A 1000-2000 μ
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.1
+ 7.2
+ 10.1
+pH H2O
+ 5.5
+ 5.8
+ 7.5
+ 8.3
+ 8.4
+pH ClK
+ 5.3
+ 5.5
+ 6.9
+ 7.3
+ 7.3
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 33.30
+ 46.85
+ 47.95
+ 59.24
+ 54.60
+ d Ca++
+ 26.54
+ 32.42
+ 33.82
+ 48.08
+ 50.60
+C e
+Mg++
+ 4.20
+ 12.30
+ 7.84
+ 8.40
+ 1.76
+t c
+i a K+
+ 0.65
+ 0.50
+ 0.50
+ 0.53
+ 0.36
+o m
+n b Na+
+ 1.50
+ 1.27
+ 0.97
+ 1.05
+ 1.12
+e i
+s o H+
+ 0.42
+ 0.36
+ 4.81
+ 1.19
+ 0.76

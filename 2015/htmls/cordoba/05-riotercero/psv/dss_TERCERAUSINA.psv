@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 2
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|2a|2ac|2c
+HORIZONTE->Profundidad de la muestra (cm): 0-25|25-50|50-80|80 a +
+HORIZONTE->Materia Orgánica (%): 2.4|1.0|0.8|
+HORIZONTE->Carbono Orgánico (%): 1.4|0.6|0.5|
+HORIZONTE->Nitrógeno total (%): 0.11|0.05||
+HORIZONTE->Relación C/N: 12.6|11.8||
+HORIZONTE->Arcilla, <2 µ (%): 18.9|12.4|11.8|11.8
+HORIZONTE->Limo, 2-50 µ (%): 41.3|28.6|29.8|29.6
+HORIZONTE->Arena muy fina, 50-100 µ (%): 13.0|13.8|14.1|13.4
+HORIZONTE->Arena fina, 100-250 µ (%): 10.1|13.9|14.1|13.8
+HORIZONTE->Arena media, 250-500 µ (%): 6.6|9.1|9.0|8.8
+HORIZONTE->Arena gruesa, 500-1000 µ (%): 7.4|12.6|12.9|12.5
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): 2.6|8.2|8.3|7.9
+HORIZONTE->Calcáreo, CaCO3 (%): 0|0|0|0
+HORIZONTE->Equivalente de humedad (%): 22.2|15.5|14.0|15.8
+HORIZONTE->pH en pasta: |||
+HORIZONTE->pH en agua 1:2,5: 6.0|6.4|6.6|6.7
+HORIZONTE->Cationes de intercambio (me/100 gr)-Ca++: 7.6|6.1|6.6|7.3
+HORIZONTE->Cationes de intercambio (me/100 gr)-Mg++: 1.5|1.1|1.4|1.8
+HORIZONTE->Cationes de intercambio (me/100 gr)-Na+: 0.1|0.1|0.1|0.1
+HORIZONTE->Cationes de intercambio (me/100 gr)-K+: 0.9|0.4|0.4|0.4
+HORIZONTE->Cationes de intercambio (me/100 gr)-H+: 2.4|1.4|1.1|1.1
+HORIZONTE->Suma de bases, me/100 gr (S): 10.2|7.7|8.5|9.6
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 12.6|9.1|9.6|10.7
+HORIZONTE->Saturación con bases, % (S/T): 80.7|85.1|88.2|89.9

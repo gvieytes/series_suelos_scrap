@@ -1,0 +1,240 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO GENACITO Símbolo: AGcto
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelos desarrollados en materiales loessoides de textura franco-arcillo-limosa, con un buen epipedón franco-limoso y un horizonte argílico, oscuro, arcillo-limoso con abundantes caras de fricción ("slickensides").
+El calcáreo, en escasa cantidad, aparece en el horizonte B3 a los 90-95 cm de profundidad.
+Perfil tipo: ER1-137C
+Fecha: 13-XI-2002
+Ubicación: 10 Km al N de Aldea San Antonio. (foto IR 122-30). Dto. Pehuajó al Norte. Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti, R.H. Fuentes.
+A11: 00-12 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura granular y en bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices "humic skins", comunes; moteados de hierro-manganeso escasos, finos y precisos; presencia de arena fina; límite claro, suave.
+A12: 12-23 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-limoso; estructura granular y bloques subangulares, medios, moderados; ligeramente duro en seco y friable en húmedo; barnices ("humic skins") comunes a abundantes; moteados de hierro-manganeso escasos, finos y precisos; presencia de arena fina; límite abrupto, suave.
+B21t: 23-56 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; muy duro en seco; muy firme en húmedo; barnices ("clay humic skins") escasos; caras de fricción ("slickensides") escasas a comunes, finas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, ondulado.
+B22t: 56-94 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; muy duro en seco; muy firme en húmedo; caras de fricción ("slickensides") comunes a abundantes, medias; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, ondulado.
+B3ca: 94-114 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") comunes, gruesas; concreciones calcáreas escasas a comunes, gruesas; escasos carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y precisos; límite claro, ondulado.
+C: 114 cm +; pardo a pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, finos, medios; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso, abundantes, medios y precisos.
+Variabilidad de rasgos
+El solum tiene una profundidad de 110-120 cm. El epipedón varía entre 23-26 cm y normalmente consta de un horizonte A11 y un A12, de color oscuro y un contenido de arcilla del 26-28 % y un 3.5-3.7 % de materia orgánica.
+El horizonte argílico, de estructura prismática, tiene un espesor de 60-70 cm y un tenor de arcilla que oscila entre 45-46 %. Tiene abundantes a comunes caras de fricción ("slickensides") poco intersectadas. Las características vérticas están mejor expresadas en el horizonte B22t (a partir de 65-70 cm de profundidad).
+El calcáreo en concreciones gruesas aparece, en escasa cantidad, a partir de los 90 cm, pero desaparece en el horizonte C.
+Fases
+No se describieron fases a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad moderadamente lenta. Capa freática poco profunda. Grupo hidrológico D.
+Erosión
+La Serie Arroyo Genacito no tiene erosión actual, pero sí susceptibilidad a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Genacito
+ER1-137C
+ -
+ -
+ -
+ -
+ -
+ -
+N° de registro
+ 11057
+ 11058
+ 11059
+ 11060
+ 11061
+ 11062
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ C
+Profundidad (cm)
+ 04-10
+ 14-20
+ 25-50
+ 60-90
+ 96-110
+ 125-135
+Mat.organica (%)
+ 3.75
+ 3.25
+ 1.82
+ 1.38
+ 0.07
+ 0.07
+C (%)
+ 2.18
+ 1.89
+ 1.06
+ 0.80
+ 0.04
+ 0.04
+N (%)
+ 0.195
+ 0.143
+ 0.108
+ 0.078
+ 0.036
+ 0.029
+C/N
+ 11.18
+ 13.22
+ 9.81
+ 10.26
+ 1.11
+ 1.38
+T <2
+ 26.54
+ 28.06
+ 45.48
+ 46.68
+ 44.80
+ 40.24
+E 2-20
+ 36.46
+ 36.10
+ 28.08
+ 29.69
+ 28.00
+ 27.35
+X 2-50
+ 67.46
+ 65.64
+ 49.72
+ 49.59
+ 53.37
+ 57.53
+T 50-100
+ 1.34
+ 1.44
+ 1.02
+ 0.84
+ 0.36
+ 0.29
+U 100-250
+ 4.61
+ 4.80
+ 3.71
+ 2.84
+ 1.42
+ 1.91
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.05
+ 0.06
+ 0.07
+ 0.05
+ 0.05
+ 0.03
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 3.19
+ 0.0
+PH H2O
+ 5.9
+ 6.5
+ 7.1
+ 7.7
+ 8.4
+ 7.5
+PH ClK
+ 5.3
+ 5.3
+ 5.7
+ 6.2
+ 7.1
+ 6.2
+Conductividad eléctrica mmhos/cm
+ 0,21
+ 0,14
+ 0,21
+ 0,29
+ 0,43
+ 0,24
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 27.18
+ 28.48
+ 44.80
+ 45.33
+ 43.10
+ 39.68
+D
+Ca++
+ 17,86
+ 21,22
+ 35,96
+ 35,90
+ 33,49
+ 19,65
+C
+E
+A
+Mg++
+ 3,82
+ 3,12
+ 6,09
+ 5,97
+ 6,14
+ 6,55
+T
+C
+I
+A
+K+
+ 0,86
+ 0,68
+ 1,16
+ 1,48
+ 1,42
+ 1,80
+O
+M
+N
+B
+Na+
+ 0,35
+ 0,36
+ 0,45
+ 1,92
+ 1,07
+ 1,32
+E
+I
+S
+O
+H+
+ 4,12
+ 3,00
+ 1,12
+ -
+ -
+ -
+% Na/T
+ 0.013
+ 0.013
+ 0.010
+ 0.042
+ 0.025
+ 0.033
+Equivalente de humedad (%)
+ 28.78
+ 28.88
+ 47.42
+ 48.51
+ 44.25
+ 40.01
+P disponible (ppm)
+ 7.50
+ 6.90
+ 4.60
+ 4.10
+ 3.50
+ 3.10

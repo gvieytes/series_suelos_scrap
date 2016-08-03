@@ -1,0 +1,218 @@
+--------------------------------------------------------------------------------
+SERIE ROBLEDO						 	 Símbolo: Ro
+Pertenece a la familia "fina, montmorillonítica, levemente alcalina, térmica" de los Ocracualfes vérticos (Planosol vertisólico, levemente alcalino en el subsuelo).
+Son suelos imperfectamente drenados, con concreciones ferromanganesíferas en todo el perfil. Tienen un epipedón de colores claros, moderadamente lixiviado, franco-arcillo-limoso, seguido por un horizonte argílico muy oscuro, arcillo-limoso.		
+Suelos desarrollados en materiales lacustres (limos calcáreos), densos y de textura arcillo-limosa (formación "Hernandarias").
+Perfil tipo: ER2-86C
+Fecha: 08-XII-83.
+Ubicación: Paso Gallo (foto IR177-31) - Dpto. Concordia.
+Reconocedores: C.J Vesco; C.V. Acosta.
+A2: 00-16 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; gris pardusco claro (10YR 6/2) en seco; franco-arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios, fuertes; extremadamente duro en seco; muy firme en húmedo; moteados de hierro-manganeso abundantes, precisos y finos; concreciones de hierro-manganeso comunes, finas; límite claro, suave.
+B21t: 16-37 cm; negro (10YR 2.5/1) en húmedo; pardo grisáceo oscuro (10YR 3/2) en seco; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, fuertes, que rompen en prismas compuestos irregulares, medios, moderados, que a su vez rompen en bloques angulares irregulares, medios, moderados; extremadamente duro en seco; muy firme en húmedo; barnices ("clay-skins") comunes; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso abundantes; límite gradual, suave.
+B22t: 37-62 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, moderados; duro en seco; muy firme en húmedo; caras de fricción (`slickensides') comunes a abundantes; moteados de hierro-manganeso comunes, precisos y finos; concreciones de FeMn comunes; concreciones calcáreas comunes; límite claro, suave.
+B31ca: 62-80 cm; pardo muy oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares con tendencia cuneiforme, medios, moderados; firme en húmedo; caras de fricción (`slickensides') comunes, intersectadas; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso abundantes; abundante cantidad de carbonatos libres en la masa; límite gradual, suave.
+B32ca: 80-98 cm; pardo (10YR 5/3) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; firme en húmedo; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso abundantes; abundante cantidad de carbonatos libres en la masa; límite gradual, suave.
+C: 98 cm +; pardo grisáceo (10YR 5/2) en húmedo; arcillo-limoso; estructura masiva; firme en húmedo; barnices ("clay-skins") comunes, inherentes al material; moteados de hierro-manganeso abundantes, precisos y finos; concreciones de hierro-manganeso abundantes; escasa cantidad de carbonatos libres en la masa.
+Variabilidad de rasgos
+Está dada, principalmente, por la presencia de un diseño muy particular de microdepresiones donde el agua de lluvia permanece estancada por mucho tiempo, y donde el suelo está expuesto a sobrepisoteo de los animales con el consiguiente "amasado" del material (degradación de la estructura).
+Esto contribuye a que el espesor del epipedón varíe considerablemente a corta distancia, dependiendo de su ubicación en el paisaje. De esta manera, en los perfiles cercanos a estas microdepresiones el epipedón no supera los 8-10 cm, mientras que los más alejados pueden llegar a medir 15-17 cm. Este horizonte muestra una estructura en bloques débiles y a veces masiva, sobre todo en los lotes sobrepastoreados; cuando está seco es extremadamente duro.
+Subyace un horizonte argílico (B2t) de 50-60 cm de espesor, muy denso, poco permeable y penetrable por las raíces, con una estructura de prismas fuertes que rompen en bloques. Debido a su permeabilidad lenta presentan abundantes concreciones y moteados de hierro y manganeso.
+El horizonte transicional B3 tiene colores más claros y estructura en bloques. El carbonato, que comienza a aparecer a los 50 cm, se manifiesta en forma abundante en este horizonte. El suelo no llega a ser sódico; el porcentaje de Na+ intercambiable varía desde el 5% en el B21, aumentando en profundidad hasta un 10 % en el C.
+Fases
+No fueron determinadas a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a serie Moreira, pero ésta tiene un epipedón menos lixiviado y más oscuro.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial muy lenta a nulo. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Robledo no tiene erosión ni corre peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Robledo
+ER2-86C
+Nº de registro
+ 3793
+ 3794
+ 3795
+ 3796
+ 3797
+ 3798
+Horizonte
+ A2
+ B21t
+ B22t
+ B32ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 00-16
+ 17-37
+ 40-62
+ 65-80
+ 87-98
+ 105-125
+Mat.organica (%)
+ 4.35
+ 2.03
+ 1.98
+ 0.67
+ 0.36
+ 0.23
+N (%)
+ 0.20
+ 0.10
+ 0.04
+ 0.03
+ 0.04
+ 0.03
+C/N
+ 13
+ 12
+ -
+ 13
+ 5
+ 5
+T <2
+ 33.92
+ 40.43
+ 51.82
+ 43.43
+ 42.47
+ 43.83
+E 2-20
+ 35.15
+ 33.72
+ 28.89
+ 33.10
+ 31.78
+ 34.08
+X 2-50
+ 65.37
+ 58.95
+ 47.69
+ 55.99
+ 57.02
+ N.D.
+T 50-100
+ 0.27
+ 0.27
+ 0.18
+ 0.20
+ 0.18
+ 0.20
+U 100-500
+ 0.41
+ 0.34
+ 0.30
+ 0.36
+ 0.32
+ 0.29
+R 500-1000
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.03
+A 1000-2000
+ 0.00
+ 0.00
+ 0.01
+ 0.03
+ 0.01
+ 0.00
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.2
+ 1.8
+ 6.5
+ 0.1
+pH H2O
+ 5.4
+ 6.4
+ 7.6
+ 7.8
+ 7.8
+ 7.7
+pH ClK
+ 5.3
+ 5.8
+ 6.7
+ 6.9
+ 7.0
+ 6.7
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ 27.80
+ 33.80
+ 45.80
+ 35.90
+ 35.00
+ 34.60
+D
+Ca++
+ 23.60
+ 28.40
+ 32.80
+ 25.50
+ 23.90
+ 23.50
+C
+E
+A
+Mg++
+ 2.80
+ 3.20
+ 8.80
+ 6.80
+ 7.00
+ 6.50
+T
+C
+I
+A
+K+
+ 0.40
+ 0.37
+ 0.44
+ 0.51
+ 0.57
+ 0.79
+O
+M
+N
+B
+Na+
+ 0.60
+ 1.80
+ 3.41
+ 2.98
+ 3.25
+ 3.62
+E
+I
+S
+O
+H+
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+% Na/T
+Equivalente de humedad (%)
+ 26.06
+ 28.71
+ 31.90
+ 31.83
+ 29.70
+ 29.22
+Conductividad (mmhos/cm)
+ 1.04
+ 0.50
+ 1.24
+ 1.03
+ 1.21
+ 0.90

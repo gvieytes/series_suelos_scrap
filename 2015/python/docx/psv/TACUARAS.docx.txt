@@ -1,0 +1,270 @@
+
+--------------------------------------------------------------------------------
+SERIE TACUARAS								 Símbolo: Tc
+
+
+Pertenece a la familia "franco, mixta, térmica" de los Argiudoles ácuicos.
+Moderadamente bien drenados, con un epipedón oscuro, franco-limoso a franco y un horizonte argílico oscuro, franco-arcillo-limoso a franco arcilloso, tiene concreciones ferromanganesíferas y algunas caras de fricción ("slickensides").
+Son suelos desarrollados sobre materiales limo-loessoides retransportados y mezclados con material arenoso fluvial.
+
+
+Perfil tipo: ER2-26C
+Fecha: 08-IX-1971
+Ubicación: Estancia El Aguará (foto IR 477-17) Dpto La Paz
+Reconocedores: C.J.J. Vesco; G.W. van Barneveld
+
+
+Ap: 00-15 cm; pardo muy oscuro (10YR 2/1) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura granular y en bloques subangulares, medios, moderados;blando en seco, friable en húmedo; barnices ("humic skins") escasos, finos; vestigios de moteados de hierro ; límite claro, suave.
+
+A12: 15-32 cm; gris muy oscuro (10YR 3/1) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; extremadamente duro en seco; firme en húmedo; barnices ("clay-humic skins") escasos, finos; concreciones de hierro-manganeso de hasta 2mm, comunes; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, suave; horizonte compactado.
+
+B21t: 33-43 cm; pardo oscuro (7.5YR 3/2) en húmedo; pardo (7.5YR 4.5/2) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados ue rompen en bloques angulares irregulares y algunos agregados cuneiformes, medios, moderados; muy duro en seco; firme en húmedo; barnices ("clay-humic skins") comunes, medios; caras de fricción ("slickensides") comunes, finas no intersectadas; concreciones ferromanganesíferas de hasta 1 mm, comunes; moteados de hierro-manganeso comunes, finsos y precisos; límite claro, suave.
+
+B22t: 43-70 cm; pardo oscuro (7,5YR 3/2) en húmedo; pardo-pardo oscuro (7.5YR 4/2) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y agregados cuneiformes medios, moderados;muy duro en seco; firme en húmedo; barnices ("clay-humic skins") escasos, finos; caras de fricción ("slickensides") comunes, finas no intersectadas; concreciones ferromanganesíferas de hasta 1 mm, comunes; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B3ca: 70-98 cm; pardo oscuro(7,5YR 4/4) en húmedo; franco-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco; friable en húmedo; concreciones calcáreas escasas, finas; barnices (clay-humic skins") escasos, finos; caras de fricción ("slickensides") escasas, medias, no intersectadas; concreciones ferromanganesíferas de hasta 1 mm, escasas; moteados de hierro-manganeso comunes, finos y débiles; límite difuso, suave.
+
+C: 98 cm +; pardo (7,5YR 5/4) en húmedo; franco-limoso; masivo; friable en húmedo; concreciones ferromanganesíferas de hasta 1 mm, escasas, moteados de hierro-manganeso escasos, finos, débiles.
+
+
+Variabilidad de rasgos
+
+El solum varía de 85-115 cm de profundidad. El epipedón mólico incluye los horizontes A11 y A12 ó A1 y B1 y varía de 18-35 cm. Tiene estructura en bloques. El epipedón tiene entre 17-21% de arcilla, entre 23-32% de arena (predominan las finas y medias) y entre 3-4% de materia orgánica. El horizonte argílico tiene de 30-40 cm de espesor y, en muchos casos, un límite superior casi abrupto. Su porcentaje de arcilla varía de 28-36% y tiene menos arena en el epipedón (17-23%). Generalmente posee concreciones ferromanganesíferas y pocas caras de fricción no intersectadas. El calcáreo aparece entre 50-70 cm y son casi siempre pocas; en algunos casos (como en el perfil tipo) pueden faltar en el C. Son suelos desarrollados en materiales franco-limosos, con 23-27% de arcilla y 15-20% de arena (menos que en el B2). En general, los moteados están presentes en todo el perfil, pero en el epipedón pueden ser escasos. Tanto estos como las concreciones ferromanganesíferas probablemente son fósiles y el drenaje actual es mucho mejor, lo que está indicado por las características del perfil.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial moderado. Capa freática moderadamente profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Tacuaras no tiene erosión actual, y la susceptibilidad a la misma es leve, especialmente en áreas con uso agrícola.
+	
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Tacuaras
+
+ER2-26C
+
+
+
+
+
+
+Nº de registro
+ 506
+ 507
+ 508
+ 509
+ 510
+ 511
+Horizonte
+ Ap
+ A12
+ B1
+ B22t
+ B3ca
+ C
+Profundidad (cm)
+ 00-14
+ 14-28
+ 32-43
+ 50-62
+ 80-90
+ 100-125
+Mat.organica (%)
+ 3.0
+ 2.8
+ 1.4
+ 1.2
+ 0.5
+ 0.3
+N (%)
+ 0.21
+ 0.17
+ 0.10
+ 0.07
+ 0.06
+ 0.03
+C/N
+ 11
+ 11
+ 8
+ 9
+ 5
+ 5
+
+T < 2 u
+
+ 18.2
+
+ 18.0
+
+ 28.1
+
+ 32.0
+
+ 33.2
+
+ 23.9
+E 2-20 u
+ 22.2
+ 21.2
+ 20.9
+ 21.1
+ 20.4
+ 25.2
+X 2-50 u
+ 54.6
+ 54.4
+ 52.1
+ 49.9
+ 51.7
+ 60.8
+T 50-100 u
+ 2.3
+ 2.5
+ 1.8
+ 1.8
+ 1.4
+ 1.9
+U 100-250 u
+ 14.4
+ 15.9
+ 11.2
+ 10.0
+ 8.5
+ 8.6
+R 250-500 u
+ 10.2
+ 9.0
+ 6.5
+ 5.9
+ 5.0
+ 4.6
+A 500-1000 u
+
+ 0.3
+ 0.2
+ 0.3
+ 0.4
+ 0.2
+ 0.2
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 4.5
+ 0.0
+pH H2O
+ 5.2
+ 5.3
+ 5.6
+ 6.4
+ 7.3
+ 7.0
+pH ClK
+ 4.9
+ 5.0
+ 5.2
+ 5.9
+ 6.6
+ 6.3
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+ 20.0
+ 19.2
+ 28.0
+ 28.2
+ 25.0
+ 24.6
+ d Ca++
+ 12.0
+ 12.4
+ 19.8
+ 22.4
+ -
+ 19.2
+C e
+
+
+
+
+
+
+Mg++
+ 2.0
+ 2.2
+ 2.7
+ 2.3
+ -
+ 3.3
+t c
+
+
+
+
+
+
+i a K+
+ 1.2
+ 0.8
+ 1.2
+ 1.2
+ 1.3
+ 1.3
+o m
+
+
+
+
+
+
+n b Na+
+ 0.2
+ 0.2
+ 0.2
+ 0.3
+ 0.4
+ 0.4
+e i
+
+
+
+
+
+
+s o H+
+ 5.8
+ 4.9
+ 3.9
+ 2.9
+ -
+ 1.0
+% Na/T
+
+ -
+ -
+ -
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 20.7
+ 20.6
+ 30.0
+ 32.7
+ 33.2
+ 29.3
+
+

@@ -1,0 +1,430 @@
+
+--------------------------------------------------------------------------------
+SERIE BOUCHEL Símbolo: Bch
+
+
+Pertenece a la familia "franca, mixta, térmica" de los Albacualfes vérticos.
+Son suelos profundos compuesto por una mezcla de aluviones antíguos sobre limos, y son imperfectamente drenados.
+
+A partir de los 40-45 cm aparece un horizonte más arcilloso, con características vérticas y presencia de gravilla, que se extiende en profundidad.
+
+
+Perfil tipo: ER-EEA C. del Uruguay
+Fecha: 1973 y 2003.
+Ubicación: Estación Experimental Agropecuaria Concepción del Uruguay (foto IR 123-36) - Dpto. Uruguay
+Reconocedores: N E. Hein; M.F.Purnell (Serie Técnica Nº 43, EERA Paraná, 1974); H.A.Tasi; L.O. López (2003).
+
+
+A11: 00-07 cm. Gris oscuro a pardo grisáceo oscuro (10 YR 4,5/1) en seco; moteados débiles, pesado fuerte; en húmedo gris muy oscuro (10 YR 3/1); franco-arenosos; duro, friable; ligeramente adhesivo; ligeramente plástico; no reacciona al ácido, abundantes raíces; pH 5,8; limite claro horizontal.
+
+A12: 07-30cm. Gris oscuro (10 YR 4/1) en seco; moteados precisos pardo fuerte, en húmedo gris muy oscuro (10 YR 3/1); franco arenoso; bloques subangulares medios a finos, moderados; duro, firme, ligeramente plástico, ligeramente adhesivo; no reacciona al ácido, abundantes raíces; pH 5,5; límite claro ondulado.
+
+A2: 30-40 cm. Gris (10 YR 5/1) en seco, moteados precisos pardo fuerte, en húmedo pardo grisáceo muy oscuro (10 YR 3/2); franco-arenoso, con más arena y más gruesa; masivo, poroso; bloques angulares finos, débiles; duro, firme; ligeramente plástico; ligeramente adhesivo; no reacciona al ácido, raíces comunes; pocas concreciones de Mn y chicas; pH 6,4; límite abrupto horizontal.
+
+IIB21g: 40-60 cm. Mezcla de pardo grisáceo oscuro y pardo oliváceo (2,5 Y 4/2 y 2,5 Y 4/4) en húmedo, moteado sobresaliente con negro y también moteados precisos de color pardo fuerte, arcillosos con poca cantidad de arena gruesa; bloques angulares y prismas medios fuertes; extremadamente duro, muy firme, adhesivo y plástico; no reacciona al ácido; barnices comunes, pocas raíces; muchas caras de fricción ("slickensides"); concreciones de Mn escasas; pH 6,5; límite gradual horizontal; en la parte superior de este horizonte se encuentra una capa blanca, también se encuentra gravilla.
+
+IIB22g: 60-85 cm. Mezcla de pardo y pardo oscuro (7,5 YR 5/3 y 7,5 YR 4/2) en húmedo; moteado sobresaliente con gris muy oscuro (10 YR 3/1) y pardo fuerte (7,5 YR 5/6); arcilloso con arena; bloques angulares y paralelepípedos finos y medios fuertes; muy firme; plástico y adhesivo; no reacciona al ácido; concreciones de Ca escasas; pH 8,0; límite gradual horizontal, también se encuentra gravilla.
+
+C1: 85-120 cm. Mezcla de pardo oscuro (7,5 YR 5/4 y 7,5 YR 4/4) en húmedo, moteado sobresaliente con pardo fuerte (7,5 YR 5/6); arcilloso con arena; bloques angulares, finos, moderados; firme; plástico y adhesivo; no reacciona al ácido; concreciones de Ca de 1 cm. duras, comunes; barnices escasos; pH 8,1; límite gradual horizontal.
+
+C2: 120-150 cm. Pardo (7,5 YR 5/4) en húmedo; motedo sobresaliente con gris claro y gris (10 YR 6/1 y 10 YR 5/1); arcilloso con arena; bloques subangulares, finos, débiles, firme, plástico y adhesivo; límite difuso horizontal.
+
+C3: 150-230 cm. Arcillo-arenoso; firme; plástico, adhesivo; límite abrupto horizontal.
+230-290 cm. Arenoso y grava; muy friable a friable; ligeramente plástico; ligeramente adhesivo.
+
+
+Variabilidad de rasgos
+
+La posición fisiográfica de esta serie determina su variabilidad de rasgos, según se la encuentre en pendientes suaves, lomas bajas y cerca de las líneas de drenaje.
+
+
+Fases
+
+Se ha determinado a escala de reconocimiento una fase lentamente drenada (Bch.a).
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Artusi y a la serie Concepción, descriptas en la Serie Técnica Nº 43 de la EEA Concepción del Uruguay del INTA, aunque estas tienen mayor cantidad de gravas, se ubican en sectores con mayor gradiente y son algo mejor drenadas.
+
+
+Drenaje
+
+Moderada a imperfectamente drenado; escurrimiento superficial algo lento. Permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie puede estar erosionada por sectores en forma de surcos y pequeñas cárcavas, donde la pendiente se acentúa.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Bouchel
+
+ER-EEA C. del Uruguay
+
+
+
+
+
+
+
+
+Horizonte
+ A11
+ A12
+ A2
+ IIB21g
+ IIB22g
+ C1
+ C2
+ C3
+Profundidad (cm)
+ 0-7
+ 7-30
+ 30-40
+ 40-60
+ 60-85
+ 85-120
+ 120-150
+ 150-230
+Mat.organica (%)
+ 4,76
+ 2,84
+ 1,66
+ 1,27
+ 0,51
+ 0,34
+ 0,25
+ 0,15
+C (%)
+ 2,77
+ 1,57
+ 0,97
+ 0,74
+ 0,30
+ 0,20
+ 0,15
+ 0,09
+N (%)
+ 0,276
+ 0,164
+ 0,105
+ 0,089
+ 0,099
+ 0,033
+ 0,029
+ S/d
+C/N
+ 10
+ 10
+ 9
+ 8
+ 7
+ 6
+ 6
+ S/d
+
+T <2
+
+ 11,9
+
+ 9,3
+
+ 8,3
+
+ 29,3
+
+ 33,2
+
+ 29,0
+
+ 24,5
+
+ 24,8
+E 2-20
+ 10,9
+ 8,8
+ 9,9
+ 6,6
+ 10,2
+ 9,0
+ 10,2
+ 2,6
+X 2-50
+ 18,1
+ 17,1
+ 17,7
+ 15,9
+ 18,9
+ 17,4
+ 17,4
+ 6,2
+T 50-100
+ 1,6
+ 1,6
+ 2,0
+ 1,9
+ 1,8
+ 2,0
+ 1,9
+ 1,4
+U 100-500
+ 24,0
+ 24,7
+ 28,8
+ 21,8
+ 19,7
+ 23,6
+ 25,0
+ 21,6
+R 500-1000
+ 40,9
+ 42,8
+ 39,4
+ 27,1
+ 23,5
+ 26,0
+ 28,1
+ 41,0
+A 1000-2000
+ 3,5
+ 4,5
+ 3,8
+ 3,4
+ 2,9
+ 2,0
+ 2,8
+ 4,3
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+ 0,2
+ 2,0
+ 0
+ 0
+pH H2O
+ 5,0
+ 5,1
+ 5,5
+ 6,4
+ 7,5
+ 8,0
+ 7,4
+ 6,7
+pH ClK
+ 4,6
+ 4,6
+ 4,7
+ 5,2
+ 6,2
+ 6,6
+ 5,8
+ 5,3
+Resistencia de la pasta (Ohms/cm)
+
+ 7728
+
+
+ 12900
+
+ 18463
+
+ 2385
+
+ 1997
+
+ 3215
+
+ 2801
+
+ 3123
+Capacidad de intercambio catiónico
+(m.e./100 g) =
+Valor T
+
+
+ 14,9
+
+
+ 14,2
+
+
+ 10,3
+
+
+ 26,0
+
+
+ 26,2
+
+
+ 24,9
+
+
+ 24,0
+
+
+ 25,0
+
+D
+Ca++
+ 6,9
+ 7,3
+ 6,4
+ 18,1
+ -
+ -
+ 16,4
+ 17,2
+C
+E
+
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 3,3
+ 2,6
+ 0,8
+ 4,9
+ -
+ -
+ 4,5
+ 4,7
+t
+C
+
+
+
+
+
+
+
+
+
+i
+A
+K+
+ 0,7
+ 0,2
+ 0,2
+ 0,5
+ 0,4
+ 0,5
+ 0,6
+ 0,6
+o
+m
+
+
+
+
+
+
+
+
+
+n
+B
+Na+
+ 0,2
+ 0,1
+ 1,2
+ 1,2
+ 1,7
+ 1,3
+ 1,2
+ 0,7
+e
+I
+
+
+
+
+
+
+
+
+
+s
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 0,01
+ 0,01
+ 0,12
+ 0,05
+ 0,06
+ 0,05
+ 0,05
+ 0,03
+Equivalente de humedad (%)
+
+ 14,3
+
+ 10,3
+
+ 8,6
+
+ 24,2
+
+ 29,9
+
+ 26,4
+
+ 25,3
+
+ 21,8
+Factor de Humedad
+
+ 1,016
+
+ 1,009
+
+ 1,006
+
+ 1,026
+
+ 1,032
+
+ 1,028
+
+ 1,024
+
+ 1,021
+asimilable ppm
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+

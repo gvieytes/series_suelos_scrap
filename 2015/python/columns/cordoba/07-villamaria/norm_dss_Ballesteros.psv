@@ -1,0 +1,40 @@
+dss_Ballesteros.psv ->> ID..........................: 704
+dss_Ballesteros.psv ->> CLASIFICACION...............: Haplustol údico
+dss_Ballesteros.psv ->> SERIE.......................: BALLESTEROS (Balle)
+dss_Ballesteros.psv ->> UBICACION...................: 15,5 km al NNO de la localidad de Mórrison
+dss_Ballesteros.psv ->> PROVINCIA...................: CORDOBA
+dss_Ballesteros.psv ->> LATITUD.....................: S324500
+dss_Ballesteros.psv ->> LONGITUD....................: O625800
+dss_Ballesteros.psv ->> ALTITUD.....................: 100
+dss_Ballesteros.psv ->> PENDIENTE...................: FALTA!
+dss_Ballesteros.psv ->> DRENAJE.....................: FALTA!
+dss_Ballesteros.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_Ballesteros.psv ->> PERMEABILIDAD...............: FALTA!
+dss_Ballesteros.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA, FRANCA FINA
+dss_Ballesteros.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_Ballesteros.psv ->> HORIZONTE->NOMBRE(S)........: a1 | bw | bc | c | ck
+dss_Ballesteros.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17 | 17-38 | 38-62 | 62-80 | 80a+
+dss_Ballesteros.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.01 | 1.87 | 1.15 | 0.43 | 0.34
+dss_Ballesteros.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.75 | 1.09 | 0.67 | 0.25 | 0.20
+dss_Ballesteros.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.17 | 0.13 | 0.06 | 0.05 | 0.05
+dss_Ballesteros.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.1 | 8.0 | 9.8 | 4.3 | 3.8
+dss_Ballesteros.psv ->> HORIZONTE->ARCILLA 2 (%)....: 19.5 | 21.5 | 15.5 | 11.1 | 13.4
+dss_Ballesteros.psv ->> HORIZONTE->LIMO 2-50 (%)....: 65.8 | 60.0 | 63.8 | 63.7 | 63.6
+dss_Ballesteros.psv ->> HORIZONTE->AMF 50-100 (%)...: 14.0 | 17.9 | 16.3 | 21.8 | 19.0
+dss_Ballesteros.psv ->> HORIZONTE->AF 100-250 (%)...: 2.9 | 1.1 | 4.27 | 4.3 | 3.6
+dss_Ballesteros.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | - | 
+dss_Ballesteros.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | - | 
+dss_Ballesteros.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | 
+dss_Ballesteros.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 3.73
+dss_Ballesteros.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 25.4 | 25.4 | 20.9 | 18.7 | 19
+dss_Ballesteros.psv ->> HORIZONTE->PH PASTA.........: 6.2 | 6.6 | 6.9 | 7.1 | 7.9
+dss_Ballesteros.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3 | 6.7 | 7.1 | 7.3 | 8.4
+dss_Ballesteros.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 11 | 14 | 11.7 | 11.4 | 
+dss_Ballesteros.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 5 | 2.6 | 3.6 | 2.6 | 
+dss_Ballesteros.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3 | 0.3 | 0.4 | 0.4 | 0.5
+dss_Ballesteros.psv ->> HORIZONTE->CI ME/100G-K +...: 2 | 1.5 | 0.9 | 1.2 | 1
+dss_Ballesteros.psv ->> HORIZONTE->CI ME/100G-H +...: 2.5 | 1.7 | 1.1 | 0.8 | 
+dss_Ballesteros.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | - | 
+dss_Ballesteros.psv ->> HORIZONTE->SUM.B. ME/100G(S): 18.3 | 18.4 | 16.6 | 15.6 | 
+dss_Ballesteros.psv ->> HORIZONTE->CIC ME/100G(T)...: 20.8 | 20.1 | 17.4 | 16.2 | 15.2
+dss_Ballesteros.psv ->> HORIZONTE->SAT.B % (S/T)....: 87.9 | 91.5 | 95.4 | 96.2 | 

@@ -1,0 +1,219 @@
+--------------------------------------------------------------------------------
+SERIE PUERTO SAN JUAN Símbolo: PSJ
+Pertenece a la familia "franca fina, mixta, térmica" de los Argiudoles ácuicos.
+Suelo poligenético, no salino, ligeramente sódico.
+	
+La vegetación es principalmente de pastizal hidrófilo. Es un perfil fuertemente ácido en superficie a ligera - mente alcalino en profundidad. Debido a su posición deprimida dentro del paisaje puede sufrir anegamientos, temporarios por precipitaciones o más prolongados consecuencia de inundaciones extraordinarias.
+Perfil tipo: 80C INTA Castelar
+Fecha: 03-V-1976
+Ubicación: 3km al N del Puerto San Juan (Hoja IGM 3360-29-1) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+A1: 0-11 cm; negro (10YR 2/2) en húmedo; franco arcilloso a franco arcillo limoso; estructura en bloques angulares y subangulares medios a gruesos, débiles; ligeramente duro; moteados finos, comunes, débiles a precisos; raíces abundantes; limite inferior claro, suave.
+A/C: 11-24 cm; negro pardusco (10YR 3/2) en húmedo; franco limo - so; estructura en bloques subangulares medios débiles; li - geramente duro; moteados finos, comunes, precisos; raíces abundantes; límite inferior abrupto, ondulado.
+IIB21t: 24-48 cm; negro pardusco (10YR 3/1) en húmedo; arcillo limoso; estructura en prismas irregulares compuestos medios a gruesos débiles; firme; barnices (clay skins) abundantes; "slickensides" escasos; moteados finos, comunes, débiles; raíces comunes; límite inferior claro, ondulado.
+IIB22t: 48-65 cm; pardo amarillo grisáceo (10YR 4/2) en húmedo; franco arcillo limoso a franco arcilloso; estructura en pris - mas débiles que rompen en bloques angulares medios modera - dos; friable; concreciones ferromanganésicas abundantes; barnices (clay skins) escasos; moteados finos, comunes, débi - les a precisos; raíces escasas; límite inferior abrupto, ondulado.
+IIIC1: 65-90 cm; pardo amarillento opaco (10YR 4/3) en húmedo; franco; masivo; friable; concreciones ferromanganésicas abundantes; moteados finos a medios, comunes, precisos; límite inferior abrupto, ondulado.
+IVC2: 90-112 cm; amarillo anaranjado opaco (10YR 6/3) en húmedo; arenoso; estructura en grano simple; suelto; moteados finos a medios, comunes, débiles; límite inferior abrupto, ondulado.
+VC3: 112-115 cm; pardo rojizo muy oscuro (2,5YR 2/3) en húmedo; arenoso; estructura en grano simple; suelto; límite infe - rior abrupto, ondulado.
+VIC4: 115-134 cm; pardo amarillento brillante (10YR 6/6) en húme - do; arenoso; estructura en grano simple; suelto; moteados finos a medios, comunes, débiles; límite inferior abrupto, ondulado.
+VIIC5: 134-145 cm; esta capa se considera similar a la VC3; límite inferior abrupto, ondulado.
+VIIIC6: 145-160 cm; pardo amarillento opaco (10YR 5/4) en húmedo; arenoso; estructura en grano simple; no plástico; no adhesivo.
+Variabilidad de rasgos	
+Para su descripción se puede considerar al perfil dividido en tres partes. La primera hasta los 24 cm de profundidad, está compuesta de dos horizontes, siendo el primero el A1 hasta los 11 cm, de color negro pardusco, muy bien provisto de materia orgánica, (9,5%) de textura fran - co arcillosa a franco arcillo limosa, estructura en bloques angulares y subangulares. Sigue un horizonte A/C de color negro pardusco pero con menor contenido de materia orgánica (1 %) y textura franco limosa. De 24 a 65 cm de profundidad se describen dos horizontes más pesados que los primeros, con evidentes procesos edáficos por su estructuración con barnices en las caras de los agregados. La tercera parte del perfil se compo - ne de una sucesión de capas de textura arenosa salvo la primera entre 65 y 90 cm que es de textura franca. A partir de los 90 y hasta 160 cm de profundidad se alternan capas arenosas de colores claros y rojizos. Se han observado concreciones ferromanganésicas abundantes entre 50 y 90 cm de profundidad y moteados a lo largo de todo el perfil.
+	
+Esta serie no presenta cantidades significativas de sales solubles y el sodio de intercambio aumenta ligeramente en profundidad superando el 15% a 115 cm por lo tanto este suelo por alcalinidad sódica ha sido clasificado en la clase A1 12.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+El per - fil es de permeabilidad moderadamente lenta y pobremente drenado. La napa freática oscila entre 50 y 150 cm de profundidad.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Puerto San Juan
+80C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ A/C
+ IIB21
+ IIB22
+ IIIC1
+Profundidad (cm)
+ 3-9
+ 13-23
+ 33-43
+ 50-60
+ 69-80
+Mat. orgánica (%)
+ 9.53
+ 1.19
+ 0.52
+ -
+ -
+C (%)
+ 5.53
+ 0.69
+ 0.30
+ -
+ -
+N (%)
+ 0.576
+ 0.077
+ 0.060
+ -
+ -
+C/N
+ 10
+ 9
+ 5
+ -
+ -
+T <2 u
+ 30.7
+ 23.2
+ 42.0
+ 30.0
+ 18.5
+E 2-20 u
+ 36.6
+ 43.0
+ 48.5
+ 43.2
+ 27.8
+X 2-50 u
+ 49.4
+ 60.2
+ 52.5
+ 51.0
+ 43.3
+T 50-74 u
+ 1.4
+ 1.1
+ 1.1
+ 1.4
+ 1.3
+U 74-100 u
+ 2.5
+ 0.6
+ 1.1
+ 0.7
+ 2.1
+R 100-250 u
+ 15.2
+ 14.3
+ 3.1
+ 15.2
+ 34.1
+A 250-500 u
+ 0.8
+ 0.6
+ 0.2
+ 1.7
+ 0.7
+ 500-1000 u
+ -
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 40.1
+ 26.4
+ 36.7
+ 26.1
+ 18.1
+Resistencia de la pasta (Ohms/cm)
+ 4038
+ 5990
+ 2019
+ 2961
+ 3971
+pH en pasta
+ 5.2
+ 5.8
+ 6.1
+ 6.5
+ 6.2
+pH en agua (1:2,5)
+ 5.6
+ 7.0
+ 7.3
+ 7.5
+ 7.6
+pH en KCl (1:2,5)
+ 4.3
+ 4.9
+ 5.2
+ 5.2
+ 5.8
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ 13.2
+ 10.5
+ 19.6
+ 14.9
+ 10.4
+Mg++
+ 2.4
+ 3.4
+ 9.4
+ 7.0
+ 3.6
+Na[+]
+ 0.6
+ 0.5
+ 1.2
+ 0.9
+ 1.0
+K[+]
+ 0.5
+ 0.3
+ 0.4
+ 0.4
+ 0.2
+H[+]
+ 10.2
+ 3.1
+ 4.2
+ 1.7
+ 1.6
+Na+ % del valor T
+ 2
+ 4
+ 4
+ 4
+ 7
+Suma de bases, m.e./100 gr (S)
+ 16.7
+ 14.7
+ 30.6
+ 23.2
+ 15.2
+C.I.C., m.e./100 gr (T)
+ 214.2
+ 13.3
+ 32.0
+ 23.1
+ 13.7
+Saturación con bases, (%) (S/T)
+ 69
+ 100
+ 96
+ 100
+ 100

@@ -1,0 +1,350 @@
+--------------------------------------------------------------------------------
+SERIE SAN ROQUE Símbolo: SR
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelos moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico oscuro, arcillo-limoso, con caras de fricción.
+Tiene concreciones de calcáreo a partir del horizonte B3.
+Suelos desarrollados en materiales limo-loessoides retransportados, de textura franco-arcillo-limosa.
+
+
+Perfil tipo: ER2-15C
+Fecha: 03-XI-1970.
+Ubicación: Campo Sr. Nardone (foto IRH 411-22) - Dpto. Gualeguay.
+Reconocedores: C.J. Vesco; G.W. van Barneveld.
+
+
+A1: 00-11 cm; negro (10YR 2/2) en húmedo, gris oscuro (10YR 4,5/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares, angulares irregulares y granulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay-humic skins") escasos y finos; límite claro, suave.
+
+B1: 11-25 cm; negro (10YR 2/2) en húmedo, gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, débiles, que rompen en bloques angulares irregulares y bloques subangulares medios, moderados; duro en seco, friable en húmedo; barnices ("clay-humic skin") comunes y finos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B21t: 25-55 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en prismas compuestos irregulares finos, moderados, y en bloques angulares irregulares y bloques cuneiformes medios, moderados; friable en húmedo; barnices húmicos ("clay-humic skins") comumes y medios; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso, escasos, finos y precisos; límite claro, suave.
+
+B22t: 55-81 cm; pardo oscuro (10YR 3/2) en húmedo; arcilloso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloque angulares irregulares y bloques cuneiformes medios, moderados; firme en húmedo; concreciones de carbonatos escasas y finas, que aparecen a partir de los 75 cm; barnices ("clay-humic skins") comunes y finos; caras de fricción ("slickensides") comunes, medias e intersectadas; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, ondulado.
+
+B3ca: 81-112 cm; pardo grisáceo muy oscuro (10YR 3,5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, débiles, que rompen en bloques angulares irregulares, moderados; friable en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, de hasta 1 cm; barnices comunes y finos (en parte inherentes al material); caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+Cca: 112 cm+; pardo (7,5YR 5/4) en húmedo; franco-arcillo-limoso; sin estructura (masivo); friable en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, de hasta 1 cm; barnices inherentes al material; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El solum varía de 100 a 120 cm. El epipedón mólico incluye los horizontes A1 y B1, con una profundidad que oscila en 20-30 cm. Su estructura generalmente es buena y varía de granular a bloques angulares. Tiene entre 26 y 30% de arcilla que, a veces, llega a un 40% por deposición de materiales más arcillosos erodados de áreas vecinas más altas (materiales de la serie El Triángulo).
+
+El horizonte argílico tiene un espesor de 45-60 cm y está generalmente mejor expresado en la parte inferior del mismo, con un 45-55% de arcilla, contra un 40% de la parte superior.
+
+Cuando está seco, el B2 presenta grietas de 1-1,5 cm de ancho. El calcáreo, en concreciones duras de hasta 1 cm de diámetro, aparece entre los 60-70 cm; a mayor profundidad, hay calcáreo libre en la masa en un 3 a 6% en el B3, aumentando hasta un 15% en el horizonte C.
+
+Los espejos de fricción ("slickensides") se encuentran normalmente en el B2 y B3.
+
+El color de horizonte C varía de pardo (7,5YR 3/4) a pardo oscuro (7,5YR 4/2) y muestra en algunos lugares algo de gley fósil. Tiene entre 28-32% de arcilla y 3-5% de arena muy fina.
+
+
+Fases
+
+No se determinaron a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie González Calderón pero ésta tiene más arena en todo el perfil (hasta un 30%).
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+Serie San Roque está algo erosionada, y tiene peligro de erosión laminar y en surcos.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie San Roque
+
+ER2-15C
+
+
+
+
+
+
+N° de registro
+ 239
+ 240
+ 241
+ 242
+ 243
+ 244
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-11
+ 15-25
+ 30-45
+ 60-80
+ 88-100
+ 125-135
+Mat.organica (%)
+ 4.4
+ 3.2
+ 2.5
+ 1.4
+ 0.4
+ o.3
+C (%)
+
+
+
+
+
+
+N (%)
+
+
+
+
+
+
+C/N
+ 10
+ 11
+ 11
+ 10
+ 7
+ 5
+
+T <2
+
+ 27.6
+
+ 33.0
+
+ 45.6
+
+ 54.0
+
+ 43.9
+
+ 30.9
+E 2-20
+ 30.7
+ 30.4
+ 22.3
+ 21.0
+ 20.9
+ 22.7
+X 2-50
+ 64.9
+ 59.8
+ 48.1
+ 39.2
+ 49.9
+ 62.8
+T 50-100
+ 3.0
+ 3.2
+ 2.6
+ 2.7
+ 3.4
+ 3.6
+U 100-250
+ 3.1
+ 2.7
+ 2.3
+ 2.2
+ 1.9
+ 1.9
+R 250-500
+ 1.3
+ 1.2
+ 1.3
+ 1.9
+ 0.8
+ 0.7
+A 500-1000
+ 0.1
+ 0.1
+ 0.1
+ -
+ 0.1
+ 0.1
+
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 4.5
+ 12.0
+PH H2O
+ 5.4
+ 5.4
+ 5.2
+ 6.1
+ 7.5
+ 7.6
+PH ClK
+ 5.1
+ 4.8
+ 4.8
+ 5.5
+ 6.6
+ 6.9
+Capacidad de intercambio catiónico (cmol(c)kg-1) =
+Valor T
+
+
+
+ 30.6
+
+
+
+ 31.0
+
+
+
+ 41.0
+
+
+
+ 42.5
+
+
+
+ 30.5
+
+
+
+ 32.3
+
+
+D
+Ca++
+ 18.5
+ 18.1
+ 26.2
+ 31.1
+ -
+ -
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 3.3
+ 3.2
+ 5.3
+ 5.6
+ -
+ -
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 1.8
+ 1.2
+ 1.2
+ 1.3
+ 1.0
+ 0.7
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 0.1
+ 0.1
+ 0.1
+ 0.3
+ 0.3
+ 0.2
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+ 8.2
+ 8.2
+ 8.4
+ 3.2
+ -
+ -
+
+% Na/T
+
+ 0.3
+
+ 0.3
+
+ 0.2
+
+ 0.7
+
+ 0.9
+
+ 0.6
+Equivalente de
+humedad (%)
+
+ 29.4
+
+ 31.0
+
+ 38.6
+
+ 42.6
+
+ 35.3
+
+ 32.1
+
+P disponible (ppm)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+

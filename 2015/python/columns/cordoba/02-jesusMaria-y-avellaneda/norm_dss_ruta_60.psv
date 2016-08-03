@@ -1,0 +1,39 @@
+dss_ruta_60.psv ->> ID..........................: 236
+dss_ruta_60.psv ->> CLASIFICACION...............: Argiustol paralítico
+dss_ruta_60.psv ->> SERIE.......................: RUTA 60 (Rta60)
+dss_ruta_60.psv ->> UBICACION...................: 6 km al Norte de Sarmiento, departamento Ischilín
+dss_ruta_60.psv ->> PROVINCIA...................: CORDOBA
+dss_ruta_60.psv ->> LATITUD.....................: S304300
+dss_ruta_60.psv ->> LONGITUD....................: O640700
+dss_ruta_60.psv ->> ALTITUD.....................: 530
+dss_ruta_60.psv ->> PENDIENTE...................: FALTA!
+dss_ruta_60.psv ->> DRENAJE.....................: FALTA!
+dss_ruta_60.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ruta_60.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ruta_60.psv ->> TIPO DE SUELO...............: FRANCA FINA A GRUESA MIXTA TÉRMICA
+dss_ruta_60.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ruta_60.psv ->> HORIZONTE->NOMBRE(S)........: A | B2t | IIR
+dss_ruta_60.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-22 | 22-50 | 50a+
+dss_ruta_60.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,1 | 0,7 |  
+dss_ruta_60.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,2 | 0,4 |  
+dss_ruta_60.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,12 | 0,04 |  
+dss_ruta_60.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,0 | 10,0 |  
+dss_ruta_60.psv ->> HORIZONTE->ARCILLA 2 (%)....: 11,9 | 19,2 |  
+dss_ruta_60.psv ->> HORIZONTE->LIMO 2-50 (%)....: 28,5 | 25,4 |  
+dss_ruta_60.psv ->> HORIZONTE->AMF 50-100 (%)...: 3,9 | 2,9 |  
+dss_ruta_60.psv ->> HORIZONTE->AF 100-250 (%)...: 6,4 | 5,6 |  
+dss_ruta_60.psv ->> HORIZONTE->AM 250-500 (%)...: 12,5 | 8,8 |  
+dss_ruta_60.psv ->> HORIZONTE->AG 500-1000 (%)..: 23,1 | 19,4 |  
+dss_ruta_60.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 12,8 | 19,4 |  
+dss_ruta_60.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 |  
+dss_ruta_60.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 12,2 | 16,3 |  
+dss_ruta_60.psv ->> HORIZONTE->PH PASTA.........: - | - |  
+dss_ruta_60.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,7 | 7,2 |  
+dss_ruta_60.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 6,9 | 13,3 | 
+dss_ruta_60.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,4 | 0,3 | 
+dss_ruta_60.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2 | 0,2 | 
+dss_ruta_60.psv ->> HORIZONTE->CI ME/100G-K +...: 0,5 | 0,3 | 
+dss_ruta_60.psv ->> HORIZONTE->CI ME/100G-H +...: 1,5 | 0,8 | 
+dss_ruta_60.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8,0 | 14,1 |  
+dss_ruta_60.psv ->> HORIZONTE->CIC ME/100G(T)...: 9,5 | 14,9 |  
+dss_ruta_60.psv ->> HORIZONTE->SAT.B % (S/T)....: 84,2 | 94,6 |  

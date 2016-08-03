@@ -1,0 +1,39 @@
+dss_GENERALSAVIOII.psv ->> ID..........................: 508
+dss_GENERALSAVIOII.psv ->> CLASIFICACION...............: Ustipsamment típico
+dss_GENERALSAVIOII.psv ->> SERIE.......................: GENERAL SAVIO II (GrlSvio2)
+dss_GENERALSAVIOII.psv ->> UBICACION...................: 3,5 km al SE de la ciudad de Río Tercero, departamento Tercero Arriba
+dss_GENERALSAVIOII.psv ->> PROVINCIA...................: CORDOBA
+dss_GENERALSAVIOII.psv ->> LATITUD.....................: S321200
+dss_GENERALSAVIOII.psv ->> LONGITUD....................: O640500
+dss_GENERALSAVIOII.psv ->> ALTITUD.....................: 380
+dss_GENERALSAVIOII.psv ->> PENDIENTE...................: FALTA!
+dss_GENERALSAVIOII.psv ->> DRENAJE.....................: FALTA!
+dss_GENERALSAVIOII.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_GENERALSAVIOII.psv ->> PERMEABILIDAD...............: FALTA!
+dss_GENERALSAVIOII.psv ->> TIPO DE SUELO...............: ARENOSA, MIXTA, TÉRMICA
+dss_GENERALSAVIOII.psv ->> COLOR ......................: PARDO AMARILLENTO OSCURO A PARDO OSCURO
+dss_GENERALSAVIOII.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | c
+dss_GENERALSAVIOII.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-55 | 55a+
+dss_GENERALSAVIOII.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 0.4 | 0.3 | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.2 | 0.2 | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.02 | - | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.6 | - | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->ARCILLA 2 (%)....: 5.0 | 8.5 | 2.9
+dss_GENERALSAVIOII.psv ->> HORIZONTE->LIMO 2-50 (%)....: 11.6 | 15.3 | 10.2
+dss_GENERALSAVIOII.psv ->> HORIZONTE->AMF 50-100 (%)...: 3.3 | 3.0 | 3.5
+dss_GENERALSAVIOII.psv ->> HORIZONTE->AF 100-250 (%)...: 7.1 | 6.5 | 7.3
+dss_GENERALSAVIOII.psv ->> HORIZONTE->AM 250-500 (%)...: 26.6 | 24.4 | 27.7
+dss_GENERALSAVIOII.psv ->> HORIZONTE->AG 500-1000 (%)..: 37.4 | 34.2 | 39.5
+dss_GENERALSAVIOII.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 7.7 | 7.1 | 8.2
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0
+dss_GENERALSAVIOII.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 6.5 | 8.5 | 4.9
+dss_GENERALSAVIOII.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.5 | 6.9 | 8.2
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 3.0 | 5.1 | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.4 | 0.8 | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.1 | 0.1 | 0.1
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CI ME/100G-K +...: 0.2 | 0.2 | 0.1
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CI ME/100G-H +...: 0.5 | 0.4 | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->SUM.B. ME/100G(S): 3.7 | 6.2 | 
+dss_GENERALSAVIOII.psv ->> HORIZONTE->CIC ME/100G(T)...: 4.2 | 6.6 | 2.1
+dss_GENERALSAVIOII.psv ->> HORIZONTE->SAT.B % (S/T)....: 87.7 | 93.6 | 100

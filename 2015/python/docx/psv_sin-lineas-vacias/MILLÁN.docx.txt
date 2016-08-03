@@ -1,0 +1,195 @@
+--------------------------------------------------------------------------------
+SERIE MILLÁN						 	 Símbolo: Mll
+Pertenece a la familia "arcillosa fina, mixta, no calcárea, térmica" de los Argiudoles ácuicos.
+El suelo que caracteriza a la serie Millán es oscuro y moderadamente bien drenado. Se localiza en un paisaje suavemente ondulado, con pendientes muy largas (aproximadamente llegan hasta 4000 m) al norte del departamento, específicamente, en las pendientes hacia el río Guayquiraró entre el arroyo Mesa y tributarios menores del primero.
+Las intensidades de las pendientes no superan el 2 %. Normalmente se encuentran cubiertos con abundante vegetación que incluye una buena cobertura de gramíneas y leguminosas, bajo monte abierto de algarrobo y tala entre otras especies.
+El material original de este suelo está constituido por limos calcáreos (loessoides) de colores claros.
+Perfil tipo: ER3-61C
+Fecha: -
+Ubicación: 27 km al NE de la ciudad de Feliciano - Dpto. Feliciano.
+Reconocedores: R.E. Kleinernan; G.W. van Barneveld
+A11: 00-12 cm.; gris muy oscuro (10 YR 3/1) en húmedo; franco arcillo limoso; estructura granular y en bloques subangulares medios débiles; friable en húmedo; ligeramente adhesivo; barnices ("humic skins") escasos; moteados escasos, finos, débiles; horizonte débilmente lixiviado; límite inferior claro suave.
+A12: 12-29 cm.; negro (10 YR 2.5/1) en húmedo; franco arcillo limoso; estructura granular y en bloques subangulares medios débiles; friable en húmedo; plástico, ligeramente adhesivo; escasas concreciones de hierro y manganeso finas; barnices ("humic skins") escasos a comunes; moteados escasos, precisos, finos; límite inferior claro suave.
+B21: 29-56 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares medios moderados, que rompen en bloques subangulares medios moderados; firme en húmedo; muy plástico, adhesivo; escasas concreciones de hierro manganeso; barnices ("clay skins") escasos, finos; caras de fricción ("slickensides") escasas, finas; moteados escasos, finos, precisos; límite inferior claro suave.
+B22: 56-74 cm.; gris muy oscuro (10 YR 3/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques subangulares medios moderados; firme en húmedo; muy plástico, adhesivo; escasa cantidad de calcáreo disperso; concreciones calcáreas y de hierro y manganeso comunes; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes, finas; moteados escasos, finos, débiles; límite inferior claro suave.
+B31ca: 74 cm. + (120); pardo grisáceo muy oscuro (10 YR 3/2) en húmedo; arcillo limoso; estructura en bloques angulares irregulares medios, débiles; firme en húmedo; plástico, adhesivo; moderada cantidad de calcáreo disperso; abundantes concreciones de hierro y manganeso; caras de fricción ("slickensides") escasas, finas; moteadas abundantes, finos y precisos.
+Variabilidad de rasgos
+Presentan un horizonte superior que varía entre 20-30 cm de espesor (existen fases someras de 15 cm), franco-limoso a franco-arcillo-limoso, algo lixiviado y con estructura en bloques. En algunos perfiles se observan escasas concreciones de hierro y manganeso, así como también escasos moteados de esos elementos.
+Después de este horizonte se pasa a otro con tenores más elevados de arcilla (horizonte B2), con espesores que oscilan entre 30-50 cm; franco arcillo limoso y estructura de prismas débiles. En algunos casos aparecen concreciones calcáreas y siempre concreciones y moteados de hierro y manganeso. Es característica también la presencia de caras de fricción ("slickensides"). El horizonte transicional (B3) algo más claro que los anteriores y con abundantes concreciones calcáreas y de hierro y manganeso es texturalmente arcillo limoso.
+Fases
+No presenta a escala de reconocimiento (1:100.000).
+Drenaje
+Moderadamente bien drenado.
+Erosión
+La serie Millán presenta erosión actual leve y moderada susceptibilidad a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Millán
+ER3-61C
+Nº de registro
+ 2557
+ 2558
+ 2559
+ 2560
+ 2561
+Horizonte
+ A11
+ A12
+ B21
+ B22
+ B31ca
+Profundidad (cm)
+ 02-11
+ 15-26
+ 31-45
+ 56-71
+ 74-85
+Mat.organica (%)
+ 4.83
+ 3.09
+ 1.72
+ 1.48
+ 0.17
+C (%)
+ 2.80
+ 1.80
+ 1.00
+ 0.86
+ 0.10
+N (%)
+ 0.26
+ 0.21
+ 0.15
+ 0.15
+ ND
+C/N
+ 11
+ 9
+ 7
+ 6
+ ND
+T <2
+ 26.90
+ 28.70
+ 39.10
+ 47.60
+ 42.10
+E 2-20
+ 35.04
+ 35.09
+ 29.29
+ 24.15
+ 27.39
+X 2-50
+ 71.41
+ 69.26
+ 58.56
+ 51.15
+ 56.78
+T 50-100
+ 0.02
+ 0.03
+ 0.03
+ 0.02
+ 0.01
+U 100-250
+ 0.46
+ 0.55
+ 0.40
+ 0.31
+ 0.24
+R 250-500
+ 1.10
+ 1.29
+ 0.79
+ 0.84
+ 0.78
+A 500-1000
+ 0.04
+ 0.07
+ 0.03
+ 0.04
+ 0.07
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.1
+ 8.2
+pH H2O
+ 5.5
+ 6.1
+ 6.6
+ 7.4
+ 8.0
+pH ClK
+ 4.1
+ 5.0
+ 5.2
+ 6.1
+ 6.8
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ 27.8
+ 27.6
+ 35.4
+ 50.4
+ ND
+D
+Ca++
+ 17.0
+ 18.4
+ 26.0
+ 37.6
+ ND
+C
+E
+A
+Mg++
+ 1.6
+ 1.6
+ 2.0
+ 1.2
+ ND
+T
+C
+I
+A
+K+
+ 0.47
+ 0.38
+ 0.68
+ 0.87
+ ND
+O
+M
+N
+B
+Na+
+ 0.18
+ 0.40
+ 0.62
+ 0.92
+ ND
+E
+I
+S
+O
+H+
+ 6.5
+ 6.5
+ 6.0
+ ND
+ ND
+% Na/T
+ 0.65
+ 1.45
+ 1.75
+ 1.83
+ 0.65
+Equivalente de humedad (%)
+ 29.8
+ 27.9
+ 38.3
+ 43.3
+ 36.7

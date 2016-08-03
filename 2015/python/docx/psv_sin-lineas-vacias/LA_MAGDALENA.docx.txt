@@ -1,0 +1,222 @@
+--------------------------------------------------------------------------------
+SERIE LA MAGDALENA Símbolo: LMg
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Cromudertes árgicos.
+Presentan un microrelieve gilgai muy tenue en la fotografía aérea pero no visible en el campo.
+Están moderadamente bien drenados, ligeramente erosionados.
+Suelos desarrollados en materiales limos calcáreos, de textura arcillo-limosa
+Perfil tipo: ER1-120C
+Fecha: 24-VII-01
+Ubicación: Ea. El Mirador (foto IR435-54) - Dto. Don Cristobal- Dpto. Nogoyá.
+Reconocedores: O.A. Foti; R.H. Fuentes; R.E. Kleinerman.
+A1: 00-20 cm; pardo grisáceo muy oscuro (10YR 3/2) en seco, pardo muy oscuro (10YR 2/2) en húmedo; franco-limoso; en bloques angulares irregulares, medios, moderados; duro en seco; firme en húmedo; barnices ("humic skins") comunes a abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B21t: 20-39 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") abundantes, medias; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+B22t: 39-59 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco y firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") abundantes, gruesas; concreciones calcáreas escasas, finas; moteados de hierro-manganeso, comunes, medios y precisos; límite claro, ondulado.
+B23t: 59-92 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes a abundantes, gruesas; concreciones calcáreas comunes, medias; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite gradual, ondulado.
+B3ca: 92-130 cm; pardo oscuro (7.5YR 3/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques cuneiformes, medios, moderados; ligeramente duro en seco, firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, medias; abundantes carbonatos libres en la masa; concreciones calcáreas comunes a abundantes, medias; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite difuso, ondulado.
+Cca: 130 cm +; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, medios, débiles; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") escasas a comunes, finas no intersectadas; abundantes carbonatos libres en la masa; concreciones calcáreas abundantes, medianas y gruesas; moteados de hierro-manganeso comunes, medios y sobresalientes.
+Variabilidad de rasgos
+El solum varía entre 120-130-cm. El epipedón tiene entre 18-20 cm de espesor; raramente se puede diferenciar en un A1 y B1 y contiene 30-35 % de arcilla.
+El horizonte B2, argílico, varía de 65-70 cm de espesor y su porcentaje de arcilla 45-50 %, se incrementa con la profundidad, tiener estructura prismática y colores pardos.
+Cuando seco el B2 presenta grietas que se extienden hasta la base del epipedón.
+El calcáreo en concreciones medianas aparece a los 50-60 cm de profundidad; el calcáreo libre en la masa se encuentra en el B3 a los 90 cm.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial rápido. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+Serie La Magdalena presenta erosión hídrica ligera y tiene un moderado peligro de erosión potencial en surcos.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Magdalena
+ER1-120C
+N° de registro
+ 7670
+ 7671
+ 7672
+ 7673
+ 7674
+ 7675
+Horizonte
+ A1
+ B21t
+ B22t
+ B23tca
+ B3ca
+ Cca
+Profundidad (cm
+ 04-18
+ 25-35
+ 42-55
+ 65-90
+ 95-120
+ 130-145
+Mat.organica (%)
+ 3.90
+ 2.04
+ 1.30
+ 0.61
+ 0.38
+ 0.23
+N (%)
+ 0.198
+ 0.114
+ 0.090
+ 0.040
+ 0.028
+ 0.025
+C/N
+ 11
+ 10
+ 8
+ 9
+ 8
+ 5
+T <2
+ 34.11
+ 45.72
+ 48.12
+ 43.99
+ 41.23
+ 40.01
+E 2-20
+ 33.65
+ 34.19
+ 30.50
+ 32.15
+ 29.15
+ 27.21
+X 2-50
+ 63.13
+ 52.75
+ 49.91
+ 53.99
+ 57.12
+ 58.24
+T 50-100
+ 0.74
+ 0.14
+ 0.72
+ 0.68
+ 0.39
+ 0.54
+U 100-500
+ 2.01
+ 1.38
+ 1.24
+ 1.33
+ 1.15
+ 1.20
+R 500-1000
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+A 1000-2000
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+CO3Ca (%)
+ -
+ -
+ 0.04
+ 1.17
+ 8.61
+ 11.22
+pH H2O
+ 6.7
+ 7.8
+ 8.1
+ 8.4
+ 8.6
+ 8.6
+pH ClK
+ 5.7
+ 6.3
+ 6.7
+ 7.0
+ 7.1
+ 7.2
+C.E. (mmhos/cm)
+ 0.390
+ 0.329
+ 0.446
+ 0.477
+ 0.500
+ 0.508
+Capacidad de intercambio catiónico (m.e./100 g) =Valor T
+ 35.22
+ 43.76
+ 47.80
+ 44.08
+ 40.03
+ 40.30
+D
+Ca++
+ 28.82
+ 37.62
+ 39.26
+ 35.06
+ -
+ -
+C
+E
+A
+Mg++
+ 1.22
+ 1.32
+ 4.38
+ 4.40
+ -
+ -
+T
+C
+I
+a
+K+
+ 1.48
+ 1.72
+ 1.69
+ 1.72
+ 1.44
+ 1.60
+O
+m
+N
+b
+Na+
+ 1.52
+ 2.00
+ 2.25
+ 2.50
+ 2.90
+ 3.05
+E
+i
+S
+o
+H+
+% Na/T
+ 4.31
+ 4.57
+ 4.70
+ 5.67
+ 7.24
+ 7.57
+Equivalente de humedad (%)
+ 36.10
+ 47.00
+ 48.99
+ 45.93
+ 43.02
+ 40.77
+P asimilable (ppm)
+ 5.3
+ 2.0
+ 1.9
+ 1.7
+ 1.2
+ 1.0

@@ -1,0 +1,166 @@
+--------------------------------------------------------------------------------
+SERIE LA AZOTEA Símbolo: LAz
+Pertenece a la familia "franca gruesa, mixta, no ácida, térmica" de los Udifluventes típicos.
+Se desarrolló sobre un material arenoso sobre arcillo limoso.	
+Perfil tipo: 3C INTA Castelar
+Fecha: II-1986
+Ubicación: Estancia Las Rosas (Hoja IGM 3360-30-2) - Dpto. Islas del Ibicuy
+Reconocedores: L. A. Gómez; R. F. Ferrao
+I: 0-26 cm; pardo (10YR 5/3 en húmedo, pardo muy pálido (10YR 7/4) en seco; arenoso; masivo; friable, no plástico no adhesivo; límite inferior claro suave.
+II: 26-47 cm; pardo amarillento (10YR 5/4) en húmedo, pardo muy pálido (10YR 7/4) en seco; arenoso; masivo; friable, no plástico no adhesivo; moteados abundantes, sobresalientes y gruesos; límite inferior abrupto suave.
+III: 47-90 cm; gris oscuro (5YR 4/1) en húmedo, gris a gris claro (5YR 6/1) en seco; franco arcillo limoso; bloques angulares medios, fuertes; extremadamente duro, muy firme, muy plástico, muy adhesivo; clay-skins muy abundantes; moteados abundantes, sobresalientes y medios.
+ Serie La Azotea
+Variabilidad de rasgos
+No se determinó.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Bien drenado. Escurrimiento superficial lento. Permeabilidad lenta.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie La Azotea
+3C INTA Castelar
+N° de registro
+ 30542
+ 30543
+ 30544
+Horizonte
+ I
+ II
+ III
+Profundidad (cm)
+ 2-24
+ 30-45
+ 50-90
+Mat.organica (%)
+ 0.28
+ 2.23
+ 0.40
+C (%)
+ 0.16
+ 1.29
+ 0.23
+N (%)
+ -
+ 0.100
+ -
+C/N
+ -
+ 12.9
+ -
+T <2 u
+ 6.1
+ 0.1
+ 36.5
+E 2-20 u
+ 3.0
+ 4.0
+ 21.5
+X 2-50 u
+ 3.5
+ 12.9
+ 56.5
+T 50-74 u
+ 0.7
+ 2.8
+ 2.5
+U 74-100 u
+ 0.1
+ 0.9
+ 0.4
+R 100-250 u
+ 61.7
+ 56.2
+ 2.7
+A 250-500 u
+ 33.6
+ 26.6
+ 1.4
+ 500-1000 u
+ 0.3
+ 0.5
+ -
+Gravilla (> 2 Tosca Ca %
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 8.7
+ 2.0
+ 44.2
+Resistencia de la pasta (Ohms/cm)
+ 14674
+ 35229
+ 1467
+pH en pasta
+ 5.0
+ 5.2
+ 5.8
+PH H2O
+ 5.4
+ 5.6
+ 6.5
+pH ClK
+ 4.3
+ 4.6
+ 4.9
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ Cationes de cambio (m.e./100 g)
+Ca++
+ 0.6
+ 0.3
+ 8.2
+Mg++
+ 0.4
+ 0.5
+ 5.6
+Na+
+ 0.2
+ 0.3
+ 3.0
+K+
+ 0.2
+ 0.2
+ 1.5
+% Na/T
+ 13
+ 21
+ 15
+% Saturación de Agua
+ 26
+ 26
+ 54
+Valor S (m.e./100 g)
+ 1.4
+ 1.3
+ 18.3
+H de cambio (m.e./100 g)
+ 3.6
+ 2.6
+ 5.8
+Valor T (m.e./100) NH4++ o Na+
+ 1.5
+ 1.4
+ 19.4
+% de saturación de T
+ 93
+ 93
+ 94
+% de saturación de S + H
+ 28
+ 33
+ 76
+Fósforo asimilable (ppm)
+ 26.6
+ 64.7
+ 24.4
+Factor de humedad
+ 1.00
+ 1.00
+ 1.04

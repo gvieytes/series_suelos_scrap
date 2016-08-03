@@ -1,0 +1,237 @@
+--------------------------------------------------------------------------------
+SERIE LA STELLA Símbolo: LSt
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Peludertes árgicos.
+Suelos imperfectamente drenados, con horizontes de colores oscuros y presencia de gilgai, aunque poco visible en el terreno.
+El calcáreo, en forma de concreciones pequeñas, aparece a los 48-50 cm, incrementándose en profundidad. Son suelos desarrollados sobre limos calcáreos de textura franco-arcillo-limosa.
+Perfil tipo: ER7-137C
+Fecha: 19-VII-00
+Ubicación: Establecimiento La Stella. Dto Lucas al Sud (foto IR 154-46) - Dpto Villaguay.
+Reconocedores: O.A. Foti; L.O. López
+A1: 00-21 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, débiles; blando en seco y friable en húmedo; barnices ("clay-humic skins") escasos ("humic skins") comunes; moteados de hierro-manganeso, vestigios; límite claro, suave.
+B1: 21-31 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, débiles; duro en seco y friable en húmedo; barnices ("clay-humic skins") y ("clay skins") comunes; moteados de hierro manganeso, escasos, finos y débiles; límite claro suave.
+B21t: 31-48 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares medios, débiles; duro en seco, friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, finas e intersectados; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, ondulado.
+B22tca: 48-73 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares y angulares irregulares, medios, moderados; duro en seco, friable en húmedo; caras de fricción ("slickensides") comunes, gruesas no intersectadas; concreciones ferromanganesíferas, abundantes; concreciones calcáreas escasas; moteados de hierro-manganeso comunes, medios, precisos; límite gradual, ondulado.
+B3ca: 73-102 cm; abigarrado; franco-arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, débiles; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas, no intersectadas; concreciones ferromanganesíferas, comunes; comunes carbonatos libres en la masa; concreciones calcáreas, comunes, finas; moteados de hierro-manganeso comunes, medios y precisos; materiales de horizontes superiores en grietas; límite difuso, ondulado.
+Cca: 102 cm +; pardo fuerte (7,5YR 4/6) en húmedo;franco-arcillo-limoso; masivo; friable en húmedo; caras de fricción ("slickensides") escasas, gruesas; concreciones ferromanganesíferas comunes; comunes carbonatos libres en la masa; concreciones calcáreas comunes; moteados de hierro-manganeso abundantes, medios y precisos. Presencia de pseudogley.
+Variabilidad de rasgos
+El microrelieve gilgai, es tenuemente visible en la fotografía aérea y se observa solo en campos con vegetación natural o pendientes de 2-3 % de gradiente. En declives más suaves, no se aprecia.
+El solum varía entre 90-100 cm de profundidad. En el bajo del gilgai, el epipedón varía de 25-30 cm y generalmente comprende un horizonte A1 de 18-20 cm, de color pardo oscuro, con 40 % de arcilla y un horizonte B1, más oscuro, con 42 % de arcilla.
+El argílico, de color oscuro y estructura prismática, tiene 48-50 % de arcilla y cuando seco presenta grietas que llegan a la base del epipedón.
+El calcáreo aparece a los 45-50 cm de profundidad en el bajo del gilgai, aumentando en profundidad.
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial lento a medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+Serie La Stella posee erosión hídrica ligera.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Stella
+ER7-137C
+Nº de registro
+ 5.338
+ 5.339
+ 5.340
+ 5.341
+ 5.342
+ 5.343
+Horizonte
+ A1
+ B1
+ B21
+ B22
+ B3ca
+ Cca
+Profundidad (cm)
+ 0.5-17
+ 21-30
+ 32-45
+ 50-70
+ 75-90
+ 130-140
+Mat.organica (%)
+ 4.2
+ 3.6
+ 2.2
+ 1.7
+ 0.9
+ 0.2
+N (%)
+ 0.21
+ 0.16
+ 0.10
+ 0.07
+ 0.04
+ 0.03
+C/N
+ 12
+ 13
+ 12
+ 14
+ 13
+ 4
+T
+ < 2 u
+ 40.31
+ 42.88
+ 48.50
+ 49.91
+ 47.70
+ 45.80
+E
+ 2-20 u
+ 34.04
+ 30.95
+ 30.01
+ 28.71
+ 31.61
+ 32.15
+X
+ 2-50 u
+ 58.40
+ 56.26
+ 50.83
+ 49.73
+ 51.84
+ 52.33
+T
+ 50-100 u
+ 0.26
+ 0.48
+ 0.15
+ 0.08
+ 0.13
+ 0.87
+U
+ 100-500 u
+ 0.99
+ 0.370
+ 0.49
+ 0.22
+ 0.27
+ 0.98
+R
+ 500-1000 u
+ 0.04
+ 0.01
+ 0.03
+ 0.06
+ 0.06
+ 0.02
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.21
+ 5.24
+ 10.92
+ 7.03
+pH H2O
+ 7.8
+ 7.3
+ 7.6
+ 8.3
+ 8.4
+ 8.1
+pH ClK
+ 6.7
+ 6.3
+ 6.5
+ 7.0
+ 7.1
+ 7.0
+C.E.(mmhos/cm)
+ 0.601
+ 0.870
+ 0.824
+ 0.578
+ 0.699
+ 0.986
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 37.21
+ 38.84
+ 48.07
+ 49.10
+ 46.95
+ 44.72
+d
+Ca++
+ 30.76
+ 33.44
+ 41.14
+ ND
+ ND
+ ND
+C
+e
+a
+Mg++
+ 2.16
+ 2.34
+ 2.84
+ ND
+ ND
+ ND
+t
+c
+i
+a
+K+
+ 0.92
+ 0.69
+ 0.69
+ 0.63
+ 0.68
+ 0.67
+o
+m
+n
+b
+Na+
+ 3.12
+ 2.37
+ 2.57
+ 3.17
+ 3.50
+ 3.25
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 8.38
+ 6.10
+ 5.35
+ 6.46
+ 7.45
+ 7.27
+Equivalente de humedad (%)
+ 43.60
+ 43.21
+ 50.10
+ 44.01
+ 46.25
+ 43.71
+Fósforo asimilable ppm
+ 5.5
+ 3.8
+ 2.7
+ 2.4
+ 1.6
+ 1.2
+ND: No determinado

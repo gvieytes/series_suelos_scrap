@@ -1,0 +1,285 @@
+
+--------------------------------------------------------------------------------
+SERIE DORADO							 	 Símbolo: Do
+
+
+Pertenece a la familia "fina, montmorillonítica levemente alcalina y térmica" de los Peludertes árgicos.
+Muestra un microrrelieve gilgai lineal bien desarrollado, con ciclos de 5-7 m.
+Es negro hasta 65-95 cm en el bajo del gilgai y desde 00-15 cm en la cresta.
+Está ligeramente erosionado y estructurado, franco-arcillo-limoso a arcillo-limoso, y un horizonte B2 argílico, arcillo limoso.
+El calcáreo aparece a los 50-70 cm, en el bajo del gilgai, y desde la superficie en la cresta.
+El suelo se caracteriza por la presencia de arena gruesa en el perfil.
+Está desarrollado en materiales lacustres ("limos calcáreos") arcillo-limosos, de color pardo.
+
+Perfil tipo: ER4-11C
+Fecha: 6/X/1972
+Área muestra Arroyo Yacaré (foto 495 - 17) - Dpto. La Paz
+Reconocedores: J. M. Pérez - G. W. Barneveld
+
+
+A1: 00-17 cm; negro (10YR 1.7/1) en húmedo; gris muy oscuro a gris oscuro (10YR 3.5/1) en seco; franco arcillo limoso; estructura en bloques subangulares con algunos agregados granulares, medios, moderados a fuertes; extremadamente duro en seco, firme en húmedo; barnices ("humic skins") escasos y finos; moteados de hierro escasos, finos y débiles; límite gradual suave. Horizontes con granos decolorados y poca auto-estructuración, pero sin grietas hasta la superficie.
+
+B21: 17-50 cm; negro (10YR 1.7/1) en húmedo; gris muy oscuro a gris oscuro (10YR 3.5/1) en seco; arcillo limoso; estructura en bloques angulares irregulares con tendencia cuneiforme y agregados medios moderadoscon tendencia a estructura prismática compuesta; extremadamente duro en seco; firme en húmedo; caras de fricción ("slickensides") comunes y finas, intersectadas; moteados de hierro y manganeso escasos, finos y débiles; límite gradual suave.
+
+B22: 50-75 cm; negro (10YR 1.7/1) en húmedo; arcillo limoso; estructura en bloques angulares irregulares con tendencia cuneiforme y bloques cuneiformes medios moderados; extremadamente duro en seco; firme en húmedo; escasas concreciones calcáreas de hasta 4 mm; caras de fricción ("slickensides") abundantes, medias; moteados de hierro-manganeso, comunes, débiles y finos; límite gradual suave. El horizonte muestra escasa cantidad de raíces aplastadas y secas.
+
+B3ca: 75-107 cm; gris oscuro (7.5YR 4/1) en húmedo; gris oscuro (10 YR 4/1) en seco; arcillo limoso; estructura en bloques angulares irregulares con tendencia cuneiforme; extremadamente duro en seco; moderada cantidad de carbonatos libres en la masa; abundantes concreciones calcáreas de hasta 2 cm; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso, abundantes, precisos, finos; límite gradual suave. Horizonte muy compactado y con grietas rellenadas.
+
+Cca: 107 cm +; pardo (7.5 YR 5/4) en húmedo; arcillo-limoso; estructura masiva masiva; extremadamente duro en seco; extremadamente firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones de calcáreo comunes, de hasta 3 cm y en miscelio; barnices ("clay skins") inherentes al material; caras de fricción ("slickensides") escasas, finas; moteados de hierro manganeso abundantes a comunes, precisos y finos. Horizonte compactado y con grietas rellenadas.
+
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción del material arcilloso, que da lugar a la formación de microrrelieve gilgai.
+En el bajo del gilgai, el epipedón (formado normalmente por un horizonte A1, pero que a veces puede incluir un B1) tiene un espesor de hasta 15 cm.
+Tiene 35-37% de arcilla, hasta 10% de arena, y entre 4.5-5% de materia orgánica. Está comúnmente bien estructurado (agregados subangulares y angulares, con algo de estructura granular, moderados a fuertes), con poca autoestructuración ("self-mulching") y normalmente sin grietas en superficie.
+El B2 argílico, tiene un espesor de 50-70 cm, con 45-55% de arcilla, hasta 7.5% de arena. Su estructura generalmente es bloquiforme (agregados angulares cuneiformes o con tendencia cuneiformes, muchas veces fuertes). Las caras de fricción ("slickensides") se encuentran a partir del B21 y son intersectadas, escasas a comunes.
+El porcentaje de calcáreo varía de 10-12% (principalmente en el horizonte C) y muestra una moderada reacción en el B3 y C. En concreciones duras y finas (de hasta 3 cm) o en miscelio aparece entre 50-70 cm en el bajo del gilgai, y desde la superficie en la cresta. Las concreciones ferro-manganésiferos aparecen a los 50-85 cm o más profundo, y son escasa y finas. Los moteados de hierro-manganeso pueden aparecer desde la superficie o a partir del B2 escasos a comunes en el epipedón, y hasta comunes a abundantes en el C).
+El color del horizonte C varía de 10YR 5/1 a 7.5YR 6/4; tiene entre 40 - 48% de arcilla y hasta 5% de arena.
+El perfil contiene hasta 12-13% de Na+ intercambiable a partir de los 60 cm aproximadamente.
+La serie se caracteriza por la presencia de arena gruesa en todo el perfil (el perfil descripto como tipo tiene menos arena que lo normal de la serie).
+
+
+Fases
+
+Moderadamente erosionada
+Muy suavemente ondulada
+
+
+Series similares y sus diferencias
+
+Se parece a las Series San Gustavo y Estancia El Sauce, pero ambas tienen arena en el perfil. Otros Vertisoles con arena tienen un epipedón más profundo o son más hidromórficos.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad moderadamente lenta a lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie Dorado no está erosionada o tiene una leve erosión, en parte natural. El suelo corre moderado peligro de erosión en surcos. La fase moderadamente erosionada se encuentra únicamente en las colonias agrícolas.
+
+
+Vegetación típica
+
+Monte abierto de espinillo (Acacia caven), algarrobo (Prosopis nigra), ñandubay (Prosopis affinis) y algunos chañares (Geoffroea decorticans). Pastura natural buena, con especies como Cynodon dactylon (gramón), Stipas (espartillos), Eryngium (caraguatá), Baccharis coridifolia (mío-mío), Schizachyrium intermedium (cola de zorro) y algunas Opuntia (tunas).
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Dorado
+
+ER4-11C
+
+
+
+
+
+Nº de registro
+ 545
+ 546
+ 547
+ 548
+ 549
+Horizonte
+ A1
+ B21
+ B22
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 25-36
+ 55-65
+ 80-90
+ 115-130
+Mat.organica (%)
+ 4.87
+ 2.61
+ 2.04
+ 1.08
+ 0.22
+C (%)
+ 2.82
+ 1.51
+ 1.18
+ 0.63
+ 0.13
+N (%)
+ 0.290
+ 0.116
+ 0.090
+ 0.048
+ 0.019
+C/N
+ 10
+ 13
+ 13
+ 13
+ 7
+
+T <2
+ 37.7
+ 49.2
+ 49.5
+ 43.0
+ 48.5
+E 2-20
+ 16.3
+ 13.1
+ 13.6
+ 19.5
+ 14.6
+X 2-50
+ 53.0
+ 43.3
+ 42.4
+ 52.3
+ 46.2
+T 50-100
+ 1.5
+ 1.6
+ 1.6
+ 1.0
+ 0.8
+U 100-250
+ 5.5
+ 4.3
+ 4.4
+ 2.7
+ 1.9
+R 250-500
+ 2.3
+ 1.6
+ 2.1
+ 1.0
+ 2.6
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 1.0
+ 12.1
+ 8.7
+pH H2O
+ 5.8
+ 6.9
+ 7.6
+ 7.7
+ 7.9
+pH ClK
+ 5.3
+ 6.0
+ 6.7
+ 6.6
+ 6.6
+Conductividad(mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+ Valor T
+
+ 41.0
+ 50.4
+ 43.6
+ 36.3
+ 37.4
+
+D
+Ca++
+ 30.9
+ 39.4
+ -
+ -
+ -
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 6.3
+ 6.9
+ -
+ -
+ -
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.8
+ 0.9
+ 0.9
+ 0.7
+ 0.7
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.6
+ 2.2
+ 3.8
+ 4.2
+ 4.5
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 3.1
+ 1.5
+ -
+ -
+ -
+% Na/T
+ 1.5
+ 4.4
+ 8.7
+ 11.6
+ 12.0
+
+Equivalente de humedad (%)
+ 40.4
+ 50.7
+ 52.4
+ 52.9
+ 55.6
+
+
+

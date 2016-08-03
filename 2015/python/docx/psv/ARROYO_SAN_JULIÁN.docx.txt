@@ -1,0 +1,193 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO SAN JULIÁN Símbolo: ASJ
+
+
+Pertenece a la familia "limosa fina, mixta (?), no ácida, térmica" de los Haplacuentes aéricos.
+
+Suelo aluvial, sódico y salino. Este suelo se ha desarrollado a partir de materiales marinos y continentales mediante procesos de transporte y sedimentación fluvial.
+
+La cobertura vegetal es escasa y de pastizales halófilos.
+
+
+Perfil tipo: 330C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 11 km al SE de la localidad de Médanos (Hoja IGM 3360-29-4) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-12 cm; pardo opaco (7,5YR 5/3) en húmedo; franco limoso; estructura en bloques subangulares medios moderados que rompen en bloques menores; ligeramente friable; ligeramente plástico, ligeramente adhesivo; microconcreciones calcáreas abundantes; moteados abundantes, gruesos, sobresalientes, de color pardo muy oscuro (7,5YR 2/3); raíces escasas; limite inferior claro suave.
+
+IIC1: 12-88 cm; amarillo grisáceo oscuro (2.5Y 5/2) en húmedo; franco limoso; estructura en bloques subangulares irregulares medios y débiles que rompen a bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; microconcreciones calcáreas comunes; moteados comunes, grandes y sobresalientes de color pardo muy oscuro (7.5YR 2/3); límite inferior claro y suave.
+
+IIIC2: 88-140 cm; pardo opaco (7.5YR 5/4) en húmedo; franco limoso; estructura en bloques subangulares irregulares medios moderados que rompen a bloques menores; ligeramente firme; ligeramente plástico; ligeramente adhesivo; moteados comunes, grandes y sobresalientes, de color pardo muy oscuro (7.5YR 2/3).
+
+
+Variabilidad de rasgos
+
+La capa superficial es de 12 cm de espesor, color pardo opaco, mal provisto de materia orgánica, franco limoso y estructura en bloques subangulares. A esta capa le siguen otras de textura franco limosa. Los dos primeros estratos presentan microconcreciones calcáreas abundantes. Los moteados se observan en todo el perfil pero concentrados en la base del estrato superficial,
+
+El perfil es fuertemente salino con más de 200 mmhos/cm de conductividad en el horizonte superficial. El PSI calculado sobrepasa a lo largo de todo el perfil el 25 %.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+Drenaje
+
+El suelo es de permeabilidad muy lenta y pobremente drenado. Presenta inundaciones frecuentes.
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Arroyo San Julián
+
+330C INTA Castelar
+
+
+
+N° de registro
+
+
+
+Horizonte
+ A1
+ IIC1
+ IIIC2
+Profundidad (cm)
+ 3-7
+ 25-50
+ 90-120
+Mat. orgánica (%)
+ 0.50
+ 0.43
+ -
+C (%)
+ 0.29
+ 0.25
+ -
+N (%)
+ -
+ -
+ -
+C/N
+ -
+ -
+ -
+
+T <2 u
+
+ 15.6
+
+ 21.4
+
+ 13.2
+E 2-20 u
+ 38.5
+ 41.7
+ 23.2
+X 2-50 u
+ 76.4
+ 76.1
+ 81.3
+T 50-74 u
+ 3.6
+ 1.3
+ 2.1
+U 74-100 u
+ 3.7
+ 0.6
+ 2.5
+R 100-250 u
+ 0.5
+ 0.4
+ 0.7
+A 250-500 u
+ 0.2
+ 0.2
+ 0.2
+ 500-1000 u
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+
+
+
+
+CO3Ca (%)
+ vest (n)
+ vest (n)
+ vest (n)
+Equivalente de humedad (%)
+ 24.3
+ 26.9
+ 14.6
+Resistencia de la pasta (Ohms/cm)
+ 34
+ 85
+ 78
+pH en pasta
+ 6.4
+ 7.1
+ 7.0
+pH en agua (1:2,5)
+ 7.1
+ 7.5
+ 7.3
+pH en KCl (1:2,5)
+ 6.2
+ 6.5
+ 6.5
+Conductividad (mmhos/cm)
+ 217.39
+ 44.45
+ 73.53
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ -
+ -
+ -
+
+Mg++
+ -
+ -
+ -
+
+Na[+]
+ -
+ -
+ -
+
+K[+]
+ -
+ -
+ -
+
+H[+]
+ -
+ -
+ -
+Na+ % del valor T
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ -
+ -
+ -
+

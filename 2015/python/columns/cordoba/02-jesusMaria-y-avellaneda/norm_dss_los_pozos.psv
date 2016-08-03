@@ -1,0 +1,39 @@
+dss_los_pozos.psv ->> ID..........................: 226
+dss_los_pozos.psv ->> CLASIFICACION...............: Haplustol entico
+dss_los_pozos.psv ->> SERIE.......................: LOS POZOS (Pzs)
+dss_los_pozos.psv ->> UBICACION...................: 7 km al NNO de Avellaneda, departamento Ischilín
+dss_los_pozos.psv ->> PROVINCIA...................: CORDOBA
+dss_los_pozos.psv ->> LATITUD.....................: S303200
+dss_los_pozos.psv ->> LONGITUD....................: O641500
+dss_los_pozos.psv ->> ALTITUD.....................: 750
+dss_los_pozos.psv ->> PENDIENTE...................: FALTA!
+dss_los_pozos.psv ->> DRENAJE.....................: FALTA!
+dss_los_pozos.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_los_pozos.psv ->> PERMEABILIDAD...............: FALTA!
+dss_los_pozos.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_los_pozos.psv ->> COLOR ......................: PARDO OSCURO
+dss_los_pozos.psv ->> HORIZONTE->NOMBRE(S)........: A | ACca | Cca
+dss_los_pozos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-40 | 40a+
+dss_los_pozos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,9 | 1,2 | 
+dss_los_pozos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,7 | 0,7 | 
+dss_los_pozos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,16 | 0,05 | 
+dss_los_pozos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,6 | 14,0 | 
+dss_los_pozos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 17,6 | 24,8 | 19,2
+dss_los_pozos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 67,0 | 63,0 | 68,4
+dss_los_pozos.psv ->> HORIZONTE->AMF 50-100 (%)...: 7,7 | 5,6 | 12,4
+dss_los_pozos.psv ->> HORIZONTE->AF 100-250 (%)...: 2,1 | 1,2 | 1,4
+dss_los_pozos.psv ->> HORIZONTE->AM 250-500 (%)...: 1,3 | 0,9 | 1,1
+dss_los_pozos.psv ->> HORIZONTE->AG 500-1000 (%)..: 1,6 | 1,2 | 1,4
+dss_los_pozos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,6 | 1,1 | 1,0
+dss_los_pozos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,3 | 5,5
+dss_los_pozos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24,6 | 23,9 | 23,2
+dss_los_pozos.psv ->> HORIZONTE->PH PASTA.........: - | - |  
+dss_los_pozos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,1 | 7,7 | 8,2
+dss_los_pozos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 18,8 | - | 
+dss_los_pozos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,4 | - | 
+dss_los_pozos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,5 | 0,4 | 0,4
+dss_los_pozos.psv ->> HORIZONTE->CI ME/100G-K +...: 2,2 | 1,6 | 1,1
+dss_los_pozos.psv ->> HORIZONTE->CI ME/100G-H +...: 1,0 | - | 
+dss_los_pozos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 21,9 | - | 
+dss_los_pozos.psv ->> HORIZONTE->CIC ME/100G(T)...: 22,9 | 20,8 | 20,1
+dss_los_pozos.psv ->> HORIZONTE->SAT.B % (S/T)....: 95,6 | 100 | 100

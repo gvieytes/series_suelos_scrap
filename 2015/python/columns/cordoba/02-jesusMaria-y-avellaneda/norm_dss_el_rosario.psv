@@ -1,0 +1,39 @@
+dss_el_rosario.psv ->> ID..........................: 212
+dss_el_rosario.psv ->> CLASIFICACION...............: Argiustol údico paralítico
+dss_el_rosario.psv ->> SERIE.......................: EL ROSARIO
+dss_el_rosario.psv ->> UBICACION...................: 2,7 km al Oeste de la ciudad de La Cumbre, departamento Punilla
+dss_el_rosario.psv ->> PROVINCIA...................: CORDOBA
+dss_el_rosario.psv ->> LATITUD.....................: S305900
+dss_el_rosario.psv ->> LONGITUD....................: O642800
+dss_el_rosario.psv ->> ALTITUD.....................: 1450
+dss_el_rosario.psv ->> PENDIENTE...................: FALTA!
+dss_el_rosario.psv ->> DRENAJE.....................: FALTA!
+dss_el_rosario.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_rosario.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_rosario.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA MÉSICA
+dss_el_rosario.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_el_rosario.psv ->> HORIZONTE->NOMBRE(S)........: A1 | IIB2t
+dss_el_rosario.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-28 | 28-60
+dss_el_rosario.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 4,1 | 1,0
+dss_el_rosario.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2,4 | 0,6
+dss_el_rosario.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,24 | 0,07
+dss_el_rosario.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,0 | 8,6
+dss_el_rosario.psv ->> HORIZONTE->ARCILLA 2 (%)....: 10,7 | 23,6
+dss_el_rosario.psv ->> HORIZONTE->LIMO 2-50 (%)....: 26,0 | 22,6
+dss_el_rosario.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,1 | 4,8
+dss_el_rosario.psv ->> HORIZONTE->AF 100-250 (%)...: 10,6 | 7,9
+dss_el_rosario.psv ->> HORIZONTE->AM 250-500 (%)...: 12,7 | 10,4
+dss_el_rosario.psv ->> HORIZONTE->AG 500-1000 (%)..: 19,9 | 17,7
+dss_el_rosario.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 12,6 | 10,2
+dss_el_rosario.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0
+dss_el_rosario.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 18,2 | 18,7
+dss_el_rosario.psv ->> HORIZONTE->PH PASTA.........: - |  
+dss_el_rosario.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,5 | 6,0
+dss_el_rosario.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 9,8 | 13,8
+dss_el_rosario.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,5 | 0,6
+dss_el_rosario.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,1 | 0,2
+dss_el_rosario.psv ->> HORIZONTE->CI ME/100G-K +...: 0,2 | 0,2
+dss_el_rosario.psv ->> HORIZONTE->CI ME/100G-H +...: 1,2 | 0,4
+dss_el_rosario.psv ->> HORIZONTE->SUM.B. ME/100G(S): 10,6 | 14,8
+dss_el_rosario.psv ->> HORIZONTE->CIC ME/100G(T)...: 11,8 | 15,2
+dss_el_rosario.psv ->> HORIZONTE->SAT.B % (S/T)....: 89,8 | 97,4

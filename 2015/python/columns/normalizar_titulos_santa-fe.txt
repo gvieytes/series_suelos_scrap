@@ -1,0 +1,53 @@
+:%s/HORIZONTE->Mat. orgánica:/HORIZONTE->MATERIA ORGÁN.(%):/g
+:%s/HORIZONTE->C orgánico:/HORIZONTE->CARBONO ORGÁN.(%):/g
+:%s/HORIZONTE->N total:/HORIZONTE->NITRÓGENO TOT.(%):/g
+:%s/HORIZONTE->Relación C\/N:/HORIZONTE->RELACIÓN C\/N.....:/g
+:%s/HORIZONTE->Arcilla < 2µ:/HORIZONTE->ARCILLA 2 (%)....:/g
+:%s/HORIZONTE->Limo 2-50µ:/HORIZONTE->LIMO 2-50 (%)....:/g
+:%s/HORIZONTE->TOTAL:/HORIZONTE->TOTAL............:/g
+:%s/HORIZONTE->Limo 2-20µ:/HORIZONTE->LIMO 2-20 (%)....:/g
+:%s/HORIZONTE->Muy fina 50-100µ:/HORIZONTE->AMF 50-100 (%)...:/g
+:%s/HORIZONTE->Fina 100-250µ:/HORIZONTE->AF 100-250 (%)...:/g
+:%s/HORIZONTE->Media 250-500µ:/HORIZONTE->AM 250-500 (%)...:/g
+:%s/HORIZONTE->Gruesa 500-1000µ:/HORIZONTE->AG 500-1000 (%)..:/g
+:%s/HORIZONTE->Muy gruesa 1-2mm:/HORIZONTE->AMG 1-2 mm (%)...:/g
+:%s/HORIZONTE->Calcáreo, CaCO3:/HORIZONTE->CALCAREO CaCO3(%):/g
+:%s/HORIZONTE->Equiv.humedad:/HORIZONTE->EQUIV. HUMEDAD(%):/g
+:%s/HORIZONTE->Resist.pasta:/HORIZONTE->RESIST. PASTA....:/g
+:%s/HORIZONTE->pH pasta (1:1):/HORIZONTE->PH PASTA.........:/g
+:%s/HORIZONTE->pH agua (1:2,5):/HORIZONTE->PH H2O 1:2,5.....:/g
+:%s/HORIZONTE->pH 1N ClK (1:2,5):/HORIZONTE->PH 1N ClK 1:2,5..:/g
+:%s/HORIZONTE->Ca++ intercambio:/HORIZONTE->CI ME\/100G-Ca ++.:/g
+:%s/HORIZONTE->Mg++ intercambio:/HORIZONTE->CI ME\/100G-Mg ++.:/g
+:%s/HORIZONTE->Na+ intercambio:/HORIZONTE->CI ME\/100G-Na +..:/g
+:%s/HORIZONTE->K+ intercambio:/HORIZONTE->CI ME\/100G-K +...:/g
+:%s/HORIZONTE->H+ intercambio:/HORIZONTE->CI ME\/100G-H +...:/g
+:%s/HORIZONTE->(Na+\/T):/HORIZONTE->Na+ % DEL VALOR T:/g
+:%s/HORIZONTE->C.I.C., (T):/HORIZONTE->C.I.C., (T)......:/g
+:%s/HORIZONTE->Suma bases (S):/HORIZONTE->SUM.B. ME\/100G(S):/g
+:%s/HORIZONTE->Sat.bases, (S\/T):/HORIZONTE->SAT.B % (S\/T)....:/g
+:%s/<95>/ /g
+
+:%s/HORIZONTE->Arena::/HORIZONTE->ARENA............:/g
+:%s/HORIZONTE->Arena >50µ:/HORIZONTE->ARENA >50µ.......:/g
+:%s/HORIZONTE->Conductividad:/HORIZONTE->CONDUCT mmhos\/cm.:/g
+
+:%s/HORIZONTE->Limo 20-50µ:/HORIZONTE->LIMO 2-50 (%)....:/g
+:%s/HORIZONTE->Equiv. humedad:/HORIZONTE->EQUIV. HUMEDAD(%):/g
+:%s/HORIZONTE->Resist. pasta:/HORIZONTE->RESIST. PASTA....:/g
+:%s/HORIZONTE->Profundidad:/HORIZONTE->PROFUNDIDADES(CM):/g
+:%s/HORIZONTE->Profundidad muestreo:/HORIZONTE->PROFUNDIDADES(CM):/g
+:%s/HORIZONTE->Profundidad muestra:/HORIZONTE->PROFUNDIDADES(CM):/g
+:%s/HORIZONTE->muestra:/HORIZONTE->MUESTRA(CM)......:/g
+:g/HORIZONTE->Comp. Extr. Sat.:/d
+:%s/HORIZONTE->Ca++:/HORIZONTE->C.EXT.S ME\/1-Ca++:/g
+:%s/HORIZONTE->Mg++:/HORIZONTE->C.EXT.S ME\/1-Mg++:/g
+:%s/HORIZONTE->Na+:/HORIZONTE->C.EXT.S ME\/1-Na+.:/g
+:%s/HORIZONTE->K+:/HORIZONTE->C.EXT.S ME\/1-K+..:/g
+:%s/HORIZONTE->CO3-:/HORIZONTE->C.EX.S ME\/1-CO3-.:/g
+:%s/HORIZONTE->CO3H-:/HORIZONTE->C.EX.S ME\/1-CO3-.:/g
+:%s/HORIZONTE->CO3H-:/HORIZONTE->C.EX.S ME\/1-CO3H-:/g
+:%s/HORIZONTE->SO4=:/HORIZONTE->C.EXT.S ME\/1-SO4=:/g
+:%s/HORIZONTE->Cl-:/HORIZONTE->C.EXT.S ME\/1-Cl-.:/g
+:%s/HORIZONTE->RAS:/HORIZONTE->RAS..............:/g
+:%s/HORIZONTE->Sat. bases, (S\/T):/HORIZONTE->SAT.B % (S\/T)....:/g

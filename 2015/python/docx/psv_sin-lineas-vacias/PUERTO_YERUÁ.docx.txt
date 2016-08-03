@@ -1,0 +1,209 @@
+--------------------------------------------------------------------------------
+SERIE PUERTO YERUÁ		 	 Símbolo: PY
+Pertenece a la familia "franco gruesa sobre arcillosa fina, somera, térmica" de los Haplumbreptes fluvénticos (aluvial antiguo con subsuelo denso).
+Son suelos moderadamente bien drenados; franco- arenosos a areno-franco, sobre materiales gleizados a 40-60 cm de profundidad, muy densos y poco permeables, franco-arcillo-arenosos a arcillo-arenosos.
+Están desarrollados sobre materiales arcillosos lacustres, removidos y mezclados con una capa de material fluvial franco-arenoso, más reciente.
+Perfil tipo: ER2-45C
+Fecha: 2-VI-72.
+Ubicación: Estación Experimental Agropecuaria Concordia INTA (foto IR 164-8) - Dpto. Concordia.
+Reconocedores: C.J. Vesco; G.W. van Barneveld.
+Ap: 00-15 cm; pardo grisáceo muy oscuro (7,5YR 3/2) en húmedo; franco-arenoso; estructura granular y en bloques subangulares, medios, débiles y granular simple; suelto en seco; muy friable en húmedo; límite claro, suave.
+A1: 15-43 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco-arenoso; estructura en bloques subangulares+bloques angulares irregulares, medios y gruesos, débiles; ligeramente duro en seco; friable en húmedo; barnices ("humic-skins"), escasos, finos; límite claro, ondulado.
+I/II: 43-50 cm; pardo grisáceo muy oscuro (10 YR 3/2) en húmedo; arcillo-arenoso, con cantos rodados de hasta 7 mm; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares+agregados cuneiformes, medios, moderados; friable en húmedo; barnices ("humic-skins"), escasos, finos; caras de fricción (`slickensides') escasas, finas, no intersectadas; moteados de hierro-manganeso profusos (2,5YR 3/6); límite gradual, ondulado.
+II: 50 cm+; 70% de materiales grisáceos, gris (10YR 5/1 seco; 2,5YR 5/0 húmedo) y 20% de materiales rojizos, rojo-rojo oscuro (2,5YR 4/6 en seco, 2,5YR 3/6 en húmedo); arcillo-arenoso, con cantos rodados de hasta 1 cm; estructura en prismas compuestos irregulares, que rompen en bloques angulares irregulares y agregados cuneiformes, medios, moderados; muy duro en seco; firme en húmedo; caras de fricción (`slickensides') comunes, medias, poco intersectadas; moteados de hierro-manganeso abundantes, finos y medios, precisos (rojo oscuro 2,5YR 3/6); concreciones de hierro-manganeso de hasta 5 mm.
+Variabilidad de rasgos
+El epipedón comprende generalmente un Ap y un A1 (a veces, un A1 y un AC); varía de areno-franco a franco arenoso (10-12% de arcilla y 60-80% de arena fina y media); tiene 1,5-2% de materia orgánica y colores oscuros (10YR 3/1 a 10YR 3/2). Por el porcentaje bajo de saturación de bases no puede ser clasificado como epipedón mólico. Su profundidad oscila entre 30-60 cm.
+La capa transicional (I/II) varía de 5-20 cm; tiene mas materia orgánica que el horizonte A1 o el AC y también algo más de arcilla que el II. Probablemente puede considerarse como una última etapa de sedimentación (mas arcilla) y de acumulación de materia orgánica desde los horizontes superficiales (cutanes de materia orgánica).
+La variación de la capa II se conoce poco. El porcentaje de material rojo oscuro que la integra oscila aproximadamente entre 10-30% y es una característica típica de la serie.
+Fases
+No se han descripto a escala de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Mandisoví (Hapludol fluvéntico) y en muchos lugares ambas están asociadas.
+Drenaje
+Moderadamente bien drenado (las concreciones de hierro-manganeso datan, probablemente, de la época de sedimentación de los materiales); escurrimiento superficial moderado. Permeabilidad rápida en los horizontes superficiales, y muy lenta en los subsuperficiales. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La serie Puerto Yeruá presenta erosión hídrica actual leve y una moderada susceptibilidad a la misma.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Puerto Yeruá
+ER2-45C
+N° de registro
+ 902
+ 903
+ 904
+ 905
+ 906
+Horizonte
+ Ap
+ A1
+ I/II
+ II
+ III
+Profundidad (cm
+ 00-10
+ 20-32
+ 43-50
+ 60-75
+ 83-95
+Mat.organica (%)
+ 1,50
+ 1,30
+ 1,40
+ 0,40
+ 0,20
+N (%)
+ 0,09
+ 0,08
+ 0,08
+ -
+ -
+C/N
+ 10
+ 10
+ 11
+ -
+ -
+T
+ <2 u
+ 13,70
+ 18,20
+ 39,20
+ 37,20
+ 36,80
+E
+ 2-20 u
+ 4,50
+ 5,00
+ 4,60
+ 6,40
+ 7,00
+X
+ 2-50 u
+ 7,80
+ 7,50
+ 8,10
+ 11,30
+ 10,60
+T
+ 50-100 u
+ 6,70
+ 4,90
+ 1,60
+ 3,60
+ 1,30
+U
+ 100-250 u
+ 42,30
+ 40,50
+ 31,80
+ 29,70
+ 33,00
+R
+ 250-500 u
+ 27,60
+ 27,30
+ 17,90
+ 16,50
+ 17,40
+A
+ 500-1000 u
+ 1,90
+ 1,60
+ 1,40
+ 1,00
+ 0,90
+ Gravas
+ 0,00
+ 0,00
+ 3,40
+ 0,50
+ 0,40
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+pH H2O
+ 5,4
+ 5,7
+ 5,9
+ 6,2
+ 6,6
+pH ClK
+ 4,6
+ 4,9
+ 4,7
+ 4,9
+ 5,2
+Capacidad de intercambio catiónico
+(m.e./100 g) =
+ Valor T
+ 5,80
+ 7,70
+ 21,70
+ 20,10
+ 17,70
+d
+Ca++
+ 1,40
+ 2,00
+ 12,90
+ 12,80
+ 12,50
+C
+e
+a
+Mg++
+ 0,20
+ 0,70
+ 2,70
+ 2,90
+ 2,30
+t
+c
+i
+a
+K+
+ 0,30
+ 0,10
+ 0,30
+ 0,30
+ 0,30
+o
+m
+n
+b
+Na+
+ 0,05
+ 0,10
+ 0,10
+ 0,10
+ 0,10
+e
+i
+s
+o
+H+
+ 4,60
+ 5,60
+ 7,80
+ 6,40
+ 4,80
+% Na/T
+ 0,86
+ 1,30
+ 0,46
+ 0,50
+ 0,56
+Equivalente de humedad (%)
+ 9,2
+ 10,5
+ 22,8
+ 20,9
+ 19,6
+Saturación con bases, (%) (S/T)
+ 30,0
+ 33,0
+ 66,0
+ 70,0
+ 75,0

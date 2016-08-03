@@ -1,0 +1,245 @@
+--------------------------------------------------------------------------------
+SERIE LAS CABEZAS							 Símbolo: LCa
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, de textura franca seguido de un horizonte argílico franco-arcilloso con abundantes moteados y concreciones de hierro-manganeso.
+Están desarrollados en materiales loéssicos retransportados y libres de carbonatos.
+Perfil tipo: ER1-73C
+Fecha: 26-VIII-1992
+Ubicación: Ea. Las Cabezas (foto IR 410-27) - Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A11: 00-18 cm; pardo oscuro (10YR 3/3) en húmedo, pardo (10YR 5/3) en seco; franco; estructura granular y en bloques subangulares finos, débiles; muy duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; arena gruesa en las caras de los agregados; límite abrupto, suave.
+A12: 18-33 cm; pardo oscuro (10YR 3,5/3) en húmedo; franco; estructura algo masiva con prismas compuestos irregulares; barnices ("clay-humic skins") abundantes; moteados de hierro-manganeso comunes, finos y precisos; arena gruesa y rodados de hasta 1 cm; límite claro, suave.
+B1: 33-52 cm; pardo oscuro (10YR 3/3) en húmedo; franco; estructura en prismas compuestos irregulares débiles; duro en seco, friable en húmedo; barnices ("clay-humic skins") escasos a comunes; moteados de hierro-manganeso comunes, finos y débiles; arena gruesa y rodados de hasta 1,5 cm; límite abrupto, suave.
+B21t: 52-72 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, débiles, que rompen en bloques angulares irregulares medios, moderados; duro en seco, friables en húmedo; concreciones de hierro-manganeso escasas y finas; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso abundantes, finos y sobresalientes; arena muy gruesa y rodados más finos que en los horizontes anteriores; límite claro, suave.
+B22t: 72-91 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares medios, finos; duro en seco, firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso, comunes, finos y precisos; límite gradual, suave.
+B3: 91-130 cm; pardo a pardo oscuro (7,5YR 4/3) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares medios, débiles; duro en seco, friable en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas y finas; moteados de hierro- manganeso comunes, finos y precisos; límite difuso, suave.
+C: 130 cm+; pardo a pardo oscuro (10YR 4/4) en húmedo; franco; estructura en bloques irregulares, débiles; duro en seco, friable en húmedo; barnices ("clay-humic skins") escasos; moteados de hierro-manganeso comunes, finos y débiles.
+Variabilidad de rasgos
+El solum varía entre 100-130 cm de profundidad. Tiene un epipedón de considerable espesor (50-55 cm) y bien estructurado, que incluye horizontes A11, A12 y B1, con 20% de arcilla y 1,9-2,8% de materia orgánica.
+El horizonte argílico, de color no uniforme en todo el horizonte, varía de pardo amarillento oscuro (10YR 4/4) a pardo oscuro (7,5YR 4/4), tiene un espesor de 35-45 cm y con un contenido de arcilla de 37-40%; tiene estructura prismática compuesta, y presenta algunas caras de fricción ("slickensides") y escasas concreciones ferromanganesíferas.
+Es característico de esta serie los elevados tenores de arena en todo el solum, así como también la presencia de rodados que llegan a tener un diámetro de hasta 1,5 cm, lo que evidencia una mezcla y retransporte del material sobre el que se desarrolló. El horizonte C, de color pardo oscuro (10YR 4/4), presenta algunos moteados y no tiene calcáreo hasta los 155 cm de profundidad.
+Fases
+No se describieron fases a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Cuatro Manos (pero ésta es menos arenosa). También se parece a la serie El Supremo, pero ésta es más hidromórfica.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La serie Las Cabezas no presenta erosión actual.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Las Cabezas
+ER1-73C
+Nº de registro
+ 6621
+ 6622
+ 6623
+ 6624
+ 6625
+ 6626
+ 6627
+Horizonte
+ A11
+ A12
+ B1
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 02-15
+ 20-30
+ 35-50
+ 54-70
+ 75-88
+ 100-120
+ 144-155
+Mat.organica (%)
+ 2.88
+ 2.03
+ 1.09
+ 1.03
+ 0.89
+ 0.83
+ 0.08
+N (%)
+ 0.13
+ 0.11
+ 0.07
+ 0.06
+ 0.04
+ 0.05
+ 0.02
+C/N
+ 12
+ 10
+ 9
+ 9
+ 11
+ 10
+ 2
+T < 2 μ
+ 20.53
+ 20.23
+ 21.01
+ 40.00
+ 37.53
+ 35.65
+ 25.33
+E 2-20 μ
+ 27.61
+ 29.55
+ 26.12
+ 19.81
+ 24.19
+ 26.96
+ 29.99
+X 2-50 μ
+ 43.06
+ 41.95
+ 39.77
+ 38.67
+ 40.06
+ 45.42
+ 46.59
+T 50-100 μ
+ 3.56
+ 4.72
+ 4.42
+ 4.80
+ 7.06
+ 7.41
+ 7.43
+U 100-500 μ
+ 26.62
+ 26.80
+ 25.95
+ 14.50
+ 13.11
+ 10.23
+ 17.98
+R 500-1000 μ
+ 5.92
+ 5.82
+ 8.18
+ 1.84
+ 2.07
+ 1.20
+ 2.39
+A 1000-2000 μ
+ 0.31
+ 0.48
+ 0.67
+ 0.19
+ 0.17
+ 0.09
+ 0.28
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+pH H2O
+ 5.6
+ 5.5
+ 5.6
+ 5.7
+ 5.8
+ 6.0
+ 6.1
+pH ClK
+ 4.9
+ 4.8
+ 4.9
+ 5.0
+ 5.0
+ 5.2
+ 5.3
+CE (mmhos/cm)
+ 0.17
+ 0.14
+ 0.11
+ 0.09
+ 0.19
+ 0.11
+ 0.07
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 13.00
+ 13.10
+ 16.10
+ 25.80
+ 25.70
+ 21.40
+ 22.80
+ d Ca++
+ 9.20
+ 9.80
+ 11.60
+ 19.60
+ 19.20
+ 15.80
+ 17.10
+C e
+Mg++
+ 1.80
+ 1.60
+ 2.00
+ 3.90
+ 3.60
+ 3.10
+ 3.20
+t c
+i a K+
+ 0.93
+ 0.90
+ 1.12
+ 1.30
+ 1.23
+ 1.20
+ 1.20
+o m
+n b Na+
+ 0.15
+ 0.15
+ 0.45
+ 0.70
+ 0.65
+ 0.43
+ 0.50
+e i
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.15
+ 1.14
+ 2.79
+ 2.71
+ 2.53
+ 2.01
+ 2.19
+Equivalente de humedad (%)
+ 21.42
+ 20.91
+ 20.99
+ 28.59
+ 28.79
+ 30.55
+ 26.62
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+ -

@@ -1,0 +1,306 @@
+
+--------------------------------------------------------------------------------
+SERIE CERRITO Símbolo: Ce
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelos moderadamente bien drenados, tienen un epipedón oscuro de 20 a 30 cm de espesor que incluye un A1 y B1 franco-arcillo-limoso y un horizonte argílico, arcillo-limoso, con caras de fricción ("slickensides") no intersectadas.
+Presentan grietas que llegan hasta la superficie cuando están secos.
+
+Tiene concreciones calcáreas a partir de 75-90 cm. Suelos desarrollados en materiales loessoides calcáreos retransportados.
+
+
+Perfil tipo: ER7-111C
+Fecha: 05-XI-96
+Ubicación: Estancia "Santa Teresita" (foto IR 456-18) - Dpto. Paraná
+Reconocedores: O.A.Foti; L.O.López.
+
+
+Ap: 00-20 cm; gris muy oscuro (10YR 3/1) en húmedo y gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; friable en húmedo; barnices ("humic skins") escasos; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, finos y precisos; eluviado por caras de los agregados; límite claro, suave.
+
+B1: 20-29 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") comunes y ("clay skins") escasos; caras de fricción ("slickensides") escasas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; eluviado por caras de los agregados; límite claro, suave.
+
+B21t: 29-48 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en prismas compuestos irregulares, medios, moderados; friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas, gruesas, no intersectadas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; grietas que llegan a la base del B1; límite claro, suave.
+
+B22t: 48-70 cm; negro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares, finos, débiles; friable en húmedo; barnices ("clay-humic skins") escasos y ("Clay skins") abundantes; caras de fricción ("slickensides") comunes y gruesas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B3ca: 70-110 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; concreciones calcáreas escasas; comunes carbonatos libres en la masa; caras de fricción ("slickensides") comunes y gruesas; moteados de hierro-manganeso escasos, finos y precisos; límite difuso, suave.
+
+Cca: 110 cm +; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; masivo; friable en húmedo; concreciones calcáreas comunes, semiduras; abundantes carbonatos libres en la masa; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 100-120 cm, El epipedón consta normalmente de un A1 de 15 cm y un B1 de 11 cm, (ocasionalmente puede presentar un horizonte AB como producto del mezclado por la labranza, con un contenido de arcilla que varía de 28-33 %.
+
+El horizonte argílico, de estructura prismática, que rompe en otros prismas irregulares y/o bloques angulares y subangulares, tiene un espesor variable entre 40-52 cm y el contenido de arcilla varía entre 42-46 %.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial lento a muy lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+Erosión
+
+La serie no presenta erosión actual y no es susceptible a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Cerrito
+
+ER7-111C
+Nº de registro
+ 1204
+ 1205
+ 1206
+ 1207
+ 1208
+ 1209
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 20-29
+ 35-45
+ 54-68
+ 80-105
+ 110-130
+Mat.organica (%)
+ 4.6
+ 3.2
+ 3.0
+ 3.0
+ 1.0
+ 1.0
+N (%)
+ 0.23
+ 0.17
+ 0.13
+ 0.09
+ 0.06
+ 0.05
+C/N
+ 11
+ 12
+ 13
+ 20
+ 9
+ 8
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 28.73
+ 32.42
+ 42.99
+ 45.37
+ 46.01
+ 44.20
+E
+ 2-20 u
+ 35.69
+ 32.19
+ 28.96
+ 27.64
+ 27.19
+ 28.27
+X
+ 2-50 u
+ 68.80
+ 64.25
+ 55.51
+ 53.19
+ 52.78
+ 54.50
+T
+ 50-100 u
+ 0.65
+ 0.47
+ 0.09
+ 0.12
+ 0.12
+ 0.21
+U
+ 100-250 u
+ 1.79
+ 1.42
+ 1.39
+ 1.31
+ 1.08
+ 1.08
+R
+ 250-500 u
+ 0.03
+ 0.02
+ 0.02
+ 0.01
+ 0.01
+ 0.01
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.80
+ 12.09
+pH H2O
+ 5.8
+ 6.6
+ 6.9
+ 7.8
+ 8.5
+ 8.7
+pH ClK
+ 5.2
+ 5.3
+ 5.5
+ 6.2
+ 7.0
+ 7.2
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 36.6
+ 33.5
+ 41.6
+ 45.7
+ 41.1
+ N.D.
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 21.2
+ 21.6
+ 28.7
+ 31.1
+ N.D.
+ N.D.
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 1.2
+ 3.2
+ 4.4
+ 6.0
+ N.D.
+ N.D.
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 0.8
+ 0.7
+ 1.0
+ 0.9
+ 0.9
+ 0.9
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.7
+ N.D.
+ 0.9
+ 1.3
+ 1.7
+ 1.9
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 1.9
+ -
+ 2.2
+ 2.8
+ 4.1
+ -
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 30.5
+ 35.4
+ 46.7
+ 47.1
+ 45.4
+ 41.8
+
+Fósforo asimilable (ppm)
+ 3.60
+ 2.99
+ 2.99
+ 2.40
+ 2.40
+ 1.81
+
+

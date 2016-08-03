@@ -1,0 +1,201 @@
+
+--------------------------------------------------------------------------------
+SERIE ESTANCIA SOL DE MAYO Símbolo: ESM
+
+
+Pertenece a la familia "no ácida, térmica" de los Udisamentes típicos.
+
+Suelo arenoso con escasa cubierta vegetal. Estos suelos pueden estar afectados por erosión eólica ligera.
+
+
+Perfil tipo: 50C INTA Castelar
+Fecha: 18-III-1976
+Ubicación: 6,25 km al ESE de Médanos (Hoja IGM 3360-29-2) - Dpto. Gualeguaychú
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+A/C: 0-24 cm; pardo amarillento opaco (10YR 4/3) en húmedo; arenoso; estructura en grano simple; suelto en húmedo; raíces comunes; límite claro ondulado.
+
+C1: 24-55 cm; pardo amarillento opaco (10YR 5/3) en húmedo; arenoso; estructura en grano simple; no plástico, no adhesivo; moteados comunes, medios, precisos; limite abrupto ondulado.
+
+IIC2: 55-70 cm; negro pardusco (10YR 3/2) en húmedo; arenoso; estructura en grano simple; no plástico; no adhesivo.
+
+
+Variabilidad de rasgos
+
+El horizonte superior A/C tiene un espesor de 24 cm, es de color pardo amarillento opaco, de textura arenosa, estructura en grano simple y mal provisto de materia orgánica (menos de 1%). A continuación siguen capas arenosas de colores que van del pardo amarillento opaco al negro pardusco. Se observan moteados precisos en la primera de estas capas (entre 24 y 55 cm).
+
+El porcentaje de sodio de intercambio oscila entre 9 y 14% a lo largo de todo el perfil, por lo tanto esta serie por alcalinidad sódica se lo ha clasificado como A1.01.
+
+
+Fases
+
+Serie Estancia Sol de Mayo, fase moderadamente bien drenada y sin erosión eólica
+Símbolo: ESM1
+
+Esta fase se encuentra en las pendientes con vegetación de monte de las crestas subparalelas y surcos prelitorales que limitan el segundo cordón medanoso (Ea. La Calera - La Conchera de Flores) en el noreste del departamento.
+
+
+Serie Estancia Sol de Mayo, fase imperfectamente drenada y sin erosión eólica
+Símbolo: ESM 2
+
+Se encuentra en los bajos con vegetación entre crestas (depresiones semipantanosas) del gran cordón medanoso que constituye la llamada "Isla Ibicuy". La fase es de poca extensión.
+
+
+Drenaje
+
+Este perfil es de permeabilidad muy rápida y bien drenado.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Estancia Sol de Mayo
+
+50C INTA Castelar
+
+
+
+N° de registro
+
+
+
+Horizonte
+ A/C
+ C1
+ IIC2
+Profundidad (cm)
+ 5-15
+ 30-50
+ 57-67
+Mat.organica (%)
+ 0.57
+ -
+ -
+C (%)
+ 0.33
+ -
+ -
+N (%)
+ 0.034
+ -
+ -
+C/N
+ 10
+ -
+ -
+
+T <2 u
+
+ 1.0
+
+ 1.2
+
+ 3.5
+E 2-20 u
+ 1.0
+ 0.3
+ 1.0
+X 2-50 u
+ 1.0
+ 0.6
+ 1.2
+T 50-74 u
+ 0.1
+ 0.1
+ 0.2
+U 74-100 u
+ 0.2
+ 0.2
+ 0.2
+R 100-250 u
+ 48.5
+ 61.6
+ 53.8
+A 250-500 u
+ 49.1
+ 35.1
+ 38.7
+ 500-1000 u
+ 0.1
+ 1.2
+ 2.4
+ 1000-2000 u
+ -
+ -
+ -
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 1.7
+ 0.9
+ 1.3
+Resistencia de la pasta (Ohms/cm)
+ 2712
+ 2583
+ 2368
+pH en pasta
+ 6.5
+ 6.5
+ 6.5
+PH H2O
+ 7.4
+ 7.4
+ 7.5
+pH ClK
+ 5.9
+ 5.8
+ 5.9
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ 0.75
+ 0.50
+ 0.65
+
+Mg++
+ 0.25
+ 0.40
+ 0.70
+
+Na+
+ 0.15
+ 0.10
+ 0.15
+
+K+
+ 0.05
+ 0.05
+ 0.05
+
+H+
+ 0.80
+ 0.40
+ 1.20
+% Na/T
+ 14
+ 9
+ 10
+Suma de bases, m.e./100 gr (S)
+ 1.20
+ 1.05
+ 1.55
+C.I.C., m.e./100 gr (T)
+ 1.10
+ 1.10
+ 1.50
+Saturación con bases, (%) (S/T)
+ 100
+ 95
+ 100
+

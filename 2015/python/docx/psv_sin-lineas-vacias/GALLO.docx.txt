@@ -1,0 +1,211 @@
+--------------------------------------------------------------------------------
+SERIE GALLO 		 Símbolo: Gll
+Pertenece a la familia "fina, montmorillonítica térmica" de los Argiacuoles vérticos.
+Son suelos hidromórficos con características planosólicas y vertisólicas.
+No presentan microrrelieve gilgai; tienen horizontes superficiales lixiviados pero no llegan a ser A2. Hay grietas en épocas secas y hormigueros abundantes en algunos sectores de esta unidad, que disturban el perfil hasta gran profundidad.
+Tienen escurrimiento y permeabilidad lentos y son imperfecta a moderadamente bien drenados.
+Presentan capas superficiales de textura liviana de 12 a 35 cm de grosor y los horizontes B2 oscilan entre 40 y 55 cm de espesor, Casi siempre el calcio aparece aproximadamente a los 50 cm.
+El material originario está constituido por limos muy calcáreos y mezclado con elementos arcillo húmicos, cuya presencia es debida a grietas antiguas y a la actividad biológica, especialmente de hormigas.
+Perfil tipo: ER3 - 45C
+Ubicación: 26 Km al SO de San Jaime.
+Reconocedores: R.E. Kleinerman; L.O. López
+A1: 00-15 cm; gris muy oscuro (10 YR 3/1) en húmedo y pardo grisáceo a gris parduzco claro (10 YR 5,5/2) en seco; franco limoso; estructura granular y bloques subangulares medios moderados a débiles; firme en húmedo; ligeramente plástico y adhesivo en mojado; concreciones de hierro manganeso escasas y finas; barnices de materia orgánica muy escasos y finos; moteados comunes, precisos y finos; horizonte lixiviado; límite claro suave.
+B21: 15-27 cm; pardo muy oscuro (10 YR 2,5/2) en húmedo; franco arcillo limoso; prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares medios y fuertes; firme en húmedo; plástico y adhesivo en mojado; abundantes concreciones de hierro y manganeso; slickensides muy escasos y finos; moteados comunes, débiles y finos; lavado por las caras de los agregados; límite claro suave.
+B22: 27-55 cm; gris muy oscuro a gris oscuro (10 YR 3,5/1) en húmedo; franco arcillo limoso; estructura de prismas compuestos irregulares medios y débiles, que rompen en bloques angulares irregulares gruesos y moderados; firme en húmedo; muy plástico y adhesivo en mojado; abundantes concreciones de hierro manganeso de 2 mm de diámetro; slickensides abundantes no intersectados; moteados comunes, precisos y finos; límite gradual y ondulado.
+B31ca: 55-86 cm; gris oscuro a gris (10 YR 4,5/1) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares gruesos y débiles; firme en húmedo; plástico y adhesivo en mojado; abundantes concreciones de hierro manganeso y de carbonatos de calcio de aproximadamente 3 cm; escasos slickensides no intersectados; moteados abundantes, precisos y finos; límite gradual ondulado.
+B32ca: 86-95 cm; pardo (7,5 YR 5/4) en húmedo; franco limoso; estructura masiva; firme en húmedo; plástico y adhesivo; concreciones de hierro manganeso escasas y finas, de calcio muy abundantes de aproximadamente 3 cm de diámetro; moteados comunes precisos y finos.
+Fases
+No se han descripto a escala de reconocimiento.
+Drenaje
+Imperfecto a moderadamente bien drenado. Escurrimiento superficial lento a muy lento. Permeabilidad moderadamente lenta. Grupo hidrológico C.
+Erosión
+No presenta erosión hídrica actual y es levemente susceptible a la misma.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Gallo
+ER3 - 45C
+Horizonte
+ A1
+ B21
+ B22
+ B31ca
+ B32ca
+Profundidad (cm)
+ 00-14
+ 16-25
+ 30-43
+ 60-74
+ 100-120
+Mat.organica (%)
+ 3,49
+ 1,94
+ 1,51
+ 0,53
+ 0,13
+C (%)
+ 2,03
+ 1,13
+ 0,88
+ 0,31
+ 0,08
+N (%)
+ 0,202
+ 0,117
+ 0,106
+ 0,038
+ ND
+C/N
+ 10
+ 9
+ 8
+ 8
+ ND
+T
+ <2 u
+ 25,1
+ 32,0
+ 38,1
+ 30,8
+ 24,7
+E
+ 2-20 u
+ 33,3
+ 28,4
+ 19,6
+ 16,7
+ 16,6
+X
+ 20-50 u
+ 39,8
+ 38,7
+ 41,2
+ 51,6
+ 57,6
+T
+ 50-100 u
+ 0,6
+ 0,3
+ 0,4
+ 0,2
+ 0,3
+U
+ 100-250 u
+ 0,8
+ 0,4
+ 0,4
+ 0,4
+ 0,5
+R
+ 250-500 u
+ 0,4
+ 0,2
+ 0,3
+ 0,3
+ 0,3
+A
+ 500-1000 u
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+% Saturación de Agua
+ -
+ -
+ -
+ -
+ -
+Equivalente de Humedad (%)
+ 31,9
+ 41,7
+ 48,3
+ 41,2
+ 39,1
+pH en pasta
+ 5,5
+ 6,2
+ 6,8
+ 7,8
+ 7,9
+PH H2O
+ 5,8
+ 6,6
+ 7,2
+ 8,2
+ 8,4
+pH ClK
+ 5,1
+ 5,4
+ 6,0
+ 6,0
+ 6,9
+Conductividad (mmhos/cm)
+Sales solubles grs (%)
+Resistencia de la pasta (Ohms/cm)
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 19,8
+ 29,5
+ 34,7
+ ND
+ ND
+Mg++
+ 3,0
+ 3,1
+ 3,4
+ ND
+ ND
+Na+
+ 1,3
+ 2,0
+ 2,7
+ 3,0
+ 2,8
+K+
+ 0,4
+ 0,6
+ 0,7
+ 0,7
+ 0,7
+Valor S (m.e./ 100 gr.)
+ 24,5
+ 35,2
+ 41,5
+ ND
+ ND
+H de cambio (m.e. / 100 gr.)
+ 3,8
+ 3,2
+ 2,1
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 27,2
+ 37,7
+ 43,1
+ 34,6
+ 30,6
+% de saturación de T
+ 90
+ 93
+ 96
+ -
+ -
+% de saturación de S + H
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 4,8
+ 5,3
+ 6,3
+ 8,7
+ 9,2

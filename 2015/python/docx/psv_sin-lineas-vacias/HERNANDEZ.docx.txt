@@ -1,0 +1,250 @@
+--------------------------------------------------------------------------------
+SERIE HERNANDEZ Símbolo: Hnz
+Pertenece a la familia "fina, ligeramente alcalina, térmica" de los Peludertes árgicos.
+Son suelos moderadamente erosionados, imperfectamente drenados y ligeramente alcalinos en el subsuelo.
+Presentan un microrrelieve gilgai no visible en el terreno, pero sí muy tenue en la fotografía aérea y en el perfil, que es negro hasta 30-50 cm, según su posición.
+Tienen un epipedón franco-arcillo-limoso con evidencias de "self-mulching" (autoestructuración) y un horizonte B2 argílico, arcillo-limoso; las concreciones de calcáreo aparecen entre 50-90 cm (influyendo el grado de erosión presente, entre otros). Son suelos desarrollados en materiales arcillo-limosos ("limos calcáreos").
+ü
+Perfil tipo: ER7-109C
+Fecha: 21-VII-1995
+Ubicación: 2 Km al Sur de la localidad de Hernández (foto H428-26) - dto. Quebrachitos - Dpto. Victoria.
+Reconocedores: L.O.López; O.A.Foti.
+A1: 00-19 cm; negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, fuertes; extremadamente duro en seco, firme en húmedo; barnices ("clay humic") escasos a comunes; concreciones de hierro-manganeso escasas, finas; moteados de hierro-manganeso comunes medios y precisos; límite claro, suave.
+B1: 19-29 cm; negro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay humic skins") escasos a comunes, ("clay skins") comunes, precisos y finos; caras de fricción ("slickensides") escasas, finas e intersectadas; concreciones de hierro-manganeso escasas, finas; moteados de hierro-manganeso comunes, medios y precisos; material superior por grietas; límite claro, suave.
+B21t: 29-58 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en prismas compuestos irregulares finos y moderados; duro en seco, firme en húmedo; barnices ("clay humic skins") comunes; ("clay skins") escasos a comunes; caras de fricción ("slickensides") intersectadas, comunes finas; moteados de hierro-manganeso comunes, medios y precisos; concreciones de hierro-manganeso escasas a comunes; límite gradual, ondulado.
+B22t: 58-90 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos que rompen en bloques angulares y cuneiformes medios y moderados; duro en seco, firme en húmedo; barnices ("clay-skins") escasos a comunes; caras de fricción ("slickensides") intersectadas, comunes a abundantes y finas; moteados de hierro-manganeso comunes, medios y precisos; concreciones de hierro-manganeso escasas a comunes; límite gradual, ondulado.
+B31ca: 90-105 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles que rompen en bloques angulares y cuneiformes medios y moderados; firme en húmedo; barnices ("clay skins") escasos y finos; caras de fricción ("slickensides") comunes, gruesas e intersectadas; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; moteados de hierro-manganeso comunes, medios y precisos; chorreaduras de material superior por grietas; límite gradual, ondulado.
+B32ca: 105-125 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares y cuneiformes medios, moderados; firme en húmedo; caras de fricción ("slickensides") comunes, gruesas; escasos carbonatos libres en la masa; concreciones calcáreas escasas a comunes; escasas concreciones de hierro-manganeso finas; moteados de hierro-manganeso comunes, medios y precisos; límite difuso, ondulado.
+Cca: 125 cm+; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; masivo; friable en húmedo; escasa cantidad de carbonatos libre en la masa; concreciones de calcio abundantes, de hasta 0.2 cm, duras; caras de fricción ("slickensides") escasas y gruesas; moteados de hierro-manganeso comunes, medios y precisos; chorreaduras de material superior por grietas.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por dos procesos: uno es la expansión y contracción del material arcilloso que da lugar a la formación incipiente del gilgai (aunque no se manifiesta como un microrrelieve visible en el terreno) y el otro, la erosión.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Series similares y sus diferencias
+La serie Hernández se parece a la serie María Dolores, aunque ésta tiene un epipedón menos arcilloso; y a la serie Don Mercier menos arcilloso en todo el perfil y con importante cantidad de arena (40%) en todo el perfil y disminuye en profundidad.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial medio; Permeabilidad muy lenta; Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Hernández está moderadamente erosionada (erosión laminar, en surcos y cárcavas) y tiene un moderado a severo peligro de erosión en surcos y cárcavas profundas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Hernández
+ER7-109C
+Nº de registro
+ 10.497
+ 10.498
+ 10.499
+ 10.500
+ 10.501
+ 10.502
+ 10.503
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 02-15
+ 20-29
+ 35-50
+ 67-80
+ 91-102
+ 110-120
+ 130-150
+Mat.organica (%)
+ 4.76
+ 2.63
+ 2.27
+ 1.42
+ 0.78
+ 0.35
+ 0.07
+N (%)
+ 0.25
+ 0.13
+ 0.11
+ 0.05
+ 0.03
+ 0.01
+ 0.02
+C/N
+ 11
+ 11
+ 12
+ 17
+ 15
+ 15
+ 2
+T < 2 u
+ 28.27
+ 30.46
+ 34.22
+ 45.37
+ 45.13
+ 42.93
+ 41.84
+E 2-20 u
+ 27.17
+ 22.92
+ 26.70
+ 22.79
+ 22.62
+ 22.43
+ 22.21
+X 2-50 u
+ 61.08
+ 60.47
+ 59.51
+ 50.41
+ 49.35
+ 51.22
+ 53.40
+T 50-100 u
+ 1.0
+ 2.1
+ 1.0
+ 0.6
+ 0.2
+ 0.5
+ 0.9
+U 100-250 u
+ 9.1
+ 6.6
+ 4.8
+ 3.3
+ 4.9
+ 5.1
+ 3.6
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.5
+ 0.4
+ 0.4
+ 0.3
+ 0.3
+ 0.2
+ 0.2
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 2.1
+ 1.8
+ 1.6
+pH H2O
+ 5.9
+ 6.7
+ 7.2
+ 7.5
+ 7.9
+ 8.0
+ 8.0
+pH ClK
+ 5.2
+ 5.5
+ 6.0
+ 6.1
+ 6.7
+ 6.7
+ 6.7
+Conductividad eléctrica mmhos/cm
+ 0.731
+ 0.516
+ 0.462
+ 0.485
+ 0.616
+ 0.562
+ 0.624
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 32.07
+ 32.78
+ 34.48
+ 46.26
+ 46.24
+ 41.47
+ 40.82
+d
+Ca++
+ 26.00
+ 26.41
+ 28.70
+ 39.39
+ 38.40
+ 33.90
+ 32.33
+C
+e
+a
+Mg++
+ 1.99
+ 1.87
+ 1.66
+ 2.20
+ 2.64
+ 3.32
+ 3.57
+t
+c
+i
+a
+K+
+ 1.60
+ 1.25
+ 1.42
+ 1.63
+ 1.75
+ 1.72
+ 1.53
+o
+m
+n
+b
+Na+
+ 0.40
+ 0.82
+ 1.50
+ 2.12
+ 2.20
+ 2.42
+ 2.42
+e
+i
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D
+ N.D.
+% Na/T
+ 1.25
+ 2.50
+ 4.35
+ 4.58
+ 4.76
+ 5.83
+ 5.93
+Equivalente de humedad (%)
+ 31.8
+ 31.8
+ 34.5
+ 45.0
+ 43.0
+ 41.3
+ 40.2
+N.D. = No determinado.

@@ -1,0 +1,212 @@
+--------------------------------------------------------------------------------
+SERIE EL EMPALME Símbolo: EEm
+Pertenece a la familia "franca gruesa, mixta (?), térmica" de los Hapludoles ácuicos.
+La serie El Empalme es un suelo aluvial, salino-sódico.
+Perfil tipo: 88C INTA Castelar
+Fecha: 06-V-1976
+Ubicación: 12,5 km al SO de Ceibas (Hoja IGM 3360-30-3) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+A1: 8-31 cm; pardo oscuro (10YR 3/3) en húmedo; franco limoso; estructura en bloques angulares y subangulares medios débiles; friable; barnices (clay-skins) escasos; concreciones ferromanganésicas escasas; moteados finos, comunes, débiles; raíces abundantes; límite inferior claro ondulado.
+IIC1: 31-45 cm; pardo (7,5YR 4/3) en húmedo; franco limoso; masivo; friable; concreciones calcáreas abundantes; concreciones ferromanganésicas abundantes; moteados finos, comunes, precisos; raíces comunes; límite inferior claro ondulado.
+IIIC2: 45-60 cm; pardo opaco (7,5YR 5/3) en húmedo; franco limoso; masivo muy friable; concreciones ferromanganésicas abundantes; moteados finos a medios, comunes, precisos; límite inferior abrupto ondulado.
+IVC3: 60-65 cm; pardo grisáceo (7,5YR 5/2) en húmedo; franco limoso; masivo; friable; concreciones calcáreas abundantes; concreciones ferromanganésicas abundantes; moteados finos a medios, comunes, sobresalientes; límite inferior abrupto ondulado.
+VC4: 65-77 cm; pardo opaco (7,5YR 5/3) en húmedo; franco limoso; masivo; muy friable; concreciones calcáreas escasas; concreciones ferromanganésicas abundantes; moteados medios, abundantes, sobresalientes.
+A continuación y hasta 145 cm sigue una alternancia de las capas IVC3 y VC4.
+Variabilidad de rasgos
+El perfil tiene un pequeño enlame superficial de no más de 10 cm de espesor de material depositado después de las inundaciones, sigue un horizonte A1 hasta los 30 cm de profundidad de color pardo oscuro moderadamente provisto de materia orgánica (1-2%), franco limoso con estructura en bloques angulares y subangulares. A continuación aparecen capas, la primera de color pardo y material más limoso que el anterior, y la segunda también de color pardo pero de material más arenoso. Estas dos capas pueden seguir en profundidad y alternadamente hasta los 120 cm. Entre los 30 y 80 cm los estratos presentan concreciones calcáreas y ferromanganésicas abundantes. Entre las mismas profundidades se observan moteados precisos a sobresalientes que coinciden con la zona de fluctuación de la napa freática.
+Fuertemente salino desde la superficie (más de 15 mmhos/cm), que aumenta en profundidad con altos tenores de sales solubles con predominio de sulfatos y cloruros de sodio en el extracto. Los valores de PSI (porcentaje de sodio de intercambio) oscilan a lo largo del perfil entre 25 y 30 %, por alcalinidad sódica este suelo se ha clasificado en la clase A1 32.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Este suelo es de permeabilidad moderadamente rápida y de drenaje imperfecto. Napa freática relativamente alta e inundaciones excepcionales durante las crecidas del Paraná.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie El Empalme
+88C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+Profundidad (cm)
+ 13-27
+ 35-43
+ 47-56
+ 60-65
+ 65-70
+Mat. orgánica (%)
+ 1.36
+ 0.24
+ 0.10
+ -
+ -
+C (%)
+ 0.79
+ 0.14
+ 0.06
+ -
+ -
+N (%)
+ 0.069
+ -
+ -
+ -
+ -
+C/N
+ 11
+ -
+ -
+ -
+ -
+T <2 u
+ 18.9
+ 15.9
+ 5.3
+ 15.4
+ 3.8
+E 2-20 u
+ 23.0
+ 32.0
+ 33.5
+ 36.1
+ 28.0
+X 2-50 u
+ 61.4
+ 69.4
+ 69.5
+ 79.1
+ 60.9
+T 50-74 u
+ 16.5
+ 11.0
+ 19.0
+ 3.7
+ 23.4
+U 74-100 u
+ 2.6
+ 2.5
+ 5.9
+ 1.3
+ 11.7
+R 100-250 u
+ 0.4
+ 0.2
+ 0.2
+ 0.1
+ 0.1
+A 250-500 u
+ 0.2
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ vest (n)
+ 0.9
+ vest (n)
+ 0.3
+ vest (n)
+Equivalente de humedad (%)
+ 21.3
+ 15.7
+ 7.7
+ 20.8
+ 6.7
+Resistencia de la pasta (Ohms/cm)
+ 257
+ 154
+ 180
+ 129
+ 129
+pH en pasta
+ 7.0
+ 7.4
+ 7.1
+ 7.1
+ 7.1
+pH en agua (1:2,5)
+ 7.5
+ 8.0
+ 7.5
+ 7.5
+ 7.1
+pH en KCl (1:2,5)
+ 6.2
+ 7.2
+ 6.7
+ 6.7
+ 6.7
+Conductividad (mmhos/cm)
+ 17.28
+ 32.64
+ 31.47
+ 38.31
+ 47.37
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ -
+ -
+ -
+ -
+ -
+Mg++
+ -
+ -
+ -
+ -
+ -
+Na[+]
+ -
+ -
+ -
+ -
+ -
+K[+]
+ -
+ -
+ -
+ -
+ -
+H[+]
+ -
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ -
+ -
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ -
+ -
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ -
+ -
+ -
+ -
+ -

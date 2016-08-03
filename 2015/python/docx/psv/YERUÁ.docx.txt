@@ -1,0 +1,308 @@
+
+--------------------------------------------------------------------------------
+SERIE YERUÁ		 Símbolo: Yr
+
+
+Pertenece a la familia "limosa fina, montmorillonítica, térmica" de los Peludertes argiacuólicos (vertisol hidromórfico con gilgai, un epipedón mólico y un B2 textural).
+Muestra un microrrelieve gilgai lineal bien desarrollado, con ciclos de 5-7 metros y altibajos de 20 cm o más.
+Son suelos oscuros hasta 90-100 cm en el bajo del gilgai y desde 00-15 cm en la cresta.
+
+Imperfectamente drenados, en el bajo del microrrelieve tienen un epipedón mólico profundo, franco-limoso a franco-arcillo-limoso y un horizonte B2 argílico, con textura que varía desde franco-arcillo-limoso hasta arcillosa. Las concreciones calcáreas aparecen a los 70-80 cm.
+
+Son suelos desarrollados sobre "limos calcáreos lacustres".
+
+
+Perfil tipo: ER2-66C
+Fecha: 22-IX-77.
+Ubicación: Colonia oficial Nº 5 (foto 165-39) - Dpto. Concordia.
+Reconocedores: C.J. Vesco; W.H. Perilli.
+
+
+A1: 00-21 cm; gris muy oscuro (10YR 3/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-limoso; estructura granular y en bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic-skins") escasos, finos; límite claro, suave.
+
+B21t: 21-49 cm; negro (10 YR 2,5/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, moderados; friable en húmedo; barnices ("clay-humic-skins") escasos, finos; caras de fricción (`slickensides') comunes, finas y medias; vestigios de moteados; concreciones de hierro manganeso escasas, finas; límite gradual, suave.
+
+B22t: 49-70 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, moderados; friable en húmedo; barnices ("clay-humic-skins") comunes, finos; caras de fricción (`slickensides') abundantes, gruesas; moteados de hierro-manganeso escasos, finos y precisos; concreciones de hierro-manganeso escasas, finas; límite gradual, suave.
+
+B31ca: 70-95 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios, moderados; friable en húmedo; caras de fricción (`slickensides') comunes, medias; moteados de hierro-manganeso escasos, precisos y finos; concreciones de hierro-manganeso escasas, finas; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas escasas, blandas; límite claro, suave.
+
+B32ca: 95-115 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; friable en húmedo; caras de fricción (`slickensides') escasas, finas; moteados de hierro-manganeso escasos a comunes, precisos, y finos y medios; concreciones de hierro-manganeso escasas; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas escasas y blandas; chorreaduras de materia orgánica.
+Variabilidad de rasgos
+
+Está determinada principalmente por el proceso de expansión y contracción del material arcilloso que da lugar a la formación del microrrelieve gilgai y a la mayor o menor proporción de arena en el perfil.
+
+El microrrelieve está bien desarrollado en pendientes de 1,5 % o más. Los ciclos son largos (5-7 metros) y fue determinado como "gilgai grueso" dado su imagen en la fotografía aérea.
+
+En el bajo del gilgai, el epipedón varía entre 20-25 cm. Generalmente incluye un A1 y, ocasionalmente, un B1. Este horizonte tiene entre 30-35 % de arcilla, aunque algunos perfiles muestran menos proporción de esa fracción. El porcentaje de materia orgánica es alto y varía entre 4-6 %. En la cresta del gilgai, el epipedón es delgado y oscila entre 5-10 cm, es menos oscuro y tiene concreciones calcáreas. El horizonte B2, argílico, solo se encuentra en el bajo del gilgai; tiene 35-45 % de arcilla y estructura prismática.
+
+Las caras de fricción ("slickensides") se encuentran en la parte inferior del epipedón donde generalmente son escasas y poco intersectadas, pero en el B2 son abundantes e intersectadas. En seco, el B2 muestra grietas de 1-2 cm de ancho que se extienden hasta 10-15 cm de la superficie.
+
+El calcáreo en concreciones duras y semiduras, aparece alrededor de los 70-75 cm. Las concreciones de hierro-manganeso se encuentran en todo el perfil; son escasas en el epipedón y comunes en los horizontes subyacentes.
+
+Otro rasgo típico es el porcentaje de arena que varía dentro del perfil, disminuyendo en profundidad. En el epipedón presenta entre 15-30 % y en el C entre 7-15 %.
+
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie General Campos presente en el departamento Concordia, pero ésta es más arcillosa y no tiene gilgai; otros Vertisoles tienen menos arena.
+
+
+Drenaje
+
+Moderada a imperfectamente drenado; escurrimiento superficial algo lento. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Esta serie presenta erosión hídrica actual leve, observándose localmente cárcavas muy típicas, de paredes verticales y perpendiculares a las pendientes, aún en campo natural. La susceptibilidad a la erosión es moderada.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Yeruá
+
+ER2-66C
+
+
+
+
+
+N° de registro
+ 2422
+ 2423
+ 2424
+ 2425
+ 2426
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+Profundidad (cm
+ 04-16
+ 28-43
+ 50-65
+ 75-85
+ 100-116
+Mat.organica (%)
+ 4,50
+ 1,97
+ 1,63
+ 1,90
+ 0,17
+N (%)
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+C/N
+ 10
+ 8
+ 6
+ 6
+ N.D.
+
+T
+
+ <2 u
+
+ 25,50
+
+ 38,20
+
+ 40,80
+
+ 42,20
+
+ 35,00
+E
+ 2-20 u
+ 24,00
+ 20,40
+ 19,90
+ 20,10
+ 24,30
+X
+ 20-50 u
+ 26,20
+ 22,30
+ 22,30
+ 21,40
+ 25,10
+T
+ 50-100 u
+ 0,40
+ 0,07
+ 0,05
+ 0,03
+ 0,01
+U
+ 100-250 u
+ 2,44
+ 1,83
+ 1,61
+ 1,54
+ 1,55
+R
+ 250-500 u
+ 21,10
+ 16,40
+ 14,60
+ 14,20
+ 13,60
+A
+ 500-1000 u
+ 0,70
+ 0,56
+ 0,57
+ 0,54
+ 0,66
+ 1000-2000 u
+ 0,01
+ 0,01
+ 0,05
+ 0,02
+ 0,08
+
+CO3Ca (%)
+
+ 0,0
+
+ 0,0
+
+ 0,0
+
+ 3,2
+
+ 4,5
+pH H2O
+ 5,8
+ 6,5
+ 7,2
+ 8,2
+ 8,4
+pH ClK
+ 4,5
+ 5,1
+ 6,2
+ 7,1
+ 7,6
+
+Capacidad de intercambio catiónico
+(m.e./100 g) =
+ Valor T
+
+
+ 28,40
+
+
+ 39,80
+
+
+ 42,00
+
+
+ N.D.
+
+
+ N.D.
+
+
+d
+Ca++
+ 18,00
+ 27,80
+ 33,00
+ N.D.
+ N.D.
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 1,60
+ 1,00
+ 2,20
+ N.D.
+ N.D.
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 1,57
+ 1,17
+ 0,83
+ N.D.
+ N.D.
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 0,55
+ 0,98
+ 1,00
+ N.D.
+ N.D.
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ 6,00
+ 5,50
+ 1,50
+ N.D.
+ N.D.
+% Na/T
+ 1,94
+ 2,46
+ 2,38
+ -
+ -
+
+Equivalente de humedad (%)
+
+ 26,20
+
+ 40,50
+
+ 42,60
+
+ 38,60
+
+ 35,10
+
+N.D. = No determinado
+

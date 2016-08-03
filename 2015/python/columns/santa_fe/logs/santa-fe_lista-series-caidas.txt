@@ -1,0 +1,37 @@
+ACt 	Águila Cautiva
+CBO 	Cuatro Bocas
+CES 	Colonia Esther
+DFc 	Estancia Don Francisco
+ENO 	El Nochero
+FLO 	Florencia
+LAS 	Las Arenas
+LCs 	La Cesira
+LEA 	Larrechea
+LGv 	La Gaviota
+Lgz 	Leguizamón
+LLg 	La Langosta
+LL 	Los Leones
+LNg 	Los Nogales
+LPl 	La Pluma
+LPV 	Laguna Paiva
+LQ 	La Querencia
+LTj 	Las Trojas
+MAR 	Margarita
+MF 	Monte Flores
+MGO 	Malabrigo
+Nf-SJT	s/n
+Nq-RSA	s/n
+Nq-RTA	s/n
+Nq-SJT	s/n
+Ofv-RTA	s/n
+Ofv-SJT	s/n
+PBO 	Pozo Borrado
+PIN 	Est Pini
+PMA 	Pueblo Marini
+RTA 	Reconquista
+SCO 	San Francisco
+SE 	San Estanislao
+SG 	San Gregorio
+TOS 	Tostado
+VMI 	Villa Minetti
+VOC 	Villa Ocampo

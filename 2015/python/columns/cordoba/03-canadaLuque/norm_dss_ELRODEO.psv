@@ -1,0 +1,39 @@
+dss_ELRODEO.psv ->> ID..........................: 307
+dss_ELRODEO.psv ->> CLASIFICACION...............: Argiustol típico
+dss_ELRODEO.psv ->> SERIE.......................: EL RODEO (Rod)
+dss_ELRODEO.psv ->> UBICACION...................: 5 km al NNE de la Estancia Los Sauces, en el departamento Tulumba
+dss_ELRODEO.psv ->> PROVINCIA...................: CORDOBA
+dss_ELRODEO.psv ->> LATITUD.....................: S301500
+dss_ELRODEO.psv ->> LONGITUD....................: O634800
+dss_ELRODEO.psv ->> ALTITUD.....................: FALTA!
+dss_ELRODEO.psv ->> PENDIENTE...................: FALTA!
+dss_ELRODEO.psv ->> DRENAJE.....................: FALTA!
+dss_ELRODEO.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ELRODEO.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ELRODEO.psv ->> TIPO DE SUELO...............: LIMOSA FINA MIXTA TÉRMICA
+dss_ELRODEO.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ELRODEO.psv ->> HORIZONTE->NOMBRE(S)........: a | bt | bc | c
+dss_ELRODEO.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18 | 18-50 | 50-86 | 86a+
+dss_ELRODEO.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,69 | 1,55 | 0,68 | 
+dss_ELRODEO.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2,2 | 0,9 | 0,4 | 
+dss_ELRODEO.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,22 | 0,10 | - | 
+dss_ELRODEO.psv ->> HORIZONTE->RELACIÓN C/N.....: 10 | 9,0 | - | 
+dss_ELRODEO.psv ->> HORIZONTE->ARCILLA 2 (%)....: 21,4 | 27,9 | 25.0 | 21,0
+dss_ELRODEO.psv ->> HORIZONTE->LIMO 2-50 (%)....: 71,7 | 66,1 | 68,2 | 73,8
+dss_ELRODEO.psv ->> HORIZONTE->AMF 50-100 (%)...: 4,9 | 4,8 | 3,9 | 3,9
+dss_ELRODEO.psv ->> HORIZONTE->AF 100-250 (%)...: 1,8 | 0,8 | 2,6 | 2,3
+dss_ELRODEO.psv ->> HORIZONTE->AM 250-500 (%)...: 0,3 | 0,4 | 0,2 | 0,2
+dss_ELRODEO.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,8 | 0,5 | 0,4 | 0,4
+dss_ELRODEO.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,1 | 0,1 | - | 0,1
+dss_ELRODEO.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0
+dss_ELRODEO.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 27,2 | 29,3 | 28,6 | 24,8
+dss_ELRODEO.psv ->> HORIZONTE->PH PASTA.........: 6,3 | 6,5 | 6,8 | 7,0
+dss_ELRODEO.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,5 | 6,7 | 7,0 | 7,2
+dss_ELRODEO.psv ->> HORIZONTE->CI ME/100G-Ca++..: 15,5 | 16,8 | 15,3 | 15,5
+dss_ELRODEO.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,5 | 1,4 | 2,2 | 1,4
+dss_ELRODEO.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,3 | 0,1 | 0,2 | 0,1
+dss_ELRODEO.psv ->> HORIZONTE->CI ME/100G-K+....: 2,7 | 1,6 | 1,9 | 1,6
+dss_ELRODEO.psv ->> HORIZONTE->CI ME/100G-H+....: 1,7 | 1,2 | 0,8 | 0,5
+dss_ELRODEO.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20,0 | 19,9 | 19,6 | 18,6
+dss_ELRODEO.psv ->> HORIZONTE->CIC ME/100G(T)...: 21,7 | 21,3 | 20,5 | 19,0
+dss_ELRODEO.psv ->> HORIZONTE->SAT.B % (S/T)....: 92 | 93 | 96 | 98

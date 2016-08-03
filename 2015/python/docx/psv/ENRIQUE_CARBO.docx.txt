@@ -1,0 +1,351 @@
+
+--------------------------------------------------------------------------------
+SERIE ENRIQUE CARBO Símbolo: ECbó
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón mólico oscuro, franco limoso, con abundante arena fina, seguido de un horizonte argílico pardo oscuro, franco-arcilloso.
+El calcáreo en muy escasa cantidad aparece en profundidad (100-105 cm).
+
+Suelos desarrollados en materiales loessoides, franco-arcillo-limoso con aportes de arenas.
+
+
+Perfil tipo: ER1-124C
+Fecha: 01-X-2002
+Ubicación: 3 Km al N-NO de Enrique Carbó. (foto IR403-18). Dto. Cuchilla Redonda, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti, R.H Fuentes.
+
+
+A11: 00-23 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco limoso; estructura granular y bloques subangulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso escasos, finos y precisos; límite claro suave.
+
+A12: 23-43 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco; estructura granular y bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, fino y precisos; límite abrupto, suave.
+
+B21t: 43-68 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, gruesos, medios, que rompen en bloques angulares irregulares y cuneiformes medios, fuertes; duro en seco, firme en húmedo; barnices ("clay skins") comunes. Caras de fricción ("slickensides") abundantes, gruesas e intersectadas; concreciones ferromanganesíferas comunes: moteados de hierro-manganeso comunes, gruesos y precisos; límite claro, suave.
+
+B22t: 68-100 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, fuertes; duro en seco, firme en húmedo; barnices ("clay skins"), escasos; caras de fricción ("slickensides") comunes, gruesas no intersectadas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, suave.
+
+B3: 100-125 cm; pardo (75 YR 3.5/4) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares, gruesos debiles, que rompen en bloques anguleres irregulares medio moderados; ligeramente duro en seco firme en húmedo; barnices ( clay humic) escasos; caras de fricción (slickensides) comunes finas; concreciones calcareas, muy escasas, 1 cm de diámetro; moteados de hierro manganeso comunes ,medios y precisos, límite difuso suave.
+
+C: 125 cm +; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco; estructura en bloques angulares irregulares, medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") escasos a comunes; moteados de hierro-manganeso, comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+La variabilidad principal está dada por el mayor o menor porcentaje de arena fina y media que presenta el epipedón en los distintos perfiles, así como en el espesor de los mismos. Generalmente son suelos descarbonatados, aunque pueden presentar algunas concreciónes a nivel del horizonte B3, como el caso que se describe.
+
+
+Fases
+
+No se describieron a nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial muy lento. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Enrique Carbó no tiene erosión actual pero sí es susceptible a la misma
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Enrique Carbo'
+
+ER1-124C
+
+
+
+
+
+
+N° de registro
+ 10725
+ 10726
+ 10727
+ 10728
+ 10729
+ 10730
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 05-19
+ 26-40
+ 46-60
+ 72-95
+ 105-120
+ 140-150
+Mat.organica (%)
+ 3.12
+ 2.06
+ 0.95
+ 0.95
+ 0.29
+ 0.22
+C (%)
+ 1.81
+ 1.19
+ 0.55
+ 0.55
+ 0.17
+ 0.13
+N (%)
+ 0.152
+ 0.090
+ 0.086
+ 0.070
+ 0.045
+ 0.036
+C/N
+ 11.91
+ 13.22
+ 6.40
+ 7.86
+ 3.78
+ 3.61
+
+T <2
+
+ 20.53
+
+ 21.04
+
+ 34.32
+
+ 33 84
+
+ 30.01
+
+ 26.35
+E 2-20
+ 27.04
+ 22.97
+ 22.05
+ 21.28
+ 20.27
+ 20 00
+X 2-50
+ 51.59
+ 48 06
+ 41 45
+ 41 56
+ 49 31
+ 44.07
+T 50-100
+ 1.89
+ 2.28
+ 1.36
+ 1 95
+ 2 68
+ 2 77
+U 100-250
+ 24 27
+ 26.94
+ 20.99
+ 20 86
+ 17.04
+ 25.10
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 1.72
+ 1.68
+ 1.79
+ 1.68
+ 0.85
+ 1.68
+ 1000-2000
+ -
+
+ 0.09
+ 0.11
+ 0.07
+ 0.03
+
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+PH H2O
+ 6 3
+ 6 1
+ 6.8
+ 7.2
+ 7.3
+ 7.5
+PH ClK
+ 5.2
+ 5.1
+ 5.1
+ 5.4
+ 5.4
+ 5.5
+Capacidad de intercambio catiónico (m.e./100 g)
+ Valor T
+
+
+
+ 17.41
+
+
+
+ 17.93
+
+
+
+ 25.92
+
+
+
+ 23.95
+
+
+
+ 24.22
+
+
+
+ 22.78
+
+D
+Ca++
+ 8.04
+ 7.27
+ 12.04
+ 11.88
+ 10.85
+ 10.83
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 2.82
+ 2.97
+ 4.90
+ 5.16
+ 5.30
+ 5.20
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 0.74
+ 0.46
+ 0.68
+ 0.71
+ 0.82
+ 0.80
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 0.29
+ 0.27
+ 0.40
+ 0.51
+ 0.44
+ 0.40
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+ 5.51
+ 6.97
+ 7.90
+ 5.70
+ 6.80
+ 5.55
+
+% Na/T
+
+ 0.017
+
+ 0.015
+
+ 0.015
+
+ 0.021
+
+ 0.018
+
+ 0.018
+Equivalente de humedad (%)
+
+ 21.09
+
+ 20.87
+
+ 31.48
+
+ 30 82
+
+ 29.21
+
+ 27.58
+
+P disponible (ppm)
+
+ 6.40
+
+ 5.30
+
+ 3.50
+
+ 3.40
+
+ 3.30
+
+ 3.20
+

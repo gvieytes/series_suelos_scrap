@@ -1,0 +1,258 @@
+
+--------------------------------------------------------------------------------
+SERIE FEBRE 		 Símbolo: Fe
+
+
+Pertenece a la familia "muy fina, levemente alcalina, térmica" de los Cromudertes árgicos.
+Muestra raramente un microrrelieve gilgai linear no visible en el terreno, y muy tenuemente en la fotografía aérea.
+Está ligera a moderadamente erosionado, moderadamente bien drenado y ligeramente alcalino en el subsuelo.
+Tiene un epipedón arcillo-limoso, moderadamente bien estructurado por el "selfmulching", y un horizonte B2 argílico, arcilloso en la parte baja del gilgai, con caras de fricción ("slickensides") intersectadas.
+Cuando seco, el suelo se agrieta fuertemente en el B2 y, en parte, también en el epipedón.
+Son suelos desarrollados en materiales limo-calcáreos, arcillo-limosos.
+
+
+Perfil tipo: ER3-3C
+Fecha: 31-VII-1970
+Ubicación: Estación Experimental Agropecuaria del INTA Paraná (foto 448-36) - Dpto. Paraná
+Reconocedores: R.E. Kleinerman; G.W. van Barneveld.
+
+
+Ap: 00-18 cm; pardo muy oscuro (10YR 2/2) en húmedo; pardo grisáceo muy oscuro (10YR 3/2) en seco; arcillo-limoso; estructura granular y en bloques subangulares, finos y medios, fuertes; muy duro en seco; friable en húmedo; concreciones calcáreas de hasta 1 cm, comunes; límite abrupto, suave.
+
+B21: 18-55 cm; negro (10YR 2/1) en húmedo; gris muy oscuro (10YR 3/1) en seco; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme y bloques cuneiformes, medios, moderados; extremadamente duro en seco; muy firme en húmedo; barnices "clay humic skins" escasos y finos; caras de fricción ("slickensides") comunes, intersectadas; concreciones calcáreas comunes; límite claro, suave.
+
+B22ca: 55-84 cm; gris oscuro (10YR 4/1) en húmedo; arcilloso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, fuertes; extremadamente duro en seco; muy firme en húmedo; barnices "clay humic skins" escasos y finos; caras de fricción ("slickensides") abundantes, intersectadas; concreciones calcáreas abundantes; límite gradual, ondulado.
+
+B3ca: 84-115 cm; pardo grisáceo (10YR 5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, fuertes; muy duro en seco; firme en húmedo; barnices "clay humic skins" escasos y finos; caras de fricción ("slickensides") comunes, intersectadas; moteados de hierro y manganeso comunes, finos y precisos; concreciones calcáreas de hasta 1 cm, abundantes; límite gradual, ondulado.
+
+Cca: 115 + cm (132); pardo amarillento claro (10YR 6/4) en húmedo; arcillo-limoso; estructura masiva; muy duro en seco; firme en húmedo; moteados de hierro y manganeso comunes, finos y precisos; concreciones calcáreas abundantes.
+
+
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por dos procesos: uno es el movimiento en masa y el otro es la erosión. Probablemente por la erosión natural, el microrrelieve gilgai ha sido borrado. El perfil tipo correspondería a la concavidad del supuesto gilgai.
+
+El solum varía de 50-120 cm. El epipedón varía de 15-20 cm, y generalmente está moderadamente bien estructurado por el "selfmulching"; raramente se puede diferenciar un A1 y un B1. Tienen 40-45 % de arcilla, pero en algunos lugares con más erosión puede llegar a 48-50 % y en áreas con algo de acumulación (fase engrosada) varía de 27-40 %.
+
+El horizonte B2, argílico, varía de 30-60 cm y su porcentaje de arcilla se incrementa con la profundidad del mismo (50-55 % en la parte superior, sobrepasando el 60 % en la parte inferior). Su estructura generalmente es prismática compuesta, que rompe en bloques cuneiformes y localmente también en bloques angulares. Los prismas pueden ser muy débiles. Los barnices, descriptos como "clay humic skins" muy probablemente son espejos de fricción o "slickensides". Cuando está seco, el B2 presenta grietas que se extienden hasta la base del epipedón, y localmente, hasta la superficie. Los moteados, a veces, aparecen ya en el B2 y otros recién en el B3, variando de comunes a abundantes.
+
+El calcáreo, en concreciones duras aparece entre 00-60 cm de acuerdo al movimiento en masa. El calcáreo libre recién se encuentra en el C, en la parte baja del gilgai y en el B21 en la cresta del gilgai. El porcentaje de calcáreo varía de 10-18 % en el B2 y de 3-5 % en el C del material < 2 mm.
+
+Suelo ligeramente alcalino con 6-12 % de Na+ a partir de la parte inferior del horizonte B2t. El color del C varía de 10YR 6/4 a 7.5YR 5/6 y, en algunos lugares, muestra gley fósil. Tiene alrededor de 45-55 % de arcilla y 2-3 % de arena.
+
+
+Fases
+
+Por pendiente (símbolo Fe.p3)
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Brasilera (con un solum mucho más somero, de 60-70 cm) y a la Serie Las Mercedes (con un B2t de colores más oscuros). Además, ambas series están desarrolladas en paisajes distintos.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial algo rápido. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La mayoría de los suelos de la Serie Febré están leve a moderadamente erosionados, con erosión laminar y en surcos que normalmente queda disimulada por el laboreo.
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Febré
+
+ER3-3C
+
+
+
+
+
+Nº de registro
+ 111
+ 112
+ 113
+ 114
+ 115
+Horizonte
+ Ap
+ B21
+ B22ca
+ B3ca
+ C
+Profundidad (cm)
+ 05-18
+ 37-55
+ 67-80
+ 96-110
+ 118-132
+Mat.organica (%)
+ 4.29
+ 3.19
+ 1.38
+ 0.60
+ 0.28
+C/N
+ 10
+ 10
+ 9
+ 8
+ 7
+
+T
+
+ <2 u
+
+ 40.2
+
+ 54.9
+
+ 60.4
+
+ ND*
+
+ 54.5
+E
+ 2-20 u
+ 29.6
+ 19.8
+ 12.2
+ ND*
+ 27.2
+X
+ 2-50 u
+ 54.2
+ 40.2
+ 36.0
+ ND*
+ 42.9
+T
+ 50-100 u
+ 1.2
+ 0.5
+ 0.4
+ ND*
+ 0.2
+U
+ 100-250 u
+ 3.3
+ 2.2
+ 1.9
+ ND*
+ 1.4
+R
+ 250-500 u
+ 2.9
+ 2.1
+ 1.3
+ ND*
+ 1.0
+A
+ 500-1000 u
+ 0.0
+ 0.1
+ 0.0
+ ND*
+ 0.0
+
+
+
+
+
+
+CO3Ca (%)
+ 3.3
+ 0.9
+ 15.6
+ 17.1
+ 2.2
+pH H2O (1:2,5)
+ 7.6
+ 7.7
+ 8.2
+ 8.4
+ 8.2
+pH ClK (1:2,5)
+ 7.1
+ 6.9
+ 7.3
+ 7.4
+ 7.2
+
+CIC (meq/100 g)
+
+ 45.1
+
+ 48.1
+
+ 44.3
+
+ 42.5
+
+ 43.0
+
+
+
+ Cationes de cambio
+
+Ca++
+ ND
+ ND
+ ND
+ ND
+ ND
+
+Mg++
+ ND
+ ND
+ ND
+ ND
+ ND
+
+K+
+ 1.8
+ 1.1
+ 1.2
+ 1.1
+ 1.3
+
+Na+
+ 0.1
+ 1.2
+ 3.5
+ 4.8
+ 4.9
+
+H+
+ ND
+ ND
+ ND
+ ND
+ ND
+% Na/T
+ 0.2
+ 2.5
+ 7.9
+ 11.3
+ 11.4
+
+Equivalente de Humedad (%)
+
+ 36.7
+
+ 47.1
+
+ 50.7
+
+ 53.1
+
+ 52.8
+
+ND: No determinado por presencia de gran cantidad de carbonatos
+
+Observaciones:
+Los porcentajes de arcilla fueron ratificados por tres repeticiones. Sin embargo, por la poca relación con el equivalente de humedad son dudosos.
+

@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........:  ap    |  a      |  ac     |  c
+HORIZONTE->Profundidad de la muestra (cm):  0-15  |  15-25  |  25-55  |  55a+
+HORIZONTE->Materia Orgánica (%):  1,81  |  2,01   |  0,83   |  ---
+HORIZONTE->Carbono Orgánico (%):  1,05  |  1,17   |  0,48   |  ---
+HORIZONTE->Nitrógeno total (%):  0,09  |  0,13   |  0,08   |  ---
+HORIZONTE->Relación C/N:  11,6  |  9      |  6      |  ---
+HORIZONTE->Arcilla, <2 μ (%):  13,9  |  13,1   |  13,1   |  11,2
+HORIZONTE->Limo, 2-50 μ (%):  28,8  |  28,2   |  25,2   |  23
+HORIZONTE->Arena muy fina, 50-100 μ (%):  42,4  |  40,5   |  46     |  49,3
+HORIZONTE->Arena fina, 100-250 μ (%):  14,8  |  16,3   |  15,3   |  15,3
+HORIZONTE->Arena media, 250-500 μ (%):  0,4   |  0,4    |  0,4    |  0,4
+HORIZONTE->Arena gruesa, 500-1000 μ (%):  0,7   |  0,8    |  0,3    |  0,8
+HORIZONTE->Arena muy gruesa, 1-2 mm (%):  0     |  0      |  0      |  0
+HORIZONTE->Carbonatos (% CaCO3):  0     |  0      |  0      |  0
+HORIZONTE->Equivalente de humedad (%):  14,8  |  13,6   |  13,6   |  11
+HORIZONTE->pH en pasta:  5,8   |  5,9    |  6,2    |  6,8
+HORIZONTE->pH en agua (1:2,5):  6     |  6      |  6,4    |  6,9
+HORIZONTE->Mg++:  0,8   |  1,2    |  0,7    |  2,1
+HORIZONTE->Na+:  0,3   |  0,1    |  0,2    |  0,1
+HORIZONTE->K+:  1,6   |  1,6    |  1,2    |  1
+HORIZONTE->H+:  2,3   |  2,2    |  1,2    |  0,7
+HORIZONTE->Suma de bases, S (meq/100g):  10,2  |  10     |  9,8    |  9,3
+HORIZONTE->Capacidad de intercambio catiónico, T (meq/100g):  12,6  |  12,2   |  11,2   |  10,1
+HORIZONTE->Porcentaje de sodio de intercambio (P.S.I.):  2,4   |  0,8    |  1,8    |  1
+HORIZONTE->Saturación con bases, S/T (%):  81    |  82     |  87,5   |  92,1

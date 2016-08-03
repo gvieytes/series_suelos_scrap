@@ -1,0 +1,160 @@
+Ab    El Arbolito
+AC    Aarón Castellanos
+AGR   Arroyo Aguiar
+AJ    Arroyo Juárez
+Alc   Estancia La Alicia
+ALd   Alejo Ledesma
+Am    Amenabar
+AMB   Ambrosetti
+ANG   Angeloni
+Ao    El Abolengo
+Aq    Arequito
+ARF   Arrufó
+Arm   Armstrong
+ARO   Arocena
+ARR   Apeadero Arrascaeta
+ASC   Ascochinga
+ASO   Arroyo San Antonio
+ATG   Arroyo Tortugas
+AUR   Aurelia
+BAR   Barrancas
+BDI   Bernardo de Irigoyen
+Bg    Bigand
+BGd   Benjamín Gould
+BSI   Bossi
+Bu    Bustinza
+CAA   Colonia Alpina
+Ca    Casilda
+CAN   Candioti
+CAO   Campo Andino
+CAS   Castellanos
+CCA   Colonia Castelar
+CDA   Coronda
+CER   Los Cerrillos
+Cf    Cafferata
+CHA   Los Charabones
+Chb   Chabás
+CH    Chilca
+Cho   Chovet
+CLA   Clason
+CM    Colonia Moreno
+CMg   Colonia Mendiguren
+CMY   Colonia Mackinley
+CNE   Colastiné
+CPg   Colonia Progreso
+CPL   Carlos Pellegrini
+CRI   Crispi
+CRO   Colonia Rosa
+Crr   Correa
+CRY   Curupaytí
+CSA   Canal San Antonio
+CST   Constituyentes
+CTE   Colonia Teresa
+CUL   Cululú
+CYT   Cayastá
+DAZ   Díaz
+De    Delgado
+DM    Divisa de Mayo
+DPR   Dos Provincias
+ECn   El Cantor
+EMT   El Mocoretá
+ENA   La Elena
+EPe   El Pedernal
+ER    El Recuerdo
+ESM   La Esmeralda
+ESP   Esperanza
+ETB   El Trébol
+EUS   Eusebia
+Fa    Faustina
+FT    Fortín Tiburcio
+GDA   La Gerda
+Ge    Gelly
+GLE   Gessler
+Gt    Guatimozín
+GTO   Gaboto
+Ha    Hansen
+HEL   Helvecia
+HER   Hersilia
+Hm    Huemul
+Hu    Hughes
+HUM   Humboldt
+Ia    La Indiana
+JAZ   Jacinto Arauz
+Jn    Juncal
+LAL   La Alpina
+LAN   Landeta
+LaP   La Patria
+LAU   El Laurel
+LBN   Las Bandurrias
+LCD   Los Cardos
+LCR   La Curva
+LDA   La Pelada
+LEH   Lehmann
+LFl   La Florida
+LGE   La Germania
+LG    Las Gamas
+Li    Lima
+LLe   La Leoncita
+LMd   Los Medanitos
+LOA   Loma Alta
+LPA   Las Palmeras
+LPR   Las Prusianas
+LRU   La Rubia
+LRV   Larivieri
+LTB   Las Turbias
+LTU   Las Tunas
+LUL   Luciano Leiva
+Lz    Lazzarino
+MAT   Matilde
+MEL   Maciel
+Me    Melincué
+Mg    Maggiolo
+MLA   María Luisa
+Mnt   Manantiales
+MON   Monigotes
+MOS   Monte Oscuridad
+Mu    Murphy
+Mz    Maizales
+Ov    Oliveros
+PCA   Pueblo Casas
+PEA   Petronila
+PEL   Pueblo Elisa
+Pe    Pergamino
+PIL   Pilar
+PKI   Paikín
+PUI   Pueblo Irigoyen
+Pvs   Las Parvas
+Py    Peyrano
+RAF   Rafaela
+RAM   Ramona
+Ra    Ramallo
+RDA   Rincón de Avila
+REC   Recreo
+Rn    Rancagua
+Ro    Rojas
+RSA   Río Salado
+Saf   Saforcada
+SAS   Sastre
+SAT   San Antonio
+SBD   San Bernardo
+SCH   Schiffner
+SER   Serodino
+SFi   Santa Filipina
+SI    Santa Isabel
+SJT   San Justo
+SME   San Martín de las Escobas
+SMN   Santa María Norte
+SMO   Sol de Mayo
+SPE   San Pedro
+Te    Teodelina
+TL    Tres Lagunas
+TOT   Totoras
+TRS   Tres Reyes
+Vd    Villada
+VE    Villa Eloísa
+VIL   Vila
+VLA   Videla
+VT    Venado Tuerto
+Ww    Wheelwright
+Za    Zavalla
+Zo    La Zoraida

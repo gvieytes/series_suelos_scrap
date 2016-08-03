@@ -1,0 +1,202 @@
+--------------------------------------------------------------------------------
+SERIE ANTELO Símbolo: Ant
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, bien drenados, con un epipedón mólico oscuro, franco-limoso a franco-arcillo-limoso, y un horizonte argílico pardo oscuro, franco-arcillo-limoso, con moteados de hierro-manganeso.
+Suelos desarrollados sobre loess calcáreos, franco-arcillo-limoso, y abundante calcáreo libre en la masa.
+Perfil tipo: ER7-105C
+Fecha: 19-VII-1995
+Ubicación: 6 Km al sur de la localidad de Antelo (foto 421-100) - dto. Corrales - Dpto. Victoria.
+Reconocedores: L.O. López; O.A. Foti.
+A1: 00-24 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro suave.
+B21t: 24-46 cm; pardo muy oscuro (10YR 4/2.5) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos y débiles, que rompen en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay humic skins") comunes y finos; ("clay skins") comunes a abundantes; moteados de hierro-manganeso escasos, finos y débiles; mucha actividad biológica; chorreadura de materia orgánica; límite claro, suave.
+B22t: 46-72 cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices ("clay skins"), abundantes; ("clay humic skins") escasos, finos; caras de fricción ("slickensides") escasas, gruesas no intersectadas; chorreadura de material superior; límite claro, suave.
+B3: 72-103 cm; pardo oscuro (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes finos, débiles, friable en húmedo; barnices ("clay skins"), escasos y finos; ("clay humic skins") escasos; caras de fricción, ("slickensides") escasas, gruesas, no intersectadas; moteados de hierro-manganeso escasos, finos y precisos; vetas de materia orgánica rellenando las grietas; límite gradual, ondulado.
+Cca: 103 cm+; pardo (7.5YR 5/4.5) en húmedo; franco-arcillo-limoso; masivo; muy friable en húmedo; barnices ("clay skins") escasos, finos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 0.4 cm, escasas, blandas y en miscelio.
+Variabilidad de rasgos
+La variabilidad de rasgos no se conoce.
+Fases
+Moderadamente erosionada (símbolo: Ant.h2)
+Series similares y sus diferencias
+La serie Antelo se parece a la serie San Francisco del Dpto. Victoria (pero ésta tiene un B2t con menos porcentaje de arcilla y está menos afectada por la erosión hídrica en forma laminar o mantiforme).
+Drenaje
+Bien drenado; escurrimiento superficial medio. Permeabilidad moderada. Capa freática profunda. Grupo hidrológico C.
+Erosión
+La serie Antelo tiene erosión leve, generalmente en forma laminar, y es muy susceptible a la misma en grado moderado a severo
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Antelo
+ER7-105C
+N° de registro
+ 10.475
+ 10.476
+ 10.477
+ 10.478
+ 10.479
+Horizonte
+ A1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 02-15
+ 30-40
+ 50-65
+ 80-96
+ 110-125
+Mat.organica (%)
+ 3.20
+ 1.78
+ 0.78
+ 0.35
+ 0.07
+N (%)
+ 0.18
+ 0.11
+ 0.07
+ 0.04
+ 0.04
+C/N
+ 10
+ 9
+ 6
+ 5
+ 1
+T < 2 u
+ 28.64
+ 36.05
+ 37.49
+ 31.42
+ 29.72
+E 2-20 u
+ 27.86
+ 24.51
+ 23.51
+ 28.19
+ 29.35
+X 2-50 u
+ 60.23
+ 58.88
+ 56.32
+ 62.26
+ 65.60
+T 50-100 u
+ 4.61
+ 1.39
+ 1.63
+ 2.11
+ 1.39
+U 100-500 u
+ 6.48
+ 3.67
+ 4.15
+ 4.20
+ 3.26
+R 500-1000 u
+ 0.04
+ 0.01
+ 0.01
+ 0.01
+ 0.03
+A
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 5.9
+PH H2O
+ 5.6
+ 5.7
+ 6.1
+ 6.4
+ 7.7
+PH ClK
+ 4.9
+ 4.8
+ 5.0
+ 5.1
+ 6.8
+Conductividad eléctrica mmhos/cm
+ 0.616
+ 0.485
+ 0.469
+ 0.408
+ 0.485
+Capacidad de intercambio
+Catiónico (m.e./100 g) =
+valor T
+ 29.32
+ 35.51
+ 36.11
+ 30.43
+ 29.17
+D
+Ca++
+ 22.22
+ 28.08
+ 28.88
+ 22.66
+ -
+C
+E
+a
+Mg++
+ 1.20
+ 1.20
+ 1.83
+ 1.82
+ -
+t
+C
+i
+a
+K+
+ 1.12
+ 1.16
+ 1.97
+ 1.80
+ 1.60
+o
+m
+n
+b
+Na+
+ 0.40
+ 0.46
+ 0.53
+ 0.66
+ 0.88
+e
+i
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+ 1.36
+ 1.29
+ 1.47
+ 2.17
+ 3.02
+Equivalente de humedad (%)
+ 26.65
+ 34.63
+ 33.51
+ 30.76
+ 28.39
+Fósforo asimilable (ppm P2O5)
+ 5.60
+ 2.36
+ 0.71
+ -
+ -
+N.D. = No determinado

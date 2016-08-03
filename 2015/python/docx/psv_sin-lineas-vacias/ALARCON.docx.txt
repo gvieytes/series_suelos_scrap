@@ -1,0 +1,226 @@
+--------------------------------------------------------------------------------
+SERIE ALARCON Símbolo: Alrc
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles fluvénticos.
+Se trata de suelos profundos, engrosados y desarrollados en materiales loessoides, probablemente mezclados con materiales retransportados, de textura franco-arcillo-limosa; imperfectamente drenados y con escasa presencia de calcáreo.
+Se encuentran en las partes bajas de las pendientes, con exceso de agua después de cada lluvia.
+Perfil tipo: ER1-123C
+Fecha: 01-X-2002.
+Ubicación: Campo El Reposo, 4 Km al Este de Enrique Carbó. (foto IR 402-10). Dto Cuchilla Redonda, Dpto Gualeguaychú.
+Reconocedores: R.H. Fuentes; O.A. Foti.
+A11: 00-21 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco; estructura en bloques subangulares, finos, débiles, con tendencia a masivo; blando en seco, friable en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+A12: 21-40 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco; estructura en bloques subangulares, finos, débiles, con tendencia a masivo; blando en seco; friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso escasos, finos y débiles; presencia de rodados; límite abrupto, suave.
+B21t: 40-63 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques angulares irregulares medios, fuertes; extremadamente duro en seco; muy firme en húmedo; barnices ("clay-humic skins") abundantes; caras de fricción ("slickensides") escasas a comunes, finas; concreciones ferromanganesíferas abundantes; moteados de hierro-manganeso, abundantes, gruesos y sobresalientes de color pardo a pardo oscuro (7,5YR 4/4); límite gradual, suave.
+B22t: 63-90 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, fuertes; duro en seco; muy firme en húmedo; barnices ("clay-humic skins") abundantes; caras de fricción ("slickensides") comunes, medias; concreciones calcáreas muy escasas, finas; moteados de hierro-manganeso comunes, medios y sobresalientes; presencia de rodados; materiales de horizontes superiores y concentraciones de manganeso rellenando las grietas, Límite gradual, suave.
+B3: 90-130 cm; pardo a pardo oscuro (10YR 4/4) en húmedo; franco; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares, medios, moderados; muy duro en seco; firme en húmedo; barnices ("clay-humic skins") abundantes, concreciones calcáreas muy escasas, finas; moteados de hierro-manganeso comunes, medios y precisos, límite difuso, suave.
+C: 130 cm +; marrón fuerte (7,5YR 4/6) en húmedo; franco; estructura en bloques angulares irregulares medios, moderados; ligeramente duro en seco; friable en húmedo; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El sólum tiene una profundidad entre 120-130 cm y comprende un epipedón mólico bien desarrollado de 40-45 cm de espesor y textura franco, seguido de un horizonte argílico de 50-55 cm de espesor y textura franco-arenoso con un 27-30 % de arcilla y un 30-35 % de arena fina, y un 3.8 % de arena gruesa, con presencia de caras de fricción ("slickensides") finas y medias. Tanto en el epipedón como en el argílico se encuentran algunos cantos rodados y concreciones ferromanganesíferas.
+El horizonte B3 de 35-45 cm de espesor y 24.5 % de arcilla; presenta comunes moteados de hierro-manganeso y concreciones calcáreas en cantidades escasas.
+Fases
+No se describieron a nivel de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial muy lento. Permeabilidad muy lenta a lenta. Capa freática poco profunda. Grupo hidrológico D.
+Erosión
+La serie Alarcón no tiene erosión, y no existe peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Alarcón
+ER1-123C
+N° de registro
+ 10719
+ 10720
+ 10721
+ 10722
+ 10723
+ 10724
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 05-15
+ 25-35
+ 45-58
+ 65-85
+ 95-120
+ 130-145
+Mat.organica (%)
+ 1.40
+ 1.04
+ 0.74
+ 0.95
+ 0.57
+ 0.43
+C (%)
+ 0.82
+ 0.61
+ 0.43
+ 0.55
+ 0.33
+ 0.25
+N (%)
+ 0.096
+ 0.041
+ 0.068
+ 0.037
+ 0.027
+ 0.023
+C/N
+ 8.54
+ 14.88
+ 6.32
+ 14.86
+ 12.22
+ 10.87
+T <2
+ 11.32
+ 11.21
+ 30.18
+ 27.55
+ 24.50
+ 23.92
+E 2-20
+ 16.96
+ 12.43
+ 15.40
+ 15.74
+ 15.41
+ 14.39
+X 2-50
+ 33.88
+ 29.91
+ 33.78
+ 29.95
+ 29.58
+ 32.33
+T 50-100
+ 0.91
+ 1.38
+ 1.04
+ 1.51
+ 1.60
+ 1.68
+U 100-250
+ 46.93
+ 47.33
+ 29.67
+ 35.93
+ 40.17
+ 37.38
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 6.50
+ 8.99
+ 4.18
+ 3.86
+ 3.41
+ 3.31
+ 1000-2000
+ 0.46
+ 1.18
+ 1.15
+ 1.20
+ 0.74
+ 1.38
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+PH H2O
+ 6.1
+ 6.3
+ 6.5
+ 6.9
+ 7.1
+ 6.8
+PH ClK
+ 5.1
+ 4.9
+ 4.6
+ 5.2
+ 5.2
+ 4.8
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 17.02
+ 17.54
+ 26.70
+ 25.92
+ 20.68
+ 20.03
+D
+Ca++
+ 4.53
+ 4.80
+ 12.14
+ 10.88
+ 8.77
+ 8.46
+C
+E
+A
+Mg++
+ 2.36
+ 2.28
+ 4.64
+ 4.37
+ 3.93
+ 3.90
+T
+C
+I
+A
+K+
+ 0.43
+ 0.23
+ 0.68
+ 0.55
+ 0.50
+ 0.57
+O
+M
+N
+B
+Na+
+ 0.33
+ 0.29
+ 0.47
+ 0.47
+ 0.42
+ 0.40
+E
+I
+S
+O
+H+
+ 9.37
+ 9.97
+ 8.77
+ 9.65
+ 7.07
+ 6.70
+Equivalente de humedad (%)
+ 13.95
+ 10.94
+ 30.83
+ 24.35
+ 21.50
+ 21.20
+P disponible (ppm)
+ 9.60
+ 8.70
+ 4.80
+ 4.70
+ 4.50
+ 4.50

@@ -1,0 +1,379 @@
+
+--------------------------------------------------------------------------------
+SERIE LUCAS NORTE Símbolo: LNr
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles vérticos (suelos gley-subhúmicos vertisólicos).
+
+Son suelos profundos, con drenaje deficiente y tienen concreciones ferromanganesíferas en todo el perfil. Tienen un epipedón oscuro franco-limoso y un horizonte argílico franco-arcillo-limoso a arcillo-limoso con concreciones de carbonatos a partir de los 70-90 cm.
+
+Suelos ligeramente ácidos en superficie y neutros en profundidad, desarrollados en materiales loessoides gleizados, mezclados con materiales lacustres.
+
+
+Perfil tipo: ER7-53C
+Fecha: 11-VI-86.
+Ubicación: Ea. San Juan Chico (foto IRH 169-10) - Dpto. Federal
+Reconocedores: R.H. Fuentes; O.A. Foti.
+
+
+A1: 00-15 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; gris (10YR 5/1) en seco; franco-limoso; estructura en granular y bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic-skins") abundantes, medios; moteados de hierro-manganeso escasos, finos y precisos; concreciones de hierro-manganeso escasas, finas; límite claro, suave.
+
+B1: 15-21 cm; gris muy oscuro (10YR 3/1) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subangulares y bloques angulares irregulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("clay-humic-skins") abundantes, medios; concreciones de hierro-manganeso escasas, finas; límite abrupto, suave.
+
+B21t: 21-43 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; muy duro en seco; firme en húmedo; barnices ("clay-skins") abundantes, medios; caras de fricción (`slickensides') abundantes, finas, intersectadas; moteados de hierro-manganeso, comunes, precisos y finos; concreciones de hierro-manganeso comunes, de hasta 3 mm; límite claro, suave.
+
+B22t: 43-67 cm; pardo grisáceo muy oscuro a pardo oscuro (10YR 3/2.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques cuneiformes, medios, moderados; muy duro en seco; muy firme en húmedo; caras de fricción (`slickensides') muy abundantes, finas, intersectadas; concreciones de hierro-manganeso abundantes, de hasta 5 mm; límite claro, suave.
+
+B31t: 67-87 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en bloques cuneiformes, gruesos, débiles; ligeramente duro en seco; friable en húmedo; caras de fricción ("slickensides") abundantes, medias, intersectadas; moteados de hierro-manganeso, comunes finos y precisos; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas, finas; límite gradual, ondulado.
+
+B32ca: 87-120 cm; pardo (7.5YR 5/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, gruesos, débiles; ligeramente duro en seco; friable en húmedo; caras de fricción (`slickensides') escasas, gruesas, no intersectadas; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; abundante cantidad de carbonatos libres en la masa.
+
+Cca: 120 cm+; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, débiles; ligeramente duro en seco; friable en húmedo; caras de fricción ("slickensides") escasas, gruesas, no intersectadas; horizonte con gley fósil y chorreaduras de materia orgánica por las grietas.
+
+
+Variabilidad de rasgos
+
+El sólum varía entre 100 y 130 cm de espesor. El epipedón muestra una variabilidad en el espesor (20-35 cm) mayor que el normalmente admitido para la diferenciación a nivel de serie. Tiene entre 25-30 % de arcilla y está compuesto de un horizonte A1 seguido generalmente de un B1; es de color oscuro y con tenores de materia orgánica que varían entre 3,5-5 % (aunque en algunos sectores donde las condiciones de hidromorfismo son mayores, éstos pueden elevarse hasta 7 %).
+
+El B2 argílico tiene entre 35 y 40 % de arcilla, y es donde están mayormente expresadas las características vérticas; tiene concreciones de hierro-manganeso de hasta 5 mm de diámetro. El calcáreo, en concreciones duras, se halla entre 70-90 cm de profundidad, aunque se lo puede encontrar en algunos casos más profundo.
+
+A partir de aproximadamente 80 cm presenta gley y caras de fricción ("slickensides") fósiles; así como también procesos de expansión y contracción del material, lo que produce grietas, las que posteriormente se rellenan con materiales de la superficie. También puede desarrollarse un microrrelieve gilgai irregular.
+
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Los Conquistadores, pero ésta es más hidromórfica y tiene el calcáreo a mayor profundidad.
+
+
+Drenaje
+
+Imperfecta a pobremente drenado, con algunos sectores que quedan anegados después de lluvias importantes. Escurrimiento superficial muy lento. Permeabilidad muy lenta. Napa freática moderadamente profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Lucas Norte no tiene erosión, y no existe peligro a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Lucas Norte
+
+ER7-53C
+
+
+
+
+
+
+
+N° de registro
+ 4723
+ 4724
+ 4725
+ 4726
+ 4727
+ 4728
+ 4729
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B31t
+ B32ca
+ Cca
+Profundidad (cm
+ 02-10
+ 13-18
+ 25-37
+ 48-63
+ 75-86
+ 95-106
+ 134-152
+Mat.organica (%)
+ 5.20
+ 3.99
+ 2.44
+ 1.53
+ 0.76
+ 0.37
+ 0.08
+N (%)
+ 0.21
+ 0.17
+ 0.11
+ 0.07
+ 0.04
+ 0.04
+ 0.02
+C/N
+ 13
+ 12
+ 11
+ 11
+ 10
+ 5
+ 2
+
+
+T <2
+
+ 25.99
+
+ 26.34
+
+ 35.47
+
+ 39.12
+
+ 37.77
+
+ 35.14
+
+ 34.24
+E 2-20
+ 30.17
+ 34.48
+ 40.28
+ 32.09
+ 30.19
+ 30.82
+ 32.22
+X 2-50
+ 70.80
+ 7.49
+ 59.52
+ 59.01
+ 60.16
+ 63.14
+ 64.39
+T 50-100
+ 0.36
+ 0.26
+ 0.05
+ 0.13
+ 0.27
+ 0.03
+ 0.10
+U 100-250
+ 2.85
+ 2.87
+ 1.89
+ 1.72
+ 1.66
+ 1.65
+ 1.30
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.07
+ 0.04
+ 0.07
+ 0.02
+ 0.14
+ 0.04
+ 0.07
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.3
+
+ 0.4
+
+ 2.3
+
+ 10.5
+
+ 6.6
+pH H2O
+ 5.8
+ 5.8
+ 6.4
+ 6.8
+ 7.8
+ 7.9
+ 7.9
+pH ClK
+ 5.3
+ 5.3
+ 6.0
+ 6.2
+ 7.1
+ 7.2
+ 7.3
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+
+
+ 17.12
+
+
+
+
+ 16.17
+
+
+
+
+ 28.76
+
+
+
+
+ 27.70
+
+
+
+
+ 24.63
+
+
+
+
+ 22.79
+
+
+
+
+ 20.04
+
+
+D
+Ca++
+ 8.56
+ 9.07
+ 24.24
+ 19.84
+ 18.06
+ 14.79
+ 13.63
+C
+E
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ -
+ -
+ -
+ 0.42
+ 0.83
+ 2.40
+ 2.40
+t
+C
+
+
+
+
+
+
+
+
+i
+A
+K+
+ 0.70
+ 0.37
+ 0.39
+ 0.37
+ 0.35
+ 0.37
+ 0.40
+o
+M
+
+
+
+
+
+
+
+
+n
+B
+Na+
+ 0.36
+ 0.36
+ 0.78
+ 1.18
+ 1.17
+ 1.14
+ 0.76
+e
+I
+
+
+
+
+
+
+
+
+s
+O
+H+
+ 6.73
+ 6.73
+ 6.73
+ 3.79
+ 0.84
+ 0.84
+ 0.84
+
+Equivalente de humedad (%)
+
+
+ 24.09
+
+
+ 23.95
+
+
+ 23.39
+
+
+ 35.23
+
+
+ 31.47
+
+
+ 28.67
+
+
+ 28.09
+P asimilable (ppm)
+ 12.59
+ 9.26
+ 4.32
+ 2.44
+ 1.74
+ 2.86
+ 1.62
+

@@ -1,0 +1,257 @@
+
+--------------------------------------------------------------------------------
+SERIE ISLETAS						 Símbolo: Islt
+
+
+Pertenece a la familia "fina,mixta, térmica" de los Argiudoles ácuicos (Brunizems con B2 textural fuertemente desarrollado).
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-limoso, y un horizonte argílico franco-arcillo-limoso a arcillo-limoso.
+
+Son suelos desarrollados en loess calcáreo, de textura franco-limosa, con calcáreo libre y en concreciones a partir de los 110 cm.
+
+
+Perfil tipo: ER7-87C
+Fecha: 01-VI-1990
+Ubicación: Aldea Chávez (foto H434-36) - Dpto. Diamante.
+Reconocedores: H.A.A. Tasi; L.O. López.
+
+
+Ap: 00-30 cm; negro (10YR 2/1) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura granular, fina, débil, y en bloques subangulares, medios, débiles; friable en húmedo; barnices "humic skins" y "clay humic skins" abundantes, medios; moteados de hierro comunes, finos y precisos; pedotúbulos comunes; límite claro, suave.
+
+B21t: 30-70 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares y bloques subangulares finos, débiles; en seco; friable en húmedo; barnices "clay humic skins" escasos, medios y "clay skins", abundantes, medios a gruesos; caras de fricción ("slickensides") a partir de los 50 cm, escasas, finas, no intersectadas; concreciones de hierro-manganeso escasas y finas de hasta 2 mm, moteados de hierro comunes, medios y precisos; chorreaduras de materia orgánica y grietas hasta la base del Ap; límite gradual, suave.
+
+B22t: 70-90 cm; pardo amarillento oscuro (10YR 3/4) en húmedo; franco-arcillo-limoso a arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en prismas compuestos irregulares, finos, débiles; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; límite claro, suave.
+
+B3: 90-110 cm; pardo oscuro (10YR 4/3) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; caras de fricción ("slickensides") fósiles, abundantes, finas, no intersectadas; moteados de hierro y manganeso comunes, medios y precisos; límite gradual,suave.
+
+Cca:	110+ cm; pardo (7.5YR 4/4) en húmedo; franco-limoso; estructura masiva; moteados de hierro y manganeso abundantes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 90-130 cm.
+
+Tiene un epipedón profundo (hasta 35 cm) y bien estructurado que incluye, en algunos casos, parte del B21. Posee entre 25-30 % de arcilla.
+
+El horizonte argílico, de estructura prismática compuesta, presenta entre 42 y 45 % de arcilla; puede tener algunas caras de fricción ("slickensides") escasos en el horizonte B21t y que, a partir del B22t presentan mayor espesor e intersección.
+
+El calcáreo, en concreciones y como carbonato libre en la masa, aparece recién a partir de los 110-120 cm.
+
+
+Fases
+
+No presenta.
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Costa Grande (que tiene un horizonte argílico menos arcilloso y menos oscuro) y a la Serie Puíggari (que tiene un Bt menos desarrollado); además, ambas series están en un paisaje más ondulado.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio a lento. Permeabilidad moderada a moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Isletas presenta una erosión actual leve, pero su susceptibilidad a una erosión potencial, laminar o mantiforme, es moderada.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Isletas
+
+ER7-87C
+
+
+
+
+
+Nº de registro
+ 5436
+ 5437
+ 5438
+ 5439
+ 5440
+Horizonte
+ Ap
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 05-25
+ 45-60
+ 75-85
+ 94-105
+ 125+
+Mat.organica (%)
+ 3.55
+ 1.56
+ 0.45
+ 0.15
+ 0.08
+N (%)
+ 0.16
+ 0.09
+ 0.05
+ 0.04
+ 0.02
+C/N
+ 13
+ 10
+ 6
+ -
+ -
+
+T < 2 μ
+
+ 26.40
+
+ 47.50
+
+ 40.90
+
+ 31.00
+
+ 52.40
+E 2-20 μ
+ 33.80
+ 25.40
+ 26.90
+ 35.40
+ 30.40
+X 2-50 μ
+ 68.31
+ 48.99
+ 54.66
+ 64.40
+ 43.47
+T 50-100 μ
+ 5.08
+ 3.32
+ 4.24
+ 4.42
+ 4.00
+U 100-500 μ
+ 0.20
+ 0.19
+ 0.20
+ 0.18
+ 0.14
+R 500-1000 μ
+ -
+ -
+ -
+ -
+ -
+A 1000-2000 μ
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ 10.7
+pH H2O
+ 5.5
+ 6.4
+ 6.9
+ 7.2
+ 7.8
+pH ClK
+ 6.1
+ 6.3
+ 7.0
+ 7.0
+ 8.1
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 27.40
+ 35.80
+ 36.10
+ 35.80
+ 34.90
+ d Ca++
+ 20.00
+ 26.80
+ 26.70
+ 25.80
+ 27.70
+C e
+
+
+
+
+
+Mg++
+ 1.10
+ 2.80
+ 4.50
+ 5.30
+ 4.00
+t c
+
+
+
+
+
+i a K+
+ 2.22
+ 1.94
+ 2.33
+ 2.26
+ 1.80
+o m
+
+
+
+
+
+n b Na+
+ 0.70
+ 0.57
+ 1.00
+ 0.86
+ 0.70
+e i
+
+
+
+
+
+s o H+
+ 3.10
+ 2.90
+ 1.50
+ 0.90
+ ND
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 28.09
+ 42.48
+ 37.76
+ 35.72
+ 31.96
+

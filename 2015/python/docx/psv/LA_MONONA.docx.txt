@@ -1,0 +1,366 @@
+
+--------------------------------------------------------------------------------
+SERIE LA MONONA Símbolo: LMon
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos.
+Suelos profundos, arcillosos y oscuros.
+Presentan microrelieve gilgai aunque poco visible en el campo.
+Estan moderadamente bien drenados, con calcáreo a partir de los 50 cm de profundidad aproximadamente.
+
+Desarrollados en sedimentos "limos calcáreos".
+
+
+Perfil tipo: ER1-125C
+Fecha: 02-X-2002
+Ubicación: Ea. La Querencia. (foto IR 103-21). Dto. Pehuajó al Sur, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A1: 00-14 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, fuertes; muy duro en seco, firme en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y precisos; límite abrupto, suave.
+
+B21t: 14-51 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares, medios, fuertes; muy duro en seco, muy firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") abundantes, finas y gruesas; concreciones ferromanganesíferas escasa a comunes; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+B22tca: 51-87 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados; que rompen en bloques angulares irregulares y cuneiformes, medios, fuertes; muy duro en seco, muy firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") abundantes, gruesas; concreciones calcáreas comunes; escasos carbonatos libres en la masa; moteados de hierro-manganeso escasos; finos y precisos; límite claro, ondulado.
+
+B31ca: 87-115 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, débiles; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes; concreciones calcáreas abundantes; abundantes carbonatos líbres en la masa; moteados de hierro-manganeso abundantes, medios y sobresalientes; materiales de horizontes superiores en las grietas; límite gradual, ondulado.
+
+B32ca: 115-140 cm; pardo a pardo oscuro (7.5YR 4,5/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; duro en seco, firme en húmedo; barnices ("clay skins") escasos; concreciones calcáreas comunes; concreciones ferromanganesíferas escasas a comunes, blandas; abundantes carbonatos líbres en la masa; moteados de hierro-manganeso comunes, gruesos y sobresalientes; materiales de horizontes superiores en las grietas; límite gradual, ondulado.
+
+Cca: 140 cm +; pardo a pardo oscuro (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, gruesos, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") escasos; concreciones calcáreas abundantes; abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, finos y precisos; materiales de horizontes superiores en las grietas.
+
+
+Variabilidad de rasgos
+
+Presentan un epipedón de poco espesor, compuesto por un horizonte A1 bien estructurado y erosionado.
+
+El horizonte argílico, de estructura prismática fuerte, posee algunas concreciones ferromanganesíferas y tenores de arcilla que van de 40-47 %. Presenta abundantes caras de fricción y materiales de horizontes superiores en las grietas. El carbonato se presenta en concreciones duras y blandas a partir de los 50 cm aproximadamente y en la masa algo mas profundo, aumentando considerablemente en profundidad.
+
+
+Fases
+
+Se determinó a nivel de reconocimiento una fase por erosión moderada. (LMon.h2).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Serie La Monona manifiesta una erosión actual leve a moderada, especialmente en las lomas mas altas de relieve. La susceptibilidad a la misma es moderada. El suelo corre gran peligro de erosión en surcos y cárcavas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Monona
+
+ER1-125C
+
+
+
+
+
+
+N° de registro
+ 10731
+ 10732
+ 10733
+ 10734
+ 10735
+ 10736
+Horizonte
+ A1
+ B21t
+ B22tca
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 02-12
+ 17-45
+ 55-80
+ 90-110
+ 118-130
+ 140-150
+Mat.organica (%)
+ 4.93
+ 2.14
+ 1.24
+ 0.52
+ 0.45
+ 0.15
+C (%)
+ 2.87
+ 1.24
+ 0.72
+ 0.31
+ 0.26
+ 0.09
+N (%)
+ 0.232
+ 0.127
+ 0.065
+ 0.037
+ 0.034
+ 0.017
+C/N
+ 12.37
+ 9.76
+ 11.08
+ 8.38
+ 7.65
+ 5.29
+
+T <2
+
+ 34.86
+
+ 47.70
+
+ 45.01
+
+ 40.01
+
+ 39.88
+
+ 39.94
+E 2-20
+ 31.67
+ 28.39
+ 29.98
+ 30.12
+ 30.87
+ 30.80
+X 2-50
+ 58.98
+ 48.88
+ 51.69
+ 55.11
+ 56.56
+ 56.41
+T 50-100
+ 1.39
+ 0.66
+ 0.71
+ 1.25
+ 0.96
+ 1.24
+U 100-250
+ 4.61
+ 2.67
+ 2.46
+ 3.53
+ 2.47
+ 2.37
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.13
+ 0.05
+ 0.08
+ 0.07
+ 0.11
+ 0.04
+ 1000-2000
+ 0.03
+ 0.04
+ 0.05
+ 0.03
+ 0.02
+ -
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 2.6
+
+ 7.7
+
+ 7.2
+
+ 6.0
+PH H2O
+ 5.8
+ 6.9
+ 8.3
+ 8.6
+ 8.2
+ 8.6
+PH ClK
+ 5.0
+ 5.3
+ 6.8
+ 7.1
+ 7.1
+ 7.0
+Conductividad eléctrica (mmhos/cm)
+
+ 86.30
+
+ 85.10
+
+ 176.00
+
+ 181.90
+
+ 183.00
+
+ 171.30
+Capacidad de intercambio catiónico (cmol(c)kg-1) =
+ Valor T
+
+
+
+ 32.20
+
+
+
+ 39.01
+
+
+
+ 37.81
+
+
+
+ 35.85
+
+
+
+ 35.72
+
+
+
+ 35.58
+
+D
+Ca++
+ 17.96
+ 24.95
+ 23.60
+ 21.16
+ 19.28
+ 24.38
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 5.51
+ 8.71
+ 5.53
+ 6.73.
+ 6.33
+ 5.70
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 0.73
+ 0.75
+ 0.45
+ 0.38
+ 0.37
+ 0.38
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 0.42
+ 0.67
+ 0.55
+ 0.67
+ 0.67
+ 0.62
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+ 7.57
+ 3.93
+ 7.68
+ 6.92
+ 9.07
+ 4.50
+
+% Na/T
+
+
+
+
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+
+ 32.93
+
+ 49.95
+
+ 47.09
+
+ 42.03
+
+ 41.59
+
+ 41.84
+
+P disponible (ppm)
+
+ 9.70
+
+ 5.90
+
+ 5.50
+
+ 4.90
+
+ 4.70
+
+ 4.30
+

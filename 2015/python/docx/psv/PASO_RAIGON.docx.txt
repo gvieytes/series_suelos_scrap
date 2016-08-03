@@ -1,0 +1,349 @@
+
+--------------------------------------------------------------------------------
+SERIE PASO RAIGON Símbolo: PRai
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso, y un horizonte argílico muy oscuro, arcillo-limoso.
+
+Presenta concreciones calcáreas a partir de los 80 cm y se han desarrollado en materiales loessoides.
+
+
+Perfil tipo: ER1-103C
+Fecha: 14-VII-94
+Ubicación: Paso El Raigón (foto 439-8) - Dpto. Tala.
+Reconocedores: O.A. Foti; R.H. Fuentes
+
+
+A1: 00-20 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares, medios, moderados; ligeramente duro en seco, friable en húmedo; abundantes barnices húmicos ("humic-skins"); concreciones de hierro-manganeso escasas; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+
+B21t: 20-41 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; abundantes barnices arcillosos ("clay-skins"); caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B22t: 41-67 cm; negro (10YR 2/1) en húmedo; arcilloso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y bloques cuneiformes medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas e intesectadas; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+
+B23ca: 67-80 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y bloques cuneiformes medios, moderados;ligeramente duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas e intersectadas; abundante cantidad de carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, suave.
+
+B31ca: 80-110 cm; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares y cuneiformes medios, fuertes; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas e intersectadas; muy abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes y finas; concreciones de hierro-manganeso abundantes; moteados de hierro-manganeso comunes, medios y sobresalientes; límite difuso, suave.
+
+B32ca: 101-130 cm; pardo fuerte (7.5YR 4/6) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares y cuneiformes medios, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") abundantes y gruesas; muy abundante cantidad de carbonatos libres en la masa; concreciones calcáreas muy abundantes y de hasta 1 cm de diámetro;moteados de hierro-manganeso comunes, finos y precisos; límite difuso, suave.
+
+Cca: 130 cm +; pardo fuerte (7.5YR 4.5/6) en húmedo; franco-arcillo-limoso; estructura en bloques cuneiformes gruesos, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") escasas y gruesas; muy abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas y finas; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El sólum varía de 130 a 140 cm. El epipedón mólico tiene un espesor de 18 a 20 cm y una estructura de bloques subangulares y con 5,8 a 6,3 % de materia orgánica.
+
+El horizonte B2, de marcadas características vérticas, tiene un espesor que varía entre 75 a 80 cm, con un contenido de arcilla de hasta un 53%. Las caras de fricción ("slickensides") se encuentran bien desarrolladas en todo el horizonte. Cuando seco se agrieta fuertemente, llegando las grietas hasta la base del epipedón.
+
+El calcáreo aparece a partir de los 67-70 cm de profundidad en forma de carbonatos libres en la masa, y algo más abajo en forma de concreciones finas. Es común la presencia de moteados ferromanganesíferos en todo el perfil.
+
+
+Fases
+
+No presenta a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Durazno, pero ésta se desarrolla en materiales limos-loessoides menos arcillosos, además de ubicarse en un paisaje distinto (una peniplanicie suavemente ondulada).
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie no presenta erosión y generalmente no corre peligro a la misma, aunque en algunos sectores tiene una ligera erosión laminar.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Paso Raigón
+
+ER1-103C
+
+
+
+
+
+
+
+N° de registro
+ 8654
+ 8655
+ 8656
+ 8657
+ 8658
+ 8659
+ 8660
+Horizonte
+ A1
+ B21t
+ B22t
+ B23ca
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 02-18
+ 25-35
+ 45-60
+ 69-78
+ 85-105
+ 115-125
+ 133-140
+Mat.organica (%)
+ 6.32
+ 3.64
+ 2.35
+ 1.64
+ 0.57
+ 0.29
+ 0.15
+N (%)
+ 0.31
+ 0.14
+ 0.01
+ 0.01
+ 0.03
+ 0.03
+ 0.02
+C/N
+ 11.60
+ 4.57
+ 22.00
+ 13.94
+ 9.14
+ 4.85
+ 3.81
+
+
+T <2
+
+ 26.74
+
+ 42.35
+
+ 52.43
+
+ 46.80
+
+ 47.70
+
+ 38.05
+
+ 39.92
+E 2-20
+ 7.76
+ 29.28
+ 21.94
+ 29.20
+ 25.71
+ 31.20
+ 31.98
+X 2-50
+ 61.90
+ 47.47
+ 35.90
+ 44.18
+ 44.01
+ 55.57
+ 54.94
+T 50-100
+ 1.87
+ 2.00
+ 1.40
+ 1.51
+ 1.30
+ 1.00
+ 1.09
+U 100-500
+ 9.06
+ 7.80
+ 9.89
+ 7.06
+ 6.60
+ 4.80
+ 3.89
+R 500-1000
+ 0.36
+ 0.35
+ 0.33
+ 0.31
+ 0.30
+ 0.22
+ 0.10
+A 1000-2000
+ 0.07
+ 0.03
+ 0.05
+ 0.14
+ 0.09
+ 0.36
+ 0.01
+
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 4.04
+ 3.30
+ 2.17
+pH H2O
+ 5.5
+ 5.8
+ 6.7
+ 7.8
+ 8.0
+ 8.0
+ 8.0
+pH ClK
+ 4.9
+ 5.1
+ 5.6
+ 6.9
+ 6.9
+ 6.9
+ 6.8
+
+Capacidad de intercambio catiónico (m.e./100 g) = Valor T
+
+ 34.40
+
+ 36.60
+
+ 40.50
+
+ 37.30
+
+ 38.90
+
+ 35.30
+
+ 36.40
+
+D
+Ca++
+ 25.80
+ 27.10
+ 30.10
+ 28.00
+ -
+ -
+ 26.50
+C
+E
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 5.60
+ 5.80
+ 6.20
+ 6.00
+ -
+ -
+ 5.7
+t
+C
+
+
+
+
+
+
+
+
+i
+A
+K+
+ 1.40
+ 1.50
+ 1.60
+ 1.50
+ 1.60
+ 1.30
+ 1.50
+o
+M
+
+
+
+
+
+
+
+
+n
+B
+Na+
+ 1.20
+ 1.30
+ 1.50
+ 1.40
+ 2.00
+ 1.90
+ 1.90
+e
+I
+
+
+
+
+
+
+
+
+s
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+% Na/T
+ 3.49
+ 3.55
+ 3.70
+ 3.75
+ 5.14
+ 5.38
+ 5.22
+Equivalente de humedad (%)
+
+ 34.23
+
+ 37.71
+
+ 47.43
+
+ 44.26
+
+ 43.70
+
+ 42.22
+
+ 42.92
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+

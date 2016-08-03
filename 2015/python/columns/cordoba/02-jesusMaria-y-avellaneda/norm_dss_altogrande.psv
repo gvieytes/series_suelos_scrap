@@ -1,0 +1,39 @@
+dss_altogrande.psv ->> ID..........................: 201
+dss_altogrande.psv ->> CLASIFICACION...............: Hasplustol típico
+dss_altogrande.psv ->> SERIE.......................: ALTO GRANDE (AlGr)
+dss_altogrande.psv ->> UBICACION...................: 14 km al Norte de Jesús María, departamento Totoral
+dss_altogrande.psv ->> PROVINCIA...................: CORDOBA
+dss_altogrande.psv ->> LATITUD.....................: S305200
+dss_altogrande.psv ->> LONGITUD....................: O640500
+dss_altogrande.psv ->> ALTITUD.....................: 570
+dss_altogrande.psv ->> PENDIENTE...................: FALTA!
+dss_altogrande.psv ->> DRENAJE.....................: FALTA!
+dss_altogrande.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_altogrande.psv ->> PERMEABILIDAD...............: FALTA!
+dss_altogrande.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_altogrande.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_altogrande.psv ->> HORIZONTE->NOMBRE(S)........: A | B2 | B3ca | Cca
+dss_altogrande.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-38 | 38-65 | 65a+
+dss_altogrande.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,3 | 1,7 | - | 
+dss_altogrande.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,9 | 1,0 | - | 
+dss_altogrande.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,19 | 0,10 | - | 
+dss_altogrande.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,0 | 10,0 | - | 
+dss_altogrande.psv ->> HORIZONTE->ARCILLA 2 (%)....: 19,0 | 21,4 | 17,0 | 20,4
+dss_altogrande.psv ->> HORIZONTE->LIMO 2-50 (%)....: 56,5 | 58,1 | 61,2 | 59,1
+dss_altogrande.psv ->> HORIZONTE->AMF 50-100 (%)...: 7,3 | 6,7 | 6,6 | 5,7
+dss_altogrande.psv ->> HORIZONTE->AF 100-250 (%)...: 4,0 | 3,4 | 2,9 | 2,7
+dss_altogrande.psv ->> HORIZONTE->AM 250-500 (%)...: 4,5 | 2,7 | 3,2 | 2,9
+dss_altogrande.psv ->> HORIZONTE->AG 500-1000 (%)..: 6,9 | 5,6 | 4,6 | 4,5
+dss_altogrande.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 2,1 | 2,6 | 2,2 | 2,6
+dss_altogrande.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 3,6 | 7,8
+dss_altogrande.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 21,7 | 22,0 | 22,4 | 22,4
+dss_altogrande.psv ->> HORIZONTE->PH PASTA.........: 6,9 | 7,1 | 7,3 | 7,3
+dss_altogrande.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,3 | 7,4 | 7,6 | 7,7
+dss_altogrande.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 18,5 | 22,7 | - | 
+dss_altogrande.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,4 | 0,7 | - | 
+dss_altogrande.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4 | 0,3 | 0,3 | 0,3
+dss_altogrande.psv ->> HORIZONTE->CI ME/100G-K +...: 1,5 | 1,1 | 1,0 | 1,1
+dss_altogrande.psv ->> HORIZONTE->CI ME/100G-H +...: 0,4 | 0,2 | - | 
+dss_altogrande.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20,8 | 24,8 | - | 
+dss_altogrande.psv ->> HORIZONTE->CIC ME/100G(T)...: 21,2 | 25,0 | 24,8 | 24,9
+dss_altogrande.psv ->> HORIZONTE->SAT.B % (S/T)....: 98,1 | 99,2 | 100 | 100

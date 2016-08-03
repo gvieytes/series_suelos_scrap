@@ -1,0 +1,211 @@
+--------------------------------------------------------------------------------
+SERIE CAÑADA GRANDE Símbolo: CñG
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles cumúlicos (Brunizems hidromorficos engrosados).
+Son suelos muy profundos, con un epipedón engrosado, oscuro, franco-limoso, imperfecta a moderadamente bien drenados, con un exceso de agua (sub)superficial de áreas vecinas más altas, formando una napa freática "suspendida").
+	
+Suelos desarrollados en loess coluvial y/o materiales loessoides recientemente retransportados y decalcificados a gran profundidad.
+Perfil tipo: ER7-69C
+Fecha: 21-IV-1989
+Localización: Doll (foto 432-80) - Dpto. Diamante.
+Reconocedores: L.O. López; O.A. Foti.
+Ap: 00-22 cm; pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura granular y en bloques subangulares, medios, débiles; friable en húmedo; barnices "humic skins", escasos a medios; moteados de hierro y manganeso comunes, finos y precisos; límite gradual, suave.
+A12: 22-38 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura en bloques subangulares, medios, débiles; friable en húmedo; barnices "humic skins" abundantes y "clay humic skins" escasos, finos; moteados de hierro y manganeso comunes, finos y precisos; límite claro, suave.
+A3: 38-60 cm; pardo muy oscuro (10YR 3.5/2) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins", escasos, finos; poroso; límite abrupto, suave.
+B21t: 60-92 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, medios, que rompen en bloques subangulres y angulares, irregulares, medios y finos; extremadamente duro en seco; firme en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") escasas, finas; moteados de hierro y manganeso abundantes, medios y precisos; raíces finas aplastadas y grietas que alcanzan la base del A3; límite gradual, suave.
+B22t: 92-130 cm; pardo grisáceo muy oscuro (10YR 2.5/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, medios, que rompen en prismas compuestos irregulares, finos, débiles, y bloques cuneiformes, medios, moderados; extremadamente duro en seco; firme en húmedo; barnices "clay humic skins" escasos, medios y "clay skins", abundantes, medios; caras de fricción ("slickensides") escasas a medias, finas e intersectadas; concreciones de hierro-manganeso escasas y finas de hasta 0.1 cm; moteados de hierro y manganeso comunes, finos y precisos; límite claro, suave.
+B3: 130+ cm; pardo (10YR 4/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en prismas compuestos irregulares, finos, débiles; duro en seco; friable en húmedo; barnices "clay skins", escasos y finos; caras de fricción ("slickensides") escasas y finas, no intersectadas; concreciones de hierro-manganeso escasas, finas; moteados de hierro y manganeso escasos, finos y débiles; evidencias de abundante actividad biológica.
+Variabilidad de rasgos
+El solum posee siempre más de 140 cm y su variabilidad no se conoce. El epipedón mólico varía de 50-80 cm y está engrosado por material de textura diferente a la del original (franco-limosa a franco-arcillo-limosa, con 20-28 % de arcilla), como resultado de la acumulación lenta de material arrastrado desde las partes más altas del paisaje por el agua de escorrentía. El epipedón muestra normalmente algunos síntomas de lixiviación, con una incipiente degradación de la estructura. En algunos casos, es posible encontrar una capa de 5-8 cm en superficie constituida por material de arrastre ("enlame") estratificado, de textura limosa (limo suelto).
+El horizonte argílico posee siempre más de 60 cm y entre 30-35 % de arcilla, teniendo mejor expresadas sus características iluviales en su parte inferior (B22t). Presenta algunas concreciones de hierro-manganeso a partir del B21t, que se vuelven más abundantes en profundidad. Las caras de fricción ("slickensides"), escasas y no intersectadas, aparecen entre los 75-85 cm.
+Normalmente el perfil se mantiene húmedo entre el epipedón y el horizonte argílico (subhorizonte B21t) y es frecuente encontrar, luego de un período lluvioso, una napa temporaria o "colgada" como resultado del flujo subsuperficial lento o "hipodérmico" a lo largo de las pendientes muy suaves. Son comunes los moteados en todo el solum, a veces no claramente visibles por el estado de humedad y los colores muy oscuros. Es común la presencia de gley o pseudo-gley (condiciones de reducción temporarias o estacionales). Las concreciones de calcáreo aparecen siempre a más de 130 cm.
+Fases
+No posee fases a la escala de reconocimiento (1:100.000).
+Series similares y sus diferencias
+Se parece a la Serie La Jaula (con una posición en el paisaje distinta, un epipedón mucho más corto y más arcilloso, con calcáreo más alto en el perfil) y a los suelos de la fase engrosada de la Serie Costa Grande (símbolo: CG.x) pero estos se ubican en las depresiones interiores del manto de loess espeso, tienen un epipedón menos engrosado y no son tan hidromórficos.
+Drenaje
+Moderada a imperfectamente drenado; escurrimiento superficial lento a muy lento. Permeabilidad moderadamente lenta. Napa freática temporaria o "perchèe" (50-150 cm). Grupo hidrológico C.
+Erosión
+La Serie Cañada Grande no tiene erosión actual ni peligro a la misma, pero sí tiene un moderado peligro de deposición por aporte actual de materiales de arrastre de las pendientes más altas.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Cañada Grande
+ER7-69C
+Nº de registro
+ 5134
+ 5135
+ 5136
+ 5137
+ 5138
+ 5139
+Horizonte
+ Ap/A11
+ A12
+ A3
+ B21t
+ B22t
+ B3
+Profundidad (cm)
+ 00-22
+ 22-38
+ 38-60
+ 60-92
+ 92-130
+ + 130
+Mat.organica (%)
+ 2.89
+ 2.69
+ 2.38
+ 1.40
+ 0.95
+ 0.58
+N (%)
+ 0.13
+ 0.12
+ 0.10
+ 0.06
+ N.D.
+ 0.03
+C/N
+ 13
+ 13
+ 13
+ 13
+ N.D.
+ 10
+T
+ <2 u
+ 22.72
+ 26.64
+ 27.25
+ 33.29
+ 34.17
+ 31.04
+E
+ 2-20 u
+ 32.41
+ 30.02
+ 28.39
+ 25.04
+ 23.41
+ 26.25
+X
+ 2-50 u
+ 70.52
+ 65.30
+ 61.89
+ 55.46
+ 56.11
+ 56.22
+T
+ 50-100 u
+ 6.42
+ 10.24
+ 9.87
+ 10.12
+ 8.69
+ 11.74
+U
+ 100-500 u
+ 0.33
+ 0.71
+ 0.94
+ 0.92
+ 1.02
+ 0.98
+R
+ 500-1000 u
+ 0.01
+ 0.11
+ 0.05
+ 0.21
+ 0.01
+ 0.02
+A
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ -
+pH H2O
+ 6.1
+ 6.0
+ 6.1
+ 6.5
+ 6.9
+ 6.8
+pH ClK
+ 5.1
+ 5.1
+ 5.0
+ 5.2
+ 5.5
+ 5.3
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 23.00
+ 25.80
+ 26.30
+ 31.40
+ 33.80
+ 27.80
+ d Ca ++
+ 15.20
+ 17.60
+ 17.90
+ 23.00
+ 25.80
+ 22.40
+C e
+Mg++
+ 2.90
+ 2.80
+ 3.00
+ 2.90
+ 2.20
+ 1.80
+t C
+i a K+
+ 2.00
+ 2.05
+ 2.20
+ 2.50
+ 3.00
+ 1.90
+o m
+n b Na+
+ 0.43
+ 0.50
+ 0.31
+ 0.50
+ 0.62
+ 0.20
+e i
+s o H+
+ 2.25
+ 2.25
+ 2.25
+ 1.80
+ 1.70
+ 1.30
+% Na/T
+ 1.87
+ 1.94
+ 1.18
+ 1.59
+ 1.83
+ 0.72
+Equivalente de humedad (%)
+ -
+ -
+ -
+ -
+ -
+ -
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -
+ -
+ -

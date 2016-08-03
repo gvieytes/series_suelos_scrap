@@ -1,0 +1,45 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: ap    | a1    | e     | 2bt1  | 2bt2   | 2bc     | 2c
+HORIZONTE->Profundidad muestra: 0-17  | 17-34 | 34-54 | 54-83 | 83-108 | 108-140 | 140    +
+HORIZONTE->Mat. orgánica: 1.60  | 1.22  | 0.57  | ----- | -----  | -----   | -----
+HORIZONTE->C orgánico: 0.93  | 0.71  | 0.33  | ----- | -----  | -----   | -----
+HORIZONTE->N total: 0.092 | 0.088 | 0.060 | ----- | -----  | -----   | -----
+HORIZONTE->Relación C/N: 10    | 8     | 6     | ----- | -----  | -----   | -----
+HORIZONTE->Arcilla < 2µ: 14.0  | 14.0  | 14.0  | 27.5  | 22.0   | 18.0    | 13.5
+HORIZONTE->Limo 2-50µ: 52.0  | 53.5  | 56.0  | 51.0  | 57.0   | 57.0    | 59.0
+HORIZONTE->TOTAL: 99.1  | 98.3  | 97.7  | 101.6 | 99.5   | 99.5    | 103.9
+HORIZONTE->Limo 2-20µ: 24    | 21    | 22    | 20    | 23.5   | 21      | 23.5
+HORIZONTE->Muy fina 50-100µ: 10.3  | 13.3  | 14.0  | 10.2  | 11.6   | 8.4     | 14.5
+HORIZONTE->Fina 100-250µ: 16.7  | 12.9  | 11.5  | 10.0  | 8.5    | 13.5    | 12.9
+HORIZONTE->Media 250-500µ: 5.3   | 4.3   | 1.6   | 2.6   | 0.3    | 2.5     | 3.5
+HORIZONTE->Gruesa 500-1000µ: 0.8   | 0.4   | 0.5   | 0.3   | 0.1    | 0.1     | 0.5
+HORIZONTE->Muy gruesa 1-2mm: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+HORIZONTE->Calcáreo, CaCO3: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+HORIZONTE->Equiv. humedad: ----- | ----- | ----- | ----- | -----  | -----   | -----
+HORIZONTE->Resist. pasta: ----- | ----- | ----- | ----- | -----  | -----   | -----
+HORIZONTE->pH pasta (1:1): ----- | ----- | ----- | ----- | -----  | -----   | -----
+HORIZONTE->pH agua (1:2,5): 5.4   | 6.1   | 6.3   | 6.3   | 6.4    | 6.7     | 6.9
+HORIZONTE->pH 1N ClK (1:2,5): ----- | ----- | ----- | ----- | -----  | -----   | -----
+HORIZONTE->Ca++ intercambio: 7.2   | 8.6   | 6.8   | 13.2  | 11.6   | 11.2    | 8.2
+HORIZONTE->Mg++ intercambio: 2.6   | 2.6   | 1.8   | 3.2   | 5.0    | 3.8     | 2.6
+HORIZONTE->Na+ intercambio: 0.6   | 0.6   | 0.5   | 0.9   | 1.0    | 1.1     | 0.7
+HORIZONTE->K+ intercambio: 0.5   | 0.5   | 0.7   | 0.5   | 0.7    | 0.5     | 0.5
+HORIZONTE->H+ intercambio: 2.6   | 2.2   | 1.8   | 1.3   | 1.3    | 0.9     | 0.4
+HORIZONTE->(Na+/T): 4.3   | 3.9   | 3.7   | 4.2   | 4.8    | 6.0     | 4.4
+HORIZONTE->C.I.C., (T): 14.0  | 15.2  | 13.4  | 21.6  | 21.0   | 18.2    | 16.0
+HORIZONTE->Suma bases (S): 10.9  | 12.3  | 9.8   | 17.8  | 18.3   | 16.6    | 12.0
+HORIZONTE->Sat. bases, (S/T): 78    | 81    | 73    | 82    | 87     | 91      | 75

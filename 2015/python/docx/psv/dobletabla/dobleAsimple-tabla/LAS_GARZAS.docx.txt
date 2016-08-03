@@ -1,0 +1,258 @@
+
+--------------------------------------------------------------------------------
+SERIE LAS GARZAS							 Símbolo: LGz
+
+
+Pertenece a la familia fina, mixta y térmica de los Argiudoles ácuicos.
+Suelos profundos, moderadamente bien drenados, con un epipedón oscuro, leve a moderadamente lixiviado, franco-arcillo-limoso, y un horizonte argílico oscuro, franco-arcillo-limoso, con muy pocas caras de fricción ("slickensides") y concreciones de calcáreo a 30-50 cm.
+Se han desarrollado en sedimentos loesoides, franco-arcillo-limosos.
+
+
+Perfil tipo: ER1 - 51C
+Fecha: 11/IV/1973
+Ubicación: Pueblo Bellocq (foto 463-42) - Dpto. La Paz
+Reconocedores: O. A. Foti - G.W. van Barneveld
+
+
+Ap: 00-12 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios moderados; friable en húmedo; escasas concreciones de calcáreo de arrastre; barnices ("humic skins") escasos y finos; límite abrupto, suave. Horizonte lixiviado.
+
+B21t: 12-36 cm; negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios moderados, que rompen en bloques angulares irregulares medios moderados; friable en humado; barnices ("clay-humic skins") comunes, medios; caras de fricción ("slickensides") incipientes; límite claro, suave.
+
+B22ca: 36-55 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares irregulares medios moderados; firme en húmedo; escasas concreciones de calcáreo de hasta 0.5 mm; barnices ("clay-humic skins") escasos a comunes, medios; caras de fricción ("slickensides") escasas y no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+
+B31ca: 56-88 cm; gris oscuro a pardo grisáceo oscuro (10YR 4/1.5) en húmedo; arcillo-limoso estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares gruesos débiles; firme en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones do calcáreo comunes hasta 2 mm; caras de fricción ' ("slickensides") escasas a comunes, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite difuso, suave. Horizontes con chorreaduras de materia orgánica.
+
+B32ca: 88 cm +; pardo (7.5YR 5/3) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares gruesos débiles; friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones de calcáreo comunes, de hasta 2 mm; barnices inherentes al material; moteados de hierro-manganeso abundantes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El solum, tiene un espesor de 110-130 cm.
+El epipedón varía de 12-20 cm, y normalmente consta de un horizonte A1 (o Ap) leve a moderadamente lixiviado, y los primeros 5-10 cm del horizonte B21t (a veces es posible reconocer un B1 incipiente a 12-18 cm); tiene 3-4% de materia orgánica, con 27-30 % de arcilla en su parte superior, y 30-35 % en su parte inferior. Tiene estructura de bloques; en campos con uso agrícola sostenido es factible la presencia de un "piso de arado" en la parte inferior epipedón.
+El horizonte B2t, argílico, no es o tiene muy pocas características vérticas, las caras de fricción ("slickensides") son por lo general escasas y no intersectadas. Su estructura es prismática compuesta, aunque los prismas pueden ser muy débiles. Su porcentaje de arcilla oscila entre 35 y 50 %.
+El calcáreo aparece a 30-50 cm (a partir del B22ca o más arriba, cuando la erosión es más severa) como concreciones duras y pequeñas (de hasta 0.5 cm) escasas a comunes, y como calcáreo libre más abajo (60-80 cm) con contenidos de CO3Ca de hasta 10-12 %.
+El material originario es franco-arcillo-limoso (35-40 % de arcilla); es levemente alcalino con 6-7 % de Na + intercambiable (a veces el perfil es levemente alcalino a partir del B22).
+
+
+Fases
+
+Levemente erosionada.
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Alcaraz (con un B2 vertisólico, el calcáreo algo más profundo y menos características planosólicas).
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado; permeabilidad lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Las Garzas no tiene erosión actual y corre un moderado peligro de erosión en surcos, especialmente en las pendientes muy largas. La fase levemente erosionada se encuentra en áreas bajo uso agrícola intenso, y muestra una erosión laminar y de pequeños surcos, rellenados en parte por la labranza.
+
+
+Vegetación natural
+
+Monte de Montiel: predominan el espinillo (Acacia caven), algarrobo (Prosopis nigra), y tala (Celtis spinosa), con algunas plantas de palma "caranday" (Trithrinax campestris), Chañar" (Geoffroea decorticans) y tuna (Opuntia sp.).
+DATOS ANALÍTICOS DEL PERFIL TIPO
+
+Serie Las Garzas
+
+ER1-51C
+
+
+
+
+
+Nº de registro
+ 1062
+ 1063
+ 1064
+ 1065
+ 1066
+Horizonte
+ Ap
+ B21t
+ B22ca
+ B31ca
+ B32ca
+Profundidad (cm)
+ 00-08
+ 16-30
+ 40-51
+ 59-78
+ 94-108
+Mat.orgánica (%)
+ 3.5
+ 3.2
+ 2.6
+ 1.2
+ 0.5
+C/N
+ 11
+ 11
+ 12
+ 8
+ 6
+
+T <2
+ 28.4
+ 31.9
+ 46.3
+ 34.7
+ 34.3
+E 2-20
+ 22.9
+ 23.8
+ 8.6
+ 8.3
+ 14.6
+X 2-50
+ 70.7
+ 66.8
+ 52.9
+ 64.6
+ 65.0
+T 50-100
+ 0.6
+ 1.0
+ 0.5
+ 0.5
+ 0.4
+U 100-250
+ 0.2
+ 0.2
+ 0.2
+ 0.1
+ 0.2
+R 250-500
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+ 0.6
+ 0.0
+ 0.1
+ 10.7
+ 4.9
+pH H2O
+ 7.8
+ 7.7
+ 8.1
+ 8.3
+ 8.2
+pH ClK
+ 6.7
+ 6.4
+ 6.7
+ 6.9
+ 6.9
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 37.0
+ 46.3
+ 53.9
+ 42.3
+ 35.6
+
+D
+Ca++
+ -
+ 40.0
+ -
+ -
+ -
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ -
+ 1.9
+ -
+ -
+ -
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 1.0
+ 0.8
+ 1.0
+ 1.0
+ 0.9
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.4
+ 1.9
+ 3.7
+ 2.9
+ 2.6
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ -
+ 1.6
+ -
+ -
+ -
+% Na/T
+ 1.1
+ 4.1
+ 6.7
+ 6.9
+ 7.3
+
+Equivalente de humedad (%)
+ 41.6
+ 46.4
+ 56.5
+ 51.5
+ 44.7
+
+

@@ -1,0 +1,35 @@
+dss_la_lonja.psv ->> ID..........................: 219
+dss_la_lonja.psv ->> CLASIFICACION...............: Haplustol udorthéntico
+dss_la_lonja.psv ->> SERIE.......................: LA LONJA (Lonj)
+dss_la_lonja.psv ->> UBICACION...................: 25 km al Oeste de Jesús María, departamento Colón
+dss_la_lonja.psv ->> PROVINCIA...................: CORDOBA
+dss_la_lonja.psv ->> LATITUD.....................: S305800
+dss_la_lonja.psv ->> LONGITUD....................: O641000
+dss_la_lonja.psv ->> ALTITUD.....................: 550
+dss_la_lonja.psv ->> PENDIENTE...................: FALTA!
+dss_la_lonja.psv ->> DRENAJE.....................: FALTA!
+dss_la_lonja.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_la_lonja.psv ->> PERMEABILIDAD...............: FALTA!
+dss_la_lonja.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_la_lonja.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_la_lonja.psv ->> HORIZONTE->NOMBRE(S)........: Ap | ACca | Cca
+dss_la_lonja.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-22 | 22-46 | 46a+
+dss_la_lonja.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 4,48 | - | 
+dss_la_lonja.psv ->> HORIZONTE->CARBONO ORGÁN.(%): - | - | 
+dss_la_lonja.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,28 | - | 
+dss_la_lonja.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - | 
+dss_la_lonja.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15,3 | 19,2 | 15,3
+dss_la_lonja.psv ->> HORIZONTE->LIMO 2-50 (%)....: 54,7 | 56,3 | 55,5
+dss_la_lonja.psv ->> HORIZONTE->ARENA (%)........: 27,8 | 22,1 | 27,5
+dss_la_lonja.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 9,4 | 9,3
+dss_la_lonja.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): - | - | 
+dss_la_lonja.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_la_lonja.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,5 | 8,0 | 8,1
+dss_la_lonja.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13,8 | - | 
+dss_la_lonja.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3,9 | - | 
+dss_la_lonja.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3 | 0,3 | 0,3
+dss_la_lonja.psv ->> HORIZONTE->CI ME/100G-K +...: 0,5 | 0,2 | 0,4
+dss_la_lonja.psv ->> HORIZONTE->CI ME/100G-H +...: 0,6 | - | 
+dss_la_lonja.psv ->> HORIZONTE->SUM.B. ME/100G(S): - | - | 
+dss_la_lonja.psv ->> HORIZONTE->CIC ME/100G(T)...: 19,1 | 22,0 | 16,1
+dss_la_lonja.psv ->> HORIZONTE->SAT.B % (S/T)....: 97 | - | 

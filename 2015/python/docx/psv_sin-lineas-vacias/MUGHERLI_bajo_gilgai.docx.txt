@@ -1,0 +1,231 @@
+--------------------------------------------------------------------------------
+SERIE MUGHERLI - bajo gilgai Símbolo: Mgh
+Pertenece a la familia "fina, montmorillonítica, neutra, térmica" de los Peludertes argicos (Vertisol con B2 textural, denso).
+Son suelos profundos. Con algo de arena fina y muy fina en todo el perfil, inherente al material originario.
+Muestra un gilgai lineal grueso muy bien desarrollado en la fotografía aérea; se observa el movimiento en masa dentro del perfil ("churning"), especialmente en el B22t.
+Es de color negro desde superficie y chorreaduras rellenas de material superior, hasta el metro de profundidad.
+Perfil tipo: ER-EEA C. del Uruguay
+Fecha: 1973 y 2003.
+Ubicación: Estancia Mugherli (foto IR 123-35) - Dpto. Uruguay
+Reconocedores: N E. Hein; M.F.Purnell (Serie Técnica Nº 43, EERA Paraná, 1974); H.A.Tasi; L.O. López (2003).
+Descripción del perfil del bajo gilgai
+A11: 0-10 cm. Negro (10 YR 2/1) en húmedo y gris muy oscuro (10 YR 3/1) en seco; arcilloso; bloques subangulares finos moderados, duro, muy firme, muy plástico y adhesivo; algunas pequeñas concreciones de Ca; abundantes raíces; pH 6,6; límite claro horizontal.
+A12: 10-20 cm. Negro (10 YR 2/1) en húmedo y negro también (10 YR 2/1) en seco; arcilloso; bloques subangulares finos, moderados; muy duro, muy firme, muy plástico y adhesivo; no reacciona al ácido; abundantes raíces; pH 6,5; límite claro horizontal.
+B21: 20-60 cm. Negro (10 YR 2/1) en húmedo y negro también (10 YR 2/1) en seco; arcilloso, bloques angulares, medios y finos; fuerte; con caras de fricción (slickensides), pequeños, comunes; duro, muy firme, muy plástico y adhesivo, algunos cutans; raíces frecuentes; pH 7,0; límite gradual horizontal.
+B22: 60-95 cm. Negro (10 YR 2/1) en húmedo y gris muy oscuro (10 YR 3/1) en seco; arcilloso; bloques angulares medios rompiéndose a finos; fuerte, con muchas caras de fricción (slickensides) y paralelepípedos; muchos cutans o caras de presión; concreciones de Ca escasas, finas y medianas; la masa de suelo reacciona con ácidos; raíces comunes; pH 7,9; límite gradual horizontal.
+C1: 95-135 cm. Pardo (10 YR 5/3); arcilloso; moteados comunes pardos, oscuros medios; bloques angulares medios a gruesos, fuertes, con algunas caras de fricción (slickensides) y caras de presión; concreciones de Ca pequeñas y muy grandes, comunes; la masa del suelo reacciona ampliamente con el ácido; pocas raíces; algo de material negro de arriba traído a lo largo de las grietas y canales de raíces; pH 8,0; límite gradual horizontal.
+C2: 135-200 cm. Pardo (10 YR 5/3); moteado pardo grisáceo (2,5 Y 5/2) y pardos oscuros comunes; arcilloso; bloques grandes y medios, muy fuertes, con caras de fricción (slickensides) muy grandes y muy marcados y caras de presión brillantes (cutans); concreciones de Ca grandes, comunes y concreciones de Mn, pequeñas, escasas; pocas raíces siguiendo las grietas; pH 7,9; límite difuso.
+C3: 220-300 cm. Pardo; arcillo-limoso; no cálcico; pH 7. Con barreno.
+C4: 300-330 cm. Pardo; arcillo-limoso; no cálcico; pH 7,6. Con barreno.
+Variabilidad de rasgos
+El sólum varía entre 70-80 cm de espesor. El epipedón está compuesto por un horizonte A11+A12, generalmente profundo (+ de 22 cm), que por su porcentaje de arcilla desde superficie (+ de 45 %) lo excluyen de los epipedones mólicos. Es de color oscuro y su textura es arcillo-limoso a arcilloso.
+El horizonte argílico es de estructura prismática. Las características vérticas están mejor expresadas en el B21t donde aumenta el porcentaje de arcilla, con tenores entre 50-52% y se hace notable la presencia del movimiento en masa ("churning").
+Los carbonatos se presentan en concreciones duras a partir de los 60 cm.
+Fases
+No se han establecido a este nivel de reconocimiento.
+Series similares y sus diferencias
+Esta serie es semejante a la serie Urquiza, pero con formación de gilgai lineal, por lo cual se describen los perfiles del alto y bajo gilgai. En la serie Mugherli la diferencia más notable es que en algunos "bancos" o parte alta del gilgai se encuentran concreciones de calcio en la superficie y el pH es cercano a 8,0; mientras que en las depresiones el pH superficial es de 6,0 a 7,0.
+Drenaje
+Moderada a imperfectamente drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+En campos de uso agrícola, especialmente soja, generalmente tienen erosión hídrica en grados moderado a severo.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Mugherli (Descripción del perfil del bajo gilgai)
+ER-EEA C. del Uruguay
+Horizonte
+ A11
+ A12
+ B21
+ B22
+ C1
+ C2
+Profundidad (cm)
+ 0-10
+ 10-20
+ 20-60
+ 60-95
+ 95-135
+ 135-200
+Mat.orgánica (%)
+ 5,22
+ 4,04
+ 2,83
+ 1,54
+ 0,34
+ 0,12
+C (%)
+ 3,04
+ 2,35
+ 1,65
+ 0,98
+ 0,20
+ 0,10
+N (%)
+ 0,247
+ 0,195
+ 0,103
+ 0,060
+C/N
+ 12
+ 12
+ 16
+ 16
+T <2
+ 46,2
+ 43,3
+ 42,9
+ 41,6
+ 47,6
+ 48,3
+E 2-20
+ 24,9
+ 25,7
+ 30,3
+ 33,4
+ 36,8
+ 38,6
+X 2-50
+ 43,1
+ 44,8
+ 45,9
+ 45,2
+ 47,8
+ 47,7
+T 50-100
+ 5,5
+ 5,8
+ 4,3
+ 2,1
+ 1,0
+ 0,9
+U 100-500
+ 4,1
+ 4,4
+ 3,1
+ 1,5
+ 1,1
+ 1,1
+R 500-1000
+ 1,1
+ 1,7
+ 1,5
+ 0,6
+ 1,0
+ 1,5
+A 1000-2000
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+CO3Ca (%)
+ 0
+ 0
+ 2,3
+ 9,0
+ 1,5
+ 0,5
+pH H2O
+ 7,4
+ 7,2
+ 8,5
+ 8,9
+ 8,9
+ 8,7
+pH ClK
+ 6,1
+ 5,9
+ 6,9
+ 7,1
+ 7,0
+ 6,5
+Resistencia en pasta
+Ohms
+ 1006
+ 1195
+ 975
+ 912
+ 787
+ 848
+Conductividad eléctrica mmhos/cm
+ 0,89
+ 0,72
+ 0,56
+ 0,50
+ 0,72
+ 0,50
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 46,2
+ 44,6
+ 53,8
+ 48,4
+ 54,8
+ 51,1
+D
+Ca++
+ 38,6
+ 37,9
+C
+E
+a
+Mg++
+ 5,9
+ 5,4
+t
+C
+i
+A
+K+
+ 0,8
+ 0,5
+ 0,6
+ 0,3
+ 0,4
+ 0,6
+o
+m
+n
+B
+Na+
+ 0,7
+ 0,7
+ 1,3
+ 2,5
+ 2,6
+ 3,3
+e
+I
+s
+O
+H+
+%Na/T
+ -
+ -
+ -
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 39,8
+ 38,2
+ 49,4
+ 61,7
+ 73,1
+ 57,7
+Factor de
+Humedad
+ 1,09
+ 1,09
+ 1,12
+ 1,12
+ 1,14
+ 1,14
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -
+ -
+ -

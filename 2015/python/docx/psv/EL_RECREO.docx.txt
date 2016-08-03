@@ -1,0 +1,331 @@
+
+--------------------------------------------------------------------------------
+SERIE EL RECREO Símbolo: ERec
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos .
+Suelos imperfectamente drenados, con epipedón arcillo-limoso y de colores oscuros.
+El calcáreo aparece a los 70-75 cm de profundidad.
+
+Suelos desarrollados en materiales arcillo-limosos (limos calcáreos).
+
+
+Perfil tipo: ER6-50C
+Fecha: 25-II-92
+Ubicación: Ea. San Pablito (foto IR 438-22) - Dto. Don Cristobal. Dpto. Nogoyá.
+Reconocedores: H. A. Tasi; L.O.López.
+
+
+Ap: 00-20 cm; gris muy oscuro (10YR 3/1) en húmedo, pardo grisáceo (10YR 5/2) en seco; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; extremadamente duro en seco, firme en húmedo; barnices ("clay-humic skins") escasos y ("humic skins") escasos; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B21t: 20-47-cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares y angulares irregulares, medios, moderados; extremadamente duro en seco y firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes, finas e intersectadas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, finos y débiles; límite gradual, ondulado.
+
+B22t: 47-71 cm; gris muy oscuro (10YR 3/21 en húmedo; arcilloso; estructura en prismas compuestos irregulares medio, débiles que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; firme en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") abundantes, medias e intersectadas; concreciones calcáreas escasas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, ondulado.
+
+B23t: 71-96 cm; gris muy oscuro (10YR 3/1,5) en húmedo; arcilloso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, débiles; firme en húmedo; barnices ("clay-humic skins"), escasos a comunes; caras de fricción ("slickensides") escasas a comunes, no intersectadas; concreciones calcáres, escasas; concreciones ferromanganesíferas comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B3ca: 96-140 cm; pardo (7,5YR 5/2) en húmedo; arcilloso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques angulares irregulares, medios, débiles; firme en húmedo; caras de fricción ("slickensides") comunes a abundantes, gruesas no intersectadas; comunes carbonatos libres en la masa; concreciones calcáreas escasas; concreciones ferromanganesíferas comunes; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, suave.
+Cca: 140 cm+; abigarrado en húmedo; arcillo-limoso; masivo; friable en húmedo; caras de friccón ("slickensides") escasas; abundantes carbonatos libres en la masa; concreciones calcáreas comunes, finas; presencia de pseudogley.
+
+
+Variabilidad de rasgos
+
+El sólum varía entre 130-140 cm de profundidad. El epipedón está compuesto por un horizonte A1 de 20-22 cm de espesor, de color gris oscuro y 4-4,5 % de matera orgánica..
+
+El horizonte argílico de textura arcillosa y presencia de calcáreo a partir del horizonte B22 (50 cm aproximadamente de profundidad). En el B3, también arcilloso, aumenta considerablemente la cantidad de calcáreo. Tiene 40-45 cm de espesor y 45-47 % de arcilla. El calcáreo aparece a los 60-65 cm aumentando considerablemente en profundidad.
+
+
+Fases
+
+Severamente erosionada (símbolo ERec h3).
+
+
+Drenaje
+
+Imperfectamente drenado; Escurrimiento superficial muy lento. Permeabilidad muy lenta. Capa freática profunda.. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie El Recreo no tiene erosión cuando está situada en la pleniplanicie muy suavemente ondulada a plana, pero donde el terreno adquiere mayor pendiente el proceso erosivo se presenta en grado severo.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Recreo
+
+ER6-50C
+
+
+
+
+
+
+N° de registro
+ 6281
+ 6282
+ 6283
+ 6284
+ 6285
+ 6286
+Horizonte
+ Ap
+ B21t
+ B22t
+ B23t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-16
+ 27-40
+ 50-60
+ 80-90
+ 100-120
+ 140-170
+Mat.organica (%)
+ 4.18
+ 2.06
+ 0.99
+ 0.67
+ 0.30
+ 0.22
+N (%)
+ 0.161
+ 0.090
+ 0.046
+ 0.035
+ 0.024
+ 0.020
+C/N
+ 18
+ 13
+ 13
+ 11
+ 7
+ 6
+
+T <2
+
+ 40.40
+
+ 54.87
+
+ 59.18
+
+ 59.00
+
+ 58.38
+
+ 57.30
+E 2-20
+ 36.28
+ 29.52
+ 23.33
+ 28.75
+ 25.24
+ 29.92
+X 2-50
+ 57.89
+ 43.55
+ 39.33
+ 39.29
+ 39.10
+ 41.08
+T 50-100
+ 0.58
+ 0.92
+ 0.51
+ 0.47
+ 1.28
+ 0.49
+U 100-500
+ 1.11
+ 0.35
+ 0.95
+ 1.18
+ 0.40
+ 1.10
+R 500-1000
+ 0.02
+ 0.01
+ 0.03
+ 0.06
+ 0.03
+ 0.03
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ 1.33
+ 1.38
+ 13.90
+ 4.50
+pH H2O
+ 6.0
+ 7.4
+ 8.3
+ 8.4
+ 8.4
+ 8.3
+pH ClK
+ 5.0
+ 6.1
+ 6.7
+ 6.9
+ 6.9
+ 7.0
+Conductividad eléctrica mmhos/cm
+
+
+ 0.500
+
+ 0.485
+
+ 0.616
+
+ 0.616
+
+ 0.539
+
+ 0.519
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+
+ 42.46
+
+
+ 54.60
+
+
+ 58.46
+
+
+ 58.10
+
+
+ 56.34
+
+
+ 54.87
+
+D
+Ca++
+ 30.21
+ 45.13
+ 48.03
+ 46.72
+ -
+ -
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 2.20
+ 3.28
+ 4.40
+ 5.20
+ -
+ -
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 1.97
+ 1.40
+ 1.82
+ 1.96
+ 1.04
+ 1.12
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 1.69
+ 2.60
+ 3.75
+ 3.98
+ 4.02
+ 4.25
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+
+
+
+
+
+
+% Na/T
+ 3.98
+ 4.76
+ 6.41
+ 6.85
+ 7.13
+ 7.75
+Equivalente de humedad (%)
+
+ 36.45
+
+ 59.35
+
+ 63.27
+
+ 61.48
+
+ 55.79
+
+ 50.14
+
+P. asimilable ppm
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+

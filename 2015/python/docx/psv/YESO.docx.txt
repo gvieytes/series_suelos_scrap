@@ -1,0 +1,270 @@
+
+--------------------------------------------------------------------------------
+SERIE YESO					 	 Símbolo: Ye
+
+
+Pertenece a la familia "arcillosa fina, montmorillonítica, no calcárea, térmica" de los Argiacuoles vérticos.
+
+Son suelos oscuros e imperfectamente drenados desarrollados sobre materiales limos loessoides que se ubican en pequeños sectores de la terraza alta e intermedia del arroyo Feliciano. Son áreas planas que se encharcan después de lluvias moderadas y presentan un escurrimiento lento y baja permeabilidad.
+
+
+Perfil tipo: ER3-62C
+Fecha: -
+Ubicación: 7 km al S de la ciudad de Feliciano - Dpto. Feliciano
+Reconocedores: R.E. Kleinerman - G.W. van Barneveld
+
+
+A1: 00-18 cm.; gris muy oscuro (10 YR 3/1) en húmedo; estructura en bloques subangulares y angulares medios moderados; algo de agregados granulares; friable en húmedo; ligeramente plástico, adhesivo; escasas concreciones de hierro y manganeso, muy finas; barnices ("humic skins") escasos; moteados de hierro y manganeso comunes, finos y precisos; límite claro, suave.
+
+A3: 18-32 cm.; gris muy oscuro (10 YR 3/1) en húmedo; estructura en bloques subangulares y angulares irregulares medios moderados; friable en húmedo; ligeramente plástico y adhesivo; concreciones de hierro y manganeso comunes, finas; moteados de hierro y manganeso comunes a abundantes, medios y precisos; horizonte muy lixiviado; límite abrupto, suave.
+
+B2: 32-63 cm.; negro (10 YR 2.5/1) en húmedo; firme en húmedo; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; concreciones de hierro y manganeso comunes, medias; caras de fricción ("slickensides") comunes y poco intersectadas; moteados de hierro y manganeso escasos, finos y precisos; límite gradual suave.
+
+B31ca: 63-90 cm.; pardo oscuro (7.5 YR 4/2) en húmedo; firme en húmedo; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; plástico y adhesivo; concreciones de hierro y manganeso abundantes, medias y gruesas; concreciones calcáreas comunes, gruesas, duras y semiduras; caras de fricción ("slickensides") abundantes poco intersectadas; moteados de hierro y manganeso abundantes, medios y sobresalientes; horizonte parcialmente gleizado.
+
+B32ca: + 90 cm. (160); pardo (7.5 YR 5/4) en húmedo; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y agregados cuneiformes, medios, moderados; firme en húmedo; plástico y adhesivo; concreciones de hierro y manganeso comunes; concreciones calcáreas comunes; caras de fricción ("slickensides") abundantes, gruesas; moteados de hierro y manganeso comunes, medios y sobresalientes.
+
+
+
+
+Variabilidad de rasgos
+
+El epipedón franco limoso a franco arcillo limoso, varía entre 20 y 30 cm. su espesor. Tiene concreciones y moteados de hierro manganeso comunes. Se encuentra siempre lixiviado y se agrieta cuando seco. En algunos perfiles estudiados se encuentran horizontes A2.
+Subyace un B2 arcillo limoso, de espesor variable (35-70 cm.), con abundantes concreciones de hierro y manganeso y caras de fricción ("slickensides") en moderada cantidad, que no llegan a intersectarse. Es muy denso y poco permeable.
+El horizonte de transición B3, es cálcico con concreciones calcáreas gruesas, duras y semiduras. Casi siempre se encuentran gleizado o con síntomas de dicho proceso.
+El horizonte C se desarrolló sobre materiales limos loessoides (?) claros, gleizados y calcáreos.
+
+
+Fases
+
+No se describieron a escala de reconocimiento (1.100.000).
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento lento. Permeabilidad baja.
+
+
+Erosión
+
+La serie Yeso no presenta erosión actual y la susceptibilidad a la misma es leve.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Yeso
+
+ER3-62C
+
+
+
+
+
+Nº de registro
+ -
+ -
+ -
+ -
+ -
+Horizonte
+ A1
+ A3
+ B2
+ B31ca
+ B32ca
+Profundidad (cm)
+ 05-15
+ 18-30
+ 40-55
+ 70-82
+ 120-135
+Mat.organica (%)
+ 5.23
+ 2.48
+ 1.38
+ 0.55
+ -
+C (%)
+ 3.04
+ 1.44
+ 0.80
+ 0.32
+ -
+N (%)
+ 0.25
+ 0.12
+ 0.08
+ 0.04
+ -
+C/N
+ 12
+ 12
+ 10
+ 8
+ -
+
+T <2
+ 36.5
+ 39.4
+ 43.7
+ 48.5
+ 47.3
+E 2-20
+ 37.3
+ 38.4
+ 30.1
+ 27.8
+ 25.9
+X 2-50
+ 61.2
+ 58.0
+ 54.3
+ 50.0
+ 51.3
+T 50-100
+ 0.5
+ 0.7
+ 0.4
+ 0.2
+ 0.3
+U 100-250
+ 1.2
+ 1.5
+ 1.0
+ 0.7
+ 0.6
+R 250-500
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.6
+ 0.7
+ 0.6
+ 0.4
+ 0.4
+
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+pH H2O
+ 6.1
+ 6.4
+ 6.9
+ 7.9
+ 8.0
+pH ClK
+ 5.6
+ 5.8
+ 6.1
+ 7.6
+ 7.6
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 22.8
+ 25.6
+ 37.4
+ 44.0
+ 40.9
+
+D
+Ca++
+ 16.1
+ 17.4
+ 26.4
+ 31.0
+ 29.6
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 1.4
+ 1.4
+ 2.4
+ 3.0
+ 3.5
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.2
+ 0.2
+ 0.3
+ 0.3
+ 0.2
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 1.9
+ 2.6
+ 3.1
+ 3.6
+ 3.0
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 3.2
+ 4.0
+ -
+ -
+ -
+
+
+
+
+
+
+
+
+% Na/T
+
+ 8.3
+ 10.2
+ 8.3
+ 8.2
+ 7.3
+
+Equivalente de humedad (%)
+ 34.3
+ 30.3
+ 43.2
+ 49.2
+ 45.4
+

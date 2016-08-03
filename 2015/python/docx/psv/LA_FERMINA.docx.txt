@@ -1,0 +1,335 @@
+
+--------------------------------------------------------------------------------
+SERIE LA FERMINA Símbolo: LFe
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles típicos.
+Son suelos desarrollados en loess con abundantes carbonatos cuyos perfiles son profundos, moderadamente bien drenados, con epipedón oscuro y de textura franco-arcillo limosa a arcillo-limosa.
+
+
+Perfil tipo: ER1-76C
+Fecha: 23-IX-1992
+Ubicación: Ea. María Teresa (foto IR 417-49) - Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-19 cm; pardo oscuro (10YR 3/3) en húmedo, pardo grisáceo oscuro (10YR 4/2) en seco; franco-limoso; estructura granular y en bloques subangulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") escasos a comunes; arena muy fina en las caras de los agregados; límite claro, suave.
+
+A12: 19-38 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; ligeramente duro en seco, muy friable em húmedo; barnices ("humic skins") abundantes; arena muy fina en las caras de los agregados; límite abrupto, suave.
+
+B21t: 38-58 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques angulares irregulares medios, moderados; muy duro en seco, firme en húmedo; barnices ("clay-humic skins") comunes a abundantes; caras de fricción ("slickensides") escasas y finas; límite claro, ondulado.
+
+B22t: 58-80 cm; pardo oscuro (10YR 3,5/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, medios, que rompen en bloques angulares irregulares, gruesos y fuertes; muy duro en seco, muy firme en húmedo; barnices ("clay-humic skins") comunes a abundantes; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, ondulados.
+
+B3: 80-130 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay-humic skins") comunes a abundantes; moteados de hierro-manganeso comunes, finos y débiles; límite difuso, ondulado.
+
+Cca: 130 cm+; pardo (7,5YR 5/4) en húmedo; franco-arcillo-limoso; masivo; ligeramente duro en seco, friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones de carbonatos escasas y finas; moteados de hierro-manganeso abundantes, finos y precisos.
+
+
+
+
+
+Variabilidad de rasgos
+
+El solum varía de 90-110 cm. El epipedón mólico tiene un espesor de 35-40 cm e incluye horizontes A11 y A12, a veces localmente también un A3; es de color pardo oscuro (10YR 3/3) y está muy bien estructurado. El horizonte argílico, de estructura prismática y de color pardo grisáceo a pardo oscuro (10YR 3.5/3), tiene un espesor de 35-40 cm y posee entre 40-43% de arcilla.
+
+El calcáreo es abundante en la masa y escaso en concreciones finas; aparece en el horizonte C entre los 120-130 cm de profundidad.
+
+El color del horizonte C es uniformemente pardo (7,5YR 5/4) y tiene alrededor de 35% de arcilla.
+
+
+Fases
+
+Existen fases por erosión a escalas detalladas, pero no fueron diferenciadas a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Cuatro Manos, del Dpto. Gualeguay, pero ésta se desarrolló en materiales libre de carbonatos. Se parece también a la serie La Emiliana, pero ésta presenta concreciones de carbonatos a partir del horizonte B3 y, además, está ubicada fisiográficamente en una posición distinta, en pendientes mucho más suave que, ocasionalmente, alcanzan un gradiente de 1%. La serie La Fermina se encuentra generalmente asociada a la serie Arroyo Animal.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie La Fermina muestra una erosión actual leve a moderada. El suelo corre gran peligro de erosión en surcos y cárcavas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Fermina
+
+ER1-76C
+Nº de registro
+ 6.969
+ 6.970
+ 6.971
+ 6.972
+ 6.973
+ 6.974
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 02-16
+ 21-32
+ 40-55
+ 62-80
+ 100-122
+ 145-165
+Mat.organica (%)
+ 4.38
+ 2.99
+ 1.26
+ 1.05
+ 0.23
+ 0.22
+N (%)
+ 0.22
+ 0.14
+ 0.08
+ 0.06
+ 0.04
+ 0.04
+C/N
+ 10.71
+ 4.64
+ 8.83
+ 9.18
+ 3.16
+ 3.24
+
+T < 2 u
+
+ 26.67
+
+ 28.91
+
+ 43.29
+
+ 42.24
+
+ 36.44
+
+ 36.99
+E 2-20 u
+ 30.23
+ 29.89
+ 37.55
+ 35.15
+ 32.00
+ 32.50
+X 2-50 u
+ 62.53
+ 64.33
+ 50.97
+ 52.37
+ 57.58
+ 57.27
+T 50-100 u
+ 8.25
+ 4.13
+ 2.19
+ 2.28
+ 2.45
+ 2.01
+U 100-500 u
+ 2.54
+ 2.62
+ 3.46
+ 3.09
+ 3.52
+ 3.30
+R 500-1000 u
+ 0.01
+ 0.01
+ 0.09
+ 0.02
+ 0.01
+ 0.43
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 6.16
+pH H2O
+ 5.9
+ 6.0
+ 6.4
+ 6.8
+ 7.2
+ 8.0
+pH ClK
+ 4.8
+ 5.1
+ 5.6
+ 5.9
+ 6.4
+ 7.2
+C.E. (mmhos/cm)
+ 0.64
+ 0.32
+ 0.35
+ 0.38
+ 0.30
+ 0.80
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+
+ 18.00
+
+
+
+ 20.60
+
+
+
+ 25.15
+
+
+
+ 35.70
+
+
+
+ 36.10
+
+
+
+ 36.80
+
+
+
+
+
+
+
+
+d
+Ca++
+ 12.80
+ 12.20
+ 18.80
+ 28.80
+ 28.80
+ 29.80
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 2.70
+ 3.00
+ 3.50
+ 4.60
+ 4.60
+ 5.20
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.25
+ 1.04
+ 1.35
+ 1.60
+ 1.61
+ 0.95
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.40
+ 0.40
+ 0.57
+ 0.59
+ 0.57
+ 0.70
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+% Na/T
+
+ 2.23
+
+ 1.94
+
+ 2.27
+
+ 1.65
+
+ 1.58
+
+ 1.90
+Equivalente de humedad (%)
+ 26.62
+ 27.10
+ 40.01
+ 40.64
+ 34.72
+ 34.98
+

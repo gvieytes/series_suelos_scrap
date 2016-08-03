@@ -1,0 +1,273 @@
+
+--------------------------------------------------------------------------------
+SERIE CHIMANGO Símbolo: Chi
+
+
+Pertenece a la familia "fina, mixta neutra, térmica" de los Ocracualfes tapto argiudólicos.
+Suelos imperfecta a moderadamente bien drenados con un epipedón muy eluviado y degradado con un B2 textural de 30 cm de espesor, que se han desarrollados sobre materiales limo-loessoides calcáreos retransportados.
+
+
+Perfil tipo: ER1-46C
+Fecha: 11-X-1972
+Ubicación: Estancia "La Luisa" (foto IR 453-32) - Dpto. Paraná.
+Reconocedores: O.A.Foti; G.W. van Barneveld.
+
+
+A2: 00-18 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo, gris pardusco claro (10YR 6/2) en seco; franco-limoso; estructura en bloques angulares irregulares, medios, débiles, con tendencia a masivo; extremadamente duro seco, firme en húmedo; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B2t: 18-50 cm; gris muy oscuro (10YR 3,5/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, moderados y bloques subangulares medios, moderados; friable en húmedo; barnices ("clay skins") comunes, medios; concreciones ferromanganesíferas escasas, finas; concreciones calcáreas escasas, finas; moteados de hierro-manganeso escasos, finas y débiles; presencia de carbón vegetal y otros materiales de arrastre; límite claro, suave.
+
+A1b: 50-65 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y granular medios, moderados; friable en húmedo; barnices ("humic skins") escasos y ("clay-humic skins") escasos y finos; límite claro, suave.
+
+B2tb: 65-87 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; barnices ("clay skins") escasos, finos; caras de fricción ("slickensides") escasas, finas e intersectadas; moteados de hierro-manganeso comunes, finos y precisos; presencia de materiales de horizontes superiores; límite claro, suave.
+
+B3cab: 87 cm +; pardo a pardo oscuro (10YR 4/3); franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, de hasta 1 cm; barnices comunes y finos (en parte inherentes al material); caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+
+Variabilidad de rasgos
+
+El solum posee más de 120 cm de espesor. El epipedón ócrico varía entre 15-25 cm; está eluviado y degradado, con una estructura de bloques débiles. El límite con el horizonte argílico es siempre abrupto, y en algunos perfiles es posible encontrar pequeñas lenguas del horizonte A2 que penetran en el B2t.
+
+El horizonte B2t posee una estructura de prismas compuestos irregulares con caras de fricción ("slickensides") escasas y finas.
+
+Las concreciones calcáreas aparecen a los 85-90 cm de profundidad en forma abundante.
+
+
+Fases
+
+Anegadiza (símbolo: Chi.a2)	
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática poco profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Chimango no tiene erosión actual ni presenta peligro a la misma. En sectores más bajos puede haber anegamiento temporario (fase anegadiza).
+	
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Chimango
+
+ER1-46C
+
+
+
+
+
+Nº de registro
+ 944
+ 945
+ 946
+ 947
+ 948
+Horizonte
+ A2
+ B2t
+ A1b
+ B2tb
+ B3cab
+Profundidad (cm)
+ 00-15
+ 29-43
+ 50-65
+ 75-87
+ 103-115
+Mat.organica (%)
+ 1.19
+ 1.76
+ 2.78
+ 1.45
+ 0.71
+N (%)
+ 0.14
+ 0.14
+ 0.16
+ 0.10
+ 0.05
+C/N
+ 9
+ 7
+ 10
+ 8
+ 7
+
+T
+
+ <2 u
+
+ 20.8
+
+ 31.5
+
+ 27.9
+
+ 41.0
+
+ 30.2
+E
+ 2-20 u
+ 20.3
+ 30.5
+ 29.5
+ 22.3
+ 20.6
+X
+ 2-50 u
+ 75.0
+ 67.1
+ 68.7
+ 57.1
+ 67.8
+T
+ 50-100 u
+ 2.8
+ 0.9
+ 2.2
+ 1.2
+ 1.4
+U
+ 100-250 u
+ 1.0
+ 0.4
+ 0.8
+ 0.4
+ 0.4
+R
+ 250-500 u
+ 0.4
+ 0.1
+ 0.4
+ 0.3
+ 0.2
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+
+
+
+
+
+CO3Ca (%)
+ 0.4
+ 0.0
+ 0.0
+ 0.0
+ 5.1
+pH H2O
+ 7.4
+ 7.4
+ 7.2
+ 7.5
+ 8.0
+pH ClK
+ 6.6
+ 6.4
+ 6.3
+ 6.4
+ 6.9
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+ 32.8
+
+
+ 39.2
+
+
+ 35.9
+
+
+ 43.0
+
+
+ 35.4
+
+
+
+
+
+
+ d Ca ++
+ -
+ 34.1
+ 31.9
+ 37.2
+ -
+C e
+
+
+
+
+
+Mg++
+ -
+ 1.7
+ 1.3
+ 2.6
+ -
+t C
+
+
+
+
+
+i a K+
+ 1.0
+ 1.0
+ 0.6
+ 0.8
+ 0.7
+o m
+
+
+
+
+
+n b Na+
+ 0.4
+ 0.2
+ 0.2
+ 0.3
+ 0.8
+e i
+
+
+
+
+
+s o H+
+ -
+ 2.2
+ 3.2
+ 2.2
+ -
+% Na/T
+ 1.2
+ 0.5
+ 0.6
+ 0.7
+ 2.3
+
+Equivalente de humedad (%)
+
+ 26.5
+
+ 35.0
+
+ 31.3
+
+ 42.5
+
+ 34.3
+

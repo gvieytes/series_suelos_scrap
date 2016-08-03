@@ -1,0 +1,340 @@
+
+--------------------------------------------------------------------------------
+SERIE CUATRO MANOS							 Símbolo: CMa
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles típicos.
+Son suelos desarrollados en loess descalcificado, de textura franco-arcillo-limosa, de colores pardos, profundos, moderadamente bien drenados, con un epipedón oscuro de textura franco-limosa seguido de un horizonte argílico, oscuro y arcillo-limoso.
+
+
+Perfil tipo: ER1-74C
+Fecha: 27-VIII-1992
+Ubicación: Ea. Las Cabezas (foto IR 411-30) - Dpto. Gualeguay
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+Ap: 00-16 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, pardo (10YR 4.5/3) en seco; franco-limoso; estructura granular y en bloques subangulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; límite abrupto, suave.
+
+A12: 16-31 cm; pardo grisáceo muy oscuro a pardo muy oscuro (10YR 3.5/2) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") abundantes; límite claro, suave.
+
+B1: 31-42 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay-humic skins") comunes; límite abrupto, suave.
+
+B21t: 42-63 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B22t: 63-88 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares con tendencia cuneiformes medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes, medias a gruesas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B3: 88-120 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite difuso, suave.
+
+C: 120 cm+; pardo (7.5YR 4.5/4); franco-arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco, friable en húmedo; moteados de hierro-manganeso escasos, finos y débiles.
+
+
+
+Variabilidad de rasgos
+
+El solum varía de 100-120 cm. El epipedón mólico tiene un espesor de 30-40 cm e incluye los horizontes A1 y B1 (ocasionalmente, un A3 reemplaza al B1). La estructura del horizonte A varía de granular a bloques subangulares, y su porcentaje de arcilla entre 20-25%.
+
+El B2, argílico, de estructura prismática compuesta, tiene un espesor de 40-50 cm y posee un 35-40% de arcilla. Cuando seco, se agrieta levemente y presenta comunes y finas caras de fricción ("slickensides"). Los moteados de hierro y manganeso son de tamaño fino y se presentan a partir de los 50 cm, aproximadamente.
+
+El horizonte C, con 30-34% de arcilla, tiene un color que varía de pardo a pardo oscuro, con escasos moteados. No contiene carbonatos en la masa ni en forma de concreciones.
+
+
+Fases
+
+No se determinaron fases a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie La Fermina (pero ésta tiene carbonatos en el perfil) y a la serie El Supremo (que, si bien tampoco no tiene carbonatos, es algo más hidromórfica y tiene moteados desde la superficie).
+
+
+Drenaje
+
+Moderadamente bien drenado a bien drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Cuatro Manos tiene una erosión hídrica actual leve, pero es moderadamente susceptible a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Cuatro Manos
+
+ER1-74C
+
+
+
+
+
+
+
+Nº de registro
+ 6628
+ 6629
+ 6630
+ 6631
+ 6632
+ 6633
+ 6634
+Horizonte
+ Ap
+ A12
+ B1
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 03-14
+ 18-27
+ 32-40
+ 45-60
+ 66-82
+ 98-110
+ 130-150
+Mat.organica (%)
+ 4.25
+ 3.41
+ 1.68
+ 1.33
+ 0.96
+ 0.37
+ 0.31
+N (%)
+ 0.20
+ 0.18
+ 0.10
+ 0.06
+ 0.05
+ 0.04
+ 0.03
+C/N
+ 12
+ 11
+ 9
+ 12
+ 9
+ 5
+ 5
+
+T < 2 μ
+ 24.08
+ 25.13
+ 30.12
+ 42.27
+ 40.55
+ 31.92
+ 34.36
+E 2-20 μ
+ 42.15
+ 35.96
+ 31.57
+ 25.11
+ 26.49
+ 34.43
+ 30.22
+X 2-50 μ
+ 64.95
+ 63.21
+ 56.30
+ 50.55
+ 50.78
+ 55.92
+ 57.60
+T 50-100 μ
+ 5.09
+ 6.09
+ 6.87
+ 4.00
+ 4.45
+ 3.18
+ 2.41
+U 100-500 μ
+ 5.75
+ 2.49
+ 3.22
+ 3.06
+ 4.03
+ 5.48
+ 5.54
+R 500-1000 μ
+ 0.13
+ 0.08
+ 3.49
+ 0.12
+ 0.19
+ 3.50
+ 0.09
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+pH H2O
+ 5.8
+ 5.5
+ 5.5
+ 5.9
+ 6.3
+ 6.4
+ 6.4
+pH ClK
+ 4.9
+ 4.8
+ 4.9
+ 5.0
+ 5.4
+ 5.5
+ 5.5
+CE (mmhos/cm)
+ 0.55
+ 0.20
+ 0.16
+ 0.18
+ 0.20
+ 0.24
+ 0.16
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 17.00
+ 20.10
+ 14.60
+ 28.00
+ 28.60
+ 25.90
+ 24.10
+ d Ca++
+ 12.60
+ 13.80
+ 10.80
+ 20.00
+ 20.20
+ 18.20
+ 18.00
+C e
+
+
+
+
+
+
+
+Mg++
+ 2.90
+ 3.10
+ 2.10
+ 4.50
+ 4.60
+ 2.90
+ 3.60
+t c
+
+
+
+
+
+
+
+i a K+
+ 1.59
+ 1.63
+ 0.67
+ 1.80
+ 1.80
+ 1.74
+ 1.70
+o m
+
+
+
+
+
+
+
+n b Na+
+ 0.50
+ 0.60
+ 0.20
+ 0.70
+ 0.80
+ 0.60
+ 0.60
+e i
+
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+
+% Na/T
+ 2.94
+ 2.98
+ 1.37
+ 2.50
+ 2.80
+ 2.32
+ 2.49
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 26.60
+ 26.02
+ 28.42
+ 39.91
+ 36.74
+ 32.82
+ 32.76
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+

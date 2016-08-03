@@ -1,0 +1,318 @@
+
+--------------------------------------------------------------------------------
+SERIE DON JAVIER Símbolo: DJr
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Hapludoles rendólicos.
+Son suelos poco profundos, moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso, y un horizonte B2 que no reúne las características para argílico, franco-arcillo-limoso, de color pardo oscuro.
+
+Presenta concreciones calcáreas y carbonatos libres en la masa prácticamente en todo el perfil. Son suelos desarrollados en materiales loessoides que se han depositado sobre materiales calcáreos consolidados muy antiguos (bancos de "tosca" calcárea de edad plioceno/pleistoceno).
+
+
+Perfil tipo: ER7-96C
+Fecha: 07-VI-1995.
+Ubicación: Estancia "San Francisco" (foto 425-104) - dto Hinojal - Dpto. Victoria
+Reconocedores: L.O. López; O.A. Foti.
+
+
+Ap: 00-22 cm; pardo grisáceo oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares y subangulares medios, moderados; muy duro en seco; firme en húmedo; barnices ("humic skins" y "clay humic skins"), escasos; carbonatos libres en la masa escasos; concreciones calcáreas escasas; moteados de hierro-manganeso comnunes, medios y precisos; límite gradual, ondulado.
+
+B21ca: 22-37 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares irregulares finos y débiles; friable en húmedo; barnices ("clay humic skins" y "clay skins"), escasos y medios; moteados de hierro- manganeso abundantes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; límite claro, suave.
+
+B22ca: 37-54 cm; pardo muy oscuro (10YR 4/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares irregulares medios, moderados; muy friable en húmedo; barnices ("humic skins") escasos, finos; moteados de hierro-manganeso comunes, finos y débiles; abundante cantidad de carbonatos libres en la masa; presencia de gastrópodos, posiblemente de los géneros Bulimus sp. o Scolodonta sp.; límite gradual, suave.
+
+C1ca: 54-107cm; pardo amarillento oscuro (10YR 4/4) en húmedo; franco-arcillo-limoso; estructura masiva; muy friable en húmedo; moteados de hierro y manganeso escasos, finos y débiles; abundante cantidad de miscelios de carbonato de calcio; límite abrupto, suave.
+
+C2ca: 107 cm+; pardo oscuro (7.5YR 4/4) en húmedo; estructuras masiva.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por la profundidad a la que aparece el material calcáreo consolidado ("tosca" calcárea).
+
+Este banco calcáreo aparece en el perfil a profundidades variables y, en muchos casos, aflora en superficie por efecto del proceso erosivo natural. Localmente, el material expuesto en algunas lomas y pendientes es afectado por el agua de escorrentía siendo redisuelto y transportado pendiente abajo donde es remezclado con el material del suelo, reapareciendo así en el perfil en forma de rodados calcáreos.
+
+Parte de los pedones que integran la serie pueden poseer un horizonte B2t argílico y, por lo tanto, deberían clasificarse como Argiudoles rendólicos. No obstante, y debido a la escala de mapeo utilizada, no ha sido posible considerar esta diferenciación al nivel de serie, siendo necesario establecer una "taxa adjunta" a la misma serie a los fines prácticos de uso y manejo.
+
+
+Fases
+
+No se han distinguido fases a la escala de reconocimiento (1:100.000).
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Siete Colinas (pero ésta tiene un perfil menos desarrollado y se ubica en un paisaje distinto) y a la Serie La Juanita, particularmente gran parte de los perfiles corresponden a la "taxa adjunta" Argiudol rendólico.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Don Javier tiene un grado de erosión hídrica actual muy variable a corta distancia, dependiendo, de la pendiente, de la presencia o ausencia del horizonte B2 y de la profundidad a la que aparece la tosca. En parte, la estabilidad del paisaje frente a la erosión (tanto natural como acelerada) está determinada por el control estructural que ejerce el banco calcáreo consolidado.
+
+Las pendientes normalmente cortas, la presencia de calcáreo en todo el perfil y el B2 poco desarrollado (o ausente) y la infiltración relativamente rápida, contribuyen a que el escurrimiento (sub)superficial no tenga mayormente potencialidad erosiva.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Don Javier
+
+ER7-96C
+
+
+
+
+
+N° de registro
+ 10.329
+ 10.330
+ 10.331
+ 10.332
+ 10.333
+Horizonte
+ A1
+ B21ca
+ B22ca
+ C1ca
+ C2ca
+Profundidad (cm)
+ 05-20
+ 25-32
+ 43-52
+ 70-90
+ 110-120
+Mat.organica (%)
+ 3.05
+ 1.78
+ 1.06
+ 0.92
+ 0.50
+N (%)
+ 0.16
+ 0.07
+ 0.05
+ 0.04
+ 0.02
+C/N
+ 11
+ 14
+ 12
+ 15
+ 13
+
+T < 2 u
+
+ 36.40
+
+ 36.75
+
+ 36.00
+
+ 33.69
+
+ 26.00
+E 2-20 u
+ 30.66
+ 29.76
+ 28.95
+ 29.96
+ 24.88
+X 2-50 u
+ 54.80
+ 55.99
+ 56.43
+ 58.12
+ 44.64
+T 50-100 u
+ 4.50
+ 3.81
+ 3.89
+ 3.96
+ 4.05
+U 100-250 u
+ 4.18
+ 3.30
+ 3.52
+ 3.99
+ 24.12
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.10
+ 0.13
+ 0.13
+ 0.20
+ 1.15
+ 1000-2000 u
+ 0.02
+ 0.02
+ 0.02
+ 0.04
+ 0.04
+
+CO3Ca (%)
+
+ 0.04
+
+ 4.4
+
+ 11
+
+ 9
+
+ 8
+pH H2O
+ 7.5
+ 7.7
+ 7.5
+ 7.5
+ 7.6
+pH ClK
+ 7.0
+ 7.2
+ 7.1
+ 7.1
+ 7.1
+Conductividad eléctrica mmhos/cm
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de
+interc. catiónico
+(m.e./100 g) = valor T
+
+
+
+ 34.22
+
+
+
+ 34.20
+
+
+
+ N.D.
+
+
+
+ N.D.
+
+
+
+ N.D.
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 24.00
+ 28.10
+ N.D.
+ N.D.
+ N.D.
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 5.61
+ 2.40
+ N.D.
+ N.D.
+ N.D.
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 2.00
+ 1.80
+ 1.50
+ 1.50
+ 2.00
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 2.16
+ 2.17
+ 2.72
+ 2.72
+ 2.37
+e
+i
+
+
+
+
+
+
+S
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+% Na/T
+ 6.31
+ 6.35
+ N.D.
+ N.D.
+ N.D.
+
+Equivalente de humedad (%)
+
+ 33.05
+
+ 33.35
+
+ 32.91
+
+ 31.71
+
+ 23.38
+Fósforo asimilable (ppm)
+ 2.78
+ 0.09
+ -
+ -
+ -
+

@@ -1,0 +1,40 @@
+dss_monte_alto.psv ->> ID..........................: 611
+dss_monte_alto.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_monte_alto.psv ->> SERIE.......................: MONTE ALTO (MteAlt)
+dss_monte_alto.psv ->> UBICACION...................: 5,9 Km al SSE de la localidad de Etruria
+dss_monte_alto.psv ->> PROVINCIA...................: CORDOBA
+dss_monte_alto.psv ->> LATITUD.....................: S315800
+dss_monte_alto.psv ->> LONGITUD....................: O631100
+dss_monte_alto.psv ->> ALTITUD.....................: 145
+dss_monte_alto.psv ->> PENDIENTE...................: FALTA!
+dss_monte_alto.psv ->> DRENAJE.....................: FALTA!
+dss_monte_alto.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_monte_alto.psv ->> PERMEABILIDAD...............: FALTA!
+dss_monte_alto.psv ->> TIPO DE SUELO...............: FRANCA FINA A GRUESA
+dss_monte_alto.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_monte_alto.psv ->> HORIZONTE->NOMBRE(S)........: ap | ac | c1 | c2ca
+dss_monte_alto.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-22 | 22-50 | 50--75 | 75a+
+dss_monte_alto.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.8 | 0.17 | - | 
+dss_monte_alto.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.6 | 0.1 | - | 
+dss_monte_alto.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.17 | 0.01 | - | 
+dss_monte_alto.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.4 | 10 | - | 
+dss_monte_alto.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18.0 | 15.8 | 12.9 | 12.3
+dss_monte_alto.psv ->> HORIZONTE->LIMO 2-50 (%)....: 55.2 | 55.9 | 54.7 | 54.3
+dss_monte_alto.psv ->> HORIZONTE->AMF 50-100 (%)...: 24.1 | 27.9 | 30.4 | 31.0
+dss_monte_alto.psv ->> HORIZONTE->AF 100-250 (%)...: 0.4 | 0.3 | 0.4 | 0.3
+dss_monte_alto.psv ->> HORIZONTE->AM 250-500 (%)...: 0 | 0 | 0.3 | 0
+dss_monte_alto.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.1 | - | 0.1 | 0.1
+dss_monte_alto.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 
+dss_monte_alto.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 0 | 0 | 3.1
+dss_monte_alto.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 20.9 | 18.1 | 16.0 | 14.9
+dss_monte_alto.psv ->> HORIZONTE->PH PASTA.........: 5.9 | 6.4 | 7.0 | 7.9
+dss_monte_alto.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.1 | 6.9 | 7.3 | 8.1
+dss_monte_alto.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8.5 | 9.9 | 10.4 | 	 
+dss_monte_alto.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.0 | 1.0 | 0.7 | 
+dss_monte_alto.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.2 | 0.2 | 0.5
+dss_monte_alto.psv ->> HORIZONTE->CI ME/100G-K +...: 2.1 | 1.7 | 1.2 | 1.8
+dss_monte_alto.psv ->> HORIZONTE->CI ME/100G-H ++..: 2.4 | 0.9 | 0.5 | 
+dss_monte_alto.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.4 | 1.5 | 1.6 | 4.3
+dss_monte_alto.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11.8 | 12.8 | 12.5 | 
+dss_monte_alto.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.5 | 13.8 | 13.0 | 11.6
+dss_monte_alto.psv ->> HORIZONTE->SAT.B % (S/T)....: 81 | 93 | 96 | 

@@ -1,0 +1,80 @@
+# -*- coding: utf-8 -*-
+
+# LISTAS
+listReg = ["N° de registro"]
+listHoriz = ["Horizonte"]
+listProfun = ["Profundidad (cm)"]
+listMatOrg = ["Mat.orgánica (%)"]
+listCPerc = ["C (%)"]
+listNPerc = ["N (%)"]
+listCN = ["C/N"]
+
+list2mu = ["<2 "]
+list2a20mu = ["2-20 "]
+list2a50mu = ["2-50 "]
+list50a100mu = ["50-100 "]
+list100a250mu = ["100-250 "]
+list250a500mu = ["250-500 "]
+list500a1000mu = ["500-1000 "]
+
+listCO3Ca = ["CO3Ca (%)"]
+listPhH2O = ["PH H2O"]
+listPhCIK = ["PH ClK"]
+
+listCondElec = ["Conductividad eléctrica mmhos/cm"]
+
+listCICvT = ["Valor T"]
+listCICa = ["Ca++"]
+listCIMg = ["Mg++"]
+listCIK = ["K+"]
+listCINa = ["Na+"]
+listCIH = ["H+"]
+
+listEqHum = ["Equivalente de humedad (%)"]
+
+listPPM = ["P disponible (ppm)"]
+
+listOfLists = ["n° de registro", "horizonte", "profundidad (cm) mat.orgánica (%)", \
+                "c (%)", "n (%)", "c/n", "<2 ", "2-20 ", "2-50 ", "50-100 ", \
+                "100-250 ", "250-500 ", "500-1000 ", "co3ca (%)", "ph h2o", \
+                "ph clk", "conductividad eléctrica mmhos/cm", "valor t", "ca++", \
+                "mg++", "k+", "na+", "h+", "equivalente de humedad (%)", \
+                "p disponible (ppm)"]
+
+
+
+### Leo las lineas que me sirven después de cada título ###
+
+f = open("../URDINARRAIN.txt")
+
+## Creo un diccioario para guardar "titulo+valor"
+titulo_valores = {}
+cant_lineas = 5
+start_read = False
+## Recorro el archivo linea por linea mientras que tenga algo
+while True:
+    line = f.readline()
+
+    # Salteo las lineas hasta el primer titulo
+    if line.strip().lower() == "n° de registro":
+        start_read = True
+
+    ## Si no hay mas lineas, salgo del loop
+    if not line:
+        break
+
+    ## Si la linea es un titulo, guardo las siguientes N lineas
+    if any(texto in line.strip().lower() for texto in listOfLists) & start_read:
+        valores = []
+
+        for i in range(cant_lineas):
+            valores.append(f.readline().strip())
+
+        titulo_valores[line] = valores
+
+        print "%s: %s" % (line.strip(), valores[0:cant_lineas])
+
+f.close()
+
+#print "titulo_valores:", titulo_valores
+

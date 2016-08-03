@@ -1,0 +1,351 @@
+
+--------------------------------------------------------------------------------
+SERIE SAN FRANCISCO Símbolo: SFco I
+
+
+Pertenece a la familia "limosa fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón mólico oscuro, franco-arcillo-limoso, y un horizonte argílico somero, con moteados de hierro-manganeso.
+
+Suelos desarrollados sobre loess calcáreo, franco-arcillo-limoso, con concreciones de calcáreo ("loesskindeln") y calcáreo libre en la masa.
+
+
+Perfil tipo: ER7-95C
+Fecha: 07-VI-1995
+Ubicación: Establecimiento "San Francisco" (foto 425-104) - dto. Hinojal - Dpto. Victoria.
+Reconocedores: L.O. López; O.A. Foti.
+
+
+A11: 00-19 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios y débiles; friable en húmedo; barnices ("humic skins" y "clay skins") escasos a comunes; moteados de hierro-manganeso escasos, finos y débiles; horizonte con granos de arena fina en las caras de los agregados; presencia de krotovinas; límite abrupto, suave.
+
+A12: 19-28 cm; negro (10YR 2,5/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares finos y débiles; friable en húmedo; barnices ("humic skins") comunes y ("clay skins") escasos a comunes; moteados de hierro-manganeso escasos, finos y débiles; presencia de krotovinas; límite claro, suave.
+
+B21t: 28-40 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios y débiles; friable en húmedo; barnices ("clay skins" y "clay humic skins") comunes y medios; moteados de hierro-manganeso comunes, medios y precisos; chorreaduras de materia orgánica por la cara de los agregados; límite gradual, suave.
+
+B22t: 40-61 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos y débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices, ("clay humic skins") comunes a abundantes y ("clay skins") comunes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B3ca: 61-83 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos y débiles, que rompen en bloques angulares irregulares, medios y débiles; friable en húmedo; barnices ("clay skins") escasos y finos; moteados de hierro-manganeso comunes, medios y precisos; vetas de materia orgánica rellenando las grietas; concreciones de calcio ("loesskindeln"); presencia de caracolitos en el loess; límite claro, suave.
+
+Cca: 83 + cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura masiva; muy friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas a comunes; moteados de hierro-manganeso comunes, medios y precisos, algo de arena fina en la cara de los agregados, presencia de raíces finas.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos no se conoce.
+
+
+Fases
+
+Severamente erosionada (símbolo: SFco I.h3)
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Antelo (pero ésta es más arcillosa a partir del B22t argílico y se ubica en un paisaje distinto).
+
+
+Drenaje
+
+Moderadamente bien drenado, escurrimiento superficial medio a rápido. Permeabilidad lenta a moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie San Francisco I presenta una erosión actual leve en forma laminar y su susceptibilidad a la misma (principalmente laminar y en algunos surcos) es moderada.
+
+La serie tiene una fase por erosión severa en las nacientes de los arroyos Las Ceibas y Manantiales en su curso medio; y en el arroyo De los Porongos afluente del arroyo Quebrachitos.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie San Francisco I
+
+ER7-95C
+
+
+
+
+
+
+Nº de registro
+ 10.323
+ 10.324
+ 10.325
+ 10.326
+ 10.327
+ 10.328
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 22-28
+ 30-40
+ 50-60
+ 70-80
+ 95-110
+Mat.organica (%)
+ 4.54
+ 3.77
+ 1.28
+ 1.14
+ 0.92
+ 0.50
+N (%)
+ 0.26
+ 0.21
+ 0.13
+ 0.09
+ 0.06
+ 0.05
+C/N
+ 10
+ 10
+ 6
+ 7
+ 8
+ 6
+
+T < 2 u
+
+ 28.35
+
+ 32.84
+
+ 36.82
+
+ 34.03
+
+ 31.73
+
+ 30.47
+E 2-20 u
+ 26.29
+ 23.21
+ 22.98
+ 22.55
+ 22.35
+ 26.37
+X 2-50 u
+ 61.04
+ 57.63
+ 54.51
+ 56.48
+ 59.53
+ 60.11
+T 50-100 u
+ 3.30
+ 3.19
+ 1.72
+ 0.95
+ 0.54
+ 1.67
+U 100-500 u
+ 7.18
+ 6.21
+ 6.84
+ 8.43
+ 7.93
+ 7.53
+R 500-1000 u
+ 0.13
+ 0.13
+ 0.11
+ 0.11
+ 0.27
+ 0.22
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ 7.11
+
+ 12.61
+PH H2O
+ 6.7
+ 6.7
+ 6.2
+ 6.4
+ 7.6
+ 7.7
+pH ClK
+ 6.2
+ 6.2
+ 5.4
+ 5.6
+ 7.0
+ 7.0
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+ 30.20
+
+
+ 34.20
+
+
+ 36.20
+
+
+ 35.80
+
+
+ N.D.
+
+
+ N.D.
+
+
+d
+
+Ca++
+
+ 22.40
+
+ 27.81
+
+ 28.80
+
+ 27.82
+
+ N.D.
+
+ N.D.
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 4.52
+ 4.02
+ 3.20
+ 4.00
+ N.D.
+ N.D.
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 2.24
+ 1.66
+ 1.12
+ 1.76
+ 0.58
+ 0.58
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.07
+ 1.12
+ 1.07
+ 1.00
+ 0.85
+ 1.00
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+
+
+
+
+
+
+
+
+% Na/T
+
+
+ 3.54
+ 3.27
+ 2.96
+ 2.79
+ N.D.
+ N.D.
+
+Equival. de humedad (%)
+
+ 29.93
+
+ 31.78
+
+ 33.95
+
+ 32.38
+
+ 30.36
+
+ 28.22
+Fósforo asimilable (ppm)
+ 2.77
+ 0.76
+ 0.09
+ 0.00
+ 0.00
+ 0.00
+

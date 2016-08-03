@@ -1,0 +1,297 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO QUEBRACHO Símbolo: Qu
+
+
+Pertenece a la familia "fina, montmorillonítica, levemente alcalina, térmica" de los Ocracualfe vértico (Planosol vertisólico).
+Imperfectamente drenados, con concreciones ferromanganesíferas prácticamente en todo el perfil.
+Poseen un epipedón de colores claros, moderadamente lixiviado y degradado, de textura franco-arcillo-limosa y un horizonte argílico muy oscuro, franco-arcillo-limoso a arcillo-limoso con concreciones calcáreas a partir de 40 cm y cristales de yeso a los 70 cm. Son levemente alcalinos a partir de los 20 cm.
+Son suelos desarrollados en materiales densos, arcillosos.
+
+
+Perfil tipo: ER3-27C
+Fecha: 22-III-1972
+Ubicación: 24 km al SE de Feliciano (foto 191-1A) - Dpto. Feliciano.
+Reconocedores: R.E. Kleinerman; G.W. van Barneveld.
+
+
+A1: 00-13 cm; gris muy oscuro (10YR 3/1) en húmedo; gris (10YR 6/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; extremadamente duro en seco, firme en húmedo; barnices ("humic skins") escasos, finos; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas, finas; horizonte moderadamente lixiviado; límite claro, suave.
+
+B21t: 13-40 cm; negro (10YR 2.5/1) en húmedo; franco arcillo-limoso; estructura en prismas compuestos irregulares medios, gruesos, moderados y agregados cuneiformes; extremadamente duro en seco, firme en húmedo; barnices ("humic skins") escasos, finos; caras de fricción ("slickensides") escasas, finas; concreciones de hierro-manganeso escasas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B22tca: 40-70 cm; negro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; extremadamente duro en seco; firme en húmedo; barnices ("humic skins") escasos, finos; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas, muy finas; límite gradual, suave.
+
+B31cacs: 70-93 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios a gruesos, débiles; extremadamente duro en seco, firme en húmedo; barnices ("humic skins") escasos; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas y finas; límite gradual, suave.
+
+B32ca: 93-120 cm; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares gruesos, débiles; extremadamente duro en seco, friable en húmedo; caras de fricción ("slickensides") escasas, poco intersectadas; moteados de hierro-manganeso comunes, finos, precisos; concreciones de hierro-manganeso escasas; concreciones de calcio comunes y finas.
+
+
+Variabilidad de rasgos
+
+Tiene un horizonte superficial compuesto de A1 y/o A2 muy lixiviado, con marcada heterogeneidad con espesores que varían entre 5 y 15 cm, franco arcillo limoso y estructura en bloques con moteados de hierro-manganeso comunes. Su pH es ácido.
+
+El horizonte B2t arcillo limoso a franco arcillo limoso posee porcentajes de arcilla que varían entre 35-47% correspondiéndole el tenor más alto al B22t. Son horizontes densos, pocos permeables y penetrables por las raíces, con espesores entre 40 y 60 cm con abundantes caras de fricción ("slickensides").
+
+El B3 muestra abundantes cristales de sulfato de calcio (yeso), con escasas caras de fricción ("slickensides").
+
+
+Fases
+
+No posee a este nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+La serie A Quebracho se parece a la serie de Colonia Trece pero ésta es más alcalina y menos hidromórfica y a la serie Conscripto Bernardi que presenta mayores tenores de sodio y a la serie Santa Rosa que es más arcillosa y más alcalina, como así también a la serie El Cimarrón que es menos arcillosa desde superficie y menos hidromórfica y susceptible a la erosión hídrica.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial lento. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Aº Quebracho no presenta erosión hídrica.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Quebracho
+
+
+ER3-27C
+
+
+
+
+
+Nº de registro
+
+
+
+
+
+Horizonte
+ A1
+ B21 t
+ B21tca
+ B31cacs
+ B32ca
+Profundidad (cm)
+ 00-12
+ 20-35
+ 45-60
+ 75-90
+ 100-115
+Mat.organica (%)
+ 3.57
+ 2.23
+ 1.82
+ 0.63
+ 0.20
+C (%)
+ 2.08
+ 1.30
+ 1.06
+ 0.37
+ 0.12
+N (%)
+ 0.198
+ 0.123
+ 0.095
+ 0.037
+ N.D
+C/N
+ 11
+ 11
+ 11
+ 10
+ N.D
+
+
+
+
+
+
+
+ T
+ < 2 u
+ 30.3
+ 35.9
+ 47.2
+ 53.5
+ 48.8
+ E
+ 2-20 u
+ -
+ -
+ -
+ -
+ -
+ X
+ 2-50 u
+ 68.6
+ 63.2
+ 52.1
+ 45.9
+ 50.4
+ T
+ 50-100 u
+ 0.4
+ 0.3
+ 0.2
+ 0.2
+ 0.2
+ U
+ 100-250 u
+ 0.4
+ 0.4
+ 0.3
+ 0.3
+ 0.3
+ R
+ 250-500 u
+ 0.3
+ 0.2
+ 0.2
+ 0.1
+ 0.3
+ A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+ 1000-2000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ Vest.
+ 0.8
+ 3.1
+ 4.9
+pH H2O
+ 6.3
+ 7.2
+ 7.7
+ 7.6
+ 8.0
+
+
+
+
+
+
+Capacidad de intercambio
+cationico (m.e./100 g) =
+Valor T
+
+ 32.8
+
+ 39.6
+
+ 44.7
+
+ 39.4
+
+ 35.6
+
+D
+Ca++
+ 24.1
+ 30.2
+ N.D.
+ N.D.
+ N.D.
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 5.4
+ 5.5
+ N.D.
+ N.D.
+ N.D.
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.5
+ 0.6
+ 0.8
+ 0.9
+ 1.1
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 1.4
+ 2.8
+ 3.4
+ 3.2
+ 3.4
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 3.1
+ 2.6
+ N.D.
+ N.D.
+ N.D.
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 29.8
+ 36.0
+ 42.0
+ 36.7
+ 39.4
+
+N.D.= No determinado.

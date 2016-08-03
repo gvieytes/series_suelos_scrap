@@ -1,0 +1,467 @@
+
+--------------------------------------------------------------------------------
+SERIE POTRERO LA CALERITA Símbolo: PLC
+
+
+Pertenece a la familia "franca gruesa, mixta, térmica" de los Hapludoles ácuicos.
+
+Suelo arenoso, cubierto con material de textura franco arcillo arenosa. La vegetación presente es monte de espinillo y tala.
+
+
+Perfil tipo: 139C INTA Castelar
+Fecha: 04-XII-1976
+Ubicación: 9,5 km al sudoeste de Puerto Ruiz.(Hoja IGM 3360-23-3) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+A11: 0-10 cm; negro pardusco (10YR 3/1) en húmedo; franco arcillo arenoso; estructura prismática irregular medias gruesas débil que rompe en bloques subangulares; ligeramente duro, raíces comunes; límite inferior claro, suave.
+
+A12: 10-34 cm; negro (10YR 2/1) en húmedo; franco arcillo arenoso; estructura en prismas irregulares medios débiles que rompen en bloques angulares; friable; barnices (clay skins) escasos; moteados finos, comunes, débiles; raíces comunes; límite inferior claro, suave.
+
+A13: 34-49 cm; negro pardusco (10YR 3/1) en húmedo; franco arcillo arenoso; friable; concreciones ferromanganésicas escasas; moteados finos, comunes, débiles; raíces escasas; límite inferior claro, ondulado.
+
+IIC1: 49-69 cm; negro pardusco (10YR 3/2) en húmedo; franco arenoso; muy friable; raíces escasas; límite inferior claro, quebrado.
+
+C2: 69-90 cm; pardo opaco (7,5YR 6/3) en húmedo; arenoso; suelto; concreciones ferromanganésicas escasas; moteados finos a medios, comunes, sobresalientes; raíces escasas; límite inferior claro, ondulado.
+
+C3: 90-102 cm; pardo opaco (7,5YR 5/4) en húmedo; arenoso franco; muy friable; raíces escasas; límite inferior abrupto, ondulado.
+
+C4: 102-115 cm; pardo grisáceo (10YR 6/2) en húmedo; muy friable; mo - teados finos a medios, comunes, débiles; raíces escasas; límite inferior claro, ondulado.
+
+C5: 115-143 cm; pardo opaco (7,5YR 5/3) en húmedo; arenoso franco; muy friable; moteados finos, comunes, débiles; límite inferior claro, ondulado.
+
+C6: 143-180 cm; amarillo anaranjado opaco (10YR 6/4) en húmedo; arenoso; no plástico, no adhesivo; moteados medios a gruesos, comunes, precisos.
+
+
+
+
+Variabilidad de rasgos
+
+Es un suelo no sódico ni salino, cuyo pH va desde medianamente ácido en superficie a moderadamente alcalino a 175 cm de profundidad.
+
+Los tres horizontes superiores (A11-A12-A13) hasta los 50 cm de profundidad son de textura franco arcillo arenosa y de colores entre negro y negro pardusco con un contenido de materia orgánica de 4 % en el primero y de 1,5 % en los dos segundos. Estos horizontes tienen estruc - tura en prismas irregulares medios débiles. A continuación siguen capas de textura entre arenosa y franco arenosa, cuyos colores van del negro pardusco, pardo opaco y pardo grisáceo a amarillo anaranjado opaco en el estrato más profundo. Se han observado concreciones ferromanganési - cas en el horizonte A13 y en la capa entre los 70 y 90 cm. Se observan moteados que están distribuidos a lo largo de todo el perfil.
+
+Por alcalinidad sódica este perfil ha sido clasificado como A1 01 y la resistencia a la pasta es muy elevada y varía entre 2.000 y 15.000 ohms/cm.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Este suelo, considerando los tres primeros horizontes, es de permeabilidad moderada. En cuanto al drenaje se lo considera moderadamente bien drenado; la profundidad de la napa freática es muy variable y oscila entre 50 y 300 cm de profundidad.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Potrero La Calerita
+
+139C INTA Castelar
+
+
+
+
+
+N° de registro
+
+
+
+
+
+Horizonte
+ A11
+ A12
+ A13
+ IIC1
+ C2
+Profundidad (cm)
+ 3-8
+ 15-28
+ 38-50
+ 53-73
+ 70-86
+Mat. orgánica (%)
+ 4.07
+ 1.59
+ 1.36
+ 0.48
+ -
+C (%)
+ 2.36
+ 0.92
+ 0.79
+ 0.28
+ -
+N (%)
+ 0.2747
+ 0.1526
+ 0.0763
+ -
+ -
+C/N
+ 9
+ 6
+ 10
+ -
+ -
+
+T <2 u
+
+ 26.2
+
+ 27.8
+
+ 27.3
+
+ 12.4
+
+ 1.8
+E 2-20 u
+ 12.7
+ 10.2
+ 13.4
+ 8.3
+ 0.5
+X 2-50 u
+ 20.7
+ 17.1
+ 18.6
+ 18.3
+ 4.5
+T 50-74 u
+ 0.9
+ 1.9
+ 1.5
+ 0.5
+ 0.1
+U 74-100 u
+ 0.6
+ 2.2
+ 1.6
+ 0.7
+ 0.1
+R 100-250 u
+ 30.3
+ 30.4
+ 29.7
+ 45.1
+ 60.9
+A 250-500 u
+ 17.9
+ 19.8
+ 18.6
+ 20.2
+ 29.8
+ 500-1000 u
+ 3.4
+ 0.8
+ 2.6
+ 2.7
+ 2.6
+ 1000-2000 u
+ -
+ -
+ 0.1
+ -
+ -
+
+
+
+
+
+
+CO3Ca (%)
+ 0
+ vest (n)
+ vest (n)
+ 0.1
+ 0.2
+Equivalente de humedad (%)
+ 20.5
+ 18.3
+ 21.5
+ 8.3
+ 1.2
+Resistencia de la pasta (Ohms/cm)
+ 2867
+ 3505
+ 2230
+ 4479
+ 14656
+pH en pasta
+ 5.5
+ 5.7
+ 7.0
+ 7.7
+ 7.9
+pH en agua (1:2,5)
+ 5.7
+ 6.2
+ 7.8
+ 8.2
+ 8.6
+pH en KCl (1:2,5)
+ 5.1
+ 5.3
+ 6.7
+ 7.2
+ 7.5
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 13.3
+ -
+ -
+ -
+ -
+
+Mg++
+ 1.4
+ -
+ -
+ -
+ -
+
+Na[+]
+ 1.1
+ 0.5
+ 0.6
+ 0.4
+ -
+
+K[+]
+ 0.8
+ 0.4
+ 0.4
+ 0
+ -
+
+H[+]
+ 7.6
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ 5
+ 2
+ 2
+ 4
+ -
+Suma de bases, m.e./100 gr (S)
+ 16.6
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 20.5
+ 23.7
+ 24.7
+ 8.9
+ -
+Saturación con bases, (%) (S/T)
+ 81
+ -
+ -
+ -
+ -
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Potrero La Calerita (Continuación)
+
+139C INTA Castelar
+
+
+
+
+N° de registro
+
+
+
+
+Horizonte
+ C3
+ C4
+ C5
+ C6
+Profundidad (cm)
+ 90-102
+ 105-112
+ 120-135
+ 155-175
+Mat. orgánica (%)
+ -
+ -
+ -
+ -
+C (%)
+ -
+ -
+ -
+ -
+N (%)
+ -
+ -
+ -
+ -
+C/N
+ -
+ -
+ -
+ -
+
+T <2 u
+
+ 8.6
+
+ 17.1
+
+ 7.9
+
+ 2.9
+E 2-20 u
+ 2.5
+ 8.3
+ 2.0
+ 0.7
+X 2-50 u
+ 6.0
+ 26.5
+ 5.5
+ 1.2
+T 50-74 u
+ 0.3
+ 1.2
+ 2.2
+ 1.0
+U 74-100 u
+ 0.7
+ 1.5
+ 2.2
+ 3.5
+R 100-250 u
+ 62.9
+ 40.6
+ 72.5
+ 86.9
+A 250-500 u
+ 18.5
+ 8.1
+ 8.4
+ 4.3
+ 500-1000 u
+ 0.6
+ 0.3
+ 0.2
+ 0.2
+ 1000-2000 u
+ -
+ -
+ -
+ -
+
+
+
+
+
+CO3Ca (%)
+ 2.4
+ 4.7
+ 1.1
+ vest (n)
+Equivalente de humedad (%)
+ 6.5
+ 17.1
+ 6.0
+ 1.6
+Resistencia de la pasta (Ohms/cm)
+ 3983
+ 2867
+ 4142
+ 14337
+pH en pasta
+ 7.8
+ 7.8
+ 8.1
+ 8.4
+pH en agua (1:2,5)
+ 8.0
+ 8.6
+ 8.7
+ 8.7
+pH en KCl (1:2,5)
+ 7.1
+ 7.5
+ 7.9
+ 8.0
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ -
+ -
+ -
+ -
+
+Mg++
+ -
+ -
+ -
+ -
+
+Na[+]
+ -
+ -
+ -
+ -
+
+K[+]
+ -
+ -
+ -
+ -
+
+H[+]
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ -
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ -
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ -
+ -
+ -
+ -
+

@@ -1,0 +1,272 @@
+
+--------------------------------------------------------------------------------
+SERIE FELICIANO					 	 Símbolo: Fe
+
+
+Pertenece a la familia "arcillosa fina, mixta, no calcárea, térmica" de los Argiacuoles vérticos.
+
+Los suelos de esta serie son hidromórficos, imperfectamente drenados, con algunas grietas - especialmente en el subsuelo - cuando están secos. Se ubican en dos paisajes diferentes: el primero de ellos en un área con lagunas grandes muy irregulares, bañados y cursos de agua muy sinuosos y poco definidos. Se trata básicamente de un paisaje con microrrelieve muy irregular, deficientemente drenado.
+El otro sector tiene menos problemas de encharcamiento debido a que el relieve tiene mayor definición.
+
+
+Perfil tipo: ER3-35C
+Fecha: 11-IV-1972
+Ubicación: 8 Km. al NO de la ciudad de San José de Feliciano. Foto IR 198-66
+Reconocedores: R.E. Kleinernan; W. Perilli; G.W. van Barneveld
+
+
+A11: 00-10 cm; gris muy oscuro (10 YR 3/1.5) en húmedo; pardo grisáceo (10 YR 5/2) en seco; franco limoso; estructura en bloques angulares irregulares y subangulares medios moderados; duro en seco; friable en húmedo; plástico, ligeramente adhesivo; concreciones de hierro y manganeso escasas, finas; barnices ("humic skins") escasos, finos; moteados de hierro y manganeso comunes, finos, precisos; horizonte lixiviado; límite claro suave.
+
+A12: 10-22 cm; gris muy oscuro (10 YR 3/2) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares medios, gruesos, moderados; muy duro en seco; firme en húmedo; plástico y adhesivo; concreciones de hierro y manganeso comunes; barnices ("humic skins") escasos, finos; moteados de hierro y manganeso comunes, finos y precisos; algo lixiviado especialmente por las caras de los agregados; límite gradual suave.
+
+B2t: 22-65 cm; negro (10 YR 2.5/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios débiles que rompen a bloques angulares irregulares y cuneiformes, gruesos, moderados; muy duro en seco; friable a firme en húmedo; plástico, adhesivo; concreciones de hierro y manganeso comunes; barnices ("humic skins") escasos, finos; caras de fricción ("slickensides") escasas, finas, intersectadas; moteados de hierro y manganeso comunes, finos, precisos; límite gradual ondulado.
+
+B31ca: 65-90 cm; pardo, pardo oscuro (7.5 YR 4/2) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen a bloques angulares irregulares y cuneiformes medios moderados; friable en húmedo; plástico, ligeramente adhesivo; concreciones de hierro y manganeso comunes; concreciones calcáreas comunes medias; caras de fricción ("slickensides") escasas, finas, no intersectadas; moteados de hierro y manganeso comunes, finos y precisos; límite difuso suave.
+
+
+
+
+B32ca (g): 90 cm +; pardo (7.5 YR 5/2) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares y cuneiformes, gruesos, moderados; friable en húmedo; plástico, ligeramente adhesivo; escasas concreciones de hierro y manganeso; barnices ("clay humic skins") comunes, finos a medios; moteados de hierro y manganeso comunes, finos y precisos; concreciones calcáreas comunes medias.
+
+
+Variabilidad de rasgos
+
+Los suelos se caracterizan por presentar un horizonte superior (A) con espesores que varían entre 12 y 22 cm, con fases someras (8 cm); son oscuros en húmedo y claros en seco; franco limosos a franco arcillo limosos y con estructura en bloques. Normalmente el horizonte está lixiviado y presenta escasos moteados y concreciones de hierro y manganeso.
+Gradualmente se pasa al subsuelo arcillo limoso (B2) denso, oscuro, cuyo espesor varía entre 40-50 cm. La estructura dominante es en prismas compuestos, con concreciones de hierro y manganeso escasas a abundantes y moteados comunes de los mismos elementos, denotando problemas de hidromorfismo. Se observan asimismo escasas caras de fricción ("slickensides"). No posee calcáreo en forma de concreciones ni disperso en la masa.
+El horizonte transicional (B3) es claro, más pobre en arcilla que el horizonte B2 y más rico en limo, con abundantes concreciones de tanto calcáreas como de hierro y manganeso.
+El horizonte C pardo, rico en calcáreo y en concreciones de hierro y manganeso, con síntomas de gleización a partir de 80-90 cm.
+
+
+Fases
+
+No se observaron a escala de relevamiento (1:100.000).
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento estancado. Permeabilidad lenta.
+
+
+Erosión
+
+La serie Feliciano no presenta erosión actual, excepto en zonas con desmontes donde se produce erosión laminar.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Feliciano
+
+ER3-35C
+
+
+
+
+
+Nº de registro
+ -
+ -
+ -
+ -
+ -
+Horizonte
+ A11
+ A12
+ B2t
+ B31ca
+ B32ca(g)
+Profundidad (cm)
+ 0-10
+ 11-21
+ 38-60
+ 70-85
+ 120-130
+Mat.organica (%)
+ 3.40
+ 2.31
+ 1.38
+ 0.38
+ 0.19
+C (%)
+ 1.97
+ 1.34
+ 0.80
+ 0.22
+ 0.11
+N (%)
+ 0.117
+ 0.103
+ 0.080
+ 0.045
+ ND
+C/N
+ 12
+ 13
+ 10
+ 5
+ ND
+
+T <2
+ 28.9
+ 25.8
+ 49.0
+ 38.1
+ 36.2
+E 2-20
+
+
+
+
+
+X 2-50
+ 69.9
+ 72.8
+ 50.0
+ 61.1
+ 63.0
+T 50-100
+ 0.4
+ 0.6
+ 0.3
+ 0.2
+ 0.2
+U 100-250
+ 0.6
+ 0.5
+ 0.4
+ 0.3
+ 0.4
+R 250-500
+ 0.2
+ 0.3
+ 0.3
+ 0.3
+ 0.2
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 2.7
+ 0.5
+pH H2O
+ 5.8
+ 5.8
+ 7.0
+ 7.8
+ 7.8
+pH ClK
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 27.8
+ 31.8
+ 41.1
+ 34.1
+ 34.0
+
+D
+Ca++
+ 18.6
+ 22.5
+ 31.8
+ ND
+ ND
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 3.2
+ 5.0
+ 7.6
+
+
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.5
+ 0.3
+ 0.4
+ 0.5
+ 0.6
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.4
+ 0.6
+ 1.0
+ 1.4
+ 1.4
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 6.1
+ 5.2
+ 2.6
+ ND
+ ND
+
+
+
+
+
+
+
+
+% Na/T
+
+ 1.44
+ 1.89
+ 2.43
+ 4.11
+ 4.12
+
+Equivalente de humedad (%)
+ 29.5
+ 31.6
+ 46.4
+ 40.0
+ 39.5
+

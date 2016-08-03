@@ -1,0 +1,213 @@
+--------------------------------------------------------------------------------
+SERIE EL ESTRIBO							 Símbolo: EEst
+Pertenece a la familia "fina, mixta, alcalina, térmica" de los Natracualfes álbicos.
+Son suelos pobre a imperfectamente drenados, con problemas de encharcamiento y alcalinidad, con concreciones y moteados ferromanganesíferos desde la superficie.
+Están desarrollados en antiguos materiales aluviales de origen marino.
+Perfil tipo: ER1-91C
+Fecha: 17-XII-1992
+Ubicación: Ea. El Estribo (foto IR 411-42) - Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A21: 00-14 cm; pardo muy oscuro (10YR 4/2) en húmedo, gris (10YR 6/1) en seco; franco-limoso; estructura granular y en bloques subangulares finos, débiles, con tendencia a masiva; ligeramente duro en seco, muy friable en húmedo; moteados de hierro-manganeso comunes, medios y sobresalientes; concreciones de calcáreos escasas, finas; moderada cantidad de carbonatos libres en la masa; límite claro, suave.
+A22: 14-24 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura en bloques subangulares finos, moderados; duro en seco, friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso comunes, finos y precisos; moderada cantidad de carbonatos libres en la masa; concreciones de hierro-manganeso escasas; límite abrupto, suave.
+B21t: 24-49 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares finos, moderados; ligeramente duro en seco, firme en húmedo; barnices ("clay-humic skins") abundantes; moteados de hierro-manganeso comunes, finos y precisos; escasa a moderada cantidad de carbonatos libres en la masa; concreciones de hierro-manganeso escasas; concreciones calcáreas escasas; límite claro, suave.
+B22t: 49-68 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares regulares y bloques cuneiformes gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes; barnices ("clay skins") gruesos, abundantes; moteados de hierro-manganeso abundantes, finos y sobresalientes; concreciones calcáreas comunes; concreciones de hierro-manganeso comunes; límite gradual, suave.
+B3: 68-116 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") escasas; barnices ("clay skins") escasos y gruesos; moteados de hierro-manganeso abundantes, finos y precisos; concreciones de hierro-manganeso comunes; límite claro, suave.
+C: 116 cm+; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares gruesos, débiles, ligeramente duro en seco, friable en húmedo; moteados de hierro-manganeso comunes, medios y sobresalientes; concreciones de hierro-manganeso escasas a comunes.
+Variabilidad de rasgos
+El solum generalmente tiene un espesor de 100 cm, pero el mismo es variable según pequeñas diferencias en la posición fisiográfica en que se encuentre, siendo más profundo en las partes algo más elevadas.
+El epipedón está constituido por un horizonte álbico espeso (hasta 25 cm en algunos casos). En campos de pastoreo se produce el fenómeno de degradación acelerada debido al pisoteo de los animales, ocasionando encharcamientos casi permanentes en los sectores más deprimidos.
+El horizonte B2t, nátrico, tiene una estructura prismática débil y es frecuente encontrar lamelas y, a veces, lenguas del horizonte álbico entre los prismas.
+Todo el perfil es fuertemente alcalino, intensificándose en profundidad, con valores de pH que oscilan entre 9.7-9.9 en el horizonte B2t. Presenta un proceso de carbonatación por ascenso capilar y evaporación del agua freática, hecho que se evidencia por la presencia de carbonatos libres en la masa en la superficie y que disminuyen en profundidad.
+Fases
+No se determinaron fases a nivel de reconocimiento.
+Series similares y sus diferencias
+Serie El Estribo se parece a la serie Punta del Monte, pero ésta tiene un perfil menos profundo y es salino. Es semejante también a serie General Nazar, pero ésta es menos alcalina.
+Drenaje
+Pobremente a imperfectamente drenado; escurrimiento superficial estancado. Permeabilidad lenta a muy lenta. Napa freática fluctuante. Grupo hidrológico D.
+Erosión
+Serie El Estribo no tiene erosión actual y no presenta peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie El Estribo
+ER1-91C
+Nº de registro
+ 7741
+ 7742
+ 7743
+ 7744
+ 7745
+ 7746
+Horizonte
+ A21
+ A22
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 03-12
+ 17-23
+ 27-45
+ 54-64
+ 83-110
+ 27-137
+Mat.organica (%)
+ 1.61
+ 0.53
+ 0.45
+ 0.31
+ 0.15
+ 0.15
+N (%)
+ 0.09
+ 0.05
+ 0.04
+ 0.02
+ 0.03
+ 0.02
+C/N
+ 10
+ 5
+ 6
+ 8
+ 3
+ 4
+T < 2 μ
+ 20.09
+ 21.04
+ 41.83
+ 46.77
+ 41.34
+ 31.95
+E 2-20 μ
+ 42.85
+ 41.90
+ 27.67
+ 20.94
+ 46.46
+ 36.59
+X 2-50 μ
+ 71.33
+ 72.69
+ 52.61
+ 47.05
+ 51.40
+ 61.47
+T 50-100 μ
+ 5.61
+ 1.23
+ 2.05
+ 1.63
+ 2.13
+ 2.51
+U 100-500 μ
+ 2.93
+ 4.99
+ 3.46
+ 4.52
+ 5.09
+ 4.03
+R 500-1000 μ
+ 0.04
+ 0.05
+ 0.05
+ 0.03
+ 0.04
+ 0.04
+A
+CO3Ca (%)
+ 0.00
+ 0.83
+ 1.26
+ 1.62
+ 0.79
+ 0.52
+pH H2O
+ 8.8
+ 9.8
+ 9.9
+ 9.9
+ 9.7
+ 9.5
+pH ClK
+ 7.5
+ 8.3
+ 8.5
+ 8.5
+ 8.6
+ 8.4
+CE (mmhos/cm)
+ 5.02
+ 9.21
+ 9.33
+ 7.76
+ 5.76
+ 3.94
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 20.30
+ 22.90
+ 39.30
+ 44.70
+ 39.40
+ 29.30
+ d Ca++
+ 7.60
+ 7.70
+ 15.30
+ 17.00
+ 15.10
+ 10.30
+C e
+Mg++
+ 0.80
+ 0.90
+ 2.10
+ 2.30
+ 2.00
+ 1.80
+t c
+i a K+
+ 0.60
+ 0.75
+ 1.30
+ 1.70
+ 1.40
+ 1.10
+o m
+n b Na+
+ 11.25
+ 13.50
+ 20.50
+ 23.50
+ 20.50
+ 16.00
+e i
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 55.4
+ 58.9
+ 52.2
+ 52.6
+ 52.0
+ 54.6
+Equivalente de humedad (%)
+ 23.96
+ 25.00
+ 44.07
+ 49.09
+ 43.70
+ 35.00
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -

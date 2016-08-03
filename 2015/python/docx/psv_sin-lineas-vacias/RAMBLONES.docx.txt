@@ -1,0 +1,210 @@
+--------------------------------------------------------------------------------
+SERIE RAMBLONES							 Símbolo: Ra
+Pertenece a la familia "fina, levemente alcalina, térmica" de los Peludertes argiudólicos (Vertisol con gilgai, epipedón mólico y un B2 textural).
+Muestra un microrrelieve gilgai bien desarrollado, con ciclos de 5-7 m y altibajos de hasta 20 cm.
+Suelos negro hasta 80-120 cm en el bajo del gilgai y de 00 a 15 cm en la cresta; moderadamente bien drenado y levemente alcalino en el subsuelo.
+En el bajo del gilgai tiene un epipedón mólico profundo, franco-arcillo-limoso y un horizonte B2 argílico arcillo-limoso.
+Las concreciones de calcáreo aparecen entre 60-70 cm.
+Son suelos desarrollados en materiales lacustres ("limos calcáreos") arcillo-limosos.
+Perfil tipo: ER5-6C
+Fecha: 15-VI-1971
+Estancia "Santa Inés de las Estacas" (foto 485-15) - Dpto. La Paz
+Reconocedores: R.H. Fuentes; G.W. van Barneveld.
+A1: 00-23 cm; negro (10 YR 2/1) en húmedo; gris muy oscuro (10 YR 3.5/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares y angulares irregulares, medios , moderados; duro en seco; friable en húmedo; barnices `humic-skins', escasos , muy finos; horizonte algo lixiviado por las caras; límite claro, suave.
+B1: 23-39 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados, con tendencia a primas compuestos irregulares; muy duro en seco; friable en húmedo; barnices `clay-humic-skins', escasos, finos; caras de fricción (`slickensides') escasas, finas; vestigios de moteados de hierro; concreciones de hierro-manganeso escasas, muy finas; límite claro, suave.
+B21t: 39-63 cm; negro (10 YR 1.7/1) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, moderados, con tendencia a primas compuestos irregulares; muy duro en seco; firme en húmedo; caras de fricción (`slickensides') comunes, finas, intersectadas; vestigios de moteados de hierro; límite gradual, suave.
+B22ca: 63-80 cm; negro (10 YR 2.5/1) en húmedo; gris oscuro (10 YR 4/1) en seco; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, gruesos, moderados; extremadamente duro en seco; firme en húmedo; caras de fricción (`slickensides') comunes, finas y medias, intersectadas; moteados de hierro-manganeso escasos, finos y débiles; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, duras, de hasta 1 cm; límite gradual, suave.
+B3ca: 80-120 cm; pardo oscuro (7.5YR 4/2) en húmedo; pardo (10 YR 5/2) en seco; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, gruesos, débiles; extremadamente duro en seco; muy firme en húmedo; caras de fricción (`slickensides') comunes, medias, poco intersectadas; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas, muy finas; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, duras y semiduras, de hasta 1 cm; algo de material del horizonte A en vetas (antiguas grietas rellenadas); límite difuso, suave.
+Cca: 120 cm+; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura masiva; caras de fricción (`slickensides') escasas, medias, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, semiduras, de hasta 3 mm;
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción del material arcilloso, que da lugar a la formación del microrrelieve gilgai.
+En el bajo del gilgai el epipedón varía de 20 a 35 cm; es mólico y no autoestructurado. Por lo general sólo comprende un horizonte A1 de 20-25 cm, pero a veces también incluye un B1 de 10-15 cm. Tiene 30-35% de arcilla y 4.5 a 5.5% de materia orgánica en su parte inferior y entre 2 y 3 % en la inferior. En la cresta del gilgai el epipedón varía de 0.5 a 10 cm; tiene poca materia orgánica y es menos oscuro.
+El horizonte B2, argílico, solo existe en el bajo del gilgai; el porcentaje de arcilla incrementa con su profundidad; varía de 35 a 43% en la parte superior y generalmente sobrepasa el 46% en la inferior. Su estructura es en bloques angulares y cuneiformes, con una leve tendencia a ser prismática, especialmente en la parte superior.
+Normalmente, las caras de fricción ("slickensides") ya se encuentran en la parte inferior del epipedón, aunque son escasas y no intersectadas. En el B2 son comunes a abundantes e intersectadas y llegan a 140-150 cm. Cuando seco, este horizonte presenta grietas de hasta 2 cm de ancho, que se extienden hasta la base del epipedón.	El calcáreo, en concreciones duras de hasta 1 cm, aparece entre los 60-70 cm en el bajo del gilgai y prácticamente desde la superficie, en su cresta. El porcentaje varía de 6 a 12%, notándose a veces en el B3 una mayor concentración que en el C.
+Son suelos ligeramente ácidos en el epipedón y ligeramente alcalinos a partir del B3 o de la parte inferior del B2, con 6-10% de sodio intercambiable. El horizonte C tiene 45-46% de arcilla y 1.3% de arena.
+Fases
+Levemente erosionada (símbolo: Ra.h1)
+Muy suavemente ondulada (símbolo: Ra.p0)
+Series similares y sus diferencias
+Se parece a la serie El Rancho (menos arcillosa a partir del argílico, con gilgai poco desarrollado y más hidromorfismo); también se parece a las series San Gustavo (sin epipedón mólico) y Chañar (con arena). Además, se parece a los vertisoles hidromórficos que presentan concreciones de hierro-manganeso en todo el perfil.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La Serie Ramblones no tiene erosión actual y corre un moderado peligro de erosión en surcos, particularmente por la longitud de las pendientes. La fase levemente erosionada sólo se encuentra en áreas en uso para agricultura (colonias) y muestra erosión en surcos, rellenados en parte por la labranza.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Ramblones
+ER5-6C
+Nº de registro
+ 383
+ 384
+ 385
+ 386
+ 387
+ 388
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-18
+ 25-37
+ 42-60
+ 69-80
+ 80-102
+ 125-145
+Mat.organica (%)
+ 5.4
+ 2.9
+ 2.1
+ 1.5
+ 0.6
+ 0.2
+N (%)
+ -
+ -
+ -
+ -
+ -
+ -
+C/N
+ 12
+ 14
+ 13
+ 13
+ 10
+ -
+T < 2 μ
+ 31.2
+ 32.6
+ 45.8
+ 46.1
+ 43.9
+ 43.1
+E 2-20 μ
+ 25.2
+ 25.5
+ 23.4
+ 24.8
+ 20.9
+ 19.3
+X 2-50 μ
+ 61.3
+ 59.3
+ 47.9
+ 47.7
+ 51.1
+ 53.8
+T 50-100 μ
+ 1.3
+ 1.5
+ 1.2
+ 1.1
+ 0.9
+ 0.8
+U 100-500 μ
+ 4.0
+ 4.3
+ 3.3
+ 3.2
+ 2.6
+ 1.4
+R 500-1000 μ
+ 2.2
+ 2.3
+ 1.8
+ 1.9
+ 1.5
+ 0.9
+A 1000-2000 μ
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 53.0
+ 10.8
+ 10.9
+pH H2O
+ 5.2
+ 6.0
+ 7.1
+ 7.8
+ 8.0
+ 8.0
+pH ClK
+ 4.9
+ 5.3
+ 6.0
+ 6.6
+ 6.9
+ 6.9
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 36.8
+ 35.6
+ 45.6
+ 43.5
+ 40.0
+ 40.9
+ d Ca++
+ 26.6
+ 29.1
+ 37.5
+ 0.0
+ 0.0
+ 0.0
+C e
+Mg++
+ 3.1
+ 2.7
+ 3.8
+ 0.0
+ 0.0
+ 0.0
+t c
+i a K+
+ 0.7
+ 0.5
+ 0.8
+ 0.9
+ 0.7
+ 0.8
+o m
+n b Na+
+ 0.3
+ 1.2
+ 2.2
+ 3.0
+ 3.2
+ 2.5
+e i
+s o H+
+ 6.2
+ 3.6
+ 2.1
+ 0.0
+ 0.0
+ 0.0
+% Na/T
+ 0.8
+ 3.4
+ 4.8
+ 6.9
+ 8.0
+ 6.1
+Equivalente de humedad (%)
+ 34.5
+ 36.0
+ 47.2
+ 46.0
+ 42.6
+ 43.7

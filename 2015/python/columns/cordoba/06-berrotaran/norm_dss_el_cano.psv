@@ -1,0 +1,37 @@
+dss_el_cano.psv ->> ID..........................: 602
+dss_el_cano.psv ->> CLASIFICACION...............: Haplustol típico
+dss_el_cano.psv ->> SERIE.......................: EL CANO (Cano)
+dss_el_cano.psv ->> UBICACION...................: 13 Km al Sur de Río de los Sauces, provincia de Córdoba
+dss_el_cano.psv ->> PROVINCIA...................: CORDOBA
+dss_el_cano.psv ->> LATITUD.....................: S244000
+dss_el_cano.psv ->> LONGITUD....................: O433400
+dss_el_cano.psv ->> ALTITUD.....................: 650
+dss_el_cano.psv ->> PENDIENTE...................: FALTA!
+dss_el_cano.psv ->> DRENAJE.....................: FALTA!
+dss_el_cano.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_cano.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_cano.psv ->> TIPO DE SUELO...............: FRANCA GRUESA
+dss_el_cano.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_el_cano.psv ->> HORIZONTE->NOMBRE(S)........: ap | b2 | b3 | cca
+dss_el_cano.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-43 | 43-74 | 74a+
+dss_el_cano.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.6 | 1.4 | - | 
+dss_el_cano.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.5 | 0.8 | - | 
+dss_el_cano.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.19 | - | - | 
+dss_el_cano.psv ->> HORIZONTE->RELACIÓN C/N.....: 7.9 | - | - | 
+dss_el_cano.psv ->> HORIZONTE->ARCILLA 2 (%)....: 13.8 | 14.1 | 9.2 | 9.8
+dss_el_cano.psv ->> HORIZONTE->LIMO 2-50 (%)....: 51.8 | 52.8 | 56.4 | 51.7
+dss_el_cano.psv ->> HORIZONTE->AMF 50-100 (%)...: 31.3 | 28.3 | 29.3 | 36.1
+dss_el_cano.psv ->> HORIZONTE->AF 100-250 (%)...: 0.2 | 2.0 | 1.4 | 1.6
+dss_el_cano.psv ->> HORIZONTE->AM 250-500 (%)...: 0.3 | 0.1 | 0.2 | 0.2
+dss_el_cano.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.4 | 0.3 | 0.3 | 0.2
+dss_el_cano.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.3 | 0.2 | - | 0.3
+dss_el_cano.psv ->> HORIZONTE->CaCO 3 (%).......: 0.0 | 0.0 | 0.0 | 5.9
+dss_el_cano.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17.6 | 26.1 | 15.5 | 16.2
+dss_el_cano.psv ->> HORIZONTE->PH PASTA.........: 6.4 | 0.0 | 7.4 | 8.0
+dss_el_cano.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7.0 | 0.0 | 7.6 | 8.4
+dss_el_cano.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8.6 | 9.4 | 10.0 | 
+dss_el_cano.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.8 | 1.2 | 1.1 | 
+dss_el_cano.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 0.4 | 0.2 | 0.3
+dss_el_cano.psv ->> HORIZONTE->CI ME/100G-K +...: 1.7 | 1.8 | 1.4 | 1.0
+dss_el_cano.psv ->> HORIZONTE->CI ME/100G-H +...: 1.2 | 0.8 | - | 
+dss_el_cano.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.1 | 2.9 | 1.7 | 2.8

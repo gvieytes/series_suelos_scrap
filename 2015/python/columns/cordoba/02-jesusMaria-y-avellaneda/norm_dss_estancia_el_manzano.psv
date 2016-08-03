@@ -1,0 +1,39 @@
+dss_estancia_el_manzano.psv ->> ID..........................: 214
+dss_estancia_el_manzano.psv ->> CLASIFICACION...............: Haplustol paralítico
+dss_estancia_el_manzano.psv ->> SERIE.......................: ESTANCIA EL MANZANO
+dss_estancia_el_manzano.psv ->> UBICACION...................: 7 km al Norte del paraje Barranca Yaco, departamento Totoral
+dss_estancia_el_manzano.psv ->> PROVINCIA...................: CORDOBA
+dss_estancia_el_manzano.psv ->> LATITUD.....................: S304800
+dss_estancia_el_manzano.psv ->> LONGITUD....................: O6406
+dss_estancia_el_manzano.psv ->> ALTITUD.....................: 600
+dss_estancia_el_manzano.psv ->> PENDIENTE...................: FALTA!
+dss_estancia_el_manzano.psv ->> DRENAJE.....................: FALTA!
+dss_estancia_el_manzano.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_estancia_el_manzano.psv ->> PERMEABILIDAD...............: FALTA!
+dss_estancia_el_manzano.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_estancia_el_manzano.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_estancia_el_manzano.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_estancia_el_manzano.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-30
+dss_estancia_el_manzano.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,3
+dss_estancia_el_manzano.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,12
+dss_estancia_el_manzano.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,8
+dss_estancia_el_manzano.psv ->> HORIZONTE->ARCILLA 2 (%)....: 8,9
+dss_estancia_el_manzano.psv ->> HORIZONTE->LIMO 2-50 (%)....: 22,6
+dss_estancia_el_manzano.psv ->> HORIZONTE->AMF 50-100 (%)...: 2,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->AF 100-250 (%)...: 4,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->AM 250-500 (%)...: 8,6
+dss_estancia_el_manzano.psv ->> HORIZONTE->AG 500-1000 (%)..: 27,3
+dss_estancia_el_manzano.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 23,9
+dss_estancia_el_manzano.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0
+dss_estancia_el_manzano.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 13,3
+dss_estancia_el_manzano.psv ->> HORIZONTE->PH PASTA.........: 6,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,9
+dss_estancia_el_manzano.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7
+dss_estancia_el_manzano.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->CI ME/100G-K +...: 0,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->CI ME/100G-H +...: 1,2
+dss_estancia_el_manzano.psv ->> HORIZONTE->SUM.B. ME/100G(S): 9,8
+dss_estancia_el_manzano.psv ->> HORIZONTE->CIC ME/100G(T)...: 11,0
+dss_estancia_el_manzano.psv ->> HORIZONTE->SAT.B % (S/T)....: 89,0

@@ -1,0 +1,299 @@
+
+--------------------------------------------------------------------------------
+SERIE PUEBLO SAN MARTÍN				 Símbolo: PSM
+
+
+Pertenece a la familia "fina, mixta ligeramente alcalina, térmica" de los Argiudoles ácuicos.
+Suelos profundos, imperfectamente a moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico pardo oscuro, arcillo-limoso.
+El calcáreo, en escasa cantidad, aparece en profundidad a los 100 cm aproximadamente.
+Suelos desarrollados en materiales loessoides de textura arcillo-limosa a franco-arcillo-limosa.
+
+
+Perfil tipo: ER7-126C
+Fecha: 18-XI-97
+Ubicación: Escuela Nº 121 "Sor Juana Inés de la Cruz" (foto IR 461-46) - Dto. Tala - Dpto. Paraná.
+Reconocedores: O.A.Foti; L.O.Lopez.
+
+
+A11: 00-20 cm; pardo muy oscuro a pardo grisáceo muy oscuro (10YR 2,5/2) en húmedo y pardo a pardo oscuro (10YR 4/2) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+A12: 20-40 cm; pardo muy oscuro (10YR 2/2) en húmedo y gris muy oscuro (10YR 3/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, débiles; muy friable en húmedo; barnices ("clay-humic skins") escasos y ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite abrupto, suave.
+
+B21t: 40-67 cm; negro a gris muy oscuro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en otros prismas compuestos irregulares medios, moderados y bloques subangulares y angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay-humic skins") escasos y ("clay skins") escasos; caras de fricción ("slickensides") escasas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B22t: 67-100 cm; pardo grisáceo oscuro (10YR 3,5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas; concreciones ferromanganesífera escasas; moteados de hierro-manganeso, comunes, finos y débiles; límite gradual, suave.
+
+B3: 100-115 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos y ("clay skins") escasos; concreciones calcáreas escasas; moteados de hierro-manganeso escasos, finos y débiles; límite difuso, suave.
+
+C: 115 cm +; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; masivo; friable en húmedo; concreciones calcáreas escasas y finas, comunes carbonatos libres en la masa; moteados de hierro-manganeso escasos, finos y débiles.
+
+
+
+Variabilidad de rasgos
+
+El solum varía de 100-120 cm. El epipedón mólico incluye los horizontes A11 y A12, bien desarrollados, con espesores que varían entre 35-40 cm.
+
+El horizonte argílico, de estructura prismática débil, varía entre 50-60 cm de espesor, comúnmente presenta escasas caras de fricción ("slickensides") y el calcáreo, en concreciones finas, aparece entre 90-100 cm de profundidad.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Pueblo San Martín tiene erosión hídrica actual leve, y la susceptibilidad a la misma es leve a moderada.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Pueblo San Martín
+
+ER7-126C
+
+
+
+
+
+
+Nº de registro
+ 2317
+ 2318
+ 2319
+ 2320
+ 2321
+ 2322
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B2
+ Cca
+Profundidad (cm)
+ 02-18
+ 25-32
+ 46-60
+ 72-82
+ 102-113
+ 130-140
+Mat.organica (%)
+ 7.0
+ 3.7
+ 2.3
+ 1.4
+ 0.8
+ 0.5
+N (%)
+ 0.31
+ 0.13
+ 0.09
+ 0.07
+ 0.05
+ 0.03
+C/N
+ 13
+ 17
+ 15
+ 11
+ 9
+ 8
+
+T < 2 μ
+ 29.09
+ 29.05
+ 43.73
+ 43.99
+ 42.02
+ 41.20
+E 2-20 μ
+ 28.29
+ 30.16
+ 25.44
+ 26.01
+ 26.80
+ 27.30
+X 2-50 μ
+ 65.36
+ 66.73
+ 53.20
+ 53.43
+ 54.97
+ 56.09
+T 50-100 μ
+ 1.57
+ 1.45
+ 0.55
+ 0.95
+ 1.74
+ 1.36
+U 100-500 μ
+ 3.97
+ 2.76
+ 2.51
+ 1.62
+ 1.22
+ 1.31
+R 500-1000 μ
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.05
+ 0.04
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.24
+ 0.35
+ 4.87
+pH H2O
+ 6.7
+ 6.8
+ 7.0
+ 7.9
+ 8.1
+ 8.2
+pH ClK
+ 6.2
+ 6.2
+ 6.2
+ 6.8
+ 7.1
+ 7.3
+CE (mmhos/cm)
+ 1.186
+ 0.762
+ 0.516
+ 0.439
+ 0.885
+ 1.424
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 32.60
+ 30.10
+ 39.80
+ 37.20
+ 36.80
+ 34.30
+ d Ca++
+ 22.60
+ 21.90
+ 29.70
+ 30.10
+ 29.80
+ -
+C e
+
+
+
+
+
+
+Mg++
+ 3.20
+ 2.90
+ 2.30
+ 2.60
+ 2.80
+ -
+t c
+
+
+
+
+
+
+i a K+
+ 2.40
+ 1.90
+ 1.70
+ 1.50
+ 1.20
+ 1.30
+o m
+
+
+
+
+
+
+n b Na+
+ 0.40
+ 0.60
+ 1.20
+ 1.40
+ 2.80
+ 2.90
+e i
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+% Na/T
+ 1.23
+ 1.99
+ 3.01
+ 3.76
+ 7.60
+ 8.50
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 30.70
+ 28.41
+ 43.16
+ 41.87
+ 39.65
+ 38.06
+Fósforo asimilable (ppm)
+ 28.96
+ 26.16
+ 17.54
+ 14.63
+ 14.34
+ -
+

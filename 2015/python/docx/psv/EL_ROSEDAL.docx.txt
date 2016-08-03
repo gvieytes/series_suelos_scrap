@@ -1,0 +1,189 @@
+
+--------------------------------------------------------------------------------
+SERIE EL ROSEDAL Símbolo: ERo
+
+
+Pertenece a la familia "limosa fina, mixta, no calcárea, térmica" de los Haplacuoles típicos.
+
+Suelo aluvial no sódico ni salino. Se han desarrollado a partir de una sucesión de sedimentos marinos y continentales. Presenta vegetación hidrófila característica del pajonal.
+
+
+Perfil tipo: 327C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 18 km al N de la localidad de Ibicuy (Hoja IGM 3360-29-4) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-40 cm; negro (10YR 1,7/1) en húmedo; franco arcillo limoso; estructura en bloques subangulares medios débiles que rompen en bloques menores; friable; ligeramente plástico, ligeramente adhesivo; moteados escasos, finos, débiles; raíces abundantes; límite inferior gradual, suave.
+
+IIC1: 40-62 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco arcillo limoso; estructura en bloques angulares medios moderados que rompen en bloques menores; ligeramente firme; plástico, adhesivo; concreciones ferromanganésicas; moteados comunes, medios, precisos; de color pardo (7,5YR 4/6); raíces escasas; límite inferior claro, suave.
+
+IIIC2: 62-96 cm; pardo amarillento opaco (10YR 5/3) en húmedo; franco limoso; estructura en bloques angulares medios moderados que rompen en bloques menores; ligeramente firme; plástico, adhesivo; concreciones ferromanganésicas comunes; microconcreciones calcáreas escasas; moteados comunes, medios, precisos, de color pardo (7,5YR 4/6); raíces escasas.
+
+
+Variabilidad de rasgos
+
+El horizonte superficial es de 40cm de espesor, de color negro, muy bien provisto de materia orgánica, franco arcillo limoso y estructura en bloques subangulares medios débiles. Siguen capas de textura arcillo limosa y franco limosa en profundidad. Las concreciones ferromanganésicas se encuentran en los estratos inferiores, mientras que los moteados se observan en todo el perfil.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Es un suelo de permeabilidad moderada y drenaje muy pobre. Por su posición relativamente baja dentro del relieve, en estos suelos, la napa freática se encuentra muy cerca de la superficie o por encima de ella. También presenta anegamiento prolongado.
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Rosedal
+
+327C INTA Castelar
+
+
+
+N° de registro
+
+
+
+Horizonte
+ A1
+ IIC1
+ IIIC2
+Profundidad (cm)
+ 10-25
+ 45-60
+ 70-90
+Mat.organica (%)
+ 6.12
+ 0.04
+ -
+C (%)
+ 3.55
+ 0.02
+ -
+N (%)
+ 0.416
+ -
+ -
+C/N
+ 9
+ -
+ -
+
+T <2 u
+
+ 28.4
+
+ 27.1
+
+ 17.9
+E 2-20 u
+ 49.3
+ 57.4
+ 55.6
+X 2-50 u
+ 63.3
+ 70.7
+ 80.1
+T 50-74 u
+ 4.7
+ 1.4
+ 1.5
+U 74-100 u
+ 3.3
+ 0.6
+ 0.1
+R 100-250 u
+ 0.2
+ 0.1
+ 0.2
+A 250-500 u
+ 0.1
+ 0.1
+ 0.2
+ 500-1000 u
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 43.5
+ 29.3
+ 28.7
+Resistencia de la pasta (Ohms/cm)
+ 1402
+ 1402
+ 1332
+pH en pasta
+ 5.3
+ 6.8
+ 6.7
+PH H2O
+ 5.9
+ 7.2
+ 7.4
+pH ClK
+ 4.9
+ 6.0
+ 6.1
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ 14.1
+ 13.0
+ 11.0
+
+Mg++
+ 6.1
+ 7.8
+ 4.8
+
+Na+
+ 0.9
+ 0.8
+ 0.9
+
+K+
+ 0.6
+ 0.2
+ 0.2
+
+H+
+ 15.9
+ 4.1
+ 3.6
+% Na/T
+ 3
+ 4
+ 5
+Suma de bases, m.e./100 gr (S)
+ 21.7
+ 21.8
+ 16.9
+C.I.C., m.e./100 gr (T)
+ 29.7
+ 21.7
+ 17.6
+Saturación con bases, (%) (S/T)
+ 73
+ 100
+ 96
+

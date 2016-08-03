@@ -1,0 +1,224 @@
+--------------------------------------------------------------------------------
+SERIE LA EMILIANA Símbolo: LEm
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con epipedón de color muy oscuro, franco-limoso a franco-arcillo-limoso y un horizonte argílico, oscuro, arcillo-limoso, con moteados y concreciones de hierro-manganeso.
+Están desarrollados en materiales loessoides retransportados de textura arcillo-limosa.
+Perfil tipo: ER2-8C
+Fecha: 23-IX-1970
+Ubicación: Estancia La Emiliana (foto IRH 411-21) - Dpto. Gualeguay.
+Reconocedores: C.J. Vesco; G.W. van Barneveld.
+Ap: 00-17 cm; negro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; friable en húmedo; barnices ("humic skins") escasos y finos; límite claro, suave.
+B1: 17-28 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques subangulares medios, moderados, con tendencia a prismas compuestos irregulares; friable en húmedo; barnices ("clay-humic skins") escasos y finos; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, ondulado.
+B21t: 28-58 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares, irregulares y prismas compuestos irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes y finas; moteados de hierro- manganeso, escasos, finos y débiles; límite gradual, suave.
+B22t: 58-90 cm; pardo oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes medios, moderados; friable en húmedo; concreciones de hierro-manganeso escasas; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso comunes, finos y débiles; límite gradual, suave.
+B31ca: 90-108 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; concreciones calcáreas comunes, de hasta 3 mm; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, ondulado.
+B32ca: 108-123 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, débiles; friable en húmedo; concreciones de carbonato comunes, de hasta 3 mm; barnices ("clay skins") escasos y finos; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+C: 123 cm+; pardo (7,5YR 5/4) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; barnices ("clay skins") escasos y finos; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El solum tiene 115 cm o más (pero en algunos casos puede llegar hasta 150 cm).
+El epipedón mólico, con horizontes A1 y B1 alcanza una profundidad de 25-40 cm. Su estructura es de bloques subangulares y granular; el B1 tiene, en muchos lugares, una tendencia a formar una estructura prismática. El epipedón tiene entre 25-30% de arcilla y su color varía de negro (10YR 2/1) a gris muy oscuro (10YR 3/1).
+El horizonte argílico, de estructura prismática compuesta, tiene un espesor de 55-75 cm y normalmente está mejor expresado en su parte inferior. Cuando seco, el horizonte se agrieta poco. El porcentaje de arcilla varía de 43-53, no siempre tiene concreciones ferromanganesíferas y las concreciones de carbonatos (duras y de 2-6 mm de diámetro), aparecen a partir de los 80-100 cm pero desaparecen en el horizonte C.
+El porcentaje de calcáreo es menor del 1%, pero en algunos casos puede llegar hasta el 3%. El color del C es muy uniforme, y varía de pardo (7,5YR 5/4) a pardo oscuro (7,5YR 4/4; tiene alrededor del 35-40% de arcilla y 2-5% de arena fina.
+El perfil muestra moteados de hierro-manganeso generalmente a partir del B2, pero en el pie de lomas pueden alcanzar el epipedón.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Series similares y sus diferencias
+Se parece a serie Lazo, del Dpto. Gualeguay, pero ésta tiene más arena en todo el perfil, no tiene calcáreo y es más profunda.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial lento (en algunos lugares lento a moderado). Permeabilidad lenta. Capa freática profunda. Grupo hidrológico C.
+Erosión
+Serie La Emiliana no tiene erosión actual y generalmente no corre peligro de erosión, pero en algunos lugares existe un ligero peligro de erosión laminar.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Emiliana
+ER2-8C
+N° de registro
+ 158
+ 159
+ 160
+ 161
+ 162
+ 163
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm
+ 05-12
+ 20-25
+ 40-55
+ 75-83
+ 100-115
+ 140-155
+Mat.organica (%)
+ 3.90
+ 2.80
+ 1.60
+ 1.00
+ 0.60
+ 0.30
+C/N
+ 11.00
+ 11.00
+ 10.00
+ 10.00
+ 9.00
+ 8.00
+T <2
+ 29.00
+ 30.80
+ 50.30
+ 52.10
+ 46.00
+ 46.00
+E 2-20
+ 33.50
+ 30.80
+ 22.10
+ 20.00
+ 26.50
+ 25.50
+X 2-50
+ 67.10
+ 65.20
+ 46.20
+ 44.10
+ 50.10
+ 49.50
+T 50-100
+ 1.90
+ 1.70
+ 2.10
+ 2.20
+ 2.00
+ 2.30
+U 100-250
+ 1.30
+ 1.50
+ 0.90
+ 1.00
+ 1.20
+ 1.50
+R 250-500
+ 0.70
+ 0.80
+ 0.50
+ 0.60
+ 0.70
+ 0.70
+A 500-2000
+ 0.00
+ 0.00
+ 0.00-
+ 0.00
+ 0.00
+ 0.00
+CO3Ca (%)
+ -
+ -
+ 0.40
+ 0.60
+pH H2O
+ 5.3
+ 5.3
+ 6.0
+ 6.7
+ 7.3
+ 7.4
+pH ClK
+ 4.9
+ 4.9
+ 5.2
+ 5.9
+ 6.5
+ 6.5
+CE (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+ -
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 24.10
+ 23.00
+ 36.10
+ 37.20
+ 35.10
+ 33.00
+d
+Ca++
+ 14.00
+ 13.90
+ 25.40
+ 27.10
+ N.D.
+ N.D.
+C
+e
+a
+Mg++
+ 2.50
+ 2.50
+ 5.80
+ 5.50
+ N.D.
+ N.D.
+t
+c
+i
+a
+K+
+ 1.20
+ 0.70
+ 1.20
+ 1.30
+ 1.40
+ 1.40
+o
+m
+n
+b
+Na+
+ 0.40
+ 0.30
+ 0.40
+ 0.60
+ 0.60
+ 0.50
+e
+i
+s
+o
+H+
+ 7.30
+ 5.90
+ 5.00
+ 3.00
+ N.D.
+ N.D.
+% Na/T
+ 1.70
+ 1.30
+ 1.10
+ 1.60.
+ 1.70
+ 1.50
+Equiv. de humedad (%)
+ 29.10
+ 28.90
+ 45.70
+ 46.00
+ 41.40
+ 39.70
+P disponible (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+N.D. = No determinado

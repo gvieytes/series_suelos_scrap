@@ -1,0 +1,217 @@
+--------------------------------------------------------------------------------
+SERIE GUALEGUAY							 Símbolo: Gua
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos páquicos (Brunizems hidromórficos con epipedón engrosado).
+Son suelos desarrollados en materiales loessicos retransportados, franco-limosos a franco-arcillo-limosos. Son muy profundos, moderadamente bien drenados, con un epipedón engrosado franco-limoso y un horizonte argílico, franco-arcillo-limoso.
+Perfil tipo: ER3-17C
+Fecha: 4-XI-1970
+Ubicación: Ea. General Nazar (foto IR 412-11) - Dpto. Gualeguay
+Reconocedores: R.E. Kleinerman; G.W. van Barneveld.
+A1: 00-16 cm; pardo grisáceo oscuro (10YR 3,5/2) en húmedo, pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave. 	
+A3: 16-41 cm; pardo grisáceo oscuro (10YR 3,5/2) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados, con leve tendencia prismática en la base del horizonte; friable en húmedo; barnices ("humic-skins" y "clay-humic skins") escasos y finos; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+B21t: 41-76 cm; pardo amarillento oscuro (10YR 3/4) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados, que rompen en bloques angulares irregulares y agregados cuneiformes, medios, moderados; duro en seco, friable en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes, finas y poco intersectadas; moteados de hierro-manganeso, comunes, finos y precisos; límite gradual, suave.
+B22t: 76-105 cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medio y moderados, que rompen en bloques angulares irregulares medios, moderados; duro en seco, friable en húmedo; concreciones calcáreas escasas, de hasta 3 cm de diámetro; barnices ("clay-humic skins") comunes; moteados de hierro-manganeso comunes, finos y débiles; límite gradual, suave.
+B31: 105-143 cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medio débiles, que rompen en bloques angulares irregulares medios, moderados; duro en seco, friable en húmedo; barnices ("clay-humic skins") escasos y finos; moteados de hierro-manganeso, comunes, finos y débiles; límite gradual, suave.
+B32: 143 cm+; pardo claro (7.5YR 6/4) en húmedo; franco-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares, débiles; friable en húmedo; barnices ("clay-humic skins") escasos y finos; moteados de hierro-manganeso comunes, finos y débiles; horizonte levemente cementado por sílice.
+Variabilidad de rasgos
+El solum tiene más de 120 cm, pero se desconoce la variabilidad de su espesor; en una barrenada profunda se encontro el horizonte C a 2,20 m aproximadamente. El epipedón mólico varía entre 38 y 60 cm, en algunos casos puede llegar a 70 cm. No existen evidencias de que se trate de aporte de otro material, y eso determina su clasificación como extragrado ("páquico").
+El epipedón consta, por lo general, de un A1 y un A3, ó de un A1 y un B1 lixiviado. En muchos casos es posible encontrar dos subhorizontes en el A1 (A11 y A12). En casi todos los perfiles se observa una leve lixiviación en el horizonte subsuperficial (A3-B1) la cual, en áreas más planas y algo cóncavas, puede llegar a un A2 incipiente. La textura del epipedón varía poco: 23-27% de arcilla y un porcentaje de materia orgánica entre 2 y 4,5% en la parte superior y 1,5 a 3% en la inferior.
+El horizonte argílico tiene un espesor considerable (de 50 a 70 cm) y en muchos casos, un límite superior casi abrupto. Su porcentaje de arcilla varía de 38 a 48%. Generalmente esta mejor expresado en su parte superior, pero en otros casos es más uniforme en su totalidad. Puede tener pocas concreciones ferromanganesíferas y caras de fricción escasas a comunes. Además, existen pocos indicios de que se agriete mayormente. Su parte inferior puede tener algunas concreciones de carbonatos, pero en algunos perfiles éstas se encuentran recién en el B3. Los horizontes más profundos generalmente carecen de calcáreo. Su variabilidad se conoce poco.
+Fases
+No se determinó fases a nivel de reconocimiento. A escalas más detalladas se ha diferenciado una fase imperfectamente drenada (Gna.d2).
+Series similares y sus diferencias
+Las características de la serie son: el epipedón engrosado, el solum profundo, la textura limosa del epipedón y la arcillo-limosa del horizonte argílico, con muy poca arena en todo el perfil. Otras series varían en una o más de estas peculiaridades. La serie Gualeguay se parece a serie El Supremo, aunque ésta generalmente tiene un epipedón mólico menos profundo y, además, contiene un poco más de arena.
+Drenaje
+Moderadamente bien drenado (existe una fase imperfectamente drenada); escurrimiento superficial lento; permeabilidad muy lenta. Napa freática moderadamente profunda que, en años excepcionalmente húmedos, puede llegar a 1.5-2 m de la superficie. Grupo hidrológico C.
+Erosión
+La serie Gualeguay no tiene erosión actual ni peligro de erosión.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Gualeguay
+ER3-17C
+Nº de registro
+ 282
+ 283
+ 284
+ 285
+ 286
+ 287
+Horizonte
+ A1
+ A3
+ B21t
+ B22t
+ B31
+ B32
+Profundidad (cm)
+ 05-15
+ 20-32
+ 50-68
+ 80-95
+ 110-135
+ 145-170
+Mat.organica (%)
+ 3.1
+ 2.0
+ 1.0
+ 0.4
+ 0.3
+ 0.2
+N (%)
+ 0.20
+ 0.11
+ 0.06
+ 0.03
+ 0.02
+ ND
+C/N
+ 9
+ 10
+ 9
+ 7
+ 6
+ ND
+T < 2 μ
+ 24.7
+ 25.6
+ 46.4
+ 39.4
+ 35.7
+ 26.4
+E 2-20 μ
+ 32.2
+ 34.7
+ 22.2
+ 29.3
+ 32.2
+ 39.7
+X 2-50 μ
+ 69.4
+ 69.0
+ 48.9
+ 56.0
+ 57.8
+ 72.8
+T 50-100 μ
+ 4.3
+ 4.0
+ 3.9
+ 3.9
+ 5.4
+ 1.0
+U 100-250 μ
+ 1.1
+ 1.0
+ 0.5
+ 0.5
+ 0.8
+ 0.3
+R 250-500 μ
+ 0.4
+ 0.4
+ 0.3
+ 0.2
+ 0.3
+ 0.1
+A 500-1000 μ
+ 0.1
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.3
+ 0.0
+ 0.0
+pH H2O
+ 5.5
+ 5.4
+ 6.2
+ 6.9
+ 6.8
+ 7.0
+pH ClK
+ 5.0
+ 5.0
+ 5.3
+ 6.1
+ 5.9
+ 6.1
+CE (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+ -
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 20.4
+ 19.0
+ 31.0
+ 26.0
+ 23.2
+ 23.3
+ d Ca++
+ 11.9
+ 11.5
+ 19.0
+ -
+ 14.0
+ 14.3
+C e
+Mg++
+ 2.9
+ 2.7
+ 6.9
+ -
+ 5.9
+ 5.9
+t c
+i a K+
+ 1.5
+ 0.8
+ 1.6
+ 1.5
+ 1.4
+ 1.4
+o m
+n b Na+
+ 0.2
+ 0.2
+ 0.3
+ 0.4
+ 0.4
+ 0.5
+e i
+s o H+
+ 5.0
+ 5.0
+ 4.1
+ -
+ 2.1
+ 1.5
+% Na/T
+ 0.98
+ 1.05
+ 0.97
+ 1.54
+ 1.72
+ 2.15
+Equivalente de humedad (%)
+ 26.2
+ 26.4
+ 41.0
+ 33.3
+ 31.0
+ 30.1
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -

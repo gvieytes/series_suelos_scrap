@@ -1,0 +1,251 @@
+--------------------------------------------------------------------------------
+SERIE DURAZNO Símbolo: Dz
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelos con un epipedón profundo, franco-arcillo-limoso, bien provisto de materia orgánica y un horizonte argílico oscuro, arcillo-limoso.
+Están moderadamente bien drenados y tienen concreciones calcáreas a partir de la base del horizonte argílico.
+Están desarrollados a partir de sedimentos limo-loessoides retransportados.
+Perfil tipo: ER1-107C
+Fecha: 28-VII-94
+Ubicación: Durazno (foto 443-14) - Dpto. Tala
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A11: 00-11 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic-skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+A12: 11-22 cm; negro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares finos, moderados; ligeramente duro en seco, friable en húmedo; barnices (humic-skins") abundantes; moteados de hierro-manganeso comunes, finos y débiles; límite abrupto, suave.
+B21t: 22-42 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco y firme en húmedo; caras de fricción ("slickensides") comunes y finas; barnices ("clay-skins") escasos a comunes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 42-65 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en bloques angulares irregulares gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y medias; barnices ("clay-skins") escasos; moteados de hierro-manganeso comunes, medios y precisos; presencia de termitas; límite claro, ondulado.
+B31: 65-90 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques cuneiformes gruesos, fuertes; duro en seco, firme en húmedo; caras de fricción ("slickensides") muy abundantes, gruesas e intersectadas; concreciones calcáreas escasas y finas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, ondulado.
+B32ca: 90-110 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; ligeramente duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y medias; carbonatos libres en la masa abundantes a muy abundantes; concreciones calcáreas abundantes y finas; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual, ondulado.
+Cca: 110 cm +; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay-skins") escasos y finos; carbonatos libres en la masa muy abundantes; concreciones calcáreas muy abundantes y finas; moteados de hierro-manganeso abundantes, medios y sobresalientes.
+Variabilidad de rasgos
+El solum varía de 110 a 120 cm. El epipedón mólico tiene un espesor de 20-30 cm, con estructura granular y bloques subangulares; el porcentaje de arcilla varía entre 34-37% y tiene alrededor del 5% de materia orgánica. Normalmente el epipedón consta de un horizonte A11 franco-arcillo-limoso, seguido de un A12 algo más oscuro y con mayor cantidad de moteados de hierro-manganeso.
+El horizonte B2t, argílico, tiene un espesor de 45-50 cm con un contenido de arcilla de 52-54%, es de color oscuro y tiene abundantes caras de fricción ("slickensides").
+El calcáreo, en forma de concreciones o como carbonatos libres, aparece a los 65 cm de profundidad aproximadamente, como concreciones finas y escasas en el horizonte B32, aumentando notablemente en profundidad.
+Fases
+No se describieron fases a nivel de reconocimiento.
+Series similares y sus diferencias
+La serie Durazno se parece a la serie Raigón, pero ésta se desarrolla en materiales más arcillosos y, además se ubica en una posición fisiográfica distinta (terraza).
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La serie muestra una erosión actual leve, y tiene leve peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Durazno
+ER1-107C
+Nº de registro
+ 8680
+ 8681
+ 8682
+ 8683
+ 8684
+ 8685
+ 8686
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B31t
+ B32ca
+ Cca
+Profundidad (cm)
+ 02-10
+ 14-20
+ 24-40
+ 45-60
+ 70-85
+ 95-105
+ 120-130
+Mat.organica (%)
+ 5.40
+ 5.25
+ 2.91
+ 2.27
+ 1.49
+ 0.71
+ 0.35
+N (%)
+ 0.22
+ 0.19
+ 0.13
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+C/N
+ 14
+ 15
+ 12
+ -
+ -
+ -
+ -
+T < 2 u
+ 34.57
+ 37.08
+ 52.15
+ 53.68
+ 49.98
+ 49.79
+ 49.01
+E 2-20 u
+ 32.71
+ 35.15
+ 27.84
+ 26.84
+ 30.22
+ 23.70
+ 24.21
+X 2-50 u
+ 60.94
+ 60.16
+ 45.49
+ 43.58
+ 47.59
+ 48.37
+ 49.00
+T 50-100 u
+ 1.81
+ 0.65
+ 1.20
+ 1.42
+ 1.52
+ 0.77
+ 0.68
+U 100-500 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+R 500-1000 u
+ 0.06
+ 0.07
+ 0.03
+ 0.04
+ 0.03
+ 0.03
+ 0.04
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ Vest.
+ 4.05
+ 8.10
+PH H2O
+ 5.7
+ 5.3
+ 5.7
+ 6.4
+ 7.3
+ 7.9
+ 8.0
+pH ClK
+ 5.1
+ 4.7
+ 4.8
+ 5.4
+ 6.3
+ 7.0
+ 7.1
+C.E.(mmhos/cm)
+ 0.56
+ 0.36
+ 0.54
+ 0.39
+ 0.64
+ 0.93
+ 0.96
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 31.00
+ 33.40
+ 40.80
+ 40.90
+ 40.10
+ 40.00
+ 39.80
+d
+Ca++
+ 23.40
+ 25.00
+ 30.20
+ 30.30
+ 29.70
+ 29.60
+ N.D.
+C
+e
+a
+Mg++
+ 4.50
+ 4.90
+ 6.80
+ 6.80
+ 6.70
+ 6.60
+ N.D.
+t
+c
+i
+a
+K+
+ 1.50
+ 1.60
+ 1.80
+ 1.80
+ 1.70
+ 1.70
+ 1.70
+o
+m
+n
+b
+Na+
+ 1.00
+ 1.10
+ 1.40
+ 1.40
+ 1.30
+ 1.30
+ 1.70
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 3.23
+ 3.29
+ 3.43
+ 3.42
+ 3.24
+ 3.25
+ 4.27
+Equival. de humedad (%)
+ 31.13
+ 35.55
+ 49.75
+ 50.29
+ 48.21
+ 47.24
+ 46.28
+N.D.= No determinado.

@@ -1,0 +1,11 @@
+ARROYO_PANTANOSO.docx.txt
+ARROYO_YUQUERI.docx.txt
+CARABALLO.docx.txt
+CRESPO.docx.txt
+EL_TRIANGULO.docx.txt
+GALLO.docx.txt
+GENERAL_CAMPOS.docx.txt
+LA_SELVA.docx.txt
+TATUTÍ.docx.txt
+TEZANOS_PINTO.docx.txt
+YERUÁ.docx.txt

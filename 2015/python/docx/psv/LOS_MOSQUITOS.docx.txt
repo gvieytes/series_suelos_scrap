@@ -1,0 +1,308 @@
+
+--------------------------------------------------------------------------------
+SERIE LOS MOSQUITOS Símbolo: LMq
+
+
+Pertenece a la familia "limosa fina, mixta, térmica" de los Natracualfes típicos.
+Son suelos imperfectamente drenados, con un epipedón muy lixiviado y altos contenidos de sodio intercambiable en todo el perfil, y con concreciones y moteados ferromanganesíferos desde la superficie.
+Están desarrollados en materiales aluviales antiguos.
+
+
+Perfil tipo: ER7-66C
+Fecha: 19-IV-1989.
+Ubicación: Estancia "Los Cerrillos" (foto 427-106) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+
+
+A2: 00-24 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; gris parduzco claro (10YR 6/2) en seco; franco; estructura en bloques subangulares, medios, débiles; friable en húmedo; barnices "humic skins", escasos y finos; concreciones de hierro escasas, de hasta 0.1 cm; moteados de hierro y manganeso comunes, medios y precisos; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; lenguas de limo suelto entre las caras de los agregados; horizonte muy lixiviado; límite claro, suave.
+
+B21tca: 24-48 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares medios, moderados; friable en húmedo; barnices "humic skins", muy escasos y finos y "clay skins", abundantes, medios; moteados de hierro y manganeso escasos, finos y débiles; abundante cantidad de carbonatos libres en la masa; límite claro, suave.
+
+B22tca: 48-70 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; franco-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins", abundantes y medios; moteados de hierro y manganeso escasos, finos y débiles; muy escasa cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 2.5 cm, escasas; límite gradual, ondulado.
+
+B3ca: 70-100 cm; pardo (7.5YR 5/4) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins", escasos y finos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; límite difuso, suave.
+
+Cca: 100+ cm; color abigarrado; franco-limoso; estructura masiva; muy friable en húmedo; moteados de hierro y manganeso abundantes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes.
+
+
+Variabilidad de rasgos
+
+El solum tiene más de 100 cm, aunque se desconoce la variabilidad de su espesor.
+
+El epipedón está compuesto de un horizonte álbico espeso, con 14-20 % de arcilla. En algunos polipedones se han descripto perfiles con un A1 lixiviado seguido de un A2 espeso (de hasta 35 cm). Está siempre muy lixiviado y con una estructura degradada, de bloques débiles a masiva. En campos de pastoreo se produce el fenómeno de degradación por el pisoteo del ganado, ocasionando encharcamiento temporario en algunos sectores.
+
+El B2t, argílico, tiene una estructura prismática poco desarrollada, entre la cual es común encontrar "lenguas" de material limoso del horizonte A2. Tiene entre 25 y 32 % de arcilla, y arena muy fina y fina con valores que oscilan de 10-15 % en todo el perfil. Es abundante la presencia de cutanes de arcilla ("clay skins" o "argilanes").
+
+El perfil es fuertemente alcalino, con 17-26 % de sodio intercambiable. En algunos casos, es común el aumento de alcalinidad recién a partir de los 35-50 cm de profundidad.
+
+
+Fases
+
+No se conocen a la escala de reconocimiento (1:100.000).
+
+
+Series similares y sus diferencias
+
+La serie Los Mosquitos se parece a la serie Los Nardos (que tiene un epipedón mólico y es alcalina en profundidad) y a la serie General Nazar (pero ésta no posee más del 15 % de sodio intercambiable en todo el perfil) del departamento Gualeguay.
+
+
+Drenaje
+
+Pobre a imperfectamente drenado; escurrimiento superficial muy lento a estancado. Permeabilidad lenta a muy lenta. Napa freática fluctuante. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Los Mosquitos no tiene erosión actual ni presenta peligro de erosión potencial. En algunos sectores, existe moderado a severo peligro de deposición.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Los Mosquitos
+
+ER7-66C
+
+
+
+
+
+Nº de registro
+ 5.140
+ 5.141
+ 5.142
+ 5.143
+ 5.144
+Horizonte
+ A1/A2
+ B21tca
+ B22tca
+ B3ca
+ Cca
+Profundidad (cm)
+ 10-20
+ 30-44
+ 55-68
+ 75-90
+ 110-135
+Mat.organica (%)
+ 0.62
+ 0.41
+ 0.34
+ 0.28
+ 0.14
+N (%)
+ 0.03
+ 0.04
+ 0.03
+ 0.03
+ 0.02
+C/N
+ 11
+ 7
+ 7
+ 5
+ 4
+
+T < 2 u
+
+ 14.77
+
+ 30.70
+
+ 23.47
+
+ 15.96
+
+ 13.98
+E 2-20 u
+ 14.74
+ 26.36
+ 25.99
+ 24.63
+ 17.08
+X 2-50 u
+ 44.59
+ 45.30
+ 51.15
+ 58.11
+ 51.24
+T 50-100 u
+ 18.00
+ 11.66
+ 12.17
+ 13.20
+ 18.45
+U 100-500 u
+ 21.23
+ 11.41
+ 12.16
+ 11.95
+ 15.37
+R 500-1000 u
+ 1.36
+ 0.77
+ 0.95
+ 0.74
+ 0.85
+A 1000-2000 u
+ 0.05
+ 0.17
+ 0.10
+ 0.03
+ 0.12
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ 1.7
+
+ 1.8
+
+ 2.3
+
+ 10.7
+
+ 13.4
+PH H2O
+ 10.2
+ 10.3
+ 10.2
+ 10.0
+ 9.7
+pH ClK
+ 8.7
+ 9.0
+ 8.9
+ 8.3
+ 7.9
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+ 19.60
+
+
+ 28.60
+
+
+ 28.70
+
+
+ 27.90
+
+
+ 27.20
+
+
+d
+
+Ca++
+
+ 10.80
+
+ 19.20
+
+ 16.20
+
+ 19.50
+
+ 18.20
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 1.90
+ 2.60
+ 2.70
+ 1.70
+ 2.80
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 0.86
+ 1.30
+ 1.20
+ 1.10
+ 1.00
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 4.90
+ 4.00
+ 7.50
+ 6.50
+ 4.80
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ 0.20
+ 0.20
+ N.D.
+ -
+
+
+
+
+
+
+
+
+
+% Na/T
+
+
+ 25.00
+ 13.99
+ 26.13
+ 23.30
+ 17.65
+
+Equival. de humedad (%)
+
+ 26.07
+
+ 49.01
+
+ 46.97
+
+ 33.03
+
+ 25.59
+

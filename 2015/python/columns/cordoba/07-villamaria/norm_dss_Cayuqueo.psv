@@ -1,0 +1,48 @@
+dss_Cayuqueo.psv ->> ID..........................: 705
+dss_Cayuqueo.psv ->> CLASIFICACION...............: Natracuol típico
+dss_Cayuqueo.psv ->> SERIE.......................: CAYUQUEO
+dss_Cayuqueo.psv ->> UBICACION...................: 1,3 km al Oeste de Estación Cayuqueo, departamento San Martín
+dss_Cayuqueo.psv ->> PROVINCIA...................: CORDOBA
+dss_Cayuqueo.psv ->> LATITUD.....................: S324800
+dss_Cayuqueo.psv ->> LONGITUD....................: O630700
+dss_Cayuqueo.psv ->> ALTITUD.....................: 155
+dss_Cayuqueo.psv ->> PENDIENTE...................: FALTA!
+dss_Cayuqueo.psv ->> DRENAJE.....................: FALTA!
+dss_Cayuqueo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_Cayuqueo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_Cayuqueo.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TÉRMICA
+dss_Cayuqueo.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_Cayuqueo.psv ->> HORIZONTE->NOMBRE(S)........: a1 | bt | bc | ck
+dss_Cayuqueo.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-19 | 19-42 | 42-74 | 74a+
+dss_Cayuqueo.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.93 | 0.68 | 0.17 | 
+dss_Cayuqueo.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.7 | 0.4 | 0.1 | 
+dss_Cayuqueo.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.20 | 0.09 | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->RELACIÓN C/N.....: 8.5 | 4.4 | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->ARCILLA 2 (%)....: 21.5 | 39.4 | 23.9 | 14.4
+dss_Cayuqueo.psv ->> HORIZONTE->LIMO 2-50 (%)....: 64.9 | 50.2 | 55.8 | 62.5
+dss_Cayuqueo.psv ->> HORIZONTE->AMF 50-100 (%)...: 12.1 | 11.2 | 18.2 | 22.4
+dss_Cayuqueo.psv ->> HORIZONTE->AF 100-250 (%)...: 0.3 | 0.3 | 0.4 | 0.4
+dss_Cayuqueo.psv ->> HORIZONTE->AM 250-500 (%)...: 0.2 | 0.2 | 0.2 | 0.2
+dss_Cayuqueo.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | 0.3 | 
+dss_Cayuqueo.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0.5 | 0.9 | 2.2
+dss_Cayuqueo.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 29.6 | 38.2 | 28.8 | 20.5
+dss_Cayuqueo.psv ->> HORIZONTE->PH PASTA.........: 7.6 | 8.0 | 8.6 | 8.4
+dss_Cayuqueo.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7.9 | 8.6 | 8.9 | 9.0
+dss_Cayuqueo.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.7 | - | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.5 | - | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->CI ME/100G-Na +..: 4.7 | 3.2 | - | 6.2
+dss_Cayuqueo.psv ->> HORIZONTE->CI ME/100G-K +...: 1.8 | 1.0 | - | 1.9
+dss_Cayuqueo.psv ->> HORIZONTE->CI ME/100G-H +...: - | - | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->Na+ % DEL VALOR T: 25.2 | 15.9 | 33 | 56.3
+dss_Cayuqueo.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | 5.14 | 9.01 | 
+dss_Cayuqueo.psv ->> HORIZONTE->SUM.B. ME/100G(S): 18.7 | - | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->CIC ME/100G(T)...: 18.6 | 20.1 | 16.5 | 11.0
+dss_Cayuqueo.psv ->> HORIZONTE->SAT.B % (S/T)....: - | - | - | 
+dss_Cayuqueo.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | 9.2 | 10.8 | 
+dss_Cayuqueo.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | 1.4 | 2.2 | 
+dss_Cayuqueo.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | 40 | 84 | 
+dss_Cayuqueo.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | 2 | 2 | 
+dss_Cayuqueo.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | 12.8 | 4.8 | 
+dss_Cayuqueo.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | 27.2 | 59.9 | 
+dss_Cayuqueo.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | 15.8 | 36.8 | 

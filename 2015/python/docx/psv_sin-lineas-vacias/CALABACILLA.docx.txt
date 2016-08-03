@@ -1,0 +1,229 @@
+	
+--------------------------------------------------------------------------------
+SERIE CALABACILLA Símbolo: Cb
+Pertenece a la familia "franca fina, mixta, térmica" de los Hapludoles fluvénticos (suelos arenosos pardos o mestizos, con subsuelo denso).
+Son suelos oscuros, con un epipedón de 35 a 45 cm de espesor, de textura franca, seguido por una discontinuidad litológica (II) -de origen fluvial- que consiste en sedimentos franco-arcillosos y de colores pardos, que pueden tener hasta un 10 % de inclusiones de materiales amarillentos con abundantes concreciones de hierro-manganeso y con cantos rodados finos.
+Perfil tipo: ER2-54C
+Fecha: 22-XI-72.
+Ubicación: Puerto Yeruá (foto 153-7)- Dpto. Concordia.
+Reconocedores: C.J. Vesco; W.H. Perilli.
+A11: 00-20 cm; (10YR 2,5/1) en húmedo; (10YR 4/1) en seco; franco-arcillo-arenoso; estructura en bloques subangulares, medios, moderados; duro en seco; friable en húmedo; barnices ("humic-skins"), comunes, finos; moteados de hierro escasos, finos y débiles; concreciones de hierro-manganeso abundantes, de hasta 3 mm; límite claro, suave.
+A12: 20-35 cm; (10YR 2,5/1) en húmedo; franco-arcillo-arenoso; estructura en prismas compuestos irregulares, medios, que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; barnices ("clay-humic-skins") abundantes, finos; concreciones de hierro-manganeso abundantes, de hasta 3 mm; límite abrupto, suave.
+IIB21t: 35-66 cm; (7,5YR 3/2) en húmedo; arcillo-arenoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, moderados; firme en húmedo; barnices ("clay-humic-skins") comunes, finos; caras de fricción (`slickensides') abundantes, intersectadas; concreciones de hierro-manganeso abundantes, de hasta 2 mm; horizonte con 2% de cantos rodados; límite claro, suave.
+IIB22t: 66-92 cm; (7,5YR 3/2) en húmedo; franco-arcillo-arenoso; estructura en bloques angulares irregulares, medios, débiles; firme en húmedo; caras de fricción ("slickensides") abundantes, finas, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso comunes, de hasta 1 mm; horizonte con 5% de cantos rodados, de 5 mm de diámetro; límite claro, suave.
+IIB3ca: 92-116 cm; (7,5YR 4/4) en húmedo; franco-arcillo-arenoso; friable en húmedo; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas, de hasta 0,5 mm; concreciones calcáreas comunes, de hasta 4 mm; horizonte con 5% de cantos rodados de hasta 5 mm de diámetro.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por el mayor o menor espesor del epipedón, que tiene buena estructuración y contiene 35 a 45 % de arena, con buen nivel de materia orgánica.
+Los horizontes subsuperficiales muestran caras de fricción ("slickensides") y se observan grietas en las épocas de sequías. Presentan texturas franco-arcillosas, estructura débil a masiva, son muy poco permeables y penetrables por las raíces.
+Fases
+No se han descripto a escala de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Mandisoví, del departamento Concordia pero ésta tiene mayor porcentaje de arena en el epipedón, y un sólum más profundo con concreciones de calcáreo que aparecen a los 90-100 cm.
+Drenaje
+Imperfectamente drenados. Permeabilidad muy lenta. Escurrimiento superficial medio. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Calabacilla presenta una erosión actual leve, y la susceptibilidad la misma es moderada.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Calabacilla
+ER2-54C
+Horizonte
+ A11
+ A12
+ IIB21t
+ IIB22t
+ IIB3ca
+Profundidad (cm)
+ 4-15
+ 22-33
+ 42-56
+ 69-80
+ 92-116
+Mat.organica (%)
+ 5,02
+ 3,53
+ 1,24
+ 0,76
+ 0,60
+C (%)
+ 2,92
+ 2,05
+ 0,72
+ 0,44
+ 0,35
+N (%)
+ 0,67
+ 0,63
+ 0,58
+ 0,47
+ 0,36
+C/N
+ 4,0
+ 3,0
+ 1,24
+ 0,94
+ 0,97
+T
+ <2 u
+ 11,0
+ 11,2
+ 25,1
+ 30,5
+ 23,9
+E
+ 2-20 u
+ 17,8
+ 13,3
+ 15,9
+ 16,5
+ 21,3
+X
+ 2-50 u
+ 24,2
+ 26,0
+ 20,5
+ 21,4
+ 20,6
+T
+ 50-100 u
+ -
+ -
+ -
+ -
+ -
+U
+ 100-250 u
+ 18,3
+ 19,6
+ 15,6
+ 13,2
+ 14,0
+R
+ 250-500 u
+ -
+ -
+ -
+ -
+ -
+A
+ 500-1000 u
+ 28,5
+ 29,6
+ 22,6
+ 18,2
+ 20,2
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+% Saturación de Agua
+ 40,8
+ 38,7
+ 59,9
+ 61,6
+ 57,7
+Equivalente de Humedad (%)
+ 17,3
+ 17,4
+ 27,6
+ 30,7
+ 28,3
+pH en pasta
+ 5,3
+ 5,3
+ 6,2
+ 7,1
+ 7,3
+PH H2O
+ 5,3
+ 5,7
+ 6,2
+ 6,8
+ 7,4
+pH ClK
+ 4,5
+ 4,4
+ 4,3
+ 4,2
+ 5,8
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+Sales solubles grs (%)
+ -
+ -
+ -
+ -
+ -
+Resistencia de la pasta (Ohms/cm)
+ 1162
+ 1278
+ 697
+ 581
+ 581
+ Cationes de cambio
+ m.e./100 gr
+Ca++
+ 10,0
+ 20,0
+ 20,0
+ 21,0
+ 19,8
+Mg++
+ 1,4
+ 1,4
+ 0,4
+ 1,8
+ 2,0
+Na+
+ 0,3
+ 0,4
+ 0,1
+ 0,4
+ 0,4
+K+
+ 0,3
+ 0,2
+ 0,2
+ 0,4
+ 0,4
+Valor S (m.e./ 100 gr)
+ 12,0
+ 14,0
+ 20,7
+ 23,8
+ 22,5
+H de cambio (m.e. / 100 gr)
+ 1,1
+ 1,1
+ 1,1
+ 1,1
+ 1,1
+Valor T (m.e. / 100 gr)
+ 13,3
+ 15,5
+ 22,1
+ 24,5
+ 23,8
+% de saturación de T
+ 90,2
+ 90,2
+ 90,2
+ 96,9
+ 94,5
+% de saturación de S + H
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 2,3
+ 2,6
+ 0,5
+ 1,6
+ 1,7

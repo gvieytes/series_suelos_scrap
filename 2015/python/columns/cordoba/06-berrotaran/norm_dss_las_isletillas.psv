@@ -1,0 +1,40 @@
+dss_las_isletillas.psv ->> ID..........................: 608
+dss_las_isletillas.psv ->> CLASIFICACION...............: Haplustol típico
+dss_las_isletillas.psv ->> SERIE.......................: LAS ISLETILLAS (Islt)
+dss_las_isletillas.psv ->> UBICACION...................: 4,3 Km al Norte de Hernando
+dss_las_isletillas.psv ->> PROVINCIA...................: CORDOBA
+dss_las_isletillas.psv ->> LATITUD.....................: S330700
+dss_las_isletillas.psv ->> LONGITUD....................: O615100
+dss_las_isletillas.psv ->> ALTITUD.....................: 99
+dss_las_isletillas.psv ->> PENDIENTE...................: FALTA!
+dss_las_isletillas.psv ->> DRENAJE.....................: FALTA!
+dss_las_isletillas.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_las_isletillas.psv ->> PERMEABILIDAD...............: FALTA!
+dss_las_isletillas.psv ->> TIPO DE SUELO...............: FRANCO LIMOSA
+dss_las_isletillas.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_las_isletillas.psv ->> HORIZONTE->NOMBRE(S)........: ap | b | c1 | c2ca
+dss_las_isletillas.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-48 | 48-95 | 95a+
+dss_las_isletillas.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.2 | 1.7 | - | 
+dss_las_isletillas.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.3 | 1.0 | - | 
+dss_las_isletillas.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.13 | 0.12 | - | 
+dss_las_isletillas.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.0 | 8.3 | - | 
+dss_las_isletillas.psv ->> HORIZONTE->ARCILLA 2 (%)....: 20.2 | 21.5 | 15.2 | 14.6
+dss_las_isletillas.psv ->> HORIZONTE->LIMO 2-50 (%)....: 59.1 | 54.0 | 59.1 | 59.9
+dss_las_isletillas.psv ->> HORIZONTE->AMF 50-100 (%)...: 19.9 | 22.4 | 25.7 | 26.0
+dss_las_isletillas.psv ->> HORIZONTE->AF 100-250 (%)...: 0.7 | 0.3 | 0.9 | 0.9
+dss_las_isletillas.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | 
+dss_las_isletillas.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | 
+dss_las_isletillas.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 
+dss_las_isletillas.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 0 | 0 | 4.2
+dss_las_isletillas.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 22.1 | 24.4 | 19.9 | 19.1
+dss_las_isletillas.psv ->> HORIZONTE->PH PASTA.........: 5.6 | 6.0 | 6.6 | 8.0
+dss_las_isletillas.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.0 | 6.3 | 7.1 | 8.2
+dss_las_isletillas.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 14.0 | 16.1 | 14.3 | 	 
+dss_las_isletillas.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.9 | 0.7 | 1.6 | 
+dss_las_isletillas.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.1 | 0.1 | 0.1
+dss_las_isletillas.psv ->> HORIZONTE->CI ME/100G-K +...: 2.4 | 2.0 | 1.6 | 1.5
+dss_las_isletillas.psv ->> HORIZONTE->CI ME/100G-H ++..: 2.5 | 1.7 | 0.8 | 
+dss_las_isletillas.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1 | 0.5 | 0.5 | 0.7
+dss_las_isletillas.psv ->> HORIZONTE->SUM.B. ME/100G(S): 17.5 | 18.9 | 17.6 | 
+dss_las_isletillas.psv ->> HORIZONTE->CIC ME/100G(T)...: 19.9 | 20.6 | 18.3 | 14.5
+dss_las_isletillas.psv ->> HORIZONTE->SAT.B % (S/T)....: 88 | 92 | 96 | 

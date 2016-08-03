@@ -1,0 +1,539 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr1
+Capacidad de uso: IVec
+Índice de productividad: 51
+Descripción: Asociación de fases moderadamente inclinadas
+Series: ALTO GRANDE | MACHA | LOS POZOS
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr2
+Capacidad de uso: VIes
+Índice de productividad: 48
+Descripción: Complejo de suelos
+Series: ALTO GRANDE variante calcárea moderada a severamente erosionada | MACHA moderadamente inclinada | MACHA variante calcárea moderadamente erosionada
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr3
+Capacidad de uso: VIes
+Índice de productividad: 40
+Descripción: Complejo moderadamente erosionado
+Series: ALTO GRANDE | RUTA 60 | CAÑADA DE RÍO PINTO | suelos menores fluviales erosionados
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr4
+Capacidad de uso: VIes
+Índice de productividad: 50
+Descripción: Complejo de fases moderada a severamente erosionadas
+Series: ALTO GRANDE | EL CORTIJO | LA EMILIA ligeramente erosionada
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr5
+Capacidad de uso: IVec
+Índice de productividad: 60
+Descripción: Asociación ligera a moderadamente erosionada
+Series: ALTO GRANDE | JESÚS MARÍA | BARRANCA YACO
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr6
+Capacidad de uso: IIIec
+Índice de productividad: 75
+Descripción: Asociación ligera a moderadamente inclinada
+Series: ALTO GRANDE ligeramente erosionada | JESÚS MARÍA | SANTA CATALINA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr7
+Capacidad de uso: IVec
+Índice de productividad: 60
+Descripción: Complejo de suelos
+Series: ALTO GRANDE moderadamente inclinada | BELÉN | LA PAZ moderada a fuertemente inclinada
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AGr8
+Capacidad de uso: IVsc
+Índice de productividad: 65
+Descripción: Complejo moderadamente inclinado
+Series: ALTO GRANDE | JESÚS MARIA | LA LONJA fase muy inclinada
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Asc1
+Capacidad de uso: IIIc
+Índice de productividad: 80
+Descripción: Complejo de suelos
+Series: ASCOCHINGA | ASCOCHINGA sobre franco arenoso
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Be1
+Capacidad de uso: IIIec
+Índice de productividad: 80
+Descripción: Asociación ligera a moderadamente inclinada
+Series: BELÉN | SANTA CATALINA | EL CRUCE
+Porcentajes: 55 | 30 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Be2
+Capacidad de uso: IIIec
+Índice de productividad: 75
+Descripción: Asociación de series
+Series: BELÉN fase acumulada | SINSACATE ligeramente erosionada por agua
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Be3
+Capacidad de uso: IVec
+Índice de productividad: 60
+Descripción: Asociación de series
+Series: BELÉN ligeramente erosionada y acumulada | SINSACATE moderadamente erosionada | lechos arenosos de depósitos recientes
+Porcentajes: 60 | 30 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Be4
+Capacidad de uso: IIIec
+Índice de productividad: 73
+Descripción: Asociación de Series
+Series: BELÉN fase acumulada | fase moderadamente inclinada de JESÚS MARÍA | fase moderadamente inclinada de ALTO GRANDE
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BYc1
+Capacidad de uso: IIIec
+Índice de productividad: 75
+Descripción: Asociación de Series
+Series: BARRANCA YACO | LA EMILIA | LA EMILIA fase ligera a moderadamente erosionada por agua
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BYc2
+Capacidad de uso: IIIes
+Índice de productividad: 70
+Descripción: Complejo suave a moderadamente inclinado
+Series: BARRANCA YACO | LAS MERCEDES I | LA EMILIA | RUTA 60
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BYc3
+Capacidad de uso: IVsc
+Índice de productividad: 55
+Descripción: Complejo indiferenciado de Series
+Series: BARRANCA YACO | LA EMILIA | PUERTA DE HIERRO II | otros suelos de textura arenosa franca poco desarrollados
+Porcentajes: | | | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BYc4
+Capacidad de uso: IIIc
+Índice de productividad: 75
+Descripción: Asociación de Series
+Series: BARRANCA YACO | JESÚS MARIA | EL CORTIJO
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BYc5
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Complejo indiferenciado de Series
+Series: BARRANCA YACO | BARRANCA YACO fase acumulada | LA EMILIA | EL CORTIJO en fases inclinadas | suelos menores arenosos poco desarrollados
+Porcentajes: | | | |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN1
+Capacidad de uso: VIIes
+Índice de productividad: 12
+Descripción: Complejo de fases fuertemente inclinadas o colinadas y rocosas
+Series: CERRO NEGRO | RODEO VIEJO | roca expuesta
+Porcentajes: 50 | 10 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN2
+Capacidad de uso: VIIes
+Índice de productividad: 20
+Descripción: Complejo de Series
+Series: CERRO NEGRO | RODEO VIEJO | roca expuesta | suelos menores profundos de valles aluviales
+Porcentajes: 45 | 25 | 15 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN3
+Capacidad de uso: VIIes
+Índice de productividad: 26
+Descripción: Complejo de Series
+Series: CERRO NEGRO (adjunto taxonómico más frío y húmedo) | RODEO VIEJO | roca expuesta
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN4
+Capacidad de uso: VIIes
+Índice de productividad: 15
+Descripción: Complejo de suelos
+Series: CERRO NEGRO (adjunto taxonómico más húmedo) | ESTANCIA TODOS LOS SANTOS | roca expuesta
+Porcentajes: 50 | 10 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN5
+Capacidad de uso: VIIes
+Índice de productividad: 18
+Descripción: Complejo de Suelos
+Series: CERRO NEGRO | ESTANCIA TODOS LOS SANTOS | Roca del complejo metamórfico
+Porcentajes: 50 | 20 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN6
+Capacidad de uso: VIIes
+Índice de productividad: 23
+Descripción: Complejo de Suelos
+Series: CERRO NEGRO (adjunto taxonómico más húmedo y frío) | ESTANCIA TODOS LOS SANTOS | Roca expuesta
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN7
+Capacidad de uso: VIIes
+Índice de productividad: 8
+Descripción: Complejo de Suelos
+Series: CERRO NEGRO muy escarpada | ESTANCIA TODOS LOS SANTOS | Roca expuesta
+Porcentajes: 60 | 10 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN8
+Capacidad de uso: VIIes
+Índice de productividad: 15
+Descripción: Complejo de Suelos
+Series: CERRO NEGRO (taxadjunto más húmedo y frío) | ESTANCIA TODOS LOS SANTOS | Roca expuesta
+Porcentajes: 50 | 35 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN9
+Capacidad de uso: VIIes
+Índice de productividad: 5
+Descripción: Complejo en fase muy escarpada y colinada
+Series: CERRO NEGRO | Roca expuesta
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: CN10
+Capacidad de uso: VIIes
+Índice de productividad: 14
+Descripción: Complejo de Series
+Series: CERRO NEGRO (taxadjunto más árido) | ESTANCIA TODOS LOS SANTOS | Roca expuesta
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co16
+Capacidad de uso: VIIsc
+Índice de productividad: 23
+Descripción: Complejo indeterminado de suelos aluviales arenosos poco desarrollados y en capas vinculados a paleocauces
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co17
+Capacidad de uso: VIIes
+Índice de productividad: 25
+Descripción: Complejo indeterminado de suelos arenosos, poco desarrollados y en capas con erosión lineal severa y paleocauces hidromórficos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co18
+Capacidad de uso: VIIws
+Índice de productividad: 20
+Descripción: Complejo indeterminado de cauces de los ríos Macha y Totoral
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co19
+Capacidad de uso: VIes
+Índice de productividad: 35
+Descripción: Complejo indeterminado de suelos de valles serranos y nacientes del río Macha
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co20
+Capacidad de uso: VIes
+Índice de productividad: 36
+Descripción: Complejo indeterminado de suelos arenosos poco desarrollados de conos y abanicos aluviales.
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co21
+Capacidad de uso: VIes
+Índice de productividad: 45
+Descripción: Complejo indeterminado de suelos aluviales de valles entre sierras de conglomerados con erosión lineal (surcos y zanjas profundas)
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co22
+Capacidad de uso: VIsc
+Índice de productividad: 48
+Descripción: Complejo indiferenciado de Series
+Series: ESTANCIA LA SELVA | SANTA CATALINA moderadamente bien drenada
+Porcentajes: | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co23
+Capacidad de uso: IVes
+Índice de productividad: 58
+Descripción: Complejo indeterminado de suelos de valles interserranos y abanicos aluviales vinculados a afloramientos y rocas sedimentarias conglomerádicas, con suelos aluviales profundos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co24
+Capacidad de uso: VIIes
+Índice de productividad: 25
+Descripción: Complejo indeterminado de suelos arenosos ondulados vinculados a las terrazas de los ríos Santa Catalina, Ascochinga y otros suelos muy inclinados
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co25
+Capacidad de uso: IVes
+Índice de productividad: 63
+Descripción: Complejo indiferenciado de Series
+Series: JESÚS MARÍA moderadamente inclinada | LAS PIEDRAS | ASCOCHINGA fase acumulada | suelos menores aluviales arenosos
+Porcentajes: | | | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co26
+Capacidad de uso: VIIes
+Índice de productividad: 23
+Descripción: Complejo indeterminado de conos y abanicos aluviales de las Sierras Chicas de Córdoba (margen Occidental)
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co27
+Capacidad de uso: VIIes
+Índice de productividad: 26
+Descripción: Complejo indeterminado de suelos aluviales del valle de Ongamira
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ECj1
+Capacidad de uso: IVes
+Índice de productividad: 54
+Descripción: Complejo indiferenciado ligera a moderadamente inclinado de Series
+Series: EL CORTIJO | BARRANCA YACO | LAS MERCEDES I | otros suelos aluviales y regolíticos
+Porcentajes: | | | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EDu1
+Capacidad de uso: VIes
+Índice de productividad: 38
+Descripción: Asociación de Series
+Series: EL DURAZNO moderadamente inclinada y ligeramente erosionada | MACHA moderadamente inclinada | CAMINO REAL
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EDu2
+Capacidad de uso: VIec
+Índice de productividad: 45
+Descripción: Asociación de fases moderadamente inclinadas de Series
+Series: EL DURAZNO | MACHA | CAMINO REAL
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EMa1
+Capacidad de uso: VIIes
+Índice de productividad: 20
+Descripción: Complejo de Series
+Series: ESTACIÓN MACHA | RODEO VIEJO | PUESTO JACINTO
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EMz1
+Capacidad de uso: VIes
+Índice de productividad: 34
+Descripción: Complejo moderada a fuertemente inclinado de Series
+Series: ESTANCIA EL MANZANO | ALTO GRANDE | EL CORTIJO
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EMz2
+Capacidad de uso: VIes
+Índice de productividad: 38
+Descripción: Complejo de Series
+Series: ESTANCIA EL MANZANO | LA PAZ | ESTACIÓN MACHA
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EMz3
+Capacidad de uso: VIec
+Índice de productividad: 37
+Descripción: Complejo ligera a moderadamente erosionado de Series
+Series: ESTANCIA EL MANZANO | LA PAZ | ESTACIÓN MACHA
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ERs1
+Capacidad de uso: VIIes
+Índice de productividad: 26
+Descripción: Complejo de Series
+Series: EL ROSARIO | EL ROSARIO fuertemente inclinada | Roca expuesta | Suelos menores
+Porcentajes: 60 | 20 | 10 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: JM1
+Capacidad de uso: IIIec
+Índice de productividad: 78
+Descripción: Asociación de Series
+Series: JESÚS MARÍA moderadamente inclinada y ligeramente erosionada | ALTO GRANDE moderada a fuertemente inclinada y ligeramente erosionada | LA LONJA
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LEm1
+Capacidad de uso: IIIec
+Índice de productividad: 73
+Descripción: Asociación en fase moderadamente inclinada de Series
+Series: LA EMILIA | EL CORTIJO
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LEm2
+Capacidad de uso: IIIc
+Índice de productividad: 76
+Descripción: Asociación de Series
+Series: LA EMILIA | EL CORTIJO | BARRANCA YACO
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LEm3
+Capacidad de uso: IVec
+Índice de productividad: 64
+Descripción: Complejo de fases moderadamente inclinadas y ligeramente erosionadas de Series
+Series: LA EMILIA | ALTO GRANDE | BARRANCA YACO
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LPo1
+Capacidad de uso: VIes
+Índice de productividad: 36
+Descripción: Asociación de fases moderada a fuertemente inclinadas de Series
+Series: LOS POZOS | CAMINO REAL | LOS POZOS variante calcárea
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LPo2
+Capacidad de uso: IVes
+Índice de productividad: 53
+Descripción: Asociación moderadamente inclinada de Series
+Series: LOS POZOS | LOS POZOS variante calcárea | LAS MERCEDES I acumulada
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LPo3
+Capacidad de uso: IVec
+Índice de productividad: 56
+Descripción: Asociación de fases moderadamente inclinadas de Series
+Series: LOS POZOS | LAS MERCEDES I | EL DURAZNO | RODEO VIEJO
+Porcentajes: 40 | 30 | 15 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LPz1
+Capacidad de uso: VIIes
+Índice de productividad: 31
+Descripción: Complejo de Series
+Series: LA PAZ | EL MANZANO | ESTACIÓN MACHA | Suelos menores
+Porcentajes: 30 | 30 | 30 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LStI1
+Capacidad de uso: IVsc
+Índice de productividad: 70
+Descripción: Complejo de Series
+Series: LA SENTENCIA I | SAN PABLO | EL CRUCE
+Porcentajes: 65 | 25 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LStII1
+Capacidad de uso: IIIc
+Índice de productividad: 78
+Descripción: Complejo de Series
+Series: LA SENTENCIA II | PUERTA DE HIERRO I | LA SENTENCIA I | Suelos fluviales en capas
+Porcentajes: 40 | 30 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LLo1
+Capacidad de uso: VIec
+Índice de productividad: 48
+Descripción: Complejo moderadamente inclinado y ligera a moderadamente erosionado de Series
+Series: LA LONJA | ALTO GRANDE | BELÉN fase acumulada | Suelos menores
+Porcentajes: 30 | 30 | 30 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mch1
+Capacidad de uso: IIIec
+Índice de productividad: 70
+Descripción: Asociación de Series
+Series: MACHA | MACHA ligera a moderadamente inclinada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mch2
+Capacidad de uso: IVec -Índice de productividad: 65
+Descripción: Asociación de fases moderadamente inclinadas de Series
+Series: MACHA | ALTO GRANDE ligeramente erosionada | LOS POZOS
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: McI1
+Capacidad de uso: IIIc
+Índice de productividad: 75
+Descripción: Asociación de Series
+Series: LAS MERCEDES I | BARRANCA YACO
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: McI2
+Capacidad de uso: IIIec
+Índice de productividad: 65
+Descripción: Asociación de fases moderadamente inclinadas de Series
+Series: LAS MERCEDES I | MACHA ligeramente erosionada | LAS MERCEDES II | LOS POZOS
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: McII1
+Capacidad de uso: IIIc
+Índice de productividad: 73
+Descripción: Asociación de Series
+Series: LAS MERCEDES II | LAS MERCEDES I fase acumulada | SINSACATE
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: McII2
+Capacidad de uso: IIIc
+Índice de productividad: 78
+Descripción: Complejo de Series
+Series: LAS MERCEDES II | BARRANCA YACO muy poco inundable y acumulada | Suelos menores
+Porcentajes: 40 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: McII3
+Capacidad de uso: IVws
+Índice de productividad: 72
+Descripción: Asociación de Series
+Series: LAS MERCEDES II | LAS MERCEDES II moderadamente bien drenada | LAS MERCEDES I acumulada
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: McII4
+Capacidad de uso: IVec
+Índice de productividad: 56
+Descripción: Asociación de fases ligera a moderadamente erosionadas de Series
+Series: LAS MERCEDES II | LAS MERCEDES I acumulada | Suelos menores y depósitos arenosos recientes
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: NRM1
+Capacidad de uso: VIws
+Índice de productividad: 35
+Descripción: Complejo de Series
+Series: NACIENTES DEL RÍO MACHA | ESTANCIA LA SELVA | LAS MERCEDES II moderadamente bien drenada
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: OngI1
+Capacidad de uso: VIIes
+Índice de productividad: 13
+Descripción: Complejo de Series
+Series: ONGAMIRA I | ONGAMIRA II | Suelos menores de valles
+Porcentajes: 60 | 30 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: PHiI1
+Capacidad de uso: IIIsc
+Índice de productividad: 78
+Descripción: Complejo de Series
+Series: PUERTA DE HIERRO I | PUERTA DE HIERRO II | Suelos menores bien drenados
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Pj1
+Capacidad de uso: VIIes
+Índice de productividad: 18
+Descripción: Complejo de Series
+Series: PAJARILLO | ESTANCIA EL MANZANO (adjunto taxonómico más húmedo y frío) | Roca expuesta
+Porcentajes: 60 | 30 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: SCt1
+Capacidad de uso: IIIec
+Índice de productividad: 78
+Descripción: Complejo de Series
+Series: SANTA CATALINA | EL CRUCE moderadamente inclinada | LA SENTENCIA II moderadamente inclinada
+Porcentajes: 75 | 15 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: SPb1
+Capacidad de uso: VIes
+Índice de productividad: 40
+Descripción: Complejo de Series
+Series: SAN PABLO | EL CRUCE | LA SENTENCIA II en fase ligera a moderadamente erosionada
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: SPb2
+Capacidad de uso: IVes
+Índice de productividad: 56
+Descripción: Complejo indiferenciado de Series SAN PABLO; ASCOCHINGA; PUERTA DE HIERRO II y otros suelos arenosos poco evolucionados
+Series: SAN PABLO | ASCOCHINGA | PUERTA DE HIERRO II | Suelos arenosos poco evolucionados
+Porcentajes: | | | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ssc1
+Capacidad de uso: IVec
+Índice de productividad: 52
+Descripción: Asociación de Series
+Series: SINSACATE moderada a severamente erosionada | SANTA CATALINA ligeramente erosionada y/o acumulada | Suelos menores erosionados y con acumulación
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: TRP1
+Capacidad de uso: IVsc
+Índice de productividad: 53
+Descripción: Complejo moderada a suavemente inclinado de Series
+Series: TERRAZAS DEL RÍO PINTO | LA LONJA | Suelos aluviales calcáreos
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Tt1
+Capacidad de uso: IIIc
+Índice de productividad: 77
+Descripción: Asociación de Series
+Series: TOTORAL | BARRANCA YACO
+Porcentajes: 60 | 40
+

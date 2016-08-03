@@ -1,0 +1,40 @@
+dss_LaLagunita.psv ->> ID..........................: 713
+dss_LaLagunita.psv ->> CLASIFICACION...............: Haplustol ácuico
+dss_LaLagunita.psv ->> SERIE.......................: LA LAGUNITA (Lag)
+dss_LaLagunita.psv ->> UBICACION...................: 9,5 km al NO de Ordóñez
+dss_LaLagunita.psv ->> PROVINCIA...................: CORDOBA
+dss_LaLagunita.psv ->> LATITUD.....................: S324600
+dss_LaLagunita.psv ->> LONGITUD....................: O625000
+dss_LaLagunita.psv ->> ALTITUD.....................: 142
+dss_LaLagunita.psv ->> PENDIENTE...................: FALTA!
+dss_LaLagunita.psv ->> DRENAJE.....................: FALTA!
+dss_LaLagunita.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LaLagunita.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LaLagunita.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA, MIXTA, TÉRMICA
+dss_LaLagunita.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LaLagunita.psv ->> HORIZONTE->NOMBRE(S)........: a1 | bw | bc | c | ck
+dss_LaLagunita.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-16 | 16-43 | 43-72 | 72-86 | 86a+
+dss_LaLagunita.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.13 | 0.58 | 0.58 | 0.27 | 
+dss_LaLagunita.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.82 | 0.34 | 0.34 | 0.16 | 0.06
+dss_LaLagunita.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.16 | 0.08 | 0.05 | 0.03 | 
+dss_LaLagunita.psv ->> HORIZONTE->RELACIÓN C/N.....: 11.1 | 3.9 | 6.5 | 4.2 | 
+dss_LaLagunita.psv ->> HORIZONTE->ARCILLA 2 (%)....: 21.1 | 22.4 | 19.4 | 12.7 | 11.4
+dss_LaLagunita.psv ->> HORIZONTE->LIMO 2-50 (%)....: 64.6 | 59.9 | 62.4 | 60.2 | 61
+dss_LaLagunita.psv ->> HORIZONTE->AMF 50-100 (%)...: 12.2 | 17.5 | 17.5 | 25.1 | 24.3
+dss_LaLagunita.psv ->> HORIZONTE->AF 100-250 (%)...: 0.4 | 0.5 | 0.7 | 0.9 | 0.84
+dss_LaLagunita.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | - | 
+dss_LaLagunita.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | - | 
+dss_LaLagunita.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | 
+dss_LaLagunita.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 4.61
+dss_LaLagunita.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 26 | 26.4 | 22.2 | 19.3 | 19
+dss_LaLagunita.psv ->> HORIZONTE->PH PASTA.........: 6 | 5.8 | 6.1 | 6.7 | 7
+dss_LaLagunita.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.1 | 6.7 | 7.3 | 7.6 | 7.7
+dss_LaLagunita.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 12.6 | 13.1 | 13.6 | 13 | 
+dss_LaLagunita.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.3 | 3.9 | 2.2 | 3 | 
+dss_LaLagunita.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.3 | 0.2 | 0.2 | 0.3
+dss_LaLagunita.psv ->> HORIZONTE->CI ME/100G-K +...: 2.6 | 2.3 | 1.4 | 1.6 | 1.9
+dss_LaLagunita.psv ->> HORIZONTE->CI ME/100G-H +...: 2.6 | 1.7 | 1 | - | 
+dss_LaLagunita.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | - | 
+dss_LaLagunita.psv ->> HORIZONTE->SUM.B. ME/100G(S): 18.7 | 19.6 | 17.4 | 17.8 | 
+dss_LaLagunita.psv ->> HORIZONTE->CIC ME/100G(T)...: 21.0 | 21.3 | 18.4 | 17 | 16.8
+dss_LaLagunita.psv ->> HORIZONTE->SAT.B % (S/T)....: 89.0 | 92.0 | 95.6 | 100 | 

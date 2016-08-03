@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+#!/home/gvieytes/Desktop/Trabajos/html-scrap/python/venv2.7/bin/python
+
+archivo = "../URDINARRAIN.txt"
+
+def cantLineas(fileName):
+    with open(fileName, 'r') as f:
+        while True:
+            line = f.readline()
+
+            # Salteo las lineas hasta el primer titulo
+            if line.strip().lower() == "n° de registro":
+                i = 0
+                while (f.readline().strip().lower() != "horizonte"):
+                    i = i + 1
+                return i 
+
+print cantLineas(archivo)

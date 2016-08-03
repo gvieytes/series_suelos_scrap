@@ -1,0 +1,198 @@
+--------------------------------------------------------------------------------
+SERIE LAS MULAS							 Símbolo: Lmu
+Pertenece a la familia "fina, montmorillonítica y térmica" de los Argiudoles vérticos.
+Suelo profundo, moderadamente bien drenado y ligeramente erosionado, con un epipedón muy oscuro y levemente lixiviado, franco-limoso a franco-arcillo-limoso, con caras de fricción ("slickensides").
+Tiene concreciones de carbonatos a partir de 45-60 cm.
+Perfil tipo: ER3 - 37C
+Fecha: 11/IV/1972
+Estancia El Retiro (foto 494-18) - Dpto. La Paz
+Reconocedores: R.E. Kleinerman - G.W. van Barneveld
+Ap: 00-13 cm.; gris muy oscuro (10 YR 3/1) en húmedo; gris oscuro (10 YR 4/1) en seco; franco arcillo limoso; estructura en bloques subangulares irregulares redondeados medios moderados, con algo de estructura granular; friable en húmedo; barnices ("humic skins") escasos y finos; concreciones de hierro y manganeso finos y precisos; límite claro, suave.
+B21t: 13-46 cm.; negro a gris muy oscuro (10 YR 2.5/1) en húmedo; arcillo limoso; estructuras en prismas compuestos irregulares medios moderados con algunos bloques angulares irregulares con tendencia cuneiformes medios moderados; friable en húmedo; barnices ("clay humic skins") escasos a comunes, finas; caras de fricción ("slickensides") comunes y medias, poco intersectadas; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual suave.
+B22t: 46-70 cm.; negro a gris muy oscuro (10YR 2.5/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares irregulares y bloques angulares irregulares con tendencia cuneiforme medios moderados; friable en húmedo; concreciones de calcáreo comunes de hasta 1 mm; barnices ("clay humic skins") escasos y finos; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual suave.
+B31ca: 70-106 cm.; pardo oscuro a pardo (10 YR 4/3) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares irregulares con tendencia cuneiforme medios moderados; friable en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones de calcáreo comunes, de hasta 4 mm; barnices ("clay skins") inherentes al material, comunes y medios; caras de fricción ("slickensides") medias a gruesas, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B32ca: 106 cm. + (150 cms.); pardo (7.5 YR 5/4) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares con tendencia cuneiforme medios, débiles; friable en húmedo; escasa cantidad de carbonatos libres en la masa; abundantes concreciones de calcáreo, de hasta 5 mm; barnices inherentes al material, comunes y medios; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El solum varía de 75-150 cm. El epipedón tiene 10-15 cm y consta de un horizonte A1 en la gran mayoría de los casos; normalmente está ligeramente erosionado y levemente lixiviado. Su estructura generalmente es buena y varía de bloques subangulares a bloques angulares irregulares. Tiene 25-30 % de arcilla y alrededor de 3,5 % de materia orgánica.
+El espesor del horizonte argílico es de 45-60 cm; tiene 37-45 % de arcilla. Su estructura es prismática (muchas veces débil) que rompe en bloques angulares irregulares, parte de ellos con tendencia cuneiforme, con barnices ("clay humic skins") escasos a comunes, finos a medios. Las caras de fricción ("slickensides") son comunes, finas a medias y poco intersectadas en el B2 y escasas y finas, no intersectadas, en el B3.
+En el calcáreo, en concreciones duras de hasta 5 mm, aparece a los 45-60 cm; y el calcáreo libre a partir de los 70 cm, aunque existen perfiles que no lo poseen en el solum; su porcentaje oscila entre 1-7 %. Las concreciones de hierro-manganeso son escasas y finas, y solo aparecen en el A1 y B2, o están ausentes en el perfil. Los moteados de hierro-manganeso, finos y precisos, son en cambio comunes en todo el perfil o a partir del B21. El suelo tiene 1-2 % de Na+ de intercambiable en el A1 y B21, aumentando en profundidad hasta 10 % aproximadamente en el B32.
+Son suelos desarrollados en materiales limo-loesoides, probablemente retransportados, con 33-40 % de arcilla.
+Series similares y sus diferencias
+La Serie Las Mulas se parece a la Serie Damasio (pero esta no es hidromórfica), a la Serie Banderas (que solo se ubica en los pie de loma y tiene un epipedón más profundo; además, no tiene caras de fricción y concreciones ferromagnesíferas) y a la Serie Estacas (que es más planosólica).
+Drenaje
+Moderadamente bien drenado; escurrimiento lento. Permeabilidad moderadamente lenta a lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie las Mulas tiene una erosión actual laminar, leve. La susceptibilidad a una erosión futura, laminar y en surcos, es moderadamente alta.
+Vegetación típica
+Monte de Montiel con predominio de espinillo (Acacia caven), algarrobo (Prosopis nigra) y ñandubay (Prosopis algarrobillo), con pasturas naturales hidromórficas con especies como Schyzachyrium y Eringium.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Las Mulas
+ER3-37C
+Nº de registro
+ 764
+ 765
+ 766
+ 767
+ 768
+Horizonte
+ Ap
+ B21t
+ B22t
+ B31ca
+ B32ca
+Profundidad (cm)
+ 00-12
+ 22-35
+ 48-65
+ 80-95
+ 130-150
+Mat.organica (%)
+ 3.42
+ 2.20
+ 1.30
+ 0.68
+ 0.13
+C (%)
+ 1.99
+ 1.28
+ 0.76
+ 0.40
+ 0.08
+N (%)
+ 0.201
+ 0.125
+ 0.066
+ 0.050
+ -
+C/N
+ 10
+ 10
+ 11
+ 8
+ -
+T <2
+ 25.5
+ 39.2
+ 43.3
+ 38.2
+ 33.4
+E 2-20
+ 35.5
+ 25.1
+ 26.3
+ 28.0
+ 27.3
+X 2-50
+ 71.5
+ 58.1
+ 54.1
+ 59.0
+ 62.8
+T 50-100
+ 0.6
+ 0.6
+ 0.7
+ 0.7
+ 0.6
+U 100-250
+ 1.6
+ 1.4
+ 1.2
+ 1.3
+ 1.8
+R 250-500
+ 0.8
+ 0.7
+ 0.7
+ 0.8
+ 1.4
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.0
+ 0.0
+ 1.2
+ 6.8
+ 6.1
+pH H2O
+ 6.1
+ 6.6
+ 7.9
+ 8.2
+ 8.3
+pH ClK
+ 5.5
+ 5.6
+ 6.6
+ 6.7
+ 6.8
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+ Valor T
+ 29.8
+ 40.6
+ 45.1
+ 36.8
+ 36.1
+D
+Ca++
+ 22.8
+ 33.3
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ 3.1
+ 3.0
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 0.6
+ 0.6
+ 0.7
+ 0.5
+ 0.5
+O
+M
+N
+B
+Na+
+ 0.4
+ 1.1
+ 2.5
+ 2.7
+ 3.6
+E
+I
+S
+O
+H+
+ 4.0
+ 3.1
+ -
+ -
+ -
+% Na/T
+ 1.3
+ 2.7
+ 5.5
+ 7.4
+ 9.9
+Equivalente de humedad (%)
+ 30.3
+ 41.8
+ 47.4
+ 42.1
+ 41.0

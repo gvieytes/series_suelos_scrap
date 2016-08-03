@@ -1,0 +1,254 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO MALO Símbolo: AMl
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles vérticos.
+Se trata de suelos profundos, engrosados y desarrollados en materiales loessoides, probablemente mezclados con materiales retransportados, de textura franco-arcillo-limosa; imperfectamente drenados y con escasa presencia de calcáreo.
+Se encuentran en las partes bajas de las pendientes, con exceso de agua después de cada lluvia.
+Perfil tipo: ER1-116C
+Fecha: 10-IV-01.
+Ubicación: Establecimiento El Mariscal, 6 Km SO de Nogoyá (foto IR 425-48) Dpto Nogoyá
+Reconocedores: R.H. Fuentes; O.A. Foti, R.E. Kleinerman..
+A11: 00-21 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic skins") escasos a comunes; límite claro, suave.
+A12: 21-45 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso escasos, finos y débiles; límite abrupto, suave.
+B21t: 45-66 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco; firme en húmedo; caras de fricción ("slickensides") comunes, finas y medias; moteados de hierro-manganeso, comunes, finos y precisos; concreciones ferromanganesíferas, comunes, de hasta 3 mm; límite claro, suave.
+B22t: 66-90 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, fuertes; duro en seco; firme en húmedo; caras de fricción ("slickensides"') comunes, medias e intersectadas; moteados de hierro-manganeso comunes, finos y precisos; concreciones ferromanganesíferas, abundantes de hasta 2 mm; Límite claro, suave.
+B23t: 90-110 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; ligeramente duro en seco; firme en húmedo; caras de fricción ("slickensides") comunes, gruesas e intesectadas; moteados de hierro-manganeso, comunes, finos y precisos; concreciones calcáreas escasas, finas; límite gradual, suave.
+B31ca: 110-125 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios moderados; ligeramente duro en seco; friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, medias e intersectadas; moteados de hierro-manganeso comunes, finos y precisos; concreciones calcáreas comunes, finas; límite difuso, suave.
+B32: 125 cm+; pardo a pardo oscuro (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco; friable en húmedo; caras de fricción ("slickensides") comunes, medias; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El sólum con una profundidad entre 130-140 cm comprende un epipedón mólico bién desarrollado de 40-45 cm de espesor y textura franco-limosa, seguido de un horizonte argílico franco-arcillo-limos, bien estructurado y con presencia de concreciones ferromanganesíferas, no contiene carbonatos libres ni en concreciones.
+El horizonte B3 de 35-45 cm de espesor con moteados y presencia de calcáreo en cantidades escasas.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial muy lento. Permeabilidad muy lenta a lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Arroyo Malo no posee erosión, y no existe peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Malo
+ER1-116C
+N° de registro
+ 6848
+ 6849
+ 6850
+ 6851
+ 6852
+ 6853
+ 6854
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B23
+ B31
+ B32
+Profundidad (cm
+ 02-18
+ 23-40
+ 48-60
+ 70-85
+ 95-108
+ 110-120
+ 130-145
+Mat.organica (%)
+ 4.27
+ 2.77
+ 1.74
+ 1.31
+ 0.89
+ 0.76
+ 0.45
+N (%)
+ 0.216
+ 0.114
+ 0.074
+ 0.053
+ 0.039
+ 0.031
+ 0.020
+C/N
+ 11
+ 14
+ 14
+ 14
+ 14
+ 14
+ 13
+T <2
+ 28.97
+ 27.64
+ 37.11
+ 44.26
+ 40.01
+ 37.17
+ 37.50
+E 2-20
+ 42.40
+ 42.75
+ 41.00
+ 30.22
+ 34.71
+ 36.15
+ 36.70
+X 2-50
+ 66.69
+ 66.84
+ 59.04
+ 52.32
+ 55.77
+ 57.94
+ 57.29
+T 50-100
+ 0.72
+ 0.84
+ 0.78
+ 0.62
+ 0.62
+ 0.82
+ 1.11
+U 100-500
+ 3.50
+ 4.30
+ 2.88
+ 2.61
+ 3.42
+ 3.85
+ 3.92
+R 500-1000
+ 0.12
+ 0.38
+ 0.19
+ 0.19
+ 0.18
+ o.22
+ 0.20
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.2.3
+ 0.26
+ 0.0
+pH H2O
+ 6.0
+ 6.5
+ 6.7
+ 6.8
+ 7.4
+ 7.7
+ 8.0
+pH ClK
+ 5,1
+ 5.0
+ 5.2
+ 5.5
+ 6.3
+ 6.5
+ 6.7
+C.E. (mmhos/cm)
+ 0.308
+ 0.442
+ 0.426
+ 0.402
+ 0.542
+ 0.589
+ 0.608
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 26.69
+ 25.20
+ 34.40
+ 44.00
+ 38.00
+ 35.80
+ 34.00
+D
+Ca++
+ 19.60
+ 19.38
+ 29.16
+ 36.56
+ 30.76
+ 28.38
+ 25.96
+C
+E
+A
+Mg++
+ 1.88
+ 1.82
+ 1.98
+ 2.64
+ 3.20
+ 4.50
+ 5.16
+T
+C
+I
+A
+K+
+ 0.58
+ 0.49
+ 0.43
+ 0.45
+ 0.36
+ 0.43
+ 0.60
+O
+M
+N
+B
+Na+
+ 0.32
+ 0.54
+ 0.67
+ 1.07
+ 0.75
+ 0.67
+ 0.87
+E
+I
+S
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1
+ 1.2
+ 2.1
+ 1.9
+ 2.4
+ 2.0
+ 1.9
+ 2.6
+Equivalente de humedad (%)
+ 31.73
+ 29.32
+ 40.70
+ 46.04
+ 40.68
+ 38.79
+ 39.57
+Fósforo asimilable (ppm)
+ 5.6
+ 3.6
+ 2.3
+ 1.8
+ 2.1
+ 2.1
+ 1.9

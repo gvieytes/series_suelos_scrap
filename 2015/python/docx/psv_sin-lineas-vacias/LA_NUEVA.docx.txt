@@ -1,0 +1,211 @@
+--------------------------------------------------------------------------------
+SERIE LA NUEVA Símbolo: LNu
+Pertenece a la familia "fina, mixta, térmica" de los Natracuoles típicos.
+Suelo moderadamente salino y sódico. Desarrollado a partir de una sucesión de sedimentos marinos y continentales.
+Perfil tipo: 381C INTA Castelar
+Fecha: 01-XI-1976
+Ubicación: 16 km al SO de la ciudad de Gualeguay (Hoja IGM 3360-23-3) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+A1: 0-13 cm; pardo amarillento opaco (10YR 5/3) en seco y pardo oscuro (10YR 3/3) en húmedo; franco; estructura en bloques sub-angulares medios débiles que rompen en bloques menores; ligeramente adhesivo; moteados abundantes, finos, débiles; raíces abundantes; límite inferior claro, suave.
+IIB21t: 13-53 cm; negro pardusco (10YR 2/2) en húmedo; franco arcilloso; estructura en prismas medios moderados que rompen en bloques; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; microconcreciones calcáreas escasas; barnices (clay skins) comunes; moteados escasos, finos, débiles de color pardo brillante (7,5YR 5/8); raíces comunes; límite inferior claro suave.
+IIB22t: 53-78 cm; negro pardusco (10YR 3/2) en húmedo; arcilloso; estructura en bloques subangulares medios fuertes que rompen en bloques menores; firme; plástico; adhesivo; carbonatos libres comunes; concreciones ferromanganésicas comunes; microconcreciones calcáreas abundantes; moteados escasos, finos, débiles; límite inferior abrupto suave.
+IIIB23: 78-116 cm; pardo oscuro (10YR 3/4) en húmedo; arcilloso; estructura en bloques subangulares medios moderados que rompen en bloques menores; firme; plástico; adhesivo; concreciones ferromanganésicas abundantes; microconcreciones calcáreas abundantes; moteados abundantes, medio, sobresalientes de color pardo brillante (7,5YR 5/8); límite inferior claro suave.
+IVC: 116-150 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco arcillo arenoso; estructura en bloques subangulares medios débiles que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; concreciones ferromanganésicas comunes; microconcreciones calcáreas abundantes; moteados abundantes, medios, sobresalientes de color pardo brillante (7,5YR 5/8).
+Variabilidad de rasgos
+El horizonte superficial es de 13 cm de espesor, de color pardo oscuro, bien provisto de materia orgánica, franco, de estructura en bloques subangulares medios débiles. Los horizontes subsuperficiales son de texturas más pesadas, de franco arcilloso a arcilloso. En estos horizontes se observan algunas grietas, rellenadas con materiales de los horizontes superiores, como también se encuentran barnices (clay skins). Se observan concreciones ferromanganésicas y microconcreciones calcáreas abundantes a partir del horizonte IIB21t, mientras que los moteados se encuentran desde la superficie.
+El perfil es moderadamente salino a partir de los 53 cm y sódico desde los 13 cm de profundidad y el PSI (Porcentaje de sodio de Intercambio) alcanza al 28 %, clasificándose este suelo en la clase A1 33 por alcalinidad sódica.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Este suelo es de permeabilidad lenta e imperfectamente drenado.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie La Nueva
+381C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ IIB21t
+ IIB22t
+ IIIB23
+ IVC
+Profundidad (cm)
+ 5-10
+ 19-40
+ 60-75
+ 85-100
+ 120-140
+Mat. orgánica (%)
+ 3.17
+ 1.07
+ 0.26
+ -
+ -
+C (%)
+ 1.84
+ 0.62
+ 0.15
+ -
+ -
+N (%)
+ 0.191
+ 0.076
+ -
+ -
+ -
+C/N
+ 10
+ -
+ -
+ -
+ -
+T <2 u
+ 25.2
+ 37.8
+ 44.3
+ 50.6
+ 24.9
+E 2-20 u
+ 15.0
+ 14.1
+ 12.9
+ 17.7
+ 4.8
+X 2-50 u
+ 32.1
+ 28.1
+ 25.7
+ 28.3
+ 16.8
+T 50-74 u
+ 19.2
+ 11.7
+ 10.3
+ 11.5
+ 16.5
+U 74-100 u
+ 19.1
+ 18.5
+ 16.3
+ 7.4
+ 33.1
+R 100-250 u
+ 4.1
+ 3.8
+ 3.3
+ 1.8
+ 8.6
+A 250-500 u
+ 0.3
+ 0.1
+ 0.1
+ 0.4
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ vest (n)
+ vest (n)
+ vest (n)
+Equivalente de humedad (%)
+ 22.8
+ 35.1
+ 41.6
+ 40.0
+ 20.3
+Resistencia de la pasta (Ohms/cm)
+ 3248
+ 601
+ 212
+ 203
+ 300
+pH en pasta
+ 4.8
+ 6.3
+ 7.3
+ 7.2
+ 7.3
+pH en agua (1:2,5)
+ 5.7
+ 7.4
+ 7.6
+ 7.6
+ 7.9
+pH en KCl (1:2,5)
+ 4.1
+ 5.6
+ 6.5
+ 6.7
+ 6.6
+Conductividad (mmhos/cm)
+ -
+ 3.95
+ 12.58
+ 17.39
+ 12.89
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ 5.6
+ 9.6
+ -
+ -
+ -
+Mg++
+ 3.2
+ 5.5
+ -
+ -
+ -
+Na[+]
+ 1.5
+ 3.6
+ -
+ -
+ -
+K[+]
+ 0.4
+ 0.5
+ -
+ -
+ -
+H[+]
+ 10.6
+ 3.4
+ -
+ -
+ -
+Na+ % del valor T
+ 10
+ 17
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ 10.7
+ 20.2
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 14.7
+ 21.1
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ 73
+ 96
+ -
+ -
+ -

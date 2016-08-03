@@ -1,0 +1,227 @@
+--------------------------------------------------------------------------------
+SERIE ALCARAZ								 Símbolo: Alz
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón muy oscuro, franco-arcillo-limoso y un horizonte argílico oscuro, franco-arcillo-limoso a arcillo-limoso, con caras de fricción ("slickensides") y concreciones calcáreas relativamente altas en el perfil (40-60 cm).
+Suelos desarrollados en materiales "limos-loessoides" retransportados de textura franco-arcillo-limosa.
+Perfil tipo: ER1-58C
+Fecha: 13-IV-1973
+Ubicación: Colonia Arrúa (foto IR 463-34) - Dto. Alcaraz 2 - Dpto. La Paz.
+Reconocedores: O.A.Foti; G.W. van Barneveld.
+Ap: 00-09 cm; gris muy oscuro a gris oscuro (10YR 3.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, gruesos, débiles, con tendencia a masiva por pisoteo de animales; friable en húmedo; límite claro, suave. Horizonte eluviado.
+B1: 09-18 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados con tendencia a masiva por pisoteo de animales; friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave. Horizonte levemente eluviado.
+B21t: 18-46 cm; negro a gris muy oscuro (10YR 2,5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos a comunes; caras de fricción ("slickensides") escasas a comunes, finas no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B22tca: 46-72 cm; gris muy oscuro a gris parduzco (10YR 3/1,5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; caras de fricción ("slickensides") escasa a comunes, poco intersectadas; escasas concreciones calcáreas de hasta 5 mm; moteados de hierro-manganeso escasos, finos y débiles; límite difuso, suave.
+B31ca: 72-102 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estractura en prismas compuestos, irregulares, gruesos y débiles, que rompen en bloque angulares irregulares, medios, moderados; friable en húmedo; caras de fricción ("slickensides") escasas a comunes, no intersectadas; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas escasas a comunes, de hasta 1 mm; límite difuso, suave.
+B32ca: 102 cm +; pardo oscuro a pardo (7,5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloque angulares irregulares, gruesos, débiles; friable en húmedo; barnices inherentes al material; caras de fricción ("slickensides") escasas y medias; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, de hasta 5 mm; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El solum varía de 100 a 200 cm. El epipedón mólico oscila entre 15-25 cm. Generalmente incluye un horizonte A1 seguido de un B1; tiene 25-27 % de arcilla, con 2,5-2,8 % de materia orgánica. Normalmente está levemente eluviado y tiene estructura bloquiforme.
+En campos bajo uso agríola intensivo es común encontrar un "piso de arado" en el horizonte B1.
+El horizonte B2t, argílico, tiene aproximadamente 50 cm de espesor y 47-49 % de arcilla. Su estructura es prismática que rompe en agregados bloquiformes irregulares. En seco, presenta grietas de hasta 2 cm de ancho que se extiende hasta la base del epipedón. Las caras de fricción ("slickensides"), escasas a comunes, finas y poco intersectadas, se encuentran en todo el argílico, pero están mejor expresadas en B22.
+El calcáreo, en concrecions duras de hasta 0.5 cm, está relativamente alto en el perfil (entre 40-60 cm); el calcáreo libre aparece mas abajo (60-70 cm) variando entre 2-6 %.
+El material originario tiene 30-35 % de arcilla, es neutro o ligeramente alcalino, con porcentajes máximos de 9-11 % de sodio de intercambio.
+Fases
+Moderadamente erosionada (Alz h2).
+Series similares y sus diferencias
+Serie Alcaraz se parece a la serie Herradura, que pertenece al departamento Paraná, pero ésta tiene el calcáreo más alto en el perfil y además, geográficamente se restringe a una angosta franja de transcición entre el área de Molisoles y Vertisoles planosólicos.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial moderado. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Alcaraz presenta normalmente erosión laminar ligera. Existe una fase por erosión moderada, laminar y en surcos, y localmente, algunas cárcavas poco profundas.
+El suelo es muy suceptible a una erosión futura, laminar y en surcos, moderada (especialmente en el caso de pendientes largas).
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Alcaraz
+ER1-58C
+Nº de registro
+ 1.097
+ 1.098
+ 1.099
+ 1.100
+ 1.101
+ 1.102
+Horizonte
+ Ap
+ B1
+ B21t
+ B22tca
+ B31ca
+ B32ca
+Profundidad (cm)
+ 00-07
+ 09-18
+ 28-38
+ 48-80
+ 84-96
+ 105-110
+Mat.organica (%)
+ 2.8
+ 2.5
+ 2.2
+ 1.6
+ 0.8
+ 0.3
+N (%)
+ 0.15
+ 0.14
+ 0.14
+ 0.10
+ 0.05
+ 0.03
+C/N
+ 11
+ 10
+ 9
+ 9
+ 9
+ 6
+T
+E <2
+ 25.5
+ 27.2
+ 49.1
+ 47.3
+ 36.2
+ 33.7
+X 2-20
+ 27.0
+ 28.2
+ 21.0
+ 22.1
+ 18.1
+ 19.1
+T 2-50
+ 72.9
+ 71.7
+ 50.1
+ 51.8
+ 62.9
+ 65.4
+U 50-100
+ 0.8
+ 0.8
+ 0.6
+ 0.4
+ 0.6
+ 0.6
+R 100-500
+ 0.8
+ 0.3
+ 0.2
+ 0.5
+ 0.3
+ 0.3
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 2.1
+ 3.6
+ 5.8
+pH H2O
+ 7.0
+ 7.0
+ 7.0
+ 8.2
+ 8.4
+ 8.5
+pH ClK
+ 6.0
+ 5.9
+ 6.1
+ 6.7
+ 6.9
+ 6.9
+Conductividad(mmhos/cm)
+ 0.6
+ 0.6
+ 0.8
+ 0.9
+ 0.9
+ 0.9
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ 30.9
+ 35.6
+ 45.0
+ 44.7
+ 43.0
+ 38.6
+D
+Ca++
+ 25.3
+ 29.1
+ 34.4
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ 2.7
+ 3.1
+ 3.6
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 1.1
+ 1.0
+ 1.2
+ 1.3
+ 1.2
+ 1.4
+O
+M
+N
+B
+Na+
+ 0.8
+ 1.5
+ 2.7
+ 4.2
+ 5.1
+ 3.7
+E
+I
+S
+O
+H+
+ 2.1
+ 2.2
+ 1.7
+ -
+ -
+ -
+% Na/T
+ 2.6
+ 4.2
+ 6.0
+ 9.4
+ 11.9
+ 9.6
+Equivalente de humedad (%)
+ 38.4
+ 41.2
+ 54.6
+ 58.0
+ 52.9
+ 51.1
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -

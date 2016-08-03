@@ -1,0 +1,38 @@
+PUERTO_SAN_JUAN_2.docx.txt ->> ID..........................: 004
+PUERTO_SAN_JUAN_2.docx.txt ->> CLASIFICACION...............: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> SERIE.......................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> UBICACION...................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> PROVINCIA...................: ENTRE RIOS
+PUERTO_SAN_JUAN_2.docx.txt ->> LATITUD.....................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> LONGITUD....................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> ALTITUD.....................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> PENDIENTE...................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> DRENAJE.....................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> ESCURRIMIENTO...............: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> PERMEABILIDAD...............: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> TIPO DE SUELO...............: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> COLOR ......................: FALTA!
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->NRO DE REGISTRO..:|          |          |          |          |         
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->NOMBRE(S)........:| IVC2     | VC3      | VIC4     | VII5     | VIII6   
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->PROFUNDIDADES(CM):| 96-108   | 112-115  | 118-128  | 134-145  | 150-160 
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->CARBONO ORGÁN.(%):| -        | -        | -        | -        | -       
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->NITRÓGENO TOT.(%):| -        | -        | -        | -        | -       
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->RELACIÓN C/N.....:| -        | -        | -        | -        | -       
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->ARCILLA 2 (%)....:|          | 0.5      |          | 3.5      |         
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->LIMO 2-20 (%)....:| 0.7      | 2.3      | 0.5      | -        | 0.5     
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->LIMO 2-50 (%)....:| 1.2      | 4.3      | 0.5      | -        | 0.8     
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->AMF 50-74 (%)....:| 0.1      | 0.1      | 0.1      | -        | 0.1     
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->AMF 74-100 (%)...:| 1.2      | 0.2      | 0.3      | -        | 0.5     
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->AF 100-250 (%)...:| 93.3     | 88.1     | 92.5     | -        | 94.3    
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->AM 50-500 (%)....:| 3.7      | 3.8      | 5.1      | -        | 2.8     
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->AG 500-1000 (%)..:| -        | -        | -        | -        | -       
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->AMG 1-2 mm (%)...:| -        | -        | -        | -        | -       
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->CALCAREO CaCO3(%):| 0        | 0        | 0        | -        | 0       
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->EQUIV. HUMEDAD(%):| 1.5      | 2.9      | 1.3      | -        | 1.4     
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->RESIST. PASTA....:| 24229    | 11979    | 11306    | -        | 15479   
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->PH PASTA.........:| 6.1      | 7.2      | 7.0      | -        | 7.9     
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->CONDUCT mmhos/cm.:| -        | -        | -        | -        | -       
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->CI ME/100G-Mg ++.:| 0.90     | 1.65     | 1.00     | -        | 1.85    
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->VT CIC ME/100G...:| 8        | 10       | 25       | -        | 21      
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->SUM.B. ME/100G(S):| 3.10     | 3.80     | 2.35     | -        | 4.40    
+PUERTO_SAN_JUAN_2.docx.txt ->> HORIZONTE->SAT.B % (S/T)....:| 100      | 100      | 100      | -        | 100     

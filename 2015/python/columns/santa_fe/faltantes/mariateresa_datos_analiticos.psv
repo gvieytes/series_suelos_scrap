@@ -1,0 +1,33 @@
+HORIZONTE->NOMBRE(S)........ #:  a | b | b | bc | c
+HORIZONTE->Profundidad #  cm:  5-15 | 25-30 | 35-55 | 65-75 | 100-120
+HORIZONTE->Mat. orgánica #  %:  1.62 | 1.07 | 0.86 | 0.62 | ---
+HORIZONTE->C orgánico #  %:  0.94 | 0.62 | 0.50 | 0.36 | ---
+HORIZONTE->N total #  %:  0.104 | 0.080 | 0.068 | --- | ---
+HORIZONTE->Relación C/N #  ---:  9 | 8 | 7 | --- | ---
+HORIZONTE->Arcilla < 2µ #  %:  15.9 | 17.6 | 18.4 | 15.6 | 13.4
+HORIZONTE->Limo 2-50µ #  %:  19.4 | 18.9 | 16.6 | 14.4 | 16.1
+HORIZONTE->Arena >50µ #  %:  64.7 | 63.5 | 65.0 | 69.0 | 70.5
+HORIZONTE->TOTAL #  %:  100.0 | 100.0 | 100.0 | 99.0 | 100.0
+HORIZONTE->Limo 2-20µ #  %:  --- | --- | --- | --- | ---
+HORIZONTE->Arena#:: - | - | - | - | -
+HORIZONTE->Muy fina 50-100µ #  %:  60.8 | 58.7 | 62.4 | 64.3 | 66.2
+HORIZONTE->Fina 100-250µ #  %:  3.9 | 4.8 | 2.6 | 4.7 | 4.3
+HORIZONTE->Media 250-500µ #  %:  --- | --- | --- | --- | ---
+HORIZONTE->Gruesa 500-1000µ #  %:  --- | --- | --- | --- | ---
+HORIZONTE->Muy gruesa 1-2mm #  %:  --- | --- | --- | --- | ---
+HORIZONTE->Calcáreo, CaCO3 #  %:  --- | --- | --- | --- | ---
+HORIZONTE->Equiv.humedad #  %:  12.0 | 12.0 | 12.9 | 10.3 | 9.3
+HORIZONTE->Resist.pasta #  ohms:  --- | --- | --- | --- | ---
+HORIZONTE->Conductividad #  mmhos/cm:  --- | --- | --- | --- | ---
+HORIZONTE->pH pasta (1#1)#  ---:  6.3 | 6.4 | 6.7 | 7.0 | 7.1
+HORIZONTE->pH agua (1#2,5)#  ---:  6.9 | 6.9 | 7.0 | 7.3 | 7.3
+HORIZONTE->pH 1N ClK (1#2,5)#  ---:  --- | --- | --- | --- | ---
+HORIZONTE->Ca++ intercambio #  me/100g:  5.7 | 7.1 | 6.3 | 7.1 | 6.4
+HORIZONTE->Mg++ intercambio #  me/100g:  3.3 | 2.2 | 4.2 | 2.0 | 3.5
+HORIZONTE->Na+ intercambio #  me/100g:  0.1 | 0.2 | 0.3 | 0.2 | 0.2
+HORIZONTE->K+ intercambio #  me/100g:  2.3 | 2.3 | 2.3 | 2.1 | 1.4
+HORIZONTE->H+ intercambio #  me/100g:  5.1 | 4.4 | 4.2 | 3.4 | 2.8
+HORIZONTE->(Na+/T) #  %:  0.7 | 1.6 | 2.4 | 2.2 | 1.9
+HORIZONTE->C.I.C., (T) #  me/100g:  14.8 | 12.4 | 12.4 | 11.1 | 10.5
+HORIZONTE->Suma bases (S) #  me/100g:  11.4 | 11.8 | 13.1 | 11.4 | 11.5
+HORIZONTE->Sat.bases, (S/T) #  %:  77 | 95 | 106 | 103 | 110

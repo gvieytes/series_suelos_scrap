@@ -1,0 +1,39 @@
+dss_estacion_macha.psv ->> ID..........................: 213
+dss_estacion_macha.psv ->> CLASIFICACION...............: Ustorthent paralítico
+dss_estacion_macha.psv ->> SERIE.......................: ESTACIÓN MACHA
+dss_estacion_macha.psv ->> UBICACION...................: 4,5 km al Sur del paraje homónimo, departamento Totoral
+dss_estacion_macha.psv ->> PROVINCIA...................: CORDOBA
+dss_estacion_macha.psv ->> LATITUD.....................: S303600
+dss_estacion_macha.psv ->> LONGITUD....................: O640700
+dss_estacion_macha.psv ->> ALTITUD.....................: 700
+dss_estacion_macha.psv ->> PENDIENTE...................: FALTA!
+dss_estacion_macha.psv ->> DRENAJE.....................: FALTA!
+dss_estacion_macha.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_estacion_macha.psv ->> PERMEABILIDAD...............: FALTA!
+dss_estacion_macha.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_estacion_macha.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_estacion_macha.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_estacion_macha.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-15
+dss_estacion_macha.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,7
+dss_estacion_macha.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,0
+dss_estacion_macha.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,09
+dss_estacion_macha.psv ->> HORIZONTE->RELACIÓN C/N.....: 11,1
+dss_estacion_macha.psv ->> HORIZONTE->ARCILLA 2 (%)....: 7,3
+dss_estacion_macha.psv ->> HORIZONTE->LIMO 2-50 (%)....: 15,7
+dss_estacion_macha.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,5
+dss_estacion_macha.psv ->> HORIZONTE->AF 100-250 (%)...: 13,7
+dss_estacion_macha.psv ->> HORIZONTE->AM 250-500 (%)...: 15,6
+dss_estacion_macha.psv ->> HORIZONTE->AG 500-1000 (%)..: 21,9
+dss_estacion_macha.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 18,8
+dss_estacion_macha.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0
+dss_estacion_macha.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 11,6
+dss_estacion_macha.psv ->> HORIZONTE->PH PASTA.........: -
+dss_estacion_macha.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,7
+dss_estacion_macha.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13,6
+dss_estacion_macha.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,4
+dss_estacion_macha.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3
+dss_estacion_macha.psv ->> HORIZONTE->CI ME/100G-K +...: 0,8
+dss_estacion_macha.psv ->> HORIZONTE->CI ME/100G-H +...: -
+dss_estacion_macha.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16,1
+dss_estacion_macha.psv ->> HORIZONTE->CIC ME/100G(T)...: 16,2
+dss_estacion_macha.psv ->> HORIZONTE->SAT.B % (S/T)....: 100

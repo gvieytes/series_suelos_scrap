@@ -1,0 +1,219 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO YUQUERI Símbolo: AY
+
+
+Pertenece a la familia "no ácida, térmica" de los Cuarzisamentes óxicos ácuicos (suelo aluvial reciente, arenoso).
+
+Son suelos en los que, generalmente, no pueden distinguirse horizontes genéticos. Tienen textura arenosa y colores claros hasta los 90-100 cm de profundidad, sobre arenas finas cuarzosas muy blancas.
+
+Están desarrollados sobre arenas retransportadas y depositadas en cursos de drenaje incipiente, afluentes de los arroyos principales.
+
+Son suelos mal drenados que presentan generalmente una napa freática suspendida desde los 75 cm de profundidad, y con abundantes moteados de hierro a partir de los 15 cm.
+
+
+Perfil tipo: ER2-50C
+Fecha: 24-VIII-72
+Ubicación: EEA INTA Concordia (foto IR 164-8) - Dpto. Concordia.
+Reconocedores: C.J. Vesco; G.W. van Barneveld.
+
+
+A1: 00-15 cm; pardo amarillento (10YR 5/4) en húmedo; arenoso; estructura de grano simple; suelto en seco; límite gradual, suave.
+
+AC: 15-45 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arenoso; estructura de grano simple; suelto en seco; moteados de hierro (color 10YR 3/6) abundantes, medios y precisos; límite gradual, suave.
+
+C: 45 cm+; pardo muy oscuro (10YR 4/2) en húmedo; arenoso; estructura de grano simple; suelto en seco; moteados de hierro abundantes, medios y precisos; napa freática suspendida.
+
+
+Variabilidad de rasgos
+
+El epipedón está compuesto de un horizonte A1 débilmente expresado, de textura arenosa y estructura en granos sueltos, con menos del 1 % de materia orgánica, que está seguido por un horizonte transicional AC de 30 a 40 cm de espesor, con abundantes moteados de hierro y constituido por más de 80 % de arenas finas y medias.
+
+
+Fases
+
+No presenta fases a escala de reconocimiento.
+
+
+
+
+Drenaje
+
+Imperfectamente drenado, escurrimiento superficial muy lento, permeabilidad moderadamente rápida, capa freática suspendida. Grupo hidrológico C.
+
+
+Erosión
+
+No presenta erosión actual.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Yuquerí
+
+ER2-50C
+
+
+
+N° de registro
+ 924
+ 925
+ 926
+Horizonte
+ A1
+ AC
+ C
+Profundidad (cm
+ 00-12
+ 27-38
+ 55-65
+Mat.organica (%)
+ 0.83
+ 0.31
+ 0.17
+N (%)
+ 0.05
+ 0.00
+ 0.00
+C/N
+ 10
+ -
+ -
+
+
+T <2
+
+ 9.30
+
+ 9.00
+
+ 8.80
+E 2-20
+ 1.30
+ 2.00
+ 3.00
+X 20-50
+ 3.50
+ 3.80
+ 3.00
+T 50-100
+ 5.20
+ 5.70
+ 6.50
+U 100-250
+ 37.50
+ 38.50
+ 38.80
+R 250-500
+ 42.10
+ 40.90
+ 41.00
+A 500-1000
+ 2.40
+ 2.10
+ 1.90
+ Gravas
+ 0.80
+ 0.70
+ 1.90
+
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+pH H2O
+ 6.1
+ 5.8
+ 5.7
+pH ClK
+ 4.8
+ 4.6
+ 4.3
+
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+
+ 2.47
+
+
+
+ 1.55
+
+
+
+ 0.55
+
+
+D
+Ca++
+ 0.81
+ 0.65
+ 0.54
+C
+E
+
+
+
+
+a
+
+Mg++
+ 0.90
+ 0.01
+ 0.04
+t
+C
+
+
+
+
+i
+A
+K+
+ 0.10
+ 0.05
+ 0.03
+o
+M
+
+
+
+
+n
+B
+Na+
+ 0.06
+ 0.06
+ 0.06
+e
+I
+
+
+
+
+s
+O
+H+
+ 1.80
+ 1.40
+ 1.60
+
+
+Equivalente de humedad (%)
+
+
+ 3.90
+
+
+ 3.10
+
+
+ 3.30
+
+

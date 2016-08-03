@@ -1,0 +1,39 @@
+dss_LASPEnASSUR.psv ->> ID..........................: 513
+dss_LASPEnASSUR.psv ->> CLASIFICACION...............: Haplustol fluvéntico
+dss_LASPEnASSUR.psv ->> SERIE.......................: LAS PEÑAS SUR (PñsSur)
+dss_LASPEnASSUR.psv ->> UBICACION...................: 12 Km al ONO de la localidad homónima, departamento Río Cuarto
+dss_LASPEnASSUR.psv ->> PROVINCIA...................: CORDOBA
+dss_LASPEnASSUR.psv ->> LATITUD.....................: S322900
+dss_LASPEnASSUR.psv ->> LONGITUD....................: O641300
+dss_LASPEnASSUR.psv ->> ALTITUD.....................: 515
+dss_LASPEnASSUR.psv ->> PENDIENTE...................: FALTA!
+dss_LASPEnASSUR.psv ->> DRENAJE.....................: FALTA!
+dss_LASPEnASSUR.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LASPEnASSUR.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LASPEnASSUR.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA TÉRMICA
+dss_LASPEnASSUR.psv ->> COLOR ......................: PARDO OSCURO
+dss_LASPEnASSUR.psv ->> HORIZONTE->NOMBRE(S)........: a | 2 | 3 | 4 | 5 | 6
+dss_LASPEnASSUR.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-32 | 32-55 | 55-82 | 82-104 | 104-124 | 124a+
+dss_LASPEnASSUR.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.9 | 1.6 | 2.2 | - | - | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.1 | 1.1 | - | - | - | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.11 | - | - | - | - | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.0 | - | - | - | - | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18.9 | 22.6 | 22.4 | 14.2 | 17.4 | 12.5
+dss_LASPEnASSUR.psv ->> HORIZONTE->LIMO 2-50 (%)....: 64.9 | 59.4 | 49.9 | 46.0 | 47.7 | 43.8
+dss_LASPEnASSUR.psv ->> HORIZONTE->AMF 50-100 (%)...: 13.5 | 16.1 | 12.0 | 22.5 | 20.4 | 26.5
+dss_LASPEnASSUR.psv ->> HORIZONTE->AF 100-250 (%)...: 1.9 | 1.7 | 7.4 | 9.2 | 8.8 | 9.2
+dss_LASPEnASSUR.psv ->> HORIZONTE->AM 250-500 (%)...: 0.3 | 0.5 | 1.6 | 1.7 | 1.9 | 2.2
+dss_LASPEnASSUR.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.5 | 0.9 | 3.2 | 3.8 | 3.9 | 4.2
+dss_LASPEnASSUR.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.1 | 0.3 | 0.9 | 1.8 | 1.8 | 2.2
+dss_LASPEnASSUR.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 0 | 1.4
+dss_LASPEnASSUR.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24.0 | 24.1 | 23.0 | 16.8 | 17.1 | 15.1
+dss_LASPEnASSUR.psv ->> HORIZONTE->PH PASTA.........: 6.2 | 6.3 | 6.4 | 6.7 | 6.7 | 7.9
+dss_LASPEnASSUR.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.6 | 6.7 | 6.9 | 7.1 | 7.1 | 8.0
+dss_LASPEnASSUR.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.7 | 12.5 | 11.9 | 12.0 | 11.7 | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.2 | 1.1 | 1.0 | 1.1 | 1.0 | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->CI ME/100G-Na +..: 1.1 | 1.4 | 1.8 | 1.1 | 1.3 | 0.3
+dss_LASPEnASSUR.psv ->> HORIZONTE->CI ME/100G-K +...: 1.0 | 1.0 | 0.8 | 1.1 | 1.4 | 1.0
+dss_LASPEnASSUR.psv ->> HORIZONTE->CI ME/100G-H +...: 1.0 | 0.7 | 0.5 | 0.4 | 0.3 | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->SUM.B. ME/100G(S): 14.0 | 16.0 | 15.5 | 15.3 | 15.4 | 
+dss_LASPEnASSUR.psv ->> HORIZONTE->CIC ME/100G(T)...: 15.0 | 16.7 | 16.0 | 15.7 | 15.7 | 15.0
+dss_LASPEnASSUR.psv ->> HORIZONTE->SAT.B % (S/T)....: 93.3 | 95.8 | 96.9 | 97.5 | 98.1 | 100

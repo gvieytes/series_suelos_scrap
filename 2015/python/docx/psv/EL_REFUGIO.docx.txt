@@ -1,0 +1,311 @@
+--------------------------------------------------------------------------------
+SERIE EL REFUGIO Símbolo: ERf
+
+
+Pertenece a la familia "fina, mixta, calcárea, térmica" de los Haplacuoles típicos.
+
+Son suelos ligeramente alcalinos y moderadamente salinos, anegables e inundables, desarrollados en materiales de capas arcillo-limosas y ubicadas en antiguos costas de emersión Querandino - Pleistoceno.
+
+
+Perfil tipo: PDE C-383 INTA Castelar
+Fecha: XI -1976
+Ubicación: Ea. La Nueva. (Hoja IGM 3360-29-2) - Dpto. Gualeguaychú
+Reconocedores: L. A. Gómez; V. Nakama
+
+
+A11: 0-8 cm; pardo oscuro (10YR 3/3) en húmedo, pardo (10YR 5/3) en seco; franco arcillo limoso; bloques subangulares, medios, débiles, que rompen en bloques menores; claro, suave.
+
+II: 9-44 cm; negro (10YR 2/1) en húmedo; arcilloso; bloques subangulares, medios, moderados, rompen en bloques menores; abundantes concreciones de carbonato de calcio; moteados abundantes, precisos y finos; gradual, suave.
+
+III: 44-64 cm; gris (10YR 5/1) en húmedo; arcillo limoso; bloques subangulares medios, débiles; moderada reacción de carbonatos libres; escasas concreciones de hierro manganeso; escasa concreciones de carbonato de calcio; moteados abundantes, débiles y finos; claro, suave.
+
+IV: 64-78 cm; pardo grisáceo oscuro (2,5YR 4/2) en húmedo; bloques subangulares medios, moderados; arcillo limoso; moderada reacción de carbonatos libres; escasas concreciones de hierro manganeso; escasas concreciones de carbonato de calcio; moteados abundantes, débiles y finos; claro, suave.
+
+V: 78-123 cm; pardo grisáceo (2,5YR 5/2) en húmedo; arcillosa; bloques angulares, medios moderados; escasas concreciones de hierro manganeso; escasos barnices de "clay skins"; moteados escasos, débiles y finos; gradual, suave.
+
+VI: 123-150 cm; pardo firme (7,5YR 4/6) en húmedo; arcillo limoso; bloques subangulares medios, débiles.
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Pobremente drenado. Escurrimiento superficial muy lento. Permeabilidad lenta.
+
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Refugio
+
+PDE C-383 INTA Castelar
+
+N° de registro
+ 21352
+ 21353
+ 21354
+ 21355
+ 21356
+ 21357
+Horizonte
+ A11
+ II
+ III
+ IV
+ V
+ VI
+Profundidad (cm)
+ 3-6
+ 15-35
+ 48-60
+ 70-75
+ 85-110
+ 130-140
+Mat. orgánica (%)
+ 6.16
+ 1.05
+ 0.38
+ 0.34
+ -
+ -
+Factor de humedad
+ 1.03
+ 1.05
+ 1.05
+ 1.05
+ 1.08
+ 1.08
+C (%)
+ 3.58
+ 0.61
+ 0.22
+ 0.20
+ -
+ -
+N (%)
+ 0.367
+ 0.058
+ -
+ -
+ -
+ -
+C/N
+ 10
+ 10
+ -
+ -
+ -
+ -
+
+T <2 u
+
+ 33.4
+
+ 48.8
+
+ 50.1
+
+ 46.4
+
+ 54.0
+
+ 43.4
+E 2-20 u
+ 23.4
+ 21.2
+ 22.0
+ 21.5
+ 18.5
+ 19.4
+X 2-50 u
+ 48.9
+ 40.6
+ 43.1
+ 42.2
+ 37.0
+ 44.0
+T 50-74 u
+ 9.1
+ 5.7
+ 4.2
+ 5.8
+ 6.1
+ 6.9
+U 74-100 u
+ 5.0
+ 3.7
+ 1.2
+ 2.9
+ 1.8
+ 3.5
+R 100-250 u
+ 2.9
+ 0.9
+ 0.7
+ 2.4
+ 0.9
+ 2.0
+A 250-500 u
+ 0.7
+ 0.3
+ 0.3
+ 0.3
+ 0.2
+ 0.2
+
+Gravilla (> 2 Tosca Ca %
+ -
+ -
+ 0.5
+ -
+ 1.5
+ -
+CO3Ca (%) V
+ -
+ -
+ 0.4
+ Vest (n)
+ Vest (n)
+ Vest (n)
+Equivalente de humedad (%)
+ 39.2
+ 45.3
+ 52.1
+ 49.8
+ 59.7
+ 46.8
+Resistencia de la pasta (Ohms/cm)
+ 1250
+ 487
+ 219
+ 179
+ 195
+ 203
+pH en pasta
+ 5.0
+ 6.7
+ 7.5
+ 7.4
+ 7.4
+ 7.2
+pH en agua (1:2,5)
+ 5.3
+ 7.3
+ 8.0
+ 7.9
+ 8.2
+ 8.0
+pH en 1 N KCl (1:2,5)
+ 4.5
+ 5.8
+ 6.7
+ 6.6
+ 6.8
+ 6.9
+Conductividad (mmhos/cm)
+ -
+ 3.77
+ 12.58
+ 12.38
+ 17.04
+ 15.39
+
+ Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 5.8
+ 8.0
+ -
+ -
+ -
+ -
+
+Mg++
+ 5.0
+ 7.0
+ -
+ -
+ -
+ -
+
+Na[+]
+ 2.5
+ 9.0
+ -
+ -
+ -
+ -
+
+K[+]
+ 1.2
+ 2.0
+ -
+ -
+ -
+ -
+% Na+ en cambio de v. T
+ 12.5
+ 32.7
+ -
+ -
+ -
+ -
+% de agua de saturación
+ 56
+ 61
+ 60
+ 55
+ 64
+ 56
+Valor S (m.e./100 g)
+ 14.5
+ 26.0
+ -
+ -
+ -
+ -
+H de cambio (m.e./100 g)
+ 6.8
+ 3.4
+ -
+ -
+ -
+ -
+Valor T (m.e./100) NH4++ o Na+
+ 20.0
+ 27.5
+ -
+ -
+ -
+ -
+% de saturación de T
+ 73
+ 95
+ -
+ -
+ -
+ -
+% de saturación de S + H
+ 68
+ 88
+ -
+ -
+ -
+ -
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+

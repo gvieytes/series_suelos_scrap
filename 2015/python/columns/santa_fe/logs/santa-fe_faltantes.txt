@@ -1,0 +1,27 @@
+Af    Alfisol (Serie sin diferenciar)
+Ald   Alejo Ledesma
+AMS   Apeadero Mascías
+BSI   Colonia Bossi
+CAQ   Cacique Ariacaiquín
+CMo   Colonia Moreno
+CU    Cañada del Ucle
+MJ    Marcos Juárez
+MMa   María Manuela
+MT    María Teresa
+Nm    Namuncurá
+ORO   Oroño
+RB    Ribera
+Rd    Roldan
+Rs    Rosales
+SA    Estancia Santa Ana
+SFA   San Fabián
+SGU   San Guillermo
+SJn   San Julián
+SL    Santa Lucía
+So    La Sofía
+SRT   La Sarita
+SS    Sancti Spíritu
+SU    San Urbano
+VC    Villa Cañás
+VRs   Villa Rossi
+VTR   Villa Trinidad

@@ -1,0 +1,251 @@
+
+--------------------------------------------------------------------------------
+SERIE LA JAULA								 Símbolo: LJ
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico oscuro, arcillo-limoso, con moteados de hierro-manganeso y caras de fricción ("slickensides").
+Tiene concreciones de CO3Ca a partir de 60-80 cm en el horizonte B3.
+Suelos desarrollados en materiales loessoides calcáreos retransportados, de textura franco-arcillo-limosa.
+
+
+Perfil tipo: ER1-2C
+Fecha: 22-IV-1970
+Ubicación: Estación Experimental Agropecuaria Paraná del INTA (foto 448-36) - Dpto. Paraná.
+Reconocedores: G.R. Pellini; G.W. van Barneveld.
+
+
+A1: 00-17 cm; pardo grisáceo muy oscuro a pardo muy oscuro (10YR 2.5/2) en húmedo; gris pardo claro a pardo grisáceo (10YR 5.5/2) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; friable en húmedo; límite claro, suave.
+
+B1: 17-22 cm; pardo muy oscuro (10YR 2/2) en húmedo; pardo grisáceo (10YR 5/2) en seco; arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; firme en húmedo; barnices "clay humic skins" comunes y finos; límite claro, suave.
+
+B21t: 22-44 cm; pardo oscuro (10YR 3/3) en húmedo; pardo (10YR 5/3) en seco; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en prismas compuestos irregulares y bloques angulares irregulares, medios, moderados; firme en húmedo; barnices "clay humic skins" comunes y medios; caras de fricción ("slickensides") escasas, no intersectadas; moteados de hierro y manganeso, comunes, finos y precisos; límite gradual, suave.
+
+B22t: 44-87 cm; pardo a pardo oscuro (7.5YR 3.5/2) en húmedo; pardo (7.5YR 5/3) en seco; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en prismas compuestos irregulares y bloques angulares irregulares, medios, moderados y algunos bloques angulares irregulares con tendencia cuneiforme; firme en húmedo; barnices "clay humic skins" abundantes y medios; caras de fricción ("slickensides") comunes, poco intersectadas; moteados de hierro y manganeso comunes, finos y precisos; límite difuso,suave.
+
+B3ca: 87-125 cm; pardo (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares con tendencia a regulares, medios, moderados, que rompen en prismas compuestos irregulares y bloques angulares irregulares, medios, moderados; firme en húmedo; barnices "clay humic skins" comunes y medios; caras de fricción ("slickensides") escasas, no intersectadas; moteados de hierro y manganeso comunes, finos y débiles; concreciones calcáreas escasas y finas; límite difuso, suave.
+
+Cca: 155 + cm (155); gris oscuro a pardo (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; moteados de hierro y manganeso escasos, finos y débiles; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 1 cm, escasas.
+
+
+Variabilidad de rasgos
+
+El solum varía de 110-130 cm.
+
+El epipedón mólico tiene un espesor de 20-28 cm e incluye los horizontes A1 y B1 ó A3, aunque estos últimos a veces no estén presentes, en cuyo caso el epipedón mólico puede incluir una pequeña parte del horizonte B21t. La estructura varía de granular a bloques subangulares y tiene 27-32 % de arcilla y su color varía de 10YR 2/2 a 3/2. El epipedón a veces muestra moteados de hierro-manganeso escasos y finos.
+
+El horizonte argílico, de estructura prismática compuesta, que rompe en bloques angulares y en algunos lugares bloques cuneiformes, varía de 45-70 cm y tiene 42-52 % de arcilla, y generalmente está algo mejor expresado en su parte inferior.
+
+En seco el horizonte se agrieta leve a moderadamente y tiene comunes caras de fricción ("slickensides"), generalmente poco intersectadas. Los moteados de hierro-manganeso, por lo general comunes y finos, localmente son escasos.
+
+El horizonte B3 tiene 35-42 % de arcilla y ocasionalmente presenta caras de fricción pequeñas, no intersectadas. Generalmente, las concreciones de carbonatos aparecen entre 70-80 cm; son escasas pero localmente comunes, y el calcáreo libre normalmente se encuentra recién en el C. Este último horizonte tiene 30-35 % de arcilla, y su color varía de 7.5YR 4/4 a 5/4.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento
+
+
+Series similares y sus diferencias
+
+La Serie La Jaula se parece a la serie Oro Verde, pero ésta es menos profunda, tiene un horizonte argílico menos arcillosos y los carbonatos se presentan más alto en el perfil (45-70 cm).
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio a algo lento. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie La Jaula presenta un leve peligro de erosión laminar y en surcos, especialmente en las partes algo cóncavas.
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Jaula
+
+ER1-2C
+
+
+
+
+
+Nº de registro
+ 7
+ 8
+ 9
+ 10
+ 11
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 03-12
+ 28-40
+ 58-72
+ 98-108
+ 126-140
+Mat.organica (%)
+ 2.99
+ 1.48
+ 0.86
+ 0.45
+ 0.22
+C/N
+ 11
+ 11
+ 8
+ 6
+ 5
+
+T
+
+ <2 u
+
+ 27
+
+ 42.3
+
+ 45.2
+
+ 37.0
+
+ 34.1
+E
+ 2-20 u
+ 27.9
+ 23.2
+ 22.9
+ 21.3
+ 25.8
+X
+ 2-50 u
+ 66.0
+ 51.9
+ 49.3
+ 57.3
+ 57.4
+T
+ 50-100 u
+ 2.1
+ 1.7
+ 2.2
+ 2.2
+ 4.0
+U
+ 100-250 u
+ 2.4
+ 2.6
+ 2.1
+ 2.3
+ 3.4
+R
+ 250-500 u
+ 1.6
+ 1.5
+ 1.2
+ 1.2
+ 1.1
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.5
+ 0.5
+pH H2O (1:2,5)
+ 6.3
+ 6.3
+ 6.8
+ 7.8
+ 7.8
+pH ClK (1:2,5)
+ 5.6
+ 5.5
+ 5.8
+ 6.6
+ 6.6
+
+CIC (meq/100 g)
+
+ 21.0
+
+ 27.9
+
+ 30.3
+
+ 29.1
+
+ 27.8
+
+
+
+ Cationes de cambio
+
+Ca++
+ 14.5
+ 20.2
+ 21.7
+ 22.3
+ 21.6
+
+Mg++
+ 3.1
+ 3.8
+ 4.9
+ 3.8
+ 3.7
+
+K+
+ 1.2
+ 1.3
+ 1.7
+ 1.9
+ 1.7
+
+Na+
+ 0.2
+ 0.4
+ 0.2
+ 0.3
+ 0.3
+
+H+
+ 3.9
+ 3.9
+ 3.0
+ 2.0
+ 2.0
+% Na/T
+ 1.0
+ 1.4
+ 0.7
+ 1.0
+ 1.1
+
+Equivalente de Humedad (%)
+
+ 26.8
+
+ 33.2
+
+ 34.1
+
+ 32.2
+
+ 32.1
+

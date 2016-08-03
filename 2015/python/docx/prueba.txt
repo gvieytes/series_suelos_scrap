@@ -1,0 +1,10 @@
+Campo El Reposo, 4 Km al Este de Enrique Carbo, Departamento Cuchilla Redonda, Departamento Gualeguaychu, Entre Rios
+LAT: 33.0077778 
+LON: 58.5111667
+Colonia Arrua, Departamento Alcaraz 2, Departamento La Paz, Entre Rios
+LAT: 30.7589703 
+LON: 59.63927839999999
+Departamento Gualeguay, Entre Rios
+LAT: 33.0503446 
+LON: 59.5642369
+Departamento Tala, Entre Rios

@@ -1,0 +1,46 @@
+PARA REVISAR:
+
+Candidatos a error
+ * Con "letras" en campos numéricos
+grep HORIZONTE entre-rios_v10.0.txt | grep -v "HORIZONTE->NOMBRE(S)" | awk -F: '{print $2}' | grep "[a-z]"
+
+ * Sin dos puntos
+grep HORIZONTE entre-rios_v10.0.txt | grep -v ":"
+
+ * Dos puntos seguido de 2 espacios   (  ":  " )
+grep ":  " entre-rios_v10.0.txt | grep -v "|$" > test/revisar1.txt
+
+
+
+Posibles faltantes
+cd psv
+ls *.docx.txt > ../test/todos.txt
+
+	- Mat.orgánica (%)
+
+
+	- CIC Ca++
+grep "Ca ++" entre-rios_v10.0.txt  | awk '{print $1}' > test/capp_listos.txt
+grep -vf capp_listos.txt todos.txt > capp_faltantes.txt
+
+
+	- CIC Mg++
+
+
+	- CIC K+
+
+
+	- CIC Na+
+
+
+	- CIC H+
+
+
+OK!	- Fósforo asimilable (ppm)
+cd psv
+grep -i PPM *.docx.txt | awk -F: '{print $1}' > ../test/ppm_todos.txt
+cd ..
+grep PPM entre-rios_v10.0.txt | awk '{print $1}' > test/ppm_listos.txt
+grep -vf ppm_listos.txt ppm_todos.txt  > ppm_faltantes.txt
+
+

@@ -1,0 +1,222 @@
+--------------------------------------------------------------------------------
+SERIE ARAGÓN Símbolo: Arg
+Pertenece a la familia "fina, mixta ligeramente alcalina, térmica" de los Argiudoles ácuicos.
+Suelos desarrollados en materiales loéssicos franco-limosos a franco-arcillo-limosos, con concreciones calcáreas, moderadamente bien drenados y de colores pardos oscuros.
+Perfil tipo: ER1-89C
+Fecha: 16-XII-1992
+Ubicación: foto IR 419-45 - Dpto. Gualeguay
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-09 cm; pardo grisáceo oscuro (10YR 4/2) en seco, gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic-skins") abundantes, finos; moteados de hierro-manganeso escasos, finos y débiles; límite abrupto, suave.
+B21t: 09-24 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcilloso; estructura en prismas compuestos regulares gruesos, moderados, que rompen en bloques angulares irregulares gruesos, fuertes; extremadamente duro en seco; muy firme en húmedo; barnices ("clay-humic skins") abundantes; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+B22t: 24-44 cm; pardo oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares gruesos, moderados; muy duro en seco, muy firme en húmedo; barnices ("clay-humic skins") abundantes; vestigios de carbonatos libres en la masa; moteados de hierro-manganeso escasos, finos y débiles; límite abrupto, suave.
+B31ca: 44-63 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles que rompen en bloques angulares irregulares, medios y moderados; duro en seco; firme en húmedo; moderada a abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas y finas; barnices ("clay-humic skins") comunes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B32ca: 63-100 cm; pardo (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco; friable en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas escasas y finas; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+C: 100 cm+; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco arcillo limoso; estructura en bloques subangulares medios, débiles, con tendencia a masiva; ligeramente duro en seco; friable en húmedo; escasa cantidad de carbonatos libre en la masa; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El solum llega hasta los 100 cm. Debido a la severa erosión que tiene esta serie, raramente el epipedón supera los 10-13 cm de espesor, y en muy pocos perfiles llega a tener un espesor de más de 18 cm. El perfil típico está compuesto por un horizonte A1 de solo 9 cm de espesor, con presencia de arena gruesa en las caras de los agregados.
+El horizonte argílico, de estructura prismática compuesta, tiene un espesor que varía entre los 35-45 cm y es de textura arcillo-limosa. Cuando seco, se agrieta con facilidad. Presenta escasos a comunes rodados de hasta 3 mm de diámetro; el calcáreo, en concreciones finas y libre en la masa, es abundante a partir de los 50 cm de profundidad.
+El horizonte C, de textura franco-arcillo-limosa, se caracteriza por contener muy poco carbonato libre en la masa y no tiene concreciones del mismo. El perfil muestra moteados ferromanganesíferos en todos los horizontes, pero sólo son comunes a abundantes a partir del B31ca. Son suelos ligeramente alcalinos a partir del B21t, llegando a tener 8% de sodio de intercambio.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+Series similares y sus diferencias
+Serie Aragón se diferencia del resto de los Argiudoles ácuicos del departamento por tener un solum poco profundo con abundantes carbonatos en la base del mismo y por la presencia de arena gruesa y rodados a partir del B31ca.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial medio a rápido. Permeabilidad lenta a moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+Erosión
+Serie Aragón está severa a moderadamente erosionada, siendo muy alta la susceptibilidad a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Aragón
+ER1-89C
+Nº de registro
+ 7.731
+ 7.732
+ 7.733
+ 7.734
+ 7.735
+ 7.736
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ C
+Profundidad (cm)
+ 02-08
+ 11-20
+ 24-42
+ 46-60
+ 67-85
+ 105-115
+Mat.organica (%)
+ 4.01
+ 2.70
+ 1.92
+ 1.09
+ 0.60
+ 0.37
+N (%)
+ 0.15
+ 0.14
+ 0.10
+ 0.06
+ 0.03
+ 0.03
+C/N
+ 14.70
+ 10.90
+ 10.20
+ 8.90
+ 9.70
+ 6.90
+T < 2 u
+ 21.49
+ 33.68
+ 40.70
+ 40.62
+ 35.87
+ 30.23
+E 2-20 u
+ 21.67
+ 16.73
+ 18.76
+ 21.73
+ 22.44
+ 26.58
+X 2-50 u
+ 52.44
+ 46.42
+ 43.61
+ 45.07
+ 50.28
+ 55.15
+T 50-100 u
+ 5.58
+ 4.46
+ 3.81
+ 4.34
+ 3.78
+ 3.70
+U 100-500 u
+ 19.59
+ 14.54
+ 11.09
+ 9.24
+ 9.42
+ 10.20
+R 500-1000 u
+ 0.85
+ 0.88
+ 0.74
+ 0.67
+ 0.60
+ 0.67
+A 1000-2000 u
+ 0.05
+ 0.02
+ 0.05
+ 0.06
+ 0.05
+ 0.05
+CO3Ca (%)
+ 0.00
+ 0.00
+ 0.00
+ 1.77
+ 0.77
+ 0.17
+pH H2O
+ 6.1
+ 6.7
+ 7.7
+ 8.4
+ 8.3
+ 8.2
+pH ClK
+ 5.0
+ 5.9
+ 6.8
+ 7.5
+ 7.4
+ 7.4
+C.E. (mmhos/cm)
+ 0.84
+ 0.79
+ 1.01
+ 1.77
+ 1.55
+ 1.12
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+ 22.32
+ 27.25
+ 34.70
+ 34.00
+ 27.45
+ 21.43
+D
+Ca++
+ 17.20
+ 19.70
+ 24.60
+ 24.50
+ 20.00
+ 16.00
+C
+E
+a
+Mg++
+ 2.50
+ 3.70
+ 5.28
+ 5.00
+ 3.80
+ 2.70
+t
+C
+i
+A
+K+
+ 1.35
+ 1.45
+ 2.00
+ 2.00
+ 1.60
+ 1.20
+o
+M
+n
+B
+Na+
+ 0.57
+ 1.90
+ 2.75
+ 2.70
+ 2.00
+ 1.50
+e
+I
+s
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 2.55
+ 6.97
+ 7.92
+ 7.94
+ 7.29
+ 7.00
+Equivalente de humedad (%)
+ 23.17
+ 29.95
+ 38.66
+ 38.74
+ 34.62
+ 31.90

@@ -1,0 +1,226 @@
+
+--------------------------------------------------------------------------------
+SERIE HERNANDARIAS						 Símbolo: He
+
+
+Pertenece a la familia "fina, mixta, levemente alcalina y térmica" de los Ocracua1fes mólicos.
+Son suelos desarrollados sobre materiales limo-loesoides retransportados, franco-arcillo-limoso; imperfectamente drenados, con moteados de hierro-manganeso prácticamente en todo el perfil, tienen un epipedón somero, muy lixiviado y degradado, franco-limoso a franco-arcillo-limoso, y un horizonte argílico oscuro arcillo-limoso con concreciones de calcáreo y algunos cristales de yeso a partir de 25-35 cm.
+Son levemente alcalinos en el subsuelo.
+
+Perfil tipo: ER1 - 54C
+Fecha: 12/IV/1973
+Estancia El Tartagal (foto 463-42) - Dpto. La Paz
+Reconocedores: O. A. Foti - G.W. van Barneveld
+
+
+Al: 00-11 cm; gris muy oscuro (10YR 3/1) en húmedo; gris (1CYR 5/1) en seco; franco-arcillo-limoso; estructura en bloques angulares irregulares medios débiles con tendencia a masivo (pisoteo); muy duro en seco; firme en húmedo; barnices ("humic y clay-humic skins") escasos y finos; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave. Horizonte muy lixiviado, con limo suelto en superficie de color 10 YR 6/1, gris claro.
+
+B21t: 11-25 cm; gris oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares irregulares medios moderados; firme en húmedo; barnices ("humic y clay-humic skins") escasos y finos; moteados de hierro-manganeso comunes, finos y débiles; límite claro, suave. Horizonte algo lixiviado por las caras de los agregados.
+
+B22ca: 25-69 cm; gris muy oscuro a pardo grisáceo muy oscuro (10YH 3/1.5) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios débiles, que rompen en bloques angulares irregulares medios débiles; firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones de calcáreo comunes; moteados de hierro-manganeso comunes, finos, y precisos; límite gradual, suave.
+
+B3ca: 69-(120) cm; pardo oscuro a pardo (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares gruesos débiles; friable en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones de calcáreo abundantes, de hasta 1 cm; barnices inherentes al material; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El epipedón varía de 10-17 cm y en la mayoría de los casos puede ser descripto como un Al muy lixiviado, aunque a veces también cono un A2 incipiente con limo suelto en superficie. Tiene una estructura bloquiforme a masiva en campos con mucho pisoteo y por sus colores llegan normalmente a las exigencias para un epipedón mólico (10YR 3/1 a 10YR 3/2 en húmedo y 10YR 5/1 a 10YR 5/2 en seco) excepto en el espesor, razón por la cual se ha preferido incluir a la serie en el subgrupo "mólico" en vez de "típico". Tiene 25-35 % de arcilla y 3-4 % de materia orgánica, en parte dispersa y en parte descompuesta. En general, es levemente alcalino, con 2-6 % de sodio intercambiable.
+El horizonte B2, un argílico muy denso y compacto, prácticamente no posee características vérticas; normalmente, tiene una estructura prismática de los prismas son muy débiles. Tiene 33-40 % de arcilla y está mejor expresado en su parte superior.
+Las concreciones de calcáreo (comunes a abundantes, duras de hasta 1 cm y en miscelio aparecen entre los 25-35 en pero no en pocos casos puede encontrárselas desde la base del epipedón; el calcáreo libre (10-12 % en volumen) aparece más abajo (40-60 cm). El horizonte es levemente alcalino con 7-10 % de sodio intercambiable; en su parte inferior y en el B3 y C pueden encontrarse algunos cristales y rosetas de yeso. En seco se agrieta leve a moderadamente.
+Son suelos desarrollados en materiales franco-arcillo-limosos con 33-38 % de arcilla, leve a moderadamente alcalinos con 10-14 % de sodio de intercambio, y cuyo color varía de 7.5YR 4/4 a 7.5YTR 5/4.
+
+
+Fases
+
+No se describieron a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Santa Elena, que tiene el calcáreo más profundo y es más alcalina. Otros planosoles son más vertisólicos.
+
+
+Drenaje
+
+Imperfectamente drenados con encharcamiento después de cada lluvia mayor; escurrimiento muy lento; permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie Hernandarias no está erosionada; tampoco hay peligro de erosión en las partes muy planas, pero sí existe moderada a severa susceptibilidad en las pendientes largas, muy suavemente onduladas.
+
+
+Vegetación típica
+
+Monte ralo de espinillo (Acacia caven), tala (Celtis spinosa), chañar (Geoffroea decorticans), con moderada cantidad de palma caranday (Trithrinax campestris), tuna (Opuntia sp.) y pasturas hidromórficas que incluyen variedades como Paspalum sp., Setaria sp. y Cyperaceae.
+
+DATOS ANALÍTICOS DEL PERFIL TIPO
+
+Serie Hernandarias
+
+ER1-54C
+
+
+
+
+Nº de registro
+ 1078
+ 1079
+ 1080
+ 1081
+Horizonte
+ A1
+ B21t
+ B22ca
+ B3ca
+Profundidad (cm)
+ 00-08
+ 15-26
+ 39-54
+ 82-99
+Mat.organica (%)
+ 3.1
+ 2.0
+ 1.5
+ 0.2
+C/N
+ 10
+ 9
+ 10
+ -
+
+T <2
+ 35.3
+ 40.5
+ 38.6
+ 32.9
+E 2-20
+ 26.1
+ 24.4
+ 18.7
+ 16.2
+X 2-50
+ 63.4
+ 58.6
+ 60.7
+ 66.3
+T 50-100
+ 1.0
+ 0.6
+ 0.5
+ 0.6
+U 100-250
+ 0.2
+ 0.2
+ 0.1
+ 0.1
+R 250-500
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+ 0.0
+ 0.3
+ 4.4
+ 10.9
+pH H2O
+ 7.0
+ 8.2
+ 8.4
+ 8.5
+pH ClK
+ 5.9
+ 6.8
+ 7.0
+ 7.0
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 36.2
+ 49.6
+ 48.3
+ 36.5
+
+D
+Ca++
+ 31.0
+ -
+ -
+ -
+C
+E
+
+
+
+
+
+A
+
+Mg++
+ 1.8
+ -
+ -
+ -
+T
+C
+
+
+
+
+
+I
+A
+K+
+ 0.8
+ 0.9
+ 1.2
+ 1.3
+O
+M
+
+
+
+
+
+N
+B
+Na+
+ 1.9
+ 3.6
+ 3.6
+ 3.7
+E
+I
+
+
+
+
+
+S
+O
+H+
+ 2.1
+ -
+ -
+ -
+% Na/T
+ 5.2
+ 7.3
+ 7.4
+ 10.1
+
+Equivalente de humedad (%)
+ 40.2
+ 55.1
+ 56.3
+ 50.4
+

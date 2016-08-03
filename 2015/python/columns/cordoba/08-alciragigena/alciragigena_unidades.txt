@@ -1,0 +1,343 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo
+Capacidad de uso: IIIec
+Índice de productividad: 51
+Descripción: Complejo en fase ligera a moderadamente erosionada de Series
+Series: ALPA CORRAL | EL CANO
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo2
+Capacidad de uso: IVec
+Índice de productividad:45
+Descripción: Complejo en fase moderadamente erosionada de Series
+Series: ALPA CORRAL | EL CANO | SAN BARTOLOMÉ | Suelos menores
+Porcentajes: 60 | 20 | 10 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo3
+Capacidad de uso: VIec
+Índice de Productividad:19
+Descripción: Complejo en fase gravemente erosionada de Series
+Series: ALPA CORRAL | EL CANO | SAN BARTOLOMÉ | Suelos menores enterrados y/o acumulados
+Porcentajes: 30 | 30 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo4
+Capacidad de uso: IVec
+Índice de productividad: 44
+Descripción: Consociación 
+Series: ALPA CORRAL en fase moderadamente erosionada
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo5
+Capacidad de uso: VIec
+Índice de Productividad: 29
+Descripción: Complejo en fase severamente erosionada de Series
+Series: ALPA CORRAL | EL CANO | SAN BARTOLOMÉ | Suelos menores poco profundos, suelos enterrados y suelos en capas
+Porcentajes: 50 | 20 | 10 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo6
+Capacidad de uso: IIIec
+Índice de Productividad: 73
+Descripción: Asociación de Series
+Series: ALPA CORRAL en fase acumulada | SAN BARTOLOMÉ en fase ligeramente erosionada | ELENA en fase ligeramente erosionada | Suelos menores
+Porcentajes: 40 | 25 | 25 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo8
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Asociación de Series
+Series: ALPA CORRAL en fase moderadamente erosionada | SAN BARTOLOMÉ | ELENA
+Porcentajes: 70 | 15 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo10
+Capacidad de uso: VIec
+Índice de Productividad:38
+Descripción: Asociación de Serie
+Series: ALPA CORRAL en fase moderadamente erosionada | ALPA CORRAL en fase severamente erosionada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo13
+Capacidad de uso: IVec
+Índice de productividad:44
+Descripción: Complejo en fase moderadamente erosionada por agua y moderadamente inclinada de Series
+Series: ALPA CORRAL | EL CANO en fase acumulada | EL CANO en fase moderadamente erosionada por agua
+Porcentajes: 50 | 25 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo14
+Capacidad de uso: VIes
+Índice de Productividad: 22
+Descripción: Complejo en fase moderadamente erosionada por agua y acumulada de Series
+Series: ALPA CORRAL | ALPA CORRAL en fase severamente erosionada por agua | ELENA en fase severamente erosionada y acumulada | Suelos menores aluviales
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag1
+Capacidad de uso: IIIsc
+Índice de Productividad:72
+Descripción: Asociación en fase muy poco anegable y acumulada de Series
+Series: BAIGORRIA | OLAETA
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag2
+Capacidad de uso: IVec
+Índice de Productividad:61
+Descripción: Asociación en fase acumulada y ligera a moderadamente erosionada de Series
+Series: BAIGORRIA | OLAETA
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag3
+Capacidad de uso: IVes
+Índice de Productividad:58
+Descripción: Asociación en fase inclinada y ligera a moderadamente erosionada de Series
+Series: BAIGORRIA | OLAETA
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag4
+Capacidad de uso: IIIes
+Índice de productividad: 62
+Descripción: Consociación
+Series: BAIGORRIA en fase ligera a moderadamente erosionada (surcos)
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag5
+Capacidad de uso: IVes
+Índice de Productividad:51
+Descripción: Consociación
+Series: BAIGORRIA en fase moderadamente inclinada y moderadamente erosionada por agua
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag6
+Capacidad de uso: IVsc
+Índice de Productividad:55
+Descripción: Asociación de Series
+Series: BAIGORRIA | Suelos menores de derrames de desbordes de ríos y arroyos de texturas variadas
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag7
+Capacidad de uso: IIIes
+Índice de productividad:69
+Descripción: Asociación de Series
+Series: BAIGORRIA | BAIGORRIA en fase ligeramente erosionada por viento | BAIGORRIA en fase acumulada
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag8
+Capacidad de uso: IVes
+Índice de productividad: 48
+Descripción: Asociación de Serie
+Series: BAIGORRIA | BAIGORRIA en fase poco anegable y acumulada | BAIGORRIA en fase moderadamente erosionada por viento
+Porcentajes: 50 | 20 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag9
+Capacidad de uso: VIes
+Índice de Productividad: 38
+Descripción: Consociación
+Series: BAIGORRIA en fase moderada a severamente erosionada por agua
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag10
+Capacidad de uso: IIIsc
+Índice de Productividad: 50
+Descripción: Asociación en fase muy poco anegable de Series
+Series: BAIGORRIA | LA AGUADA
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag11
+Capacidad de uso: IVes
+Índice de Productividad:44
+Descripción: Asociación de Series
+Series: BAIGORRIA en fase ligeramente erosionada por agua | LA AGUADA en fase moderada a severamente erosionada
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Bag12
+Capacidad de uso: VIes
+Índice de Productividad:32
+Descripción: Asociación de Series
+Series: BAIGORRIA en fase moderada a severamente erosionada por viento | Suelos menores arenosos poco diferenciados
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co31
+Capacidad de uso: VIIws
+Índice de Productividad:18
+Descripción: Complejo indeterminado de suelos halohidromórficos y degradados del Arroyo El Barreal y otros
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo:Co54
+Capacidad de uso: IVsc
+Índice de Productividad: 60
+Descripción: Complejo indeterminado de derrames fluviales o terrazas altas no inundables asociados a suelos de lomas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co55
+Capacidad de uso: VIIws
+Índice de Productividad:16
+Descripción: Complejo indeterminado de suelos en capas de diversa granulometría, halo-hidromórficos de depresiones y terrazas bajas inundables y/o vinculados al nacimiento de arroyos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co56
+Capacidad de uso: VIws
+Índice de Productividad:33
+Descripción: Complejo indeterminado de suelos poco inundables de terrazas fluviales intermedias moderadamente alcalinos y de áreas deprimidas vinculadas a arroyos permanentes y semipermanentes
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Et3
+Capacidad de uso: IVws
+Índice de Productividad: 54
+Descripción: Complejo de Series
+Series: ETRURIA | MONTE ALTO en fase moderadamente alcalina en profundidad | GENERAL CABRERA
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: GC
+Capacidad de uso: IIIsc
+Índice de Productividad:51
+Descripción: Consociación
+Series: GENERAL CABRERA
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: GC1
+Capacidad de uso: IIIec
+Índice de Productividad:50
+Descripción: Asociación de Series
+Series: GENERAL CABRERA | GENERAL CABRERA en fase por erosión hídrica ligera
+Porcentajes: 80 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo:GC2
+Capacidad de uso: IIIsc
+Índice de Productividad:47
+Descripción: Asociación de Series
+Series: GENERAL CABRERA en fase ligeramente anegable | GENERAL DEHEZA
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: GC4
+Capacidad de uso: IVec
+Índice de Productividad:46
+Descripción: Consociación
+Series: GENERAL CABRERA en fase por erosión hídrica ligera a moderada
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: GC9
+Capacidad de uso: IVes
+Índice de Productividad:42
+Descripción: Asociación de Series
+Series: GENERAL CABRERA en fase moderadamente erosionada por agua | GENERAL DEHEZA en fase moderadamente erosionada por agua
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LAg
+Capacidad de uso: IIIec
+Índice de Productividad:62
+Descripción: Complejo de Series
+Series: LA AGUADA | LA INVERNADA
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LAg1
+Capacidad de uso: IVe
+Índice de Productividad: 47
+Descripción: Consociación
+Series: LA AGUADA en fase moderada a severamente erosionada
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LAg3
+Capacidad de uso: IVec
+Índice de Productividad: 64
+Descripción: Asociación de Series
+Series: LA AGUADA en fase ligera a moderadamente erosionada por agua | LA INVERNADA en fase acumulada y moderada a severamente erosionada por agua
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LI3
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Asociación en fase ligera a moderadamente erosionada de Series
+Series: LAS ISLETILLAS | MONTE ALTO
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LI4
+Capacidad de uso: IIIec
+Índice de Productividad: 72
+Descripción: Asociación de Series
+Series: LAS ISLETILLAS | HERNANDO ligeramente erosionada y parcialmente acumulada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA1
+Capacidad de uso: IIIec
+Índice de Productividad: 61
+Descripción: Asociación de Serie
+Series: MONTE ALTO | MONTE ALTO en fase ligeramente erosionada por agua (surcos)
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA2
+Capacidad de uso: IIIc
+Índice de Productividad: 70
+Descripción: Asociación de Series
+Series: MONTE ALTO | LAS ISLETILLAS
+Porcentajes: 80 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA9
+Capacidad de uso: IVec
+Índice de Productividad: 50
+Descripción: Complejo de Series
+Series: MONTE ALTO en fase moderadamente erosionada por agua | MONTE ALTO en fase ligeramente erosionada | MONTE ALTO en fase severamente erosionada
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA12
+Capacidad de uso: IIIec
+Índice de Productividad: 62
+Descripción: Asociación de Series
+Series: MONTE ALTO en fase moderadamente inclinada y ligeramente erosionada 60% y MONTE ALTO en fase moderadamente erosionada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ota1
+Capacidad de uso: IIIes
+Índice de Productividad: 34
+Descripción: Consociación
+Series: OLAETA en fase ligeramente erosionada por viento
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ota14
+Capacidad de uso: IIIes
+Índice de Productividad: 55
+Descripción: Asociación de Series
+Series: OLAETA | OLAETA en fase ligeramente erosionada por viento | BAIGORRIA
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ota15
+Capacidad de uso: VIes
+Índice de Productividad: 38
+Descripción: Asociación de Series
+Series: OLAETA moderadamente erosionada por viento | OLAETA Severamente erosionada por viento | Suelos arenosos poco diferenciados
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Ota16
+Capacidad de uso: IVes
+Índice de Productividad: 43
+Descripción: Consociación
+Series: OLAETA en fase ligera a moderadamente erosionada por viento
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: L
+Capacidad de uso: VIII
+Índice de Productividad: 1
+Descripción: Lagunas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Lsp
+Capacidad de uso: VIII
+Índice de Productividad: 3
+Descripción: Lagunas semipermanentes
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: M
+Capacidad de uso: VIII
+Índice de Productividad: 8
+Descripción: Médanos
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: M+L
+Capacidad de uso: VIII
+Índice de Productividad: 5
+Descripción: Médanos + Lagunas
+Series: 
+Porcentajes: 

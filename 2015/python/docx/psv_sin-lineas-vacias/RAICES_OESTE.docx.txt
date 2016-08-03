@@ -1,0 +1,264 @@
+--------------------------------------------------------------------------------
+SERIE RAICES OESTE Símbolo: RO
+Pertenece a la familia "fina, montmorillonítica levemente alcalina, térmica" de los Peludertes mólicos.
+Suelos oscuros, moderadamente bien drenados, desarrollados en materiales lacustres (limos calcáreos).
+Con presencia de gilgai lineal visible en el campo y en las fotografías aéreas.
+El calcáreo en concreciones, aparece a los 60 cm de profundidad.
+Perfil tipo: ER1-114C
+Fecha: 11-VIII-1999
+Ubicación: Ea. de L. Lapuyade (foto IR 446-38) - dto. Raíces Oeste - Dpto. Villaguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-15 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso, escasos, finos y precisos; límite claro, suave.
+B1: 15-30 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso, escasos, finos y débiles; límite claro, suave.
+B21t: 30-60 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, finas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, ondulado.
+B22t: 60-80 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques cuneiformes, medios, fuertes; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas; concreciones calcáreas escasas; moteados de hierro-manganeso escasos, finos, débiles; límite gradual, ondulado.
+B31ca: 80-110 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques angulares irregulares y cuneiformes, gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes, gruesas; abundantes carbonatos libres en la masa; concreciones calcáreas, comunes, finas y gruesas; moteados de hierro-manganeso comunes, medios, sobresalientes; límite gradual, ondulado.
+B32ca: 110-130 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medios, moderados; ligeramente duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes, gruesas; carbonatos libres en la masa comunes a abundantes; concreciones calcáreas abundantes, finas; moteados de hierro-manganeso comunes, medios y sobresalientes; límite difuso, ondulado.
+Cca: 130 cm +; pardo (7,5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares, irregulares y cuneiformes gruesos, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") escasas, gruesas; comunes carbonatos libres en la masa; concreciones calcáreas abundantes, finas y medias; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso comunes, medios y sobresalientes, materiales de horizontes superiores rellenando grietas.
+Variabilidad de rasgos
+La variabilidad está determinada por el material arcilloso que da lugar a la formación del microrelieve gilgai y en menor grado a la erosión.
+El solum varía de 120-140 cm de profundidad. En el bajo del gilgai el epipedón varía de 20 a 30 cm,es mólico, de estructura débil y constituido por un horizonte A1 o Ap y B1.
+El B2, argílico, con estructura prismática, presenta abundantes caras de fricción.
+El calcáreo en concreciones finas aparece a partir de los 60 cm de profundidad, aumentado considerablemente en los horizontes subyacentes.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Raíces Oeste está ligeramente erosionada y tiene un moderado peligro de erosión en surcos y cárcavas, fundamentalmente en áreas bajo uso agrícola intensivo.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Raíces Oeste
+ER1-114C
+Nº de registro
+ 4.732
+ 4.733
+ 4.734
+ 4.735
+ 4.736
+ 4.737
+ 4.738
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 05-12
+ 20-26
+ 35-55
+ 65-75
+ 85-100
+ 111-125
+ 137-150
+Mat.organica (%)
+ 8.6
+ 6.6
+ 4.1
+ 2.8
+ 1.4
+ 1.1
+ 0.9
+N (%)
+ 0.37
+ 0.19
+ 0.11
+ 0.08
+ 0.04
+ 0.01
+ 0.01
+C/N
+ 13
+ 19
+ 20
+ 31
+ 21
+ 38
+ 56
+T
+ < 2 u
+ 32.01
+ 31.33
+ 48.05
+ 50.24
+ 45.06
+ 44.51
+ 44.32
+E
+ 2-20 u
+ 37.14
+ 37.81
+ 30.89
+ 30.01
+ 32.14
+ 31.20
+ 30.01
+X
+ 2-50 u
+ 66.76
+ 67.82
+ 51.36
+ 48.90
+ 54.12
+ 55.08
+ 55.02
+T
+ 50-100 u
+ 0.48
+ 0.17
+ 0.28
+ 0.12
+ 0.14
+ 0.12
+ 0.18
+U
+ 100-500 u
+ 0.74
+ 0.67
+ 0.30
+ 0.72
+ 0.66
+ 0.28
+ 0.46
+R
+ 500-1000 u
+ 0.01
+ 0.01
+ 0.01
+ 0.02
+ 0.020
+ 0.01
+ 0.02
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.41
+ 12.43
+ 12.69
+ 12.74
+PH H2O
+ 6.1
+ 6.3
+ 7.5
+ 8.3
+ 8.6
+ 8.6
+ 8.6
+PH ClK
+ 5.0
+ 5.0
+ 6.0
+ 6.8
+ 7.2
+ 7.2
+ 7.2
+C.E.(mmhos/cm)
+ 0.366
+ 0.300
+ 0.335
+ 0.654
+ 0.824
+ 1.001
+ 0.770
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+ 30.21
+ 29.66
+ 44.65
+ 51.22
+ 43.46
+ 39.95
+ 39.82
+d
+Ca++
+ 26.02
+ 35.40
+ 39.82
+ 44.65
+ ND
+ ND
+ ND
+C
+e
+A
+Mg++
+ 0.43
+ 0.81
+ 1.86
+ 2.20
+ ND
+ ND
+ ND
+T
+c
+I
+a
+K+
+ 0.92
+ 0.36
+ 0.94
+ 1.51
+ 1.44
+ 0.46
+ 0.48
+O
+m
+N
+b
+Na+
+ 0.57
+ 0.87
+ 1.55
+ 2.50
+ 3.31
+ 2.33
+ 2.41
+E
+i
+S
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.88
+ 2.93
+ 3.47
+ 4.88
+ 7.62
+ 5.83
+ 6.05
+Equivalente de humedad (%)
+ 33.23
+ 34.18
+ 50.93
+ 51.76
+ 42.50
+ 42.71
+ 42.79
+Fósforo asimilable (ppm)
+ 6.77
+ 4.82
+ 3.55
+ 3.52
+ 2.50
+ 2.50
+ 2.41

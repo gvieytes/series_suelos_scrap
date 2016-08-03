@@ -1,0 +1,240 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO PANTANOSO Símbolo: APant
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles verticos.
+Son suelos profundos, imperfectamente drenados, con concreciones calcáreas a partir de los 75-80 cm.
+Están desarrollados en materiales limos-loessoides gleizados, probablemente mezclados con materiales aluviales.
+Perfil tipo: ER1-136C
+Fecha: 13-XI-2002
+Ubicación: 1 Km al N de la ruta 20 y acceso a Aldea San Antonio. (foto IR 116-32). Dto. Pehuajó al Norte. Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti, R.H. Fuentes,
+A11: 00-14 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, y pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura granular y bloques subangulares, medios, débiles; ligeramente duro en seco; friable en húmedo; barnices ("humic skins") comunes a abundantes; moteados de hierro-manganeso, abundantes, medios y sobresalientes; límite claro, suave.
+A12: 14-27 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura granular y bloques subangulares, medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay-humic skins") escasos a comunes; moteados de hierro-manganeso, abundantes, medios y precisos; límite abrupto, suave.
+B21t: 27-55 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay-humic skins") escasos a comunes; concreciones ferromanganesíferas escasas a comunes, finas; moteados de hierro-manganeso comunes, finos, débiles; límite claro, suave.
+B22t: 55-78 cm; gris oscuro (10YR 4/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares medios moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes, medias; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; límite gradual, suave.
+B3ca: 78-110 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medio, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes a abundantes, gruesas; concreciones calcáreas comunes a abundantes de hasta 1 cm de diámetro; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; límite gradual, suave.
+C: 110 cm +; gris parduzco claro (2,5YR 6/2) en húmedo; arcillo-limoso; bloques subangulares y angulares irregulares finos, moderados; ligeramente duro en seco, firme en húmedo; barnices ("clay skins") escasos; concreciones ferromanganesíferas escasas a comunes, blandas; horizonte algo cementado y gleizado.
+Variabilidad de rasgos
+El solum varía de 110-130 cm de profundidad. El epipedón mólico tiene un espesor de 27-30 cm y está formado por un A11 y A12, de estructura granular a bloques subangulares y tiene26-27 % de arcilla.
+El horizonte B2 tiene un espesor que varía entre 45-50 cm, con un contenido de arcilla de entre 44.7-44.9 %; las caras de fricción están poco desarrolladas en el horizonte B22. El calcáreo se presenta a partir de los 78-80 cm en el B3.
+Fases
+No se describieron a nivel de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial muy lento Permeabilidad lenta. Capa freática a 100 cm. Grupo hidrológico D.
+Erosión
+La serie Arroyo Pantanoso no presenta erosión actual ni tiene peligro a la misma
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Pantanoso
+ER1-136C
+N° de registro
+ 11051
+ 11052
+ 11053
+ 11054
+ 11055
+ 11056
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ C
+Profundidad (cm)
+ 02-15
+ 18-30
+ 32-62
+ 85-95
+ 100-115
+ 130-140
+Mat.organica (%)
+ 3.01
+ 1.70
+ 0.76
+ 0.67
+ 0.07
+ 0.07
+C (%)
+ 1.75
+ 0.99
+ 0.44
+ 0.39
+ 0.04
+ 0.04
+N (%)
+ 0.161
+ 0.085
+ 0.068
+ 0.060
+ 0.031
+ 0.020
+C/N
+ 10.87
+ 11.65
+ 6.47
+ 6.50
+ 1.29
+ 2.00
+T <2
+ 27.41
+ 26.76
+ 44.70
+ 44.91
+ 45.73
+ 43.58
+E 2-20
+ 42.85
+ 42.98
+ 30.44
+ 30.74
+ 30.91
+ 29.91
+X 20-50
+ 61.75
+ 61.00
+ 49.26
+ 48.97
+ 47.24
+ 43.91
+T 50-100
+ 1.34
+ 1.08
+ 0.40
+ 0.32
+ 0.66
+ 0.79
+U 100-250
+ 9.23
+ 10.85
+ 5.51
+ 5.56
+ 6.20
+ 11.29
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.27
+ 0.31
+ 0.13
+ 0.24
+ 0.17
+ 0.43
+ 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.32
+ -
+Ph H2O
+ 6.0
+ 7.1
+ 7.4
+ 7.7
+ 8.1
+ 8.0
+Ph ClK
+ 5.1
+ 5.8
+ 5.8
+ 6.3
+ 6.6
+ 6.2
+Conductividad (mmhos/cm)
+ 0.38
+ 0.27
+ 0.28
+ 0.36
+ 0.50
+ 0.24
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 28.31
+ 25.47
+ 43.80
+ 43.63
+ 46.87.
+ 43.06
+D
+Ca++
+ 20.47
+ 19.64
+ 34.10
+ 33.81
+ 36.00
+ 32.74
+C
+E
+A
+Mg++
+ 3.88
+ 3.22
+ 7.74
+ 7.90
+ 6.18
+ 6.44
+T
+C
+I
+A
+K+
+ 0.80
+ 0.40
+ 0.48
+ 1.88
+ 2.02
+ 1.33
+O
+M
+N
+B
+Na+
+ 0.37
+ 0.67
+ 1.50
+ 2.82
+ 2.67
+ 2.55
+E
+I
+S
+O
+H+
+ 3.13
+ 1.50
+ -
+ -
+ -
+ -
+% Na/T
+ 0.01
+ 0.03
+ 0.03
+ 0.06
+ 0.06
+ 0.06
+Equiv. de humedad (%)
+ 29.34
+ 28.70
+ 46.79
+ 46.53
+ 44.73
+ 42.81
+P disponible (ppm)
+ 34.50
+ 6.70
+ 4.30
+ 3.70
+ 3.40
+ 2.90

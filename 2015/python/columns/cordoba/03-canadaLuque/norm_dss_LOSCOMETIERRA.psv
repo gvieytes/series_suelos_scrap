@@ -1,0 +1,39 @@
+dss_LOSCOMETIERRA.psv ->> ID..........................: 317
+dss_LOSCOMETIERRA.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_LOSCOMETIERRA.psv ->> SERIE.......................: LOS COMETIERRA (ComeT)
+dss_LOSCOMETIERRA.psv ->> UBICACION...................: 7 km al SSO del paraje homónimo, departamento Totoral
+dss_LOSCOMETIERRA.psv ->> PROVINCIA...................: CORDOBA
+dss_LOSCOMETIERRA.psv ->> LATITUD.....................: S305600
+dss_LOSCOMETIERRA.psv ->> LONGITUD....................: O635600
+dss_LOSCOMETIERRA.psv ->> ALTITUD.....................: 395
+dss_LOSCOMETIERRA.psv ->> PENDIENTE...................: FALTA!
+dss_LOSCOMETIERRA.psv ->> DRENAJE.....................: FALTA!
+dss_LOSCOMETIERRA.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LOSCOMETIERRA.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LOSCOMETIERRA.psv ->> TIPO DE SUELO...............: FRANCA GRUESA A ARENOSA MIXTA TÉRMICA
+dss_LOSCOMETIERRA.psv ->> COLOR ......................: PARDO OSCURO
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | ck
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-49 | 49a+
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,1 | 1,4 | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,8 | 0,8 | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->NITRÓGENO TOT.(%): - | - | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->ARCILLA 2 (%)....: 17,0 | 11,1 | 6,9
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->LIMO 2-50 (%)....: 33,1 | 24,8 | 28,7
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->AMF 50-100 (%)...: 9,0 | 8,3 | 17,2
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->AF 100-250 (%)...: 17,2 | 19,0 | 30,9
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->AM 250-500 (%)...: 11,1 | 13,5 | 10,9
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->AG 500-1000 (%)..: 8,4 | 14,7 | 4,6
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 3,4 | 8,5 | 1,4
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,9
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 20,7 | 13,4 | 10,5
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,6 | 7,9 | 8,3
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CI ME/100G-Ca++..: 12,5 | 10,6 | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CI ME/100G-Mg++..: 0,8 | 0,8 | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,4 | 0,3 | 0,5
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CI ME/100G-K+....: 3,0 | 1,9 | 2,1
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CI ME/100G-H+....: - | - | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16,6 | 13,6 | 
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->CIC ME/100G(T)...: 16,6 | 13,6 | 9,6
+dss_LOSCOMETIERRA.psv ->> HORIZONTE->SAT.B % (S/T)....: - | - | 

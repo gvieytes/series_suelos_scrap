@@ -1,0 +1,205 @@
+--------------------------------------------------------------------------------
+SERIE ESCRIÑA Símbolo: Esñ
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico, franco-arcillo-limoso a arcillo-limoso, con abundantes moteados de hierro-manganeso y escasas concreciones calcáreas a partir de los 85 cm.
+Suelos desarrollados en materiales loessoides retransportados.
+Perfil tipo: ER1-135C
+Fecha: 12-XI-2002
+Ubicación: 1,5 Km al este de Escriña. (foto IR121-8). Dto. Pehuajó al Norte, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-18 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic-skins") comunes; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+B21t: 18-60 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") escasas a comunes, finas; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 60-85 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles, que rompen en bloques angulares irregulares, medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, gruesas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B3: 85-115 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") escasas a comunes, medias; concreciones calcáreas escasas, finas; escasos carbonatos libres en la masa; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite gradual, suave.
+C: 115 cm +; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay-humic skins") comunes a abundantes; moteados de hierro-manganeso comunes, medios y sobresalientes.
+Variabilidad de rasgos
+El solum varía entre 115-120 cm. El epipedón, muy bien estructurado, consta de un horizonte A1 con un espesor de 18-20 cm y un contenido de materia orgánica de 4.98 %.
+El argílico, tiene un espesor que varía entre 60-70 cm, es de textura franco-arcillo-limosa a arcillo-limosa, muestra abundantes caras de fricción ("slickensides") no intersectadas. El calcáreo en escasa cantidad y en concreciones finas aparece a los 85 cm de profundidad y en igual manera el carbonato libre en la masa.
+Fases
+No se describieron a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Escriña está ligera a moderadamente erosionada, pero la susceptibilidad a la misma es moderada a severa, principalmente en forma laminar.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Escriña
+ER1-135C
+N° de registro
+ 11046
+ 11047
+ 11048
+ 11049
+ 11050
+Horizonte
+ A1
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 05-15
+ 25-50
+ 65-80
+ 90-105
+ 120-135
+Mat.organica (%)
+ 4.98
+ 2.77
+ 1.50
+ 1.19
+ 0.22
+C (%)
+ 2.90
+ 1.61
+ 0.87
+ 0.69
+ 0.13
+N (%)
+ 0.213
+ 0.108
+ 0.070
+ 0.041
+ 0.033
+C/N
+ 13.62
+ 14.91
+ 12.43
+ 16.83
+ 3.94
+T <2
+ 31.37
+ 38.69
+ 40.80
+ 42.12
+ 45.07
+E 2-20
+ 31.40
+ 3434
+ 32.89
+ 32.01
+ 33.41
+X 2-50
+ 63.24
+ 57.33
+ 55.15
+ 54.21
+ 51.53
+T 50-100
+ 1.63
+ 1.08
+ 1.22
+ 0.91
+ 0.85
+U 100-250
+ 3.70
+ 2.88
+ 2.81
+ 2.72
+ 2.20
+R 250-500
+ -
+ -
+ -
+ -
+ -
+R 500-1000
+ 0.06
+ 0.02
+ 0.02
+ 0.04
+ 0.35
+A 1000-2000
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 1.27
+ 0.17
+PH H2O
+ 5.8
+ 6.9
+ 7.9
+ 8.3
+ 7.9
+PH ClK
+ 5.0
+ 5.5
+ 6.5
+ 6.9
+ 6.3
+Conductividad eléctrica mmhos/cm
+ 0,20
+ 0,17
+ 0,20
+ 0,32
+ 0,23
+Capacidad de intercambio catiónico (m.e./100 g) = Valor T
+ 35,10
+ 41,32
+ 43,15
+ 45,07
+ 48,17
+D
+Ca++
+ 27,05
+ 31,84
+ 33,10
+ 35,02
+ 38,29
+C
+E
+A
+Mg++
+ 4,62
+ 5,20
+ 5,72
+ 6,30
+ 5,90
+T
+C
+I
+A
+K+
+ 0,64
+ 1,36
+ 1,05
+ 1,76
+ 1,71
+O
+M
+N
+B
+Na+
+ 0,25
+ 0,55
+ 1,62
+ 1,75
+ 1,94
+E
+I
+S
+O
+H+
+ 2,41
+ 2,11
+ 1,23
+ -
+ -
+% Na/T
+ 0.007
+ 0.013
+ 0.038
+ 0.039
+ 0.040
+Equivalente de humedad (%)
+ 29.53
+ 37.23
+ 42.73
+ 43.43
+ 43.99
+P disponible (ppm)
+ 7.20
+ 4.30
+ 3.80
+ 3.40
+ 3.00

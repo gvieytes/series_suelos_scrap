@@ -1,0 +1,225 @@
+--------------------------------------------------------------------------------
+SERIE TATUTÍ		 	 Símbolo: Tu
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiacuólicos.
+Son suelos oscuros, arcillosos, hidromórficos y con un buen epipedón mólico con síntomas de lixiviación. Hay algo de arena en todo el perfil que disminuye en profundidad.
+Presenta gilgai lineal bien desarrollado, generalmente algo "fino" en las medias lomas superiores y "grueso" en las partes bajas de las pendientes.
+La denominación "fino" y "grueso", tiene su origen, en como se observan en la fotografía aérea.
+En promedio, las crestas del microrrelieve gilgai tienen un ancho de 3 m y la distancia entre ellas oscila entre aproximadamente entre los 67 m.
+Son suelos con pasturas naturales buenas y monte muy abierto de ñandubay.
+A pesar de mantener peligro de anegamiento, son de permeabilidad muy lenta. La humedad se distribuye uniformemente en todo el perfil y hay concreciones ferromanganesíferas desde superficie. Las de CO3Ca, que son semiduras y blandas se encuentran a partir de los 70 - 90 cm; aunque en algunos casos están ya a los 55 cm de profundidad. Donde aparecen estas concreciones calcáreas, la presencia de raíces disminuye notablemente. El horizonte superficial oscila entre 15 y 30 cm y el espesor del horizonte B2 entre 30 y 60 cm.
+Perfil tipo: ER3 - 48C
+Ubicación: 22 Km al SE de San Jaime.
+Reconocedores: R.E. Kleinerman; L.O. López
+A1: 00-24 cm; gris oscuro (10 YR 4/1) en seco y negro (10 YR 2,5/1) en húmedo; franco arcillo limoso; estructura granular y de bloques subangulares medios y moderados; ligeramente duro en seco, friable en húmedo; plástico y ligeramente adhesivo en mojado; concreciones de hierro - manganeso escasas; barnices de materia orgánica escasos y finos; moteados prácticamente no se observan; límite claro suave.
+B21: 24-56 cm; negro (10 YR 2,5/1) en húmedo; franco arcillo limoso; estructura de prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares cuneiformes medios moderados; friables en húmedo; muy plástico y adhesivo en mojado; concreciones de hierro - manganeso abundantes de 2 mm aproximadamente de diámetro; slickensides abundantes finos e intersectados; moteados escasos finos y débiles; límite gradual suave.
+B22: 56-84 cm; negro (10 YR 2,5/1) en húmedo; franco arcillo limoso; estructura de prismas compuestos irregulares medios débiles que rompen en bloques angulares irregulares cuneiformes medios y moderados; friable en húmedo; muy plástico y adhesivo en mojado; concreciones de hierro - manganeso abundantes de 2 mm aproximadamente; slickensides abundantes, medios e intersectados; moteados escasos, débiles y finos; límite claro suave.
+B31ca: 84-95 cm; gris muy oscuro a oscuro (10 YR 3,5/1) en húmedo; franco arcillo limoso; prismas compuestos irregulares medios débiles que rompen en bloques angulares irregulares cuneiformes medios moderados; friables en húmedo; muy plástico y adhesivo en mojado; concreciones de calcio abundantes de aproximadamente 2 mm de diámetro; slickensides abundantes medios y poco intersectados; moteados comunes, precisos y finos; límite claro suave.
+B32ca: 95-114 cm; pardo grisáceo (10 YR 5/2) y pardo (7,5 YR 5/2) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares cuneiformes medios débiles que tienden a prismas compuestos irregulares medios y débiles; friable en húmedo; plástico y adhesivo en húmedo; concreciones de hierro - manganeso de 2 mm; slickensides abundantes, medios y no intersectados; moteados comunes, precisos y finos; límite gradual suave.
+Cca(g): 114 en más; pardo claro (7,5 YR 6/4) y gris parduzco claro (2,5 YR 6/2) en húmedo; arcillo limoso; estructura masiva con tendencia a bloques angulares irregulares cuneiformes; friable en húmedo; plástico y adhesivo en mojado; concreciones de calcio abundantes de 1 cm y concreciones de hierro - manganeso de 2 mm; slickensides escasos; moteados comunes, precisos y finos.
+Fases
+Serie Tatutí - Fase Mal Drenada		 	 			Símbolo: Tu d1
+Drenaje
+Pobremente drenado. Escurrimiento superficial medio. Permeabilidad lenta. Grupo hidrológico D.
+Erosión
+	
+La erosión hídrica actual de la serie es leve y la susceptibilidad a la misma, moderada.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Tatutí
+ER3 - 48C
+Horizonte
+ A1
+ B21
+ B22
+ B31ca
+ B32ca
+ Cca(g)
+Profundidad (cm)
+ 7-17
+ 33-50
+ 65-78
+ 84-95
+ 95-114
+ 140-160
+Mat.organica (%)
+ 4,79
+ 2,33
+ 1,51
+ 1,11
+ 0,34
+ 0,07
+C (%)
+ 2,79
+ 1,36
+ 0,88
+ 0,65
+ 0,20
+ 0,04
+N (%)
+ 0,253
+ 0,148
+ 0,072
+ 0,057
+ 0,042
+ ND
+C/N
+ 11
+ 9
+ 12
+ 11
+ 5
+ ND
+T
+ <2 u
+ 30,4
+ 32,9
+ 30,3
+ 33,3
+ 34,4
+ 44,0
+E
+ 2-20 u
+ 29,9
+ 30,4
+ 33,9
+ 20,8
+ 24,1
+ 35,0
+X
+ 20-50 u
+ 22,3
+ 20,7
+ 21,5
+ 33,3
+ 31,3
+ 17,0
+T
+ 50-100 u
+ 0,9
+ 0,9
+ 1,0
+ 1,0
+ 0,9
+ 0,5
+U
+ 100-250 u
+ 6,9
+ 7,0
+ 6,3
+ 5,6
+ 4,7
+ 1,8
+R
+ 250-500 u
+ 6,2
+ 7,4
+ 6,3
+ 5,4
+ 4,2
+ 1,4
+A
+ 500-1000 u
+ 0,4
+ 0,7
+ 0,7
+ 0,6
+ 0,4
+ 0,3
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 1,4
+ 9,0
+ 2,7
+% Saturación de Agua
+Equivalente de Humedad (%)
+ 37,6
+ 38,2
+ 37,1
+ 39,0
+ 37,0
+ 49,2
+pH en pasta
+ 5,4
+ 5,5
+ 6,0
+ 6,9
+ 7,4
+ 7,3
+PH H2O
+ 5,6
+ 5,6
+ 6,1
+ 7,3
+ 7,8
+ 7,6
+pH ClK
+ 5,3
+ 5,2
+ 5,7
+ 6,8
+ 6,9
+ 6,7
+Conductividad (mmhos/cm)
+Sales solubles grs (%)
+Resistencia de la pasta (Ohms/cm)
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 32,2
+ 33,6
+ 30,8
+ ND
+ ND
+ ND
+Mg++
+ 1,9
+ 2,5
+ 2,1
+ ND
+ ND
+ ND
+Na+
+ 0,3
+ 0,4
+ 0,5
+ 0,8
+ 0,9
+ 1,2
+K+
+Valor S (m.e./ 100 gr.)
+ 34,8
+ 36,9
+ 33,7
+ ND
+ ND
+ ND
+H de cambio (m.e. / 100 gr.)
+ 2,9
+ 3,9
+ 2,9
+ ND
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 38,2
+ 40,6
+ 36,1
+ 40,0
+ 35,7
+ 43,8
+% de saturación de T
+ 91
+ 91
+ 93
+ ND
+ ND
+ ND
+% de saturación de S + H
+% Na/T
+ 0,8
+ 1,0
+ 1,4
+ 2,0
+ 2,5
+ 2,7

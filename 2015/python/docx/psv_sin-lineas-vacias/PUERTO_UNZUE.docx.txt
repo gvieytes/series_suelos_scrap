@@ -1,0 +1,183 @@
+--------------------------------------------------------------------------------
+SERIE PUERTO UNZUE Símbolo: PUz
+Pertenece a la familia "arenosa, no ácida, térmica" de los Udifluventes óxicos.
+Suelos arenosos a franco arenosos, sobre materiales arcillo-arenosos con colores rojizos a pardo-rojizos, a 65-90 cm de profundidad, con presencia de algunos cantos rodados.
+Perfil tipo: ER1-122C
+Fecha: 10-IX-2002
+Ubicación: Ea. El Potrero. (foto IR 102-42). Dto. Costa Uruguay Norte, Dpto Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+I: 00-40 cm; pardo amarillento oscuro (10YR 4/6) en húmedo; arenoso; grano simple; suelto; límite abrupto, suave.
+II: 40-63 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arenoso; masivo; muy duro en seco; muy firme en húmedo; límite gradual, suave.
+III: 63-100 cm; pardo rojizo oscuro (2,5YR 4/6) en húmedo; franco-arenoso; masivo; muy duro en seco, muy firme en húmedo; moteados de hierro-manganeso abundantes, gruesos, sobresalientes; límite gradual, ondulado.
+IV: 100 cm +; rojo oscuro (2.5YR 3/6) en húmedo; franco-arenoso; masivo; muy duro en seco; muy firme en húmedo; moteados de hierro abundantes, gruesos y sobresalientes.
+Variabilidad de rasgos
+Los suelos de esta serie son muy arenosos, se componen fundamentalmente de capas con características similares, pero de colores más rojizos en profundidad.
+La capa I, cuya textura es arenosa, con escaso porcentaje de arcilla y un 80-90 % de arena fina y media y 0,48- 0,50 % de materia orgánica.
+La capa II es de transición y consiste en una mezcla de materiales franco-arenosos y arenosos de la capa superior. Su espesor varía de 20 a 30 cm., con algo más de arcilla y 68-70 % de arena fina.
+La capa III, constituida de materiales arcillo-arenosos, tiene un 17 % de arcilla y un 68-70 % de arena fina y media, en algunos casos presentan gravas o rodados. Su color es pardo-rojizo pasando a rojo en profundidad.
+Fases
+No se describieron a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado, Escurrimiento superficial rápido. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico B.
+Erosión
+Serie Puerto Unzué presenta ligera erosión.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Puerto Unzue
+ER1-122C
+N° de registro
+ 10314
+ 10315
+ 10316
+ 10317
+Horizonte
+ I
+ I1
+ III
+ IV
+Profundidad (cm)
+ 10-30
+ 45-60
+ 80-95
+ 105-120
+Mat.organica (%)
+ 0.48
+ 1.42
+ 0.65
+ 0.64
+C (%)
+ 0.28
+ 0.82
+ 0.38
+ 0.37
+N (%)
+ 0.017
+ 0.066
+ 0.035
+ 0.018
+C/N
+ 16.47
+ 12.42
+ 10.86
+ 20.56
+T <2
+ 1.90
+ 18.23
+ 16.98
+ 17.01
+E 2-20
+ 1.77
+ 4.15
+ 4.65
+ 4.70
+X 2-50
+ 2.08
+ 11..06
+ 11. 85
+ 11..20
+T 50-100
+ 0.27
+ 0.58
+ 0.21
+ 0.33
+U 100-250
+ 94..19
+ 68.81
+ 68 87
+ 68 43
+R 250-500
+ -
+ -
+ -
+ -
+A 500-1000
+ 1.47
+ 1.21
+ 1.89
+ 2.97
+ 1000-2000
+ 0.09
+ 0.11
+ 0.20
+ 0.06
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+PH H2O
+ 5.3
+ 5.4
+ 5.5
+ 5.7
+PH ClK
+ 4.3
+ 4.0
+ 4.0
+ 4.2
+Conductividad eléctrica (mmhos/cm)
+ 44.90
+ 52.50
+ 72.40
+ 45.90
+Capacidad de intercambio catiónico (cmol(c)kg-1) =
+ Valor T
+ 9.69
+ 14.01
+ 18.33
+ 16.89
+D
+Ca++
+ 0.86
+ 4.35
+ 6.96
+ 6.62
+C
+E
+A
+Mg++
+ 1.78
+ 3.14
+ 4.10
+ 2.67
+T
+C
+I
+A
+K+
+ 0.06
+ 0.32
+ 0.33
+ 0.19
+O
+M
+N
+B
+Na+
+ 0.27
+ 0.27
+ 0.36
+ 0.31
+E
+I
+S
+O
+H+
+ 6.71
+ 5.93
+ 6.59
+ 7.09
+% Na/T
+ 0.03
+ 0.02
+ 0.02
+ 0.02
+Equivalente de humedad (%)
+ 2.31
+ 16.06
+ 14.30
+ 14.58
+P disponible (ppm)
+ 19.30
+ 8.60
+ 8.70
+ 6.70

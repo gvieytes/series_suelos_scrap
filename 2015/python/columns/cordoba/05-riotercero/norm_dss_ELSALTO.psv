@@ -1,0 +1,39 @@
+dss_ELSALTO.psv ->> ID..........................: 506
+dss_ELSALTO.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_ELSALTO.psv ->> SERIE.......................: EL SALTO (Slto)
+dss_ELSALTO.psv ->> UBICACION...................: 4,5 km al SE de Corralito, departamento Tercero Arriba
+dss_ELSALTO.psv ->> PROVINCIA...................: CORDOBA
+dss_ELSALTO.psv ->> LATITUD.....................: S320400
+dss_ELSALTO.psv ->> LONGITUD....................: O640900
+dss_ELSALTO.psv ->> ALTITUD.....................: 448
+dss_ELSALTO.psv ->> PENDIENTE...................: FALTA!
+dss_ELSALTO.psv ->> DRENAJE.....................: FALTA!
+dss_ELSALTO.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ELSALTO.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ELSALTO.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA A FRANCA GRUESA, MIXTA, TÉRMICA
+dss_ELSALTO.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ELSALTO.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | ck
+dss_ELSALTO.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-55 | 55a+
+dss_ELSALTO.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.9 | - | 
+dss_ELSALTO.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.1 | - | 
+dss_ELSALTO.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.11 | - | 
+dss_ELSALTO.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.0 | - | 
+dss_ELSALTO.psv ->> HORIZONTE->ARCILLA 2 (%)....: 20.2 | 17.4 | 15.5
+dss_ELSALTO.psv ->> HORIZONTE->LIMO 2-50 (%)....: 59.3 | 61.2 | 59.8
+dss_ELSALTO.psv ->> HORIZONTE->AMF 50-100 (%)...: 18.3 | 21.1 | 23.4
+dss_ELSALTO.psv ->> HORIZONTE->AF 100-250 (%)...: 0.7 | 0.3 | 0.5
+dss_ELSALTO.psv ->> HORIZONTE->AM 250-500 (%)...: 0.2 | 0.1 | 0.2
+dss_ELSALTO.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.1 | 0.1 | 0.1
+dss_ELSALTO.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | 
+dss_ELSALTO.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 4.7
+dss_ELSALTO.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 21.1 | 19.6 | 18.7
+dss_ELSALTO.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_ELSALTO.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.7 | 7.2 | 8.0
+dss_ELSALTO.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 12.9 | 14.6 | 
+dss_ELSALTO.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.9 | 1.1 | 
+dss_ELSALTO.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 0.4 | 0.4
+dss_ELSALTO.psv ->> HORIZONTE->CI ME/100G-K +...: 1.5 | 1.2 | 0.9
+dss_ELSALTO.psv ->> HORIZONTE->CI ME/100G-H +...: 1.0 | 0.7 | 
+dss_ELSALTO.psv ->> HORIZONTE->SUM.B. ME/100G(S): 15.7 | 17.3 | 
+dss_ELSALTO.psv ->> HORIZONTE->CIC ME/100G(T)...: 16.7 | 18.0 | 17.1
+dss_ELSALTO.psv ->> HORIZONTE->SAT.B % (S/T)....: 94.0 | 96.1 | 100

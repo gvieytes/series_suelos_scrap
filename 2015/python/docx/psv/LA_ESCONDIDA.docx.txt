@@ -1,0 +1,198 @@
+
+--------------------------------------------------------------------------------
+SERIE LA ESCONDIDA Símbolo: LEs
+
+
+Pertenece a la familia "franca gruesa, silícea, ácida, térmica" de los Haplacuentes típicos.
+
+Se desarrolló sobre un material franco arenoso.	
+
+
+Perfil tipo: 5C INTA Castelar
+Fecha: II-1986
+Ubicación: 1 km al SE de El Empalme (Hoja IGM 3360-30-3) - Dpto. Islas del Ibicuy
+Reconocedores: L. A. Gómez; R. F. Ferrao
+
+
+I: 0-90 cm; pardo amarillento oscuro (10YR 3/4) en húmedo, pardo (10YR 5/3) en seco; franco; bloques subangulares, finos, débiles; friable; no plástico no adhesivo; límite inferior claro suave.
+
+II: 90-120 cm; pardo amarillento (10YR 5/6) en húmedo, pardo muy pálido (10YR 7/4) en seco; franco; masivo; friable; no plástico, no adhesivo; moderada reacción de carbonatos libres; escasas concreciones de carbonato de calcio; moteados comunes, sobresalientes y gruesos; límite inferior claro, suave.
+
+III: 120-220 cm; pardo pálido (10YR 6/3) en húmedo, pardo muy pálido (10YR 8/3) en seco; areno-franco; masivo; friable, no plástico, no adhesivo; moteados escasos, débiles y finos.
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Escondida
+
+5C INTA Castelar
+N° de registro
+ 30548
+ 30549
+ 30550
+Horizonte
+ I
+ II
+ III
+Profundidad (cm)
+ 5-85
+ 95-115
+ 125-200
+Mat. orgánica (%)
+ 2.47
+ 0.24
+ 0.16
+C (%)
+ 1.43
+ 0.14
+ 0.09
+N (%)
+ 0.156
+ -
+ -
+C/N
+ 9.2
+ -
+ -
+
+T <2 u
+
+ 17.3
+
+ 15.0
+
+ 5.7
+E 2-20 u
+ 13.2
+ 12.2
+ 5.8
+X 2-50 u
+ 36.3
+ 36.6
+ 26.8
+T 50-74 u
+ 31.9
+ 33.1
+ 42.2
+U 74-100 u
+ 12.7
+ 12.7
+ 23.6
+R 100-250 u
+ 1.8
+ 1.3
+ 1.7
+A 250-500 u
+ -
+ -
+ -
+ 500-1000 u
+ -
+ -
+ -
+Gravilla (> 2 Tosca Ca %
+ -
+ -
+ -
+CO3Ca (%) V
+ -
+ 1.3
+ -
+Equivalente de humedad (%)
+ 18.2
+ 13.7
+ 6.8
+Resiten. de la pasta (Ohms/cm)
+ 1956
+ 655
+ 372
+pH en pasta
+ 4.6
+ 6.9
+ 7.3
+pH en agua (1:2,5)
+ 5.1
+ 7.6
+ 7.9
+pH en 1 N KCl (1:2,5)
+ 4.1
+ 6.5
+ 7.0
+Conductividad (mmhos/cm)
+ -
+ 4.0
+ 6.5
+
+ Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 7.7
+ -
+ 4.3
+
+Mg++
+ 3.2
+ -
+ 2.8
+
+Na[+]
+ 1.0
+ 1.2
+ 0.7
+
+K[+]
+ 0.3
+ 0.2
+ 0.2
+% Na+ en cambio de v. T
+ 7
+ 13
+ 11
+% de agua de saturación
+ 43
+ 38
+ 37
+Valor S (m.e./100 g)
+ 12.2
+ -
+ 8.0
+H de cambio (m.e./100 g)
+ 8.8
+ -
+ 2.8
+Valor T (m.e./100) NH4++ o Na+
+ 14.1
+ 9.0
+ 6.1
+% de saturación de T
+ 86
+ -
+ 100
+% de saturación de S + H
+ 58
+ -
+ 74
+Fósforo asimilable (ppm)
+ 0.3
+ 2.7
+ 7.6
+Factor de humedad
+ 1.02
+ 1.02
+ 1.01
+

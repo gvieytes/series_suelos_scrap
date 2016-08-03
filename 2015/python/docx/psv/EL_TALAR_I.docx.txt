@@ -1,0 +1,318 @@
+
+--------------------------------------------------------------------------------
+SERIE EL TALAR I Símbolo: ETal I
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelos moderadamente bien drenados, con un epipedón muy oscuro, franco-arcillo-limoso y un horizonte argílico, arcillo-limoso, con caras de fricción ("slickensides").
+Tiene concreciones de calcáreo a partir de 80-90 cm en el horizonte B3ca.
+
+Suelos desarrollados en materiales "limos-loessoides" retransportados, franco-arcillo-limoso a arcillo-limoso.
+
+
+Perfil tipo: ER7-117C
+Fecha: 22-IV-97
+Ubicación: Estancia "El Talar" (foto IR 453-48) - Dpto. Paraná
+Reconocedores: L.O. López; O.A. Foti
+
+
+Ap: 00-14 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular, media, débil; duro en seco y friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+A12: 14-34 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares medios, débiles; duro en seco y friable en húmedo; barnices ("clay-humic skins") comunes y ("clay skins") escasos a comunes; concreciones ferromanganesíferas escasas a comunes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+B21t: 34-57 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y bloques subangulares medios, moderados; duro en seco y firme en húmedo; barnices ("clay skins") comunes y ("clay-humic skins") escasos; caras de fricción ("slickensides") comunes, gruesas y no intersectadas; concreciones ferromanganesíferas escasas y finas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B22t: 57-87 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en prismas finos, moderados; firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") abundantes, gruesas e intersectadas y escasas muy gruesas; concreciones ferromanganesíferas comunes; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual, suave.
+
+B3ca: 87-99 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles, que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") escasas a comunes, gruesas; concreciones calcáreas comunes, carbonatos libres en la masa comunes; moteados de hierro-manganeso, abundantes, medios y precisos; presencia de material de horizontes superiores en las grietas; límite difuso, suave.
+
+Cca: 99 cm+; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; masivo; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas e intersectadas; concreciones ferromanganesíferas comunes; concreciones calcáreas comunes; abundantes carbonatos libres en la masa; moteados de hierro-manganeso abundantes, medios y precisos; horizonte con pseudogley.
+
+
+Variabilidad de rasgos
+
+El solum tiene un espesor que varía entre 95-125 cm. El epipedón mólico oscila entre 20-35 cm, con una estructura granular y en bloques, en general está constituido por un A11 y A12 o un A1 y B1 y normalmente esta levemente erosionado.
+
+El horizonte argílico tiene un espesor de 50-60 cm y siempre está mejor expresado en el B22t con caras de fricción ("slickensides") muy desarrolladas, pero no intersectadas, que nacen en la base del B21t y se extienden hasta la base del B3ca.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.	
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial moderado, localmente algo lento. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Debido a la posición en el paisaje, el riesgo de erosión depende fundamentalmente del uso y manejo de las tierras, en las partes más altas de las pendientes.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Talar I
+
+ER7-117C
+
+
+
+
+
+
+Nº de registro
+ 1720
+ 1721
+ 1722
+ 1723
+ 1724
+ 1725
+Horizonte
+ Ap
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 02-12
+ 17-25
+ 38-50
+ 60-80
+ 89-98
+ 105-115
+Mat.organica (%)
+ 5.22
+ 4.23
+ 3.46
+ 1.90
+ 0.78
+ 0.49
+N (%)
+ 0.15
+ 0.17
+ 0.12
+ 0.07
+ 0.04
+ 0.02
+C/N
+ 20
+ 14
+ 16
+ 14
+ 12
+ 14
+
+T
+
+ <2 u
+
+ 31.76
+
+ 34.22
+
+ 43.32
+
+ 50.01
+
+ 49.15
+
+ 45.81
+E
+ 2-20 u
+ 37.62
+ 36.05
+ 32.07
+ 27.98
+ 27.16
+ 29.17
+X
+ 2-50 u
+ 66.39
+ 64.30
+ 55.21
+ 48.82
+ 49.57
+ 52.90
+T
+ 50-100 u
+ 0.56
+ 0.65
+ 0.49
+ 0.43
+ 0.68
+ 0.51
+U
+ 100-500 u
+ 1.28
+ 0.82
+ 0.97
+ 0.73
+ 0.59
+ 0.76
+R
+ 500-1000 u
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.02
+A
+ 1000-2000 u
+ 1.0
+ 1.1
+ 1.4
+ 1.4
+ 1.1
+ 1.3
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 7.28
+ 8.72
+pH H2O
+ 6.6
+ 6.5
+ 6.6
+ 7.7
+ 8.2
+ 8.3
+pH ClK
+ 6.2
+ 5.9
+ 5.8
+ 6.8
+ 7.1
+ 7.1
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+ 34.6
+
+
+ N.D.
+
+
+ 43.6
+
+
+ 45.1
+
+
+ 40.0
+
+
+ 38.3
+
+
+
+
+
+
+
+ d Ca ++
+ 25.1
+ 26.3
+ 29.5
+ N.D.
+ N.D.
+ N.D.
+C e
+
+
+
+
+
+
+Mg++
+ 2.4
+ 2.0
+ 4.8
+ N.D.
+ N.D.
+ N.D.
+t C
+
+
+
+
+
+
+i a K+
+ 1.1
+ 0.9
+ 0.9
+ 1.0
+ 0.9
+ 0.9
+o m
+
+
+
+
+
+
+n b Na+
+ 0.7
+ 0.6
+ 1.0
+ 1.4
+ 1.5
+ 1.6
+e i
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.7
+ -
+ 2.3
+ 3.1
+ 3.7
+ 4.2
+
+Equivalente de humedad (%)
+
+ 32.6
+
+ 34.8
+
+ 45.9
+
+ 52.3
+
+ 48.2
+
+ 43.4
+P asimilable (ppm)
+ 42.0
+ 8.4
+ 4.3
+ 3.6
+ 3.0
+ 1.7
+

@@ -1,0 +1,243 @@
+--------------------------------------------------------------------------------
+SERIE IBICUY Símbolo: Ib
+Pertenece a la familia "fina, mixta, térmica" de los Natracuoles típicos.
+Suelo aluvial sódico, moderadamente salino.
+Perfil Tipo: 322C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 6 km al E de la localidad de Ibicuy (Hoja IGM 3360-35-2) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+A1: 0-13 cm; pardo amarillo grisáceo (10YR 5/2) en seco y negro pardusco (10YR 3/2) en húmedo; franco arcillo arenoso; estructura en bloques subangulares finos débiles; ligeramente firme; ligeramente plástico, ligeramente adhesivo; moteados comunes, finos, precisos; raíces abundantes; límite inferior abrupto y suave.
+IIB21t: 13-40 cm; negro pardusco (10YR 3/1) en seco y negro (10YR 1,7/1) en húmedo; arcilloso; estructura en bloques angulares medios fuertes que rompen en bloques menores; duro; firme; plástico, adhesivo; microconcreciones calcáreas abundantes; barnices (clay skins) comunes; moteados comunes, finos, precisos; raíces comunes; límite inferior claro, suave.
+IIIB22t: 40-63 cm; pardo amarillo grisáceo (10YR 5/2) en seco y pardo amarillo grisáceo (10YR 4/2) en húmedo; arcilloso; estructura en bloques angulares medios moderados que rompen en bloques menores; duro; firme; plástico, adhesivo; microconcreciones calcáreas abundantes; concreciones ferromanganésicas escasas; barnices (clay skins) escasos; moteados comunes, finos, precisos de color pardo muy oscuro (7,5YR 2/3); raíces escasas; límite inferior abrupto, ondulado.
+IVC1: 63-79 cm; amarillo anaranjado opaco (10YR 6/4) en húmedo; areno franco; masivo; muy friable; no plástico, no adhesivo; moteados escasos, finos, precisos, concentrados en la parte superior del horizonte; raíces escasas, límite inferior, abrupto, ondulado.
+VC2: 79-125 cm; pardo rojizo opaco (5YR 5/3) en húmedo; franco arcillo arenoso; estructura en bloques subangulares medios débiles que rompen en bloques menores; duro; ligeramente firme; ligeramente plástico, ligeramente adhesivo; moteados abundantes, medios precisos de color pardo rojizo muy oscuro (5YR 2/3); límite inferior claro, suave.
+VIC3: 125-180 cm; pardo rojizo opaco (5YR 5/3) en húmedo; franco arenoso; masivo; friable; no plástico, no adhesivo; moteados escasos, finos, débiles.
+Variabilidad de rasgos
+El horizonte superior, de 13 cm de espesor es de color negro pardusco, bien provisto de materia orgánica, franco arcillo arenoso, de estructura en bloques subangulares finos débiles. Le siguen horizontes más arcillosos IIB21t y IIIB22t con barnices (clay skins) que se extienden hasta los 63 cm de profundidad. A continuación aparecen capas, la primera de textura areno-franca, la segunda franco arcillo arenosa y la tercera franco-arenosa. Estas dos últimas capas son de color pardo rojizo opaco (5YR 5/3) en húmedo. Las microconcreciones calcáreas se encuentran en las capas arcillosas, mientras que los moteados se observan en todo el perfil.
+El perfil es sódico a partir del horizonte subsuperficial o sea desde los 13 cm de profundidad, superando el 40 %, por lo que fue clasificado por alcalinidad sódica como A1 33.Las sales están concentradas en los horizontes arcillosos, entre 15 y 60 cm de profundidad, con una conductividad de 11 mmhos/cm, con predominio de sulfato de sodio.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Este suelo es de permeabilidad lenta y de drenaje imperfecto.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Ibicuy
+322C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ IIB21t
+ IIIB22t
+ IVC1
+ VC2
+ VIC3
+Profundidad (cm)
+ 5-10
+ 15-35
+ 45-60
+ 66-76
+ 90-120
+ 135-160
+Mat. orgánica (%)
+ 3.83
+ 1.81
+ 0.67
+ -
+ -
+ -
+C (%)
+ 2.22
+ 1.05
+ 0.39
+ -
+ -
+ -
+N (%)
+ 0.289
+ 0.114
+ 0.057
+ -
+ -
+ -
+C/N
+ 8
+ 9
+ 7
+ -
+ -
+ -
+T <2 u
+ 26.5
+ 57.8
+ 59.6
+ 11.2
+ 27.7
+ 11.3
+E 2-20 u
+ 21.9
+ 20.6
+ 35.7
+ -
+ 7.6
+ 4.3
+X 2-50 u
+ 27.8
+ 23.3
+ 37.0
+ 0.3
+ 19.6
+ 10.1
+T 50-74 u
+ 1.2
+ 0.3
+ 0.3
+ 0.1
+ 3.6
+ 2.2
+U 74-100 u
+ 1.4
+ 0.4
+ 0.2
+ 0.4
+ 3.6
+ 5.3
+R 100-250 u
+ 26.4
+ 11.0
+ 1.6
+ 56.1
+ 38.3
+ 60.1
+A 250-500 u
+ 15.1
+ 5.9
+ 1.0
+ 25.3
+ 7.1
+ 10.0
+ 500-1000 u
+ 1.6
+ 1.3
+ 0.1
+ 6.6
+ 0.1
+ 1.0
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0.2
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 25.2
+ 59.3
+ 61.8
+ 7.4
+ 32.1
+ 12.6
+Resistencia de la pasta (Ohms/cm)
+ 2351
+ 290
+ 256
+ 3043
+ 934
+ 18671
+pH en pasta
+ 5.2
+ 7.3
+ 7.5
+ 6.8
+ 7.3
+ 7.2
+pH en agua (1:2,5)
+ 6.5
+ 8.0
+ 8.8
+ 8.3
+ 8.6
+ 8.4
+pH en KCl (1:2,5)
+ 4.4
+ 6.1
+ 6.8
+ 6.4
+ 6.2
+ 6.0
+Conductividad (mmhos/cm)
+ -
+ 10.65
+ 11.75
+ -
+ 2.13
+ -
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ 4.4
+ 10.6
+ -
+ 1.00
+ 1.9
+ 1.55
+Mg++
+ 1.9
+ 8.1
+ -
+ 1.05
+ 6.9
+ 1.90
+Na[+]
+ 0.5
+ 10.3
+ 15.6
+ 0.50
+ 3.0
+ 0.80
+K[+]
+ 1.4
+ 2.5
+ 1.7
+ 0.10
+ 0.4
+ 0.25
+H[+]
+ 12.6
+ 5.5
+ -
+ 0.60
+ 1.6
+ 0.80
+Na+ % del valor T
+ 3
+ 32
+ 43
+ 19
+ 25
+ 19
+Suma de bases, m.e./100 gr (S)
+ 8.2
+ 31.5
+ -
+ 2.65
+ 12.2
+ 4.50
+C.I.C., m.e./100 gr (T)
+ 15.5
+ 32.3
+ 36.3
+ 2.70
+ 12.0
+ 4.30
+Saturación con bases, (%) (S/T)
+ 53
+ 98
+ -
+ 98
+ 100
+ 100

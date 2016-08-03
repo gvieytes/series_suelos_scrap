@@ -1,0 +1,205 @@
+--------------------------------------------------------------------------------
+SERIE GARAT 		 Símbolo: Ga
+Pertenece a la familia "arcillosa fina, montmorillonítica, no calcárea, térmica" de los Argiacuoles vérticos (gley-subhúmicos vertisólicos).
+Son suelos profundos, imperfecta a pobremente drenados, con concreciones ferromanganesíferas en todo el perfil, hasta 3 mm de diámetro.
+Tienen un epipedón profundo, oscuro, franco-arcillo-limoso y un horizonte argílico, arcillo-limoso. Muestran un microrrelieve gilgai irregular tenue a moderadamente desarrollado, con altibajos hasta 10 cm.
+Suelos desarrollados en materiales gleizados, loessoides, probablemente mezclados con materiales lacustres y con una textura arcillo-limosa.
+Perfil tipo: ER3 - 33C
+Fecha: 23-III-1972
+Ubicación: Ea. Santa Jerónima (foto IR195-44). 18 km al SE/E de Feliciano- Dpto. Feliciano.
+Reconocedores: R.E. Kleinerman; L.O. López
+A1: 00-12 cm; gris oscuro (10 YR 4/1) en húmedo; gris (10 YR 5,5/1) en seco; franco arcillo limoso; estructura en bloques angulares irregulares gruesos débiles; extremadamente duro en seco; friable en húmedo; plástico, ligeramente adhesivo; concreciones de hierro y manganeso escasas, finas; barnices ("humic skins") escasos; moteados comunes, precisos y finos; horizonte lixiviado; límite inferior claro suave.
+B21t: 12-50 cm; negro (10 YR 2,5/1) en húmedo; gris oscuro (10 YR 3,5/1) en seco; arcillo limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares medios moderados; firme en húmedo; muy plástico, adhesivo; escasas concreciones de hierro y manganeso finas; barnices ("humic skins") escasos; caras de fricción ("slickensides") comunes, poco intersectadas; límite inferior gradual ondulado.
+B22t: 50-70 cm; gris muy oscuro (10 YR 3/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares gruesos débiles, que rompen en bloques angulares irregulares y cuneiformes gruesos, moderados; firme en húmedo; muy plástico y adhesivo; escasas concreciones de hierro y manganeso; caras de fricción ("slickensides") comunes, finas, intersectadas; moteados comunes, precisos, finos; límite inferior gradual ondulado.
+B3: 70-102 cm; pardo grisáceo oscuro (10 YR 4/2) en húmedo; arcillo limoso; estructura en bloques angulares irregulares y cuneiformes con tendencia a estructura prismática, gruesos, débiles; firme en húmedo; muy plástico y adhesivo; escasas concreciones de hierro y manganeso medias; caras de fricción ("slickensides") comunes, finas, intersectadas; moteados comunes, precisos, finos; límite inferior gradual ondulado.
+C: 102 cm + (130); pardo (7,5 YR 5/4) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares y cuneiformes gruesos, débiles, con tendencia a estructura masiva; friable en húmedo; muy plástico, adhesivo; concreciones de hierro y manganeso escasas, medias; caras de fricción ("slickensides") escasas, no intersectadas; moteados comunes, precisos, finos.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción del material arcilloso, que da lugar a la formación de microrrelieve gilgai irregular.
+Generalmente éste es muy tenue y poco visible en el terreno, aunque en algunos lugares con altibajos de hasta 10-12 cm puede observarse mejor, particularmente en aquellos que nunca fueron arados. Salvo los límites ondulados que siguen los altibajos, no se notan mayores diferencias entre el perfil de la cresta y el del bajo del gilgai.
+El horizonte superficial es franco limoso a franco arcillo limoso, ácido, lixiviado o muy lixiviado, con espesores que oscilan entre 12-20 cm, existiendo raramente perfiles con epipedones más profundos. La estructura del horizonte se expresa en bloques y es extremadamente duro en seco.
+El horizonte B2 argílico generalmente tiene una estructura prismática, pero los prismas suelen ser muy débiles. Posee 44-53% de arcilla y es el horizonte con más características vérticas, las cuales incluyen la presencia de caras de fricción poco intersectadas y grietas de hasta 2-3 cm de ancho cuando está seco.
+Las concreciones de hierro-manganeso están en todo el perfil, aunque son más abundantes en el subsuelo; esta es una característica típica de la serie.
+Fases
+Muy suavemente ondulada (no utilizada a escala de reconocimiento)
+Series similares y sus diferencias
+Se parece a la serie Los Conquistadores (más hidromórfico, decalcificado hasta mayor profundidad y con más materia orgánica en superficie) y a la serie Lucas Norte (menos arcillosa y más hidromórfica); también se parece a la serie Feliciano (menos arcilloso, con calcáreo a 50-65 cm y con algo de Na+ intercambiable en el subsuelo) del departamento homónimo.
+Drenaje
+Imperfectamente drenado; encharcamiento con 30-50% de la superficie cubierta con agua después cada lluvia importante; escurrimiento superficial muy lento. Permeabilidad lenta. Napa freática moderadamente profunda. Grupo hidrológico C.
+Erosión
+La serie Garat no está erosionada y no existe ningún peligro a la misma.
+	
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Garat
+Horizonte
+ A1
+ B21t
+ B22T
+ B3
+ C
+Profundidad (cm)
+ 0-10
+ 20-40
+ 50-70
+ 80-100
+ 110-120
+Mat.organica (%)
+ 4,52
+ 1,87
+ 1,30
+ 0,63
+ 0,32
+C (%)
+ 2,63
+ 1,09
+ 0,76
+ 0,37
+ 0,19
+N (%)
+ 0,234
+ 0,110
+ 0,073
+ 0,052
+ 0,030
+C/N
+ 11
+ 10
+ 10
+ 7
+ 6
+T
+ < 2 u
+ 35,1
+ 44,1
+ 52,4
+ 46,7
+ 37,6
+E
+ 2- 20 u
+ -
+ -
+ -
+ -
+ -
+X
+ 2- 50 u
+ 63,7
+ 54,6
+ 46,7
+ 52,3
+ 61,2
+T
+ 50-100 u
+ 0,3
+ 0,3
+ 0,3
+ 0,3
+ 0,4
+U
+ 100-250 u
+ 0,5
+ 0,6
+ 0,4
+ 0,6
+ 0,5
+R
+ 250-500 u
+ 0,4
+ 0,4
+ 0,2
+ 0,1
+ 0,3
+A
+ 500-1000 u
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 1000-2000 u
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+pH en pasta
+ 5,1
+ 5,9
+ 6,1
+ 6,5
+ 6,6
+PH H2O
+ 5,4
+ 6,1
+ 6,5
+ 7,0
+ 7,2
+Cationes, de
+Cambio
+(m.e./100g)
+Ca++
+ 20,1
+ 30,1
+ 31,5
+ 31,8
+ 28,1
+Mg++
+ 6,1
+ 3,4
+ 5,1
+ 5,6
+ 4,3
+Na+
+ 0,4
+ 0,6
+ 0,7
+ 0,9
+ 0,8
+K+
+ 0,8
+ 1,0
+ 1,0
+ 1,1
+ 1,1
+Mn + +
+Valor S (m.e./100 gr)
+ 27,4
+ 35,1
+ 38,3
+ 39,4
+ 34,3
+H de cambio (m.e./100 gr)
+ 7,2
+ 6,3
+ 3,2
+ 2,1
+ 1,5
+Valor T (m.e./100) NH4 Na
+ 34,0
+ 39,3
+ 40,9
+ 40,6
+ 34,5
+% de saturación de T
+ 81
+ 89
+ 94
+ 97
+ 99
+% Na/T
+ 1,2
+ 1,5
+ 1,7
+ 2,2
+ 2,3
+Equiv. de humedad (%)
+ 42,8
+ 53,4
+ 57,5
+ 59,8
+ 53,2

@@ -1,0 +1,201 @@
+--------------------------------------------------------------------------------
+SERIE SAN NICASIO		 	 Símbolo: SNic
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Ocracualfes típicos.
+Son suelos muy densos y compactados, con horizontes superficiales muy lixiviados, de colores claros, con espesores de 12 a 30 cm. Imperfectamente drenados con concreciones ferromanganesíferas en todo el perfil debidas a la permanencia de charcos durante prolongados períodos. En épocas secas las grietas se manifiestan desde superficie hasta los 80 a 100 cm de profundidad.
+Durante las épocas normales son suelos de consistencia dura y comúnmente secos en los primeros centímetros. Hay perfiles que recién manifiestan las características de humedad a partir de los 20 cm aproximadamente.
+Si bien la vegetación en algunas ocasiones llega a cubrir totalmente la superficie, las pasturas naturales son de calidad regular, y el monte de ñandubay y algarrobo es abierto y ralo.
+Los horizontes de acumulación arcillosa (B2) tienen espesores de 40 a 60 cm y el calcio aparece comúnmente entre 70 y 80 cm; aunque se han encontrado perfiles con concreciones calcáreas a partir de 45 cm, junto con cantos rodados.
+Perfil tipo: ER4 - 23C
+Ubicación: 2.5 Km al NE de San Jaime.
+Reconocedores: J.M. Pérez; G.W. van Barneveld.
+A2: 00-18 cm; gris muy oscuro a pardo grisáceo oscuro (10 YR 3,5/1,5) en húmedo y gris a gris parduzco claro (10 YR 6/1,5) en seco; franco limoso; estructura de bloques angulares irregulares y subangulares medios débiles con tendencia masiva; extremadamente duro en seco; firme en húmedo; ligeramente plástico y adhesivo en mojado; concreciones de hierro - manganeso abundantes; pero menores de 2 mm de diámetro; sin barnices; con moteados comunes; precisos y sobresalientes y finos; límite claro gradual y suave.
+B21t: 18-50 cm; negro (10 YR 2,5/1) en húmedo; franco arcillo limoso; prismas compuestos irregulares medios y moderados que rompen en prismas compuestos irregulares y bloques angulares irregulares cuneiformes medios moderados; extremadamente duro en seco; extremadamente firme en húmedo; muy plástico en mojado y adhesivo; abundantes concreciones ferromanganesíferas menores de 3 mm; barnices de complejos húmicos - arcillosos abundantes; slickensides escasos, no intersectados; moteados comunes, precisos y finos; límite gradual suave.
+B22t: 50-69 cm; gris muy oscuro (10 YR 3/1) en húmedo; arcillo limoso; estructura de prismas compuestos irregulares medios y moderados que rompen en bloques angulares irregulares cuneiformes medios moderados; firme en húmedo; plástico y adhesivo en mojado; abundantes concreciones de hierro - manganeso menores de 3 mm; escasos barnices de complejos húmicos - arcillosos; slickensides escasos; moteados escasos; precisos y finos; límite gradual suave.
+B3ca: 69-86 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares cuneiformes medios moderados; firme en húmedo; plástico y adhesivo en mojado; abundantes concreciones de hierro - manganeso menores de 3 mm; caras de fricción ("slickensides") escasas, finas, no intersectadas; moteados escasos; precisos y finos; límite gradual suave.
+Cca: 86-133 cm; pardo (7,5 YR 5/41) en húmedo; franco arcillo limoso; bloques angulares irregulares cuneiformes y bloques cuneiformes inherentes al material; friable en húmedo; plástico y adhesivo; concreciones de hierro - manganeso abundantes menores de 3 mm y concreciones de carbonato cálcico abundantes menores de 5 mm; barnices inherentes al material; escasos slickensides poco intersectados; moteados escasos a comunes, precisos y finos.
+Fases
+No se han descripto a escala de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial lento. Permeabilidad lenta. Grupo hidrológico D.
+Erosión
+	
+La serie San Nicasio actualmente no presenta erosión hídrica y la susceptibilidad a la misma es leve.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie San Nicasio
+ER4 - 23C
+Horizonte
+ A2
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 5-17
+ 35-45
+ 54-66
+ 73-85
+ 100-120
+Mat.organica (%)
+ 3,44
+ 1,72
+ 1,03
+ 0,34
+ 0,17
+C (%)
+ 2,0
+ 1,0
+ 0,6
+ 0,2
+ 0,1
+N (%)
+ 0,1
+ 0,1
+ 0,06
+ 0,03
+ ND
+C/N
+ 11
+ 10
+ 9
+ 8
+ ND
+T
+ <2 u
+ 20,4
+ 34,3
+ 42,8
+ 38,9
+ 36,0
+E
+ 2-20 u
+ 34,1
+ 35,8
+ 19,6
+ 34,4
+ 34,5
+X
+ 2-50 u
+ 42,3
+ 27,7
+ 35,5
+ 25,3
+ 27,9
+T
+ 50-100 u
+ 0,6
+ 0,3
+ 0,5
+ 0,3
+ 0,3
+U
+ 100-250 u
+ 1,8
+ 1,2
+ 1,1
+ 0,7
+ 0,8
+R
+ 250-500 u
+ 0,8
+ 0,7
+ 0,5
+ 0,4
+ 0,5
+A
+ 500-1000 u
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,2
+ 2,6
+ 3,6
+% Saturación de Agua
+Equivalente de Humedad (%)
+ 27,8
+ 40,2
+ 41,3
+ 41,9
+ 38,6
+pH en pasta
+ 5,4
+ 6,5
+ 7,2
+ 7,5
+ 7,5
+PH H2O
+ 5,5
+ 6,8
+ 7,5
+ 7,9
+ 7,9
+pH ClK
+ 5,0
+ 6,0
+ 6,4
+ 6,8
+ 6,8
+Conductividad (mmhos/cm)
+Sales solubles grs (%)
+Resistencia de la pasta (Ohms/cm)
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 13,5
+ 28,4
+ ND
+ ND
+ ND
+Mg++
+ 2,3
+ 5,8
+ ND
+ ND
+ ND
+Na+
+ 0,6
+ 1,9
+ 2,2
+ 2,2
+ 2,1
+K+
+ 0,3
+ 0,4
+ 0,5
+ 0,5
+ 0,5
+Valor S (m.e./ 100 gr.)
+ 16,7
+ 36,5
+ ND
+ ND
+ ND
+H de cambio (m.e. / 100 gr.)
+ 3,8
+ 1,9
+ ND
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 22,6
+ 39,3
+ 40,9
+ 34,5
+ 30,3
+% de saturación de T
+ 74
+ 93
+ ND
+ ND
+ ND
+% de saturación de S + H
+% Na/T
+ 2,65
+ 4,83
+ 5,38
+ 6,38
+ 6,93

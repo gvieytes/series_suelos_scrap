@@ -1,0 +1,284 @@
+--------------------------------------------------------------------------------
+SERIE CAMPO NUEVO Símbolo: CNv
+Pertenece a la familia "fina, montmorillonítica, neutra, térmica" de los Cromudertes argiudólicos (Vertisol de color claro, epipedón mólico, y B22 textural, denso).
+Son suelos profundos.
+Con arena en todo el perfil, inherente al material originario y con cantos rodados desde superficie.
+Muestra un gilgai lineal muy bien desarrollado y fino en la fotografía aérea; se observa el movimiento en masa dentro del perfil ("churning") especialmente en el B22t.
+Posee color claro en los primeros 20 cm, con mucha arena gruesa y cantos rodados y. chorreaduras rellenas de material superior, hasta el metro de profundidad
+Perfil tipo: ER7-144C
+Fecha: 12-VI-2002.
+Ubicación: Establecimiento Campo Nuevo" (foto IR 138-8) - Dpto. Colón
+Reconocedores: H.A.Tasi; L.O. López.
+A1: 0-19 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, débiles; friable en húmedo; barnices "clay skins", escasos; "clay humic skins" abundantes. Abundante arena gruesa y algunos cantos rodados. Moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B1: 19-29 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares medios, friable en húmedo; plastico, adhesivo; barnices "clay skins" abundantes; "clay humic skins" caras de fricción ("slickensides") escasas, finos, poco intersectadas; horizonte con 5% de cantos rodados; límite claro, suave.
+B21t: 29-45 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques subangulares y bloques angulares irregulares y cuneiformes medios, débiles; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, finas e intersectadas; límite gradual, ondulado.
+B22t: 45-75- cm; negro a pardo muy oscuro (10YR 2/1.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques subangulares y bloques angulares medios, moderados; firme en húmedo; muy plástico adhesivo, caras de fricción ("slickensides") abundantes, gruesas no intersectadas; concreciones de hierro-manganeso escasas; horizonte con presencia de cantos rodados en un 5%, ascenso de material por grietas; límite claro, ondulado.
+B31ca: 	75-100 cm; pardo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, medios, que rompen en bloques subangulares y bloques cuneiformes medios, moderados, firme en húmedo; muy plástico y muy adhesivo; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; concreciones calcáreas de hasta 5 mm; abundantes; concreciones de hierro-manganeso abundantes, precisas y medias; moteados de hierro-manganeso comunes, precisos y medios; ascenso de material por grietas; límite claro, ondulado.
+B32ca: 100-125 cm; pardo a abigarrado (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares, y cuneiformes medios, débiles; friable húmedo; plástico muy adhesivo, caras de fricción ("slickensides") abundantes, gruesos no intersectados; moteados de hierro-manganeso abundantes, precisos y finos; chorreadura de materia orgánica por grietas; presencia de cantos rodados en un 50%; límite gradual, suave.
+Cca: + 125 cm; pardo a abigarrado (7.5 YR 4/2) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; abundante cantidad de carbonato de calcio; concreciones de calcio muy abundantes; concreciones y moteados de hierro-manganeso abundantes, precisas y medias; presencia de arena fina; pseudo-gley.
+Variabilidad de rasgos
+El sólum varía entre 105-125 cm de espesor. El epipedón está compuesto por un horizonte A1+B1, generalmente profundo (+ de 30 cm). Es de color claro y su textura franca a franca-limosa.
+El horizonte argílico de estructura prismática. Las características vérticas están mejor expresadas en el B22t.donde aumenta el porcentaje de arcilla y se hace notable la presencia del movimiento en masa ("churning").
+Los carbonatos se presentan en concreciones duras a partir a partir de los 75 cm.y en la masa un poco más profundo (90-100 cm).
+Fases
+No se han descripto a escala de reconocimiento.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad moderada. Napa freática poco profunda. Grupo hidrológico C.
+Erosión
+La Serie puede estar erosionada por sectores en forma de surcos y pequeñas cárcavas que por la baja estabilidad superficial, lo hacen en forma retrogradante, aún en campo natural.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Campo Nuevo
+ER7-144C
+N° de registro
+ 9126
+ 9127
+ 9128
+ 9129
+ 9130
+ 9131
+ 9132
+Horizonte
+ A1
+ B1
+ B21
+ B22
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm
+ 0-19
+ 19-29
+ 30-40
+ 50-70
+ 80-95
+ 100-125
+ 125+
+Mat.organica (%)
+ 3.76
+ 2.31
+ 1.90
+ 1.17
+ 0.81
+ 0.14
+ 0.15
+N (%)
+ 0.185
+ 0.134
+ 0.089
+ 0.047
+ 0.021
+ 0.016
+ 0.09
+C/N
+ 11.78
+ 10.00
+ 12.36
+ 14.47
+ 22.38
+ 5.00
+ 0.01
+T <2
+ 25.52
+ 26.26
+ 27.99
+ 28.01
+ 30.24
+ 28.97
+ 29.75
+E 2-20
+ 13.02
+ 12.52
+ 14.76
+ 14.61
+ 18.04
+ 16.41
+ 16.99
+X 2-50
+ 27.84
+ 22.41
+ 21.24
+ 25.17
+ 36.21
+ 35.22
+ 33.70
+T 50-100
+ 0.59
+ 0.45
+ 0.32
+ 0.45
+ 0.32
+ 0.32
+ 0.25
+U 100-500
+ 41.80
+ 45.96
+ 45.33
+ 42.24
+ 30.49
+ 33.10
+ 32.55
+R 500-1000
+ 3.53
+ 3.89
+ 4.16
+ 3.78
+ 2.31
+ 1.94
+ 3.12
+A 1000-2000
+ 0.72
+ 1.03
+ 0.96
+ 0.35
+ 0.43
+ 0.45
+ 0.63
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 10.53
+ 15.02
+ 10.92
+pH H2O
+ 6.5
+ 6.5
+ 6.6
+ 6.8
+ 7.3
+ 8.0
+ 8.1
+pH ClK
+ 5.5
+ 5.7
+ 5.4
+ 5.8
+ 6.9
+ 7.1
+ 7.2
+Conductividad eléctrica mmhos/cm
+ 0.962
+ 0.385
+ 0.423
+ 0.365
+ 0.693
+ 0.724
+ 0.631
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 24.54
+ 24.75
+ 25.92
+ 26.66
+ 28.94
+ 27.91
+ 27.87
+D
+Ca++
+ 17.76
+ 17.80
+ 19.75
+ 22.75
+ ND
+ ND
+ ND
+C
+E
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+a
+Mg++
+ 2.84
+ 1.29
+ 1.32
+ 1.20
+ ND
+ ND
+ ND
+t
+C
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+i
+A
+K+
+ 1.13
+ 1.18
+ 1.12
+ 1.20
+ 0.75
+ 0.93
+ 1.15
+o
+m
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+n
+B
+Na+
+ 0.52
+ 0.55
+ 0.36
+ 0.75
+ 1.07
+ 1.30
+ 1.25
+e
+I
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+s
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 2.12
+ 2.22
+ 1.39
+ 2.81
+ 3.70
+ 4.66
+ 4.48
+Equivalente de humedad (%)
+ 27.37
+ 24.42
+ 25.14
+ 25.79
+ 28.26
+ 26.34
+ 27.18
+Fósforo asimilable ppm
+ 3.8
+ 3.7
+ 3.2
+ 2.9
+ 2.2
+ 2.0
+ 2.0

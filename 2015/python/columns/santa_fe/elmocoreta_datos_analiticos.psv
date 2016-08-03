@@ -1,0 +1,30 @@
+HORIZONTE->NOMBRE(S)........# : ap | ab | 2bt1 | 2btg2 | 2btg3 | 2bcg
+HORIZONTE->Profundidad muestra# cm: 0-13 | 13-22 | 22-40 | 40-62 | 62-95 | 95 +
+HORIZONTE->Mat. orgánica# %: 4.02 | 1.33 | 0.6 | 0.47 | 0.22 | 0.22
+HORIZONTE->C orgánico# %: 2.33 | 0.77 | 0.35 | 0.27 | 0.13 | 0.13
+HORIZONTE->N total# %: 0.198 | 0.079 | 0.048 | 0.031 | 0.029 | 0.031
+HORIZONTE->Relación C/N# ---: 12 | 10 | 7 | 9 | 4 | 4
+HORIZONTE->Arcilla < 2µ# %: 16.3 | 16.5 | 28.2 | 28.8 | ---- | ----
+HORIZONTE->Limo 2-50µ# %: 44.7 | 43.2 | 36.9 | 38.3 | ---- | ----
+HORIZONTE->TOTAL# %: 100 | 100 | 100 | 100 | ---- | ----
+HORIZONTE->Limo 2-20µ# %: 21.1 | 17.6 | 17.3 | 18.4 | ---- | ----
+HORIZONTE->Muy fina 50-100µ# %: 16.7 | 16.9 | 14.5 | 13.7 | ---- | ----
+HORIZONTE->Fina 100-250µ# %: 16.4 | 17.2 | 15.3 | 14.3 | ---- | ----
+HORIZONTE->Media 250-500µ# %: 5.4 | 5.6 | 4.7 | 4.5 | ---- | ----
+HORIZONTE->Gruesa 500-1000µ# %: 0.6 | 0.5 | 0.4 | 0.5 | ---- | ----
+HORIZONTE->Muy gruesa 1-2mm# %: ---- | 0.07 | 0.02 | ---- | ---- | ----
+HORIZONTE->Calcáreo, CaCO3# %: - | - | - | - | - | 
+HORIZONTE->Equiv. humedad# %: - | - | - | - | - | 
+HORIZONTE->Resist. pasta# ohms: 547 | 753 | 438 | 474 | 438 | 450
+HORIZONTE->pH pasta (1:1)# ---: 7.7 | 8 | 8.2 | 8.1 | 8 | 7.9
+HORIZONTE->pH agua (1:2,5)# ---: 7.7 | 8 | 8.3 | 8.4 | 8.3 | 8.2
+HORIZONTE->pH 1N ClK (1:2,5)# ---: 7.0 | 6.9 | 7.2 | 7.3 | 7.0 | 7.0
+HORIZONTE->Ca++ intercambio# me/100g: 11.03 | 5.84 | 7.79 | 6.49 | 6.92 | 8.65
+HORIZONTE->Mg++ intercambio# me/100g: 1.28 | 1.54 | 0.83 | 2.13 | 2.92 | 2.01
+HORIZONTE->Na+ intercambio# me/100g: 2.61 | 1.45 | 3.19 | 3.19 | 4.06 | 4.35
+HORIZONTE->K+ intercambio# me/100g: 0.30 | 0.15 | 0.30 | 0.30 | 0.42 | 0.46
+HORIZONTE->H+ intercambio# me/100g: - | - | - | - | - | 
+HORIZONTE->(Na+/T)# %: 15.86 | 11.15 | 22.66 | 22.31 | 26.40 | 22.32
+HORIZONTE->C.I.C., (T)# me/100g: 16.46 | 13 | 14.08 | 14.30 | 15.38 | 19.49
+HORIZONTE->Suma bases (S)# me/100g: 16.32 | 10.45 | 12.84 | 12.48 | 15.05 | 16.20
+HORIZONTE->Sat. bases, (S/T)# %: 99 | 80 | 91 | 87 | 98 | 83

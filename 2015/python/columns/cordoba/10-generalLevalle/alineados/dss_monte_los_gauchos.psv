@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........:  a     |  ac     |  c
+HORIZONTE->Profundidad de la muestra (cm):  0-25  |  25-53  |  53a+
+HORIZONTE->Materia Orgánica (%):  1,6   |  ---    |  ---
+HORIZONTE->Carbono Orgánico (%):  0,9   |  ---    |  ---
+HORIZONTE->Nitrógeno total (%):  0,06  |  ---    |  ---
+HORIZONTE->Relación C/N:  15    |  ---    |  ---
+HORIZONTE->Arcilla, <2 μ (%):  16,2  |  15,6   |  8,6
+HORIZONTE->Limo, 2-50 μ (%):  37,3  |  34,5   |  35,8
+HORIZONTE->Arena muy fina, 50-100 μ (%):  42,9  |  46,8   |  49,6
+HORIZONTE->Arena fina, 100-250 μ (%):  3,3   |  1,6    |  3,6
+HORIZONTE->Arena media, 250-500 μ (%):  0,1   |  0,2    |  0,2
+HORIZONTE->Arena gruesa, 500-1000 μ (%):  0     |  0      |  0
+HORIZONTE->Arena muy gruesa, 1-2 mm (%):  0     |  0      |  0
+HORIZONTE->Carbonatos (% CaCO3):  0     |  0      |  0
+HORIZONTE->Equivalente de humedad (%):  16,2  |  15     |  11,2
+HORIZONTE->pH en pasta:  5,3   |  6,1    |  6,7
+HORIZONTE->pH en agua (1:2,5):  5,6   |  6,1    |  7
+HORIZONTE->Mg++:  0,8   |  0,7    |  0,7
+HORIZONTE->Na+:  0,5   |  0,3    |  0,4
+HORIZONTE->K+:  2,1   |  1,6    |  1,1
+HORIZONTE->H+:  1,3   |  1      |  0,4
+HORIZONTE->Suma de bases, S (meq/100g):  11,5  |  11,6   |  10,9
+HORIZONTE->Capacidad de intercambio catiónico, T (meq/100g):  12,8  |  12,6   |  11,3
+HORIZONTE->Porcentaje de sodio de intercambio (P.S.I.):  3,9   |  2,4    |  3,5
+HORIZONTE->Saturación con bases, S/T (%):  89,8  |  92,1   |  96,5

@@ -1,0 +1,223 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO BELLACO Símbolo: ABll
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles vérticos.
+Suelos desarrollados en materiales limos loessoides retransportados, de textura franco-arcillo limosa, con concreciones de hierro-manganeso en todo el perfil, imperfectamente drenados, con un horizonte argílico oscuro, bien desarrollado y presencia de calcáreo a partir de los 40 cm.
+Perfil tipo: ER1-97C
+Fecha: 01-VI-94
+Ubicación: Maciá (foto 437-42) - Dpto. Tala
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-14 cm; gris muy oscuro (10YR 3/1) en húmedo y pardo grisáceo oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares medios, moderados; ligeramente duro en seco, firme en húmedo; barnices ("humic-skins") abundantes y finos; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+B21t: 14-42 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes medios, fuertes; muy duro en seco, muy firme en húmedo; caras de fricción ("slickensides") escasas; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, ondulado.
+B22t: 42-62 cm; gris muy oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en bloques angulares irregulares gruesos, moderados; extremadamente duro en seco, muy firme en húmedo; barnices ("clay-skins") comunes; escasa cantidad de carbonatos libres en la masa; concreciones de hierro-manganeso de hasta 2 mm, abundantes; concreciones calcáreas de 1 cm, escasas; chorreaduras de material superior; moteados de hierro-manganeso comunes, medios y sobresalientes; límite claro, ondulado.
+B31ca: 62-96 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay-skins") escasos a comunes; escasa cantidad de carbonatos libres en la masa; concreciones de hierro-manganeso abundantes; concreciones calcáreas, hasta 2 cm, abundantes; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; límite gradual, ondulado.
+B32ca: 96-115 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay-skins") abundantes; concreciones de hierro-manganeso abundantes; concreciones calcáreas escasas; chorreaduras de material superior; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; límite gradual, ondulado.
+C: 115 cm +; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay-skins") escasos y finos; moteados de hierro-manganeso abundantes, medios y sobresalientes; chorreaduras de material superior.
+Variabilidad de rasgos
+El solum tiene algo más de 150 cm de espesor. El horizonte A, que varía de 12 a 15 cm de espesor, tiene una estructura de bloques angulares a subangulares y una textura franco-arcillo-limosa.
+El horizonte argílico varía de 45 a 50 cm de espesor y es muy denso, especialmente en su parte inferior, con presencia de concreciones ferromanganesíferas en cantidad y tamaño variable, llegando hasta 2 mm de diámetro.
+El horizonte B3 es profundo y la variabilidad de su espesor no se conoce; su estructura es de prismas compuestos irregulares. El perfil muestra moteados de hierro-manganeso en cantidades comunes a abundantes en todo su desarrollo.
+El calcáreo en forma de concreciones de hasta 2 cm de diámetro aparece entre los 40-45 cm de profundidad, haciéndose notablemente más abundante en profundidad, sin embargo, desaparece en el horizonte C, particularidad que indicaría una posible discontinuidad litológica.	
+Fases
+No presenta a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie La Matilde, pero ésta tiene un perfil enterrado y está mejor drenada.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial nulo (estancado). Permeabilidad lenta. Napa freática a 6 m de profundidad. Grupo hidrológico D.
+Erosión
+La serie no tiene peligro de erosión.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Bellaco
+ER7-97C
+Nº de registro
+ 8524
+ 8525
+ 8526
+ 8527
+ 8528
+ 8529
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ C
+Profundidad (cm)
+ 04-10
+ 17-40
+ 45-60
+ 65-90
+ 98-110
+ 130-149
+Mat.organica (%)
+ 4.70
+ 2.22
+ 1.51
+ 0.73
+ 0.51
+ 0.36
+N (%)
+ 0.21
+ 0.11
+ 0.07
+ 0.04
+ 0.02
+ 0.01
+C/N
+ 13
+ 11
+ 13
+ 11
+ 13
+ 11
+T < 2 u
+ 32.61
+ 46.00
+ 52.55
+ 50.65
+ 45.89
+ 43.75
+E 2-20 u
+ 35.15
+ 24.90
+ 18.53
+ 25.88
+ 36.48
+ 32.23
+X 2-50 u
+ 64.09
+ 51.77
+ 42.13
+ 47.18
+ 51.41
+ 54.13
+T 50-100 u
+ 0.93
+ 1.82
+ 3.56
+ 1.69
+ 0.86
+ 0.24
+U 100-500 u
+ 2.15
+ 0.40
+ 1.75
+ 0.47
+ 1.83
+ 1.84
+R 500-1000 u
+ 0.22
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.04
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.52
+ 2.97
+ 0.39
+ 0.0
+PH H2O
+ 6.1
+ 7.3
+ 8.1
+ 8.3
+ 8.1
+ 7.4
+pH ClK
+ 5.4
+ 6.1
+ 6.9
+ 7.1
+ 6.8
+ 5.8
+C.E.(mmhos/cm)
+ 0.88
+ 1.05
+ 0.85
+ 0.93
+ 0.92
+ 1.44
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 39.4
+ 52.6
+ 64.0
+ 59.9
+ 50.9
+ 44.8
+d
+Ca++
+ 29.1
+ 37.6
+ 43.7
+ 40.9
+ 36.3
+ 32.3
+C
+e
+a
+Mg++
+ 6.9
+ 8.2
+ 10.6
+ 9.9
+ 8.0
+ 7.3
+t
+c
+i
+a
+K+
+ 1.8
+ 3.2
+ 4.8
+ 4.6
+ 3.1
+ 2.4
+o
+m
+n
+b
+Na+
+ 1.1
+ 2.1
+ 3.6
+ 3.4
+ 2.0
+ 1.9
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 2.79
+ 3.99
+ 5.62
+ 5.68
+ 3.93
+ 4.20
+Equival. de humedad (%)
+ 28.26
+ 40.08
+ 45.20
+ 44.15
+ 40.91
+ 41.42

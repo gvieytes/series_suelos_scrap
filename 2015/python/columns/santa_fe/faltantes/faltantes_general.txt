@@ -1,0 +1,116 @@
+alejoledesma_descripcion_general.htm
+  Clasificación taxonómica:Hapludol éntico.
+  Familia: limosa gruesa,mixta, térmica.
+  Drenaje: algo excesivo.
+alfisol_descripcion_general.htm
+  Clasificación taxonómica:Alfisol típico.
+  Familia: arcillosa fina, térmica (mineralogía no determinada).
+  Drenaje: muy pobre.
+apeaderomascias_descripcion_general.htm
+  Clasificación taxonómica:Natracualf típico
+  Familia: franco fina, térmica (mineralogía no determinada).
+  Drenaje: pobre/muy pobre
+bossi_descripcion_general.htm
+  Clasificación taxonómica:Argiudol ácuico
+  Familia: arcillosa fina (mineralogía no determinada)
+  Drenaje: moderado a imperfecto
+caciqueariaicaiquin_descripcion_general.htm
+  Clasificación taxonómica:Orthent thapto árgico.
+  Familia: franco fina, térmica (mineralogía no determinada).
+  Drenaje: algo excesivo
+canadadelucle_descripcion_general.htm
+  Clasificación taxonómica:Argiudol ácuico.
+  Familia: limosa fina, mixta, térmica
+  Drenaje: moderado a imperfecto.
+coloniamoreno_descripcion_general.htm
+  Clasificación taxonómica:Natralbol típico.
+  Familia: limo/arcillosa fina, térmica (mineralogía no determinada).
+  Drenaje: imperfecto.
+estanciasantaana_descripcion_general.htm
+  Clasificación taxonómica:Hapludol éntico
+  Familia: limosa gruesa,mixta, térmica
+  Drenaje: algo excesivo.
+lasarita_descripcion_general.htm
+  Clasificación taxonómica:Albacualf típico
+  Familia: arcillosa muy fina, térmica (mineralogía no determinada).
+  Drenaje: muy pobre
+lasofia_descripcion_general.htm
+  Clasificación taxonómica:Argialbol típico.
+  Familia: limosa fina, mixta, térmica
+  Drenaje: imperfecto.
+marcojuarez_descripcion_general.htm
+  Clasificación taxonómica:Argiudol típico
+  Familia: arcillo/limosa fina, térmica (mineralogía no determinada).
+  Drenaje: bueno.
+mariamanuela_descripcion_general.htm
+  Clasificación taxonómica:Argiudol ácuico
+  Familia: arcillosa/limosa fina, térmica (mineralogía no determinada).
+  Drenaje: moderado.
+mariateresa_descripcion_general.htm
+  Clasificación taxonómica:Hapludol típico.
+  Familia: limosa gruesa, mixta, térmica
+  Drenaje: algo excesivo.
+namuncura_descripcion_general.htm
+  Clasificación taxonómica:Argiudol ácuico.
+  Familia: limosa fina, térmica (mineralogía no determinada).
+  Drenaje: moderado/imperfecto.
+orono_descripcion_general.htm
+  Clasificación taxonómica: Natralbol típico
+  Familia: limosa-fina, mixta, térmica
+  Drenaje: pobre
+roldan_descripcion_general.htm
+  Clasificación taxonómica:Argiudol típico/vértico
+  Familia: arcillosa fina,illítica, térmica.
+  Drenaje: bueno/moderado.
+rosales_descripcion_perfil.htm
+  Clasificación taxonómica: Natralbol típico.
+  Familia:limosa gruesa,mixta, térmica
+  Drenaje: imperfecto/pobre.
+sanctispiritu_descripcion_general.htm
+  Clasificación taxonómica:Argialbol típico.
+  Familia: limosa fina,mixta, térmica
+  Drenaje: pobre.
+sanfabian_descripcion_general.htm
+  Clasificación taxonómica: Natralbol típico
+  Familia: fina, mixta, térmica
+  Drenaje: imperfecto
+sanguillermo_descripcion_general.htm
+  Clasificación taxonómica:Argialbol típico
+  Familia: arcillosa fina, térmica (mineralogía no determinada).
+  Drenaje: imperfecto.
+sanjulian_descripcion_general.htm
+  Clasificación taxonómica:Natracuol típico.
+  Familia: limosa fina,illítica, térmica
+  Drenaje: pobre.
+santalucia_descripcion_general.htm
+  Clasificación taxonómica:Natracuol típico
+  Familia: arcillosa fina,illítica, térmica
+  Drenaje: pobre.
+villacanas_descripcion_general.htm
+  Clasificación taxonómica:Argiudol típico.
+  Familia: limosa fina, mixta, térmica
+  Drenaje: bueno.
+villarosi_descripcion_perfil.htm
+  Clasificación taxonómica: Natracualf típico
+  Familia: franco fina, mixta, térmica
+  Drenaje: pobre
+villatrinidad_descripcion_general.htm
+  Clasificación taxonómica:Argiudol típico
+  Familia: arcillosa fina, térmica (mineralogía no determinada).
+  Drenaje: bueno/moderado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

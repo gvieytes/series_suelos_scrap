@@ -1,0 +1,218 @@
+--------------------------------------------------------------------------------
+SERIE SAN GUSTAVO - bajo gilgai							 Símbolo: SG
+Pertenece a la familia "fina, neutra, térmica" de los Peludertes árgicos (Vertisol con gilgai y B2 textural).
+Muestra un microrrelieve gilgai lineal bien desarrollado, con ciclos de 5-7 m y altibajos de hasta 30 cm. Es negro hasta 70-90 cm en el bajo del gilgai y desde 00-15 cm en la cresta. Está ligeramente erosionado y moderadamente bien drenado. En el bajo del gilgai tiene un epipedón franco-arcillo-limoso bien estructurado y un horizonte B2 argílico, arcillo-limoso. Las concreciones de calcáreo aparecen entre los 50 y 70 cm, en el bajo del gilgai y desde la superficie, en la cresta.
+Son suelos desarrollados en materiales lacustres ("limos calcáreos") arcillo-limosos.
+Perfil tipo: ER5-10 C
+Fecha: 16/VI/1971
+Ubicación: Colonia Oficial N° 13 (foto 486-27) - Dpto. La Paz
+Reconocedores: R. Fuentes; G.W. van Barneveld
+Bajo del gilgai (Perfil ER5-10bC)
+Al: 00-13 cm; negro (10YR 2/1) en húmedo; franco arcillo limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices ("humic skins") y caras de fricción ("slickensides") escasas, muy finas; límite gradual, suave.
+B21t: 13-33 cm; negro (10YR 2.5/1) en húmedo; arcillo limoso; estructura en bloques angulares, con tendencia cuneiforme y bloques cuneiformes medios moderados; muy duro en seco; firme en húmedo; caras de fricción ("slickensides") comunes, finas, intersectadas; concreciones de hierro manganeso de hasta 1 mm, escasas; vestigios de moteados; limite difuso, suave.
+B22t: 33-66 cm; negro (10YR 2.5/1) en húmedo; franco arcillo limoso; estructura en bloques cuneiformes y bloques angulares irregulares con tendencia a cuneiformes medios moderados; extremadamente duro en seco; muy firme en húmedo; caras de fricción ("slickensides") abundantes, finas y medias, intersectadas; concreciones de hierro-manganeso de hasta 1 mm, escasas; vestigios de moteados; límite gradual, suave.
+B23ca: 66-85 cm; gris muy oscuro (10YR 3.5/1) en húmedo; arcillo limoso; estructura en bloques cuneiformes y bloques angulares irregulares con tendencia a cuneiformes gruesos, moderados; extremadamente duro en seco; muy firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 2 mm escasas, duras; caras de fricción ("slickensides") comunes, medias, intersectadas; concreciones de hierro-manganeso de hasta 2 mm, escasas; moteados de hierro-manganeso comunes, finos, precisos; límite gradual-ondulado.
+B3ca: 85-101 cm; pardo oscuro (7.5YR 4/2) en húmedo; arcillo limoso; estructura en bloques angulares irregulares con tendencia cuneiforme y bloques cuneiformes, gruesos moderados; extremadamente duro en seco; firme en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 5 mm abundantes, duras y semiduras; caras de fricción ("slickensides") comunes, gruesas, poco intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+Cca(g): 101 cm +; pardo (7.5YR 5/4) en húmedo; franco arcillo limoso; estructura masiva con tendencia a bloques inherentes al material; extremadamente duro en seco; firme en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones de calcáreo de hasta 5 mm comunes, semiduras y blandas; moteados de hierro-manganeso comunes, finos, precisos; horizonte con algo de material del A (antiguas grietas).
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción del material arcilloso, que da lugar a la formación del microrrelieve gilgai.
+El epipedón, en el bajo del gilgai varía de 10 a 20 cm. Tiene 31-35% de arcilla y, normalmente, entre 3.5-5% de materia orgánica, que puede llegar a 6.5% en áreas más planas. En la cresta del gilgai, el epipedón varía de 10 a 15 cm, tiene menos materia orgánica y es menos oscuro.
+El B2, argílico, sólo existe en el bajo del gilgai; el porcentaje de arcilla incrementa levemente con su profundidad, variando del 38 al 42% en la parte superior y 40-46% en la inferior. Su estructura generalmente es prismática; pero los prismas pueden ser muy débiles.
+Las caras de fricción ("slickensides") se encuentran a partir del B21 hasta los 120 cm o más y son intersectadas, especialmente en el B2t. Cuándo éste está seco, presenta grietas de hasta 2 cm de ancho que se extiende hasta la base del epipedón o hasta la superficie, cuando el suelo está erosionado.
+El porcentaje de calcáreo varía entre 8-13% pero en algunos casos puede llegar a 18%. En concreciones duras de hasta 1 cm aparece entre 50-70 cm en el bajo del gilgai y desde la superficie, en la cresta. El carbonato libre se encuentra entre 50 y 80 cm en el bajo y entre 10 y 20 cm en la cresta.
+El color del C varía de 7.5YR 5/4 a 10YR 5. 5/2. Puede mostrar gley fósil. Tiene alrededor de 36-40% de arcilla y 4-6% de arena.
+Es un suelo ligeramente ácido en superficie y con menos de 3-4% dé sodio intercambiable en el subsuelo.
+Fases
+Moderadamente erosionada
+Severamente erosionada
+Muy suavemente ondulada
+Series similares y sus diferencias
+Se parece a la Serie Ramblones (con un epipedón más profundo y más mélico), a la Serie Chañar (con más arena y con un epipedón más profundo) y a la Serie El Sauce (más arcilloso). Otros Vertisoles no tienen gilgai bien desarrollado o son más hidromórficos o tienen el calcáreo más alto en el perfil.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado y a veces algo rápido. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La Serie San Gustavo está levemente erosionada, en parte debido a la erosión natural.
+El suelo corre moderado peligro de erosión en surcos y cárcavas. La fase moderadamente erosionada muestra surcos y pequeñas cárcavas, en parte rellenadas por la labranza. Las fases erosionadas se encuentran únicamente en las colonias agrícolas.
+Vegetación típica
+Monte de Montiel: predomina el espinillo (Acacia caven), algarrobo (Prosopis nigra) y tala (Celtis spinosa).
+DATOS ANALÍTICOS DEL PERFIL TÍPICO
+Serie San Gustavo
+ER5-10bC (bajo del gilgai)
+Nº de registro
+ 404
+ 405
+ 406
+ 407
+ 408
+ 409
+Horizonte
+ A1
+ B21t
+ B22t
+ B23ca
+ B3ca
+ Cca (g)
+Profundidad (cm)
+ 00-13
+ 22-31
+ 40-52
+ 68-84
+ 88-98
+ 103-115
+Mat.orgánica (%)
+ 4.7
+ 2.5
+ 2.2
+ 1.4
+ 0.6
+ 0.3
+C/N
+ 12
+ 13
+ 16
+ 16
+ 12
+ 10
+T <2
+ 33.6
+ 40.3
+ 38.4
+ 45.0
+ 40.5
+ 36.5
+E 2-20
+ 21.4
+ 24.5
+ 26.3
+ 21.3
+ 23.0
+ 24.5
+X 2-50
+ 60.5
+ 53.7
+ 54.6
+ 49.6
+ 55.5
+ 60.6
+T 5 0-100
+ 1.2
+ 1.4
+ 1.9
+ 1.4
+ 1.0
+ 0.8
+U 100-250
+ 3.4
+ 3.1
+ 3.5
+ 2.8
+ 2.0
+ 1.4
+R 250-500
+ 1.3
+ 1.5
+ 1.6
+ 1.2
+ 1.0
+ 0.7
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.0
+ 0.0
+ 6.0
+ 4.9
+ 13.0
+ 9.9
+pH H2O
+ 6.3
+ 6.5
+ 6.9
+ 7.7
+ 7.9
+ 7.9
+pH ClK
+ 5.9
+ 6.0
+ 6.3
+ 6.9
+ 7.0
+ 7.0
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 41.9
+ 44.8
+ 40.6
+ 44.5
+ 36.7
+ 37.1
+D
+Ca++
+ 32.8
+ 36.5
+ 32.5
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ 3.9
+ 4.3
+ 5.4
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 1.7
+ 0.9
+ 0.6
+ 0.8
+ 0.7
+ 0.7
+O
+M
+N
+B
+Na+
+ 0.2
+ 0.2
+ 0.3
+ 0.8
+ 1.1
+ 1.3
+E
+I
+S
+O
+H+
+ 4.2
+ 3.1
+ 2.1
+ -
+ -
+ -
+% Na/T
+ 0.5
+ 0.4
+ 0.5
+ 1.8
+ 3.0
+ 3.5
+Equivalente de humedad (%)
+ 39.4
+ 44.0
+ 40.7
+ 43.4
+ 38.8
+ 39.4

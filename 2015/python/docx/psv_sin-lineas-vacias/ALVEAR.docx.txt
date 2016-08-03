@@ -1,0 +1,173 @@
+--------------------------------------------------------------------------------
+SERIE ALVEAR							 Símbolo: Alvr
+Pertenece a la familia "limosa fina, mixta, térmica" de los Argiudoles ácuicos (Brunizems con B2t moderadamente desarrollado).
+Son suelos profundos, bien drenados, con un epipedón oscuro franco-limoso y un horizonte argílico franco-arcillo-limoso, con moteados de hierro-manganeso a partir de 30-40 cm.
+Suelos desarrollados sobre loes calcáreo de textura franco-limosa, con carbonatos libres en la masa.
+Perfil tipo: ER7-85C
+Fecha: 30-VI-1989
+Ubicación: Colonia General Alvear (foto H 442-78) - Dpto. Diamante
+Reconocedores: L.O. López; C.V. Acosta.
+Ap: 	00-30 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; gris (10YR 5/1) en seco; franco-limoso; estructura granular y en bloques subangulares, medios, débiles; ligeramente duro en seco; muy friable en húmedo; límite claro, suave.
+B21t: 	30-54 cm; pardo a pardo oscuro (7.5YR 4/2.5) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles que rompen en bloques subangulares y angulares irregulares medios débiles; duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins" abundantes, medios; moteados de hierro-manganeso precisos, medios; límite gradual, suave.
+B22t: 	54-77 cm; pardo a pardo oscuro (7.5YR 4/2.5) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles e incipientes prismas compuestos irregulares, finos, débiles; duro en seco; friable en húmedo; barnices "clay humic skins" abundantes y "clay skins" escasos, finos; moteados de hierro-manganeso comunes, precisos, finos; pedotúbulos abundantes; límite gradual, suave.
+B3:	 77-102 cm; pardo (7.5YR 4.5/4) en húmedo; franco-limoso; estructura en bloques angulares irregulares gruesos, débiles; muy friable en húmedo; barnices "clay humic skins" y "clayskins", escasos, finos; moteados de hierro y manganeso comunes, precisos y finos; presencia de pedotúbulos rellenos de material superior; límite difuso, ondulado.
+Cca: 102 + cm; pardo claro (7.5YR 5.5/4) en húmedo; franco-arcillo-limoso; estructura masiva; muy friable en húmedo; abundante cantidad de carbonatos en la masa.
+Variabilidad de rasgos
+El solum varía de 85 a 105 cm. El epipedón mólico, profundo, está generalmente compuesto de un horizonte A1 (+A3) o A1+B1 de aprox. 20-35 cm de espesor. La estructura del A1 varía de granular a bloques subangulares, y tiene alrededor de 20 % de arcilla; puede ser común la formación de un "piso de arado" a 18-20 cm de profundidad.
+El horizonte argílico, moderadamente desarrollado, de estructura en bloques subangulares y angulares irregulares o prismas irregulares incipientes y débiles. Varía de 33 a 55 cm de espesor y posee aproximadamente 28-32 % de arcilla. Puede presentar algunas caras de fricción no intersectadas. En período seco, las grietas se rellenan con material de horizontes suprayacentes. Tiene moteados de hierro-manganeso finos, escasos a comunes. Como rasgo particular de esta serie se debe mencionar la presencia, a partir del horizonte B22, de abundantes pedotúbulos, la mayoría parcialmente rellenados por la actividad biológica.
+El calcáreo aparece entre 70-100 cm en forma de carbonatos libres, sin las concreciones ("loesskindeln") que son típicas de encontrar en el loes.
+Fases
+Ligeramente erosionada (símbolo: Alvr.h1)
+Series similares y sus diferencias
+Se parece a las series Tezanos Pinto y El Retiro (aunque estas tienen un horizonte B2 más arcilloso y se han desarrollo en un paisaje distinto) y a la Serie La Curtiembre (que es algo más arcillosa desde la superficie y con una mayor susceptibilidad a la erosión).
+Drenaje
+Bien drenado; escurrimiento superficial moderado. Permeabilidad moderada. Napa freática a más de 25 m de prof. Grupo hidrológico C.
+Erosión
+La Serie Alvear no sufre mayormente de erosión actual significativa y su susceptibilidad a la misma (principalmente laminar) es leve. Parte de sus suelos pertenecen a la fase ligeramente erosionada, con un epipedón de aprox. 20 cm de espesor.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Alvear
+ER7-85C
+Nº de registro
+ 5305
+ 5306
+ 5307
+ 5308
+ 5309
+Horizonte
+ Ap
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 14-25
+ 35-50
+ 54-70
+ 85-95
+ + 102
+Mat.organica (%)
+ 3.27
+ 1.28
+ 0.74
+ 0.36
+ 0.22
+N (%)
+ 0.13
+ 0.07
+ 0.05
+ 0.04
+ 0.03
+C/N
+ 14
+ 10
+ 8
+ 6
+ 4
+T < 2 μ
+ 19.39
+ 34.15
+ 27.03
+ 20.40
+ 39.18
+E 2-20 μ
+ 24.81
+ 20.01
+ 23.25
+ 27.28
+ 28.10
+X 2-50 μ
+ 68.82
+ 57.60
+ 62.55
+ 67.82
+ 48.63
+T 50-100 μ
+ 11.02
+ 7.68
+ 9.77
+ 10.94
+ 10.62
+U 100-250 μ
+ 0.79
+ 0.56
+ 0.62
+ 0.82
+ 1.49
+R 250-500 μ
+ -
+ -
+ -
+ -
+ -
+A 500-1000 μ
+ 0.01
+ 0.01
+ 0.03
+ 0.02
+ 0.04
+ 1000-2000 μ
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 4.8
+pH H2O
+ 6.1
+ 7.0
+ 7.0
+ 7.1
+ 8.5
+pH ClK
+ 5.5
+ 5.7
+ 5.9
+ 5.8
+ 7.2
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 21.7
+ 29.4
+ 28.1
+ 26.1
+ 28.5
+ d Ca++
+ 14.8
+ 21.7
+ 20.4
+ 18.2
+ 22.7
+C e
+Mg++
+ 1.7
+ 2.8
+ 3.4
+ 3.1
+ 3.2
+t c
+i a K+
+ 2.3
+ 2.2
+ 1.7
+ 2.2
+ 2.1
+o m
+n b Na+
+ 0.86
+ 0.55
+ 0.65
+ 0.70
+ 2.20
+e i
+s o H+
+ 1.0
+ 1.2
+ 0.8
+ 0.9
+ N.D.

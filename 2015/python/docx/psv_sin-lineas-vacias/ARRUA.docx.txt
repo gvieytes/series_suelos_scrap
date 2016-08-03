@@ -1,0 +1,226 @@
+--------------------------------------------------------------------------------
+SERIE ARRUA Símbolo: Aru
+Pertenece a la familia "fina, montmorillonítica, ligeramente alcalina, térmica" de los Ocracualfes vérticos.
+Suelos desarrollados en materiales lacustres (limos calcáreos), densos, franco-arcillo-limoso a arcillo-limoso.
+Imperfectamente drenados, con concreciones ferromanganesíferas en prácticamente todo el perfil, tienen un epipedón somero de colores claros, fuertemente lixiviado, franco-limoso a franco-arcillo-limoso, y un horizonte argílico muy oscuro, con concreciones de calcáreo a partir de 18-40 cm. Son levemente alcalinos desde 15-30 cm.
+Perfil tipo: ER1-55C
+Fecha: 12-IV-1973
+Ubicación: Pueblo Arrua (foto IR 461-10) - Dpto. La Paz
+Reconocedores: O.A. Foti; C.Cuatrín.
+A21: 00-07 cm; pardo grisáceo oscuro (10YR 3.5/2) en húmedo; gris pardusco claro (10YR 6/2) en seco; franco-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios, moderados; duro en seco; friable en húmedo; barnices ("humic skins") escasos, finos; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+A22: 07-14 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios y finos débiles, que rompen en bloques angulares irregulares, medios, débiles; duro en seco; friable en húmedo; barnices ("humic y clay skins") escasos, finos; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B21t: 14-49 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios débiles que rompen en bloques angulares irregulares, medios, moderados; duro en seco; firme en húmedo; barnices ("clay humic skins") escasos; concreciones de hierro-manganeso comunes, de hasta 1 mm; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave. Horizonte agrietado y compactado.
+B22ca: 49-71 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, moderados; duro en seco; firme en húmedo; concreciones de calcáreo comunes, de hasta 3 mm; barnices ("clay humic skins") escasos, finos; caras de fricción ("slickensides") escasas, finas; concreciones de hierro-manganeso escasas, finos; moteados de hierro-manganeso comunes, finos, precisos; límite claro, suave. Horizonte compactado y con carbonatos en miscelio.
+B31ca: 71-92 cm; pardo grisáceo oscuro (10YR 3.5/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, débiles; firme en húmedo; concreciones de calcáreo comunes, de hasta 2 mm; barnices ("clay humic skins") escasos, finos; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B32ca: 92 cm +; pardo oscuro a pardo (7,5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares gruesos y débiles; duro en seco; firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, de hasta 1 cm; barnices inherentes al material; moteados de hierro-manganeso comunes, finos y precisos. Horizonte con chorreaduras de materia orgánica.
+Variabilidad de rasgos
+El epipedón varía de 10-15 cm y consta de un horizonte A2 (que en la mayoría de los casos puede subdividirse en A21 y A22) fuertemente lixiviado, tiene 25-30% de arcilla y 2,5-4% de materia orgánica. Su estructura es de bloques subangulares y angulares, pero en campos con sobrepastoreo se halla degradada por el pisoteo.
+El horizonte B2t, argílico, tiene escasas a comunes caras de fricción y 40-43% de arcilla; tiene estructura prismática y bloquiforme, pero los prismas generalmente suelen ser muy débiles; es levemente alcalino con 5-8% de sodio intercambiable.
+En seco el suelo se agrieta hasta la superficie.
+El calcáreo aparece a una profundidad de 18-40 cm, en miscelio y en concreciones duras comunes a abundantes, de hasta 3 cm, el carbonato libre aparece a los 50-70 cm.
+Es común la presencia de moteados y concreciones ferromanganesíferas en todo el perfil.
+En estos suelos existe una moderada actividad de las hormigas. El material originario varia en su textura de franco-arcillo-limoso a arcillo-limoso (35-40% de arcilla) y en su color de 10YR 4/3 a 7.5YR 5/4; es levemente alcalino con 10-12% de Na+ de intercambio.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Series similares y sus diferencias
+Se parece a la serie Bovril, que es menos planosólicos y con un horizonte A1 más lixiviado.
+Drenaje
+Imperfectamente drenado, con encharcamiento después de cada lluvia mayor. Escurrimiento muy lento. Permeabilidad lenta a muy lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Arrúa no está erosionada y corre moderado a severo peligro de erosión en forma laminar, en surcos y cárcavas en los sectores muy suavemente ondulados.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arrúa
+ER1-55C
+Nº de registro
+ 1.082
+ 1.083
+ 1.084
+ 1.085
+ 1.086
+ 1.087
+Horizonte
+ A21
+ A22
+ B21t
+ B22ca
+ B31ca
+ B32ca
+Profundidad (cm)
+ 00-07
+ 07-14
+ 33-46
+ 56-68
+ 83-92
+ 97-104
+Mat.organica (%)
+ 4.0
+ 2.8
+ 2.5
+ 1.7
+ 0.7
+ 0.2
+N (%)
+ -
+ -
+ -
+ -
+ -
+ -
+C/N
+ 9
+ 10
+ 12
+ 11
+ 10
+ -
+T
+ < 2 u
+ 26.1
+ 29.3
+ 41.3
+ 42.3
+ 37.0
+ 35.1
+E
+ 2-20 u
+ 28.0
+ 26.8
+ 19.1
+ 12.6
+ 16.0
+ 14.0
+X
+ 2-50 u
+ 71.2
+ 68.9
+ 57.5
+ 56.5
+ 61.0
+ 62.6
+T
+ 50-100 u
+ 1.9
+ 1.1
+ 0.5
+ 0.8
+ 1.4
+ 1.6
+U
+ 100-500 u
+ 0.8
+ 0.7
+ 0.7
+ 0.4
+ 0.6
+ 0.7
+R
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+A
+ 1000-2000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ -
+ -
+ -
+ 1.6
+ 0.8
+ 4.7
+pH H2O
+ 5.7
+ 6.2
+ 7.7
+ 8.2
+ 8.2
+ 8.3
+pH ClK
+ 5.0
+ 5.2
+ 6.5
+ 6.8
+ 6.8
+ 7.0
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 26.2
+ 31.1
+ 48.0
+ 47.7
+ 42.4
+ 38.8
+d
+Ca++
+ 17.9
+ 22.1
+ 40.5
+ -
+ -
+ -
+C
+e
+a
+Mg++
+ 2.3
+ 2.4
+ 3.1
+ -
+ -
+ -
+t
+c
+i
+a
+K+
+ 0.7
+ 0.9
+ 1.1
+ 1.5
+ 1.4
+ 1.6
+o
+m
+n
+b
+Na+
+ 0.5
+ 1.3
+ 3.7
+ 4.0
+ 4.9
+ 3.9
+e
+i
+s
+o
+H+
+ 5.5
+ 4.4
+ 1.8
+ -
+ -
+ -
+% Na/T
+ 1.9
+ 4.2
+ 7.8
+ 8.4
+ 11.6
+ 10.0
+Equivalente de humedad (%)
+ 31.9
+ 38.1
+ 57.1
+ 59.1
+ 57.7
+ 49.3

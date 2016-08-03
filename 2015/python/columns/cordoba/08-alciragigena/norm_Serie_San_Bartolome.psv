@@ -1,0 +1,40 @@
+Serie_San_Bartolome.psv ->> ID..........................: 814
+Serie_San_Bartolome.psv ->> CLASIFICACION...............: Argiustol típico
+Serie_San_Bartolome.psv ->> SERIE.......................: SAN BARTOLOMÉ (SBrtlm)
+Serie_San_Bartolome.psv ->> UBICACION...................: 1 Km al SO de San Bartolomé, departamento Río Cuarto
+Serie_San_Bartolome.psv ->> PROVINCIA...................: CORDOBA
+Serie_San_Bartolome.psv ->> LATITUD.....................: S324600
+Serie_San_Bartolome.psv ->> LONGITUD....................: O644500
+Serie_San_Bartolome.psv ->> ALTITUD.....................: 750
+Serie_San_Bartolome.psv ->> PENDIENTE...................: FALTA!
+Serie_San_Bartolome.psv ->> DRENAJE.....................: FALTA!
+Serie_San_Bartolome.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_San_Bartolome.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_San_Bartolome.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_San_Bartolome.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_San_Bartolome.psv ->> HORIZONTE->NOMBRE(S)........: a | bt | bc | c
+Serie_San_Bartolome.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-46 | 46-74 | 74a+
+Serie_San_Bartolome.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,4 | 1,7 | - | -
+Serie_San_Bartolome.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2,00 | 1,00 | - | -
+Serie_San_Bartolome.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,25 | - | - | -
+Serie_San_Bartolome.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,0 | - | - | -
+Serie_San_Bartolome.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14,0 | 20,9 | 11,7 | 10,9
+Serie_San_Bartolome.psv ->> HORIZONTE->LIMO 2-50 (%)....: 54,3 | 49,7 | 53,1 | 54,7
+Serie_San_Bartolome.psv ->> HORIZONTE->AMF 50-100 (%)...: 25,5 | 25,0 | 30,0 | 30,0
+Serie_San_Bartolome.psv ->> HORIZONTE->AF 100-250 (%)...: 3,5 | 2,0 | 3,0 | 2,5
+Serie_San_Bartolome.psv ->> HORIZONTE->AM 250-500 (%)...: 1,0 | 0,5 | 0,5 | 0,5
+Serie_San_Bartolome.psv ->> HORIZONTE->AG 500-1000 (%)..: 2,0 | 1,5 | 1,0 | 1,0
+Serie_San_Bartolome.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,5 | 1,0 | 1,0 | 1,0
+Serie_San_Bartolome.psv ->> HORIZONTE->CaCO 3 (%).......: 0,0 | 0,0 | 0,0 | 0,0
+Serie_San_Bartolome.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 15,2 | 18,0 | 17,0 | 15,2
+Serie_San_Bartolome.psv ->> HORIZONTE->PH PASTA.........: 6,3 | 6,6 | 7,1 | 7,1
+Serie_San_Bartolome.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,7 | 6,9 | 7,7 | 7,6
+Serie_San_Bartolome.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13,2 | 14,8 | 11,6 | 12,1
+Serie_San_Bartolome.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7 | 0,5 | 1,2 | 0,4
+Serie_San_Bartolome.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4 | 0,4 | 0,3 | 0,3
+Serie_San_Bartolome.psv ->> HORIZONTE->CI ME/100G-K +...: 2,0 | 1,3 | 1,3 | 1,1
+Serie_San_Bartolome.psv ->> HORIZONTE->CI ME/100G-H +...: 1,9 | 1,1 | - | 
+Serie_San_Bartolome.psv ->> HORIZONTE->Na INTERC % (PSI): 2,2 | 2,2 | 2,1 | 2,2
+Serie_San_Bartolome.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16,3 | 17,0 | 14,4 | 13,9
+Serie_San_Bartolome.psv ->> HORIZONTE->CIC ME/100G(T)...: 18,3 | 18,1 | 14,4 | 14,0
+Serie_San_Bartolome.psv ->> HORIZONTE->SAT.B % (S/T)....: 89,1 | 93,9 | 100 | 99,3

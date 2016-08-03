@@ -1,0 +1,40 @@
+dss_vira_pita.psv ->> ID..........................: 614
+dss_vira_pita.psv ->> CLASIFICACION...............: Haplustol típico
+dss_vira_pita.psv ->> SERIE.......................: VIRA PITA (VraP)
+dss_vira_pita.psv ->> UBICACION...................: 11 Km al Norte de la localidad de Las Isletillas, departamento Tercero Arriba
+dss_vira_pita.psv ->> PROVINCIA...................: CORDOBA
+dss_vira_pita.psv ->> LATITUD.....................: S322500
+dss_vira_pita.psv ->> LONGITUD....................: O635600
+dss_vira_pita.psv ->> ALTITUD.....................: 334
+dss_vira_pita.psv ->> PENDIENTE...................: FALTA!
+dss_vira_pita.psv ->> DRENAJE.....................: FALTA!
+dss_vira_pita.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_vira_pita.psv ->> PERMEABILIDAD...............: FALTA!
+dss_vira_pita.psv ->> TIPO DE SUELO...............: FRANCO ARCILLO LIMOSA
+dss_vira_pita.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_vira_pita.psv ->> HORIZONTE->NOMBRE(S)........: ap | a12 | b2 | b3 | c1 | c2ca
+dss_vira_pita.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14 | 14--27 | 27-56 | 56-85 | 85-110 | 110a+
+dss_vira_pita.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.93 | 2.93 | 2.41 | 1.21 | - | 
+dss_vira_pita.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.7 | 1.7 | 1.4 | 0.7 | - | 
+dss_vira_pita.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.16 | 0.16 | 0.14 | - | - | 
+dss_vira_pita.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.6 | 10.6 | 10 | - | - | 
+dss_vira_pita.psv ->> HORIZONTE->ARCILLA 2 (%)....: 35.2 | 36.5 | 34.6 | 22.1 | 16.3 | 15.8
+dss_vira_pita.psv ->> HORIZONTE->LIMO 2-50 (%)....: 54.8 | 53.3 | 49.5 | 51.8 | 51.8 | 53.8
+dss_vira_pita.psv ->> HORIZONTE->AMF 50-100 (%)...: 10.0 | 8.1 | 14.9 | 29.6 | 29.6 | 30.4
+dss_vira_pita.psv ->> HORIZONTE->AF 100-250 (%)...: 0.8 | 1.9 | 0.4 | 1.4 | 1.4 | 
+dss_vira_pita.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | 0.2 | - | - | 
+dss_vira_pita.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | - | - | 
+dss_vira_pita.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | - | 
+dss_vira_pita.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 0 | 0 | 0 | 0 | 3.3
+dss_vira_pita.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 35.2 | 36.0 | 31.5 | 19.2 | 19.2 | 19.0
+dss_vira_pita.psv ->> HORIZONTE->PH PASTA.........: 6.7 | 6.9 | 6.3 | 6.5 | 6.5 | 7.8
+dss_vira_pita.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7.0 | 7.2 | 6.6 | 6.9 | 6.9 | 8.4
+dss_vira_pita.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 21.0 | 22.0 | 19.0 | 11.8 | 11.8 | 
+dss_vira_pita.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.8 | 1.3 | 1.0 | 0.8 | 0.8 | 
+dss_vira_pita.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.2 | 0.1 | 0.1 | 0.1 | 0.1
+dss_vira_pita.psv ->> HORIZONTE->CI ME/100G-K +...: 2.6 | 2.8 | 2.4 | 1.8 | 1.8 | 1.8
+dss_vira_pita.psv ->> HORIZONTE->CI ME/100G-H ++..: 0.2 | 0.1 | 1.3 | 0.7 | 0.7 | 
+dss_vira_pita.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | - | - | 
+dss_vira_pita.psv ->> HORIZONTE->SUM.B. ME/100G(S): 24.6 | 26.3 | 22.5 | 14.5 | 14.5 | 
+dss_vira_pita.psv ->> HORIZONTE->CIC ME/100G(T)...: 24.8 | 26.5 | 23.9 | 15.2 | 15.2 | 13.0
+dss_vira_pita.psv ->> HORIZONTE->SAT.B % (S/T)....: 99 | 99 | 94 | 95 | 95 | 

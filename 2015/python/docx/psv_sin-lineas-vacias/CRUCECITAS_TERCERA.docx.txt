@@ -1,0 +1,227 @@
+--------------------------------------------------------------------------------
+SERIE CRUCECITAS TERCERA Símbolo: CruT
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiudólicos.
+Suelos moderadamente bien drenados con movimientos en masa en el perfil ("churning"), sin llegar a desarrollarse claramente el microrrelieve gilgai.
+Están moderadamente erosionados, con un horizonte argílico arcillo-limoso y de color pardo.
+El calcáreo aparece a los 60-65 cm de profundidad. Suelos desarrollados en materiales arcillo-limosos (limos calcáreos).
+Perfil tipo: ER1-117C
+Fecha: 23-V-2001
+Ubicación: Estancia "San Julio" (foto IR 436-34B) - dto. Crucecitas Tercera. - Dpto. Nogoyá.
+Reconocedores: O.A. Foti, R.H. Fuentes, R.E. Kleinerman..
+A1: 00-20 cm; gris muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins"), comunes a abundantes; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+B1: 20-40-cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares fino, débiles que rompen en bloques subangulares y cuneiformes finos, moderados; ligeramente duro en seco y friable en húmedo; barnices ("humic skins") comunes; caras de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+B21t: 40-61 cm; pardo mu oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medio, débiles que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco y firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes, medias; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, ondulado.
+B22t: 61-80 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, débiles; duro en seco y firme en húmedo; barnices ("clay skins"), comunes; caras de fricción ("slickensides") comunes, gruesas; escasos carbonatos libres en la masa; escasas a comunes concreciones calcáres, finas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, ondulado.
+B31ca: 80-110 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; ligeramente duro en seco y friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, gruesas; abundantes; carbonatos libres en la masa; abundantes; concreciones calcáreas, gruesas, blandas de hasta 5 cm de diámetro; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite gradual, ondulado.
+B32ca: 110 cm+; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y cuneiformes, gruesos, débiles; ligeramente duro en seco y friable en húmedo; barnices ("clay skins") comunes; caras de friccón ("slickensides") escasas a comunes; abundantes carbonatos libres en la masa; abundantes concreciones calcáreas finas; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El sólum varía entre 120-130 cm de profundidad. El epipedón mólico está compuesto por un horizonte A1 y ocasionalmente por un B1 con un espesor de 35-40 cm, de textura franco-arcillo-limosa y color gris oscuro.
+El horizonte argílico de 40-45 cm de espesor tiene y 45-47 % de arcilla. El calcáreo aparece a los 60-65 cm aumentando considerablemente en profundidad.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Drenaje
+Moderadamente bien drenado; Escurrimiento superficial medio a rápido. Permeabilidad muy lenta. Capa freática profunda.. Grupo hidrológico D.
+Erosión
+La Serie Crucecitas Tercera presenta erosión moderada y corre moderado a gran peligro de erosión en forma laminar, surcos y cárcavas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Crucecitas Tercera
+ER1-117C
+N° de registro
+ 6895
+ 6896
+ 6897
+ 6898
+ 6899
+ 6900
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B31ca
+ B32ca
+Profundidad (cm)
+ 03-18
+ 22-38
+ 42-57
+ 64-78
+ 83-105
+ 120-130
+Mat.organica (%)
+ 4.93
+ 3.12
+ 1.85
+ 1.13
+ 0.53
+ 0.31
+N (%)
+ 0.217
+ 0.126
+ 0.078
+ 0.044
+ 0.031
+ 0.026
+C/N
+ 13
+ 14
+ 14
+ 15
+ 10
+ 7
+T <2
+ 30.36
+ 37.53
+ 45.13
+ 47.15
+ 40.01
+ 39.40
+E 2-20
+ 34.45
+ 28.62
+ 26.75
+ 29.41
+ 28.41
+ 28.01
+X 2-50
+ 66.26
+ 60.05
+ 52.92
+ 50.63
+ 58.04
+ 58.64
+T 50-100
+ 1.25
+ 0.70
+ 0.71
+ 0.75
+ 0.51
+ 0.58
+U 100-500
+ 2.12
+ 1.59
+ 1.23
+ 1.42
+ 1.41
+ 1.36
+R 500-1000
+ 0.01
+ 0.13
+ 0.01
+ 0.05
+ 0.03
+ 0.02
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ 1.30
+ 17.41
+ 17.78
+pH H2O
+ 7.0
+ 7.0
+ 7.1
+ 7.1
+ 7.4
+ 7.5
+pH ClK
+ 6.0
+ 6.1
+ 6.1
+ 6.2
+ 6.4
+ 6.5
+Conductividad eléctrica mmhos/cm
+ 0.346
+ 0.423
+ 0.500
+ 1.000
+ 0.924
+ 0.808
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 33.20
+ 38.80
+ 45.00
+ 47.72
+ 41.31
+ 40.27
+D
+Ca++
+ 26.40
+ 30.78
+ 38.02
+ 40.48
+ -
+ -
+C
+E
+A
+Mg++
+ 2.64
+ 2.50
+ 2.74
+ 3.72
+ -
+ -
+T
+C
+I
+A
+K+
+ 0.60
+ 0.80
+ 0.49
+ 0.36
+ 0.40
+ 0.58
+O
+M
+N
+B
+Na+
+ 0.55
+ 1.37
+ 1.75
+ 1.82
+ 1.82
+ 2.00
+E
+I
+S
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.7
+ 3.5
+ 3.9
+ 3.8
+ 4.4
+ 5.0
+Equivalente de humedad (%)
+ 32.07
+ 40.01
+ 47.09
+ 49.54
+ 41.56
+ 40.12
+Fósforo asimilable ppm
+ 3.60
+ 2.60
+ 2.40
+ 2.20
+ 1.90
+ 1.80

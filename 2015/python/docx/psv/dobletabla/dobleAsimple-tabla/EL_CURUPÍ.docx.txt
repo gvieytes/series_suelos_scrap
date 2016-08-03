@@ -1,0 +1,299 @@
+
+--------------------------------------------------------------------------------
+SERIE EL CURUPÍ Símbolo: ECu
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Hapludoles fluvacuénticos.
+
+Suelo aluvial moderadamente salino y sódico a partir de los 60 cm. Originado a partir de materiales marinos y continentales
+
+
+Perfil tipo: 342C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: 16 km al SO de Gualeguay (Hoja IGM 3360-23-3) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A11: 0-28 cm; negro pardusco (10YR 2/2) en húmedo; franco arcillo arenoso; estructura en bloques subangulares medios débiles que rompen en bloques menores; friable; no plástico, no adhesivo; concreciones ferromanganésicas escasas; moteados esca - sos, finos, débiles; raíces abundantes; límite inferior claro y suave.
+
+A12: 28-41 cm; pardo oscuro (10YR 3/3) en húmedo; franco arcillo arenoso; estructura en bloques subangulares, medios débiles que rompen en bloques menores; friable; no plástico, no adhesivo; concreciones ferromanganésicas escasas; moteados esca - sos, finos, precisos; raíces abundantes; límite inferior claro y suave.
+
+IIC1: 41-61 cm; negro pardusco (10YR 2/2) en húmedo; arcilloso estructura en bloques subangulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; barnices (clay-skins) escasos; moteados abundantes, finos, precisos; raíces comunes; límite inferior claro y suave.
+
+IIIC2: 61-92 cm; pardo oscuro (7,5YR 3/3) en húmedo; arcilloso; es - tructura en bloques subangulares medios moderados que rom - pen en bloques menores; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; microconcreciones calcáreas escasas; barnices (clay-skins) escasos; moteados abundantes, finos, precisos de color pardo brillante (7,5YR 5/8); raíces escasas; límite inferior abrupto y suave.
+
+IVC3: 92-128 cm; gris amarillento (2,5Y 5/1) en húmedo; arcilloso; estructura en bloques angulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; microconcreciones calcáreas abundantes; concreciones calcáreas comunes; barnices (clay-skins) escasos; moteados abundantes, medios, precisos de color pardo brillante (7,5YR 5/8); raíces escasas; límite inferior abrupto y suave.
+
+
+Variabilidad de rasgos
+
+Los horizontes superficiales que se extienden hasta los 41 cm de profundidad son de color negro pardusco, bien provistos de materia orgáni - ca, franco arcillo arenosos y estructura en bloques subangulares medios débiles que rompen en bloques menores. Sigue una sucesión de capas de materiales alternantes marinos y fluviales de textura arcillosa hasta los 128 cm y franco arenoso en profundidad. Las concreciones y moteados de FeMn se encuentran en todo el perfil aunque en mayor cantidad a partir de las capas arcillosas; las microconcreciones calcáreas son abundantes en los horizontes inferiores. Este suelo es de permeabilidad lenta y de drenaje imperfecto. El PSI calculado a partir de los 70 cm supera el 15 %, por lo que este suelo fue clasificado A1 12.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Permeabilidad lenta y drenaje imperfecto.
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Curupí
+
+342C INTA Castelar
+
+
+
+
+
+
+N° de registro
+
+
+
+
+
+
+Horizonte
+ A11
+ A12
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+Profundidad (cm)
+ 5-15
+ 30-40
+ 45-58
+ 67-87
+ 98-115
+ 135-145
+Mat. orgánica (%)
+ 4.17
+ 1.66
+ 1.76
+ 1.31
+ 0.48
+ -
+C (%)
+ 2.42
+ 0.96
+ 1.02
+ 0.76
+ 0.28
+ -
+N (%)
+ 0.198
+ 0.084
+ 0.053
+ 0.068
+ -
+ -
+C/N
+ 12
+ 11
+ 19
+ 11
+ -
+ -
+
+T <2 u
+
+ 28.1
+
+ 26.5
+
+ 49.4
+
+ 60.9
+
+ 55.9
+
+ 12.5
+E 2-20 u
+ 14.5
+ 16.1
+ 16.0
+ 11.9
+ 18.0
+ 8.3
+X 2-50 u
+ 25.1
+ 24.6
+ 24.7
+ 23.5
+ 27.8
+ 10.8
+T 50-74 u
+ 13.3
+ 13.4
+ 6.0
+ 6.4
+ 5.8
+ 13.7
+U 74-100 u
+ 18.1
+ 19.3
+ 10.6
+ 3.2
+ 6.7
+ 36.8
+R 100-250 u
+ 13.9
+ 14.4
+ 9.0
+ 5.5
+ 3.7
+ 25.7
+A 250-500 u
+ 1.4
+ 1.7
+ 0.3
+ 0.5
+ 0.1
+ 0.5
+ 500-1000 u
+ 0.1
+ 0.1
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0
+ vest (n)
+ vest (n)
+ vest (n)
+Equivalente de humedad (%)
+ 22.4
+ 21.4
+ 38.5
+ 49.7
+ 39.7
+ 11.2
+Resistencia de la pasta (Ohms/cm)
+ 3106
+ 2795
+ 699
+ 388
+ 295
+ 512
+pH en pasta
+ 5.5
+ 6.1
+ 6.3
+ 6.9
+ 7.2
+ 7.0
+pH en agua (1:2,5)
+ 6.0
+ 6.7
+ 7.0
+ 7.5
+ 7.5
+ 7.9
+pH en KCl (1:2,5)
+ 4.8
+ 5.2
+ 5.5
+ 6.3
+ 6.5
+ 6.8
+Conductividad (mmhos/cm)
+ -
+ -
+ 2.47
+ 10.08
+ 13.09
+ 10.65
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 11.4
+ 12.0
+ 23.1
+ -
+ -
+ -
+
+Mg++
+ 3.1
+ 2.4
+ 6.3
+ -
+ -
+ -
+
+Na[+]
+ 1.2
+ 1.6
+ 3.7
+ -
+ -
+ -
+
+K[+]
+ 1.0
+ 0.3
+ 0.8
+ -
+ -
+ -
+
+H[+]
+ 9.0
+ 5.3
+ 6.7
+ -
+ -
+ -
+Na+ % del valor T
+ 6
+ 9
+ 11
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ 16.7
+ 16.3
+ 33.9
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 20.0
+ 17.1
+ 33.1
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ 84
+ 95
+ 100
+ -
+ -
+ -

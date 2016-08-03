@@ -1,0 +1,202 @@
+
+--------------------------------------------------------------------------------
+SERIE LAS ACHIRAS Símbolo: LAc
+
+
+Pertenece a la familia "franca gruesa, mixta, no ácida, térmica" de los Hidracuentes típicos.
+
+Son suelos ligeramente ácidos, poco inundables, desarrollados en materiales de capas limosas fluvio marinas y ubicadas en antiguos costas de emersión Querandino - Pleistoceno.
+
+
+Perfil tipo: C-1 INTA Castelar
+Fecha: II-1986
+Ubicación: a 800 m al SE de la Escuela Provincial Nº 97 (Hoja IGM 3360-30-2) - Dpto. Islas del Ibicuy
+Reconocedores: L. A. Gómez; R. F. Ferrao
+
+
+A11: 0-21 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, pardo grisáceo (10YR 5/2) en seco; franco limoso; bloques subangulares medios moderados que rompen a bloques menores; friable, plástico y adhesivo; abrupto suave.
+
+II: 21-113 cm; pardo grisáceo (10YR 5/2) en húmedo, gris claro (10YR 7/2) en seco; arcillo limoso; masivo; friable, plástico y adhesivo; moteados abundantes sobresalientes y gruesos; claro suave.
+
+III: 113-125 cm; gris pardusco claro (10YR 6/2) en húmedo, blanco (10YR 8/2) en seco; franco; friable, no plástico, ligeramente adhesivo; moteados abundantes, precisos y medios.
+
+
+
+
+ Serie Las Achiras
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial muy lento. Permeabilidad moderadamente lenta.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Las Achiras
+
+C-1 INTA Castelar
+
+
+
+N° de registro
+ 30536
+ 30537
+ 30538
+Horizonte
+ A1
+ II
+ III
+Profundidad (cm)
+ 2-19
+ 30-100
+ 115-125
+Mat.orgánica (%)
+ 2.32
+ 0.24
+ 0.07
+C (%)
+ 1.35
+ 0.14
+ 0.04
+N (%)
+ 0.157
+ -
+ -
+C/N
+ 8.6
+ -
+ -
+T <2 u
+ 22.8
+ 40.6
+ 17.3
+E 2-20 u
+ 20.6
+ 15.4
+ 8.1
+X 2-50 u
+ 57.6
+ 47.0
+ 47.8
+T 50-74 u
+ 15.1
+ 10.0
+ 27.1
+U 74-100 u
+ 3.7
+ 1.4
+ 6.2
+R 00-250 u
+ 0.8
+ 1.0
+ 1.6
+A 250-500 u
+ -
+ -
+ -
+ 500-1000 u
+ -
+ -
+ -
+Gravilla (> 2 Tosca Ca %
+ -
+ -
+ -
+CO3Ca (%) V
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 25.4
+ 49.2
+ 20.9
+Resiten. de la pasta (Ohms/cm)
+ 2445
+ 2440
+ 2050
+pH en pasta
+ 4.6
+ 5.8
+ 5.8
+pH en agua (1:2,5)
+ 5.4
+ 6.4
+ 6.4
+pH en 1 N KCl (1:2,5)
+ 4.0
+ 5.3
+ 5.5
+Conductividad (mmhos/cm)
+ -
+ 9.4
+ 8.5
+
+ Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 5.9
+ 9.9
+ 5.3
+
+Mg++
+ 3.7
+ 3.7
+ 1.5
+
+Na[+]
+ 1.7
+ 7.0
+ 1.9
+
+K[+]
+ 0.5
+ 1.0
+ 0.7
+% Na+ en cambio de v. T
+ 11
+ 32
+ 20
+% de agua de saturación
+ 47
+ 64
+ 41
+Valor S (m.e./100 g)
+ 11.8
+ 21.6
+ 9.4
+H de cambio (m.e./100 g)
+ 9.7
+ 3.1
+ 3.5
+Valor T (m.e./100) NH4++ o Na+
+ 15.2
+ 22.2
+ 9.6
+% de saturación de T
+ 77
+ 97
+ 98
+% de saturación de S + H
+ 55
+ 87
+ 73
+Fósforo asimilable (ppm)
+ 1.8
+ 2.0
+ 3.9
+Factor de humedad
+ 1.03
+ 1.05
+ 1.02
+

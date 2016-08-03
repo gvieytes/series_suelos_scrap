@@ -1,0 +1,39 @@
+dss_RODEOVIEJO.psv ->> ID..........................: 325
+dss_RODEOVIEJO.psv ->> CLASIFICACION...............: Haplustol lítico paralítico
+dss_RODEOVIEJO.psv ->> SERIE.......................: RODEO VIEJO (RVjo)
+dss_RODEOVIEJO.psv ->> UBICACION...................: 3 km al Oeste de Villa del Totoral, departamento Totoral
+dss_RODEOVIEJO.psv ->> PROVINCIA...................: CORDOBA
+dss_RODEOVIEJO.psv ->> LATITUD.....................: S300300
+dss_RODEOVIEJO.psv ->> LONGITUD....................: O640300
+dss_RODEOVIEJO.psv ->> ALTITUD.....................: 550
+dss_RODEOVIEJO.psv ->> PENDIENTE...................: FALTA!
+dss_RODEOVIEJO.psv ->> DRENAJE.....................: FALTA!
+dss_RODEOVIEJO.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_RODEOVIEJO.psv ->> PERMEABILIDAD...............: FALTA!
+dss_RODEOVIEJO.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_RODEOVIEJO.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_RODEOVIEJO.psv ->> HORIZONTE->NOMBRE(S)........: a
+dss_RODEOVIEJO.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20
+dss_RODEOVIEJO.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,1
+dss_RODEOVIEJO.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,8
+dss_RODEOVIEJO.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,16
+dss_RODEOVIEJO.psv ->> HORIZONTE->RELACIÓN C/N.....: 11,3
+dss_RODEOVIEJO.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9,5
+dss_RODEOVIEJO.psv ->> HORIZONTE->LIMO 2-50 (%)....: 21,6
+dss_RODEOVIEJO.psv ->> HORIZONTE->AMF 50-100 (%)...: 10,9
+dss_RODEOVIEJO.psv ->> HORIZONTE->AF 100-250 (%)...: 27,2
+dss_RODEOVIEJO.psv ->> HORIZONTE->AM 250-500 (%)...: 13,5
+dss_RODEOVIEJO.psv ->> HORIZONTE->AG 500-1000 (%)..: 11,1
+dss_RODEOVIEJO.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 4,1
+dss_RODEOVIEJO.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0
+dss_RODEOVIEJO.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 13,5
+dss_RODEOVIEJO.psv ->> HORIZONTE->PH PASTA.........: -
+dss_RODEOVIEJO.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,8
+dss_RODEOVIEJO.psv ->> HORIZONTE->CI ME/100G-Ca++..: 11,4 
+dss_RODEOVIEJO.psv ->> HORIZONTE->CI ME/100G-Mg++..: 0,3
+dss_RODEOVIEJO.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,2
+dss_RODEOVIEJO.psv ->> HORIZONTE->CI ME/100G-K+....: 0,4
+dss_RODEOVIEJO.psv ->> HORIZONTE->CI ME/100G-H+....: 1,5
+dss_RODEOVIEJO.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12,3
+dss_RODEOVIEJO.psv ->> HORIZONTE->CIC ME/100G(T)...: 13,8
+dss_RODEOVIEJO.psv ->> HORIZONTE->SAT.B % (S/T)....: 89,1

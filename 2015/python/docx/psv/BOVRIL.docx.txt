@@ -1,0 +1,250 @@
+
+--------------------------------------------------------------------------------
+SERIE BOVRIL Símbolo: Bov
+
+
+Pertenece a la familia "fina, mixta, levemente alcalina, térmica" de los Ocracualfes mólicos (Planosol con horizonte argílico y epipedón mólico).
+Suelos desarrollados en materiales limos loessoides, franco arcillo limosos.
+Imperfectamente drenados, con un epipedón moderadamente lixiviado y degradado, franco limoso a arcillo limoso, con escasas caras de fricción ("slickensides") y con concreciones de calcáreo a partir de 30-50 cm.
+
+Son levemente alcalinos desde 15-25 cm.
+
+
+Perfil tipo: ER1-57C
+Fecha: 14-IV-1973
+Ubicación: Estacion Bovril (foto IR 465-40) - Dpto. La Paz.
+Reconocedores: O.A. Foti; G.W.van Barneveld.
+
+
+A1: 00-14 cm; pardo grisáceo oscuro (10YR 3/2) en húmedo, pardo oscuro (10YR 4/3 en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic skins") escasos, muy finos; moteados de hierro-manganeso, escasos, finos y precisos; límite claro, suave.
+
+B21: 14-50 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay-humic skins") escasos y finos; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+B22ca: 50-79 cm; gris oscuro (10YR 4/1) en húmedo; franco-arcillo-limoso a arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; concreciones de calcáreo escasas de hasta 5 cm y en miscelio; barnices ("clay-humic skins") escasos y finos; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+
+B3ca: 79 (111) cm; pardo a pardo oscuro (10YR 4/3) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, gruesos, débiles; friable en húmedo; concreciones de calcáreo comunes de hasta 5 mm; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; horizonte con chorreaduras de materia orgánica.
+
+
+Variabilidad de rasgos
+
+El solum varía de 110-120 cm. El epipedón incluye un horizonte A1 de 10 a 15 cm.) moderado a fuertemente lixiviado por las caras de los agregados (con colores oscuros 10YR 3/1 a 10YR 3/2) pero generalmente sin llegar a un A2.
+A pesar del A1 lixiviado y corto, el epipedón es considerado mólico (exceptuando las condiciones de lixiviación) dadas las características del B21, cuyos primeros 8-10 cm se parecen bastante al A1 y por lo cual el horizonte podría describirse como un B1, esta es la razón por la inclusión de la serie en el subgrupo "mólico" en vez de "típico". Tiene 3-4% de materia orgánica y 26-36% de arcilla; su estructura generalmente es buena (granular y en bloques subangulares). El epipedón es, en general, neutro (con menos de 5% de sodio intercambiable).
+
+El horizonte B2 argílico es muy poco vertisólico, con escasa y finas caras de fricción no intersectadas y que en algunos perfiles pueden estar ausentes; tiene una estructura de prismas débiles y, localmente, de bloques angulares no cuneiformes.
+
+En seco, el suelo se agrieta hasta la superfice; el horizonte tiene 35-57% de arcilla y es levemente alcalino con 5-8% de sodio intercambiable. El calcáreo aparece en el B22 entre los 30-50 cm, en forma de concreciones duras de hasta 5 cm y en miscelio; el porcentaje de calcáreo libre oscila entre 2-10%. Es común la presencia de moteados en todo el perfil, siendo más abundante en el B3 y C.
+
+El material originario es franco arcillo limoso, con 35-40% de arcilla, levemente alcalino con 8-10% de sodio intercambiable (algunos perfiles pueden ser levemente alcalinos a partir del B2).
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Arrúa, que es más planosólica y más alcalina y tiene un horizonte A2 y a la serie Viraró del Dpto. La Paz, que está más lixiviada y tiene monte sin palma caranday.
+
+
+Drenaje
+
+Imperfectamente drenado, con encharcamientos después de cada lluvia mayor; escurrimiento superficial moderado. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Bovril tiene erosión, pero en los sectores con leve pendiente tiene moderada susceptibilidad, especialmente en forma de cárcavas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Bovril
+
+ER1-57C
+Nº de registro
+ 1.093
+ 1.094
+ 1.095
+ 1.096
+Horizonte
+ A1
+ B21
+ B22ca
+ B3ca
+Profundidad (cm)
+ 00-10
+ 26-41
+ 57-70
+ 85-100
+Mat.organica (%)
+ 4.5
+ 2.6
+ 1.1
+ 0.4
+C/N
+ 10
+ 11
+ 9
+ 6
+
+T
+ < 2 u
+ 30.2
+ 37.6
+ 36.2
+ 34.6
+E
+ 2-20 u
+ 22.7
+ 24.5
+ 19.5
+ 20.5
+X
+ 2-50 u
+ 69.1
+ 61.6
+ 63.3
+ 64.6
+T
+ 50-100 u
+ 0.4
+ 0.3
+ 0.3
+ 0.5
+U
+ 100-250 u
+ 0.2
+ 0.2
+ 0.1
+ 0.2
+R
+ 250-500 u
+ 0.1
+ 0.3
+ 0.1
+ 0.1
+A
+ 500-1000 u
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 1.4
+ 4.6
+pH H2O
+ 5.9
+ 6.7
+ 8.3
+ 8.3
+pH ClK
+ 5.0
+ 5.7
+ 6.7
+ 6.8
+C.E.(mmhos/cm)
+ -
+ -
+ -
+ -
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+
+
+ 34.5
+ 40.1
+ 42.3
+ 39.7
+
+
+
+
+
+
+
+
+d
+Ca++
+ 25.8
+ 30.2
+ -
+ -
+C
+e
+
+
+
+
+
+a
+
+Mg++
+ 3.4
+ 4.0
+ -
+ -
+t
+c
+
+
+
+
+
+i
+a
+K+
+ 0.6
+ 0.9
+ 1.1
+ 1.2
+o
+m
+
+
+
+
+
+n
+b
+Na+
+ 0.7
+ 2.4
+ 3.5
+ 4.0
+e
+i
+
+
+
+
+
+s
+o
+H+
+ 5.5
+ 3.2
+ -
+ -
+
+% Na/T
+
+
+
+ 2.0
+
+ 6.0
+
+ 8.3
+
+ 10.0
+Equivalente de humedad (%)
+ 38.7
+ 44.8
+ 50.5
+ 53.5
+

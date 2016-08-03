@@ -1,0 +1,371 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: An8
+Capacidad de uso: VIes
+Indice de productividad: 31
+Descripcion: Complejo de suelos
+Series: ANCHORENA  | INGENIERO FOSTER
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: An9
+Capacidad de uso: VIes
+Indice de productividad: 25
+Descripcion: Complejo de suelos
+Series: ANCHORENA | suelos arenosos sin edafizar
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BE
+Capacidad de uso: VIes
+Indice de productividad: 30
+Descripcion: Consociación de suelos
+Series: BUENA ESPERANZA llana
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BE1
+Capacidad de uso: VIes
+Indice de productividad:30
+Descripcion: Consociación de suelos
+Series: BUENA ESPERANZA
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BE2
+Capacidad de uso:VIes
+Indice de productividad: 28
+Descripcion: Asociación de suelos
+Series: BUENA ESPERANZA | BUENA ESPERANZA llana | relictos medanosos antiguos
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BE4
+Capacidad de uso: VIIws
+Indice de productividad: 21
+Descripcion: Consociación de suelos
+Series: BUENA ESPERANZA
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BE5
+Capacidad de uso: VIIes
+Indice de productividad: 24
+Descripcion: Asociación de suelos
+Series: BUENA ESPERANZA | médanos activos
+Porcentajes: 75 | 25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: BE6
+Capacidad de uso: VIIes
+Indice de productividad: 15
+Descripcion: Asociación de suelos
+Series: BUENA ESPERANZA | médanos activos
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co5
+Capacidad de uso: VIIws
+Indice de productividad: 10
+Descripcion: Complejo indeterminado de suelos salinos sódicos
+Series: aureolas de lagunas y terrazas del arroyo Quetru Leuvú
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ESm1
+Capacidad de uso: IIIsc
+Indice de productividad: 48
+Descripcion: Complejo de suelos
+Series: EL SARMIENTO | HUINCA RENANCÓ | suelos ligeramente salinos
+Porcentajes: 60 | 25 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo E23/1
+Capacidad de uso: IIIes
+Indice de productividad: 52
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | HUINCA RENANCÓ
+Porcentajes: 90 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/2
+Capacidad de uso: IIIes
+Indice de productividad: 48
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | HUINCA RENANCÓ
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/5
+Capacidad de uso: IVes
+Indice de productividad: 40
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | HUINCA RENANCÓ
+Porcentajes: 40 | 60
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/3
+Capacidad de uso: IIIes
+Indice de productividad: 51
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | La Renancó
+Porcentajes: 90 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/6
+Capacidad de uso: IIIes
+Indice de productividad: 47
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | ITALO | PINCEN
+Porcentajes: 55 | 30 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/7
+Capacidad de uso: IVes
+Indice de productividad: 33
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | PINCEN | HUINCA RENANCÓ
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/8
+Capacidad de uso: IIIes
+Indice de productividad: 47
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | PINCEN | SAN CARLOS
+Porcentajes: 80 | 10 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: E23/9
+Capacidad de uso: IVsc
+Indice de productividad: 45
+Descripcion: Complejo de suelos
+Series: EL VEINTITRÉS | ALFALEGRE
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EYr
+Capacidad de uso: IIIes
+Indice de productividad: 49
+Descripcion: Consociación de suelos
+Series: EL YARARA
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EYr2
+Capacidad de uso: IVes
+Indice de productividad: 45
+Descripcion: Complejo de suelos
+Series: EL YARARA | HUINCA RENANCÓ
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EYr3
+Capacidad de uso: IVes
+Indice de productividad: 41
+Descripcion: Complejo de suelos
+Series: EL YARARA | HUINCA RENANCÓ
+Porcentajes: 50 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR
+Capacidad de uso: VIes
+Indice de productividad: 32
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | suelos arenosos poco diferenciados (A-C)
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR1
+Capacidad de uso: VIIes
+Indice de productividad: 12
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | suelos arenosos poco diferenciados | relictos medanosos
+Porcentajes: 25 | 25 | 50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR6
+Capacidad de uso: VIes
+Indice de productividad: 26
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | relictos medanosos
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR12
+Capacidad de uso: VIes
+Indice de productividad: 33
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | HUINCA RENANCÓ en fase severamente erosionada | HUINCA RENANCÓ en fase acumulada
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR2
+Capacidad de uso: IVes
+Indice de productividad: 33
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | SAN CARLOS | PINCEN
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR3
+Capacidad de uso: IVes
+Indice de productividad: 29
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | ITALO | PINCEN
+Porcentajes: 55 | 30 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR4
+Capacidad de uso: IVsc
+Indice de productividad: 30
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | EL VEINTITRÉS | PINCEN | SAN CARLOS
+Porcentajes: 40 | 30 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR5
+Capacidad de uso: VIes
+Indice de productividad: 20
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | PINCEN | suelos arenosos poco diferenciados
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR7
+Capacidad de uso: IVsc
+Indice de productividad: 36
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | ITALO
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR8
+Capacidad de uso: VIes
+Indice de productividad: 32
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | EL VEINTITRÉS | suelos arenosos poco diferenciados
+Porcentajes: 20 | 20 | 60
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR10
+Capacidad de uso: VIes
+Indice de productividad: 31
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | EL YARARA | suelos arenosos poco diferenciados y relictos medanosos
+Porcentajes: 40 | 20 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR13
+Capacidad de uso: IVes
+Indice de productividad: 37
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | EL YARARA
+Porcentajes: 80 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR14
+Capacidad de uso: VIes
+Indice de productividad: 32
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | EL YARARA | suelos arenosos poco diferenciados
+Porcentajes: 30 | 30 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR9
+Capacidad de uso: VIes
+Indice de productividad: 32
+Descripcion: Complejo de suelos
+Series: HUINCA RENANCÓ | LOS PORTEÑOS | La Renancó | suelos arenosos poco diferenciados y relictos medanosos
+Porcentajes: 50 | 20 | 10 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: HR11
+Capacidad de uso: IVes
+Indice de productividad: 34
+Descripcion: Consociación de suelo
+Series: HUINCA RENANCÓ
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LIt
+Capacidad de uso: IIIc
+Indice de productividad:57
+Descripcion: Consociación de suelo
+Series: LAS ISLETAS
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LPñ
+Capacidad de uso: VIes
+Indice de productividad: 34
+Descripcion: Complejo de suelos
+Series: LOS PORTEÑOS | EL VEINTITRÉS | suelos arenosos poco diferenciados
+Porcentajes: 30 | 30 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LRc
+Capacidad de uso: IVws
+Indice de productividad: 45
+Descripcion: Complejo de suelos
+Series: LA RENANCÓ | EL VEINTITRÉS | ELVEINTITRÉS en fase salina en profundidad
+Porcentajes: 20 | 60 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LRc2
+Capacidad de uso: VIIws
+Indice de productividad: 14
+Descripcion: Complejo de suelos
+Series: LA RENANCÓ | suelos aluviales salino alcalinos
+Porcentajes:  FALTA! | FALTA!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LRc3
+Capacidad de uso: VIws
+Indice de productividad: 26
+Descripcion: Complejo de suelos
+Series: LA RENANCÓ | EL VEINTITRÉS en fase moderadamente alcalina en profundidad
+Porcentajes:  70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LRc5
+Capacidad de uso: VIws
+Indice de productividad: 25
+Descripcion: Complejo de suelos
+Series: LA RENANCÓ | HUINCA RENANCÓ en fase moderadamente alcalina
+Porcentajes: 40 | 60
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Pn
+Capacidad de uso: IVws
+Indice de productividad: 34
+Descripcion: Complejo de suelos
+Series: PINCEN | EL VEINTITRÉS | EL VEINTITRÉS en fase moderadamente alcalina
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: RV1
+Capacidad de uso: VIIws
+Indice de productividad: 16
+Descripcion: Complejo indeterminado de suelos salinos alcalinos
+Series: terrazas intermedias del Río Popopis
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: RV2
+Capacidad de uso: VIII
+Indice de productividad: 5
+Descripcion: Complejo indeterminado de suelos salinos alcalinos
+Series: terrazas bajas inundables del Río Popopis
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: VHd
+Capacidad de uso: IIIsc
+Indice de productividad: 57
+Descripcion: Consociación de suelo
+Series: VILLA HUIDOBRO
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: VHd4
+Capacidad de uso: IIIc
+Indice de productividad: 57
+Descripcion: Complejo de suelos
+Series: VILLA HUIDOBRO | LAS ISLETAS | EL VEINTITRÉS
+Porcentajes: 50 | 20 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: VHd5
+Capacidad de uso: IIIc
+Indice de productividad: 50
+Descripcion: Complejo de suelos
+Series: VILLA HUIDOBRO | LAS ISLETAS | EL VEINTITRÉS
+Porcentajes: 50 | 20 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: VHd6
+Capacidad de uso: IVes
+Indice de productividad: 44
+Descripcion: Complejo de suelos
+Series: VILLA HUIDOBRO | EL VEINTITRÉS | HUINCA RENANCÓ
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: VHd7
+Capacidad de uso: IVsc
+Indice de productividad: 43
+Descripcion: Complejo de suelos
+Series: VILLA HUIDOBRO | VILLA HUIDOBRO en fase sódica en profundidad 30%; EL VEINTITRÉS 20% y suelos salinos sódicos subsuperficialmente
+Porcentajes: 30 | 30 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Me
+Capacidad de uso: VIII
+Indice de productividad: 8
+Descripcion: Médanos
+Series: Médanos
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: L
+Capacidad de uso: VIII
+Indice de productividad: 1
+Descripcion: Lagunas
+Series: Lagunas
+Porcentajes: 100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: L+Bñ
+Capacidad de uso: VIII
+Indice de productividad: 5
+Descripcion: Lagunas + bañados
+Series: Lagunas y banados
+Porcentajes: 100

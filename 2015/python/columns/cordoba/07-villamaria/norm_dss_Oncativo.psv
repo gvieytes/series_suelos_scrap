@@ -1,0 +1,40 @@
+dss_Oncativo.psv ->> ID..........................: 725
+dss_Oncativo.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_Oncativo.psv ->> SERIE.......................: ONCATIVO (Onctv)
+dss_Oncativo.psv ->> UBICACION...................: 6,4 km al SO de la localidad homónima, departamento Río Segundo
+dss_Oncativo.psv ->> PROVINCIA...................: CORDOBA
+dss_Oncativo.psv ->> LATITUD.....................: S315655
+dss_Oncativo.psv ->> LONGITUD....................: O634430
+dss_Oncativo.psv ->> ALTITUD.....................: 286
+dss_Oncativo.psv ->> PENDIENTE...................: FALTA!
+dss_Oncativo.psv ->> DRENAJE.....................: FALTA!
+dss_Oncativo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_Oncativo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_Oncativo.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA, MIXTA, TÉRMICA
+dss_Oncativo.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_Oncativo.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | ck
+dss_Oncativo.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-53 | 53a+
+dss_Oncativo.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.9 | 0.96 | 0.40
+dss_Oncativo.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.10 | 0.56 | 0.23
+dss_Oncativo.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.12 | 0.09 | 
+dss_Oncativo.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.0 | 6.2 | 
+dss_Oncativo.psv ->> HORIZONTE->ARCILLA 2 (%)....: 16.7 | 12.2 | 10.2
+dss_Oncativo.psv ->> HORIZONTE->LIMO 2-50 (%)....: 68.7 | 71.1 | 71.9
+dss_Oncativo.psv ->> HORIZONTE->AMF 50-100 (%)...: 15.4 | 15.0 | 15.0
+dss_Oncativo.psv ->> HORIZONTE->AF 100-250 (%)...: 0.8 | 1.0 | 0.6
+dss_Oncativo.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1 | 0.05 | 0.05
+dss_Oncativo.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.2 | 0.05 | 0.1
+dss_Oncativo.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | 
+dss_Oncativo.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 4.69
+dss_Oncativo.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 21.1 | 19.9 | 19.6
+dss_Oncativo.psv ->> HORIZONTE->PH PASTA.........: 6.2 | 7 | 8.2
+dss_Oncativo.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.4 | 7.1 | 8.3
+dss_Oncativo.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 9.2 | 10.4 | 
+dss_Oncativo.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.1 | 1.5 | 
+dss_Oncativo.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.09 | 0.4
+dss_Oncativo.psv ->> HORIZONTE->CI ME/100G-K +...: 2.8 | 1.7 | 0.7
+dss_Oncativo.psv ->> HORIZONTE->CI ME/100G-H +...: 1.5 | 0.5 | 
+dss_Oncativo.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | 
+dss_Oncativo.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.9 | 13.6 | 
+dss_Oncativo.psv ->> HORIZONTE->CIC ME/100G(T)...: 15.6 | 14.2 | 13.7
+dss_Oncativo.psv ->> HORIZONTE->SAT.B % (S/T)....: 89 | 96 | 

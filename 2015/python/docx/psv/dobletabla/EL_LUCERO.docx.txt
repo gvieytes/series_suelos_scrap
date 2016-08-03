@@ -1,0 +1,310 @@
+
+--------------------------------------------------------------------------------
+SERIE EL LUCERO Símbolo: ELu
+
+
+Pertenece a la familia "franca gruesa, silícea, térmica" de los Hapludoles ácuicos.
+
+Suelos desarrollados a partir de materiales arcillo arenosos.
+
+La vegetación característica es de pajonales.
+
+
+Perfil tipo: 6C INTA Castelar
+Fecha: II-1986
+Ubicación: 1,2 km al SO de El Empalme (Hoja IGM 3360-30-3) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez; R.F. Ferrao
+
+
+A: 0-11 cm; gris muy oscuro (10YR 3/1) en húmedo, gris (10YR 5/1) en seco; franco arcilloso; migajosa; friable, ligeramente plástico, ligeramente adhesivo; límite inferior abrupto, suave.
+
+I: 11-30 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco arcillo limoso; migajosa; ligeramente plástico, ligeramente adhesivo; límite inferior claro, suave.
+
+II: 30-61 cm; pardo pálido (10YR 6/3) en húmedo; pardo muy pálido (10YR 8/3) en seco; franco arenoso; masivo; friable, no plástico, no adhesivo; moteados comunes, precisos y medios; límite inferior claro, suave.
+
+III: 61-150 cm; pardo amarillento (10YR 5/4) en húmedo; pardo muy pálido (10YR 5/4) en seco; franco arenoso; masivo; friable, no plástico, no adhesivo; moteados abundantes, sobresalientes y gruesos.
+
+
+
+
+
+
+
+
+
+
+
+ Serie El Lucero
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Mal drenado. Escurrimiento superficial nulo. Permeabilidad muy lenta.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Lucero
+
+6C INTA Castelar
+N° de registro
+ 30551
+ 30552
+ 30553
+ 30554
+Horizonte
+ A
+ I
+ II
+ III
+Profundidad (cm)
+ 1-10
+ 15-29
+ 35-60
+ 65-140
+Mat. orgánica (%)
+ 14.64
+ 2.99
+ 0.17
+ 0.07
+C (%)
+ 8.46
+ 1.73
+ 0.10
+ 0.04
+N (%)
+ 0.801
+ 0.265
+ -
+ -
+C/N
+ 10.6
+ 6.5
+ -
+ -
+
+T <2 u
+
+ 28.9
+
+ 29.8
+
+ 5.7
+
+ 5.9
+E 2-20 u
+ 24.0
+ 27.0
+ 4.8
+ 3.8
+X 2-50 u
+ 44.0
+ 52.0
+ 23.3
+ 22.3
+T 50-74 u
+ 9.6
+ 12.3
+ 46.9
+ 46.7
+U 74-100 u
+ 16.9
+ 5.2
+ 22.6
+ 23.2
+R 100-250 u
+ 0.6
+ 0.7
+ 1.5
+ 1.9
+A 250-500 u
+ -
+ -
+ -
+ -
+Gravilla (> 2) Tosca Ca %
+ -
+ -
+ -
+ -
+CO3Ca (%) V
+ -
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 43.8
+ 30.4
+ 6.7
+ 6.3
+Resistencia de la pasta (Ohms/cm)
+ 2054
+ 1467
+ 1174
+ 7.83
+pH en pasta
+ 4.9
+ 5.3
+ 6.3
+ 6.6
+pH en agua (1:2,5)
+ 5.3
+ 5.7
+ 6.5
+ 7.0
+pH en 1 N KCl (1:2,5)
+ 4.4
+ 4.7
+ 6.0
+ 6.0
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -3.4
+
+ Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 15.2
+ 11.7
+ 2.2
+ 3.1
+
+Mg++
+ 5.5
+ 5.4
+ 1.6
+ 1.8
+
+Na[+]
+ 1.4
+ 1.9
+ 1.2
+ 0.5
+
+K[+]
+ 0.6
+ 0.3
+ 0.1
+ 0.1
+% Na+ en cambio de v. T
+ 4.2
+ 8
+ 25
+ 10
+% de agua de saturación
+ 96
+ 56
+ 41
+ 37
+Valor S (m.e./100 g)
+ 22.7
+ 19.3
+ 5.1
+ 5.5
+H de cambio (m.e./100 g)
+ 15.7
+ 9.3
+ 2.4
+ 2.4
+Valor T (m.e./100) NH4++ o Na+
+ 33.3
+ 22.2
+ 4.8
+ 5.0
+% de saturación de T
+ 68
+ 87
+ 100
+ 100
+% de saturación de S + H
+ 59
+ 67
+ 52
+ 70
+Fósforo asimilable (ppm)
+ 6.5
+ 0.7
+ 3.7
+ 3.0
+Factor de humedad
+ 1.06
+ 1.03
+ 1.00
+ 1.01
+
+
+Perfil Nº 6C INTA Castelar
+ 3
+Nº Laboratorio
+ 30554
+Profundidad (cm)
+ 65-140
+Factor de humedad
+ -
+Ca CO3 (%)
+ -
+Resistencia de la pasta
+ -
+pH en pasta
+ -
+pH en H2O (1 : 2.5)
+ -
+ Extracto de suelo saturado
+ Cationes m.e./I
+pH
+ 6.7
+
+
+Conductividad (mmhos/cm)
+ 3.4
+
+
+Ca++
+ 12.0
+
+
+Mg++
+ 10.0
+
+
+Na +
+ 27.2
+
+
+K +
+ 0.2
+
+ Aniones m.e./i
+CO-3
+ -
+
+
+HCO-3
+ 3.0
+
+
+SO4++
+ 1.4
+
+
+Cl -
+ 46.0
+Valor T (m.e./1) Na
+ -
+Sodio en cambio (m.e./1)
+ -
+Sodio cambiable (%)
+ -
+

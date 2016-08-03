@@ -1,0 +1,40 @@
+dss_ElSauce.psv ->> ID..........................: 708
+dss_ElSauce.psv ->> CLASIFICACION...............: Albacualf típico
+dss_ElSauce.psv ->> SERIE.......................: EL SAUCE (Sau)
+dss_ElSauce.psv ->> UBICACION...................: 6 km al Sur de Oliva
+dss_ElSauce.psv ->> PROVINCIA...................: CORDOBA
+dss_ElSauce.psv ->> LATITUD.....................: S320500
+dss_ElSauce.psv ->> LONGITUD....................: O633200
+dss_ElSauce.psv ->> ALTITUD.....................: 255
+dss_ElSauce.psv ->> PENDIENTE...................: FALTA!
+dss_ElSauce.psv ->> DRENAJE.....................: FALTA!
+dss_ElSauce.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ElSauce.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ElSauce.psv ->> TIPO DE SUELO...............: LIMOSA FINA A GRUESA, MIXTA, TÉRMICA
+dss_ElSauce.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_ElSauce.psv ->> HORIZONTE->NOMBRE(S)........: e1 | e2 | bt1 | bt2k | bck | ck
+dss_ElSauce.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-12 | 12-29 | 29-55 | 55-75 | 75-100 | 100a+
+dss_ElSauce.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.5 | 2 | 0.8 | 0.35 | - | 
+dss_ElSauce.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.5 | 1.2 | 0.5 | 0.2 | - | 
+dss_ElSauce.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.15 | 0.13 | 0.07 | - | - | 
+dss_ElSauce.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.0 | 9.2 | 7.1 | - | - | 
+dss_ElSauce.psv ->> HORIZONTE->ARCILLA 2 (%)....: 16.3 | 14.4 | 18.8 | 18.1 | 17.1 | 15.6
+dss_ElSauce.psv ->> HORIZONTE->LIMO 2-50 (%)....: 73.1 | 74.6 | 60.9 | 69.4 | 71.3 | 70.6
+dss_ElSauce.psv ->> HORIZONTE->AMF 50-100 (%)...: 7.9 | 7.6 | 20.5 | 10.7 | 11.3 | 11.3
+dss_ElSauce.psv ->> HORIZONTE->AF 100-250 (%)...: 0.7 | 1.4 | 0.7 | 1.0 | 1.2 | 1.2
+dss_ElSauce.psv ->> HORIZONTE->AM 250-500 (%)...: 0.2 | 0.2 | - | 0.1 | 0.1 | 0.1
+dss_ElSauce.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.2 | 0.2 | - | 0.1 | 0.1 | 0.1
+dss_ElSauce.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | - | 
+dss_ElSauce.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0.8 | 7.9 | 6.5 | 5.1
+dss_ElSauce.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24.0 | 22.8 | 27.0 | 23.3 | 22.3 | 20.5
+dss_ElSauce.psv ->> HORIZONTE->PH PASTA.........: 6.4 | 6.6 | 7.4 | 7.8 | 8.0 | 8.1
+dss_ElSauce.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.7 | 6.9 | 7.7 | 8.1 | 8.3 | 8.4
+dss_ElSauce.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13.9 | 11.9 | - | - | - | 
+dss_ElSauce.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.5 | 0.7 | - | - | - | 
+dss_ElSauce.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 0.2 | 0.2 | 0.3 | 0.5 | 0.7
+dss_ElSauce.psv ->> HORIZONTE->CI ME/100G-K +...: 2.9 | 2.6 | 3.4 | 3.0 | 3.2 | 3.4
+dss_ElSauce.psv ->> HORIZONTE->CI ME/100G-H +...: 1.3 | 0.8 | - | - | - | 
+dss_ElSauce.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.1 | 1.2 | 0.9 | 1.7 | 3.0 | 4.5
+dss_ElSauce.psv ->> HORIZONTE->SUM.B. ME/100G(S): 17.7 | 15.4 | - | - | - | 
+dss_ElSauce.psv ->> HORIZONTE->CIC ME/100G(T)...: 18.8 | 16.4 | 22.9 | 17.2 | 16.7 | 15.7
+dss_ElSauce.psv ->> HORIZONTE->SAT.B % (S/T)....: 94 | 94 | - | - | - | 

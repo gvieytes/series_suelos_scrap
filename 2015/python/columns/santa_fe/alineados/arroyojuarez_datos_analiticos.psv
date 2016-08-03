@@ -1,0 +1,45 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a     | btg1  | btg2
+HORIZONTE->Profundidad muestra: 0     | 20    | 40
+HORIZONTE->Mat. orgánica: 1.29  | 0.57  | 0.40
+HORIZONTE->C orgánico: 0.75  | 0.33  | 0.23
+HORIZONTE->N total: 0.084 | 0.054 | 0.034
+HORIZONTE->Relación C/N: 9     | 6     | 7
+HORIZONTE->Arcilla < 2µ: 25.3  | 59.0  | 35.7
+HORIZONTE->Limo 2-50µ: 63.1  | 34.0  | 54.3
+HORIZONTE->TOTAL: 99.5  | 98.2  | 98.5
+HORIZONTE->Limo 2-20µ: ---   | ---   | ---
+HORIZONTE->Muy fina 50-100µ: 10.5  | 4.8   | 8.0
+HORIZONTE->Fina 100-250µ: 0.6   | 0.4   | 0.5
+HORIZONTE->Media 250-500µ: 0.0   | 0.0   | 0.0
+HORIZONTE->Gruesa 500-1000µ: 0.0   | 0.0   | 0.0
+HORIZONTE->Muy gruesa 1-2mm: 0.0   | 0.0   | 0.0
+HORIZONTE->Calcáreo, CaCO3: 0.5   | 1.8   | 1.5
+HORIZONTE->Equiv.humedad: 45.5  | 86.8  | 67.7
+HORIZONTE->Resist.pasta: ---   | ---   | ---
+HORIZONTE->pH pasta (1:1): 8.9   | 9.0   | 8.2
+HORIZONTE->pH agua (1:2,5): 9.5   | 9.4   | 9.1
+HORIZONTE->pH 1N ClK (1:2,5): ---   | ---   | ---
+HORIZONTE->Ca++ intercambio: ---   | ---   | ---
+HORIZONTE->Mg++ intercambio: ---   | ---   | ---
+HORIZONTE->Na+ intercambio: 19.3  | 27.4  | 21.0
+HORIZONTE->K+ intercambio: 2.8   | 4.5   | 3.6
+HORIZONTE->H+ intercambio: ---   | ---   | ---
+HORIZONTE->(Na+/T): 58.8  | 52.3  | 45.2
+HORIZONTE->C.I.C., (T): 32.8  | 52.4  | 46.5
+HORIZONTE->Suma bases (S): ---   | ---   | ---
+HORIZONTE->Sat.bases, (S/T): ---   | ---   | ---

@@ -1,0 +1,192 @@
+--------------------------------------------------------------------------------
+SERIE ARANGUREN Símbolo: Arn
+Pertenece a la familia "arcillosa fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados y moderadamente erosionados, con un epipedón muy oscuro, franco-arcillo-limoso y un horizonte argílico pardo oscuro, arcillo-limoso con caras de fricción ("slickensides").
+Tiene concreciones de carbonatos a partir de los 70 cm.
+Suelos desarrollados en materiales limo-loessoides, franco-arcillo-limosos.
+Perfil tipo: ER7-80C
+Fecha: 28-VI-1989
+Ubicación: Establecimiento "Santa María" (foto H 434-22) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+Ap: 0-18 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, y angulares irregulares medios, débiles a moderados; duro en seco; friable en húmedo; barnices "clay humic skins" y "humic skins", abundantes, medios; moteados de hierro escasos, finos y débiles; límite abrupto, suave.
+B21t: 18-45 cm; pardo grisáceo oscuro (10YR 3/2.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios a débiles que rompen en bloques subangulares y angulares irregulares finos y débiles; duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins", abundantes, medios; caras de fricción ("slickensides") escasos, gruesos, no intersectados; moteados de hierro escasos, precisos, finos; límite gradual, suave.
+B22t: 45-73 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; friable en húmedo; barnices "clay humic skins", escasos y finos, y "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, gruesos, no intersectados; moteados de hierro y manganeso comunes, precisos y medios; ascenso de material inferior por las grietas; límite gradual, suave.
+B3ca: 73-105 cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, moderados; friable en húmedo; barnices "clay skins", abundantes, finos; caras de fricción ("slickensides") fósiles, escasas, gruesas, no intersectadas; moteados de hierro y manganeso comunes, precisos y medios; abundante cantidad de carbonatos libres en la masa en forma de "miscelios"; concreciones calcáreas escasas; límite gradual, suave.
+Cca: + 105 cm; pardo claro (7.5YR 5.5/4) en húmedo; franco-arcillo-limoso; masivo; muy friable en húmedo; abundante cantidad de carbonatos libres en la masa en forma de "miscelios" y concreciones calcáreas escasas, medias, semiduras y blandas.
+Variabilidad de rasgos
+El solum varía entre 90-105 cm. El epipedón consta normalmente de un A1 + B1 (ocasionalmente puede presentarse un horizonte transicional AB, remezclado por la labranza) de 20-25 cm, con un contenido de arcilla que varía entre 30-35%.
+El horizonte argílico, de estructura prismática compuesta que rompe en bloques angulares irregulares y, en algunos casos en bloques cuneiformes, varía en su espesor de los 55 a los 70 cm y es de textura arcillo-limosa. Este horizonte está normalmente mejor expresado en su parte inferior (B22t o B23t), con abundantes caras de fricción ("slickensides") no intersectadas. Cuando seco, el horizonte presenta grietas por donde asciende el material subyacente.
+El calcáreo, en concreciones y libre en la masa, es abundante a partir de los 70 cm de profundidad. El horizonte C, de textura franco-arcillo-limosa, varía en color de pardo a pardo claro (7.5YR 5/4 a 5.5/4.5).
+Fases
+Moderadamente erosionada (símbolo: Arn.h2)
+Series similares y sus diferencias
+La Serie Aranguren se caracteriza por presentar un epipedón corto, textura franco-arcillo-limosa en el horizonte C y arcillo-limosa en el B3 (aprox. 40-42 % de arcilla). Otros Argiudoles vérticos difieren en una o más de estas características.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta a moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie Aranguren está levemente erosionada, siendo moderada su susceptibilidad (principalmente laminar). La fase moderadamente erosionada presenta un horizonte superficial que no supera los 18 cm debido a la erosión laminar y en pequeños surcos. En los aledaños a los arroyos y cañadas, la serie presenta erosión severa en surcos y cárcavas, con un epipedón muy somero (7-10 cm) o con un perfil truncado (horizonte B2t en superficie).
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Aranguren
+ER7-80C
+N° de registro
+ 5.277
+ 5.278
+ 5.279
+ 5.280
+ 5.281
+Horizonte
+ Ap
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 04-16
+ 24-40
+ 50-65
+ 83-97
+ + 140
+Mat.organica (%)
+ 4.47
+ 1.53
+ 1.08
+ 0.38
+ 0.08
+N (%)
+ 0.19
+ 0.10
+ 0.06
+ 0.03
+ 0.02
+C/N
+ 14
+ 9
+ 10
+ 7
+ 2
+T < 2 u
+ 31.60
+ 44.62
+ 50.46
+ 41.51
+ 39.72
+E 2-20. u
+ 29.34
+ 22.40
+ 23.87
+ 23.72
+ 31.55
+X 2-50 u
+ 65.50
+ 52.84
+ 47.05
+ 55.85
+ 58.86
+T 50-100 u
+ 2.74
+ 2.31
+ 2.39
+ 2.53
+ 1.25
+U 100-250 u
+ 0.15
+ 0.12
+ 0.12
+ 0.11
+ 0.12
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.01
+ 0.11
+ 0.02
+ -
+ 0.04
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ 0.4
+ 9.9
+ 12.10
+PH H2O
+ 6.3
+ 7.1
+ 8.1
+ 8.5
+ 8.6
+pH ClK
+ 5.0
+ 5.5
+ 6.3
+ 7.2
+ 7.1
+Capacidad de intercambio
+Catiónico (m.e./100 g) =
+Valor T
+ 34.2
+ 43.5
+ 48.7
+ -
+ -
+D
+Ca++
+ 20.3
+ 22.5
+ 33.6
+ -
+ -
+C
+E
+A
+Mg++
+ 10.1
+ 19.2
+ 12.4
+ -
+ -
+t
+C
+i
+A
+K+
+ 0.75
+ 0.31
+ 0.36
+ 0.21
+ 0.25
+o
+M
+n
+B
+Na+
+ 0.38
+ 0.52
+ 0.51
+ 0.38
+ 0.25
+e
+I
+s
+O
+H+
+ 1.5
+ 0.9
+ 0.9
+ -
+ -
+Equivalente de humedad (%)
+ 28.60
+ 42.72
+ 37.82
+ 33.13
+ 34.02

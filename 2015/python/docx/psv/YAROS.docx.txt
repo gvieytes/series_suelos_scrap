@@ -1,0 +1,264 @@
+
+--------------------------------------------------------------------------------
+SERIE YAROS						 	 Símbolo: Ya
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiacuólicos (Vertisol hidromórfico sin gilgai, con epipedón mólico y horizonte B2 textural).
+
+Son suelos oscuros, profundos, mal drenados y presentan un epipedón corto, lixiviado, franco-arcillo- limoso y no tienen gilgai pero sí movimientos en masa (churning).
+
+El material madre de estos suelos lo constituyen sedimentos de limos calcáreos con abundantes concreciones (Form. "Hernandarias").
+
+
+Perfil tipo: ER2-84C
+Fecha: 24-VIII-83
+Ubicación: Ea. El Redomón (foto IR 173-25) - Dpto. Concordia.
+Reconocedores: C.J. Vesco; H.A. Tasi; R.E. Kleinerman
+
+
+A1: 00-14 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; pardo grisáceo oscuro (10YR 4/2) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic-skins") escasos, finos; moteados de hierro comunes, precisos y finos; concreciones de hierro-manganeso escasas, finas; límite abrupto, suave.
+
+B21t: 14-47 cm; gris muy oscuro (10YR 3/1.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y bloques angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay-humic-skins") escasos, finos; caras de fricción (`slickensides') comunes, intersectadas; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso escasas, finas; límite claro, suave.
+
+B22t: 47-71 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y bloques cuneiformes, medios, moderados; firme en húmedo; barnices ("clay-humic-skins") escasos, finos; caras de fricción (`slickensides') comunes, intersectadas; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso comunes, finas; límite claro, suave.
+
+B3ca: 71-105 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios, moderados; firme en húmedo; caras de fricción (`slickensides') comunes; moteados de hierro-manganeso abundantes, precisos y finos; concreciones de hierro-manganeso escasas, finas; concreciones calcáreas comunes; algunos cantos rodados finos; límite difuso, suave.
+
+Cca: 105 cm +; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura masiva; friable en húmedo; moteados de hierro-manganeso abundantes, precisos y finos; concreciones de hierro-manganeso comunes; concreciones calcáreas abundantes.
+
+
+
+
+
+Variabilidad de rasgos
+
+Presenta un epipedón franco-arcillo-limoso, bien estructurado, con espesores que varían entre 12-20 cm, pudiéndose encontrar alguno más profundo.
+
+Por debajo se encuentra un horizonte B2t poco permeable y penetrable por las raíces. Tiene estructura prismática y caras de fricción ("slickensides") normalmente intersectadas; es también común observar estructuras en bloques cuneiformes. Es común la presencia de moteados y concreciones de hierro-manganeso, indicando claramente el hidromorfismo de estos suelos. El espesor de este horizonte oscila entre los 50-60 cm.
+
+El horizonte B3 es de color pardo a pardo oscuro, con estructura en bloques y textura-arcillo-limosa; este horizonte tiene concreciones de calcáreo comunes y abundantes moteados.
+
+
+Fases
+
+No presenta a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Serie Yaros se parece a serie General Campos, pero esta tiene un epipedón más profundo y menos lixiviado.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial lento. Permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+No presenta erosión actual. Se encuentran cárcavas, muy típicas, en las cabeceras de los arroyos menores.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Yaros
+
+ER2-84C
+
+
+
+
+
+Nº de registro
+ 3743
+ 3744
+ 3745
+ 3746
+ 3747
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-12
+ 20-40
+ 50-60
+ 80-100
+ 110-130
+Mat.organica (%)
+ 5.14
+ 1.50
+ 1.87
+ 0.83
+ 0.45
+N (%)
+ 0.20
+ 0.09
+ 0.10
+ 0.04
+ 0.10
+C/N
+ 15
+ 10
+ 11
+ 11
+ 9
+
+T <2
+ 25.85
+ 49.50
+ 46.35
+ 47.20
+ 41.70
+E 2-20
+ 35.30
+ 25.90
+ 28.60
+ 29.90
+ 30.30
+X 2-50
+ 71.35
+ 48.50
+ 51.66
+ 51.80
+ 56.90
+T 50-100
+ 0.63
+ 0.44
+ 0.51
+ 0.33
+ 0.26
+U 100-250
+ 2.13
+ 1.53
+ 1.46
+ 1.10
+ 0.00
+R 250-500
+ 0.04
+ 0.03
+ 0.02
+ 0.05
+ 0.05
+A 500-1000
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 3.7
+ 5.1
+pH H2O
+ 5.5
+ 6.2
+ 6.6
+ 7.4
+ 7.5
+pH ClK
+ 4.6
+ 5.4
+ 5.7
+ 6.8
+ 6.9
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 29.70
+ 45.30
+ 46.40
+ 0.00
+ 0.00
+
+D
+Ca++
+ 27.74
+ 39.80
+ 41.20
+ 0.00
+ 0.00
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 3.90
+ 2.00
+ 3.40
+ 0.00
+ 0.00
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.40
+ 0.60
+ 0.60
+ 0.16
+ 0.16
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.24
+ 0.20
+ 0.16
+ 0.80
+ 0.60
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+
+Equivalente de humedad (%)
+ 22.73
+ 30.45
+ 30.93
+ 27.70
+ 26.15
+P asimilable (ppm)
+ 5.00
+ 4.00
+ 3.00
+ 3.00
+ 2.00
+

@@ -1,0 +1,281 @@
+
+--------------------------------------------------------------------------------
+SERIE URQUIZA Símbolo: Urq
+
+
+Pertenece a la familia "fina, montmorillonítica, neutra, térmica" de los Peludertes argiacuólicos.
+Son suelos profundos, con perfiles uniformes arcillosos aún desde superficie.
+
+Muestra gilgai lineal muy poco visible en el terreno y tenue en la fotografía aérea. De color negro desde superficie y chorreaduras rellenas de material superior, hasta el metro de profundidad.
+
+En el horizonte C se pueden observar algunas gravillas.
+
+
+Perfil tipo: ER7-146C
+Fecha: 08-V-2003.
+Ubicación: Colonia El Sauce, sobre ruta nacional Nº 14 (foto IR120-14) - Dpto. Uruguay.
+Reconocedores: H.A.Tasi; L.O. López
+
+
+A1: 00-20 cm. Negro (10 YR 2/1) en húmedo y negro también (10 YR 2/1) en seco; arcilloso; bloques subangulares finos, moderados; duro a muy duro en seco, muy firme en húmedo, muy plástico y adhesivo; abundantes raíces; pH 6,5; límite claro suave.
+
+B21: 20-60 cm. Negro (10 YR 2/1) en húmedo y negro también (10 YR 2/1) en seco; arcilloso, bloques angulares, medios y finos; fuerte; con caras de fricción (slickensides), pequeños, comunes; duro, muy firme, muy plástico y adhesivo, algunos cutanes; raíces comunes; pH 7,0; límite gradual suave.
+
+B22: 60-95 cm. Negro (10 YR 2/1) en húmedo y gris muy oscuro (10 YR 3/1) en seco; arcilloso; bloques angulares medios rompiéndose a finos; fuerte, con muchas caras de fricción (slickensides) y paralelepípedos; muchos cutans o caras de presión; concreciones de Ca escasas, finas y medianas; carbonato en la masa; raíces comunes a escasas y finas; pH 7,9; límite gradual suave.
+
+C: 95-145 cm. Pardo (10 YR 5/3); arcilloso; moteados comunes pardos, oscuros medios; bloques angulares medios a gruesos, fuertes, con algunas caras de fricción (slickensides) y caras de presión; concreciones de Ca pequeñas y muy grandes, comunes; la masa del suelo reacciona ampliamente con el ácido; pocas raíces; algo de material negro de arriba traído a lo largo de las grietas y canales de raíces; pH 8,0.
+
+
+Variabilidad de rasgos
+
+El sólum varía entre 50-100 cm de espesor. El epipedón está compuesto por un horizonte A11+A12, generalmente profundo (+ de 25 cm). Es de color oscuro y su textura es de franco-arcillo-limoso a arcillo-limoso.
+
+El horizonte argílico es de estructura prismática. Las características vérticas están mejor expresadas en el B22t donde aumenta el porcentaje de arcilla, aunque no se hace notable la presencia del movimiento en masa ("churning").
+Los carbonatos se presentan en concreciones duras a partir de los 90-100 cm. y en la masa a partir de los 50-70 cm.
+La posición fisiográfica de esta serie determina su variabilidad de rasgos, encontrandosé en algunos sectores, perfiles que se los podría considerar como un taxajunto de la misma; peor los fines de la escala de reconocimiento no se han considerado.
+
+
+Fases
+
+De acuerdo a lo expresado en la variabilidad de rasgos se podría crear una fase encharcable en determinados sectores.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Mugherli, a la que a veces está asociada. La serie Mugherli se encuentra en distinta posición en el paisaje, es menos hidromórfica, con gilgai lineal mejor desarrolado y con pendientes entre 2-3%.
+
+
+Drenaje
+
+Moderada a imperfectamente drenado; escurrimiento superficial algo lento. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie puede estar erosionada por sectores en forma de surcos y pequeñas cárcavas, donde la pendiente se acentúa.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Urquiza
+
+ER7-146C
+
+
+
+
+Horizonte
+ A1
+ B21
+ B22
+ C
+Profundidad (cm)
+ 0-20
+ 20-60
+ 60-95
+ 95-135
+Mat.organica (%)
+ 5,22
+ 2,83
+ 1,54
+ 0,34
+C (%)
+ 3,04
+ 1,65
+ 0,98
+ 0,20
+N (%)
+ 0,247
+ 0,103
+ 0,060
+
+C/N
+ 12
+ 16
+ 16
+
+
+T <2
+
+ 46,2
+
+ 42,9
+
+ 41,6
+
+ 47,6
+E 2-20
+ 24,9
+ 30,3
+ 33,4
+ 36,8
+X 2-50
+ 43,1
+ 45,9
+ 45,2
+ 47,8
+T 50-100
+ 5,5
+ 4,3
+ 2,1
+ 1,0
+U 100-500
+ 4,1
+ 3,1
+ 1,5
+ 1,1
+R 500-1000
+ 1,1
+ 1,5
+ 0,6
+ 1,0
+A 1000-2000
+ 0
+ 0
+ 0
+ 0
+CO3Ca (%)
+ 0
+ 2,3
+ 9,0
+ 1,5
+pH H2O
+ 7,4
+ 8,5
+ 8,9
+ 8,9
+pH ClK
+ 6,1
+ 6,9
+ 7,1
+ 7,0
+Resistencia de la pasta (Ohms/cm)
+Ohms
+
+ 1006
+
+ 975
+
+ 912
+
+ 787
+Conductividad eléctrica mmhos/cm
+
+ 0,89
+
+ 0,56
+
+ 0,50
+
+ 0,72
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+
+ 46,2
+
+
+ 53,8
+
+
+ 48,4
+
+
+ 54,8
+
+D
+Ca++
+ 38,6
+
+
+
+C
+E
+
+
+
+
+
+a
+
+Mg++
+ 5,9
+
+
+
+t
+C
+
+
+
+
+
+i
+A
+K+
+ 0,8
+ 0,6
+ 0,3
+ 0,4
+o
+m
+
+
+
+
+
+n
+B
+Na+
+ 0,7
+ 1,3
+ 2,5
+ 2,6
+e
+I
+
+
+
+
+
+s
+O
+H+
+
+
+
+
+% Na/T
+ 0.02
+ 0.02
+ 0.05
+ 0.05
+Equivalente de humedad (%)
+
+ 39,8
+
+ 49,4
+
+ 61,7
+
+ 73,1
+Factor de Humedad
+
+ 1,09
+
+ 1,12
+
+ 1,12
+
+ 1,14
+
+Fósforo asimilable ppm
+
+ -
+
+ -
+
+ -
+
+ -
+

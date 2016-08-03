@@ -1,0 +1,210 @@
+--------------------------------------------------------------------------------
+SERIE MARIA DOLORES Símbolo: MaDl
+Pertenece a la familia "fina, levemente alcalina, térmica" de los Peludertes árgicos (Vertisol con gilgai y un B2 tetxtural).
+Muestra un microrrelieve gilgai linear moderadamente desarrollado.
+En el bajo del gilgai tiene un epipedón franco-arcillo-limoso y un horizonte B2 argílico arcillo-limoso con concreciones de calcáreo que aparecen entre los 60-70 cm.
+Son suelos profundos, moderadamente erosionados y moderadamente bien drenados, desarrollados en limos calcáreos, arcillo-limosos y levemente alcalinos.
+Perfil tipo: ER7-82C
+Fecha: 28-VI-1989.
+Ubicación: Egido de Gral. Ramírez (foto 436-86) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+Ap: 00-12 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular, medios, débiles; friable en húmedo; barnices "humic skins", escasos, finos; límite claro, suave.
+B21t: 12-42 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, débiles; duro en seco; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, finas, no intersectadas; moteados de hierro y manganeso escasos, finos y débiles; límite claro, ondulado.
+B22t: 42-72 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, débiles; duro en seco; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; moteados de hierro comunes, finos y precisos; ascenso de material por grietas; límite gradual, irregular.
+B23tca: 72-95 cm; pardo (10YR 4/3) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, débiles; duro en seco; friable en húmedo; caras de fricción ("slickensides") abundantes, gruesas y finas, intersectadas; moteados de hierro comunes, finos y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 1 cm, escasas; límite gradual, irregular.
+B3ca: 95-140 cm; pardo fuerte (7.5YR 4/6) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, gruesos, débiles; friable en húmedo; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; moteados de hierro comunes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 1 cm, abundantes; pseudo-gley; límite gradual, suave.
+Cca: 140+ cm; pardo fuerte (7.5YR 5/6) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; moteados de hierro y manganeso, abundantes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 2 cm, abundantes; gley fósil.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por la erosión y el movimiento en masa. La erosión, conjuntamente con la labranza continuada y profunda, ha remezclado en gran parte el epipedón de manera que los valores de textura abarquen un amplio rango en el horizonte Ap (de 30 a 45 % de arcilla), asi como también la variabilidad del espesor (de 7 a 22 cm). Suele poseer concreciones de calcáreo en superficie (calcáreo de "arrastre") y su contenido de materia orgánica oscila entre 3-5 %.
+El horizonte argílico posee entre 45-55 % de arcilla y es muy espeso (de 80-90 cm), con una estructura prismática débil y caras de fricción ("slickensides") a partir del B21t y hasta los 140-150 cm, gruesas pero no intersectadas. A partir del horizonte B23t y parte del B3 se intersectan en abundancia. En el horizonte B23t la separación entre caras de fricción es de 2 cm en planos inclinados 45E a 70E, que constituye una evidencia de la dinámica interna de los perfiles de la serie.
+La parte inferior del horizonte argílico (subhorizontes B22t o B23t, o aún el B3 y el C) pueden presentar características de reducción temporaria (pseudo-gley) a partir de los 70-90 cm.
+Fases
+Moderadamente erosionada (símbolo: MaDl.h2)
+Severamente erosionada (símbolo: MaDl.h3)
+Series similares y sus diferencias
+Se parece a la Serie General Ramírez, pero esta tiene un epipedón más arcilloso y profundo, tiene un microrrelieve gilgai muy poco desarrollado y, la mayoría de las veces, no visible a campo y en las fotografías aéreas, y es más hidromórfica en profundidad; además, está desarrollada en un paisaje distinto (más suavemente ondulada) y menos erosionado.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La Serie María Dolores está moderadamente erosionada (erosión laminar, en surcos y cárcavas) y tiene un moderado a severo peligro de erosión en surcos y cárcavas profundas.
+La fase severamente erosionada posee un epipedón más arcilloso que el modal, con muy baja estabilidad estructural y una erosión actual en surcos y cárcavas pequeñas, muy activas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie María Dolores
+ER7-82C
+N° de registro
+ 5289
+ 5290
+ 5291
+ 5292
+ 5293
+ 5294
+Horizonte
+ AB
+ B21t
+ B22t
+ B23tca
+ B3ca
+ Cca
+Profundidad (cm
+ 00-12
+ 20-40
+ 55-65
+ 78-92
+ 110-130
+ 140+
+Mat.organica (%)
+ 3.99
+ 2.97
+ 1.95
+ 0.68
+ 0.31
+ 0.23
+N (%)
+ 0.18
+ 0.12
+ 0.08
+ 0.04
+ 0.03
+ 0.02
+C/N
+ 13
+ 15
+ 14
+ 9
+ 6
+ 7
+T <2
+ 47.22
+ 41.52
+ 48.77
+ 44.61
+ 49.99
+ 49.74
+E 2-20
+ 25.49
+ 26.27
+ 23.27
+ 21.90
+ 23.22
+ 23.79
+X 2-50
+ 50.60
+ 56.03
+ 49.52
+ 54.23
+ 49.17
+ 49.36
+T 50-100
+ 1.97
+ 2.16
+ 1.54
+ 1.10
+ 0.75
+ 0.83
+U 100-500
+ 0.18
+ 0.28
+ 0.17
+ 0.07
+ 0.08
+ 0.06
+R 500-1000
+ 0.01
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.40
+ -
+ -
+ 10.4-
+ 5.50
+ 4.60
+pH H2O
+ 7.7
+ 7.7
+ 7.7
+ 8.3
+ 8.4
+ 8.2
+pH ClK
+ 6.5
+ 6,3
+ 6.2
+ 7.1
+ 7.0
+ 6.9
+Conductividad eléctrica mmhos/cm
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 33.60
+ 37.90
+ 44.60
+ -
+ -
+ -
+D
+Ca++
+ 25.80
+ 28.90
+ 36.40
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ 3.80
+ 1.40
+ 0.60
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 0.60
+ 1.40
+ 1.80
+ 3.20
+ 2.30
+ 1.30
+O
+M
+N
+B
+Na+
+ 1.40
+ 2.20
+ 1.40
+ 3.30
+ 4.50
+ 4.20
+E
+I
+S
+O
+H+
+ 1.50
+ 1.30
+ 1.30
+ -
+ -
+ -
+% Na/T
+ 4.17
+ 5.80
+ 3.14
+Equivalente de humedad (%)
+ 35.46
+ 38.56
+ 48.72
+ 40.78
+ 40.28
+ 40.36

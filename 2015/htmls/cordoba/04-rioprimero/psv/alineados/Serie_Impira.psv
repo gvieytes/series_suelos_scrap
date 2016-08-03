@@ -1,0 +1,60 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: Ek    | Btnk  | BCk   | Ck
+HORIZONTE->PROFUNDIDADES(CM): 0-21  | 21-59 | 59-92 | 92a+
+HORIZONTE->MATERIA ORGÁN.(%): 2,5   | 0,8   | 0,3   | 0,2
+HORIZONTE->CARBONO ORGÁN.(%): 1,5   | 0,4   | 0,2   | 0,1
+HORIZONTE->NITRÓGENO TOT.(%): 0,17  | 0,05  |       |
+HORIZONTE->RELACIÓN C/N.....: 8,7   | 8,5   |       |
+HORIZONTE->ARCILLA 2 (%)....: 25,1  | 30,7  | 25,5  | 24,1
+HORIZONTE->LIMO 2-50 (%)....: 67,2  | 61,8  | 65,4  | 66,9
+HORIZONTE->AMF 50-100 (%)...: 4,6   | 5,5   | 6,5   | 8,4
+HORIZONTE->AF 100-250 (%)...: 0,8   | 1,1   | 1,0   | 1,0
+HORIZONTE->AM 250-500 (%)...: 0,2   | 0,4   | 0,3   | 0,1
+HORIZONTE->AG 500-1000 (%)..: 0,5   | 0,8   | 0,7   | 0,3
+HORIZONTE->AMG 1-2 mm (%)...:       | 0,2   | 0,3   | 0,2
+HORIZONTE->CALCAREO CaCO3(%): 1,3   | 5,0   | 4,5   | 9,7
+HORIZONTE->EQUIV. HUMEDAD(%): 30,9  | 30,7  | 27,8  | 26,0
+HORIZONTE->PH PASTA.........: 7,6   | 8,8   | 8,8   | 8,8 
+HORIZONTE->PH H2O 1:2,5.....: 8,0   | 9,4   | 9,5   | 9,5
+HORIZONTE->CI ME/100G-Ca ++.:       |       |       |
+HORIZONTE->CI ME/100G-Mg ++.:       |       |       |
+HORIZONTE->CI ME/100G-Na +..:       | 6,8   |       | 
+HORIZONTE->CI ME/100G-K +...:       | 3,3   |       | 
+HORIZONTE->CI ME/100G-H +...:       |       |       |
+HORIZONTE->% Na INTERC.(PSI): 6,0   | 32,0  | 47,0  | 35,0
+HORIZONTE->SUM.B. ME/100G(S):       |       |       |
+HORIZONTE->CIC ME/100G(T)...: 22,2  | 21,0  | 19,0  | 14,5
+HORIZONTE->SAT.B % (S/T)....: 100   | 100   | 100   | 100
+HORIZONTE->CONDUCT mmhos/cm.: 4,51  | 7,51  | 9,82  | 7,20
+HORIZONTE->C.EXT.S ME/1-Ca++: 27,04 | 7,04  | 3,48  | 5,92
+HORIZONTE->C.EXT.S ME/1-Mg++: 9,12  | 0,96  | 4,16  | 2,8
+HORIZONTE->C.EXT.S ME/1-Na+.: 20,80 | 74,40 | 110,0 | 81,20
+HORIZONTE->C.EXT.S ME/1-K+..: 1,20  | 1,00  | 1,20  | 0,80
+HORIZONTE->C.EX.S ME/1-CO3=.:       |       |       |
+HORIZONTE->C.EX.S ME/1-HCO3-: 8,80  | 11,20 | 6,40  | 4,80
+HORIZONTE->C.EXT.S ME/1-SO4=: 47,97 | 54,44 | 85,20 | 64,8
+HORIZONTE->C.EXT.S ME/1-Cl-.: 1,53  | 15,36 | 23,04 | 18,40
+
+
+
+
+
+
+
+
+
+

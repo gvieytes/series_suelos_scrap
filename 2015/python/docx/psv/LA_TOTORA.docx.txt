@@ -1,0 +1,306 @@
+
+--------------------------------------------------------------------------------
+SERIE LA TOTORA Símbolo: LTo
+
+
+Pertenece a la familia "fina, mixta (?), no ácida, térmica" de los Haplacuentes aéricos.
+
+Suelo aluvial, moderadamente salino y sódico. Se ha desarrollado a partir de una sucesión de sedimentos marinos y continentales.
+
+
+Perfil tipo: 351C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: 16 km al sur de la ciudad de Gualeguay (Hoja IGM 3360-23-3) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+Enlame: 0-5 cm; amarillo anaranjado opaco (10YR 7/2) en seco y pardo amarillo grisáceo (10YR 5/2) en húmedo; franco limoso; masivo con tendencia a laminar muy fina; friable; no plástico, no adhesivo; raíces abundantes; límite inferior abrupto suave.
+
+IIC1: 5-35 cm; negro (10YR 1,7/1) en húmedo; arcilloso; estructura en bloques subangulares muy finos y débiles que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; concreciones ferromanganésicas abundantes; concreciones calcáreas comunes; microconcreciones calcáreas comunes; moteados comunes, finos, débiles; raíces comunes; límite inferior claro suave.
+
+IIIC2: 35-57 cm; negro pardusco (10YR 3/2) en húmedo; arcillo limoso; estructura en prismas regulares medios fuertes que rompen en bloques subangulares medios fuertes; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; microconcreciones calcáreas escasas; barnices (clay skins) escasos; moteados abundantes, medios, precisos de color pardo (7,5YR 4/6); raíces escasas; límite inferior gradual suave.
+
+IVC3: 57-98 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; arcilloso; estructura en prismas regulares medios fuertes que rompen en prismas menores; firme; plástico, adhesivo; micro concreciones calcáreas escasas; barnices (clay skins) escasos; moteados abundantes, medios, precisos de color pardo brillante (7,5YR 5/8); límite inferior gradual suave.
+
+IVC4: 98-160 cm; pardo amarillento (2,5Y 5/3) en húmedo; arcillo limoso, estructura en bloques angulares medios débiles que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; microconcreciones calcáreas escasas; moteados comunes, finos, débiles de color pardo brillante (7,5YR 5/8); límite inferior gradual suave.
+
+VC5: 160-180 cm; pardo (7,5YR 4/4) en húmedo; franco arcilloso; estructura en bloques subangulares medios débiles que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; microconcreciones calcáreas abundantes.
+
+
+
+
+
+Variabilidad de rasgos
+
+Este suelo tiene un enlame superficial de 5 cm de espesor, de color pardo amarillo grisáceo, bien provisto de materia orgánica y textura franco limosa. Sigue una sucesión de capas de texturas que oscilan entre arcillosa (IIC1), arcillo limosa y franco arcillosa, con presencia de concreciones y microconcreciones calcáreas, y moteados.
+
+El perfil es moderadamente salino desde la capa IIC1, y con más de 30% de sodio desde la superficie. El PSI (porcentaje de sodio de intercambio) supera el 46%. Este suelo, por alcalinidad sódica se clasifica como A1 33.
+
+
+Fases
+
+No presenta a escala 1:100.000.	
+
+
+Drenaje
+
+Este suelo es de permeabilidad muy lenta y de drenaje pobre.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Totora
+
+351C INTA Castelar
+
+
+
+
+
+
+N° de registro
+
+
+
+
+
+
+Horizonte
+ Enlame
+ IIC1
+ IIIC2
+ IVC3
+ IVC4
+ VC5
+Profundidad (cm)
+ 2-4
+ 10-30
+ 40-55
+ 65-90
+ 120-130
+ 170-180
+Mat. orgánica (%)
+ 3.48
+ 0.64
+ 0.52
+ -
+ -
+ -
+C (%)
+ 2.02
+ 0.37
+ 0.30
+ -
+ -
+ -
+N (%)
+ 0.190
+ 0.061
+ 0.046
+ -
+ -
+ -
+C/N
+ 11
+ 6
+ 7
+ -
+ -
+ -
+
+T <2 u
+
+ 22.1
+
+ 67.6
+
+ 40.4
+
+ 49.0
+
+ 41.7
+
+ 36.9
+E 2-20 u
+ 20.4
+ 20.6
+ 26.5
+ 14.3
+ 20.7
+ 23.1
+X 2-50 u
+ 51.8
+ 27.4
+ 48.3
+ 35.0
+ 44.9
+ 42.8
+T 50-74 u
+ 8.2
+ 1.3
+ 3.7
+ 7.5
+ 4.9
+ 8.7
+U 74-100 u
+ 6.5
+ 0.7
+ 1.7
+ 3.4
+ 2.8
+ 6.4
+R 100-250 u
+ 6.4
+ 1.7
+ 3.9
+ 3.2
+ 3.9
+ 3.7
+A 250-500 u
+ 4.3
+ 1.2
+ 1.7
+ 1.8
+ 1.6
+ 1.4
+ 500-1000 u
+ 0.7
+ -
+ 0.3
+ 0.1
+ 0.2
+ 0.1
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+ vest.
+ 1.0
+ vest.
+ vest.
+ vest.
+ vest.
+Equivalente de humedad (%)
+ 24.7
+ 70.7
+ 50.5
+ 56.0
+ 48.5
+ 41.3
+Resistencia de la pasta (Ohms/cm)
+ 958
+ 430
+ 430
+ 544
+ 698
+ 828
+pH en pasta
+ 7.9
+ 7.9
+ 8.1
+ 8.4
+ 8.2
+ 8.1
+pH en agua (1:2,5)
+ 8.3
+ 8.6
+ 8.8
+ 9.1
+ 9.1
+ 9.2
+pH en KCl (1:2,5)
+ 6.7
+ 7.3
+ 7.2
+ 7.3
+ 7.0
+ 6.8
+Conductividad (mmhos/cm)
+ 3.65
+ 14.31
+ 8.11
+ 4.29
+ 2.35
+ 1.7
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ -
+ -
+ -
+ -
+ -
+ -
+
+Mg++
+ -
+ -
+ -
+ -
+ -
+ -
+
+Na[+]
+ 3.3
+ -
+ -
+ -
+ -
+ -
+
+K[+]
+ 4.9
+ -
+ -
+ -
+ -
+ -
+
+H[+]
+ -
+ -
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ 32
+ -
+ -
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ -
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 15.5
+ -
+ -
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ -
+ -
+ -
+ -
+ -
+ -
+

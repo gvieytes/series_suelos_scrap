@@ -1,0 +1,35 @@
+dss_la_paz.psv ->> ID..........................: 220
+dss_la_paz.psv ->> CLASIFICACION...............: Haplustol udorthéntico paralítico
+dss_la_paz.psv ->> SERIE.......................: LA PAZ (Paz)
+dss_la_paz.psv ->> UBICACION...................: 16 km al Oeste de Jesús María, departamento Colón
+dss_la_paz.psv ->> PROVINCIA...................: CORDOBA
+dss_la_paz.psv ->> LATITUD.....................: S305600
+dss_la_paz.psv ->> LONGITUD....................: O641500
+dss_la_paz.psv ->> ALTITUD.....................: 600
+dss_la_paz.psv ->> PENDIENTE...................: FALTA!
+dss_la_paz.psv ->> DRENAJE.....................: FALTA!
+dss_la_paz.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_la_paz.psv ->> PERMEABILIDAD...............: FALTA!
+dss_la_paz.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_la_paz.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_la_paz.psv ->> HORIZONTE->NOMBRE(S)........: Aca
+dss_la_paz.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-24
+dss_la_paz.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 10,5
+dss_la_paz.psv ->> HORIZONTE->CARBONO ORGÁN.(%): -
+dss_la_paz.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,41
+dss_la_paz.psv ->> HORIZONTE->RELACIÓN C/N.....: -
+dss_la_paz.psv ->> HORIZONTE->ARCILLA 2 (%)....: 20,6
+dss_la_paz.psv ->> HORIZONTE->LIMO 2-50 (%)....: 38,4
+dss_la_paz.psv ->> HORIZONTE->ARENA (%)........: 38,5
+dss_la_paz.psv ->> HORIZONTE->CALCAREO CaCO3(%): 4,3
+dss_la_paz.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): -
+dss_la_paz.psv ->> HORIZONTE->PH PASTA.........: -
+dss_la_paz.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,3
+dss_la_paz.psv ->> HORIZONTE->CI ME/100G-Ca ++.: -
+dss_la_paz.psv ->> HORIZONTE->CI ME/100G-Mg ++.: -
+dss_la_paz.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4
+dss_la_paz.psv ->> HORIZONTE->CI ME/100G-K +...: 1,1
+dss_la_paz.psv ->> HORIZONTE->CI ME/100G-H +...: 0,1
+dss_la_paz.psv ->> HORIZONTE->SUM.B. ME/100G(S): -
+dss_la_paz.psv ->> HORIZONTE->CIC ME/100G(T)...: 15,1
+dss_la_paz.psv ->> HORIZONTE->SAT.B % (S/T)....: 100

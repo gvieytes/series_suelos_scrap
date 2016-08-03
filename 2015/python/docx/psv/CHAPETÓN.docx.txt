@@ -1,0 +1,323 @@
+
+--------------------------------------------------------------------------------
+SERIE CHAPETÓN Símbolo: Chp
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-limoso y un horizonte argílico pardo oscuro arcillo-limoso.
+El calcáreo, en escasa cantidad, aparece en profundidad a los 100 cm aproximadamente.
+Suelos desarrollados en materiales loessoides de textura franco-arcillo-limoso.
+
+
+Perfil tipo: ER7-127C
+Fecha: 18-XI-97
+Ubicación: Establecimiento "Las Tres Marías" (foto IR 458-62) - Dto. Tala - Dpto. Paraná.
+Reconocedores: O.A.Foti; L.O.López.
+
+
+A1: 00-15 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo y pardo grisáceo oscuro (10YR 4/2) en seco; franco-limoso; estructura granular y bloques subangulares medios, débiles; friable en húmedo; barnices ("humic skins") escasos; límite claro, suave.
+
+A3: 15-30 cm; gris muy oscuro a gris oscuro (10YR 3,5/1) en húmedo y gris muy oscuro (10YR 3/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; muy friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso escasos, finos y débiles; abundantes poros; límite claro, suave.
+
+B21t: 30-48 cm; pardo oscuro a pardo (10YR 4/3) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso escasos, finos y débiles; materiales de horizontes superiores en las grietas; límite gradual, suave.
+
+B22t: 48-70 cm; pardo oscuro (7,5YR 3,5/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo y firme en seco; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso, escasos, finos y débiles; límite gradual, suave.
+
+B3: 70-80 cm; pardo oscuro (7,5YR 3,5/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso escasos, finos y débiles; límite difuso, suave.
+
+C: 80 cm +; pardo (7,5YR 5/3) en húmedo; franco-arcillo-limoso; masivo; muy friable en húmedo; materiales de horizontes superiores en las grietas.
+
+
+Variabilidad de rasgos
+
+No se conoce
+
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Chapetón no tiene erosión actual pero tiene susceptibilidad a la misma cuando las pendientes se acentúan.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Chapetón
+
+ER7-127C
+
+
+
+
+
+
+Nº de registro
+ 2323
+ 2324
+ 2325
+ 2326
+ 2327
+ 2328
+Horizonte
+ A1
+ A3
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 05-12
+ 20-28
+ 36-45
+ 52-60
+ 70-79
+ 90-110
+Mat.organica (%)
+ 4.24
+ 3.49
+ 1.44
+ 0.51
+ 0.44
+ 0.36
+N (%)
+ 0.21
+ 0.15
+ 0.09
+ 0.07
+ 0.05
+ 0.04
+C/N
+ 12
+ 14
+ 10
+ 4
+ 5
+ 5
+
+T
+
+ <2 u
+
+ 22.23
+
+ 27.82
+
+ 40.58
+
+ 37.50
+
+ 36.29
+
+ 32.56
+E
+ 2-20 u
+ 35.21
+ 33.17
+ 28.98
+ 27.72
+ 29.36
+ 30.71
+X
+ 2-50 u
+ 72.79
+ 67.54
+ 55.64
+ 58.69
+ 60.16
+ 62.85
+T
+ 50-100 u
+ 2.94
+ 2.12
+ 2.05
+ 2.12
+ 1.43
+ 2.42
+U
+ 100-500 u
+ 2.02
+ 2.51
+ 1.72
+ 1.68
+ 2.11
+ 2.15
+R
+ 500-1000 u
+ 0.02
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.02
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+pH H2O
+ 6.5
+ 5.9
+ 6.1
+ 6.2
+ 6.3
+ 6.5
+pH ClK
+ 5.7
+ 5.3
+ 5.3
+ 5.3
+ 5.4
+ 5.2
+Conductividad (mmhos/cm)
+ 2.502
+ 1.270
+ 0.469
+ 0.308
+ 0.289
+ 0.115
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+ 21.19
+
+
+ 23.41
+
+
+ 38.55
+
+
+ 37.36
+
+
+ 36.27
+
+
+ 30.77
+
+
+
+
+
+
+
+ d Ca ++
+ 14.51
+ 17.13
+ 31.70
+ 31.94
+ 30.41
+ 25.03
+C e
+
+
+
+
+
+
+Mg++
+ 2.00
+ 2.20
+ 2.37
+ 2.80
+ 3.14
+ 2.90
+t C
+
+
+
+
+
+
+i a K+
+ 1.32
+ 1.44
+ 1.00
+ 0.92
+ 0.76
+ 0.95
+o m
+
+
+
+
+
+
+n b Na+
+ 0.40
+ 0.47
+ 0.95
+ 0.87
+ 0.96
+ 0.88
+e i
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.89
+ 2.01
+ 2.52
+ 2.33
+ 2.65
+ 3.09
+
+Equivalente de humedad (%)
+
+ 25.98
+
+ 28.10
+
+ 38.98
+
+ 35.40
+
+ 34.15
+
+ 30.80
+P asimilable (ppm)
+ 26.09
+ 12.63
+ 6.66
+ 4.79
+ 2.93
+ 1.72
+

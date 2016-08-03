@@ -1,0 +1,147 @@
+--------------------------------------------------------------------------------
+SERIE SANTA JERÓNIMA - cresta gilgai				 	 Símbolo: SJr
+Pertenece a la familia "arcillosa fina, montmorillonítica, neutra, térmica" de los Peludertes argiacuólicos.
+Los suelos de la serie Santa Jerónima son oscuros, profundos y moderadamente bien drenados. Se caracterizan por presentar microrrelieve gilgai lineal bien desarrollado y visible en el campo. La presencia de este microrrelieve crea - como en todos los suelos que lo tienen - una gran heterogeneidad en sus características. Localizados en un paisaje ondulado, con pendientes entre 1-3 % de intensidad, de longitud variable, algunos se ubican en las cabeceras de los cursos que drenan al arroyo Feliciano y otros al río Guayquiraró, en el sector E y NE del departamento. Están cubiertos por muy buenas pasturas y algo de monte abierto, principalmente de ñandubay.
+Perfil tipo: ER3 - 28a C y 28b C (Se adjuntan a esta serie dos descripciones correspondientes una, a la cresta del microrrelieve gilgai y otra, al bajo del mismo).
+Fecha: 22-III-1972
+Ubicación: Ea. La Britania, 22 Km al E-SE de la ciudad de San José de Feliciano. Foto IR195-44
+Reconocedores: R.E. Kleinernan; G.W. van Barneveld
+Perfil ER3-28a C - Alto (cresta) del gilgai
+A1ca: 00-20cm.; pardo grisáceo (10 YR 4/2) en húmedo; gris (10 YR 5/1) en seco; franco arcillo limoso; estructura en bloques angulares y subangulares medios moderados; duro en seco; friable a firme en húmedo; plástico, ligeramente adhesivo; concreciones calcáreas comunes, medias; escasas concreciones de hierro y manganeso medias; barnices ("humic skins") escasos, finos; moteados escasos, finos y débiles; límite inferior claro ondulado.
+ACca: 20-40 cm.; gris oscuro (10 YR 4/1) en húmedo; gris (10 YR 5.3/1) en seco; franco arcillo limoso; estructura en prismas compuestos irregulares medios moderados, que rompen en bloques angulares y subangulares medios moderados; duro en seco; firme en húmedo; plástico, adhesivo; concreciones calcáreas comunes, medias; concreciones de hierro y manganeso escasas, finas; vestigios de barnices ("humic skins"); caras de fricción ("slickensides") comunes, finas; moteados comunes, finos, precisos; límite inferior gradual ondulado.
+Cca: 40 cm. +; pardo grisáceo (10 YR 5/2) en húmedo; gris (10 YR 6/1) en seco; arcillo limoso; estructura en bloques angulares irregulares y cuneiformes gruesos débiles; extremadamente duro en seco, muy firme en húmedo; plástico, adhesivo; abundantes concreciones calcáreas medias y gruesas; concreciones de hierro y manganeso comunes, medias; caras de fricción ("slickensides") comunes, finas y medias; moteados comunes, finos, precisos.
+Variabilidad de rasgos
+En la secuencia del bajo del microrrelieve presenta un horizonte superior (A1) oscuro, franco arcillo limoso a franco limoso, con espesores que varían entre 18-25 cm. Muestra comunes a abundantes moteados de hierro y manganeso. Normalmente se encuentra algo lixiviado y está bien provisto de materia orgánica, con tenores que superan el 5 %. La estructura es en bloques.
+Luego se encuentra el horizonte B2, franco arcillo limoso pesado, con estructura prismática y bloques cuneiformes. Las caras de fricción ("slickensides") son comunes e intersectadas y también son comunes las concreciones de hierro y manganeso.
+El horizonte transicional B3 es oscuro, franco arcillo limoso, con concreciones calcáreas comunes a abundantes de hasta 3 mm de diámetro y, de hierro y manganeso, comunes de 4 mm de diámetro.
+El horizonte C está constituido por sedimentos calcáreos, pardo grisáceos, con concreciones calcáreas abundantes y de hierro y manganeso comunes.
+La secuencia de horizontes en la cresta del microrrelieve gilgai, es la siguiente: un horizonte superior, pardo grisáceo, con concreciones calcáreas comunes; franco arcillo limoso y estructura en bloques. Luego se encuentra un horizonte transicional mezcla del A y del C, gris oscuro, con concreciones calcáreas comunes y estructura prismática.
+Aproximadamente a los 40 cm. se halla el horizonte C, pardo grisáceo, con abundantes concreciones calcáreas.
+El ciclo de las ondulaciones del microrrelieve gilgai es de 5 m, aproximadamente.
+Fases
+No se observaron a escala de relevamiento (1:100.000).
+Drenaje
+El drenaje es de imperfecto a moderado. Escurrimiento medio a lento. Permeabilidad lenta a muy lenta.
+Erosión
+La serie Santa Jerónima no presenta erosión actual.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Santa Jerónima (Cresta del gilgai)
+ER3-28a C
+Nº de registro
+ -
+ -
+ -
+Horizonte
+ A1ca
+ ACca
+ Cca
+Profundidad (cm)
+ 00-18
+ 26-40
+ 45-55
+Mat. orgánica (%)
+ 5.84
+ 1.18
+ 0.34
+C (%)
+ 3.40
+ 0.69
+ 0.20
+N (%)
+ 0.335
+ 0.086
+ 0.041
+C/N
+ 10
+ 8
+ 5
+T <2
+ 31.1
+ 35.7
+ -
+E 2-20
+ -
+ -
+ -
+X 2-50
+ 67.4
+ 63.0
+ -
+T 50-100
+ 0.4
+ 0.3
+ -
+U 100-250
+ 0.7
+ 0.6
+ -
+R 250-500
+ 0.4
+ 0.4
+ -
+A 500-1000
+ -
+ -
+ -
+CO3Ca (%)
+ 0.4
+ 9.3
+ 18.4
+pH H2O
+ 6.8
+ 7.8
+ 7.9
+pH ClK
+ -
+ -
+ -
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ -
+ -
+ -
+D
+Ca++
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 1.3
+ 1.0
+ 0.6
+O
+M
+N
+B
+Na+
+ 0.2
+ 0.1
+ 0.2
+E
+I
+S
+O
+H+
+ -
+ -
+ -
+% Na/T
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 38.6
+ 35.0
+ 31.5

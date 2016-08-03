@@ -1,0 +1,210 @@
+--------------------------------------------------------------------------------
+SERIE ANTONIO TOMAS Símbolo: AT
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico muy oscuro, arcillo-limoso, con moteados de hierro-manganeso, sin concreciones calcáreas en el perfil pero sí carbonatos libres en la masa y acumulaciones de carbonatos en forma de miscelios en el horizonte Cca.
+Suelos desarrollados en materiales loessoides retransportados de textura franco-arcillo-limosa.
+Perfil tipo: ER7-124C
+Fecha: 03-X-1997
+Ubicación: Establecimiento "Los Nogales" (foto IR 462-8) - Dto. Antonio Tomás- Dpto. Paraná.
+Reconocedores: L.O.López; O.A.Foti
+A1: 00-20 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+B21t: 20-45 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques subangulares y angulares irregulares medios, moderados; extremadamente duro en seco y firme en húmedo; barnices ("clay skins") escasos y ("humic skins") escasos; caras de fricción ("slickensides") comunes; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; material del horizonte superior en las grietas; límite claro, suave.
+B22t: 45-72 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en prismas compuestos irregulares y bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco y firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") escasas, finas e intersectadas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; material de horizontes superiores en las grietas; límite gradual, suave.
+B3: 72-95 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares, medios, moderados; duro en seco y friable en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") comunes, gruesas y no intersectadas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite difuso, suave.
+Cca: 95 cm +; pardo oscuro (7,5YR 3.5/2) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; abundantes carbonatos libres en la masa y en concentraciones en forma de miscelios; moteados de hierro-manganeso comunes, medios y precisos.
+Variabilidad de rasgos
+Las variaciones del horizonte superficial en cuanto a espesor, estructura y consistencia, están íntimamente relacionadas con el proceso erosivo. Un rasgo característico es la ausencia de calcáreo en todo el perfil.
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio a rápido. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Antonio Tomás presenta erosión laminar ligera a moderada y la susceptibilidad a la misma es moderada.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Antonio Tomás
+ER7-124C
+Nº de registro
+ 2068
+ 2069
+ 2070
+ 2071
+ 2072
+Horizonte
+ A1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 03-15
+ 30-40
+ 50-65
+ 75-90
+ 120-140
+Mat.organica (%)
+ 3.75
+ 1.57
+ 1.08
+ 0.73
+ 0.51
+N (%)
+ 0.17
+ 0.08
+ 0.06
+ 0.05
+ 0.04
+C/N
+ 13
+ 11
+ 10
+ 8
+ 8
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 32.88
+ 45.50
+ 41.74
+ 41.72
+ 36.41
+E
+ 2-20 u
+ 27.29
+ 23.81
+ 25.65
+ 25.95
+ 26.91
+X
+ 2-50 u
+ 66.18
+ 52.66
+ 55.82
+ 56.58
+ 61.20
+T
+ 50-100 u
+ 0.15
+ 0.50
+ 0.46
+ 0429
+ 0.76
+U
+ 100-500 u
+ 0.78
+ 1.30
+ 1.97
+ 1.27
+ 1.62
+R
+ 500-1000 u
+ 0.01
+ 0.04
+ 0.01
+ 0.01
+ 0.01
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.3
+pH H2O
+ 7.3
+ 7.2
+ 7.8
+ 7.7
+ 8.5
+pH ClK
+ 6.6
+ 6.0
+ 6.6
+ 6.3
+ 7.3
+C.E.(mmhos/cm)
+ 0.562
+ 0.212
+ 0.346
+ 0.354
+ 0.423
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 32.52
+ 43.27
+ 40.12
+ 39.83
+ 33.00
+d
+Ca++
+ 25.09
+ 35.62
+ 33.10
+ 31.99
+ 25.33
+C
+e
+a
+Mg++
+ 2.14
+ 3.58
+ 3.88
+ 4.69
+ 4.32
+t
+c
+i
+a
+K+
+ 0.75
+ 1.00
+ 1.47
+ 1.55
+ 1.95
+o
+m
+n
+b
+Na+
+ 1.57
+ 1.16
+ 1.00
+ 1.04
+ 0.92
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 4.83
+ 2.68
+ 2.49
+ 2.61
+ 2.79
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 32.99
+ 46.60
+ 41.49
+ 41.57
+ 36.20
+Fósforo asimilable (ppm)
+ 4.86
+ 2.92
+ 2.29
+ 1.05
+ 0.43

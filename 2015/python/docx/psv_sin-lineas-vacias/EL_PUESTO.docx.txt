@@ -1,0 +1,223 @@
+--------------------------------------------------------------------------------
+SERIE EL PUESTO Símbolo: EPto
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos.
+Suelos ligeramente erosionados, imperfecta a moderadamente bien drenados, presentan un horizonte argílico, de textura arcillo-limosa, de color oscuro; el calcáreo aparece a los 25-30 cm de profundidad.
+Suelos desarrollados en materiales arcillo-limosos (limos calcáreos).
+Perfil tipo: ER7-128C
+Fecha: 09-V-1991
+Ubicación: Estancia "El Puesto" (foto IR 449-42) - Dto. Quebracho - Dpto. Paraná
+Reconocedores: D.J Bedendo; L.O. López
+Ap: 00-12 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo, duro en seco; barnices ("humic skins") escasos; límite claro, suave.
+B1: 12-24 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, fuertes; friable en húmedo, duro en seco; barnices ("clay- humic y clay skins") comunes; caras de fricción ("slickensides") escasas y poco intersectadas; límite gradual, suave.
+B21t: 24-43 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques angulares irregulares y cuneiformes, gruesos, fuertes; firme en húmedo, muy duro en seco; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes, gruesas y poco intersectadas; concreciones calcáreas escasas y finas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+B22t: 43-67 cm; negro a gris muy oscuro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, fuertes, que rompen en bloques angulares irregulares y cuneiformes, gruesos, fuertes; firme en húmedo, muy duro en seco; barnices ("clay skins") escasos; caras de fricción ("slickensides") abundantes e intersectadas; concreciones calcáreas, escasas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, ondulado.
+B31ca: 67-81 cm; pardo oscuro (7,5YR 3,5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, gruesos, fuertes; firme en húmedo, muy duro en seco; barnices ("clay-humic skins") comunes y ("clay skins") abundantes; caras de fricción ("slickensides") abundantes e intesectadas; concreciones calcáreas, comunes, menores de 0,5 cm y carbonatos libre en la masa, comunes; concreciones ferromanganesíferas, escasas; moteados de hierro-manganeso escasos, finos y precisos; límite gradual, ondulado.
+B32ca: 81-98 cm; pardo a pardo oscuro (7,5YR 4,5/3) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, gruesos, fuertes, que rompen en bloques cuneiformes, gruesos, fuertes; firme en húmedo, muy duro en seco; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") abundantes e intersectadas; carbonatos libres en la masa, abundantes; concreciones calcáreas, abundantes de hasta 1 cm de diámetro; concreciones ferromanganesíferas, escasas; moteados de hierro-manganeso, escasos, finos y débiles; límite gradual, ondulado.
+Cca: 98 cm +; pardo a pardo oscuro (7,5YR 4,5/4) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo y duro en seco; concreciones calcáreas, abundantes, duras y blandas de hasta 2 cm de diámetro y carbonatos libres en la masa abundantes.
+Variabilidad de rasgos
+El solum varía entre 90-100 cm de profundidad. Presenta un horizonte superficial (generalmente A1 + B1) de 20-25 cm de espesor, franco-arcillo-limoso, de color oscuro y bien provisto de materia orgánica.
+El horizonte argílico, arcillo-limoso, tiene algo de calcáreo, con abundantes caras de fricción ("slickensides"). Presenta un microrelieve gilgai aunque en forma tenue y poco visible en el terreno.
+El horizonte B3 tiene mayor cantidad de caras de fricción ("slickensides") y lo mismo ocurre con el porcentaje de calcáreo.
+Fases
+Moderadamente erosionada (símbolo EPto.h2).
+Drenaje
+Imperfecta a moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie El Puesto está leve a moderadamente erosionada y tiene un moderado peligro de erosión en surcos y cárcavas, fundamentalmente en áreas bajo uso agrícola intensivo.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie El Puesto
+ER7-128C
+Nº de registro
+ 5826
+ 5827
+ 5828
+ 5829
+ 5860
+ 5861
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B31ca
+ B32ca
+Profundidad (cm)
+ 05-10
+ 15-20
+ 28-36
+ 45-58
+ 73-78
+ 85-95
+Mat.organica (%)
+ 4.1
+ 2.8
+ 1.8
+ 1.1
+ 0.7
+ 0.6
+N (%)
+ 0.20
+ 0.12
+ 0.10
+ 0.06
+ 0.04
+ 0.04
+C/N
+ 11
+ 12
+ 10
+ 9
+ 10
+ 9
+T
+ <2 u
+ 39.68
+ 40.36
+ 40.20
+ 47.22
+ 49.62
+ 51.01
+E
+ 2-20 u
+ 27.24
+ 28.32
+ 27.42
+ 22.76
+ 22.00
+ 21.50
+X
+ 2-50 u
+ 56.51
+ 55.49
+ 55.18
+ 49.55
+ 48.24
+ 46.79
+T
+ 50-100 u
+ 2.17
+ 3.37
+ 3.49
+ 1.16
+ 0.99
+ 0.87
+U
+ 100-500 u
+ 1.59
+ 0.73
+ 1.09
+ 2.06
+ 1.13
+ 1.32
+R
+ 500-1000 u
+ 0.05
+ 0.05
+ 0.04
+ 0.01
+ 0.02
+ 0.01
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.18
+ 5.23
+ 12.15
+pH H2O
+ 7.0
+ 7.4
+ 7.7
+ 7.8
+ 8.1
+ 8.1
+pH ClK
+ 6.2
+ 6.5
+ 6.8
+ 6.9
+ 7.2
+ 7.3
+Conductividad (mmhos/cm )
+ 1.443
+ 1.146
+ 0.756
+ 0.787
+ 0.748
+ 0.709
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 36.56
+ 38.12
+ 37.82
+ 43.53
+ 47.31
+ 48.73
+ d Ca ++
+ 28.03
+ 31.84
+ 32.50
+ 38.68
+ -
+ -
+C e
+Mg++
+ 3.59
+ 3.47
+ 3.10
+ 2.00
+ -
+ -
+t C
+i a K+
+ 1.57
+ 1.05
+ 0.91
+ 0.73
+ 0.60
+ 0.67
+o m
+n b Na+
+ 0.37
+ 0.76
+ 1.09
+ 1.12
+ 1.55
+ 1.60
+e i
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.01
+ 1.99
+ 2.88
+ 2.57
+ 3.28
+ 3.28
+Equivalente de humedad (%)
+ 41.97
+ 44.94
+ 44.12
+ 45.29
+ 47.50
+ 50.29
+P asimilable (ppm)
+ 9.93
+ 7.11
+ 5.44
+ 5.35
+ 5.29
+ 4.44

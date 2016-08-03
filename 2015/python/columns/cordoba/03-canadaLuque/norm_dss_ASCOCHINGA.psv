@@ -1,0 +1,34 @@
+dss_ASCOCHINGA.psv ->> ID..........................: 302
+dss_ASCOCHINGA.psv ->> CLASIFICACION...............: Argiustol údico
+dss_ASCOCHINGA.psv ->> SERIE.......................: ASCOCHINGA (Asc)
+dss_ASCOCHINGA.psv ->> UBICACION...................: 14 km al Oeste de Jesús María, departamento Totoral
+dss_ASCOCHINGA.psv ->> PROVINCIA...................: CORDOBA
+dss_ASCOCHINGA.psv ->> LATITUD.....................: S305500
+dss_ASCOCHINGA.psv ->> LONGITUD....................: O641400
+dss_ASCOCHINGA.psv ->> ALTITUD.....................: 600
+dss_ASCOCHINGA.psv ->> PENDIENTE...................: FALTA!
+dss_ASCOCHINGA.psv ->> DRENAJE.....................: FALTA!
+dss_ASCOCHINGA.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ASCOCHINGA.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ASCOCHINGA.psv ->> TIPO DE SUELO...............: FRANCA FINA A GRUESA MIXTA TÉRMICA
+dss_ASCOCHINGA.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ASCOCHINGA.psv ->> HORIZONTE->NOMBRE(S)........: ap | a | bt1 | bt2 | bc | ck
+dss_ASCOCHINGA.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-11 | 11-21 | 21-54 | 54-79 | 79-98 | 98a+
+dss_ASCOCHINGA.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,59 | 2,24 | - | - | - | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->CARBONO ORGÁN.(%): - | - | - | - | - | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,14 | 0,14 | - | - | - | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - | - | - | - | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14,3 | 15,3 | 19,4 | 16,4 | 16 | 10,5
+dss_ASCOCHINGA.psv ->> HORIZONTE->LIMO 2-50 (%)....: 36,5 | 39,8 | 31,3 | 33,7 | 34,5 | 37,1
+dss_ASCOCHINGA.psv ->> HORIZONTE->ARENA TOTAL......: 46,4 | 41,9 | 46,9 | 47,4 | 48 | 50
+dss_ASCOCHINGA.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 5,9
+dss_ASCOCHINGA.psv ->> HORIZONTE->PH PASTA.........: - | - | - | - | - | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,1 | 6,5 | 6,9 | 7,1 | 7,7 | 8,1
+dss_ASCOCHINGA.psv ->> HORIZONTE->CI ME/100G-Ca++..: 7,7 | 7,6 | 12 | 8,9 | 8,9 | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,7 | 2,6 | 0,9 | 1,9 | 1,3 | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,3 | 0,3 | 0,2 | 0,2 | 0,1 | 0,15
+dss_ASCOCHINGA.psv ->> HORIZONTE->CI ME/100G-K+....: 1,2 | 0,5 | 0,4 | 0,4 | 0,2 | 0,3
+dss_ASCOCHINGA.psv ->> HORIZONTE->CI ME/100G-H+....: 0,5 | 0,9 | 0,5 | 0,3 | - | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->SUM.B. ME/100G(S): - | - | - | - | - | 
+dss_ASCOCHINGA.psv ->> HORIZONTE->CIC ME/100G(T)...: 11,4 | 11,9 | 14 | 12,7 | 10,6 | 9,8
+dss_ASCOCHINGA.psv ->> HORIZONTE->SAT.B % (S/T)....: 96 | 92 | 96 | 98 | 99 | 

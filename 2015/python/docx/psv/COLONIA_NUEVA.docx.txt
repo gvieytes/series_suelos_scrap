@@ -1,0 +1,319 @@
+
+--------------------------------------------------------------------------------
+SERIE COLONIA NUEVA Símbolo: CN
+
+
+Pertenece a la familia "limosa fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-limoso y un horizonte argílico franco-arcillo-limoso con moteados y algunas caras de fricción ("slickensides").
+Tienen concreciones de carbonato de calcio y calcáreo libre a partir de 100-120 cm.
+Suelos desarrollados en loess de textura franco-limosa a franco-arcillo-limosa.
+
+
+Perfil tipo: ER1-44C
+Fecha: 10-X-1972.
+Ubicación: Área muestra Colonia Nueva (foto IR 454-55) - Dpto. Paraná.
+Reconocedores: O.A. Foti; G.W. van Barneveld.
+
+
+Ap: 00-15 cm; gris muy oscuro (10YR 3/1) en húmedo; gris (10YR 5/1) en seco; franco-limoso; estructura en bloques, medios a gruesos, moderados; muy duro en seco; friable en húmedo; moteados de hierro escasos, finos y débiles; horizonte localmente eluviado; límite abrupto, suave.
+
+B1: 15-24 cm; negro (10YR 2.5/1) en húmedo; gris (10YR 5/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares, medios, moderados con tendencia prismática; friable en húmedo; barnices ("humic skins"), escasos y finos; vestigios de moteados de hierro; horizonte localmente eluviado por las caras de los agregados; límite claro, suave.
+
+B21t: 24-45 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares y bloques aplanados, medios, moderados; friable en húmedo; barnices ("clay-humic skins"), comunes y medios; moteados de hierro y hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B22t: 45-81 cm; pardo oscuro (7.5YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques angulares con tendencia cuneiforme, medios, moderados; barnices ("clay-humic skins") comunes y medios; caras de fricción ("slickensides") incipientes y comunes, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite difuso, suave.
+
+B31: 81-121 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos y finos; moteados de hierro y manganeso comunes, finos y precisos; límite difuso, suave.
+
+B32: 121 + cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, gruesos, débiles; friable en húmedo; barnices ("clay-humic skins") escasos y finos; moteados de hierro y manganeso escasos, finos y débiles; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 0,5 cm, escasas.
+
+
+
+
+Variabilidad de rasgos
+
+El solum varía de 100-120 cm.
+
+El epipedón mólico tiene un espesor de 15-25 cm, e incluye horizontes A1 (franco-limoso) y un B1 o A3 (franco-arcillo-limoso).
+
+El horizonte argílico, de estructura prismática compuesta, que rompe en bloques angulares y en algunos lugares en bloques aplanados, tiene generalmente algunas caras de fricción ("slickensides") incipientes. Su color varia de 10YR 3/2 a 7.5YR 3/2, con moteados de hierro-manganeso comunes y finos. Tiene concreciones de carbonato de calcio a partir de 100-120 cm, pero ocasionalmente algo menos profundo; el calcáreo libre se encuentra recién en la parte inferior del B3.
+
+La variabilidad del horizonte C se conoce poco.
+
+
+Fases
+
+Moderadamente erosionada (símbolo: CN.h2).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial moderado. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Colonia Nueva tiene erosión actual leve (perfil modal), la fase por erosión moderada es relativamente extensa. La susceptibilidad a la erosión es moderada a severa, principalmente en forma laminar y cárcavas.
+
+
+
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Colonia Nueva
+
+ER1-44C
+
+
+
+
+
+
+Nº de registro
+ 932
+ 933
+ 934
+ 935
+ 936
+ 937
+Horizonte
+ Ap
+ B1t
+ B21t
+ B22t
+ B31
+ B32
+Profundidad (cm)
+ 00-12
+ 15-24
+ 31-43
+ 54-72
+ 91-104
+ 121-128
+Mat.organica (%)
+ 3.3
+ 3.6
+ 1.9
+ 1.2
+ 0.8
+ 0.6
+N (%)
+ 0.2
+ 0.2
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+C/N
+ 11
+ 12
+ 9
+ 7
+ 5
+ 5
+
+T
+
+ <2 u
+
+ 26.9
+
+ 28.3
+
+ 32.5
+
+ 33.0
+
+ 32.3
+
+ 30.9
+E
+ 2-20 u
+ 25.2
+ 26.0
+ 17.5
+ 17.5
+ 21.0
+ 22.0
+X
+ 2-50 u
+ 70.2
+ 69.3
+ 65.1
+ 64.6
+ 64.9
+ 66.0
+T
+ 50-100 u
+ 2.0
+ 1.7
+ 1.5
+ 1.5
+ 2.0
+ 2.1
+U
+ 100-500 u
+ 0.9
+ 0.7
+ 0.9
+ 0.9
+ 0.8
+ 1.0
+R
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+A
+ 1000-2000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.3
+pH H2O
+ 6.0
+ 6.0
+ 6.4
+ 6.4
+ 6.6
+ 7.2
+pH ClK
+ 5.2
+ 5.3
+ 5.3
+ 5.5
+ 5.6
+ 6.4
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+ 29.9
+
+
+ 31.9
+
+
+ 33.8
+
+
+ 32.4
+
+
+ 32.2
+
+
+ 29.8
+
+
+
+
+
+
+
+ d Ca ++
+ 20.9
+ 25.1
+ 27.4
+ 26.4
+ 27.0
+ -
+C e
+
+
+
+
+
+
+Mg++
+ 1.7
+ 1.0
+ 1.1
+ 1.0
+ 0.9
+ -
+t C
+
+
+
+
+
+
+i a K+
+ 1.1
+ 0.9
+ 1.2
+ 1.1
+ 1.1
+ 1.0
+o m
+
+
+
+
+
+
+n b Na+
+ 0.4
+ 0.2
+ 0.3
+ 0.4
+ 0.3
+ 0.3
+e i
+
+
+
+
+
+
+s o H+
+ 5.4
+ 4.3
+ 3.2
+ 3.2
+ 3.2
+ -
+% Na/T
+ 1.3
+ 0.6
+ 0.8
+ 1.2
+ 0.9
+ 1.0
+
+Equivalente de humedad (%)
+
+ 26.4
+
+ 30.9
+
+ 35.6
+
+ 38.3
+
+ 38.0
+
+ 36.7
+

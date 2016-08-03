@@ -1,0 +1,223 @@
+--------------------------------------------------------------------------------
+SERIE ALDEA ASUNCIÓN Símbolo: AAsu
+Pertenece a la familia "franco limosa, mixta, térmica" de los Hapludoles fluvénticos.
+Suelos desarrollados en materiales de textura franco-arenosa a franca, de espesor variable, depositados sobre sedimentos arcillosos antiguos.
+Están imperfectamente drenados y tienen concreciones de hierro-manganeso y calcáreas.
+Perfil tipo: ER1-88C
+Fecha: 5-XI-1992
+Ubicación: foto IR 412-45 - Dpto. Gualeguay
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-25 cm; pardo grisáceo oscuro (10YR 4/2) en seco, pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arenoso; estructura granular y en bloques subangulares medios, débiles; blando en seco; muy friable en húmedo; barnices ("humic-skins") comunes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B1: 25-39 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arenoso; estructura en bloques angulares irregulares medios, fuertes; ligeramente duro en seco; firme en húmedo; barnices ("humic-skins") abundantes; moteados de hierro-manganeso, comunes, finos y precisos; concreciones de hierro-manganeso escasas y finas; límite abrupto, suave.
+II B21t: 39-50 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares gruesos, fuertes; extremadamente duro en seco; muy firme en húmedo; barnices ("clay-humic-skins") comunes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso abundantes, gruesos y sobresalientes (color pardo fuerte, 7.5YR 4/6); concreciones de hierro-manganeso comunes; límite claro, suave.
+II B22t: 50-80 cm; pardo oscuro (7.5YR 3/4) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes medios, fuertes; extremadamente duro en seco; muy firme en húmedo; barnices ("clay-skins") comunes; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; concreciones de hierro-manganeso muy abundantes; límite claro, suave.
+II B3ca	: 80-105 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares gruesos, débiles; ligeramente duro en seco; friable en húmedo; barnices ("clay-skins") comunes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso comunes, finos y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas comunes; concreciones de hierro-manganeso escasas; límite gradual, suave.
+II Cca: 105 cm+; pardo fuerte (7.5YR 5/6) en húmedo; franco; estructura en bloques angulares irregulares gruesos, débiles; ligeramente duro en seco; friable en húmedo; barnices ("clay-skins") escasos a comunes; moteados de hierro-manganeso comunes, finos y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, duras y semiduras.
+Variabilidad de rasgos
+La profundidad del solum varía de 105-110 cm. El epipedón mólico, de 35-40 cm, comprende un horizonte A1 y un B1 de textura franco-arenosa, está seguido por un horizonte argílico que incluye un IIB21t y un IIB22t de 40-45 cm de espesor.
+El IIB21t, de textura sensiblemente más arenosa que el horizonte subyacente, tiene estructura prismática gruesa y compuesta, con barnices arcillo-húmicos y abundantes moteados gruesos. El IIB22t, de textura franco-arcillosa, es de color algo más claro que el suprayacente, tiene también estructura prismática gruesa y contiene abundantes concreciones ferromanganesíferas y comunes caras de fricción. Le sigue un horizonte IIB3ca, franco, con abundantes carbonatos libres en la masa y concreciones calcáreas comunes.
+El horizonte IICca, de color pardo fuerte, es de estructura débil y también tiene abundante carbonato libre en la masa y en forma concrecionaria.
+Fases
+No se describieron fases a nivel de reconocimiento.
+Series similares y sus diferencias
+La serie Aldea Asunción se parece a la serie Rincón de Nogoyá, pero ésta no tiene calcáreo en todo el perfil y contiene mayor cantidad de arena.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial medio. Permeabilidad lenta a moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+Serie Aldea Asunción tiene erosión actual ligera y la susceptibilidad a la misma es moderada.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Aldea Asunción
+ER1-88C
+Nº de registro
+ 7226
+ 7227
+ 7228
+ 7229
+ 7230
+ 7231
+Horizonte
+ A1
+ B1
+ IIB21t
+ IIB22t
+ IIB3ca
+ IICca
+Profundidad (cm)
+ 03-20
+ 27-37
+ 41-48
+ 53-78
+ 82-100
+ 100-130
+Mat.organica (%)
+ 2.41
+ 2.01
+ 1.41
+ 0.52
+ 0.30
+ 0.23
+N (%)
+ 0.13
+ 0.15
+ 0.08
+ 0.04
+ 0.03
+ 0.02
+C/N
+ 10
+ 10
+ 10
+ 7
+ 5
+ 6
+T < 2 u
+ 13.67
+ 18.02
+ 26.09
+ 32.15
+ 26.62
+ 26.01
+E 2-20 u
+ 15.81
+ 12.20
+ 10.65
+ 10.85
+ 15.85
+ 16.98
+X 2-50 u
+ 28.68
+ 28.03
+ 28.19
+ 33.67
+ 40.34
+ 35.01
+T 50-100 u
+ 2.93
+ 2.08
+ 2.67
+ 3.02
+ 2.23
+ 2.27
+U 100-500 u
+ 49.51
+ 47.94
+ 38.26
+ 27.94
+ 27.17
+ 33.26
+R 500-1000 u
+ 4.86
+ 3.71
+ 4.29
+ 2.58
+ 2.88
+ 2.73
+A 1000-2000 u
+ 0.35
+ 0.18
+ 0.50
+ 0.64
+ 0.76
+ 0.72
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 6.99
+ 8.25
+PH H2O
+ 5.7
+ 5.5
+ 5.8
+ 6.1
+ 7.8
+ 7.9
+pH ClK
+ 5.0
+ 4.9
+ 5.1
+ 5.3
+ 6.9
+ 7.0
+C.E.(mmhos/cm)
+ 0.4
+ 0.3
+ 0.3
+ 0.3
+ 0.8
+ 0.8
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 15.80
+ 19.50
+ 22.30
+ 27.90
+ 23.20
+ 22.90
+d
+Ca++
+ 10.80
+ 13.60
+ 17.20
+ 20.00
+ 26.00
+ 16.70
+C
+e
+a
+Mg++
+ 2.00
+ 2.70
+ 3.20
+ 4.10
+ 3.10
+ 3.00
+t
+c
+i
+a
+K+
+ 1.20
+ 1.20
+ 1.55
+ 1.50
+ 1.50
+ 1.49
+o
+m
+n
+b
+Na+
+ 0.50
+ 0.51
+ 0.59
+ 0.65
+ 0.76
+ 0.77
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 3.16
+ 2.61
+ 2.64
+ 2.32
+ 3.27
+ 3.36
+Equival. de humedad (%)
+ 13.83
+ 16.46
+ 23.39
+ 28.38
+ 25.90
+ 24.85

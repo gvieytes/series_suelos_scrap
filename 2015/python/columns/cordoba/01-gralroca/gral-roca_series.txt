@@ -1,0 +1,607 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_anchorena.htm ->> ID..........................: 101
+dss_anchorena.htm ->> CLASIFICACION...............: Ustipsamment típico
+dss_anchorena.htm ->> SERIE.......................: ANCHORENA (Anch)
+dss_anchorena.htm ->> UBICACION...................: 13,5 Km al SO de la localidad de Arizona, en el departamento Gobernador Vicente Dupuy
+dss_anchorena.htm ->> PROVINCIA...................: CORDOBA  
+dss_anchorena.htm ->> LATITUD.....................: S354900
+dss_anchorena.htm ->> LONGITUD....................: O652400 
+dss_anchorena.htm ->> ALTITUD.....................: 300
+dss_anchorena.htm ->> PENDIENTE...................: FALTA! 
+dss_anchorena.htm ->> DRENAJE.....................: FALTA! 
+dss_anchorena.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_anchorena.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_anchorena.htm ->> TIPO DE SUELO...............: FRANCO ARENOSA FINA
+dss_anchorena.htm ->> COLOR ......................: PARDO OSCURO 
+dss_anchorena.htm ->> HORIZONTE->NOMBRE(S)........: Au1    |  Au2    |  AC     |  C
+dss_anchorena.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-10   |  10-24  |  24-44  |  44a+
+dss_anchorena.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 0,74   |  0,46   |  0,34   |  0,13
+dss_anchorena.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,43   |  0,27   |  0,20   |  0,08
+dss_anchorena.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,085  |  0,05   |  0,035  |  0,025
+dss_anchorena.htm ->> HORIZONTE->RELACIÓN C/N.....: 5      |  5      |  6      |  3
+dss_anchorena.htm ->> HORIZONTE->ARCILLA 2 (%)....: 4,08   |  2,99   |  3,65   |  2,87
+dss_anchorena.htm ->> HORIZONTE->LIMO 2-50 (%)....: 30,45  |  6,88   |  5,61   |  5,79
+dss_anchorena.htm ->> HORIZONTE->AMF 50-100 (%)...: 10,91  |  12,74  |  14,0   |  12,61
+dss_anchorena.htm ->> HORIZONTE->AF 100-250 (%)...: 43,0   |  67,52  |  66,20  |  67,66
+dss_anchorena.htm ->> HORIZONTE->AM 250-500 (%)...: 1,98   |  2,98   |  3,04   |  2,60
+dss_anchorena.htm ->> HORIZONTE->AG 500-1000 (%)..: 0,40   |  0,30   |  0,34   |  0,24
+dss_anchorena.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,1    |  0,10   |  0,02   |  0,10
+dss_anchorena.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0    |  0,0    |  0,0    |  0,23
+dss_anchorena.htm ->> HORIZONTE->PH PASTA.........: 6,30   |  7,00   |  7,40   |  8,00
+dss_anchorena.htm ->> HORIZONTE->PH H2O 1:2,5.....: 6,60   |  7,60   |  8,20   |  8,30
+dss_anchorena.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 3,09   |  4,31   |  4,88   |  6,84
+dss_anchorena.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 1,44   |  1,44   |  1,57   |  1,57
+dss_anchorena.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,20   |  0,20   |  0,26   |  0,36
+dss_anchorena.htm ->> HORIZONTE->CI ME/100G-K +...: 0,38   |  0,54   |  0,54   |  0,54
+dss_anchorena.htm ->> HORIZONTE->CI ME/100G-H +...: 0,8    |         |         |   
+dss_anchorena.htm ->> HORIZONTE->SUM.B. ME/100G(S): 5,11   |  6,49   |  7,25   |  9,31
+dss_anchorena.htm ->> HORIZONTE->CIC ME/100G(T)...: 6,0    |  7,20   |  8,0    |  10,0
+dss_anchorena.htm ->> HORIZONTE->SAT.B % (S/T)....: 85     |  90     |  91     |  93 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_alfalegre.htm ->> ID..........................: 102
+dss_alfalegre.htm ->> CLASIFICACION...............: Natracualf mólico
+dss_alfalegre.htm ->> SERIE.......................: ALFALEGRE (Alf)
+dss_alfalegre.htm ->> UBICACION...................: 31 Km al Norte de Huinca Renancó
+dss_alfalegre.htm ->> PROVINCIA...................: CORDOBA  
+dss_alfalegre.htm ->> LATITUD.....................: S343100
+dss_alfalegre.htm ->> LONGITUD....................: O642200 
+dss_alfalegre.htm ->> ALTITUD.....................: 191
+dss_alfalegre.htm ->> PENDIENTE...................: FALTA! 
+dss_alfalegre.htm ->> DRENAJE.....................: FALTA! 
+dss_alfalegre.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_alfalegre.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_alfalegre.htm ->> TIPO DE SUELO...............: FALTA!
+dss_alfalegre.htm ->> COLOR ......................: PARDO OSCURO 
+dss_alfalegre.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  A2     |  B2t    |  B3
+dss_alfalegre.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-12  |  12-24  |  24-51  |  51a+
+dss_alfalegre.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,79  |  0,93   |  0,59   |  0,33
+dss_alfalegre.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 1,04  |  0,54   |  0,34   |  0,19
+dss_alfalegre.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,130 |  0,073  |  0,043  |   
+dss_alfalegre.htm ->> HORIZONTE->RELACIÓN C/N.....: 8,0   |  7,4    |  7,9    |   
+dss_alfalegre.htm ->> HORIZONTE->ARCILLA 2 (%)....: 11,8  |  11,6   |  21,2   |  13,1
+dss_alfalegre.htm ->> HORIZONTE->LIMO 2-50 (%)....: 42,3  |  36,8   |  27,4   |  32,3
+dss_alfalegre.htm ->> HORIZONTE->AMF 50-100 (%)...: 33,1  |  28,4   |  35,2   |  32,7
+dss_alfalegre.htm ->> HORIZONTE->AF 100-250 (%)...: 13,6  |  24,0   |  16,4   |  22,3
+dss_alfalegre.htm ->> HORIZONTE->AM 250-500 (%)...: 0,2   |  0,2    |  0,3    |  0,3
+dss_alfalegre.htm ->> HORIZONTE->AG 500-1000 (%)..: 0,2   |  0,2    |  0,3    |  0,5
+dss_alfalegre.htm ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |   
+dss_alfalegre.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0    |  0,54
+dss_alfalegre.htm ->> HORIZONTE->PH PASTA.........: 7,1   |  7,3    |  7,3    |  8,5
+dss_alfalegre.htm ->> HORIZONTE->PH H2O 1:2,5.....: 7,2   |  7,4    |  7,6    |  2,2
+dss_alfalegre.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 5,2   |  5,6    |  5,5    |   
+dss_alfalegre.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 4,2   |  3,4    |  6.7    |   
+dss_alfalegre.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,4    |  1,4    |   
+dss_alfalegre.htm ->> HORIZONTE->CI ME/100G-K +...: 2,4   |  1,3    |  2,1    |   
+dss_alfalegre.htm ->> HORIZONTE->CI ME/100G-H +...:       |         |         |   
+dss_alfalegre.htm ->> HORIZONTE->SUM.B. ME/100G(S): 12,1  |  10,7   |  15,7   |   
+dss_alfalegre.htm ->> HORIZONTE->CIC ME/100G(T)...: 13,5  |  10,9   |  15,7   |  11,3
+dss_alfalegre.htm ->> HORIZONTE->SAT.B % (S/T)....: 97    |  98     |  100    |   
+dss_alfalegre.htm ->> HORIZONTE->C.EXT.S ME/1-Ca++:       |         |         |  6,72
+dss_alfalegre.htm ->> HORIZONTE->C.EXT.S ME/1-Mg++:       |         |         |  4,16
+dss_alfalegre.htm ->> HORIZONTE->C.EXT.S ME/1-Na+.:       |         |         |  89,0
+dss_alfalegre.htm ->> HORIZONTE->C.EXT.S ME/1-K+..:       |         |         |  1,20
+dss_alfalegre.htm ->> HORIZONTE->C.EX.S ME/1-HCO3-:       |         |         |  6,40
+dss_alfalegre.htm ->> HORIZONTE->C.EXT.S ME/1-SO4-:       |         |         |  40,96
+dss_alfalegre.htm ->> HORIZONTE->C.EXT.S ME/1-Cl-.:       |         |         |  64,64
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_buena_esperanza.htm ->> ID..........................: 103
+dss_buena_esperanza.htm ->> CLASIFICACION...............: Ustipsamment típico
+dss_buena_esperanza.htm ->> SERIE.......................: BUENA ESPERANZA
+dss_buena_esperanza.htm ->> UBICACION...................: 10,5 Km al NO de la localidad de Buena Esperanza, en el departamento Gobernador Vicente Dupuy muy próximo al límite con el departamento General Pedernera
+dss_buena_esperanza.htm ->> PROVINCIA...................: CORDOBA
+dss_buena_esperanza.htm ->> LATITUD.....................: S343900
+dss_buena_esperanza.htm ->> LONGITUD
+dss_buena_esperanza.htm ->> ALTITUD.....................: 320
+dss_buena_esperanza.htm ->> PENDIENTE...................: FALTA! 
+dss_buena_esperanza.htm ->> DRENAJE.....................: FALTA! 
+dss_buena_esperanza.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_buena_esperanza.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_buena_esperanza.htm ->> TIPO DE SUELO...............: FALTA!
+dss_buena_esperanza.htm ->> COLOR ......................: FALTA! 
+dss_buena_esperanza.htm ->> HORIZONTE->NOMBRE(S)........: Ap     |  AC     |  C
+dss_buena_esperanza.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-20   |  20-45  |  45a+
+dss_buena_esperanza.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 0,90   |  0,61   |  0,41
+dss_buena_esperanza.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,50   |  0,34   |  0,23
+dss_buena_esperanza.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,07   |  0,06   |  0,07
+dss_buena_esperanza.htm ->> HORIZONTE->RELACIÓN C/N.....: 6,0    |  5,0    |  3,0
+dss_buena_esperanza.htm ->> HORIZONTE->ARCILLA 2 (%)....: 5,41   |  4,43   |  2,79
+dss_buena_esperanza.htm ->> HORIZONTE->LIMO 2-50 (%)....: 11,21  |  9,12   |  9,45
+dss_buena_esperanza.htm ->> HORIZONTE->AMF 50-100 (%)...: 4,37   |  5,59   |  3,26
+dss_buena_esperanza.htm ->> HORIZONTE->AF 100-250 (%)...: 63,87  |  65,37  |  68,01
+dss_buena_esperanza.htm ->> HORIZONTE->AM 250-500 (%)...: 7,91   |  8,72   |  9,26
+dss_buena_esperanza.htm ->> HORIZONTE->AG 500-1000 (%)..: 1,52   |  1,48   |  1,76
+dss_buena_esperanza.htm ->> HORIZONTE->AMG 1-2 mm (%)...:        |         |   
+dss_buena_esperanza.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,14   |  0,14   |  0,14
+dss_buena_esperanza.htm ->> HORIZONTE->PH PASTA.........: 6,0    |  6,50   |  7,0
+dss_buena_esperanza.htm ->> HORIZONTE->PH H2O 1:2,5.....: 6,50   |  7,0    |  7,50
+dss_buena_esperanza.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 3,79   |  4,09   |  4,40
+dss_buena_esperanza.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 1,44   |  1,57   |  1,44
+dss_buena_esperanza.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,30   |  0,40   |  0,48
+dss_buena_esperanza.htm ->> HORIZONTE->CI ME/100G-K +...: 1,16   |  2,26   |  2,06
+dss_buena_esperanza.htm ->> HORIZONTE->CI ME/100G-H +...: 1,0    |  0,6    |   
+dss_buena_esperanza.htm ->> HORIZONTE->SUM.B. ME/100G(S): 5,23   |  8,32   |  8,38
+dss_buena_esperanza.htm ->> HORIZONTE->CIC ME/100G(T)...: 5,60   |  8,80   |  8,80
+dss_buena_esperanza.htm ->> HORIZONTE->SAT.B % (S/T)....: 93     |  95     |  95
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_sarmiento.htm ->> ID..........................: 104
+dss_el_sarmiento.htm ->> CLASIFICACION...............: Haplustol éntico
+dss_el_sarmiento.htm ->> SERIE.......................: EL SARMIENTO (Sar)
+dss_el_sarmiento.htm ->> UBICACION...................: FALTA!
+dss_el_sarmiento.htm ->> PROVINCIA...................: CORDOBA  
+dss_el_sarmiento.htm ->> LATITUD.....................: S340900
+dss_el_sarmiento.htm ->> LONGITUD....................: O645000 
+dss_el_sarmiento.htm ->> ALTITUD.....................: 291
+dss_el_sarmiento.htm ->> PENDIENTE...................: FALTA! 
+dss_el_sarmiento.htm ->> DRENAJE.....................: FALTA! 
+dss_el_sarmiento.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_el_sarmiento.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_el_sarmiento.htm ->> TIPO DE SUELO...............: FALTA!
+dss_el_sarmiento.htm ->> COLOR ......................: FALTA! 
+dss_el_sarmiento.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  B      |  C      |  II     |  III
+dss_el_sarmiento.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-14  |  14-38  |  38-64  |  64-86  |  86a+
+dss_el_sarmiento.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 2,31  |  1,45   |         |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 1,34  |  0,84   |         |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,122 |  0,087  |         |  0,082  |  0,053
+dss_el_sarmiento.htm ->> HORIZONTE->RELACIÓN C/N.....: 11,0  |  9,6    |         |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->ARCILLA 2 (%)....: 12,2  |  13,9   |  7,9    |  22,0   |  16,0
+dss_el_sarmiento.htm ->> HORIZONTE->LIMO 2-50 (%)....: 37,8  |  40,0   |  35,1   |  57,9   |  40,9
+dss_el_sarmiento.htm ->> HORIZONTE->AMF 50-100 (%)...: 39,4  |  42,6   |  50     |  14,3   |  30,4
+dss_el_sarmiento.htm ->> HORIZONTE->AF 100-250 (%)...: 9,5   |  6,3    |  6,4    |  4,4    |  12,5
+dss_el_sarmiento.htm ->> HORIZONTE->AM 250-500 (%)...: 0,2   |  0,1    |  0,1    |  0,2    |  0,5
+dss_el_sarmiento.htm ->> HORIZONTE->AG 500-1000 (%)..: 0,2   |  0,1    |  0,1    |  0,1    |  0,4
+dss_el_sarmiento.htm ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |         |  0,1
+dss_el_sarmiento.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0    |  0,65   |  1,13
+dss_el_sarmiento.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 12,3  |  16,2   |  11,9   |  32,4   |  19,2
+dss_el_sarmiento.htm ->> HORIZONTE->PH PASTA.........: 5,7   |  5,8    |  6,6    |  7,2    |  7,3
+dss_el_sarmiento.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,9   |  6,0    |  6,7    |  7,5    |  7,6
+dss_el_sarmiento.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 6,7   |  8,0    |  7,1    |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7   |  0,8    |  0,9    |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,1    |  0,1    |  0,7    |  0,5
+dss_el_sarmiento.htm ->> HORIZONTE->CI ME/100G-K +...: 3,3   |  2,4    |  1,6    |  1,6    |  1,3
+dss_el_sarmiento.htm ->> HORIZONTE->CI ME/100G-H +...: 1,4   |  1,2    |  0,5    |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->Na+ % DEL VALOR T:       |         |         |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->SUM.B. ME/100G(S): 11,0  |  11,3   |  9,7    |         |   
+dss_el_sarmiento.htm ->> HORIZONTE->CIC ME/100G(T)...: 12,6  |  12,8   |  10,3   |  20,4   |  16,0
+dss_el_sarmiento.htm ->> HORIZONTE->SAT.B % (S/T)....: 87    |  88     |  94     |         |      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_veintitres.htm ->> ID..........................: 105
+dss_el_veintitres.htm ->> CLASIFICACION...............: Haplustol éntico
+dss_el_veintitres.htm ->> SERIE.......................: EL VEINTITRES (Vei)
+dss_el_veintitres.htm ->> UBICACION...................: 21,6 Km al Norte de Huinca Renancó, departamento General Roca
+dss_el_veintitres.htm ->> PROVINCIA...................: CORDOBA  
+dss_el_veintitres.htm ->> LATITUD.....................: S343800
+dss_el_veintitres.htm ->> LONGITUD....................: O642600 
+dss_el_veintitres.htm ->> ALTITUD.....................: 193
+dss_el_veintitres.htm ->> PENDIENTE...................: FALTA! 
+dss_el_veintitres.htm ->> DRENAJE.....................: FALTA! 
+dss_el_veintitres.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_el_veintitres.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_el_veintitres.htm ->> TIPO DE SUELO...............: FALTA!
+dss_el_veintitres.htm ->> COLOR ......................: FALTA! 
+dss_el_veintitres.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  AC     |  C
+dss_el_veintitres.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-17  |  17-45  |  45a+
+dss_el_veintitres.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,55  |  0,86   |   
+dss_el_veintitres.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,90  |  0,50   |   
+dss_el_veintitres.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,109 |  0,062  |   
+dss_el_veintitres.htm ->> HORIZONTE->RELACIÓN C/N.....: 8,2   |  8,0    |   
+dss_el_veintitres.htm ->> HORIZONTE->ARCILLA 2 (%)....: 10,0  |  9,8    |  8,8
+dss_el_veintitres.htm ->> HORIZONTE->LIMO 2-50 (%)....: 25,5  |  23,3   |  21,7
+dss_el_veintitres.htm ->> HORIZONTE->AMF 50-100 (%)...: 29,8  |  35,7   |  37,5
+dss_el_veintitres.htm ->> HORIZONTE->AF 100-250 (%)...: 32,5  |  29,3   |  29,4
+dss_el_veintitres.htm ->> HORIZONTE->AM 250-500 (%)...: 1,8   |  1,4    |  1,3
+dss_el_veintitres.htm ->> HORIZONTE->AG 500-1000 (%)..: 1,2   |  1,0    |  1,0
+dss_el_veintitres.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,1   |         |   
+dss_el_veintitres.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,08
+dss_el_veintitres.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 12,8  |  11,5   |  10,8
+dss_el_veintitres.htm ->> HORIZONTE->PH PASTA.........: 5,7   |  6,7    |  7,1
+dss_el_veintitres.htm ->> HORIZONTE->PH H2O 1:2,5.....: 6,1   |  6,9    |  7,3
+dss_el_veintitres.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 7,3   |  7,5    |   
+dss_el_veintitres.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,9   |  0,6    |   
+dss_el_veintitres.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,1    |  0,3
+dss_el_veintitres.htm ->> HORIZONTE->CI ME/100G-K +...: 1,9   |  1,5    |  0,8
+dss_el_veintitres.htm ->> HORIZONTE->CI ME/100G-H +...: 0,9   |  0,7    |  0,3
+dss_el_veintitres.htm ->> HORIZONTE->SUM.B. ME/100G(S): 10,8  |  9,7    |   
+dss_el_veintitres.htm ->> HORIZONTE->CIC ME/100G(T)...: 11,9  |  10,5   |  9,2
+dss_el_veintitres.htm ->> HORIZONTE->SAT.B % (S/T)....: 91    |  92     |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_el_yarara.htm ->> ID..........................: 106
+dss_el_yarara.htm ->> CLASIFICACION...............: Haplustol éntico
+dss_el_yarara.htm ->> SERIE.......................: EL YARARA (Yar)
+dss_el_yarara.htm ->> UBICACION...................: 16,2 Km al Norte de Del Campillo
+dss_el_yarara.htm ->> PROVINCIA...................: CORDOBA  
+dss_el_yarara.htm ->> LATITUD.....................: S341300
+dss_el_yarara.htm ->> LONGITUD....................: O642900 
+dss_el_yarara.htm ->> ALTITUD.....................: 239
+dss_el_yarara.htm ->> PENDIENTE...................: FALTA! 
+dss_el_yarara.htm ->> DRENAJE.....................: FALTA! 
+dss_el_yarara.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_el_yarara.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_el_yarara.htm ->> TIPO DE SUELO...............: FALTA!
+dss_el_yarara.htm ->> COLOR ......................: FALTA! 
+dss_el_yarara.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  AC     |  C
+dss_el_yarara.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  |  18-43  |  43a+
+dss_el_yarara.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,59  |  1,02   |   
+dss_el_yarara.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,93  |  0,59   |   
+dss_el_yarara.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,111 |  0,068  |   
+dss_el_yarara.htm ->> HORIZONTE->RELACIÓN C/N.....: 8,4   |  8,7    |   
+dss_el_yarara.htm ->> HORIZONTE->ARCILLA 2 (%)....: 9,0   |  7,3    |  6,9
+dss_el_yarara.htm ->> HORIZONTE->LIMO 2-50 (%)....: 17,2  |  15,0   |  13,0
+dss_el_yarara.htm ->> HORIZONTE->AMF 50-100 (%)...: 47,3  |  52,2   |  55,3
+dss_el_yarara.htm ->> HORIZONTE->AF 100-250 (%)...: 24,6  |  24,3   |  23,1
+dss_el_yarara.htm ->> HORIZONTE->AM 250-500 (%)...: 1,4   |  0,8    |  0,7
+dss_el_yarara.htm ->> HORIZONTE->AG 500-1000 (%)..: 0,5   |  1,0    |  1,2
+dss_el_yarara.htm ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |   
+dss_el_yarara.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0
+dss_el_yarara.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 11,3  |  9,8    |  8,3
+dss_el_yarara.htm ->> HORIZONTE->PH PASTA.........: 5,3   |  5,9    |  7,0
+dss_el_yarara.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,6   |  6,3    |  7,1
+dss_el_yarara.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 6,9   |  5,5    |  5,1
+dss_el_yarara.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,4   |  0,5    |  0,8
+dss_el_yarara.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,2    |  0,2
+dss_el_yarara.htm ->> HORIZONTE->CI ME/100G-K +...: 1,6   |  1,6    |  1,1
+dss_el_yarara.htm ->> HORIZONTE->CI ME/100G-H +...: 1,8   |  1,0    |  0,5
+dss_el_yarara.htm ->> HORIZONTE->SUM.B. ME/100G(S): 9,1   |  7,8    |  7,1
+dss_el_yarara.htm ->> HORIZONTE->CIC ME/100G(T)...: 11,0  |  8,8    |  7,5
+dss_el_yarara.htm ->> HORIZONTE->SAT.B % (S/T)....: 83    |  89     |  95
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_huinca_renanco.htm ->> ID..........................: 107
+dss_huinca_renanco.htm ->> CLASIFICACION...............: Ustipsamment típico
+dss_huinca_renanco.htm ->> SERIE.......................: HUINCA Renancó
+dss_huinca_renanco.htm ->> UBICACION...................: 15,3 Km al NNO de Huinca Renancó
+dss_huinca_renanco.htm ->> PROVINCIA...................: CORDOBA  
+dss_huinca_renanco.htm ->> LATITUD.....................: S344300
+dss_huinca_renanco.htm ->> LONGITUD....................: O642700 
+dss_huinca_renanco.htm ->> ALTITUD.....................: 195
+dss_huinca_renanco.htm ->> PENDIENTE...................: FALTA! 
+dss_huinca_renanco.htm ->> DRENAJE.....................: FALTA! 
+dss_huinca_renanco.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_huinca_renanco.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_huinca_renanco.htm ->> TIPO DE SUELO...............: FALTA!
+dss_huinca_renanco.htm ->> COLOR ......................: FALTA! 
+dss_huinca_renanco.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  AC     |  C
+dss_huinca_renanco.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-21  |  21-43  |  43a+
+dss_huinca_renanco.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,26  |  0,86   |   
+dss_huinca_renanco.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,73  |  0,50   |   
+dss_huinca_renanco.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0.085 |  0,054  |   
+dss_huinca_renanco.htm ->> HORIZONTE->RELACIÓN C/N.....: 8,6   |  9,2    |   
+dss_huinca_renanco.htm ->> HORIZONTE->ARCILLA 2 (%)....: 6,9   |  6,5    |  5,7
+dss_huinca_renanco.htm ->> HORIZONTE->LIMO 2-50 (%)....: 16,5  |  15,3   |  16,1
+dss_huinca_renanco.htm ->> HORIZONTE->AMF 50-100 (%)...: 36,3  |  40,8   |  40,6
+dss_huinca_renanco.htm ->> HORIZONTE->AF 100-250 (%)...: 37,4  |  34,5   |  35,3
+dss_huinca_renanco.htm ->> HORIZONTE->AM 250-500 (%)...: 1,9   |  1,1    |  1,0
+dss_huinca_renanco.htm ->> HORIZONTE->AG 500-1000 (%)..: 3,0   |  1,5    |  1,4
+dss_huinca_renanco.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,0   |  0,0    |  0,0
+dss_huinca_renanco.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0
+dss_huinca_renanco.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 8,8   |  7,8    |  7,1
+dss_huinca_renanco.htm ->> HORIZONTE->PH PASTA.........: 5,5   |  6,2    |  7,0
+dss_huinca_renanco.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,7   |  6,3    |  7,2
+dss_huinca_renanco.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 4,7   |  5,9    |  5,6
+dss_huinca_renanco.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7   |  0,2    |  0,7
+dss_huinca_renanco.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,2    |  0,1
+dss_huinca_renanco.htm ->> HORIZONTE->CI ME/100G-K +...: 1,6   |  1,3    |  0,6
+dss_huinca_renanco.htm ->> HORIZONTE->CI ME/100G-H +...: 1,4   |  0,7    |  0,4
+dss_huinca_renanco.htm ->> HORIZONTE->SUM.B. ME/100G(S): 7,2   |  7,6    |  6,8
+dss_huinca_renanco.htm ->> HORIZONTE->CIC ME/100G(T)...: 8,8   |  8,2    |  7,2
+dss_huinca_renanco.htm ->> HORIZONTE->SAT.B % (S/T)....: 82    |  93     |  94
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_ing_foster.htm ->> ID..........................: 108
+dss_ing_foster.htm ->> CLASIFICACION...............: Haplustol éntico
+dss_ing_foster.htm ->> SERIE.......................: INGENIERO FOSTER (IngF)
+dss_ing_foster.htm ->> UBICACION...................: 26,5 Km al SE de Arizona, en el departamento Gobernador Vicente Dupuy
+dss_ing_foster.htm ->> PROVINCIA...................: CORDOBA  
+dss_ing_foster.htm ->> LATITUD.....................: S355300
+dss_ing_foster.htm ->> LONGITUD....................: O650600 
+dss_ing_foster.htm ->> ALTITUD.....................: 300
+dss_ing_foster.htm ->> PENDIENTE...................: FALTA! 
+dss_ing_foster.htm ->> DRENAJE.....................: FALTA! 
+dss_ing_foster.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_ing_foster.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_ing_foster.htm ->> TIPO DE SUELO...............: FALTA!
+dss_ing_foster.htm ->> COLOR ......................: FALTA! 
+dss_ing_foster.htm ->> HORIZONTE->NOMBRE(S)........: Au     |  Ah     |  AC     |  C
+dss_ing_foster.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-8    |  8-27   |  27-53  |  53a+
+dss_ing_foster.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,27   |  1,48   |  0,55   |  0,29
+dss_ing_foster.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,74   |  0,86   |  0,32   |  0,17
+dss_ing_foster.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,09   |  0,08   |  0,04   |  0,04
+dss_ing_foster.htm ->> HORIZONTE->RELACIÓN C/N.....: 8,0    |  11,0   |  8,0    |  4,0
+dss_ing_foster.htm ->> HORIZONTE->ARCILLA 2 (%)....: 4,42   |  4,83   |  3,62   |  3,61
+dss_ing_foster.htm ->> HORIZONTE->LIMO 2-50 (%)....: 40,34  |  17,34  |  15,75  |  16,99
+dss_ing_foster.htm ->> HORIZONTE->AMF 50-100 (%)...: 7,02   |  3,42   |  4,71   |  3,39
+dss_ing_foster.htm ->> HORIZONTE->AF 100-250 (%)...: 33,38  |  52,97  |  52,00  |  54,00
+dss_ing_foster.htm ->> HORIZONTE->AM 250-500 (%)...: 8,15   |  16,56  |  18,73  |  18,35
+dss_ing_foster.htm ->> HORIZONTE->AG 500-1000 (%)..: 0,85   |  1,50   |  1,30   |  1,54
+dss_ing_foster.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,02   |  0,14   |  0,04   |  0,30
+dss_ing_foster.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,15   |  0,15   |  0,15   |  0,15
+dss_ing_foster.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 14,59  |  9,54   |  8,86   |  8,18
+dss_ing_foster.htm ->> HORIZONTE->PH PASTA.........: 5,60   |  6,90   |  7,20   |  7,40
+dss_ing_foster.htm ->> HORIZONTE->PH H2O 1:2,5.....: 6,10   |  7,20   |  7,40   |  7,60
+dss_ing_foster.htm ->> HORIZONTE->CI ME/100G-Ca ++.:        |         |         |   
+dss_ing_foster.htm ->> HORIZONTE->CI ME/100G-Mg ++.:        |         |         |   
+dss_ing_foster.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,26   |  0,42   |  0,64   |  0,70
+dss_ing_foster.htm ->> HORIZONTE->CI ME/100G-K +...: 0,56   |  0,56   |  0,54   |  0,52
+dss_ing_foster.htm ->> HORIZONTE->CI ME/100G-H +...: 1,20   |  1,20   |         |   
+dss_ing_foster.htm ->> HORIZONTE->SUM.B. ME/100G(S):        |         |         |   
+dss_ing_foster.htm ->> HORIZONTE->CIC ME/100G(T)...: 7,20   |  8,30   |  8,60   |  11,20
+dss_ing_foster.htm ->> HORIZONTE->SAT.B % (S/T)....:        |         |         |   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_italo.htm ->> ID..........................: 109
+dss_italo.htm ->> CLASIFICACION...............: Haplustol típico
+dss_italo.htm ->> SERIE.......................: ITALO (Ita)
+dss_italo.htm ->> UBICACION...................: 13 Km al Norte de Italó, departamento General Roca
+dss_italo.htm ->> PROVINCIA...................: CORDOBA  
+dss_italo.htm ->> LATITUD.....................: S344100
+dss_italo.htm ->> LONGITUD....................: O634600 
+dss_italo.htm ->> ALTITUD.....................: 141
+dss_italo.htm ->> PENDIENTE...................: FALTA! 
+dss_italo.htm ->> DRENAJE.....................: FALTA! 
+dss_italo.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_italo.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_italo.htm ->> TIPO DE SUELO...............: FALTA!
+dss_italo.htm ->> COLOR ......................: FALTA! 
+dss_italo.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  B      |  C1     |  C2ca
+dss_italo.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-24  |  24-57  |  57-95  |  95a+
+dss_italo.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,94  |  0,62   |         |   
+dss_italo.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 1,12  |  0,36   |         |   
+dss_italo.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,116 |  0,057  |         |   
+dss_italo.htm ->> HORIZONTE->RELACIÓN C/N.....: 9,6   |  6,3    |         |   
+dss_italo.htm ->> HORIZONTE->ARCILLA 2 (%)....: 10,6  |  11,8   |  7,9    |  6,5
+dss_italo.htm ->> HORIZONTE->LIMO 2-50 (%)....: 27,7  |  24,1   |  24,1   |  23,3
+dss_italo.htm ->> HORIZONTE->AMF 50-100 (%)...: 28,2  |  24,5   |  30,5   |  29,6
+dss_italo.htm ->> HORIZONTE->AF 100-250 (%)...: 27,9  |  35,8   |  32,5   |  34,0
+dss_italo.htm ->> HORIZONTE->AM 250-500 (%)...: 2,8   |  1,8    |  1,4    |  3,6
+dss_italo.htm ->> HORIZONTE->AG 500-1000 (%)..: 2,4   |  2,5    |  2,9    |  2,1
+dss_italo.htm ->> HORIZONTE->Arena muy gruesa., 0,1   |         |         |   
+dss_italo.htm ->> HORIZONTE->CALCAREO CaCO3(%): 2,2   |         |         |   
+dss_italo.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 13,8  |  12,0   |  9,3    |  9,7
+dss_italo.htm ->> HORIZONTE->PH PASTA.........: 6,3   |  6,5    |  7,0    |  7,6
+dss_italo.htm ->> HORIZONTE->PH H2O 1:2,5.....: 6,5   |  6,7    |  7,2    |  7,9
+dss_italo.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 5,8   |  6,5    |  6,3    |   
+dss_italo.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7   |  0,7    |  1,1    |   
+dss_italo.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,2    |  0,2    |  0,3
+dss_italo.htm ->> HORIZONTE->CI ME/100G-K +...: 2,9   |  1,3    |  0,7    |  1,3
+dss_italo.htm ->> HORIZONTE->CI ME/100G-H +...: 1,1   |  0,7    |  0,4    |   
+dss_italo.htm ->> HORIZONTE->SUM.B. ME/100G(S): 9,7   |  8,7    |  8,3    |   
+dss_italo.htm ->> HORIZONTE->CIC ME/100G(T)...: 10,0  |  9,5    |  8,7    |  7,4
+dss_italo.htm ->> HORIZONTE->SAT.B % (S/T)....: 88    |  91     |  95     |   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_la_renanco.htm ->> ID..........................: 110
+dss_la_renanco.htm ->> CLASIFICACION...............: Natracualf mólico
+dss_la_renanco.htm ->> SERIE.......................: LA RENANCO
+dss_la_renanco.htm ->> UBICACION...................: 22,9 Km al Norte de Huinca Renancó
+dss_la_renanco.htm ->> PROVINCIA...................: CORDOBA  
+dss_la_renanco.htm ->> LATITUD.....................: S343800
+dss_la_renanco.htm ->> LONGITUD....................: O642000 
+dss_la_renanco.htm ->> ALTITUD.....................: 187
+dss_la_renanco.htm ->> PENDIENTE...................: FALTA! 
+dss_la_renanco.htm ->> DRENAJE.....................: FALTA! 
+dss_la_renanco.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_la_renanco.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_la_renanco.htm ->> TIPO DE SUELO...............: FALTA!
+dss_la_renanco.htm ->> COLOR ......................: FALTA! 
+dss_la_renanco.htm ->> HORIZONTE->NOMBRE(S)........: A21   |  A22    |  B2t    |  B3     |  C
+dss_la_renanco.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-15  |  15-40  |  40-60  |  60-86  |  86a+
+dss_la_renanco.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,60  |  0,26   |  0,30   |  0,19   |   
+dss_la_renanco.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,93  |  0,15   |  0,18   |  0,11   |   
+dss_la_renanco.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,087 |  0,032  |  0,040  |         |   
+dss_la_renanco.htm ->> HORIZONTE->RELACIÓN C/N.....: 10,7  |  4,7    |  4,5    |         |   
+dss_la_renanco.htm ->> HORIZONTE->ARCILLA 2 (%)....: 6,9   |  7,2    |  21,8   |  14,1   |  10,8
+dss_la_renanco.htm ->> HORIZONTE->LIMO 2-50 (%)....: 21,3  |  30,2   |  24,0   |  26,7   |  26,1
+dss_la_renanco.htm ->> HORIZONTE->AMF 50-100 (%)...: 42,3  |  42,3   |  35,9   |  39,7   |  44,8
+dss_la_renanco.htm ->> HORIZONTE->AF 100-250 (%)...: 27,3  |  17,4   |  16,2   |  18,8   |  18,1
+dss_la_renanco.htm ->> HORIZONTE->AM 250-500 (%)...: 1,0   |  1,2    |  0,9    |  0,9    |  1,0
+dss_la_renanco.htm ->> HORIZONTE->AG 500-1000 (%)..: 0,7   |  0,5    |  0,7    |  0,6    |  0,6
+dss_la_renanco.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,1   |  0,2    |  0,0    |  0,0    |  0,0
+dss_la_renanco.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  2,07   |  1,13   |  1,21
+dss_la_renanco.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 11,3  |  13,7   |  26,5   |  21,0   |  16,1
+dss_la_renanco.htm ->> HORIZONTE->PH PASTA.........: 5,5   |  7,5    |  8,9    |  9,3    |  9,3
+dss_la_renanco.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,7   |  7,9    |  9,3    |  9,5    |  9,5
+dss_la_renanco.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 4,7   |  4,3    |         |         |   
+dss_la_renanco.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,6   |  0,5    |         |         |   
+dss_la_renanco.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,2    |  12,7   |  12,7   |  11,3
+dss_la_renanco.htm ->> HORIZONTE->CI ME/100G-K +...: 1,5   |  1,9    |  2,4    |  2,1    |  1,9
+dss_la_renanco.htm ->> HORIZONTE->CI ME/100G-H +...: 1,3   |         |         |         |   
+dss_la_renanco.htm ->> HORIZONTE->Na+ % DEL VALOR T:       |         |  64,46  |  76,96  |  91,86
+dss_la_renanco.htm ->> HORIZONTE->SUM.B. ME/100G(S): 7,2   |  8,8    |         |         |   
+dss_la_renanco.htm ->> HORIZONTE->CIC ME/100G(T)...: 8,5   |  8,8    |  19,7   |  16,5   |  12,3
+dss_la_renanco.htm ->> HORIZONTE->SAT.B % (S/T)....: 85    |  100    |         |         | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_las_isletas.htm ->> ID..........................: 111
+dss_las_isletas.htm ->> CLASIFICACION...............: Haplustol típico
+dss_las_isletas.htm ->> SERIE.......................: LAS ISLETAS
+dss_las_isletas.htm ->> UBICACION...................: 8 Km al SO de Villa Huidobro
+dss_las_isletas.htm ->> PROVINCIA...................: CORDOBA  
+dss_las_isletas.htm ->> LATITUD.....................: S344100
+dss_las_isletas.htm ->> LONGITUD....................: O634600 
+dss_las_isletas.htm ->> ALTITUD.....................: 141
+dss_las_isletas.htm ->> PENDIENTE...................: FALTA! 
+dss_las_isletas.htm ->> DRENAJE.....................: FALTA! 
+dss_las_isletas.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_las_isletas.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_las_isletas.htm ->> TIPO DE SUELO...............: FALTA!
+dss_las_isletas.htm ->> COLOR ......................: FALTA! 
+dss_las_isletas.htm ->> HORIZONTE->NOMBRE(S)........: Ap    |  B2     |  B3     |  C
+dss_las_isletas.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  |  18-37  |  37-58  |  58a+
+dss_las_isletas.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 2,28  |  1,30   |  0,59   |   
+dss_las_isletas.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 1,33  |  0,76   |  0,34   |   
+dss_las_isletas.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,139 |  0,085  |         |   
+dss_las_isletas.htm ->> HORIZONTE->RELACIÓN C/N.....: 9,6   |  8,9    |         |   
+dss_las_isletas.htm ->> HORIZONTE->ARCILLA 2 (%)....: 20,0  |  22,1   |  19,4   |  15,5
+dss_las_isletas.htm ->> HORIZONTE->LIMO 2-50 (%)....: 34,1  |  28,4   |  26,4   |  26,5
+dss_las_isletas.htm ->> HORIZONTE->AMF 50-100 (%)...: 15,1  |  17,5   |  13,0   |  22,6
+dss_las_isletas.htm ->> HORIZONTE->AF 100-250 (%)...: 29,6  |  31,3   |  40,2   |  34,3
+dss_las_isletas.htm ->> HORIZONTE->AM 250-500 (%)...: 1,1   |  0,8    |  0,7    |  0,8
+dss_las_isletas.htm ->> HORIZONTE->AG 500-1000 (%)..: 1,2   |  0,8    |  1,0    |  0,9
+dss_las_isletas.htm ->> HORIZONTE->Arena muy gruesa., -     |         |         |   
+dss_las_isletas.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0     |  0      |  0      |  0
+dss_las_isletas.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 22,0  |  19,8   |  18,7   |  16,6
+dss_las_isletas.htm ->> HORIZONTE->PH PASTA.........: 5,4   |  6,5    |  7,0    |  7,3
+dss_las_isletas.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,6   |  6,7    |  7,2    |  7,4
+dss_las_isletas.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 11,6  |  12,0   |  12,9   |  13,2
+dss_las_isletas.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,2   |  1,6    |  1,1    |  1,1
+dss_las_isletas.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,2    |  0,1    |  0,2
+dss_las_isletas.htm ->> HORIZONTE->CI ME/100G-K +...: 2,6   |  2,3    |  1,9    |  1,3
+dss_las_isletas.htm ->> HORIZONTE->CI ME/100G-H +...:       |         |         |   
+dss_las_isletas.htm ->> HORIZONTE->SUM.B. ME/100G(S): 14,6  |  16,1   |  16,0   |  15,8
+dss_las_isletas.htm ->> HORIZONTE->CIC ME/100G(T)...: 16,8  |  17,3   |  16,5   |  16,1
+dss_las_isletas.htm ->> HORIZONTE->SAT.B % (S/T)....: 87    |  93     |  96     |  98
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_los_portenos.htm ->> ID..........................: 112
+dss_los_portenos.htm ->> CLASIFICACION...............: Natralbol típico
+dss_los_portenos.htm ->> SERIE.......................: LOS PORTEÑOS (Por)
+dss_los_portenos.htm ->> UBICACION...................: FALTA!
+dss_los_portenos.htm ->> PROVINCIA...................: CORDOBA  
+dss_los_portenos.htm ->> LATITUD.....................: S343700
+dss_los_portenos.htm ->> LONGITUD....................: O644500
+dss_los_portenos.htm ->> ALTITUD.....................: 240
+dss_los_portenos.htm ->> PENDIENTE...................: FALTA! 
+dss_los_portenos.htm ->> DRENAJE.....................: FALTA! 
+dss_los_portenos.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_los_portenos.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_los_portenos.htm ->> TIPO DE SUELO...............: FALTA!
+dss_los_portenos.htm ->> COLOR ......................: FALTA! 
+dss_los_portenos.htm ->> HORIZONTE->NOMBRE(S)........: Ap    |  A2     |  B2t
+dss_los_portenos.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-19  |  19-57  |  57a+
+dss_los_portenos.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 2,15  |  1,27   |  0,58
+dss_los_portenos.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 1,25  |  0,74   |  0,34
+dss_los_portenos.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,148 |  0,095  |  0,079
+dss_los_portenos.htm ->> HORIZONTE->RELACIÓN C/N.....: 8,4   |  7,8    |  4,3
+dss_los_portenos.htm ->> HORIZONTE->ARCILLA 2 (%)....: 12,7  |  15,8   |  23,5
+dss_los_portenos.htm ->> HORIZONTE->LIMO 2-50 (%)....: 43,2  |  52,0   |  52,8
+dss_los_portenos.htm ->> HORIZONTE->AMF 50-100 (%)...: 25,5  |  18,2   |  14,7
+dss_los_portenos.htm ->> HORIZONTE->AF 100-250 (%)...: 18,3  |  13,7   |  8,7
+dss_los_portenos.htm ->> HORIZONTE->AM 250-500 (%)...: 0,5   |  0,2    |  0,4
+dss_los_portenos.htm ->> HORIZONTE->AG 500-1000 (%)..: 0,5   |  0,4    |  0,5
+dss_los_portenos.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,1   |         |   
+dss_los_portenos.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0
+dss_los_portenos.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 21,8  |  25,5   |  27,7
+dss_los_portenos.htm ->> HORIZONTE->PH PASTA.........: 6,4   |  6,7    |  7,5
+dss_los_portenos.htm ->> HORIZONTE->PH H2O 1:2,5.....: 6,5   |  7,0    |  8,2
+dss_los_portenos.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 8,3   |  12,0   |  12,4
+dss_los_portenos.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 1,3   |  0,4    |  1,8
+dss_los_portenos.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,6    |  4,5
+dss_los_portenos.htm ->> HORIZONTE->CI ME/100G-K +...: 3,3   |  2,8    |  3,2
+dss_los_portenos.htm ->> HORIZONTE->CI ME/100G-H +...: 1,9   |  1,5    |   
+dss_los_portenos.htm ->> HORIZONTE->SUM.B. ME/100G(S): 13,2  |  15,8   |  21,9
+dss_los_portenos.htm ->> HORIZONTE->CIC ME/100G(T)...: 15,3  |  17,2   |  21,7
+dss_los_portenos.htm ->> HORIZONTE->SAT.B % (S/T)....: 86    |  92     |  100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_pincen.htm ->> ID..........................: 113
+dss_pincen.htm ->> CLASIFICACION...............: Natralbol típico
+dss_pincen.htm ->> SERIE.......................: PINCEN (Pin)
+dss_pincen.htm ->> UBICACION...................: 20 Km al Noroeste de Italó, departamento General Roca
+dss_pincen.htm ->> PROVINCIA...................: CORDOBA  
+dss_pincen.htm ->> LATITUD.....................: S344100
+dss_pincen.htm ->> LONGITUD....................: O645800 
+dss_pincen.htm ->> ALTITUD.....................: 149
+dss_pincen.htm ->> PENDIENTE...................: FALTA! 
+dss_pincen.htm ->> DRENAJE.....................: FALTA! 
+dss_pincen.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_pincen.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_pincen.htm ->> TIPO DE SUELO...............: FALTA!
+dss_pincen.htm ->> COLOR ......................: FALTA! 
+dss_pincen.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  A2     |  B2t    |  B3     |  Cca
+dss_pincen.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-17  |  17-42  |  42-64  |  64-94  |  94a+
+dss_pincen.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,75  |  0,43   |         |         |   
+dss_pincen.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 1,02  |  0,25   |  0,13   |  0,08   |   
+dss_pincen.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,105 |  0,040  |  0,037  |         |   
+dss_pincen.htm ->> HORIZONTE->RELACIÓN C/N.....: 9,7   |  6,2    |  3,5    |         |   
+dss_pincen.htm ->> HORIZONTE->ARCILLA 2 (%)....: 9,2   |  6,0    |  18,4   |  11,6   |  9,4
+dss_pincen.htm ->> HORIZONTE->LIMO 2-50 (%)....: 35,2  |  29,6   |  24,6   |  26,9   |  26,7
+dss_pincen.htm ->> HORIZONTE->AMF 50-100 (%)...: 26,0  |  28,3   |  35,9   |  34,1   |  35,4
+dss_pincen.htm ->> HORIZONTE->AF 100-250 (%)...: 21,1  |  27,5   |  13,8   |  21,0   |  20,8
+dss_pincen.htm ->> HORIZONTE->AM 250-500 (%)...: 3,0   |  3,8    |  3,0    |  2,8    |  3,1
+dss_pincen.htm ->> HORIZONTE->AG 500-1000 (%)..: 4,2   |  5,2    |  3,1    |  2,6    |  3,0
+dss_pincen.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,0   |  0,0    |  0,0    |  0,0    |  0,0
+dss_pincen.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,69   |  0,36   |  2,18
+dss_pincen.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 15,2  |  9,8    |  21,6   |  16,7   |  16,5
+dss_pincen.htm ->> HORIZONTE->PH PASTA.........: 5,6   |  6,5    |  8,4    |  9,0    |  9,1
+dss_pincen.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,9   |  6,8    |  9,0    |  9,3    |  9,6
+dss_pincen.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 4,9   |  3,1    |         |         |   
+dss_pincen.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,3   |  0,6    |         |         |   
+dss_pincen.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,4    |  5,8    |  5,9    |  6,1
+dss_pincen.htm ->> HORIZONTE->CI ME/100G-K +...: 2,4   |  1,6    |  2,7    |  2,0    |  1,7
+dss_pincen.htm ->> HORIZONTE->CI ME/100G-H +...: 1,8   |  0,6    |         |         |   
+dss_pincen.htm ->> HORIZONTE->Na, % del valor T:       |         |  38,92  |  45,73  |  61,00
+dss_pincen.htm ->> HORIZONTE->SUM.B. ME/100G(S): 7,8   |  5,7    |         |         |   
+dss_pincen.htm ->> HORIZONTE->CIC ME/100G(T)...: 9,8   |  6,7    |  14,9   |  12,    |  10,0
+dss_pincen.htm ->> HORIZONTE->SAT.B % (S/T)....: 79    |  85     |         |         | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_san_carlos.htm ->> ID..........................: 114
+dss_san_carlos.htm ->> CLASIFICACION...............: Argialbol ácuico
+dss_san_carlos.htm ->> SERIE.......................: SAN CARLOS (SanC)
+dss_san_carlos.htm ->> UBICACION...................: 14,1 Km al Noroeste de Huinca Renancó, departamento General Roca
+dss_san_carlos.htm ->> PROVINCIA...................: CORDOBA  
+dss_san_carlos.htm ->> LATITUD.....................: S344400
+dss_san_carlos.htm ->> LONGITUD....................: O642600 
+dss_san_carlos.htm ->> ALTITUD.....................: 192
+dss_san_carlos.htm ->> PENDIENTE...................: FALTA! 
+dss_san_carlos.htm ->> DRENAJE.....................: FALTA! 
+dss_san_carlos.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_san_carlos.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_san_carlos.htm ->> TIPO DE SUELO...............: FALTA!
+dss_san_carlos.htm ->> COLOR ......................: FALTA! 
+dss_san_carlos.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  A21    |  A22    |  B2t    |  B3
+dss_san_carlos.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  |  18-34  |  34-43  |  43-74  |  74a+
+dss_san_carlos.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,34  |  0,19   |  0,17   |  0,10   |  0,51
+dss_san_carlos.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,78  |  0,11   |  0,10   |  0,06   |  0,03
+dss_san_carlos.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,100 |  0,035  |  0,032  |  0,030  |   
+dss_san_carlos.htm ->> HORIZONTE->RELACIÓN C/N.....: 7,8   |  3,1    |  3,1    |  2,0    |   
+dss_san_carlos.htm ->> HORIZONTE->ARCILLA 2 (%)....: 9,0   |  5,1    |  5,3    |  11,4   |  7,8
+dss_san_carlos.htm ->> HORIZONTE->LIMO 2-50 (%)....: 24,5  |  18,5   |  18,9   |  17,8   |  17,7
+dss_san_carlos.htm ->> HORIZONTE->AMF 50-100 (%)...: 20,3  |  17,5   |  29,2   |  22,2   |  21,8
+dss_san_carlos.htm ->> HORIZONTE->AF 100-250 (%)...: 39,2  |  50,5   |  38,9   |  41,0   |  44,1
+dss_san_carlos.htm ->> HORIZONTE->AM 250-500 (%)...: 1,3   |  1,7    |  1,5    |  1,8    |  2,2
+dss_san_carlos.htm ->> HORIZONTE->AG 500-1000 (%)..: 5,3   |  6,4    |  6,3    |  5,7    |  6,9
+dss_san_carlos.htm ->> HORIZONTE->AMG 1-2 mm (%)...: 0,8   |  1,1    |  0,6    |  0,4    |  0,1
+dss_san_carlos.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,78  |         |         |         |   
+dss_san_carlos.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 12,7  |  7,6    |  7,8    |  11,5   |  9,0
+dss_san_carlos.htm ->> HORIZONTE->PH PASTA.........: 5,5   |  6,6    |  6,9    |  6,9    |  7,7
+dss_san_carlos.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,7   |  6,7    |  7,0    |  7,1    |  7,9
+dss_san_carlos.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 5,1   |  4,2    |  4,4    |  6,4    |   
+dss_san_carlos.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 0,8   |  0,3    |  0,5    |  0,9    |   
+dss_san_carlos.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,2    |  0,1    |  0,2    |  0,2
+dss_san_carlos.htm ->> HORIZONTE->CI ME/100G-K +...: 1,9   |  1,4    |  1,3    |  1,6    |  1,2
+dss_san_carlos.htm ->> HORIZONTE->CI ME/100G-H +...: 1,2   |  0,6    |  0,5    |  0,4    |   
+dss_san_carlos.htm ->> HORIZONTE->SUM.B. ME/100G(S): 8,0   |  6,1    |  6,3    |  9,1    |   
+dss_san_carlos.htm ->> HORIZONTE->CIC ME/100G(T)...: 9,3   |  6,7    |  6,9    |  9,7    |  8,5
+dss_san_carlos.htm ->> HORIZONTE->SAT.B % (S/T)....: 86    |  91     |  91     |  94     |   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+dss_villa_huidobro.htm ->> ID..........................: 115
+dss_villa_huidobro.htm ->> CLASIFICACION...............: Haplustol típico
+dss_villa_huidobro.htm ->> SERIE.......................: VILLA HUIDOBRO
+dss_villa_huidobro.htm ->> UBICACION...................: 8,5 Km al SO de Villa Huidobro
+dss_villa_huidobro.htm ->> PROVINCIA...................: CORDOBA  
+dss_villa_huidobro.htm ->> LATITUD.....................: S345400
+dss_villa_huidobro.htm ->> LONGITUD....................: O644400 
+dss_villa_huidobro.htm ->> ALTITUD.....................: 251
+dss_villa_huidobro.htm ->> PENDIENTE...................: FALTA! 
+dss_villa_huidobro.htm ->> DRENAJE.....................: FALTA! 
+dss_villa_huidobro.htm ->> ESCURRIMIENTO...............: FALTA! 
+dss_villa_huidobro.htm ->> PERMEABILIDAD...............: FALTA! 
+dss_villa_huidobro.htm ->> TIPO DE SUELO...............: FALTA!
+dss_villa_huidobro.htm ->> COLOR ......................: FALTA! 
+dss_villa_huidobro.htm ->> HORIZONTE->NOMBRE(S)........: A1    |  B      |  Cca
+dss_villa_huidobro.htm ->> HORIZONTE->PROFUNDIDADES(CM): 0-20  |  20-38  |  38a+
+dss_villa_huidobro.htm ->> HORIZONTE->MATERIA ORGÁN.(%): 1,79  |  0,89   |   
+dss_villa_huidobro.htm ->> HORIZONTE->CARBONO ORGÁN.(%): 0,98  |  0,52   |   
+dss_villa_huidobro.htm ->> HORIZONTE->NITRÓGENO TOT.(%): 0,095 |  0,073  |   
+dss_villa_huidobro.htm ->> HORIZONTE->RELACIÓN C/N.....: 10,3  |  7,1    |   
+dss_villa_huidobro.htm ->> HORIZONTE->ARCILLA 2 (%)....: 19,8  |  20,8   |  16,7
+dss_villa_huidobro.htm ->> HORIZONTE->LIMO 2-50 (%)....: 36,9  |  37,3   |  37,9
+dss_villa_huidobro.htm ->> HORIZONTE->AMF 50-100 (%)...: 18,1  |  18,6   |  19,3
+dss_villa_huidobro.htm ->> HORIZONTE->AF 100-250 (%)...: 23,4  |  23,3   |  25,5
+dss_villa_huidobro.htm ->> HORIZONTE->AM 250-500 (%)...: 1,1   |  0,9    |  1,2
+dss_villa_huidobro.htm ->> HORIZONTE->AG 500-1000 (%)..: 1,1   |  1,0    |  1,0
+dss_villa_huidobro.htm ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |   
+dss_villa_huidobro.htm ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  4,27
+dss_villa_huidobro.htm ->> HORIZONTE->EQUIV. HUMEDAD(%): 22,8  |  21,2   |  20,2
+dss_villa_huidobro.htm ->> HORIZONTE->PH PASTA.........: 6,1   |  6,8    |  7,7
+dss_villa_huidobro.htm ->> HORIZONTE->PH H2O 1:2,5.....: 5,4   |  6,0    |  6,9
+dss_villa_huidobro.htm ->> HORIZONTE->CI ME/100G-Ca ++.: 14,1  |  17,7   |   
+dss_villa_huidobro.htm ->> HORIZONTE->CI ME/100G-Mg ++.: 1,1   |  0,7    |   
+dss_villa_huidobro.htm ->> HORIZONTE->CI ME/100G-Na +..: 0,1   |  0,1    |  0,3
+dss_villa_huidobro.htm ->> HORIZONTE->CI ME/100G-K +...: 2,0   |  1,5    |  1,2
+dss_villa_huidobro.htm ->> HORIZONTE->CI ME/100G-H +...:       |         |   
+dss_villa_huidobro.htm ->> HORIZONTE->SUM.B. ME/100G(S): 17,0  |  20,0   |   
+dss_villa_huidobro.htm ->> HORIZONTE->CIC ME/100G(T)...: 18,7  |  20,6   |  16,5
+dss_villa_huidobro.htm ->> HORIZONTE->SAT.B % (S/T)....: 92    |  97     |   

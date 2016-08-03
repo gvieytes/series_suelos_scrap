@@ -1,0 +1,344 @@
+
+--------------------------------------------------------------------------------
+SERIE EL CARMEN Símbolo: ECa
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados, con un epipedón oscuro, "franco-arcillo-limoso" seguido de un horizonte argílico muy oscuro y de textura más arcillosa.
+
+Están desarrollados en materiales loessoides.
+
+
+Perfil tipo: ER1-118C
+Fecha: 24-V-01
+Ubicación: Campo Sr. Franco (foto IR 433-28) - dto. Chiqueros - Dpto. Nogoyá.
+Reconocedores: O.A. Foti, R.H. Fuentes, R.E. Kleinerman.
+
+
+A1: 00-20 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso, escasos, finos, débiles; límite claro, suave.
+
+B21t: 20-41 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción (`slickensides') escasas a comunes; escasos carbonatos libres en la masa; moteados de hierro-manganeso, comunes, medios y precisos; límite claro, suave.
+
+B22tca: 41-73 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medio, moderados; duro en seco, firme en húmedo; barnices ("clay skins") comunes; cara de fricción ("slickensides") escasas; comunes carbonatos libres en la masa; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, suave.
+
+B31ca: 73-93 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medio, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") comunes; concreciones calcáreas escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B32ca: 93-120 cm; pardo fuerte (7.5YR 4/6) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares, medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") comunes; comunes carbonatos libres en la masa; comunes concreciones calcáreas blandas; moteados de hierro-manganeso, abundantes, medios, sobresalientes; límite difuso, suave.
+
+Cca: 120 cm+; pardo oscuro (7,5YR 4/4) en húmedo; franco-arcillo-limoso; masivo; ligeramente duro en seco, firme en húmedo; abundantes carbonatos libres en la masa; abundantes concreciones calcáreas, gruesas, blandas; moteados de hierro-manganeso comunes, finos y sobresalientes.
+
+Variabilidad de rasgos
+
+El solum varía de 130-150 cm de profundidad. El epipedón mólico tiene un espesor de 18-22 cm, de estructura granular a bloques subangulares y tiene 33-35 % de arcilla.
+
+El horizonte B2 tiene un espesor que varía entre 50-65 cm, con un contenido de arcilla de entre 40-45 %; las caras de fricción están poco desarrolladas en el horizonte. El calcáreo se presenta en forma discontinua y aparece a partir de los 45-45-cm.
+
+
+Fases
+
+Severamente erosionada (símbolo: ECa h3).
+
+
+Drenaje
+
+Moderadamente bien drenado; Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+Erosión
+
+La serie El Carmen presenta erosión actual moderada y tiene alta susceptibilidad a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Carmen
+
+ER1-118C
+
+
+
+
+
+
+N° de registro
+ 6901
+ 6902
+ 6903
+ 6904
+ 6905
+ 6906
+Horizonte
+ A1
+ B21t
+ B22t
+ B31
+ B32ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 25-40
+ 43-70
+ 76-90
+ 98-120
+ 135-145
+Mat.organica (%)
+ 3.61
+ 1.95
+ 0.51
+ 0.43
+ 0.37
+ 029
+N (%)
+ 0.194
+ 0.095
+ 0.056
+ 0.034
+ 0.019
+ 0.017
+C/N
+ 11
+ 12
+ 5
+ 7
+ 11
+ 10
+
+T <2
+
+ 33.94
+
+ 38.59
+
+ 39.80
+
+ 40.36
+
+ 46.51
+
+ 43.24
+E 2-20
+ 27.27
+ 28.01
+ 27.23
+ 27.01
+ 30.01
+ 29.30
+X 2-50
+ 61.29
+ 56.79
+ 57.01
+ 55.53
+ 49.48
+ 53.99
+T 50-100
+ 1.35
+ 1.17
+ 0.97
+ 0.70
+ 0.89
+ 0.55
+U 100-500
+ 3.20
+ 3.27
+ 2.01
+ 3.23
+ 2.96
+ 2.07
+R 500-1000
+ 0.22
+ 0.18
+ 0.21
+ 0.18
+ 0.16
+ 0.15
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+
+ 0.26
+
+ 1.50
+
+ 1.76
+
+ 0.77
+
+ 4.75
+
+ 11.61
+pH H2O
+ 7.1
+ 7.1
+ 7.4
+ 7.6
+ 7.8
+ 7.9
+pH ClK
+ 6.2
+ 6.2
+ 6.1
+ 6.4
+ 6.6
+ 6.6
+
+Conductividad eléctrica mmhos/cm
+
+
+ 0.862
+
+
+ 0.639
+
+
+ 0.631
+
+
+ 0.562
+
+
+ 0.731
+
+
+ 0.-08
+
+Capacidad de intercambio catiónico (m.e./100 g) =Valor T
+
+
+
+
+ 35.78
+
+
+
+ 39.74
+
+
+
+ 40.76
+
+
+
+ 40.80
+
+
+
+ 40.15
+
+
+
+ 42.93
+
+D
+Ca++
+ 28.04
+ 30.24
+ 33.16
+ 34.32
+ 39.34
+ -
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 2.32
+ 2.44
+ 2.41
+ 2.30
+ 2.61
+ -
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 1.40
+ 1.77
+ 1.48
+ 0.57
+ 0.58
+ 0.52
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 0.45
+ 0.32
+ 0.46
+ 1.25
+ 2.25
+ 2.55
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+
+ 1.3
+
+ 0.8
+
+ 1.1
+
+ 3.1
+
+ 5.6
+
+ 5.9
+Equivalente de humedad (%)
+
+ 34.73
+
+ 39.33
+
+ 39.26
+
+ 42.26
+
+ 47.99
+
+ 45.30
+Fósforo asimilable (ppm) 3.30 2.40 2.10 1.90 1.90 1.80
+

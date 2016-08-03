@@ -1,0 +1,39 @@
+dss_puesto_jacinto.psv ->> ID..........................: 234
+dss_puesto_jacinto.psv ->> CLASIFICACION...............: Haplustol páquico
+dss_puesto_jacinto.psv ->> SERIE.......................: PUESTO JACINTO (PJac)
+dss_puesto_jacinto.psv ->> UBICACION...................: 7 km al SSE de Macha, departamento Ischilín
+dss_puesto_jacinto.psv ->> PROVINCIA...................: CORDOBA
+dss_puesto_jacinto.psv ->> LATITUD.....................: S303600
+dss_puesto_jacinto.psv ->> LONGITUD....................: O640400
+dss_puesto_jacinto.psv ->> ALTITUD.....................: 600
+dss_puesto_jacinto.psv ->> PENDIENTE...................: FALTA!
+dss_puesto_jacinto.psv ->> DRENAJE.....................: FALTA!
+dss_puesto_jacinto.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_puesto_jacinto.psv ->> PERMEABILIDAD...............: FALTA!
+dss_puesto_jacinto.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_puesto_jacinto.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_puesto_jacinto.psv ->> HORIZONTE->NOMBRE(S)........: Ap | A12 | II
+dss_puesto_jacinto.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-12 | 12-52 | 52a+
+dss_puesto_jacinto.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,2 | 1,1 |  
+dss_puesto_jacinto.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,3 | 0,6 |  
+dss_puesto_jacinto.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,11 | 0,04 |  
+dss_puesto_jacinto.psv ->> HORIZONTE->RELACIÓN C/N.....: 11,8 | 12,5 |  
+dss_puesto_jacinto.psv ->> HORIZONTE->ARCILLA 2 (%)....: 10,1 | 9,9 | 8,7
+dss_puesto_jacinto.psv ->> HORIZONTE->LIMO 2-50 (%)....: 16,4 | 18,6 | 21,0
+dss_puesto_jacinto.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,2 | 6,0 | 5,7
+dss_puesto_jacinto.psv ->> HORIZONTE->AF 100-250 (%)...: 12,8 | 14,8 | 11,3
+dss_puesto_jacinto.psv ->> HORIZONTE->AM 250-500 (%)...: 16,6 | 17,8 | 12,6
+dss_puesto_jacinto.psv ->> HORIZONTE->AG 500-1000 (%)..: 24,4 | 21,6 | 19,3
+dss_puesto_jacinto.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 13,7 | 11,0 | 20,1
+dss_puesto_jacinto.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0
+dss_puesto_jacinto.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 11,2 | 9,9 | 12,4
+dss_puesto_jacinto.psv ->> HORIZONTE->PH PASTA.........: - | - |  
+dss_puesto_jacinto.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,4 | 6,3 | 6,6
+dss_puesto_jacinto.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 6,7 | 4,4 | 7,3
+dss_puesto_jacinto.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,4 | 2,7 | 0,9
+dss_puesto_jacinto.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3 | 0,3 | 0,3
+dss_puesto_jacinto.psv ->> HORIZONTE->CI ME/100G-K +...: 0,9 | 0,7 | 0,6
+dss_puesto_jacinto.psv ->> HORIZONTE->CI ME/100G-H +...: 1,4 | 1,4 | 1,0
+dss_puesto_jacinto.psv ->> HORIZONTE->SUM.B. ME/100G(S): 9,3 | 8,1 | 9,1
+dss_puesto_jacinto.psv ->> HORIZONTE->CIC ME/100G(T)...: 10,7 | 9,5 | 10,1
+dss_puesto_jacinto.psv ->> HORIZONTE->SAT.B % (S/T)....: 86,9 | 85,3 | 90,1

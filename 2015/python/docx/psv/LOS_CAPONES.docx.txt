@@ -1,0 +1,306 @@
+
+--------------------------------------------------------------------------------
+SERIE LOS CAPONES					 Símbolo: LCpn
+
+
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Peludertes árgicos.
+Muestra un microrelieve gilgai lineal tenue en la fotografía aérea y poco visible en el campo.
+Suelo negro hasta los 80-90 cm.
+Moderadamente bien drenado, con moteados de hierro-manganeso a partir del B21t y concreciones calcáreas entre los 80-100 cm.
+Son suelos desarrollados en materiales lacustres (limos calcáreos).
+
+
+Perfil tipo: ER7-120C
+Fecha: 16-V-1997
+Ubicación: Establecimiento Sr. Galetto (foto IR 455-8) - Dpto. Paraná.
+Reconocedores: L.O.López; O.A.Foti
+
+
+A1: 00-18 cm; negro (10YR 2,5/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; friable en húmedo; barnices (humic skins") escasos; moteados de hierro-manganeso escasos, finos y débiles; presencia de "selfmulching"; limite gradual, suave.
+
+B21t: 18-45 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques subangulares y angulares irregulares medios, moderados; duro en seco y friable en húmedo; barnices ("clay skins") comunes y ("humic skins") escasos; caras de fricción ("slickensides") comunes, finas e intersectadas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, ondulado.
+
+B22t: 45-68 cm; pardo oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; extremadamente duro en seco y muy firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro-manganeso comunes, medios y precisos; horizonte muy denso con presencia de grietas; límite claro, suave.
+
+B23t: 68-83 cm; pardo muy oscuro (10YR 2/2,5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques subangulares y angulares irregulares, medios, moderados; duro en seco y firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+
+B3ca: 83-107 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques subangulares y angulares irregulares medios, moderados; duro en seco y friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes, finas e intersectadas; comunes carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, suave.
+
+Cca: 107 cm +; pardo (7,5YR 4,5/4) en húmedo; arcillo-limoso; masivo; friable en húmedo; abundantes carbonatos libres en la masa; concreciones calcáreas comunes; moteados de hierro-manganeso comunes, medios y precisos.
+Variabilidad de rasgos
+
+La variabilidad está determinada principalmente por los procesos de expansión y contracción del material arcilloso que da lugar a la formación del microrelieve gilgai tenue y en menor grado a la erosión.
+
+El epipedón varía entre 12-20 cm de profundidad y está moderadamente autoestructurado, con variaciones mayores debido a la remoción (arrastre y deposición de materiales).
+
+El horizonte argílico tiene un espesor de 55-65 cm e incluye normalmente un B23t con abundantes caras de fricción finas e intersectadas mientras que en el B3ca éstas son abundantes, gruesas y no intersectadas. El calcáreo aparece a partir de los 80 cm.
+
+
+Fases
+
+Moderadamente erosionada (símbolo: LCpn.h2).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio a lento. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Los Capones está leve a moderadamente erosionada y corre moderado peligro de erosión en surcos y cárcavas.	
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Los Capones
+
+ER7-120C
+
+
+
+
+
+
+Nº de registro
+ 1740
+ 1741
+ 1742
+ 1743
+ 1744
+ 1745
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 25-40
+ 50-65
+ 70-80
+ 95-105
+ 120-140
+Mat.organica (%)
+ 4.44
+ 3.10
+ 2.26
+ 1.76
+ 0.85
+ 0.36
+N (%)
+ 0.18
+ 0.12
+ 0.09
+ 0.07
+ 0.05
+ 0.03
+C/N
+ 14
+ 15
+ 14
+ 13
+ 10
+ 7
+
+T < 2 μ
+
+ 35.63
+
+ 40.22
+
+ 45.29
+
+ 48.72
+
+ 47.51
+
+ 41.58
+E 2-20 μ
+ 32.57
+ 32.70
+ 24.33
+ 23.71
+ 23.01
+ 29.61
+X 2-50 μ
+ 62.66
+ 58.45
+ 53.65
+ 50.25
+ 51.25
+ 57.28
+T 50-100 μ
+ 0.66
+ 0.30
+ 0.34
+ 0.31
+ 0.25
+ 0.11
+U 100-500 μ
+ 1.01
+ 1.02
+ 0.71
+ 0.70
+ 0.77
+ 1.01
+R 500-1000 μ
+
+
+
+
+
+
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 4.43
+
+ 7.95
+pH H2O
+ 6.8
+ 6.8
+ 6.9
+ 7.5
+ 8.1
+ 8.3
+pH ClK
+ 5.9
+ 5.7
+ 5.9
+ 6.5
+ 7.1
+ 7.2
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 37.3
+ 39.1
+ 47.7
+ 44.2
+ 36.1
+
+
+ 36.1
+ d Ca++
+ 26.9
+ 31.9
+ 36.9
+ 35.9
+ ND
+ ND
+C e
+
+
+
+
+
+
+Mg++
+ 3.8
+ 3.2
+ 1.4
+ 1.2
+ ND
+ ND
+t c
+
+
+
+
+
+
+i a K+
+ 0.8
+ 0.8
+ 0.8
+ 0.8
+ 0.8
+ 0.8
+o m
+
+
+
+
+
+
+n b Na+
+ 2.5
+ 2.3
+ 2.1
+ 2.0
+ 2.8
+ 2.9
+e i
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+% Na/T
+ 6.7
+ 5.9
+ 4.4
+ 4.5
+ 7.8
+ 8.0
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 37.93
+ 42.35
+ 48.20
+ 49.99
+ 46.02
+ 42.32
+Fósforo asimilable (ppm)
+ 18.60
+ 3.61
+ 2.31
+ 1.66
+ 0.39
+ 0.39
+

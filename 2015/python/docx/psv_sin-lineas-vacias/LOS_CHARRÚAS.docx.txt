@@ -1,0 +1,197 @@
+--------------------------------------------------------------------------------
+SERIE LOS CHARRÚAS Símbolo: LCh
+Pertenece a la familia "franco fina, mixta, térmica" de los Argiudoles vérticos.
+Los suelos de esta serie son profundos y de colores oscuros. Los materiales originales que formaron esta serie están constituidos por una mezcla de los sedimentos arcillosos, redepositados con materiales arenosos característicos de las terrazas del río Uruguay.
+Perfil tipo: ER2-56C
+Fecha: 23-XI-72
+Ubicación: Ea. La Avanzada (foto IR 156-45) - Dpto. Concordia
+Reconocedores: C.J. Vesco; B.W. van Barneveld.
+A1: 00-15 cm; negro (10YR 2,5/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco a franco-arcilloso; estructura en bloques subangulares, medios, moderados; duro en seco; friable en húmedo; barnices ("humic-skins") escasos, finos; moteados de hierro-manganeso comunes, finos y precisos; horizonte levemente lixiviado por las caras; límite claro, suave.
+A3: 15-29 cm; negro (10YR 2,5/1) en húmedo; franco-arcillo-limoso (liviano); estructura en bloques subangulares+bloques angulares redondeados, medios, moderados, con tendencia a prismas compuestos irregulares; duro en seco; friable en húmedo; barnices ("humic-skins") comunes, finos; moteados de hierro-manganeso escasos, finos y débiles; concreciones de hierro comunes, de hasta 2 mm; límite claro, suave.
+B21t: 29-60 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques angulares irregulares con tendencia cuneiformes, medios, moderados; muy duro en seco; firme en húmedo; barnices ("clay-humic-skins") abundantes, finos; caras de fricción (`slickensides') abundantes, poco intersectados; moteados de hierro-manganeso escasos, finos y débiles; concreciones de hierro-manganeso comunes, de hasta 2 mm; horizonte con 3 % de cantos rodados; límite gradual, suave.
+B22t: 60-76 cm; gris oscuro (10YR 4/1) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques angulares irregulares con tendencia cuneiformes, medios, moderados; muy duro en seco; firme en húmedo; caras de fricción ("slickensides") comunes, finas, poco intersectadas; moteados de hierro-manganeso escasos, finos y débiles; concreciones de hierro-manganeso comunes, de hasta 2 mm; horizonte con 3% de cantos rodados y chorreaduras de materia orgánica; límite gradual, suave.
+B3ca: 76-115 cm; pardo oscuro (10YR 3/3) en húmedo; pardo (10YR 5/3) en seco; franco-arcilloso; estructura en bloques angulares irregulares y bloques angulares irregulares con tendencia cuneiformes, medios y gruesos, débiles; muy duro en seco; friable en húmedo; caras de fricción ("slickensides") comunes, medias y finas, no intersectadas; moteados de hierro-manganeso escasos, finos y precisos; concreciones calcáreas abundantes, de hasta 3 mm; horizonte con 3 % de cantos rodados.
+Variabilidad de rasgos
+Tiene un epipedón de 25-35 cm de espesor de textura franca y colores oscuros, que incluye un A1 y A3 o B1, localmente lixiviado.
+Subyace un horizonte B2, franco arcillo arenoso a franco, de color oscuro, con abundantes barnices arcillo-húmicos y caras de fricción ("slickensides") poco intersectadas, Son comunes las concreciones de hierro-manganeso, que aparecen en el perfil a partir de este horizonte.
+El horizonte B3 es cálcico y de color algo más claro que los anteriores. El porcentaje de arena disminuye con la profundidad. Son abundantes las concreciones de carbonatos con un diámetro de hasta 3 mm, que aparecen a partir de los 75-80 cm.
+Fases
+No se han descripto a escala de reconocimiento.
+Series similares y sus diferencias
+Se parece a las series Calabacilla y Mandisoví, pero éstas son más arenosas.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial lento. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+Presenta erosión actual leve y tienen susceptibilidad potencial moderada.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Los Charrúas
+ER2-56C
+N° de registro
+ 1259
+ 1260
+ 1261
+ 1262
+ 1263
+Horizonte
+ A1
+ A3
+ B21t
+ B22t
+ B3ca
+Profundidad (cm
+ 00-10
+ 16-28
+ 30-35
+ 60-73
+ 100-115
+Mat.organica (%)
+ 5,19
+ 1,80
+ 1,61
+ 0,91
+ 0,24
+N (%)
+ 0,93
+ 0,42
+ 0,72
+ 0,45
+ 0,24
+C/N
+ 3
+ 2
+ 1
+ 1
+ 1
+T
+ <2 u
+ 13,20
+ 19,80
+ 25,60
+ 25,80
+ 24,60
+E
+ 2-20 u
+ 12,80
+ 14,90
+ 7,40
+ 29,80
+ 23,90
+X
+ 2-50 u
+ 25,30
+ 19,30
+ 19,90
+ 16,10
+ 20,80
+T
+ 50-100 u
+ -
+ -
+ -
+ -
+ -
+U
+ 100-250 u
+ 28,20
+ 29,50
+ 27,40
+ 18,50
+ 17,30
+R
+ 250-500 u
+ -
+ -
+ -
+ -
+ -
+A
+ 500-1000 u
+ 20,30
+ 16,40
+ 19,50
+ 9,50
+ 13,30
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 6,3
+pH H2O
+ 5,6
+ 5,6
+ 6,1
+ 6,6
+ 7,7
+pH ClK
+ 4,5
+ 4,3
+ 4,2
+ 4,9
+ 5,7
+Capacidad de intercambio catiónico
+ (m.e./100 g) =
+ Valor T
+ 20,60
+ 23,80
+ 33,50
+ 34,70
+ 30,60
+D
+Ca++
+ 18,00
+ 17,20
+ 25,80
+ 26,00
+ 24,60
+C
+E
+a
+Mg++
+ 0,40
+ 1,80
+ 1,20
+ 4,40
+ 3,20
+t
+C
+i
+A
+K+
+ 0,60
+ 0,50
+ 0,30
+ 0,60
+ 0,60
+o
+M
+n
+B
+Na+
+ 0,25
+ 0,25
+ 0,85
+ 0,85
+ 0,83
+e
+I
+s
+O
+H+
+ 1,10
+ 3,80
+ 5,30
+ 2,70
+ 0,00
+% Na/T
+ 1,21
+ 1,05
+ 2,54
+ 2,45
+ 2,71
+Equivalente de humedad (%)
+ 21,40
+ 23,50
+ 31,90
+ 33,30
+ 29,70

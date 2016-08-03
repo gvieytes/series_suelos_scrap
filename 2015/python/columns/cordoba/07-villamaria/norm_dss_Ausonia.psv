@@ -1,0 +1,48 @@
+dss_Ausonia.psv ->> ID..........................: 703
+dss_Ausonia.psv ->> CLASIFICACION...............: Natralbol típico
+dss_Ausonia.psv ->> SERIE.......................: AUSONIA (Aus)
+dss_Ausonia.psv ->> UBICACION...................: 12 km al NE de Colonia La Palestina, departamento San Martín
+dss_Ausonia.psv ->> PROVINCIA...................: CORDOBA
+dss_Ausonia.psv ->> LATITUD.....................: S323200
+dss_Ausonia.psv ->> LONGITUD....................: O633400
+dss_Ausonia.psv ->> ALTITUD.....................: 200
+dss_Ausonia.psv ->> PENDIENTE...................: FALTA!
+dss_Ausonia.psv ->> DRENAJE.....................: FALTA!
+dss_Ausonia.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_Ausonia.psv ->> PERMEABILIDAD...............: FALTA!
+dss_Ausonia.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA, MIXTA, TÉRMICA
+dss_Ausonia.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_Ausonia.psv ->> HORIZONTE->NOMBRE(S)........: a1 | e | bt | bck | ck
+dss_Ausonia.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-26 | 26-48 | 48-72 | 72a+
+dss_Ausonia.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.24 | 1.20 | 0.51 | 0.17 | 
+dss_Ausonia.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.3 | 0.7 | 0.3 | 0.1 | 
+dss_Ausonia.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.15 | 0.11 | 0.08 | - | 
+dss_Ausonia.psv ->> HORIZONTE->RELACIÓN C/N.....: 8.7 | 6.4 | 3.7 | - | 
+dss_Ausonia.psv ->> HORIZONTE->ARCILLA 2 (%)....: 12.3 | 11.2 | 14.6 | 11.7 | 8.1
+dss_Ausonia.psv ->> HORIZONTE->LIMO 2-50 (%)....: 68.0 | 69.9 | 64.9 | 64.2 | 64.9
+dss_Ausonia.psv ->> HORIZONTE->AMF 50-100 (%)...: 16.3 | 17.9 | 14.6 | 20.4 | 23.6
+dss_Ausonia.psv ->> HORIZONTE->AF 100-250 (%)...: 1.5 | 1.6 | 2.8 | 1.4 | 1.2
+dss_Ausonia.psv ->> HORIZONTE->AM 250-500 (%)...: 0.2 | - | 0.4 | 0.2 | 
+dss_Ausonia.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.3 | - | 1.1 | 0.2 | 
+dss_Ausonia.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | 0.2 | - | 
+dss_Ausonia.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 1.3 | 3.1 | 4.3
+dss_Ausonia.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 15.1 | 19.3 | 25.1 | 24.8 | 22.6
+dss_Ausonia.psv ->> HORIZONTE->PH PASTA.........: 5.6 | 6.3 | 8.2 | 8.9 | 8.9
+dss_Ausonia.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.8 | 6.5 | 8.8 | 9.5 | 9.6
+dss_Ausonia.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8.6 | 6.7 | - | - | 
+dss_Ausonia.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.5 | 1.5 | - | - | 
+dss_Ausonia.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.6 | 5.8 | 7.6 | 
+dss_Ausonia.psv ->> HORIZONTE->CI ME/100G-K +...: 3.1 | 2.0 | 4.0 | 4.5 | 
+dss_Ausonia.psv ->> HORIZONTE->CI ME/100G-H +...: 2.3 | 1.6 | - | - | 
+dss_Ausonia.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | 30.53 | 42.46 | 37.5
+dss_Ausonia.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | - | - | 4.41 | 8.23
+dss_Ausonia.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12.5 | 10.8 | - | - | 
+dss_Ausonia.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.6 | 12.5 | 19.0 | 17.9 | 15.7
+dss_Ausonia.psv ->> HORIZONTE->SAT.B % (S/T)....: 86 | 86 | - | - | 
+dss_Ausonia.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | - | - | 3.3 | 4.9
+dss_Ausonia.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | - | - | 1.6 | 1.7
+dss_Ausonia.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | - | - | 39.9 | 76.8
+dss_Ausonia.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | - | - | 1.8 | 0.8
+dss_Ausonia.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | - | - | 12.4 | 14.4
+dss_Ausonia.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | - | - | 12.3 | 27.4
+dss_Ausonia.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | - | - | 22.4 | 44.8

@@ -1,0 +1,26 @@
+HORIZONTE->NOMBRE(S)........: A      |  Btn    |  BC     |  Ck  
+HORIZONTE->PROFUNDIDADES(CM): 0-20   |  20-45  |  45-62  |  62a+
+HORIZONTE->MATERIA ORGÁN.(%): 1,6    |  0,7    |         |  
+HORIZONTE->CARBONO ORGÁN.(%): 0,9    |  0,4    |         |  
+HORIZONTE->NITRÓGENO TOT.(%): 0,1    |         |         | 
+HORIZONTE->RELACIÓN C/N.....: 9,0    |         |         |
+HORIZONTE->ARCILLA 2 (%)....: 18,9   |  30,2   |  22,2   |  17,7
+HORIZONTE->LIMO 2-50 (%)....: 49,5   |  45,7   |  42,9   |  47,9
+HORIZONTE->AMF 50-100 (%)...: 7,8    |  6,1    |  7,4    |  10,6
+HORIZONTE->AF 100-250 (%)...: 16,6   |  12,9   |  17,2   |  18,4
+HORIZONTE->AM 250-500 (%)...: 3,2    |  2,2    |  3,0    |  2,6 
+HORIZONTE->AG 500-1000 (%)..: 3,4    |  2,4    |  0,2    |  3,4 
+HORIZONTE->AMG 1-2 mm (%)...: 0,2    |         |         |
+HORIZONTE->CALCAREO CaCO3(%): 0      |  0      |  0,9    |  4,0
+HORIZONTE->EQUIV. HUMEDAD(%): 20,8   |  26,5   |  22,5   |  23,1
+HORIZONTE->PH PASTA.........: 7,1    |  7,6    |  7,9    |  9,0 
+HORIZONTE->PH H2O 1:2,5.....: 7,6    |  8,0    |  8,2    |  9,6 
+HORIZONTE->CI ME/100G-Ca ++.: 12,9   |  17,4   |         |      
+HORIZONTE->CI ME/100G-Mg ++.: 0,4    |  1,0    |         |      
+HORIZONTE->CI ME/100G-Na +..: 0,4    |  3,5    |  3,6    |  3,8 
+HORIZONTE->CI ME/100G-K +...: 2,0    |  1,5    |  1,3    |  1,5 
+HORIZONTE->CI ME/100G-H +...:        |         |         |      
+HORIZONTE->SUM.B. ME/100G(S): 15,7   |  23,4   |         |
+HORIZONTE->CIC ME/100G(T)...: 15,7   |  23,4   |  12,2   |  8,2
+HORIZONTE->SAT.B % (S/T)....: 100    |  100    |  100    |  100
+HORIZONTE->% Na INTERC.(PSI): 2,5    |  15,1   |  29,5   |  46,3

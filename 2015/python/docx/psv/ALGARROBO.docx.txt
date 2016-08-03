@@ -1,0 +1,243 @@
+
+--------------------------------------------------------------------------------
+SERIE ALGARROBO							 Símbolo: Alg
+
+
+Pertenece a la familia "fina, montmorillonítica, moderadamente alcalina y térmica" de los Natracualfes típico.
+Suelos de imperfecta a moderadamente bien drenados, con un epipedón somero y con colores claros, muy lixiviado y degradado, franco-arcillo-limoso, y un horizonte argílico, arcillo-limoso, con concreciones de calcáreo a 00-45 cm y algunos cristales de yeso en el B3.
+Son levemente alcalinos desde superficie y moderadamente alcalinos a partir de 10-20 cm. Se han desarrollado sobre materiales lacustres ("limos calcáreos") densos, franco-arcillo-1imosos a arcillo-limosos.
+
+
+Perfil tipo: ER1 - 43 C
+Fecha: 11/VIII/1972
+Estancia "Los Algarrobos" (foto 466-6) - Dpto. La Paz
+Reconocedores: O. A. Foti - G. W. van Barneveld
+
+
+A2: 00-13 cm; gris oscuro (10YR 4/1) en húmedo; gris a gris claro (10YR 6/1) en seco; franco-arcillo-1imoso estructura masiva y algo laminar; friable en húmedo; concreciones de calcáreo escasas y finas (retransportadas); barnices ("humic skins") escasos y finos; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+B2: 13-50 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares y bloques angulares cuneiformes medios moderados; friable en húmedo; concreciones de calcáreo comunes, finas (retransportadas); barnices ("clay humic skins") escasos y finos; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso escasos, finos y precisos; limite gradual, ondulado.
+
+B31ca: 50-84 cm; gris muy oscuro a pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares y bloques angulares irregulares y bloques angulares cuneiformes medios moderados; friable en húmedo; escasa cantidad de calcáreo libre en la masa; concreciones de calcáreo abundantes, blandas y de hasta 1 cm; caras de fricción ("slickensides") comunes poco intersectadas; limite gradual, ondulado.
+
+B32ca: 84 cm +; pardo oscuro a pardo (7.5 YR 4/2) en húmedo; franco-arcillo-limoso estructura en bloques angulares irregulares gruesos y débiles; firme en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones de calcáreo abundantes, de hasta 2 cm; moteados comunes, finos y precisos de hierro-manganeso.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por la actividad de las hormigas (especies Atta vollenweideri y Acromyrmex lundi), cuya influencia se observa en más del 50% de los perfiles. Las mismas originan un microrrelieve que fácilmente puede ser interpretado corno gilgai.
+El solum tiene 90-150 cm. El epipedón varía normalmente de 10 a 15 cm; está muy lixiviado y en campos de pastoreo semintensivo muy pisoteado y prácticamente sin estructura. En la mayoría de los casos el epipedón puede describirse como un A2 o también cono un Al muy lixiviado. Tiene 24-29 % de arcilla y entre 2.5 % de materia orgánica, en parte dispersa y en parte poco descompuesta. Por lo general, es leve a moderadamente alcalino con 5-8 % de Na+ intercambiable.
+El horizonte B2 -argílico- con un espesor de 35-45 cm, tiene estructura de bloques angulares irregulares y bloques cuneiformes o prismáticos (pero los prismas son generalmente débiles). Tiene 36-40 % de arcilla, con caras de fricción ("slickensides") escasas a comunes, finas a medias, poco intersectadas. Las concreciones de calcáreo aparecen entre 20-45 cm, aunque en muchos casos pueden encontrarse desde la base del epipedón o prácticamente desde la superficie, en este último caso fueron retransportados por las hormigas (el porcentaje de calcáreo alcanza al 10-11 %). El horizonte es moderadamente alcalino con 15-19 % de Na+ de intercambio, y puede tener en su parte inferior y en el B3ca escasos a comunes cristales y rosetas de yeso.
+En seco se abren grietas de 1-2 cm, que llegan hasta la superficie.
+Suelos desarrollados en materiales franco-arcillo-limosos a arcillo-limosos (34-36% de arcilla), de un color que varía entre 7.5YR 5/2 y 7.5 5/4, moderadamente alcalinos (con aprox. 12-20 % de sodio de cambio). Pueden ser además, levemente salinos.
+
+
+Fases
+
+Muy suavemente ondulada
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Inocencio (distinta posición en el paisaje y más alcalina), a la Serie Santa Elena (que es menos alcalina y geográficamente distinta).
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado; encharcamiento después de cada lluvia mayor; escurrimiento lento; permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie Algarrobo no está erosionada en las partes altas y casi planas (fase muy suavemente ondulada) y no tiene peligro de erosión futura.
+En las partes más suavemente onduladas y con pendientes largas está levemente erosionada, y corre moderado a gran peligro de erosión en forma laminar, en surcos y algunas cárcavas.
+
+
+Vegetación típica
+
+Monte ralo de espinillo (Acacia caven), tala (Celtis spinosa) y ñandubay (Prosopis algarrobilla), con moderada a abundante cantidad de palma "caranday" (Trithrinax campestris) quebracho blanco (Aspidosperma quebracho-blanco), chañar (Geoffroea decorticans) y tuna (Opuntia sp.).
+
+
+DATOS ANALÍTICOS DEL PERFIL TÍPICO
+
+Serie Algarrobo
+
+ER1 - 43C
+
+
+
+
+Nº de registro
+ 884
+ 885
+ 886
+ 887
+Horizonte
+ A2
+ B2
+ B31ca
+ B32ca
+Profundidad (cm)
+ 00-05
+ 23-38
+ 56-69
+ 87-104
+Mat.organica (%)
+ 2.6
+ 2.5
+ 1.0
+ 0.6
+C/N
+ 10
+
+ 10
+
+ 7
+
+ 7
+
+
+T <2
+ 27.4
+ 40.2
+ 43.2
+ 36.4
+E 2-20
+ 31.0
+ 25.2
+ 20.0
+ 15.7
+X 2-50
+ 70.5
+ 58.5
+ 55.9
+ 62.2
+T 50-100
+ 1.5
+ 0.7
+ 0.3
+ 0.8
+U 100-250
+ 0.5
+ 0.4
+ 0.4
+ 0.4
+R 250-500
+ 0.1
+ 0.2
+ 0.2
+ 0.2
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+ 0.0
+ 0.9
+ 5.1
+ 5.2
+pH H2O
+ 7.2
+ 8.1
+ 8.4
+ 8.4
+pH ClK
+ 6.0
+ 6.8
+ 7.0
+ 7.0
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+ Valor T
+
+ 30.5
+
+ 37.3
+
+ 40,5
+
+ 34 .,8
+
+
+D
+Ca++
+ 24.4
+ -
+ -
+ -
+C
+E
+
+
+
+
+
+A
+
+Mg++
+ 2.7
+ -
+ -
+ -
+T
+C
+
+
+
+
+
+I
+A
+K+
+ 0.8
+ 0.9
+ 1.2
+ 1.1
+O
+M
+
+
+
+
+
+N
+B
+Na+
+ 2.4
+ 7.1
+ 8.5
+ 5.8
+E
+I
+
+
+
+
+
+S
+O
+H+
+ -
+ -
+ -
+ -
+% Na/T
+ 7.9
+ 19.0
+ 21.0
+ 16.7
+
+Equivalente de humedad (%)
+ 29.3
+
+ 51.5
+
+ 64.7
+
+ 55.6
+
+
+

@@ -1,0 +1,360 @@
+
+--------------------------------------------------------------------------------
+SERIE LAZO Símbolo: Lz
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos desarrollados en materiales limo-loessoides retransportados, franco-arcillo-limosos con aportes de arena.
+
+Profundos, moderadamente bien drenados, con epipedón oscuro franco-limoso a franco-arcillo-limoso y un horizonte argílico oscuro, arcillo-limoso con concreciones de hierro-manganeso, y algunas caras de fricción ("slickensides").
+
+
+Perfil tipo: ER1-13C
+Fecha: 25-IX-1970
+Ubicación: Ea. San Julián. (foto 410-50). Dpto. Gualeguay.
+Reconocedores: R.E. Kleinerman; G.W. van Barneveld.
+
+
+A1: 00-19 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, gris (10YR 5,5/1) en seco; franco-limoso; estructura en bloques subangulares y angulares irregulares (con algo de estructura granular) moderados; friable en húmedo; barnices ("humic skins"), escasos y finos; vestigios de moteados de hierro-manganeso; límite gradual, suave.
+
+A3: 19-36 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, gris (10YR 5,5/1) en seco; franco-arcillo-limoso; estructura en bloques angulares irregulares y subangulares medios, moderados, con tendencia a estructura prismática; friable en húmedo; barnices ("humic y clay-humic skins") escasos y finos; moteados de hierro-manganeso, escasos, finos y débiles; límite claro, suave.
+
+B21t: 36-51 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo, gris (10YR 5/2) en seco; arcillo-limoso; estructura en prismas compuestos irregulares débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; concreciones de hierro-manganeso escasas y finas; barnices ("clay-humic skins") comunes, medios y finos; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B22t: 51-90 cm; gris muy oscuro (10YR 3/1) en húmedo, gris (10YR 5,5/1) en seco; arcillo-limoso; estructura en prismas compuestos irregulares débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; concreciones de hierro-manganeso escasas y finas; barnices ("clay-humic skins") comunes y finos; caras de fricción ("slickensides") abundantes y finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+
+B3: 90-160 cm; pardo (10YR 5/3) en húmedo, pardo amarillento claro (10YR 6/4) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares débiles, que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") comunes, finos y medios; moteados de hierro-manganeso escasos, finos y débiles; horizonte ligeramente cementado; límite difuso, suave.
+
+C: 160 cm+; pardo (7,5YR 5/3) en húmedo, pardo claro (7,5YR 6/3) en seco; franco-arcillo-limoso; estructura masiva; friable en húmedo; moteados de hierro-manganeso, comunes, finos y precisos.
+Variabilidad de rasgos
+
+El solum tiene más de 120 cm, pero se desconoce la variabilidad de su espesor. El epipedón mólico incluye los horizontes A1 y A3 con una profundidad de 30-40 cm. En algunos lugares se describe el segundo horizonte como B1.
+
+La estructura del epipedón es de bloque subangulares y, en pocos casos, también granular. En el A3, a veces, es de tendencia prismática, sobre todo cuando existe un B1 en lugar del A3. Este último generalmente está ligeramente lixiviado.	
+
+El epipedón tiene entre 25-30% de arcilla y su color varía 10YR 2/2 a 10YR 3/3. El horizonte argílico tiene un espesor de 50-65 cm y, normalmente, un límite superior casi abrupto. Su porcentaje de arcilla oscila entre 45 y 50 cm. En general tiene pocas concreciones ferromanganesíferas y las caras de fricción no están intersectadas.
+
+Usualmente el solum no posee concreciones de calcáreo, pero en el límite con series adyacentes, puede tener unas pocas en el B3.
+
+El perfil muestra moteados de hierro-manganeso en todos sus horizontes, pero en el epipedón normalmente son escasas. Se desconoce la variabilidad en las características del C.
+
+
+Fases
+
+No se describieron a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie La Emiliana, aunque ésta es menos profunda, tiene pocas concreciones de calcáreo y muy poca arena en el perfil. Además, se parece a la serie Gualeguay que tiene un epipedón engrosado, es menos arcillosa en el B2 y tiene menos arena en todo el perfil.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad lenta. Napa freática moderadamente profunda, que en años excepcionales puede llegar hasta a 1,5-2,0 m desde la superficie. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Lazo no tiene erosión actual y tampoco peligro de erosión.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Lazo
+
+ER1-13C
+
+
+
+
+
+
+N° de registro
+ 140
+ 141
+ 142
+ 143
+ 144
+ 145
+Horizonte
+ A1
+ A3
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm
+ 00-15
+ 21-33
+ 40-50
+ 75-85
+ 115-125
+ 170-210
+Mat.organica (%)
+ 3.20
+ 1.90
+ 1.20
+ 0.90
+ 0.40
+ 0.20
+N (%)
+ -
+ -
+ -
+ -
+ -
+ -
+C/N
+ 10
+ 10
+ 8
+ 9
+ 8
+ 7
+
+T <2
+
+ 26.10
+
+ 28.30
+
+ 49.70
+
+ 46.90
+
+ 36.70
+
+ 37.70
+E 2-20
+ 30.70
+ 26.80
+ 18.10
+ 18.10
+ 23.70
+ 27.60
+X 2-50
+ 64.40
+ 60.60
+ 42.60
+ 46.40
+ 55.90
+ 53.20
+T 50-100
+ 3.00
+ 3.50
+ 2.70
+ 2.40
+ 2.40
+ 2.50
+U 100-250
+ 3.50
+ 3.60
+ 2.40
+ 2.20
+ 2.60
+ 3.60
+R 250-500
+ 2.70
+ 3.50
+ 2.20
+ 1.80
+ 2.10
+ 2.60
+A 500-1000
+ 0.30
+ 0.50
+ 0.40
+ 0.30
+ 0.30
+ 0.40
+
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ -
+pH H2O
+ 5.5
+ 5.3
+ 5.7
+ 6.4
+ 6.4
+ 6.6
+pH ClK
+ 5.0
+ 4.8
+ 4.8
+ 5.4
+ 5.3
+ 5.5
+Conductividad eléctrica mmhos/cm
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+
+ 21.00
+
+
+
+
+ 19.30
+
+
+
+
+ 32.00
+
+
+
+
+ 32.00
+
+
+
+
+ 25.60
+
+
+
+
+ 30.00
+
+
+d
+Ca++
+ 13.00
+ 12.50
+ 22.20
+ 22.90
+ 18.60
+ 23.80
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 3.10
+ 2.30
+ 5.20
+ 5.20
+ 4.30
+ 4.30
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.40
+ 0.90
+ 1.30
+ 1.30
+ 1.20
+ 1.30
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.10
+ 0.10
+ 0.20
+ 0.30
+ 0.20
+ 0.30
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ 4.90
+ 4.90
+ 5.10
+ 4.10
+ 2.00
+ 2.00
+
+% Na/T
+
+ 0.50
+
+ 0.50
+
+ 0.60
+
+ 0.90
+
+ 0.80
+
+ 1.00
+Equivalente de humedad (%)
+
+ 26.10
+
+ 24.80
+
+ 41.50
+
+ 41.20
+
+ 32.40
+
+ 33.80
+
+P disponible (ppm)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+

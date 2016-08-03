@@ -1,0 +1,282 @@
+
+--------------------------------------------------------------------------------
+SERIE LA MATILDE Símbolo: LMa
+
+
+Pertenece a la familia "fina, mixta no calcárea, térmica" de los Argiacuoles cumúlicos.
+Son suelos hidromórficos muy profundos con epipedón engrosado, muy oscuro, franco-arcillo-limoso, con moderada acumulación de materiales arcillo-limosos y un horizonte argílico, oscuro y arcillo-limoso.
+Suelos imperfectamente drenados, con exceso de agua superficial escurridas de áreas vecinas más altas, caracterizados por una capa freática temporaria y suspendida sobre un horizonte B2 muy poco permeable.
+Son suelos desarrollados sobre materiales loessoides retransportados.
+
+
+Perfil tipo: ER3-6C
+Fecha: 24-IX-1970
+Ubicación: Ea. La Emiliana (foto IR 413-33) - Dpto. Gualeguay
+Reconocedores: R.E. Kleinerman; G.W. van Barneveld.
+
+
+A11: 00-18 cm; gris muy oscuro (10YR 3/1) en húmedo, gris oscuro (10YR 4/1) en seco; arcillo-limoso; estructura en bloques subangulares irregulares medios, débiles; friable en húmedo; barnices ("clay-humic skins") escasos y finos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+IIA12: 18-49 cm; negro (10YR 2/1) en húmedos; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y bloque sulangulares medios, débiles, con tendencia a laminar; friable en húmedo; barnices ("clay-humic skins") escasos y muy finos; moteados de hierro-manganeso comunes, finos y precisos; horizonte algo eluviado en las caras de los agregados; límite abrupto, suave.
+
+IIB21t: 49-75 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; concreciones de hierro-manganeso escasas, de hasta 1 mm; barnices ("clay-humic skins") comunes y medios; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso abundantes, finos y precisos; límite gradual, suave.
+
+IIB22t: 75-105 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados, con tendencia a prismas compuestos irregulares; friable en húmedo; barnices ("clay-humic skins") escasos y finos; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; horizonte algo compactado; escasos cristales de yeso; límite gradual, suave.
+
+IB3: 103 cm+; pardo (7,5YR 5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; friable en húmedo; barnices ("clay-humic skins") escasos, finos; moteados de hierro-manganeso comunes, finos y precisos; horizonte compactado.
+
+
+
+
+
+Variabilidad de rasgos
+
+El solum tiene más de 170 cm. El epipedón mólico varía de 35-60 cm e incluye material acumulado de textura arcillo-limosa a arcillosa de 10-30 cm de espesor y un horizonte subsuperficial (IIA12) franco-arcillo-limoso de 25-35 cm de espesor. En lugares donde se ha acumulado poco material se observa un solo horizonte A1 algo engrosado. El horizonte IIA12 está saturado con agua durante gran parte del año y normalmente muestra síntomas de una lixiviación débil.
+
+El horizonte argílico varía de 40-75 cm, es muy denso -especialmente en su parte inferior- y tiene concreciones ferromanganesíferas en cantidades muy variables. Su límite superior normalmente es abrupto.
+
+El B3 es muy profundo y con estructura de bloques angulares, pero en la parte superior puede tener estructura prismática; localmente, está levemente cementado. A veces tiene caras de fricción no intersectadas, así como también algunos cristales de yeso. El perfil muestra moteados en toda su extensión, aunque a veces son difíciles de identificar por el estado de humedad.
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Arroyo Nogoyá (que está algo mejor drenada y el argílico es menos arcilloso).
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial moderado y un importante drenaje horizontal subsuperficial a través del horizonte IIA1 que es el más permeable, causando una capa freática temporaria suspendida. Suelos con gran peligro de anegamiento moderado después de fuertes lluvias. Permeabilidad muy lenta. Capa freática a 6-8 m. Grupo hidrológico D.
+
+
+Erosión
+
+Peligro de deposición de materiales y gran peligro de erosión en cárcavas, debido a un proceso natural de erosión subsuperficial.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Matilde
+
+ER3-6C
+Nº de registro
+ 181
+ 182
+ 183
+ 184
+ 185
+Horizonte
+ A1
+ IIA1
+ IIB21t
+ IIB22t
+ IIB3
+Profundidad (cm)
+ 03-15
+ 25-45
+ 53-70
+ 80-100
+ 115-135
+Mat.organica (%)
+ 5.0
+ 2.1
+ 1.4
+ 1.1
+ 0.4
+C/N
+ 10
+ 10
+ 10
+ 9
+ 9
+
+T < 2 u
+
+ 46.7
+
+ 27.2
+
+ 43.4
+
+ 49.6
+
+ 41.8
+E 2-20 u
+ 30.7
+ 30.7
+ 24.7
+ 22.0
+ 21.7
+X 2-50 u
+ 51.2
+ 67.5
+ 51.6
+ 46.6
+ 53.5
+T 50-100 u
+ 1.0
+ 3.0
+ 3.1
+ 2.3
+ 3.0
+U 100-250 u
+ 0.7
+ 1.5
+ 1.2
+ 1.0
+ 1.3
+R 250-500 u
+ 0.4
+ 0.8
+ 0.7
+ 0.5
+ 0.4
+A 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+pH H2O
+ 6.0
+ 6.2
+ 6.4
+ 6.7
+ 7.0
+pH ClK
+ 5.5
+ 5.6
+ 5.5
+ 5.6
+ 6.0
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+
+ 40.2
+
+
+
+ 23.8
+
+
+
+ 31.0
+
+
+
+ 34.7
+
+
+
+ 28.8
+
+
+d
+Ca++
+ 28.5
+ 17.4
+ 21.4
+ 25.0
+ 22.6
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 4.8
+ 2.9
+ 4.1
+ 5.0
+ 4.2
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 1.2
+ 0.5
+ 0.9
+ 1.3
+ 1.3
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 0.5
+ 0.6
+ 1.5
+ 1.4
+ 0.7
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ 6.2
+ 4.0
+ 4.0
+ 3.0
+ 1.5
+
+% Na/T
+
+ 1.2
+
+ 2.5
+
+ 4.8
+
+ 4.0
+
+ 2.4
+Equivalente de humedad (%)
+ 46.1
+ 29.7
+ 45.5
+ 49.9
+ 38.6
+

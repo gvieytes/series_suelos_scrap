@@ -1,0 +1,40 @@
+dss_ArroyoCabral.psv ->> ID..........................: 702
+dss_ArroyoCabral.psv ->> CLASIFICACION...............: Argiustol típico
+dss_ArroyoCabral.psv ->> SERIE.......................: ARROYO CABRAL (ArCbrl)
+dss_ArroyoCabral.psv ->> UBICACION...................: 18 km al NE de Arroyo Cabral
+dss_ArroyoCabral.psv ->> PROVINCIA...................: CORDOBA
+dss_ArroyoCabral.psv ->> LATITUD.....................: S322100
+dss_ArroyoCabral.psv ->> LONGITUD....................: O631800
+dss_ArroyoCabral.psv ->> ALTITUD.....................: 212
+dss_ArroyoCabral.psv ->> PENDIENTE...................: FALTA!
+dss_ArroyoCabral.psv ->> DRENAJE.....................: FALTA!
+dss_ArroyoCabral.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ArroyoCabral.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ArroyoCabral.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+dss_ArroyoCabral.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_ArroyoCabral.psv ->> HORIZONTE->NOMBRE(S)........: ap | a | bt1 | bt2 | bck | ck
+dss_ArroyoCabral.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-13 | 13-24 | 24-49 | 49-72 | 72-104 | 104a+
+dss_ArroyoCabral.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.04 | 1.7 | 1 | 0.85 | 0.51 | 
+dss_ArroyoCabral.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.2 | 1.0 | 0.6 | 0.5 | 0.3 | 
+dss_ArroyoCabral.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.13 | 0.12 | 0.09 | 0.08 | - | 
+dss_ArroyoCabral.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.2 | 8.3 | 6.7 | 6.2 | - | 
+dss_ArroyoCabral.psv ->> HORIZONTE->ARCILLA 2 (%)....: 12.9 | 16.9 | 25.2 | 24.6 | 13.5 | 10.4
+dss_ArroyoCabral.psv ->> HORIZONTE->LIMO 2-50 (%)....: 48.8 | 50.1 | 48.6 | 50.7 | 57.2 | 56.9
+dss_ArroyoCabral.psv ->> HORIZONTE->AMF 50-100 (%)...: 10.0 | 9.3 | 7.7 | 8.2 | 8.7 | 11.2
+dss_ArroyoCabral.psv ->> HORIZONTE->AF 100-250 (%)...: 19.8 | 18.0 | 14.5 | 13.7 | 16.7 | 16.7
+dss_ArroyoCabral.psv ->> HORIZONTE->AM 250-500 (%)...: 2.7 | 2.1 | 2.1 | 1.7 | 1.8 | 1.6
+dss_ArroyoCabral.psv ->> HORIZONTE->AG 500-1000 (%)..: 3.5 | 3.1 | 2.9 | 2.3 | 2.1 | 2.3
+dss_ArroyoCabral.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.3 | 0.4 | 0.4 | 0.3 | 0.1 | 0.5
+dss_ArroyoCabral.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 0.8 | 1.7
+dss_ArroyoCabral.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17.8 | 22.0 | 25.9 | 23.1 | 22.1 | 22.9
+dss_ArroyoCabral.psv ->> HORIZONTE->PH PASTA.........: 5.4 | 6.0 | 6.7 | 6.8 | 7.6 | 8.5
+dss_ArroyoCabral.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.7 | 6.3 | 6.9 | 7.1 | 7.9 | 9.2
+dss_ArroyoCabral.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 5.2 | 7.7 | 13.4 | 14.0 | - | 
+dss_ArroyoCabral.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.5 | 1.2 | 1.4 | 1.6 | - | 
+dss_ArroyoCabral.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.1 | 0.1 | 0.3 | 0.3 | 0.4 | 10.1
+dss_ArroyoCabral.psv ->> HORIZONTE->CI ME/100G-K +...: 1.6 | 1.3 | 1.6 | 0.9 | 1.8 | 1.1
+dss_ArroyoCabral.psv ->> HORIZONTE->CI ME/100G-H +...: 2.7 | 1.6 | 0.9 | 0.6 | - | 
+dss_ArroyoCabral.psv ->> HORIZONTE->Na+ % DEL VALOR T: 0.9 | 0.8 | 1.2 | 1.2 | 2.7 | 58
+dss_ArroyoCabral.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8.4 | 10.3 | 16.7 | 16.8 | - | 
+dss_ArroyoCabral.psv ->> HORIZONTE->CIC ME/100G(T)...: 11.0 | 12.1 | 17.8 | 17.4 | 17.9 | 17.3
+dss_ArroyoCabral.psv ->> HORIZONTE->SAT.B % (S/T)....: 76 | 85 | 94 | 96 | - | 

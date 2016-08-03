@@ -1,0 +1,224 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO ANIMAL Símbolo: AAni
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos desarrollados en materiales loessoides retransportados, de textura franco-arcillo-limosa.
+El epipedón, franco-limoso, es de reducido espesor, de color pardo y muy poroso.
+El horizonte argílico, franco-arcillo-limoso, tiene abundantes moteados de hierro y manganeso. El carbonato en concreciones finas aparece en el horizonte C y por debajo de los 125 cm.
+Perfil tipo: ER1 - 82C
+Fecha: 20-X-1992
+Ubicación: Ea. El Supremo (foto IR 414-46) - Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A11: 00-17 cm; gris oscuro a pardo grisáceo oscuro (10YR 4.5/1) en seco, pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic-skins") escasos a comunes; moteados de hierro-manganeso escasos, finos y precisos; límite gradual, suave.
+A12: 17-31 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic-skins") comunes; moteados de hierro-manganeso escasos, finos y precisos; abundantes poros finos y continuos; límite abrupto, suave.
+B21t: 31-51 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares y algunos bloques cuneiformes medios, moderados; muy duro en seco y firme en húmedo; barnices ("clay-humic-skins") comunes; caras de fricción ("slickensides") comunes, medios; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 51-71 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares y algunos bloques cuneiformes medios, fuertes; muy duro en seco; firme en húmedo; barnices ("clay-skins") comunes; caras de fricción ("slickensides") escasas a comunes; moteados de hierro-manganeso abundantes, medios y precisos; límite claro, suave.
+B3: 71-110 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("clay-skins") abundantes; caras de fricción ("slickensides") muy escasas; moteados de hierro-manganeso comunes, finos y precisos; límite difuso, suave.
+Cca: 110 cm+; pardo (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco; friable en húmedo; escasas concreciones calcáreas.
+Variabilidad de rasgos
+La profundidad del solum varía generalmente entre 110-120 cm. El epipedón mólico comprende los horizontes A11 y A12 y normalmente tiene un espesor de 25-30 cm, es franco-limoso, friable y está bien estructurado.
+El horizonte argílico incluye los horizontes B21t y B22t de 40-45 cm de espesor, seguido por un horizonte transicional B3 de 30-40 cm de espesor. El B2, franco-arcillo-limoso y de estructura prismática compuesta, es de color pardo oscuro, con comunes barnices arcillo-húmicos y "caras de fricción". El B3, franco-arcillo-limoso y de color pardo oscuro, no tiene carbonatos libre en la masa ni en concreciones.
+El horizonte C es de un color pardo relativamente uniforme, contiene escasas concreciones calcáreas pero no tiene carbonatos libres; no raras veces el perfil se muestra totalmente descarbonatado hasta gran profundidad, particularmente donde el manto de loess es muy espeso.	
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+Series similares y sus diferencias
+Se parece a la serie Lazo del Dpto. Gualeguay pero ésta es más profunda; también es parecida a serie La Emiliana (que tiene el epipedón más oscuro).
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial medio a rápido. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+Erosión
+La serie Arroyo Animal tiene una erosión actual ligera en forma laminar y la susceptibilidad a la misma es moderada.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Animal
+ER1-82C
+Nº de registro
+ 7.195
+ 7.196
+ 7.197
+ 7.198
+ 7.199
+ 7.200
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 02-15
+ 19-29
+ 34-48
+ 53-69
+ 84-100
+ 118-138
+Mat.organica (%)
+ 3.65
+ 2.35
+ 1.19
+ 0.44
+ 0.08
+ 0.08
+N (%)
+ 0.17
+ 0.12
+ 0.08
+ 0.05
+ 0.04
+ 0.03
+C/N
+ 11.6
+ 10.4
+ 7.90
+ 4.36
+ 0.97
+ 1.54
+T < 2 u
+ 25.63
+ 28.85
+ 43.82
+ 38.90
+ 34.64
+ 30.62
+E 2-20 u
+ 31.28
+ 30.95
+ 20.52
+ 25.52
+ 27.50
+ 36.22
+X 2-50 u
+ 65.42
+ 62.40
+ 49.77
+ 53.84
+ 57.44
+ 62.71
+T 50-100 u
+ 1.87
+ 1.74
+ 0.98
+ 1.70
+ 2.16
+ 2.55
+U 100-500 u
+ 6.87
+ 6.91
+ 5.37
+ 5.47
+ 5.67
+ 4.29
+R 500-1000 u
+ 0.11
+ 0.10
+ 0.06
+ 0.09
+ 0.09
+ 0.17
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 2.52
+pH H2O
+ 5.7
+ 5.8
+ 6.1
+ 6.5
+ 6.6
+ 7.8
+pH ClK
+ 5.0
+ 5.1
+ 5.4
+ 5.6
+ 5.8
+ 6.9
+C.E. (mmhos/cm)
+ 0.59
+ 0.61
+ 0.60
+ 0.31
+ 0.25
+ 0.66
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 29.70
+ 19.30
+ 30.40
+ 28.50
+ 27.20
+ 33.60
+d
+Ca++
+ 14.80
+ 14.00
+ 22.40
+ 21.60
+ 20.80
+ 25.20
+C
+e
+a
+Mg++
+ 2.90
+ 2.70
+ 4.80
+ 4.30
+ 4.00
+ 5.10
+t
+c
+i
+a
+K+
+ 1.35
+ 1.30
+ 1.95
+ 1.80
+ 1.60
+ 1.85
+o
+m
+n
+b
+Na+
+ 0.12
+ 0.12
+ 0.60
+ 0.57
+ 0.37
+ 0.73
+e
+I
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 0.40
+ 0.62
+ 1.97
+ 1.99
+ 1.36
+ 2.17
+Equivalente de humedad (%)
+ 26.48
+ 27.47
+ 41.38
+ 35.91
+ 33.78
+ 32.89

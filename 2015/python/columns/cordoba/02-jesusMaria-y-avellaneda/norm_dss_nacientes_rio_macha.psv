@@ -1,0 +1,39 @@
+dss_nacientes_rio_macha.psv ->> ID..........................: 228
+dss_nacientes_rio_macha.psv ->> CLASIFICACION...............: Natracualf típico
+dss_nacientes_rio_macha.psv ->> SERIE.......................: NACIENTES DEL RÍO
+dss_nacientes_rio_macha.psv ->> UBICACION...................: 4,5 km al OSO del paraje de Macha, departamento Totoral
+dss_nacientes_rio_macha.psv ->> PROVINCIA...................: CORDOBA
+dss_nacientes_rio_macha.psv ->> LATITUD.....................: S303400
+dss_nacientes_rio_macha.psv ->> LONGITUD....................: O640600
+dss_nacientes_rio_macha.psv ->> ALTITUD.....................: 650
+dss_nacientes_rio_macha.psv ->> PENDIENTE...................: FALTA!
+dss_nacientes_rio_macha.psv ->> DRENAJE.....................: FALTA!
+dss_nacientes_rio_macha.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_nacientes_rio_macha.psv ->> PERMEABILIDAD...............: FALTA!
+dss_nacientes_rio_macha.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_nacientes_rio_macha.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_nacientes_rio_macha.psv ->> HORIZONTE->NOMBRE(S)........: A2 | B2t | B3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-12 | 12-34 | 34a+
+dss_nacientes_rio_macha.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,9 | 0,2 | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,7 | 0,1 | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,15 | 0,01 | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->RELACIÓN C/N.....: 11,3 | 10,0 | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18,4 | 31,5 | 31,5
+dss_nacientes_rio_macha.psv ->> HORIZONTE->LIMO 2-50 (%)....: 58,5 | 50,9 | 50,7
+dss_nacientes_rio_macha.psv ->> HORIZONTE->AMF 50-100 (%)...: 11,2 | 6,6 | 7,3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->AF 100-250 (%)...: 6,3 | 5,1 | 5,1
+dss_nacientes_rio_macha.psv ->> HORIZONTE->AM 250-500 (%)...: 1,6 | 1,3 | 1,3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->AG 500-1000 (%)..: 1,3 | 1,1 | 1,1
+dss_nacientes_rio_macha.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,3 | 0,7 | 0,6
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,7
+dss_nacientes_rio_macha.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 26,7 | 30,9 | 33,4
+dss_nacientes_rio_macha.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->PH H2O 1:2,5.....: 8,1 | 9,2 | 9,3
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10,5 | 10,0 | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,1 | 1,0 | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CI ME/100G-Na +..: 4,7 | 4,4 | 12,6
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CI ME/100G-K +...: 3,0 | 3,1 | 2,9
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CI ME/100G-H +...: - | - | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->SUM.B. ME/100G(S): 19,3 | 18,5 | 
+dss_nacientes_rio_macha.psv ->> HORIZONTE->CIC ME/100G(T)...: 19,4 | 18,6 | 18,5
+dss_nacientes_rio_macha.psv ->> HORIZONTE->SAT.B % (S/T)....: 100 | 100 | 100

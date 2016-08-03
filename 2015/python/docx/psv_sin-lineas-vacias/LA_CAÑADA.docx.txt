@@ -1,0 +1,222 @@
+--------------------------------------------------------------------------------
+SERIE LA CAÑADA Símbolo: LCñ
+Pertenece a la familia "fina, montmorillonítica, neutra, térmica" de los Peludertes árgicos.
+Son suelos profundos, de colores oscuros, con un epipedón y un horizonte argílico arcillo-limosos, y sin microrrelieve gilgai. Están imperfectamente drenados y totalmente descarbonatados. Se han desarrollado en materiales "limos calcáreos".
+Perfil tipo: ER1-101C
+Fecha: 17-I-94
+Ubicación: Durazno (foto 444-14) - Dpto. Tala
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-10 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("humic-skins") escasos; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+B21t: 10-42 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; muy duro en seco, muy firme en húmedo; caras de fricción ("slickensides") abundantes y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 42-64 cm; gris muy oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; extremadamente duro en seco, muy firme en húmedo; caras de fricción ("slickensides") escasas y medias; moteados de hierro-manganeso abundantes, finos y precisos; límite claro, suave.
+B23t: 64-83 cm; pardo grisáceo oscuro (10YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay-skins") escasos a comunes; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite claro, suave.
+B3: 83-112 cm; pardo oscuro (7.5YR 3/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares gruesos, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") abundantes y gruesas; concreciones de hierro-manganeso comunes; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; horizonte algo gleizado; límite gradual, suave.
+C: 112 cm +; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques subangulares finos, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay-skins") escasos; concreciones de hierro-manganeso escasas a comunes; moteados de hierro-manganeso abundantes, gruesos y sobresalientes.
+Variabilidad de rasgos
+El espesor del sólum varía entre 110-120 cm. Generalmente, presenta un epipedón corto, de color oscuro y denso.
+El horizonte argílico, con un espesor que llega a los 80 cm y un tenor de arcilla que varía entre 45-53%, no contiene carbonatos ni concreciones ferromanganesíferas.
+El horizonte B3, de color más claro, está algo gleizado y con abundantes concreciones de hierro-manganeso. Presenta grietas que están rellenas con material de los horizontes superiores.
+Fases
+No se describieron a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Arroyo Raíces pero ésta es más arcillosa y tiene características más hidromórficas.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial muy lento. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La serie no presenta erosión actual.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Cañada
+ER1-101C
+Nº de registro
+ 8553
+ 8554
+ 8555
+ 8556
+ 8557
+ 8558
+Horizonte
+ A1
+ B21t
+ B22t
+ B23t
+ B3
+ C
+Profundidad (cm)
+ 02-08
+ 13-39
+ 45-60
+ 66-80
+ 85-110
+ 125-132
+Mat.organica (%)
+ 8.66
+ 1.56
+ 1.44
+ 0.73
+ 0.30
+ 0.08
+N (%)
+ 0.43
+ 0.14
+ 0.09
+ 0.08
+ 0.04
+ 0.03
+C/N
+ 11
+ 6
+ 9
+ 5
+ 3
+ 1
+T < 2 u
+ 41.22
+ 45.16
+ 52.11
+ 50.37
+ 45.53
+ 40.71
+E 2-20 u
+ 28.76
+ 25.39
+ 24.68
+ 29.13
+ 33.23
+ 34.97
+X 2-50 u
+ 55.75
+ 50.31
+ 45.05
+ 46.85
+ 51.37
+ 55.74
+T 50-100 u
+ 0.62
+ 2.74
+ 0.49
+ 1.16
+ 1.56
+ 0.60
+U 100-500 u
+ 1.94
+ 1.61
+ 2.29
+ 1.57
+ 1.48
+ 2.91
+R 500-1000 u
+ 0.27
+ 0.18
+ 0.06
+ 0.05
+ 0.06
+ 0.04
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ -
+PH H2O
+ 5.6
+ 6.3
+ 6.9
+ 7.4
+ 7.7
+ 7.9
+pH ClK
+ 4.9
+ 5.2
+ 5.5
+ 6.0
+ 6.2
+ 6.3
+C.E.(mmhos/cm)
+ 1.17
+ 0.75
+ 0.86
+ 0.79
+ 0.57
+ 0.54
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 36.3
+ 37.4
+ 42.4
+ 39.1
+ 34.5
+ 30.6
+d
+Ca++
+ 26.6
+ 27.3
+ 31.0
+ 28.2
+ 25.9
+ 22.9
+C
+e
+a
+Mg++
+ 5.7
+ 6.0
+ 6.8
+ 6.5
+ 5.0
+ 4.3
+t
+c
+i
+a
+K+
+ 1.8
+ 2.0
+ 2.3
+ 2.2
+ 1.9
+ 1.4
+o
+m
+n
+b
+Na+
+ 1.0
+ 1.2
+ 1.4
+ 1.3
+ 1.1
+ 0.9
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 2.75
+ 3.21
+ 3.30
+ 3.32
+ 3.19
+ 2.94
+Equival. de humedad (%)
+ 45.90
+ 48.76
+ 56.00
+ 54.65
+ 50.01
+ 45.77

@@ -1,0 +1,221 @@
+--------------------------------------------------------------------------------
+SERIE LA CAROLA Símbolo: LCro
+Pertenece a la familia "fina, mixta montmorillonítica, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón pardo a pardo grisáceo, franco-limoso de un horizonte argílico gris muy oscuro y de textura arcillo-limosa Con presencia de concreciones calcáreas a partir de los 45-50 cm.
+Perfil tipo: ER1-119C
+Fecha: 23-VII-01
+Ubicación: Esc. Agrotécnica La Carola (foto IR 429-47) - Dto. Algarrobitos. Dpto. Nogoyá.
+Reconocedores: O.A Foti; R.H. Fuentes; R.E. Kleinerman.
+A11: 00-14 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura granular y bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic skins") comunes a abundantes; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, suave.
+A12: 14-27 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; ligeramente duro en seco, firme en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, suave.
+B21t: 27-48 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, moderados; ligeramente duro en seco; firme en húmedo; barnices ("clay-humic skins") comunes; moteados de hierro-manganeso, comunes, finos y precisos; límite claro, suave.
+B22t: 48-67 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, y cuneiformes, medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, finas; concreciones calcáreas comunes, finas; moteados de hierro-manganeso comunes, medios y sobresalientes; límite claro, suave.
+B3: 67-101 cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas, gruesas; concreciones calcáreas escasas a comunes; moteados de hierro-manganeso, abundantes, gruesos y sobresalientes; límite gradual, suave.
+C: 101 cm+; pardo fuerte (7,5YR 4/6) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, gruesos, modeados; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") comunes, caras de fricción ("slickrnsides") escasas, gruesas; concreciones ferromanganesíferas escasas, finas; concreciones calcáreas escasas, gruesas; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El solum varía entre 100-120 cm de profundidad. El epipedón mólico tiene un espesor de 25-30 cm, está formado por los horizonte A11 y A12 y tiene estructura granular bien desarrollada.
+El B2, de poco espesor (varía de 40-45 cm) es de color pardo oscuro y de textura arcillo-limosa con un contenido de arcilla de entre 40-45 %.
+El calcáreo aparece entre la base del B22 o el techo del B3 en concreciones finas.
+	
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+Erosión
+Serie La Carola no tiene erosión actual.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Carola
+ER1-119C
+N° de registro
+ 7664
+ 7665
+ 7666
+ 7667
+ 7668
+ 7669
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm
+ 03-12
+ 15-25
+ 29-45
+ 50-65
+ 70-95
+ 110-125
+Mat.organica (%)
+ 3.68
+ 2.99
+ 1.97
+ 0.84
+ 0.15
+ 0.15
+N (%)
+ 0.195
+ 0.162
+ 0.138
+ 0.075
+ 0.038
+ 0.035
+C/N
+ 11
+ 11
+ 8
+ 6
+ 2
+ 2
+T <2
+ 26.59
+ 29.92
+ 43.89
+ 43.99
+ 37.44
+ 35.48
+E 2-20
+ 37.64
+ 37.58
+ 35.03
+ 34.80
+ 37.15
+ 36.75
+X 2-50
+ 63.23
+ 59.75
+ 52.05
+ 52.29
+ 58.55
+ 58.97
+T 50-100
+ 0.96
+ 0.67
+ 086
+ 0.84
+ 0.99
+ 1.54
+U 100-500
+ 8.76
+ 9.16
+ 3.02
+ 2.72
+ 2.92
+ 3.93
+R 500-1000
+ 0.46
+ 0.50
+ 0.18
+ 0.16
+ 0.10
+ 0.08
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ 3.97
+ 3.49
+ 2.27
+pH H2O
+ 6.3
+ 6.4
+ 7.1
+ 7.9
+ 8.2
+ 8.3
+pH ClK
+ 5.7
+ 5,4
+ 5.9
+ 6.8
+ 7.1
+ 7.1
+Conductividad eléctrica mmhos/cm
+ 0.408
+ 0.469
+ 0.462
+ 0.500
+ 0.530
+ 0.631
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 24.42
+ 27.00
+ 39.38
+ 41.50
+ 34.54
+ 31.68
+D
+Ca++
+ 21.56
+ 23.71
+ 34.88
+ 35.58
+ 28.84
+ 26.00
+C
+E
+A
+Mg++
+ 1.42
+ 1.67
+ 1.98
+ 2.32
+ 1.62
+ 1.25
+T
+C
+I
+A
+K+
+ 0.59
+ 0.60
+ 1.44
+ 1.60
+ 1.07
+ 1.09
+O
+M
+N
+B
+Na+
+ 0.25
+ 0.30
+ 0.37
+ 0.47
+ 1.62
+ 1.25
+E
+I
+S
+O
+H+
+% Na/T
+ 1.02
+ 1.11
+ 0.94
+ 1.13
+ 4.69
+ 3.94
+Equivalente de humedad (%)
+ 28.19
+ 29.59
+ 46.91
+ 46.25
+ 40.04
+ 32.54
+P asimilable ppm
+ 11.4
+ 2.7
+ 1.9
+ 1.6
+ 1.5
+ 1.5

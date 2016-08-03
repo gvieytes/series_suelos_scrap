@@ -1,0 +1,267 @@
+
+--------------------------------------------------------------------------------
+SERIE TAMBERAS					 Símbolo: Tmb
+
+
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Peludertes árgicos.
+Presenta un epipedón somero, de color negro y textura franco-arcillo- textural, con caras de fricción ("slickensides") poco abundantes.
+Son suelos profundos, moderadamente bien drenados y con presencia de calcáreo a partir de los 45 cm y que aumenta notablemente en profundidad.
+Suelos desarrollados en materiales arcillo-limosos (limos calcáreos).
+
+
+Perfil tipo: ER7-121C
+Fecha: 30-IX-1997
+Ubicación: 7 km al norte de Cerrito (foto IR 458-52) - Dto. Tala - Dpto. Paraná
+Reconocedores: O.A. Foti; L.O. López
+
+
+A1: 00-12 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices ("clay-humic skins") comunes; moteados de hierro-manganeso, comunes, medios y precisos; límite abrupto, suave. Presencia de "selfmulching".
+
+B21t: 12-42 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en prismas compuestos angulares irregulares y bloques angulares irregulares con tendencia cuneiformes, medios, débiles; duro en seco y friable en húmedo; barnices ("clay-humic skins") y ("clay skins") comunes; caras de fricción ("slickensides") abundantes e intersectadas ; concreciones ferromanganesíferas escasas, finas; moteados de hierro-manganeso, comunes, medios y precisos; límite claro, suave.
+
+B22tca: 42-67 cm; gris muy oscuro (10YR 3/1.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco, friable en húmedo; concreciones calcáreas escasas; comunes carbonatos libres en la masa; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual, ondulado.
+
+B3ca: 67-105 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; concreciones calcáreas, comunes, de hasta 2 cm de diámetro; abundantes carbonatos libres en la masa; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso abundantes, medios y precisos; límite difuso, suave.
+
+Cca: 105 cm +; pardo grisáceo (10YR 5/2.5) en húmedo; arcillo-limoso; masivo; friable en húmedo; concreciones calcáreas comunes; abundantes carbonatos libres en la masa; moteados de hierro-manganeso escasos, finos y débiles.
+
+
+
+
+
+Variabilidad de rasgos
+
+El microrrelieve gilgai, es tenuemente visible en la fotografía aérea y se observa solo en campos con vegetación natural o con pendientes del 2 %; en declives más suaves no tiene gilgai, aunque sí se aprecia movimiento en masa ("churning") en el perfil.
+
+El solum varía entre 90-100 cm de profundidad. En el bajo del gilgai el epipedón varía de 18-25 cm, es mólico y poco autoestructurado. Comprende un horizonte A1 de 12-14 cm de color oscuro y con un 30 % de arcilla.
+
+El horizonte argílico, de estructura prismática, existe solo en el bajo del gilgai; tiene 50-55 % de arcilla y cuando seco presenta grietas de hasta 2 cm de ancho, que se extienden hasta la base del epipedón. El calcáreo, en concreciones de hasta 2 cm, aparece a 42-45 cm de profundidad en el bajo del gilgai.
+
+El horizonte C tiene 41-43 % de arcilla; su color varía de 10YR 5/2 a 5/3. 	
+
+
+Fases
+
+Severamente erosionada, con cárcavas (símbolo: Tmb.h3+C).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+Erosión
+
+La serie Tamberas está leve a moderadamente erosionada y tiene severo peligro de erosión en forma de surcos y cárcavas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Tamberas
+
+ER7-121C
+
+
+
+
+
+Nº de registro
+ 2052
+ 2053
+ 2054
+ 2055
+ 2056
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 02-10
+ 24-35
+ 52-63
+ 70-85
+ 110-130
+Mat.organica (%)
+ 5.47
+ 3.69
+ 1.95
+ 1.09
+ 0.36
+N (%)
+ 0.26
+ 0.14
+ 0.09
+ 0.06
+ 0.04
+C/N
+ 12
+ 15
+ 13
+ 11
+ 5
+
+T < 2 μ
+ 29.84
+ 49.00
+ 51.28
+ 45.30
+ 43.85
+E 2-20 μ
+ 27.96
+ 21.83
+ 21.03
+ 25.05
+ 25.00
+X 2-50 μ
+ 67.12
+ 49.34
+ 47.27
+ 52.84
+ 54.59
+T 50-100 μ
+ 0.56
+ 0.40
+ 0.39
+ 0.30
+ 0.15
+U 100-500 μ
+ 2.47
+ 1.25
+ 1.05
+ 1.51
+ 1.30
+R 500-1000 μ
+ 0.01
+ 0.01
+ 0.01
+ 0.05
+ 0.11
+A
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 3.12
+ 6.82
+ 7.83
+pH H2O
+ 6.3
+ 7.1
+ 8.6
+ 8.4
+ 8.6
+pH ClK
+ 5.5
+ 6.0
+ 7.2
+ 7.4
+ 7.3
+CE (mmhos/cm)
+ 0.308
+ 0.346
+ 0.365
+ 1.799
+ 0.847
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 32.18
+ 50.33
+ 50.71
+ 44.35
+ 43.20
+ d Ca++
+ 25.37
+ 42.39
+ -
+ -
+ -
+C e
+
+
+
+
+
+Mg++
+ 2.40
+ 3.48
+ -
+ -
+ -
+t c
+
+
+
+
+
+i a K+
+ 1.15
+ 1.29
+ 0.73
+ 0.57
+ 0.59
+o m
+
+
+
+
+
+n b Na+
+ 1.25
+ 1.87
+ 3.80
+ 4.61
+ 4.53
+e i
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+% Na/T
+ 3.88
+ 3.71
+ 7.49
+ 10.39
+ 10.49
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 32.53
+ 50.07
+ 52.04
+ 53.29
+ 42.54
+Fósforo asimilable (ppm)
+ 5.52
+ 1.67
+ 1.05
+ 1.05
+ 0.43
+

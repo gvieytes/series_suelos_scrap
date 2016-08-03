@@ -1,0 +1,471 @@
+
+--------------------------------------------------------------------------------
+SERIE CUCHILLA REDONDA Símbolo: CRd
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos.
+Suelo de color muy oscuro hasta los 80cm de profundidad; de textura arcillo-limosos en todo el perfil.
+Imperfectamente drenados; abundante presencia de calcáreo a partir 85 cm aproximadamente.
+Con espejos de fricción ("slickensides") abundantes hasta el horizonte C.
+
+
+Perfil tipo: ER7-150C
+Fecha: 31-III-2004
+Ubicación: Campo Berisso, 2,5 Km al norte de Cuchilla Redonda (foto IR 405-22). Dto Cuchilla Redonda, Dpto Gualeguaychú.
+Reconocedores: L.O. López; C.V. Acosta; R. Walter.
+
+
+Ap: 00-08 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura granular y bloques subangulares, medios, moderados, blando en seco, firme en húmedo; plástico, adhesivo, barnices ("humic skins") comunes, medios; límite claro, suave.
+
+A12: 08-21 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; muy duro en seco; muy firme en húmedo; barnices ("humic skins") comunes; ("clay-humic skins") comunes y finos; raíces aplastadas; grietas que llegan hasta la base del Ap; abundantes raíces; límite claro, suave.
+
+B21: 21-40 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; abundantes barnices ("clay-humic skins"); caras de fricción ("slickensides") abundantes, finas e intersectadas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso, comunes, precisos y finos; abundantes raíces; límite gradual, ondulado.
+
+B22t: 40-65 cm; negro (10 YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en prismas compuestos, medios, moderados; ligeramente firme en húmedo; barnices ("clay-humic skins") abundantes; caras de fricción ("slickensides") abundantes, gruesos no intersectados y finos intersectados; moteados de hierro-manganeso comunes, precisos y finos; escasas raíces, límite claro, suave.
+
+B23: 65-84 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares chicos, débiles que rompen en bloques angulares irregulares y bloques cuneiformes, medios, débiles; friable en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") abundantes finos e intersectados; moteados de hierro-manganeso comunes, medios y precisos; escasa cantidad de raíces; límite gradual, ondulado.
+
+B3: 84-110 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes medios, moderados; friable en húmedo; caras de fricción ("slickensides") abundantes y finos; concreciones calcáreas, abundantes; miscelios de carbonato de calcio; moteados de hierro-manganeso comunes, medios y precisos, límite gradual, ondulado.
+Cca: 110-140 cm; color abigarrado; arcillo-limoso; estructura masiva; muy friable en húmedo; chorreadura de materia orgánica por grietas; moteados de hierro-manganeso comunes, finos y precisos.
+
+C2: 140 cm +; (10YR 7/4) en húmedo; arcillo-limoso; estructura masiva; friable en húmedo; moteados de hierro-manganeso comunes, medios y precisos.
+
+
+Variabilidad de rasgos
+
+El sólum tiene una profundidad entre 110-120 cm y comprende un epipedón que no se considera mólico, por el porcentaje elevado de arcilla con características vérticas, desde superficie.
+El horizonte B2 de 60-70 cm de espesor con 49-51 % de arcilla; tiene abundantes caras de fricción (slickensides") gruesas y finas intersectadas. De estos horizontes recién el B22 cumple con los requisitos para considerarlo como árgico; presenta comunes moteados de hierro-manganeso y concreciones calcáreas en cantidades escasas. Éste se encuentra a partir del B3 en forma de carbonatos y también en concreciones.
+Es común encontrar en estos perfiles, la presencia de materia orgánica que se desplaza por las grietas y llegan a ser en ocasiones, verdaderos depósitos de material superior.
+
+
+Fases
+
+Se ha descripto a nivel de reconocimiento una fase moderadamente erosionada (CRd.h2).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial moderado. Permeabilidad lenta; napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Cuchilla Redonda, muestra ya en el perfil modal, erosión hídrica leve. Estos suelos en uso agrícola, son muy susceptibles a la formación de surcos y cárcavas muy activas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Cuchilla Redonda
+
+ER7-150C
+
+
+
+
+
+
+
+
+N° de registro
+ 13516
+ 13517
+ 13518
+ 13519
+ 13520
+ 13521
+ 13522
+ 13523
+Horizonte
+ Ap
+ A12
+ B21
+ B22t
+ B23
+ B3
+ Cca
+ C 2
+Profundidad (cm)
+ 00-08
+ 10-20
+ 20-30
+ 45-55
+ 70-80
+ 90-100
+ 120-130
+ 160
+Mat.organica (%)
+ 6.54
+ 4.61
+ 3.90
+ 2.72
+ 2.49
+ 0.92
+ 0.84
+ 0.30
+C (%)
+ 3.80
+ 2.68
+ 2.27
+ 1.58
+ 1.45
+ 0.54
+ 0.49
+ 0.27
+N (%)
+ 0.303
+ 0.219
+ 0.189
+ 0.031
+ 0.084
+ 0.044
+ 0.022
+ 0.017
+C/N
+ 12.54
+ 12.24
+ 12.01
+ 12.06
+ 17.26
+ 12.27
+ 22.27
+ 15.88
+T <2
+ 43.23
+ 43.79
+ 49.98
+ 51.13
+ 48.71
+ 48.00
+ 49.50
+ 47.10
+E 2-20
+ 28.73
+ 27.76
+ 25.37
+ 21.28
+ 26.30
+ 27.77
+ 27.01
+ 27.35
+X 2-50
+ 52.71
+ 51.70
+ 45.58
+ 44.63
+ 48.11
+ 47.41
+ 47.24
+ 48.95
+T 50-100
+ 0.81
+ 0.77
+ 0.81
+ 0.45
+ 0.57
+ 0.81
+ 0.83
+ 1.40
+U 100-250
+ 3.08
+ 3.57
+ 3.41
+ 3.56
+ 2.47
+ 3.68
+ 2.33
+ 2.45
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.17
+ 0.17
+ 0.22
+ 0.23
+ 0.14
+ 0.10
+ 0.10
+ 0.10
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 7.66.
+ 2.79
+ 1.98
+pH H2O
+ 6.7
+ 7.0
+ 7.1
+ 7.7
+ 8.5
+ 8.9
+ 8.4
+ 8.6
+pH ClK
+ 5.7
+ 5.9
+ 5.8
+ 6.4
+ 7.0
+ 7.2
+ 7.0
+ 7.0
+Conductividad eléctrica (mmhos/cm)
+
+ 0.149
+
+ 0.167
+
+ 0.146
+
+ 0.168
+
+ 0.219
+
+ 0.246
+
+ 0.237
+
+ 0.149
+Capacidad de intercambio catiónico
+ (cmol (+)/kg) =
+ Valor T
+
+
+ 33.7
+
+
+ 37.6
+
+
+ 41.6
+
+
+ 48.3
+
+
+ 48.1
+
+
+ 39.3
+
+
+ 40.3
+
+
+ 0.219
+
+D
+Ca++
+ 26.7
+ 27.6
+ 29.2
+ 32.7
+ 33.0
+ 25.9
+ 29.2
+ 21.2
+C
+E
+
+
+
+
+
+
+
+
+
+A
+
+Mg++
+ 3.3
+ 2.0
+ 3.2
+ 6.6
+ 4.7
+ 6.4
+ 2.1
+ 10.8
+T
+C
+
+
+
+
+
+
+
+
+
+I
+A
+K+
+ 1.182
+ 0.850
+ 0.782
+ 0.638
+ 0.468
+ 0.459
+ 0.816
+ 0.935
+O
+M
+
+
+
+
+
+
+
+
+
+N
+B
+Na+
+ 0.586
+ 0.479
+ 0.568
+ 1.260
+ 1.183
+ 1.361
+ 1.645
+ 1.704
+E
+I
+
+
+
+
+
+
+
+
+
+S
+O
+H+
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+
+ 42.26
+
+ 43.93
+
+ 51.41
+
+ 53.18
+
+ 50.20
+
+ 50.01
+
+ 49.14
+
+ 47.18
+
+Factor de humedad
+
+ 1.08
+
+ 1.08
+
+ 1.09
+
+ 1.13
+
+ 1.13
+
+ 1.13
+
+ 1.11
+
+ 1.11
+
+P disponible (ppm)
+
+ 10.7
+
+ 3.60
+
+ 2.50
+
+ 1.60
+
+ 1.40
+
+ 1.20
+
+ 1.1
+
+ 0.9
+
+K disponible (mg/kg)
+
+ 462.2
+
+ 332.4
+
+ 305.8
+
+ 249.5
+
+ 183.0
+
+ 179.5
+
+ 319.1
+
+ 365.6
+
+Ca disponible (mg/kg)
+
+ 5350,7
+
+ 5531.0
+
+ 5851.7
+
+ 6553.1
+
+ 6613.2
+
+ 5190.4
+
+ 5851.7
+
+ 4248.5
+
+Mg disponible (mg/kg)
+
+ 401,3
+
+ 243.2
+
+ 389.1
+
+ 802.6
+
+ 571.5
+
+ 778.2
+
+ 255.4
+
+ 1313.3
+
+

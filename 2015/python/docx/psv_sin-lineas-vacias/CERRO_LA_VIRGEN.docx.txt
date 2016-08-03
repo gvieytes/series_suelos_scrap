@@ -1,0 +1,203 @@
+--------------------------------------------------------------------------------
+SERIE CERRO LA VIRGEN Símbolo: CLV
+Pertenece a la familia "franca fina, silícea, no ácida, térmica" de los Udifluventes típicos.
+Desarrollado sobre material franco limoso.
+La vegetación típica es de pastizales y arbustos.
+Perfil tipo: 9C INTA Castelar
+Fecha: II-1986
+Ubicación: Estancia El Guasuncho (Hoja IGM 3360-30-4) - Dpto. Islas del Ibicuy
+Reconocedores: L. A. Gómez; R. F. Ferrao
+I: 0-18 cm; pardo oscuro (10YR 3/3) en húmedo, pardo (10YR 5/3) en seco; franco limoso; bloques subangulares, medios, moderados; friable, no plástico, no adhesivo; límite inferior claro, suave.
+II: 18-37 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; pardo pálido (10YR 6/3) en seco; franco limoso; bloques subangulares, medios, moderados; friable, ligeramente plástico, ligeramente adhesivo; moteados comunes, precisos y medios; límite inferior claro y suave.
+III: 37-78 cm; pardo amarillento claro (10YR 6/2) en húmedo; pardo muy pálido (10YR 7/3) en seco; franco limoso; bloques subangulares, medios y finos, débiles; friable, no plástico, no adhesivo; moteados comunes, precisos y medios; límite inferior claro y suave.
+IV: 78-110 cm; gris pardusco claro (10YR 6/2) en húmedo; blanco (10YR 8/2) en seco; franco; masivo; friable, no plástico, no adhesivo; escasa reacción de carbonatos libres: escasas concreciones de carbonato de calcio y de hierro manganeso; moteados abundantes, sobresalientes y gruesos.
+ Serie Cerro La Virgen
+Variabilidad de rasgos
+No se determinó.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Cerro La Virgen
+9C INTA Castelar
+N° de registro
+ 30564
+ 30565
+ 30566
+ 30567
+Horizonte
+ I
+ II
+ III
+ IV
+Profundidad (cm)
+ 2-16
+ 20-35
+ 40-76
+ 80-110
+Mat.organica (%)
+ 7.07
+ 0.55
+ 0.26
+ 0.33
+C (%)
+ 4.11
+ 0.32
+ 0.15
+ 0.19
+N (%)
+ 0.357
+ 0.066
+ -
+ -
+C/N
+ 11
+ 5
+ -
+ -
+T <2 u
+ 25.5
+ 24.3
+ 17.5
+ 18.6
+E 2-20 u
+ 27.0
+ 24.7
+ 20.0
+ 20.5
+X 2-50 u
+ 53.5
+ 50.6
+ 59.0
+ 48.3
+T 50-74 u
+ 15.5
+ 15.0
+ 16.1
+ 23.3
+U 74-100 u
+ 4.3
+ 7.7
+ 5.5
+ 5.5
+R 100-250 u
+ 1.2
+ 2.4
+ 1.1
+ 3.4
+A 250-500 u
+ -
+ -
+ -
+ 0.9
+ -
+ -
+ -
+ -
+Gravilla (> 7) Tosca Ca %
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ 0.8
+ -
+Equiv. de humedad (%)
+ 29.1
+ 23.8
+ 20.4
+ 21.9
+Resistencia de la pasta (Ohms/cm)
+ 4954
+ 5328
+ 3085
+ 3085
+pH en pasta
+ 4.7
+ 5.6
+ 7.1
+ 7.1
+PH H2O
+ 5.4
+ 6.2
+ 7.6
+ 7.5
+pH ClK
+ 4.3
+ 4.5
+ 6.1
+ 5.7
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ Cationes de camb (m. e / 100 g)
+Ca++
+ 15.5
+ 10.8
+ -
+ 9.2
+Mg++
+ 5.1
+ 5.5
+ -
+ 5.2
+Na+
+ 0.5
+ 0.7
+ 0.8
+ 1.2
+K+
+ 0.3
+ 0.3
+ 0.2
+ 0.2
+% Na/T
+ 1.8
+ 4.3
+ 5.5
+ 8.5
+% Saturación de Agua
+ 65
+ 49
+ 46
+ 40
+Valor S (m.e./100 g)
+ 21.4
+ 17.3
+ -
+ 15.8
+H de cambio (m.e./100 g)
+ 11.9
+ 5.3
+ -
+ 4.5
+Valor T (m.e./100) NH4++ o Na+
+ 27.6
+ 16.2
+ 14.3
+ 14.0
+% de saturación de T
+ 78
+ 100
+ -
+ 100
+% de saturación de S + H
+ 64
+ 76
+ -
+ 78
+Fósforo asimilable (ppm)
+ 4.7
+ 0.9
+ 1.1
+ 1.6
+Factor de Humedad
+ 1.03
+ 1.03
+ 1.02
+ 1.02

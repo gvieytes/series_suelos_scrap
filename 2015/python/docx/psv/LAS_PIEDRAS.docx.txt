@@ -1,0 +1,390 @@
+
+--------------------------------------------------------------------------------
+SERIE LAS PIEDRAS Símbolo: Pdr
+
+
+Pertenece a la familia "limosa, mixta, térmica" de los Hapludoles tapto-árgicos.
+Suelos muy profundos, oscuro, franco-limoso sobre un horizonte IIA1 a 30 cm franco-arcillo-limoso y un horizonte subsuperficial franco-arcillo-limoso.
+
+Suelos imperfectamente drenados, con exceso de agua (subsuperficial) de áreas vecinas más altas, formando una napa freática suspendida sobre el perfil enterrado. Suelos desarrollados en loess retransportados, descalcificados hasta gran profundidad.
+
+
+Perfil tipo: ER7-107C
+Fecha: 19-VII-1995
+Ubicación: Pueblito Norte (foto 417-32) - dto. Rincón de Nogoyá - Dpto. Victoria.
+Reconocedores: O.L. Lopez; O.A. Foti.
+
+
+A1: 00-19 cm; pardo oscuro (10YR 3/3) en húmedo; franco-limoso, estructura en bloques angulares irregulares y subangulares medios, moderados; friable en húmedo; barnices ("humic-skins") escasos a comunes; moteados de hierro-manganeso escasos, finos y precisos; límite gradual, suave.
+
+B1: 19-30 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura en prismas compuestos irregulares, finos y débiles, que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices ("clay-humic-skins") escasos y finos, ("clay skins") escasos a comunes; caras de fricción ("slickensides") escasas y finas, no intersectadas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+IIA1: 30-70 cm; gris muy oscuro (10YR 3/1.5) en húmedo; franco-limoso; estructura granular y bloques subangulares, medios, débiles; friable en húmedo; barnices ("clay-humic skins") escasos, ("clay skins") escasos y finos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, ondulado.
+
+IIB21t: 70-82 cm; pardo oscuro (7.5YR 4/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay skins") y ("clay-humic-skins") comunes a abundantes; caras de fricción ("slickensides") escasas a comunes no intersectadas; moteados de hierro-manganeso comunes, medios y precisos; concreciones de hierro-manganeso escasas, finas; límite gradual, ondulado.
+
+IIB22t: 82-99 cm ; pardo a pardo oscuro (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en prismas compuestos irregulares finos, moderados; firme en húmedo; barnices ("clay-humic-skins") escasos a comunes y ("clay skins") comunes y finos; caras de fricción ("slickensides") comunes, no intersectadas; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual suave.
+
+IIB3: 99-125 cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares y cuneiformes medios, moderados; firme en húmedo; barnices ("humic skins") y ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, gruesas; moteados de hierro-manganeso abundantes, medios y precisos; chorreaduras de materia orgánica por grietas; límite difuso, suave.
+
+IIC: 125 + cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; moteados de hierro-manganeso escasos, finos y débiles.
+
+
+Variabilidad de rasgos
+
+El solum tiene más de 125 cm y su variabilidad no se conoce.
+
+El epipedón mólico está constituido principalmente de material acumulado y puede mostrar, ocasionalmente, leves síntomas de lixiviación.
+
+El horizonte IIB2, franco-arcillo-limoso, con 30-40 % de arcilla, tiene su límite superior entre 70-90 cm. Su espesor no se conoce fehacientemente. Muestra escasas a comunes caras de fricción ("slickensides") no intersectadas, y tiene una estructura muy densa de prismas medios a gruesos y moderados a fuertes.
+
+El perfil muestra moteados en casi su totalidad, aunque no siempre son visibles por el exceso de humedad.
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial lento a medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Las Piedras muestra una moderada deposición de material proveniente de áreas vecinas más altas que, en algunos casos, puede ser perjudicial. Existe peligro de formación de cárcavas por agua pluviométrica concentrada en movimiento.
+
+Puede darse una fase severamente erosionada (no descripto en Nogoyá) que generalmente muestra un sistema de varias cárcavas y surcos que hacen que el terreno adquiera un patrón irregular.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Las Piedras
+
+ER7-107C
+N° de registro
+ 10.485
+ 10.486
+ 10.487
+ 10.488
+ 10.489
+ 10.490
+ 10.491
+Horizonte
+ A1
+ B1
+ IIA1
+ IIB21t
+ IIB22t
+ IIB3
+ IIC
+Profundidad (cm)
+ 03-17
+ 19-29
+ 40-60
+ 71-81
+ 83-98
+ 105-120
+ 140-160
+Mat.organica (%)
+ 3.33
+ 2.13
+ 1.85
+ 0.71
+ 0.50
+ 0.22
+ 0.07
+C/N
+ 10
+ 19
+ 17
+ 11
+ 9
+ 6
+ 0
+
+T < 2 u
+
+ 25.05
+
+ 26.68
+
+ 27.45
+
+ 30.05
+
+ 38.00
+
+ 36.01
+
+ 33.55
+E 2-20 u
+ 31.78
+ 32.26
+ 29.79
+ 28.80
+ 26.00
+ 27.31
+ 29.33
+X 2-50 u
+ 65.47
+ 62.03
+ 57.70
+ 61.12
+ 54.63
+ 57.10
+ 60.65
+T 50-100 u
+ 2.55
+ 3.17
+ 5.21
+ 2.25
+ 1.64
+ 0.6
+ 1.30
+U 100-250 u
+ 6.85
+ 8.01
+ 9.30
+ 6.28
+ 5.56
+ 6.11
+ 4.36
+R 500-1000 u
+ 0.1
+ 0.1
+ 0.3
+ 0.3
+ 0.1
+ 0.1
+ 0.1
+A
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+pH H2O
+ 5.8
+ 5.9
+ 5.7
+ 5.8
+ 5.9
+ 6.2
+ 6.2
+pH ClK
+ 5.2
+ 5.2
+ 5.0
+ 4.8
+ 4.8
+ 5.0
+ 4.8
+Conductividad eléctrica mmhos/cm
+
+
+ 0.547
+
+
+ 0.400
+
+
+ 0.408
+
+
+ 0.485
+
+
+ 0.476
+
+
+ 0.454
+
+
+ 0.431
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+ 26.12
+
+
+ 27.33
+
+
+ 28.88
+
+
+ 30.59
+
+
+ 37.71
+
+
+ 35.42
+
+
+ 31.37
+
+d
+Ca++
+ 18.72
+ 22.53
+ 21.18
+ 24.18
+ 29.80
+ 28.42
+ 23.49
+C
+e
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 1.04
+ 1.20
+ 1.87
+ 2.24
+ 2.70
+ 2.83
+ 2.83
+t
+c
+
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.47
+ 1.16
+ 1.72
+ 1.92
+ 1.32
+ 1.47
+ 1.49
+o
+m
+
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.30
+ 0.30
+ 0.30
+ 0.40
+ 0.50
+ 0.50
+ 0.56
+E
+i
+
+
+
+
+
+
+
+
+S
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+% Na/T
+
+ 1.15
+
+ 1.10
+
+ 1.04
+
+ 1.31
+
+ 1.33
+
+ 1.41
+
+ 1.78
+
+Equivalente de humedad (%)
+
+ 27.00
+
+ 26.28
+
+ 26.80
+
+ 28.86
+
+ 35.22
+
+ 33.79
+
+ 31.35
+
+Fósforo asimilable ppm
+
+ 9.00
+
+ 3.94
+
+ 3.24
+
+ 1.55
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+
+
+N.D.= No determinado.
+

@@ -1,0 +1,315 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo
+Capacidad de uso: IIIec
+Índice de productividad: 68
+Descripción: Complejo en fase ligera a moderadamente erosionada de Series
+Series: Alpa Corral | El Cano
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo2
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Complejo en fase moderadamente erosionada de Series
+Series: Alpa Corral | El Cano | San Bartolomé | Suelos menores
+Porcentajes: 60 | 20 | 10 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo3
+Capacidad de uso: VIec
+Índice de productividad: 35
+Descripción: Complejo en fase gravemente erosionada de Series
+Series: Alpa Corral | El Cano | San Bartolomé | Suelos menores enterrados o sepultados y/o acumulados
+Porcentajes: 30 | 30 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo5
+Capacidad de uso: VIec
+Índice de productividad: 30
+Descripción: Complejo en fase severamente erosionada de Series
+Series: Alpa Corral | El Cano | San Bartolomé | Suelos menores poco profundos, suelos enterrados y suelos en capas
+Porcentajes: 50 | 20 | 10 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo6
+Capacidad de uso: IIIec
+Índice de productividad: 73
+Descripción: Asociación de Series
+Series: Alpa Corral en fase acumulada | San Bartolomé en fase ligeramente erosionada | Elena en fase ligeramente erosionada | Suelos menores
+Porcentajes: 40 | 25 | 25 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo7
+Capacidad de uso: IVec
+Índice de productividad: 50
+Descripción: Consociación de Serie Alpa Corral en fase moderadamente ondulada y ligera a moderadamente erosionada
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo8
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Asociación de Series
+Series: Alpa Corral moderadamente erosionada | San Bartolomé | Elena
+Porcentajes: 70 | 15 | 15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo9
+Capacidad de uso: IVec
+Índice de productividad: 49
+Descripción: Asociación de Serie
+Series: Alpa Corral en fase ligeramente erosionada | Alpa Corral en fase moderadamente erosionada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo10
+Capacidad de uso: VIec
+Índice de productividad: 38
+Descripción: Asociación de Serie
+Series: Alpa Corral en fase moderadamente erosionada | Alpa Corral en fase severamente erosionada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: ACo11
+Capacidad de uso: VIec
+Índice de productividad: 30
+Descripción: Asociación en fase moderada a severamente erosionada de Series
+Series: Alpa Corral | El Cano | Suelos menores aluviales
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: AT
+Capacidad de uso: IVsc
+Índice de productividad: 50
+Descripción: Complejo indeterminado Arroyo El Tala y otros
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co28
+Capacidad de uso: IVsc
+Índice de productividad: 48
+Descripción: Complejo indeterminado de suelos de abanicos aluviales, paleocauces, derrames fluviales y terrazas de llanura
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co29
+Capacidad de uso: IVsc
+Índice de productividad: 32
+Descripción: Complejo indeterminado de suelos de valles interserranos estrechos y alargados
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co30
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Complejo indeterminado de suelos de planos fluviales, derrames y terrazas del Valle de la Cruz
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co31
+Capacidad de uso: VIIws
+Índice de productividad: 18
+Descripción: Complejo indeterminado de suelos halohidromórficos y degradados del Arroyo El Barreal y otros
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co32
+Capacidad de uso: VIIes
+Índice de productividad: 22
+Descripción: Complejo indeterminado de suelos someros de mogotes y serranías bajas vinculados a la Sierra de las Peñas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co33
+Capacidad de uso: VIIes
+Índice de productividad: 15
+Descripción: Complejo indeterminado de suelos someros sobre rocas metamórficas de la Sierra de las Peñas en los límites con el pié de monte
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co34
+Capacidad de uso: VIIes
+Índice de productividad: 12
+Descripción: Complejo indeterminado de suelos esqueléticos y rocosos de áreas muy escarpadas sobre rocas metamórficas de la Sierra de las Peñas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co35
+Capacidad de uso: VIIes
+Índice de productividad: 11
+Descripción: Complejo indeterminado de suelos someros sobre rocas graníticas de la Sierra de las Peñas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co36
+Capacidad de uso: VIIes
+Índice de productividad: 11
+Descripción: Complejo indeterminado de suelos sobre rocas volcánicas y conglomerádicas de la Sierra de las Peñas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Co37
+Capacidad de uso: VIIes
+Índice de productividad: 22
+Descripción: Complejo indeterminado de suelos sobre rocas graníticas en sectores bajos e intermedios de la Sierra de las Peñas
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EAM1
+Capacidad de uso: IVec
+Índice de productividad: 46
+Descripción: Complejo de Series
+Series: Estancia Ana María en fase ligeramente erosionada | Monte Alto en fase ligeramente erosionada | Las Peñas Sur en fase moderadamente erosionada
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EAM2
+Capacidad de uso: VIes
+Índice de productividad: 38
+Descripción: Complejo indiferenciado de Series
+Series: Estancia Ana María en fase severamente erosionada | Las Gamas | Las Peñas Sur en fases erosionadas y/o acumuladas | Suelos menores en capas con lechos arenosos y/o con sedimentación estéril
+Porcentajes: |||
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: EAM3
+Capacidad de uso: VIec
+Índice de productividad: 35
+Descripción: Asociación en fase severamente erosionada de Series
+Series: Estancia Ana María | Las Peñas Sur | Puerta Colorada | Suelos menores con arcilla en el subsuelo
+Porcentajes: 40 | 20 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: El1
+Capacidad de uso: IIIc
+Índice de productividad: 70
+Descripción: Asociación de Series
+Series: Elena | San Bartolomé | El Cano
+Porcentajes: 50 | 30 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: El2
+Capacidad de uso: IVws
+Índice de productividad: 4
+Descripción: Asociación en fase inundable de Series
+Series: Elena | San Bartolomé
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LI
+Capacidad de uso: VIec
+Índice de productividad: 39
+Descripción: Asociación en fase moderada a fuertemente erosionada de Series
+Series: LAS ISLETILLAS | VIRA PITA
+Porcentajes: |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LI2
+Capacidad de uso: VIec
+Índice de productividad: 42
+Descripción: Asociación de Series
+Series: Las Isletillas en fase severamente erosionada | Virá Pitá en fase engrosada y moderadamente erosionada | Hernando en fase acumulada | Cárcavas y surcos profundos
+Porcentajes: 30 | 40 | 20 | 10
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LI3
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Asociación en fase ligera a moderadamente erosionada de Series
+Series: Las Isletillas | Monte Alto
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LI4
+Capacidad de uso: IIIec
+Índice de productividad: 72
+Descripción: Asociación de Series
+Series: Las Isletillas | Hernando en fase ligeramente erosionada y parcialmente acumulada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: LI5
+Capacidad de uso: IVec
+Índice de productividad: 38
+Descripción: Asociación en fase ligera a moderadamente erosionada de Series
+Series: Las Isletillas | Puerta Colorada | San Bartolomé (inclusiones de fases acumuladas)
+Porcentajes: 60 | 20 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA
+Capacidad de uso: IIIc
+Índice de productividad: 70
+Descripción: Consociación Monte Alto
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA1
+Capacidad de uso: IIIec
+Índice de productividad: 73
+Descripción: Asociación de Series
+Series: Monte Alto | Monte Alto en fase ligeramente erosionada por agua (surcos)
+Porcentajes: 70 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA2
+Capacidad de uso: IIIc
+Índice de productividad: 72
+Descripción: Asociación de Series
+Series: Monte Alto | Las Isletillas
+Porcentajes: 80 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA9
+Capacidad de uso: IVec
+Índice de productividad: 50
+Descripción: Complejo de Serie
+Series: Monte Alto en fase moderadamente erosionada | Monte Alto en fase ligeramente erosionada | Monte Alto en fase severamente erosionada
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA10
+Capacidad de uso: IVec
+Índice de productividad: 55
+Descripción: Consociación de Serie
+Series: Monte Alto en fase ligera a moderadamente erosionada
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA11
+Capacidad de uso: IVsc
+Índice de productividad: 47
+Descripción: Complejo de Series
+Series: Monte Alto en fase ligera a moderadamente erosionada (surcos) | Estancia Ana María en fase moderadamente erosionada | Suelos menores enterrados por sedimentación reciente
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA12
+Capacidad de uso: IIIec
+Índice de productividad: 62
+Descripción: Asociación de Serie
+Series: Monte Alto en fase moderadamente inclinada y ligeramente erosionada | Monte Alto en fase moderadamente erosionada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA13
+Capacidad de uso: IVec
+Índice de productividad: 54
+Descripción: Asociación de Serie
+Series: Monte Alto en fase ligeramente erosionada | Monte Alto en fase moderadamente erosionada | Monte Alto en fase severamente erosionada
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA14
+Capacidad de uso: IIIec
+Índice de productividad: 65
+Descripción: Asociación de Serie
+Series: Monte Alto en fase ligera a moderadamente ondulada | Monte Alto en fase ligera a moderadamente erosionada
+Porcentajes: 60 | 40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA15
+Capacidad de uso: IVec
+Índice de productividad: 45
+Descripción: Asociación de Serie
+Series: Monte Alto en fase moderadamente erosionada | Monte Alto en fase severamente erosionada | Monte Alto variante lítica y petrocálcica
+Porcentajes: 40 | 30 | 30
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: MA16
+Capacidad de uso: VIec
+Índice de productividad: 36
+Descripción: Asociación de Serie
+Series: Monte Alto en fase severamente erosionada | Monte Alto en fase gravemente erosionada | Suelos menores someros, líticos y petrocálcicos
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: PCo1
+Capacidad de uso: IVec
+Índice de productividad: 43
+Descripción: Asociación de Series
+Series: Puerta Colorada en fase moderada a fuertemente inclinada | Monte Alto en fase ondulada y ligeramente erosionada | Suelos menores profundos de valles interserranos y someros de laderas
+Porcentajes: 40 | 40 | 20
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: H4
+Capacidad de uso: VIIes
+Índice de productividad: 4
+Descripción: Área muy gravemente erosionada
+Series: 
+Porcentajes: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Símbolo: Mll 
+Capacidad de uso:
+Índice de productividad:
+Descripción: Mallines
+Series: 
+Porcentajes: 

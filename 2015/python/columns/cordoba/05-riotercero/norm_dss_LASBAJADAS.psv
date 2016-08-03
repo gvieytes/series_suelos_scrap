@@ -1,0 +1,39 @@
+dss_LASBAJADAS.psv ->> ID..........................: 511
+dss_LASBAJADAS.psv ->> CLASIFICACION...............: Argiustol típico
+dss_LASBAJADAS.psv ->> SERIE.......................: LAS BAJADAS (Bjds)
+dss_LASBAJADAS.psv ->> UBICACION...................: 5 km al Sur de la localidad de Corralito, departamento Tercero Arriba
+dss_LASBAJADAS.psv ->> PROVINCIA...................: CORDOBA
+dss_LASBAJADAS.psv ->> LATITUD.....................: S320500
+dss_LASBAJADAS.psv ->> LONGITUD....................: O641000
+dss_LASBAJADAS.psv ->> ALTITUD.....................: 450
+dss_LASBAJADAS.psv ->> PENDIENTE...................: FALTA!
+dss_LASBAJADAS.psv ->> DRENAJE.....................: FALTA!
+dss_LASBAJADAS.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LASBAJADAS.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LASBAJADAS.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+dss_LASBAJADAS.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LASBAJADAS.psv ->> HORIZONTE->NOMBRE(S)........: a | bt | bc | ck
+dss_LASBAJADAS.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-49 | 49-86 | 86a+
+dss_LASBAJADAS.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.38 | - | - | 
+dss_LASBAJADAS.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.4 | 0.9 | 0.6 | 0.3
+dss_LASBAJADAS.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.17 | - | - | 
+dss_LASBAJADAS.psv ->> HORIZONTE->RELACIÓN C/N.....: 8.2 | - | - | 
+dss_LASBAJADAS.psv ->> HORIZONTE->ARCILLA 2 (%)....: 22.4 | 28.7 | 21.2 | 15.7
+dss_LASBAJADAS.psv ->> HORIZONTE->LIMO 2-50 (%)....: 68.4 | 52.9 | 69.6 | 68.2
+dss_LASBAJADAS.psv ->> HORIZONTE->AMF 50-100 (%)...: 8.1 | 8.0 | 8.6 | 12.6
+dss_LASBAJADAS.psv ->> HORIZONTE->AF 100-250 (%)...: 0.6 | 0.4 | 0.7 | 1.5
+dss_LASBAJADAS.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1 | - | 0.2 | 0.5
+dss_LASBAJADAS.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.2 | 0.2 | 0.4 | 1.5
+dss_LASBAJADAS.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.2 | 0.1 | 0.2 | 0.8
+dss_LASBAJADAS.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0
+dss_LASBAJADAS.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 27.5 | 30.5 | 27.0 | 24.3
+dss_LASBAJADAS.psv ->> HORIZONTE->PH PASTA.........: 6.0 | 6.6 | 7.0 | 7.9
+dss_LASBAJADAS.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.4 | 7.0 | 7.5 | 8.3
+dss_LASBAJADAS.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13.0 | 13.8 | 13.5 | 
+dss_LASBAJADAS.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.5 | 4.5 | 3.9 | 
+dss_LASBAJADAS.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 0.4 | 0.6 | 0.5
+dss_LASBAJADAS.psv ->> HORIZONTE->CI ME/100G-K +...: 2.0 | 1.6 | 2.2 | 1.4
+dss_LASBAJADAS.psv ->> HORIZONTE->CI ME/100G-H +...: 1.4 | 0.6 | - | 
+dss_LASBAJADAS.psv ->> HORIZONTE->SUM.B. ME/100G(S): 18.9 | 20.3 | 20.2 | 
+dss_LASBAJADAS.psv ->> HORIZONTE->CIC ME/100G(T)...: 20.3 | 21.1 | 20.0 | 18.4
+dss_LASBAJADAS.psv ->> HORIZONTE->SAT.B % (S/T)....: 93 | 96 | 100 | 

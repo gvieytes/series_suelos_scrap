@@ -1,0 +1,290 @@
+
+--------------------------------------------------------------------------------
+SERIE MANDISOVÍ Símbolo: Md
+
+
+Pertenece a la familia "franco gruesa sobre arcillosa fina, somera, térmica" de los Hapludoles fluvénticos.
+Suelos arenosos pardos o "mestizos", con subsuelo denso).
+
+Suelos moderados a imperfectamente drenados, de textura areno-franca sobre materiales gleizados a 40-50 cm muy densos y poco permeables, franco-arcillo-arenosos y franco-arcillosos a francos.
+
+
+Perfil tipo: ER3-54C
+Fecha: 23-VIII-73
+Ubicación: Colonia Mandisoví (foto IR176-34) - Dpto. Federación.
+Reconocedores: R.E. Kleinerman; H.A. Tasi; G.W. van Barneveld.
+
+
+Ap: 00-24 cm; gris muy oscuro (10YR 3/1) en húmedo; areno-franco; estructura en bloques subangulares y bloques angulares irregulares, medios, débiles; muy friable en húmedo; límite gradual, suave.
+
+A12: 24-36 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-arenoso; estructura en bloques angulares irregulares, medios, moderados a débiles; firme en húmedo; moteados de hierro-manganeso comunes, finos y débiles; 1% de grava de 0,5 cm de diámetro; límite abrupto, suave.
+
+I/II: 36-48 cm; pardo grisáceo muy oscuro (10 YR3/2) en húmedo; franco; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, moderados; duro en seco; firme en húmedo; barnices ("clay-skins") comunes, finos, inherentes al material; concreciones de hierro-manganeso escasas, finas; límite gradual, suave.
+
+II(g): 48-97 cm; mezcla de materiales: 70% gris oscuro (5YR 4/1) y 30% rojo amarillento (5YR 5/6) en húmedo; franco; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, moderados; extremadamente duro en seco; firme en húmedo; barnices ("clay-skins"), comunes, finos; caras de fricción (`slickensides') comunes, medias a gruesas; concreciones de hierro-manganeso abundantes de hasta 3 mm de diámetro; chorreaduras de materia orgánica; límite difuso, suave.
+
+III: 97-115 cm; pardo oscuro (7,5YR 4/4) en húmedo; franco; estructura en bloques aplanados con tendencia cuneiforme, gruesos a medios, moderados; extremadamente duro en seco; firme en húmedo; barnices ("clay-skins") comunes, finos; caras de fricción (`slickensides') escasas, finas a medias; concreciones de hierro-manganeso comunes de hasta 3 mm; chorreaduras de materia orgánica; límite difuso, suave.
+
+IVca: 115-150 cm; pardo oscuro (7,5YR 4/4) en húmedo; franco-arenoso; estructura en bloques angulares irregulares gruesos, débiles; extremadamente duro en seco; firme en húmedo; barnices ("clay-skins") comunes, finos, inherentes al material; moteados de hierro-manganeso comunes a abundantes, finos y precisos; concreciones de hierro-manganeso escasas de hasta 1 mm; concreciones calcáreas comunes, duras, de hasta 2 mm de diámetro.
+
+Variabilidad de rasgos
+
+El epipedón comprende un A1 o Ap de 35-45 cm de espesor oscuro, areno-franco a franco-arenoso, con alrededor de 1,5-2 % de materia orgánica.
+
+El horizonte transicional I/II varía entre 10-20 cm de espesor; normalmente es franco-arcillo-arenoso y a veces presenta mayor porcentaje de arcilla que los horizontes subyacentes. Probablemente se trata de una última etapa de sedimentación (más arcilla).
+
+Los materiales II (gredas) se encuentran a 45-55 cm de profundidad; color pardo grisáceos con inclusiones de material rojizo, a veces están semi gleizados. En esta capa es característica la presencia de abundantes concreciones de hierro-manganeso. Aproximadamente a los 100 cm, se encuentra una capa con concreciones calcáreas, la cual en algunos perfiles descriptos parece una marga, por la gran acumulación de carbonatos que posee. Su variación se conoce poco.
+
+
+Fases
+
+No se han establecido a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Puerto Yeruá (que tiene un epipedón más profundo y más arenoso).
+
+
+Drenaje
+
+Moderado a imperfectamente drenados (las concreciones de hierro-manganeso datan probablemente de la época de la sedimentación); escurrimiento superficial moderado. Permeabilidad rápida en el epipedón y muy lenta en los horizontes subsuperficiales. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Mandisoví se encuentra levemente erosionada, y tiene moderado peligro a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Mandisoví
+
+ER3-54C
+
+
+
+
+
+N° de registro
+ 1117
+ 1118
+ 1119
+ 1120
+ 1121
+Horizonte
+ A12
+ I/II
+ II(g))
+ III
+ IVca
+Profundidad (cm
+ 18-30
+ 36-48
+ 65-90
+ 97-115
+ 125-140
+Mat.organica (%)
+ 1,93
+ 1,87
+ 0,67
+ 0,52
+ 0,38
+N (%)
+ -
+ -
+ -
+ -
+ -
+C/N
+ 9
+ 8
+ 3
+ -
+ -
+
+T
+
+ <2 u
+
+ 4,70
+
+ 21,20
+
+ 12,30
+
+ 12,80
+
+ 15,70
+E
+ 2-20 u
+ 8,90
+ 7,80
+ 20,70
+ 16,80
+ 6,30
+X
+ 2-50 u
+ 13,53
+ 18,57
+ 16,81
+ 20,90
+ 16,34
+T
+ 50-100 u
+ -
+ -
+ -
+ -
+ -
+U
+ 100-250 u
+ 34,40
+ 22,70
+ 24,56
+ 24,00
+ 24,91
+R
+ 500-1000 u
+ 38,47
+ 29,72
+ 25,63
+ 26,30
+ 36,65
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+
+ 0,0
+
+ 0,0
+
+ 0,0
+
+ 0,0
+
+ 1,5
+PH H2O
+ 5,4
+ 5,5
+ 5,8
+ 6,4
+ 7,8
+PH ClK
+ 4,2
+ 4,2
+ 4,5
+ 5,1
+ 6,1
+
+Capacidad de intercambio catiónico
+(m.e./100 g) =
+Valor T
+
+ 10,10
+
+
+ 21,80
+
+
+ 20,90
+
+ 24,80
+
+ 27,91
+
+d
+Ca++
+ 4,80
+ 12,00
+ 13,00
+ 16,60
+ 24,80
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 0,60
+ 4,00
+ 3,80
+ 4,60
+ 2,80
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 0,10
+ 0,11
+ 0,00
+ 0,00
+ 0,00
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 0,22
+ 0,37
+ 0,25
+ 0,30
+ 0,30
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ 1,10
+ 5,30
+ 3,70
+ 3,20
+ 0,00
+% Na/T
+ 2,18
+ 1,70
+ 1,20
+ 1,21
+ 1,07
+
+Equivalente de humedad (%)
+
+ 9,74
+
+ 36,40
+
+ 22,67
+
+ 23,62
+
+ 18,55
+

@@ -1,0 +1,257 @@
+--------------------------------------------------------------------------------
+SERIE HOCKER Símbolo: Hck
+Pertenece a la familia "fina, mixta, no calcárea, térmica" de los Argiudoles cumúlicos (Molisoles hidromórficos engrosados).
+Son suelos muy profundos, con un epipedón engrosado; imperfecta a moderadamente bien drenado, con un exceso de agua (sub) superficial de áreas vecinas más altas, formando una napa freática "suspendida" entre 50-60 cm.
+de profundidad.
+Suelos desarrollados en materiales retransportados y descalcificados a gran profundidad.
+Perfil tipo: ER7-143C
+Fecha: 10-V-01
+Ubicación: 6.5 Km aprox. de la localidad de Villa Elisa, rumbo NE. Hoja 3357-1 (foto IR 138-12) - Dpto. Colón.
+Reconocedores: H.A. Tasi; L.O.López.
+Ap: 00-16 cm; pardo grisáceo muy oscuro(10YR 3/2) en húmedo; franco; estructura en bloques subangulares , medios, débiles; friable en húmedo; no plástico, ligeramente adhesivo, barnices ("humic-skins") abundantes, finos; moteados de hierro-manganeso, escasos, finos y débiles; límite gradual, suave; abundante cantidad de raíces.
+A12: 16-40 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco; estructura granular y en bloques subangulares, medios, débiles; friable en húmedo; no plástico, ligeramente adhesivo, barnices ("humic-skins") escasos a abundantes y ("clay skins") abundantes; moteados de hierro-manganeso, escasos, finos y débiles; límite abrupto, suave; muy abundantes cantidad de raíces.
+B21t: 40-50 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcilloso; estructura en bloques angulares irregulares y cuneiformes medios, moderados con tendencia a prismas compuestos irregulares chicos, débiles; friable en húmedo; ligeramente plástico, adhesivo; barnices ("clay skins" y "clay humic skins") abundantes; caras de fricción ("slickensides") escasas, finas e intersectadas; concreciones de hierro-manganeso comunes, precisos y medios; límite gradual, ondulado; abundante cantidad de raíces.
+B22t: 50-62 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcilloso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares y cuneiformes medios, moderados; firme en húmedo; plástico y muy adhesivo; barnices ("clay skins") abundantes; caras de fricción ("slikensides") abundantes a muy abundantes finos e intersectados y escasos, gruesos no intersectados; concreciones de hierro-manganeso escasas, finas; moteados de hierro-manganeso abundantes, precisos y medios; límite claro, suave; escasa cantidad de raíces.
+B23: 62-74 cm; pardo oscuro (7.5YR 3/2) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; firme en húmedo; muy plástico, muy adhesivo; caras de fricción ("slickensides") muy abundantes, gruesos no intersectados; concreciones de hierro manganeso abundantes y finas; moteados de hierro manganeso comunes, precisos y medios; escasa cantidad de raíces; límite claro, suave.
+B3: 71-120 cm; pardo oscuro (7.5YR 3/2) en húmedo; franco arcilloso; estructura en bloques subangulares y angulares irregulares medios, moderados; firme en húmedo; plástico y muy adhesivo; caras de fricción ("slickensides") abundantes finos y gruesos no intersectados; concreciones de hierro-manganeso abundantes, finas; moteados comunes, precisos y finos; escasa cantidad de raíces; límite claro, suave.
+C: + 120 cm; pardo fuerte (7.5YR 4/6) en húmedo; franco arcilloso, estructura masiva; friable en húmedo; plástico, adhesivo; concreciones de hierro manganeso comunes, abundantes y finas, escasa cantidad de raíces.
+Variabilidad de rasgos
+El solum posee siempre + de 120 cm de profundidad.
+La variabilidad de rasgos está determinada principalmente por su ubicación en el relieve, correspondiendo a los perfiles más profundos los sectores de planos suaves, donde el epipedón puede llegar a los 60 cm de profundidad, pero también se incrementan los problemas de hidromorfismo y de drenaje interno impedido por el aumento de los porcentajes de arcilla.
+El B2 textural generalmente es somero, no excediendo los 40 cm de espesor; en los planos suaves suele ser más denso por mezcla con arcillas fluviales, especialmente en los afluentes mayores.
+Es característica de esta serie la ausencia de calcáreo hasta profundidades de más de 180 cm.
+Fases
+No se han descripto a nivel de reconocimiento
+Drenaje
+Imperfecta a moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad moderada a moderadamente lenta. Grupo hidrológico D.
+Erosión
+La serie Hocker puede eventualmente presentar erosión hídrica del tipo laminar y en pequeños surcos.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Hocker
+ER7-143C
+N° de registro
+ 6871
+ 6872
+ 6873
+ 6874
+ 6875
+ 6876
+ 6877
+Horizonte
+ Ap
+ A12
+ B21t
+ B22
+ B23
+ B3
+ Cca
+Profundidad (cm
+ 05-15
+ 20-38
+ 41-48
+ 55-60
+ 65-72
+ 80-90
+ 120-135
+Mat.organica (%)
+ 2.55
+ 3.31
+ 1.95
+ 1.36
+ 1.06
+ 0.68
+ 0.30
+C (%)
+ 1.48
+ 1.93
+ 1.13
+ 0.79
+ 0.62
+ 0.40
+ 0.17
+N (%)
+ 0.123
+ 0.155
+ 0.072
+ 0.052
+ 0.037
+ 0.026
+ 0.017
+C/N
+ 12.03
+ 12.45
+ 15.69
+ 15.19
+ 16.76
+ 15.38
+ 10.00
+T <2
+ 18.18
+ 21.83
+ 35.94
+ 41.53
+ 36.77
+ 36.03
+ 29.08
+E 2-20
+ 24.72
+ 28.60
+ 24.31
+ 22.40
+ 28.42
+ 25.88
+ 31.12
+X 2-50
+ 44.90
+ 45.47
+ 37.25
+ 35.34
+ 41.00
+ 41.45
+ 47.04
+T 50-100
+ 0.50
+ 0.38
+ 0.30
+ 0.31
+ 0.25
+ 0.25
+ 0.28
+U 100-250
+ 35.45
+ 31.33
+ 25.52
+ 21.61
+ 21.10
+ 21.41
+ 22.97
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.97
+ 0.99
+ 0.99
+ 1.21
+ 0.88
+ 0.86
+ 0.63
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.63
+ 1.18
+pH H2O
+ 6.9
+ 6.8
+ 6.8
+ 6.9
+ 6.9
+ 6.9
+ 7.3
+pH ClK
+ 6.2
+ 6.1
+ 6.0
+ 6.1
+ 6.1
+ 6.0
+ 6.2
+Conductividad eléctrica mmhos/cm
+ 0.263
+ 0.208
+ 0.249
+ 0.385
+ 0.400
+ 0.387
+ 0.393
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 18.90
+ 22.24
+ 33.90
+ 40.80
+ 35.80
+ 30.80
+ 28.06
+D
+Ca++
+ 15.38
+ 18.82
+ 28.42
+ 36.80
+ 32.92
+ 32.44
+ 26.90
+C
+E
+a
+Mg++
+ 0.44
+ 0.72
+ 0.64
+ 0.52
+ 0.84
+ 1.70
+ 1.06
+t
+C
+i
+A
+K+
+ 0.16
+ 0.13
+ 0.19
+ 0.23
+ 0.18
+ 0.18
+ 0.24
+o
+M
+n
+B
+Na+
+ 0.53
+ 0.46
+ 0.43
+ 0.56
+ 0.55
+ 0.53
+ 0.73
+e
+I
+s
+O
+H+
+% Na/T
+ 2.80
+ 2.07
+ 1.27
+ 1.37
+ 1.54
+ 1.72
+ 2.60
+Equivalente de humedad (%)
+ 21.40
+ 24.36
+ 38.09
+ 43.30
+ 39.05
+ 36.04
+ 30.57
+P asimilable (ppm)
+ 3.5
+ 3.2
+ 2.0
+ 1.9
+ 1.9
+ 1.8
+ 1.8

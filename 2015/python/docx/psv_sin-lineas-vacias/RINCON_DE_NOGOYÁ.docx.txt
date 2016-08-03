@@ -1,0 +1,198 @@
+--------------------------------------------------------------------------------
+SERIE RINCON DE NOGOYÁ Símbolo: RiNo
+Pertenece a la familia "franco limosa, mixta, térmica" de los Hapludoles fluvénticos.
+Son suelos con un epipedón profundo (60-70 cm) de textura areno-franca, seguido de un horizonte denso, gleizado, de textura franco-arenosa, con abundantes concreciones de hierro-manganeso.
+Están desarrollados sobre sedimentos fluviales arenosos, con discontinuidad litológica a los 60-70 cm de profundidad hacia materiales arcillo-arenosos densos y muy antiguos. En general, presentan colores pardos oscuros y están imperfecta a moderadamente bien drenados; la permeabilidad es rápida en superficie, pero lenta a muy lenta en los horizontes subsuperficiales.
+Perfil tipo: ER1-83C
+Fecha: 21-X-1992
+Ubicación: Ea. Mendez (foto IR 415-12) - Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A11: 00-30 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, pardo grisáceo (10YR 5/2) en seco; areno-franco; sin estructura (grano suelto); límite claro, suave.
+A12: 30-70 cm; pardo muy oscuro (10YR 2/2) en húmedo; areno-franco; sin estructura (grano suelto a masiva); límite abrupto, suave.
+IIB2t: 70-95 cm; gris oscuro (10YR 4/1) en húmedo; franco-arenoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares regulares medios, fuertes; extremadamente duro en seco, muy firme en húmedo; barnices ("clay-humic skins") abundantes; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso abundantes, medios y sobresalientes; concreciones de hierro-manganeso, comunes y finas; límite claro, suave.
+IIB3: 95-120 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; franco-arenoso; estructura en prismas compuestos irregulares, débiles, que rompen en bloque angulares regulares medios, moderados; muy duro en seco, firme en húmedo; caras de fricción ("slickensides") escasas y finas; barnices ("clay skins") comunes; moteados de hierro-manganeso escasos, finos y precisos; concreciones de hierro-manganeso escasas a comunes, finas; límite claro, suave.
+IIC: 120 cm+; pardo a pardo oscuro (7,5YR 4/4) en húmedo; franco; masivo; ligeramente duro en seco, friable en húmedo; moteados de hierro-manganeso escasos, finos y precisos.
+Variabilidad de rasgos
+Está basada fundamentalmente en la profundidad a la que se encuentra la discontinuidad litológica, que en algunos perfiles está a sólo 20 cm y, en otros, a más de 100 cm.
+La capa superficial tiene un espesor promedio de 60 cm y comprende los horizontes A11 y A12, es de color oscuro y de estructura de grano simple, localmente estratificada y con tendencia a desarrollar una estructura en bloques subangulares. Tiene de 0,60 a 1,40% de materia orgánica y el porcentaje de arena fina varía de 72-74%.
+Los materiales franco-arenosos subyacentes (capa II) tienen un espesor de 40-50 cm y, normalmente, comprenden horizontes que pueden describirse como IIB2t y IIB3; el contenido de arcilla varía de 23-27% y las arenas de 44-57%; el bajo contenido de limo hace que este tipo de materiales sea muy denso, poco permeable y penetrable por las raíces. Su color es muy variable (gris oscuro a pardo oscuro) con estructura en prismas compuestos y concreciones ferromanganesíferas comunes.
+El horizonte IIB2t, con contenidos de arcilla algo mayores, presenta abundantes caras de fricción ("slickensides"), y es característica la abundante cantidad de moteados de coloración pardo amarillenta (7,5YR 5/8); dentro de la variabilidad de rasgos admitida para esta serie, es también posible encontrar algunos perfiles algo más arenosos (60-70% de arena) y más profundos (90-110 cm), en donde el horizonte IIC está constituido por arcillas verdes grisáceas, ricas en concreciones ferromanganesíferas, de origen marino, relicto de las ingresiones acaecidas en el Pleistoceno.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+Series similares y sus diferencias
+Se parece a serie Aldea Asunción del Dpto. Gualeguay, pero ésta tiene calcáreo en el perfil, menor contenido de arena y presenta rodados de hasta 3 mm en todo el perfil.
+Drenaje
+Imperfecta a moderadamente bien drenado; escurrimiento superficial rápido. Permeabilidad muy lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Rincón de Nogoyá tiene erosión hídrica ligera, laminar y en pequeños surcos, y una moderada suceptibilidad a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Rincón de Nogoyá
+ER1-83C
+Nº de registro
+ 7.201
+ 7.202
+ 7.203
+ 7.204
+ 7.205
+Horizonte
+ A11
+ A12
+ IIB2t
+ IIB3
+ IIC
+Profundidad (cm)
+ 03-20
+ 35-60
+ 72-90
+ 100-115
+ 130-150
+Mat.organica (%)
+ 1.40
+ 0.60
+ 0.45
+ 0.23
+ 0.08
+N (%)
+ 0.08
+ 0.04
+ 0.04
+ 0.04
+ 0.03
+C/N
+ 9.74
+ 8.00
+ 5.33
+ 3.24
+ 1.43
+T < 2 u
+ 7.43
+ 8.56
+ 23.85
+ 27.60
+ 6.1
+E 2-20 u
+ 8.49
+ 7.17
+ 5.78
+ 12.09
+ 6.12
+X 2-50 u
+ 15.80
+ 11.97
+ 16.19
+ 26.15
+ 32.64
+T 50-100 u
+ 0.98
+ 0.41
+ 0.13
+ 0.25
+ 0.53
+U 100-500 u
+ 72.38
+ 74.70
+ 57.07
+ 44.11
+ 43.08
+R 500-1000 u
+ 3.39
+ 4.27
+ 2.69
+ 1.69
+ 1.09
+A 1000-2000 u
+ 0.02
+ 0.09
+ 0.07
+ 0.20
+ 0.05
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+PH H2O
+ 6.0
+ 6.1
+ 6.1
+ 6.3
+ 6.7
+pH ClK
+ 5.1
+ 5.3
+ 5.3
+ 5.4
+ 5.9
+C.E. (mmhos/cm)
+ 0.40
+ 0.17
+ 0.18
+ 0.17
+ 0.61
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 7.90
+ 6.80
+ 10.99
+ 16.60
+ 12.80
+d
+Ca++
+ 6.00
+ 5.40
+ 8.40
+ 12.80
+ 9.90
+C
+e
+a
+Mg++
+ 1.00
+ 0.80
+ 2.00
+ 2.90
+ 1.90
+t
+c
+i
+a
+K+
+ 0.40
+ 0.24
+ 0.37
+ 0.37
+ 0.50
+o
+m
+n
+b
+Na+
+ 0.17
+ 0.10
+ 0.12
+ 0.30
+ 0.30
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 2.15
+ 1.47
+ 1.09
+ 1.81
+ 2.34
+Equivalente de humedad (%)
+ 8.71
+ 8.05
+ 20.06
+ 23.16
+ 20.81

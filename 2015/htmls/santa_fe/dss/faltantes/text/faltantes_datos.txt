@@ -1,0 +1,122 @@
+alejoledesma_datos_analiticos.htm
+  ***** Serie  Alejo Ledesma (Ald)  - Datos analíticos *****
+  Latitud: 33° 38' S
+  Longitud: 62° 34' W
+  5 km al SESE de Alejo Ledesma (Córdoba)
+  Altitud: 123
+apeaderomascias_datos_analiticos.htm
+  ***** Serie Apeadero Mascías (AMS) - Datos analíticos *****
+  Latitud:
+  Longitud:
+  Altitud:
+bossi_datos_analiticos.htm
+  ***** Serie Bossi (BSI)  - Datos analíticos *****
+  Latitud: 30º 30' 46&quot; S
+  Longitud: 61º 42' 28&quot; W
+  Altitud: 93.8 m
+caciqueariacaiquin_datos_analiticos.htm
+  ***** Serie Cacique Ariacaiquín (CAQ) - Datos analíticos *****
+  Latitud:
+  Longitud:
+  Altitud:
+canadadelucle_datos_analiticos.htm
+  ***** Serie Cañada del Ucle (CU) - Datos analíticos *****
+  Latitud: 33° 26' 28&quot; S
+  Longitud: 61° 38' 47''W
+  Altitud: 101 m
+coloniamoreno_datos_analiticos.htm
+  ***** Serie  Colonia Moreno (CMo) - Datos analíticos *****
+  Latitud: 32° 06' S
+  Longitud: 62° 01' W
+  Altitud: 88.2 m
+estanciasantaana_datos_analiticos.htm
+  ***** Serie Estancia Santa Ana (SA) - Datos analíticos *****
+  Latitud: 34° 13' 21'' S
+  Longitud: 62° 07' 20'' W
+  13 km al NNW de Est. San Gregorio (depto. Gral. López, Santa Fe) Altitud: 121 m
+lasarita_descripcion_datos_analiticos.htm
+  ***** Serie Sarita (SRT) - Datos analíticos *****
+  Latitud: 30º 27' 19&quot; S
+  Longitud: 61º 55' 28&quot; W
+  Altitud: 94.7 m
+lasofia_datos_analiticos.htm
+  ***** Serie  La Sofía (So) - Datos analíticos *****
+  Latitud: 33º 58' 40&quot; S
+  Longitud: 61º 24' 40&quot; W
+  9 km al WSW de Est. Merceditas (depto. Gral. López, Santa Fe) Altitud: 95 m
+marcojuarezi_datos_analiticos.htm
+  ***** Serie Marcos Juárez (MJ) - Datos analíticos *****
+  Latitud: 32° 35' S
+  Longitud: 62° 05' W
+  Altitud: 107 m
+mariamanuela_datos_analiticos.htm
+ ***** Serie María Manuela (MMa) - Datos analíticos *****
+  Latitud: 32° 33' S
+  Longitud: 62° 03' W
+  Altitud: 97 m
+mariateresa_datos_analiticos.htm
+  ***** Serie  María Teresa (MT) - Datos analíticos *****
+  Latitud: 34° 16' 47'' S
+  Longitud: 61° 39' 49''W
+  13 km al SW de Teodelina (depto. Gral. López, Santa Fe) Altitud: 93 m
+namuncura_datos_analiticos.htm
+ ***** Serie Namuncurá (Nm) - Datos analíticos *****
+  Latitud: 32° 37' S
+  Longitud: 62° 12' W
+  Altitud: 110 m
+orono_datos_analiticos.htm
+  ***** Serie Oroño (ORO) - Datos analíticos *****
+  Serie: Oroño (ORO) Latitud: 31º 54' S
+  Datos analíticos  Longitud: 61º 12' 30&quot; W
+  Altitud: 45 m
+roldan_datos_analiticos.htm
+  ***** Serie Roldán (Rd)  - Datos analíticos *****
+  Latitud: 32°43'27''
+  Longitud: 60°55'18'';
+  7 km al N de Luis Palacios (depto. Iriondo, Santa Fe) Altitud: 33.80 m
+rosales_descripcion_datos_analiticos.htm
+  ***** Serie  Rosales (Rs) - Datos analíticos *****
+  Latitud: 34º 05' S
+  Longitud: 63º 06' W
+  7,75 km al WSW de la Ea. La Oriental (Córdoba) Altitud: 127 m
+sanctispiritu_datos_analiticos.htm
+  ***** Serie  Sancti Spiritu (SS) - Datos analíticos *****
+  Latitud: 34° 02' 45'' S
+  Longitud: 62° 05' 12'' W
+  14,5 km al ESE de Sancti Spíritu (depto. Gral. López, Santa Fe) Altitud: 112 m
+sanfabian_datos_analiticos.htm
+  ***** Serie San Fabián (SFA) - Datos analíticos *****
+  Serie: San Fabián (SFA) Latitud: 32° 05' 29'' S NO REPRESENTATIVO
+  Datos analíticos  Longitud: 60° 59' 19'' W
+  Altitud: 26.25 m
+sanguillermo_descripcion_datos_analiticos.htm
+  ***** Serie San Guillermo (SGU) - Datos analíticos *****
+  Latitud: 30º 24' 08&quot; S
+  Longitud: 61º 54' 27&quot; W
+  Altitud: 94.2 m
+sanjulian_datos_analiticos.htm
+  ***** Serie  San Julián (SJn)  - Datos analíticos *****
+  Latitud: 33° 56' S
+  Longitud: 62° 37' W
+  5,6 km al SE de la Ea. San Julián (depto. Roque Saenz Peña, Córdoba) Altitud: 118 m.s.n.m.
+santalucia_datos_analiticos.htm
+  ***** Serie  Santa Lucía (SL)  - Datos analíticos *****
+  Latitud: 33° 16' 10'' S
+  Longitud: 60° 51' 00'' W
+  2 km al SW de Acebal (depto. Rosario, Santa Fe). Altitud: 55 m
+villacanas_datos_analiticos.htm
+  ***** Serie  Villa Cañás (VC)  - Datos analíticos *****
+  Datos de ubicación de la calicataindex.htm
+  Latitud: 33° 58' 09'' S
+  Longitud: 61° 39' 57'' W
+  7 km al NE de Villa Cañás (depto. Gral. López, Santa Fe) Altitud: 103 m s. n. m.
+villarosi_descripcion_datos_analiticos.htm
+  ***** Serie  Villa Rossi (VRs) - Datos analíticos *****
+  Latitud: 34º 18' S
+  Longitud: 63º 16' W
+  41.2 km al ESE de Melo (córdoba) Altitud: 133 m
+villatrinidad_descripcion_datos_analiticos.htm
+  ***** Serie Villa Trinidad (VTR) - Datos analíticos *****
+  Latitud: 30º 15' 34&quot; S
+  Longitud: 61º 50' 39&quot; W
+  Altitud: 91.3 m

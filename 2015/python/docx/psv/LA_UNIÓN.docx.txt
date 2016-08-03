@@ -1,0 +1,201 @@
+
+--------------------------------------------------------------------------------
+SERIE LA UNIÓN Símbolo: LUn
+
+
+Pertenece a la familia "franca gruesa, silícea, ácida, térmica" de los Haplacuentes típicos.
+
+Son suelos ligeramente ácidos, muy poco inundables, desarrollados en materiales de capas limosas y ubicadas en antiguos costas de emersión Querandino - Pleistoceno.
+
+
+Perfil tipo: PDE C-2 INTA Castelar
+Fecha: II-1986
+Ubicación: a 2 km al SE de la Escuela Provincial Nº 97 (Hoja IGM 3360-30-2) - Dpto. Islas del Ibicuy
+Reconocedores: L. A. Gómez; R. F. Ferrao
+
+
+Ap: 0-16 cm; pardo amarillento oscuro (10YR 3/4) en húmedo, pardo (10YR 5/3) en seco; franco; granular; friable, no plástico no adhesivo; abrupto suave.
+
+I: 16-42 cm; pardo amarillento oscuro (10YR 3/4) en húmedo, pardo amarillento (10YR 5/4) en seco; franco; bloques subangulares medios débiles; friable, no plástico no adhesivo; abrupto suave.
+
+II: 42-120 cm; pardo amarillento claro (10YR 6/4) en húmedo, pardo muy pálido (10YR 8/3) en seco; franco arenoso; masivo; friable, no plástico no adhesivo; abundantes concreciones de hierro manganeso; moteados abundantes, precisos y medios.
+
+
+
+
+ Serie La Unión
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Bien drenado. Escurrimiento superficial muy lento. Permeabilidad moderada.
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Unión
+
+C-2 INTA Castelar
+
+
+
+N° de registro
+ 30539
+ 30540
+ 30541
+Horizonte
+ Ap
+ I
+ II
+Profundidad (cm)
+ 2-14
+ 20-40
+ 50-100
+Mat.organica (%)
+ 3.32
+ 2.22
+ 0.12
+C (%)
+ 1.93
+ 1.29
+ 0.07
+N (%)
+ 0.249
+ 0.143
+ -
+C/N
+ 7.7
+ 9.0
+ -
+T <2 u
+ 12.5
+ 11.4
+ 14.9
+E 2-20 u
+ 10.4
+ 13.7
+ 7.3
+X 2-50 u
+ 42.5
+ 40.3
+ 37.2
+T 50-74 u
+ 37.0
+ 36.5
+ 36.4
+U 74-100 u
+ 6.3
+ 8.4
+ 7.7
+R 100-250 u
+ 1.4
+ 3.2
+ 3.8
+A 250-500 u
+ 0.2
+ 0.2
+ -
+ 500-1000 u
+ 0.1
+ -
+ -
+Gravilla (> 2 Tosca Ca %
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 17.8
+ 15.9
+ 17.3
+Resistencia de la pasta (Ohms/cm)
+ 4500
+ 13696
+ 5087
+pH en pasta
+ 4.7
+ 4.5
+ 5.2
+PH H2O
+ 5.2
+ 4.8
+ 5.7
+pH ClK
+ 4.0
+ 3.7
+ 4.5
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+
+ Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ 7.4
+ 5.4
+ 6.2
+
+Mg++
+ 1.9
+ 1.8
+ 2.3
+
+Na+
+ 0.4
+ 0.4
+ 0.4
+
+K+
+ 1.3
+ 1.3
+ 0.8
+% Na/T
+ 2.3
+ 2.5
+ 4.2
+% Saturación de Agua
+ 55
+ 40
+ 35
+Valor S (m.e./100 g)
+ 11.0
+ 8.9
+ 9.7
+H de cambio (m.e./100 g)
+ 13.6
+ 17.3
+ 5.3
+Valor T (m.e./100) NH4++ o Na+
+ 16.8**
+ 15.5**
+ 9.5**
+% de saturación de T
+ 65
+ 57
+ 100
+% de saturación de S + H
+ 45
+ 34
+ 65
+Fósforo asimilable (ppm)
+ 371.3
+ 224.9
+ 41.4
+Factor de humedad
+ 1.02
+ 1.02
+ 1.02
+

@@ -1,0 +1,327 @@
+
+--------------------------------------------------------------------------------
+SERIE CUATRO BOCAS Símbolo: CBo
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos desarrollados sobre materiales loéssicos de textura franco-arcillo-limosa, leve a moderadamente erosionados, con un epipedón franco-arcillo-limoso y un horizonte argílico, oscuro, arcillo-limoso, y con comunes a abundantes concreciones calcáreas en el subsuelo.
+
+
+Perfil tipo: ER1-77C
+Fecha: 25-IX-1992
+Ubicación: Ea. El Supremo (foto IRH 413-2)- Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-11 cm; pardo oscuro (10YR 3/3) en húmedo, pardo grisáceo (10YR 5/2) en seco; franco- arcillo-limoso; estructura granular y en bloques subangulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("humic-skins") escasos a comunes; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+A12: 11-22 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, débiles; ligeramente duro en seco, firme en húmedo; barnices ("humic-skins") comunes a abundantes; moteados de hierro-manganeso escasos, finos y precisos; límite abrupto, suave.
+
+B21t: 22-46 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme medios, finos; extremadamente duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, medias; moteados de hierro-manganeso escasos, finos y precisos; límite claro, ondulado.
+
+B22t: 46-80 cm; pardo (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y bloques cuneiformes gruesos, fuertes; extremadamente duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, ondulado.
+
+B3ca: 80-105 cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios moderados; duro en seco, firme en húmedo; barnices ("clay-skins") comunes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso comunes, medios y sobresalientes; concreciones de calcáreo comunes a abundantes; límite gradual, ondulado.
+
+Cca: 105 cm+; pardo fuerte (7.5YR 5/6) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco, firme en húmedo; barnices ("clay-skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; concreciones de calcáreo comunes; escasa cantidad de carbonatos libres en la masa.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 95-105 cm. El epipedón, muy bien estructurado, consta normalmente de un horizonte A11 y un A12 con un espesor total de 20-25 cm y un contenido de arcilla que varía entre 31-34%.
+
+El argílico, de estructura prismática, tiene un espesor que varía entre 55-60 cm, es de textura arcillo-limosa y muestra abundantes caras de fricción ("slickensides") no intersectadas. Es un horizonte muy denso y poco penetrable por las raíces.
+
+El calcáreo, en concreciones abundantes y finas, se presenta a partir de los 80 cm de profundidad (horizonte B3ca); en el horizonte Cca hay, además, carbonatos libres en la masa.
+
+Cuando el perfil se seca, se forman grietas de hasta 2 cm que llegan a la base del epipedón. Los movimientos en masa que se producen, como consecuencia del humedecimiento y posterior desecación, se manifiestan por un "churning" bien marcado.
+
+
+Fases
+
+Severamente erosionada (símbolo: CBo.h3)
+
+
+Series similares y sus diferencias
+
+La serie Cuatro Bocas se caracteriza por presentar un epipedón algo más corto que otros Argiudoles vérticos del área. Se parece a la serie La Tablada, pero ésta tiene mayor contenido de arcilla en el argílico y, además, no tiene calcáreo en el perfil.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Cuatro Bocas está ligeramente erosionada, pero la susceptibilidad a la misma es moderada a severa, principalmente en forma laminar.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Cuatro Bocas
+
+ER1-77C
+Nº de registro
+ 6.975
+ 6.976
+ 6.978
+ 6.979
+ 6.980
+ 6.981
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3Ca
+ Cca
+Profundidad (cm)
+ 01-10
+ 10-20
+ 29-39
+ 50-62
+ 85-100
+ 110-118
+Mat.organica (%)
+ 4.74
+ 4.69
+ 2.63
+ 1.48
+ 0.74
+ 0.37
+N (%)
+ 0.24
+ 0.22
+ 0.07
+ 0.08
+ 0.06
+ 0.03
+C/N
+ 11.00
+ 12.00
+ 21.20
+ 9.40
+ 7.10
+ 5.90
+
+T < 2 u
+
+ 31.47
+
+ 34.20
+
+ 45.93
+
+ 44.15
+
+ 36.40
+
+ 38.19
+E 2-20 u
+ 22.87
+ 20.26
+ 39.30
+ 39.90
+ 41.72
+ 42.01
+X 2-50 u
+ 55.82
+ 57.39
+ 47.81
+ 50.06
+ 58.10
+ 54.08
+T 50-100 u
+ 8.58
+ 3.79
+ 2.21
+ 2.83
+ 1.50
+ 2.57
+U 100-500 u
+ 4.09
+ 4.43
+ 4.01
+ 2.94
+ 3.89
+ 5.06
+R 500-1000 u
+ 0.04
+ 0.19
+ 0.04
+ 0.02
+ 0.11
+ 0.10
+A
+ -
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ 2.43
+
+ 0.79
+pH H2O
+ 6.3
+ 5.9
+ 6.1
+ 6.9
+ 7.7
+ 7.9
+pH ClK
+ 5.2
+ 5.0
+ 5.3
+ 5.5
+ 6.0
+ 6.4
+C.E. (mmhos/cm)
+ 0.73
+ 0.59
+ 0.94
+ 0.95
+ 0.99
+ 0.83
+
+Capacidad de intercambio
+Catiónico (meq/100 g) =
+valor T
+
+
+
+ 30.80
+
+
+
+ 34.30
+
+
+
+ 44.90
+
+
+
+ 43.90
+
+
+
+ 35.60
+
+
+
+ 36.33
+
+d
+Ca++
+ 26.00
+ 26.80
+ 36.00
+ 35.70
+ 27.70
+ 28.20
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 4.90
+ 5.00
+ 5.90
+ 5.60
+ 5.30
+ 5.50
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.40
+ 1.55
+ 1.90
+ 1.85
+ 1.90
+ 1.90
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.30
+ 0.50
+ 0.73
+ 0.69
+ 0.61
+ 0.68
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+% Na/T
+
+ 0.97
+
+ 1.46
+
+ 1.63
+
+ 1.57
+
+ 1.71
+
+ 1.87
+Equivalente de humedad (%)
+ 28.96
+ 30.41
+ 43.76
+ 41.60
+ 34.86
+ 35.64
+

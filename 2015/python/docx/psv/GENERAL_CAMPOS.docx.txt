@@ -1,0 +1,291 @@
+
+--------------------------------------------------------------------------------
+SERIE GENERAL CAMPOS Símbolo: GC
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiacuólicos (vertisol hidromórfico sin gilgai, con epipedón mólico y B2 textural).
+
+Son suelos profundos, arcillosos y oscuros. No presentan gilgai, pero sí intensos movimientos en masa ("churning").
+
+Se han desarrollado en sedimentos "limos calcáreos" (Formación "Hernandarias").
+
+
+Perfil tipo: ER2-59C
+Fecha: 28-XI-74
+Ubicación: Pueblo La Perla (foto IR 161-33) - Dpto. Concordia.
+Reconocedores: C.J. Vesco; R.E. Kleinerman; W.H. Perilli.
+
+
+A11: 00-18 cm; negro (10YR 2/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios, moderados; duro en seco; firme en húmedo; barnices ("humic-skins") comunes, finos; moteados de hierro-manganeso, escasos, precisos y finos; límite claro, suave.
+
+A12: 18-32 cm; negro (10YR 2/1) en húmedo; gris muy oscuro (10YR 3/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares, medios, moderados, que rompen en prismas compuestos irregulares; firme en húmedo; barnices ("humic-skins") comunes, finos; moteados de hierro-manganeso, comunes, precisos y finos; concreciones de hierro-manganeso escasas, muy finas; límite abrupto, suave.
+
+B2: 32-80 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiformes, medios, moderados; caras de fricción (`slickensides') comunes, medias, intersectadas; moteados de hierro-manganeso, comunes, precisos y finos; concreciones de hierro-manganeso escasa, finas; límite claro, suave.
+
+B31ca: 	80-100 cm; pardo (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en prismas compuestos irregulares, finos, débiles; firme en húmedo; moteados de hierro-manganeso, comunes, precisos y finos; concreciones de hierro-manganeso escasas, finas; concreciones calcáreas escasas, finas.
+
+B32ca: 	100-117 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en prismas compuestos irregulares, finos, débiles y bloques angulares irregulares con tendencia cuneiforme medios, débiles; caras de fricción ("slickensides") comunes, medias, intersectadas; concreciones de hierro-manganeso escasas a comunes, finas; límite claro, suave.
+
+Cca: 117 cm+; pardo a pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura masiva; friable en húmedo; moteados de hierro-manganeso, comunes, precisos y finos; concreciones de hierro-manganeso escasas, comunes, finas; concreciones calcáreas comunes, finas y medias.
+Variabilidad de rasgos
+
+Tienen un epipedón profundo (Ap y A12, o A1 y B1) con buena estructuración y bien provisto de materia orgánica. El espesor varía entre 20-35 cm, aunque se han encontrado perfiles más profundos y otros más someros, con espesores entre 15-20 cm. Comúnmente se encuentran lixiviados y presentan moteados y concreciones de hierro- manganeso.
+
+El horizonte B2 no siempre puede subdividirse en B21 y B22; es poco permeable y penetrable por el sistema radicular.
+
+El porcentaje de arcilla oscila entre 40-45 %. En todos los perfiles encontrados se observan moteados comunes a abundantes moteados y escasas a comunes concreciones de hierro-manganeso.
+
+El horizonte B3 es de color pardo a pardo oscuro (7,5 YR 4/2 a 4/4), tiene estructura prismática con caras de fricción ("slickensides") comunes y a veces abundantes. A partir de los 80 cm se encuentran concreciones de carbonatos.
+
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Serie General Campos se parece a serie Yaros, pero ésta tiene un epipedón más corto y lixiviado.
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Tiene erosión hídrica ligera.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie General Campos
+
+ER2-59C
+
+
+
+
+
+N° de registro
+ 1546
+ 1547
+ 1548
+ 1549
+ 1559
+Horizonte
+ A11
+ A12/B1
+ B2t
+ B31tca
+ B32tca
+Profundidad (cm
+ 02-15
+ 18-30
+ 32-62
+ 85-95
+ 100-115
+Mat.organica (%)
+ 3.35
+ 2.80
+ 1.87
+ 0.07
+ 0.07
+N (%)
+ 0.20
+ 0.19
+ 0.15
+ 0.02
+ 0.00
+C/N
+ 10
+ 9
+ 7
+ 3
+ -
+
+
+T <2
+
+ 35.24
+
+ 30.50
+
+ 41.22
+
+ 42.05
+
+ 40.27
+E 2-20
+ 29.51
+ 32.85
+ 29.25
+ 23.51
+ 27.15
+X 20-50
+ 30.80
+ 32.37
+ 24.44
+ 31.46
+ 29.37
+T 50-100
+ 0.19
+ 0.38
+ 1.72
+ 0.07
+ 0.07
+U 100-250
+ 0.73
+ 0.70
+ 0.61
+ 0.41
+ 0.41
+R 250-500
+ 3.46
+ 3.05
+ 2.73
+ 2.40
+ 2.17
+A 500-1000
+ 0.09
+ 0.16
+ 0.05
+ 0.10
+ 0.05
+
+CO3Ca (%)
+ 0.1
+ 0.0
+ 0.0
+ 11.2
+ 12.5
+pH H2O
+ 6.4
+ 6.2
+ 6.2
+ 8.0
+ 8.1
+pH ClK
+ 5.9
+ 5.9
+ 5.8
+ 7.1
+ 7.1
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+
+ 37.80
+
+
+
+ 39.00
+
+
+
+ 45.10
+
+
+
+ N.D.
+
+
+
+ N.D.
+
+
+D
+Ca++
+ 29.00
+ 25.20
+ 33.20
+ N.D.
+ N.D.
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 6.20
+ 6.40
+ 4.40
+ N.D.
+ N.D.
+T
+C
+
+
+
+
+
+
+i
+A
+K+
+ 0.80
+ 0.50
+ 0.70
+ N.D.
+ N.D.
+o
+M
+
+
+
+
+
+
+n
+B
+Na+
+ 1.10
+ 1.00
+ 0.80
+ N.D.
+ N.D.
+e
+I
+
+
+
+
+
+
+s
+O
+H+
+ 0.00
+ 5.00
+ 5.00
+ N.D.
+ N.D.
+
+% Na/T
+ 2.91
+ 2.56
+ 1.77
+ N.D
+ N.D.
+
+Equivalente de humedad (%)
+
+ 33.02
+
+ 28.77
+
+ 35.99
+
+ 38.55
+
+ 35.32
+
+1) N.D. = No determinado
+

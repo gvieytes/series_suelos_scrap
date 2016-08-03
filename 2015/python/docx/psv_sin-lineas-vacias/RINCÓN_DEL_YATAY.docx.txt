@@ -1,0 +1,268 @@
+--------------------------------------------------------------------------------
+SERIE RINCÓN DEL YATAY						 Símbolo: RYty
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles vérticos (molisoles vertisólicos imperfectamente drenados).
+Con un epipedón profundo franco arcillo limoso a arcillo limoso y concreciones de hierro-manganeso de hasta 3 mm y un horizonte Bt arcillo limoso, con caras de fricción ("slickensides") abundantes a partir de los 35 cm de profundidad.
+Perfil tipo: ER7-18C
+Fecha: 15-X-1980
+Ubicación: Ea. "La Entrerriana" (foto 187-48) - Dpto. Federal.
+Reconocedores: L.O. López; R.H. Fuentes; O.A. Foti.
+A11: 00-11 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura granular y en bloques subangulares medios, débiles; friable en húmedo y blando en seco; barnices ("humic skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+A12: 12-22 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios, moderados; friable en húmedo, blando en seco; barnices ("humic skins") abundantes; concreciones de hierro-manganeso escasas de hasta 3 mm de ancho; límite claro, suave.
+B1: 22-35 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo, ligeramente duro en seco; barnices ("clay humic skins") abundantes; caras de fricción ("slickensides") escasas, finas, no intersectadas; concreciones de hierro-manganeso abundantes de hasta 4 mm; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+B21t: 35-55 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; firme en húmedo, muy duro en seco; barnices ("clay humic skins") abundantes, medios; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro-manganeso comunes, finas y precisas; concreciones de hierro-manganeso abundantes de hasta 3 mm de diámetro; límite gradual, suave.
+B22t: 55-75 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; barnices ("clay skins") escasos, finos; caras de fricción ("slickensides") abundantes, finas e intersectadas; concreciones de calcio escasas; límite gradual, ondulado.
+B31cacs: 75-90 cm; gris oscuro (10YR 4/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo, ligeramente duro en seco; caras de fricción ("slickensides") abundantes, finas e intersectadas; cristales de sulfato de calcio abundantes; límite difuso, ondulado.
+B32cacs: 90-120 cm; pardo (7.5YR 5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; caras de fricción ("slickensides") abundantes, finas e intersectadas; cristales de sulfato de calcio escasas; concreciones de calcio abundantes, blandas y duras de aproximadamente 2 cm.
+Variabilidad de rasgos
+Está condicionada especialmente por su posición en el paisaje, correspondiéndole perfiles más engrosados a las depresiones de las partes más altas con colonias importantes de Melica macra. El epipedón posee normalmente horizontes A11 + A12 que puede tener incluido un B1 de poco espesor, con porcentajes de arcilla entre 20-35% y un B2t entre 40-70 cm de espesor siendo el subhorizonte B22t el más arcilloso.
+Fases
+No posee a este nivel de reconocimiento.
+Series similares y sus diferencias
+La serie Rincón del Yatay se parece a la serie Banderas aunque ésta es menos hidromórfica debido a su posición fisiográfica.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial muy lento. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La serie no presenta erosión como tampoco susceptibilidad a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Rincón del Yatay
+ER7-18C
+Nº de registro
+ 3183
+ 3184
+ 3185
+ 3186
+ 3187
+ 3188
+ 3189
+ 3190
+Horizonte
+ A11
+ A12
+ B1
+ B21t
+ B22t
+ B31cacs
+ B32ca
+ C
+Profundidad (cm)
+ 01-10
+ 14-20
+ 25-33
+ 38-53
+ 60-72
+ 77-89
+ 95-110
+ 130-150
+Mat.organica (%)
+ 3.92
+ 3.09
+ 2.34
+ 1.48
+ 1.10
+ 0.99
+ 0.48
+ 0.34
+N (%)
+ 0.18
+ 0.12
+ 0.09
+ 0.07
+ 0.05
+ 0.03
+ 0.03
+ 0.03
+C/N
+ 13
+ 15
+ 14
+ 12
+ 12
+ 19
+ 9
+ 7
+T < 2 μ
+ 24.97
+ 29.86
+ 36.93
+ 53.10
+ 48.05
+ 49.96
+ 43.83
+ 41.89
+E 2-20 μ
+ 40.69
+ 46.07
+ 38.21
+ 39.49
+ 35.78
+ 31.62
+ 35.78
+ 35.81
+X 2-50 μ
+ 74.59
+ 69.68
+ 62.62
+ 46.53
+ 51.63
+ 49.82
+ 55.76
+ 57.73
+T 50-100 μ
+ 0.21
+ 0.26
+ 0.23
+ 0.21
+ 0.18
+ 0.12
+ 0.20
+ 0.20
+U 100-250 μ
+ 0.22
+ 0.19
+ 0.21
+ 0.16
+ 0.13
+ 0.12
+ 0.20
+ 0.20
+R 250-500 μ
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+A 500-1000 μ
+ 0.01
+ 0.01
+ 0.01
+ 0.00
+ 0.01
+ 0.00
+ 0.02
+ 0.02
+ 1000-2000 μ
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.3
+ 0.7
+ 0.9
+ 1.7
+ 0.0
+pH H2O
+ 6.3
+ 6.6
+ 6.8
+ 7.5
+ 7.4
+ 7.4
+ 7.7
+ 7.8
+pH ClK
+ 5.1
+ 5.3
+ 5.7
+ 6.6
+ 6.9
+ 6.9
+ 7.1
+ 6.2
+Capacidad de intercambio catiónico (m.e./100 g) =
+valor T
+ 34.38
+ 35.46
+ 37.60
+ 44.44
+ 41.86
+ 44.64
+ 37.20
+ 35.32
+ d Ca++
+ 15.50
+ 19.35
+ 23.93
+ 32.35
+ 45.89
+ N.D.
+ N.D.
+ N.D.
+C e
+Mg++
+ 2.06
+ 3.67
+ 3.66
+ 4.05
+ 10.53
+ N.D.
+ N.D.
+ N.D.
+t c
+i a K+
+ 0.09
+ 0.05
+ 0.12
+ 0.12
+ 0.14
+ 0.14
+ 0.14
+ 0.14
+o m
+n b Na+
+ 0.45
+ 0.85
+ 1.42
+ 2.10
+ 1.95
+ 2.17
+ 3.15
+ 3.07
+e i
+s o H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+ 1.31
+ 2.40
+ 3.78
+ 4.73
+ 4.66
+ 4.86
+ 8.47
+ 8.69
+Equiv. de humedad (%)
+ 28.31
+ 30.63
+ 35.75
+ 38.29
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+P asimilable (ppm)
+ 3.44
+ 2.40
+ 2.72
+ 2.40
+ 1.60
+ 2.40
+ 1.60
+ N.D.
+N.D.= No determinado.	

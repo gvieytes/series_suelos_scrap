@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 2
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|ac|ck
+HORIZONTE->Profundidad de la muestra (cm): 0-23|23-55|55 a +
+HORIZONTE->Materia Orgánica (%): 1.9||
+HORIZONTE->Carbono Orgánico (%): 1.1||
+HORIZONTE->Nitrógeno total (%): 0.11||
+HORIZONTE->Relación C/N: 10.0||
+HORIZONTE->Arcilla, <2 µ (%): 20.2|17.4|15.5
+HORIZONTE->Limo, 2-50 µ (%): 59.3|61.2|59.8
+HORIZONTE->Arena muy fina, 50-100 µ (%): 18.3|21.1|23.4
+HORIZONTE->Arena fina, 100-250 µ (%): 0.7|0.3|0.5
+HORIZONTE->Arena media, 250-500 µ (%): 0.2|0.1|0.2
+HORIZONTE->Arena gruesa, 500-1000 µ (%): 0.1|0.1|0.1
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): ||
+HORIZONTE->Calcáreo, CaCO3 (%): 0|0|4.7
+HORIZONTE->Equivalente de humedad (%): 21.1|19.6|18.7
+HORIZONTE->pH en pasta: ||
+HORIZONTE->pH en agua 1:2,5: 6.7|7.2|8.0
+HORIZONTE->Cationes de intercambio, me/100 gr-Ca++: 12.9|14.6|
+HORIZONTE->Cationes de intercambio, me/100 gr-Mg++: 0.9|1.1|
+HORIZONTE->Cationes de intercambio, me/100 gr-Na+: 0.4|0.4|0.4
+HORIZONTE->Cationes de intercambio, me/100 gr-K+: 1.5|1.2|0.9
+HORIZONTE->Cationes de intercambio, me/100 gr-H+: 1.0|0.7|
+HORIZONTE->Suma de bases, me/100 gr (S): 15.7|17.3|
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 16.7|18.0|17.1
+HORIZONTE->Saturación con bases, % (S/T): 94.0|96.1|100

@@ -1,0 +1,386 @@
+
+--------------------------------------------------------------------------------
+SERIE LOS NARDOS Símbolo: LNd
+
+
+Pertenece a la familia "limosa fina, montomorillonítica, térmica" de los Argialboles típicos.
+Son suelos muy profundos, con un horizonte A2 y un B2 textural fuertemente desarrollado, imperfectamente drenados, con síntomas de hidromorfismo en todo el perfil, concreciones ferromanganesíferas desde superficie y moteados a partir del horizonte eluvial.
+Están desarrollados en materiales aluviales antiguos.
+
+
+Perfil tipo: ER7-64C
+Fecha: 7-VI-1989.
+Ubicación: Estancia "Los Cerrillos" (foto 426-113) - Dpto. Diamante.
+Reconocedores: L.O. López; A. Etcheves.
+
+
+A1: 00-34 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso a franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, débiles; friable en húmedo; barnices "humic skins", abundantes y medios; concreciones de hierro-manganeso de hasta 0.1 cm, escasas; moteados de hierro y manganeso comunes, medios y precisos; límite gradual, suave.
+
+A21: 34-48 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura granular y en bloques subangulares, medios, débiles; muy friable en húmedo; barnices "humic skins" escasos, medios; concreciones de hierro-manganeso de hasta 0.2 cm, escasas; moteados de hierro y manganeso comunes, medios y precisos; límite claro, suave.
+
+A22: 48-67 cm; pardo grisáceo (10YR 4.5/2) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares, medios, muy débiles; muy friable en húmedo; barnices "clay skins", escasos y finos; concreciones de hierro-manganeso de hasta 0.2 cm, escasas; moteados de hierro y manganeso abundantes, medios y precisos; límite abrupto, suave.
+
+B21t: 67-110 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares irregulares, medios, fuertes; firme en húmedo; barnices "clay skins", abundantes y medios; caras de fricción ("slickensides") abundantes, finas, no intersectadas; concreciones de hierro-manganeso de hasta 0.2 cm, abundantes; moteados de hierro y manganeso comunes, medios y precisos; raíces aplastadas; límite gradual, suave.
+
+B22t: 110-143 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, fuertes; firme en húmedo; caras de fricción ("slickensides") escasas, finas, no intersectadas; moteados de hierro y manganeso comunes, medios y precisos; raíces aplastadas; límite gradual, suave.
+
+B3: 143-165 cm; pardo (7.5YR 4/4) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados con tendencia a prismas compuestos irregulares, medios, débiles; friable en húmedo; barnices "clay skins", escasos y finos; caras de fricción ("slickensides") escasas, finas, no intersectadas; moteados de hierro y manganeso comunes, medios y precisos; límite difuso, suave.
+C: 165+ cm; pardo claro (7.5YR 5.5/4) en húmedo; franco-limoso; estructura masiva; friable en húmedo; moteados de hierro y manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El solum tiene más de 140 cm pero su variabilidad se desconoce. El epipedón, mólico, de textura franco-limosa a franco-arcillo-limosa (27-30 % de arcilla), posee entre 30-35 cm de espesor y está normalmente compuesto de un horizonte A1. Le sigue, en todos los casos, un horizonte de diagnóstico álbico (eluvial), formado por un A2 muy lixiviado, de 25-35 cm de espesor y textura franco-limosa a limosa (14-26 % de arcilla, 70-78 % de limo y 7-10 % de arena).
+
+La variabilidad de rasgos físicos del epipedón y del álbico es muy amplia a corta distancia por la heterogeneidad propia del relieve (lagunas temporarias, etc) que influye en el proceso de degradación de los mismos. En las depresiones suele encontrarse perfiles más someros y algo más arcillosos. En general, la estructura del horizonte A es débil, de consistencia muy friable y porosa, formada por agregados granulares y bloques. A esto, se suma la degradación y compactación causada por el pisoteo animal en las áreas donde la escasa vegetación permite el aprovechamiento de estos suelos.
+
+El B2t argílico (30-35 % de arcilla) presenta, generalmente, una estructura bloquiforme o prismática fuertemente desarrollada, con caras de fricción ("slickensides") abundantes e intersectadas. La variabilidad de este horizonte se conoce poco. En todos los casos, los perfiles muestran fuertes características de hidromorfismo y reducción, con abundantes y sobresalientes moteados de hierro y manganeso, asi como concreciones de hasta 2 mm.
+
+
+Fases
+
+No se conocen.
+
+
+Series similares y sus diferencias
+
+La Serie Los Nardos se parece a la Serie Los Mosquitos (que tiene un porcentaje de Na+ intercambiable alto en todo el perfil y no posee epipedón mólico).
+
+Otros suelos hidromórficos alcalinos de otras partes de la provincia tienen un horizonte A2 en superficie o tienen tenores de sodio muy elevados desde la superficie.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial muy lento a estancado. Permeabilidad lenta a muy lenta. Napa freática fluctuante. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie Los Nardos no tiene erosión actual ni presenta peligro de erosión potencial. En algunos sectores, existe moderado a severo peligro de deposición.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Los Nardos
+
+ER7-64C
+
+
+
+
+
+
+
+Nº de registro
+ 5.152
+ 5.153
+ 5.154
+ 5.155
+ 5.156
+ 5.157
+ 5.158
+Horizonte
+ A11
+ A12
+ A2
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 08-26
+ 34-48
+ 52-62
+ 75-95
+ 115-130
+ 146-160
+ 170-200
+Mat.organica (%)
+ 2.82
+ 1.24
+ 0.89
+ 0.62
+ 0.55
+ 0.21
+ 0.14
+N (%)
+ 0.16
+ 0.07
+ 0.05
+ 0.05
+ 0.04
+ 0.03
+ 0.03
+C/N
+ 10
+ 11
+ 10
+ 7
+ 7
+ 4
+ 3
+
+T < 2 u
+
+ 28.38
+
+ 14.66
+
+ 20.11
+
+ 29.75
+
+ 33.01
+
+ 26.87
+
+ 25.71
+E 2-20 u
+ 33.30
+ 34.39
+ 32.33
+ 28.25
+ 25.26
+ 26.44
+ 29.10
+X 2-50 u
+ 64.73
+ 76.77
+ 72.14
+ 60.87
+ 58.22
+ 61.11
+ 65.06
+T 50-100 u
+ 4.73
+ 5.37
+ 7.35
+ 6.58
+ 5.73
+ 8.28
+ 7.81
+U 100-500 u
+ 2.11
+ 3.14
+ 3.09
+ 2.76
+ 2.99
+ 3.70
+ 1.40
+R 500-1000 u
+ 0.05
+ 0.06
+ 0.09
+ 0.05
+ 0.05
+ 0.04
+ 0.03
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+PH H2O
+ 6.5
+ 6.8
+ 7.1
+ 7.5
+ 7.8
+ 7.8
+ 7.9
+pH ClK
+ 5.5
+ 5.6
+ 5.5
+ 5.6
+ 5.8
+ 5.7
+ 5.8
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+ 28.30
+
+
+ 20.20
+
+
+ 21.40
+
+
+ 30.60
+
+
+ 31.70
+
+
+ 29.80
+
+
+ 28.20
+
+
+d
+
+Ca++
+
+ 19.60
+
+ 13.10
+
+ 13.80
+
+ 21.80
+
+ 28.90
+
+ 23.70
+
+ 22.50
+C
+e
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 3.70
+ 2.50
+ 2.50
+ 4.20
+ 3.00
+ 2.70
+ 2.30
+t
+c
+
+
+
+
+
+
+
+
+i
+a
+K+
+ 2.80
+ 2.30
+ 2.22
+ 2.80
+ 1.87
+ 1.70
+ 1.50
+o
+m
+
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.60
+ 0.61
+ 1.20
+ 0.98
+ 0.92
+ 0.86
+ 0.84
+e
+i
+
+
+
+
+
+
+
+
+s
+o
+H+
+ 0.80
+ 0.90
+ 0.90
+ 0.60
+ 0.50
+ 0.30
+ 0.30
+
+
+
+
+
+
+
+
+
+
+% Na/T
+
+
+ 2.12
+ 3.02
+ 5.61
+ 3.20
+ 2.90
+ 2.89
+ 2.98
+
+Equival. de humedad (%)
+
+ 29.50
+
+ 22.08
+
+ 23.77
+
+ 31.60
+
+ 40.74
+
+ 33.05
+
+ 31.98
+
+

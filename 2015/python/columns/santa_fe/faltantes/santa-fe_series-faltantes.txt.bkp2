@@ -1,0 +1,1159 @@
+alejoledesma_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+alejoledesma_datos_analiticos.psv ->> ID..........................: 10
+alejoledesma_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+alejoledesma_datos_analiticos.psv ->> SERIE.......................: FALTA!
+alejoledesma_datos_analiticos.psv ->> UBICACION...................: FALTA!
+alejoledesma_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+alejoledesma_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+alejoledesma_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+alejoledesma_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+alejoledesma_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+alejoledesma_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+alejoledesma_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+alejoledesma_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+alejoledesma_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+alejoledesma_datos_analiticos.psv ->> COLOR.......................: FALTA!
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | AC    | C
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0     | 23    | 63
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.38  | 0.86  | 0.28
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.38  | 0.50  | 0.16
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.137 | 0.067 | 0.036
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10    | 7     | 4
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15.7  | 11.5  | 7.2
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 35.4  | 34.0  | 30.9
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 48.3  | 53.0  | 61.5
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 99.4  | 98.5  | 99.6
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 46.0  | 49.9  | 53.7
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 2.3   | 3.1   | 7.8
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 18.1  | 15.7  | 11.7
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.6   | 6.4   | 6.7
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.9   | 6.6   | 7.0
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 7.6   | 8.6   | 7.1
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.2   | 1.7   | 1.7
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3   | 0.3   | 0.3
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.5   | 1.0   | 1.0
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 2.9   | 1.1   | 0.6
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.2   | 2.3   | 2.9
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 13.7  | 12.9  | 10.5
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 10.6  | 11.6  | 10.1
+alejoledesma_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 77    | 90    | 96
+apeaderomascias_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+apeaderomascias_datos_analiticos.psv ->> ID..........................: 10
+apeaderomascias_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+apeaderomascias_datos_analiticos.psv ->> SERIE.......................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> UBICACION...................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+apeaderomascias_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+apeaderomascias_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+apeaderomascias_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+apeaderomascias_datos_analiticos.psv ->> COLOR.......................: FALTA!
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: E     | 2Bt1  | 2Bt2
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-22  | 22-45 | 45a+
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.6   | 1.13  | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.51  | 0.66  | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.149 | 0.085 | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10    | 8     | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9.5   | 28    | 32
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 66.5  | 49    | 15.9
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 23.44 | 16.68 | 51
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 99.44 | 93.68 | 98.9
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ----- | ----- | -----
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: 298   | 315   | 372
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: 20.2  | 6.2   | 4.4
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: -     | -     | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7.1   | 7.8   | 7.6
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: -     | -     | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.6  | 10.8  | 15.4
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.2   | 3.0   | 2.0
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 5.2   | 8.7   | 7.0
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 0.5   | 0.7   | 0.5
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: -     | -     | -
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 26.8  | 36.7  | 29.1
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 19.4  | 23.7  | 24
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 18.5  | 23.2  | 24.9
+apeaderomascias_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 95    | 98    | 100
+bossi_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+bossi_datos_analiticos.psv ->> ID..........................: 10
+bossi_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+bossi_datos_analiticos.psv ->> SERIE.......................: FALTA!
+bossi_datos_analiticos.psv ->> UBICACION...................: FALTA!
+bossi_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+bossi_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+bossi_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+bossi_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+bossi_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+bossi_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+bossi_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+bossi_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+bossi_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+bossi_datos_analiticos.psv ->> COLOR.......................: FALTA!
+bossi_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | EB    | Bt1   | Bt2    | BC      | C       | Ck
+bossi_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-25  | 25-38 | 38-77 | 77-112 | 112-152 | 152-186 | 186-255
+bossi_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.12  | 1.57  | 0.64  | 0.29   | 0.21    | 0.17    | 0.17
+bossi_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.81  | 0.91  | 0.37  | 0.17   | 0.12    | 0.10    | 0.10
+bossi_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.132 | 0.062 | 0.047 | 0.033  | 0.03    | 0.02    | 0.01
+bossi_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 14    | 15    | 8     | 5      | 5       | 4       | 10
+bossi_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 30.7  | 31.9  | 44.2  | 40.9   | 25.2    | 26.5    | 22.7
+bossi_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 66.9  | 62.9  | 53.9  | 55.9   | 67.9    | 61.4    | 59.1
+bossi_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 2.4   | 5.2   | 1.9   | 3.2    | 6.9     | 12.1    | 18.2
+bossi_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0  | 100.0   | 100.0   | 100.0
+bossi_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: 27.9  | 25.6  | 35.3  | 37.3   | 45.8    | 39.6    | 37.1
+bossi_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -      | -       | -       | -
+bossi_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 1.9   | 4.6   | 1.4   | 2.2    | 4.1     | 8.0     | 5.4
+bossi_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.5   | 0.6   | 0.5   | 1.0    | 2.4     | 3.6     | 6.3
+bossi_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.4     | 0.5     | 6.5
+bossi_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+bossi_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+bossi_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.4     | 5.4
+bossi_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ---   | ---   | ---   | ---    | ---     | ---     | ---
+bossi_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: 1420  | 1512  | 1490  | 1210   | 827     | 785     | 661
+bossi_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---    | 2.1     | 1.6     | 2.6
+bossi_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.1   | 6.2   | 7.5   | 7.9    | 7.9     | 8.2     | 8.4
+bossi_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.2   | 6.4   | 7.7   | 8.2    | 8.2     | 8.6     | 8.8
+bossi_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: 5.0   | 5.2   | 6.0   | 6.3    | 6.3     | 7.2     | 7.3
+bossi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.8  | 11.0  | 18.2  | 18.0   | 18.1    | 18.5    | 19.8
+bossi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.7   | 1.7   | 3.9   | 5.2    | 3.8     | 3.4     | 4.6
+bossi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.6   | 0.7   | 1.8   | 2.4    | 2.7     | 3.2     | 4.4
+bossi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.6   | 1.1   | 2.3   | 2.8    | 2.7     | 2.6     | 2.5
+bossi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 3.8   | 2.3   | 0.8   | 0.0    | 0.0     | 0.0     | 0.0
+bossi_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.2   | 4.1   | 6.7   | 8.6    | 10.0    | 12.1    | 14.5
+bossi_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 18.5  | 17.0  | 26.7  | 27.8   | 26.9    | 26.5    | 30.3
+bossi_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 14.7  | 14.5  | 26.2  | 28.4   | 27.3    | 27.7    | 31.3
+bossi_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 79    | 85    | 98    | 102    | 101     | 105     | 103
+caciqueariacaiquin_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+caciqueariacaiquin_datos_analiticos.psv ->> ID..........................: 10
+caciqueariacaiquin_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> SERIE.......................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> UBICACION...................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+caciqueariacaiquin_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> COLOR.......................: FALTA!
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: Ap    | AC    | C1    | C2    | 2Bt1  | 2Bt2
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17  | 17-38 | 38-52 | 52-68 | 68-95 | 95-115
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 12.6  | 17.9  | 17.3  | 16.0  | 33.1  | 33.0
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 33.5  | 34.7  | 35.1  | 35.7  | 32.2  | 31.2
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 53.9  | 47.4  | 48.7  | 47.0  | 34.7  | 35.8
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 99.9  | 101.0 | 98.7  | 100.0 | 100.0
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: 13.8  | 15.9  | 16.0  | 15.9  | 15.2  | 14.6
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -     | -
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 14.8  | 12.3  | 12.8  | 12.7  | 11.1  | 10.2
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 37.0  | 32.7  | 33.0  | 32.7  | 22.2  | 24.3
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 2.0   | 2.3   | 2.8   | 1.6   | 1.3   | 1.3
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.1   | 0.1   | 0.1   | 0.1   | 0.1   | 0.1
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: 5120  | ----- | ----- | ----- | 2119  | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.6   | ----- | ----- | ----- | 6.0   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3   | ----- | ----- | ----- | 6.4   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: 5.9   | ----- | ----- | ----- | 5.2   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 3.4   | ----- | ----- | ----- | 9.1   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.8   | ----- | ----- | ----- | 2.0   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3   | ----- | ----- | ----- | 0.3   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 0.7   | ----- | ----- | ----- | 0.7   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: ----- | ----- | ----- | ----- | ----- | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.3   | ----- | ----- | ----- | 1.4   | -----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 12.8  | ----  | ----  | ----  | 21.6  | ----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 5.2   | ----  | ----  | ----  | 12.1  | ----
+caciqueariacaiquin_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 41    | ----- | ----- | ----- | 56    | -----
+canadadelucle_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+canadadelucle_datos_analiticos.psv ->> ID..........................: 10
+canadadelucle_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+canadadelucle_datos_analiticos.psv ->> SERIE.......................: FALTA!
+canadadelucle_datos_analiticos.psv ->> UBICACION...................: FALTA!
+canadadelucle_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+canadadelucle_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+canadadelucle_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+canadadelucle_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+canadadelucle_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+canadadelucle_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+canadadelucle_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+canadadelucle_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+canadadelucle_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+canadadelucle_datos_analiticos.psv ->> COLOR.......................: FALTA!
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: Ap    | BA    | Bt1   | Bt2   | BCx   | C     | Ck
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 5     | 22    | 35    | 64    | 85    | 130   | 168
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.14  | 1.62  | 1.02  | 0.66  | 0.47  | 0.36  | 0.33
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.82  | 0.94  | 0.59  | 0.38  | 0.27  | 0.21  | 0.19
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.164 | 0.097 | 0.072 | 0.057 | 0.04  | 0.03  | 0.03
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 11    | 10    | 8     | 7     | 8     | 7     | 7
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 22.9  | 24.8  | 31.7  | 28.2  | 20.5  | 12.6  | 8.8
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 61.5  | 61.4  | 57.3  | 60.4  | 64.0  | 71.4  | 69.9
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 11.0  | 13.8  | 10.8  | 11.4  | 15.5  | 16.0  | 21.3
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 95.5  | 100.0 | 99.8  | 100.0 | 100.0 | 100.0 | 100.0
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -     | -     | -
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 9.8   | 12.2  | 9.7   | 9.4   | 13.7  | 14.3  | 18.7
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 1.2   | 1.6   | 1.1   | 2.0   | 1.8   | 1.7   | 2.6
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0   | 0.5   | 0.9   | 4.5
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 25.9  | 25.4  | 30.7  | 30.7  | 24.0  | 21.3  | 19.5
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.3   | 5.8   | 5.8   | 6.4   | 7.6   | 8.0   | 8.1
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.2   | 5.1   | 5.3   | 5.4   | 6.2   | 7.0   | 7.6
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.4  | 10.3  | 13.0  | 11.6  | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.7   | 2.9   | 5.4   | 6.0   | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3   | 0.4   | 0.5   | 1.4   | 5.1   | 4.5   | 4.0
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.1   | 1.3   | 1.4   | 1.7   | 2.4   | 1.9   | 2.3
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 4.9   | 4.0   | 3.0   | 2.1   | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.5   | 2.1   | 2.1   | 6.1   | 26.8  | 28.3  | 25.8
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 20.4  | 19.0  | 23.8  | 23.1  | 19.0  | 15.9  | 15.5
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 15.5  | 14.9  | 20.3  | 20.7  | ---   | ---   | ---
+canadadelucle_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 76    | 78    | 85    | 90    | ---   | ---   | ---
+coloniamoreno_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+coloniamoreno_datos_analiticos.psv ->> ID..........................: 10
+coloniamoreno_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+coloniamoreno_datos_analiticos.psv ->> SERIE.......................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> UBICACION...................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+coloniamoreno_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+coloniamoreno_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+coloniamoreno_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+coloniamoreno_datos_analiticos.psv ->> COLOR.......................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: Ap    | E     | Bt1   | Bt1   | BC    | Ck
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14  | 14-22 | 22-46 | 46-70 | 70-97 | +97
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.97  | 2.91  | 1.31  | 0.45  | 0.28  | 0.21
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.72  | 1.69  | 0.76  | 0.26  | 0.16  | 0.12
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.165 | 0.154 | 0.085 | 0.058 | 0.04  | 0.03
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10    | 11    | 9     | 4     | 4     | 4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 23.7  | 20.2  | 33.2  | 28.5  | 18.4  | 12.2
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 70.4  | 74.4  | 63.3  | 66.6  | 72.5  | 74.5
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 5.9   | 6.1   | 4.3   | 5.5   | 9.6   | 12.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.7 | 100.8 | 100.6 | 100.5 | 98.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: -     | -     | -     | -     | -     | -
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -     | -
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 4.8   | 5.6   | 3.5   | 5.0   | 7.2   | 9.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 1.1   | 0.5   | 0.8   | 0.5   | 2.1   | 2.2
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.2   | 0.3
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.1   | 0.4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 4.3
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 26.9  | 27.1  | 34.3  | 32.7  | 31.8  | 26.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---   | ---
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | 1.7   | 8.5   | 21.3  | 24.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.0   | 5.3   | 6.8   | 7.3   | 8.2   | 8.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.3   | 5.8   | 7.7   | 8.9   | 9.1   | 9.4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: -     | -     | -     | -     | -     | -
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 7.6   | 7.9   | ---   | ---   | ---   | ---
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.7   | 2.6   | ---   | ---   | ---   | ---
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4   | 0.4   | 2.3   | 4.0   | 11.0  | 11.4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.5   | 2.8   | 2.7   | 2.1   | 4.0   | 3.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 3.9   | 2.8   | ---   | ---   | ---   | ---
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.3   | 2.4   | 9.3   | 16.1  | 45.8  | 50.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 17.4  | 16.8  | 24.8  | 24.8  | 24.0  | 22.5
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.2  | 13.7  | ---   | ---   | ---   | ---
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 76    | 82    | ---   | ---   | ---   | ---
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: ---   | ---   | ---   | 13.4  | 32.9  | 30.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: ---   | ---   | ---   | 7.2   | 17.1  | 18.8
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: ---   | ---   | ---   | 63.0  | 165.0 | 205.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: ---   | ---   | ---   | 1.5   | 3.0   | 3.6
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EX.S ME/1-CO3-.: ---   | ---   | ---   | 3.1   | 3.9   | 3.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-SO4=: ---   | ---   | ---   | 37.3  | 111.0 | 150.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: ---   | ---   | ---   | 47.9  | 99.3  | 100.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->RAS..............: ---   | ---   | ---   | 20    | 33    | 42
+estanciasantaana_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+estanciasantaana_datos_analiticos.psv ->> ID..........................: 10
+estanciasantaana_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+estanciasantaana_datos_analiticos.psv ->> SERIE.......................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> UBICACION...................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+estanciasantaana_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+estanciasantaana_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+estanciasantaana_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+estanciasantaana_datos_analiticos.psv ->> COLOR.......................: FALTA!
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | AC    | C
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 5-15  | 35-50 | 75-90
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.81  | 0.36  | 0.07
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.63  | 0.21  | 0.04
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.187 | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 9     | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 23.9  | 20.2  | 14.3
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 26.0  | 25.1  | 22.0
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 50.1  | 54.7  | 63.7
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 44.5  | 48.8  | 56.0
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 5.5   | 5.9   | 7.7
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1   | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: ---   | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: ---   | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 20.3  | 16.8  | 13.3
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.2   | 6.4   | 6.9
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.7   | 7.2   | 7.5
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.5  | 7.7   | 7.3
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.3   | 3.4   | 3.5
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.5   | 0.3   | 0.3
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 3.5   | 2.5   | 1.1
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 6.9   | 3.9   | 2.4
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.7   | 2.1   | 2.5
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 18.4  | 14.4  | 11.8
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16.8  | 13.9  | 12.2
+estanciasantaana_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 91    | 97    | 103
+lasarita_descripcion_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+lasarita_descripcion_datos_analiticos.psv ->> ID..........................: 10
+lasarita_descripcion_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> SERIE.......................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> UBICACION...................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+lasarita_descripcion_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> COLOR.......................: FALTA!
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: E1    | E2    | Bt1   | Bt2    | BC
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-15  | 15-28 | 28-76 | 76-122 | 122-135
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 4.09  | 1.43  | 1.00  | 0.40   | 0.22
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2.37  | 0.83  | 0.58  | 0.23   | 0.13
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.187 | 0.065 | 0.068 | 0.041  | 0.033
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 13    | 13    | 9     | 6      | 4
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 37.1  | 35.0  | 68.8  | 51.5   | 48.9
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 61.1  | 61.8  | 30.4  | 47.0   | 48.7
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 1.8   | 3.2   | 0.8   | 1.5    | 2.4
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0  | 100.0
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: 44.1  | 46.1  | 24.3  | 39.2   | 39.7
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -      | -
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 1.4   | 1.4   | 0.4   | 0.7    | 1.0
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.4   | 1.8   | 0.4   | 0.8    | 1.4
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.00  | 0.00  | 0.00  | 0.00   | 0.00
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ---   | ---   | ---   | ---    | ---
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: 4743  | 5807  | 1256  | 1355   | 1306
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---    | ---
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.9   | 6.5   | 6.7   | 7.5    | 7.7
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.9   | 6.5   | 7.3   | 7.8    | 7.9
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: 4.7   | 5.0   | 5.5   | 5.8    | 5.8
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.8  | 9.6   | 21.1  | 20.1   | 17.1
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.6   | 0.2   | 5.7   | 5.8    | 5.8
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.7   | 0.8   | 1.3   | 1.7    | 1.8
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.1   | 0.8   | 1.7   | 1.9    | 1.9
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 5.3   | 3.5   | 1.8   | 0.9    | 0.9
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.7   | 5.3   | 4.1   | 5.7    | 6.6
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 18.8  | 15.0  | 31.6  | 30.0   | 27.4
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.2  | 11.4  | 29.8  | 29.5   | 26.6
+lasarita_descripcion_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 70    | 76    | 94    | 98     | 97
+lasofia_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+lasofia_datos_analiticos.psv ->> ID..........................: 10
+lasofia_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+lasofia_datos_analiticos.psv ->> SERIE.......................: FALTA!
+lasofia_datos_analiticos.psv ->> UBICACION...................: FALTA!
+lasofia_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+lasofia_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+lasofia_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+lasofia_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+lasofia_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+lasofia_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+lasofia_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+lasofia_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+lasofia_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+lasofia_datos_analiticos.psv ->> COLOR.......................: FALTA!
+lasofia_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | E     | Bt1   | Bt2   | BC    | C
+lasofia_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 5-15  | 27-34 | 40-50 | 55-65 | 85-95 | 125-135
+lasofia_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.83  | 1.03  | 1.34  | 0.59  | 0.41  | ---
+lasofia_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.64  | 0.60  | 0.78  | 0.34  | 0.24  | ---
+lasofia_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.151 | 0.057 | 0.068 | 0.048 | ---   | ---
+lasofia_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 11    | 11    | 11    | 7     | ---   | ---
+lasofia_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 17.0  | 15.0  | 28.5  | 32.5  | 21.9  | 17.7
+lasofia_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 50.2  | 48.9  | 46.6  | 40.1  | 38.4  | 42.6
+lasofia_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 32.8  | 36.1  | 24.9  | 27.4  | 39.7  | 39.7
+lasofia_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0
+lasofia_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: -     | -     | -     | -     | -     | -
+lasofia_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -     | -
+lasofia_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 31.4  | 34.4  | 24.0  | 26.1  | 36.2  | 37.2
+lasofia_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 1.4   | 1.7   | 0.9   | 1.3   | 3.5   | 2.5
+lasofia_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+lasofia_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+lasofia_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+lasofia_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+lasofia_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 22.1  | 19.2  | 29.6  | 35.1  | 26.2  | 24.1
+lasofia_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---   | ---
+lasofia_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---   | ---
+lasofia_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.9   | 6.3   | 6.2   | 6.2   | 6.6   | 6.2
+lasofia_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.6   | 7.4   | 7.6   | 7.7   | 7.9   | 7.2
+lasofia_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---   | ---
+lasofia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 6.8   | 4.4   | 8.8   | 10.7  | 9.0   | 7.2
+lasofia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 4.0   | 4.1   | 5.9   | 8.5   | 5.5   | 5.3
+lasofia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2   | 0.3   | 0.9   | 1.5   | 1.3   | 0.7
+lasofia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.6   | 2.0   | 2.9   | 3.4   | 3.0   | 2.6
+lasofia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 5.2   | 2.5   | 3.9   | 4.0   | 2.9   | 3.1
+lasofia_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.4   | 3.1   | 4.3   | 5.7   | 7.5   | 4.2
+lasofia_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 14.5  | 9.7   | 21.0  | 26.1  | 17.3  | 16.7
+lasofia_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.6  | 10.8  | 18.5  | 24.1  | 18.8  | 15.8
+lasofia_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 94    | 111   | 88    | 92    | 109   | 95
+marcojuarezi_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+marcojuarezi_datos_analiticos.psv ->> ID..........................: 10
+marcojuarezi_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+marcojuarezi_datos_analiticos.psv ->> SERIE.......................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> UBICACION...................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+marcojuarezi_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+marcojuarezi_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+marcojuarezi_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+marcojuarezi_datos_analiticos.psv ->> COLOR.......................: FALTA!
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: Ap    | BA    | Bt1   | Bt2   | BC    | C      | Ck
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-19  | 19-26 | 26-47 | 47-66 | 66-94 | 94-138 | +138
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.28  | 2.24  | 1.21  | 0.69  | 0.34  | 0.28   | 0.10
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.90  | 1.30  | 0.70  | 0.40  | 0.20  | 0.16   | 0.06
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.18  | 0.12  | 0.09  | 0.07  | 0.05  | 0.04   | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 11    | 11    | 8     | 6     | 4     | 4      | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 25.1  | 27.1  | 34.5  | 32.1  | 25.2  | 19.3   | 16.3
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 68.9  | 60.3  | 58.4  | 62.7  | 63.1  | 71.2   | 66.4
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 6.0   | 12.6  | 7.1   | 5.2   | 11.7  | 9.5    | 12.4
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0  | 95.1
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---   | ---    | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -     | -      | -
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 5.4   | 12.0  | 6.4   | 4.7   | 11.1  | 8.7    | 11.3
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.6   | 0.6   | 0.7   | 0.5   | 0.6   | 0.8    | 1.1
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | ---   | 0.0   | 0.0   | 0.0    | 4.9
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 28.1  | 29.1  | 30.3  | 29.8  | 27.4  | 25.6   | 23.7
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---   | ---    | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---   | ---    | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.0   | 6.4   | 6.5   | 6.5   | 6.9   | 7.0    | 7.8
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.4   | 7.0   | 6.9   | 7.1   | 7.3   | 7.7    | 8.3
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---   | ---    | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.4  | 11.6  | 14.0  | 15.3  | 13.7  | 13.1   | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 4.3   | 4.4   | 5.2   | 5.4   | 4.9   | 5.2    | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2   | 0.3   | 0.3   | 0.3   | 0.4   | 0.4    | 0.3
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.6   | 2.1   | 2.1   | 2.3   | 2.4   | 2.5    | 2.7
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 6.9   | 6.2   | 5.8   | 5.0   | 3.8   | 2.7    | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.0   | 1.5   | 1.2   | 1.2   | 2.0   | 1.9    | 1.8
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 19.3  | 20.4  | 24.4  | 24.7  | 20.4  | 21.4   | 16.5
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 17.5  | 18.4  | 21.6  | 23.3  | 21.4  | 21.2   | ---
+marcojuarezi_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 91    | 90    | 89    | 94    | 105   | 99     | ---
+mariamanuela_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+mariamanuela_datos_analiticos.psv ->> ID..........................: 10
+mariamanuela_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+mariamanuela_datos_analiticos.psv ->> SERIE.......................: FALTA!
+mariamanuela_datos_analiticos.psv ->> UBICACION...................: FALTA!
+mariamanuela_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+mariamanuela_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+mariamanuela_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+mariamanuela_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+mariamanuela_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+mariamanuela_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+mariamanuela_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+mariamanuela_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+mariamanuela_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+mariamanuela_datos_analiticos.psv ->> COLOR.......................: FALTA!
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | BE    | Bt1   | Bt2   | BC     | C       | Ck
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14  | 14-24 | 24-65 | 65-90 | 90-120 | 120-175 | 175-200
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.24  | 2.53  | 0.91  | 0.43  | 0.29   | 0.17    | 0.14
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.88  | 1.47  | 0.53  | 0.25  | 0.17   | 0.10    | 0.08
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.163 | 0.132 | 0.070 | 0.060 | ---    | ---     | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 12    | 11    | 8     | 4     | ---    | ---     | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 24.2  | 25.6  | 34.7  | 31.4  | 24.4   | 19.7    | 18.1
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 64.9  | 64.2  | 59.2  | 59.4  | 62.5   | 68.0    | 67.5
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 10.9  | 10.2  | 6.1   | 9.2   | 13.1   | 12.3    | 13.1
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0  | 100.0   | 98.7
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: -     | -     | -     | -     | -      | -       | -
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -      | -       | -
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 10.1  | 9.4   | 5.5   | 8.8   | 12.3   | 11.0    | 11.8
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.8   | 0.8   | 0.6   | 0.4   | 0.8    | 1.3     | 1.3
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 1.3
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 29.4  | 30.7  | 32.0  | 30.9  | 28.1   | 25.0    | 25.3
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---    | ---     | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---    | ---     | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.1   | 6.2   | 6.4   | 6.5   | 6.7    | 7.0     | 8.0
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.7   | 6.6   | 7.1   | 7.2   | 7.2    | 7.1     | 8.4
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---    | ---     | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 9.7   | 10.3  | 12.4  | 13.2  | 13.3   | 12.6    | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 4.0   | 5.1   | 5.2   | 6.5   | 6.0    | 4.8     | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2   | 0.2   | 0.3   | 0.3   | 0.5    | 0.5     | 1.3
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.5   | 2.4   | 2.7   | 2.7   | 2.8    | 2.8     | 3.0
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 7.0   | 6.5   | 6.1   | 4.9   | 3.6    | 2.5     | 0.5
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.1   | 1.0   | 1.4   | 1.3   | 2.2    | 2.5     | 9.2
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 18.2  | 19.3  | 22.0  | 23.7  | 22.3   | 19.7    | 14.1
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16.4  | 18.0  | 20.6  | 22.7  | 22.6   | 20.7    | ---
+mariamanuela_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 90    | 93    | 94    | 96    | 101    | 105     | ---
+mariateresa_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+mariateresa_datos_analiticos.psv ->> ID..........................: 10
+mariateresa_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+mariateresa_datos_analiticos.psv ->> SERIE.......................: FALTA!
+mariateresa_datos_analiticos.psv ->> UBICACION...................: FALTA!
+mariateresa_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+mariateresa_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+mariateresa_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+mariateresa_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+mariateresa_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+mariateresa_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+mariateresa_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+mariateresa_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+mariateresa_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+mariateresa_datos_analiticos.psv ->> COLOR.......................: FALTA!
+mariateresa_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | B     | B     | BC    | C
+mariateresa_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 5-15  | 25-30 | 35-55 | 65-75 | 100-120
+mariateresa_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.62  | 1.07  | 0.86  | 0.62  | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.94  | 0.62  | 0.50  | 0.36  | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.104 | 0.080 | 0.068 | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 9     | 8     | 7     | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15.9  | 17.6  | 18.4  | 15.6  | 13.4
+mariateresa_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 19.4  | 18.9  | 16.6  | 14.4  | 16.1
+mariateresa_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 64.7  | 63.5  | 65.0  | 69.0  | 70.5
+mariateresa_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 99.0  | 100.0
+mariateresa_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -
+mariateresa_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 60.8  | 58.7  | 62.4  | 64.3  | 66.2
+mariateresa_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 3.9   | 4.8   | 2.6   | 4.7   | 4.3
+mariateresa_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 12.0  | 12.0  | 12.9  | 10.3  | 9.3
+mariateresa_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.3   | 6.4   | 6.7   | 7.0   | 7.1
+mariateresa_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.9   | 6.9   | 7.0   | 7.3   | 7.3
+mariateresa_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 5.7   | 7.1   | 6.3   | 7.1   | 6.4
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.3   | 2.2   | 4.2   | 2.0   | 3.5
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.1   | 0.2   | 0.3   | 0.2   | 0.2
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.3   | 2.3   | 2.3   | 2.1   | 1.4
+mariateresa_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 5.1   | 4.4   | 4.2   | 3.4   | 2.8
+mariateresa_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 0.7   | 1.6   | 2.4   | 2.2   | 1.9
+mariateresa_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 14.8  | 12.4  | 12.4  | 11.1  | 10.5
+mariateresa_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11.4  | 11.8  | 13.1  | 11.4  | 11.5
+mariateresa_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 77    | 95    | 106   | 103   | 110
+namuncura_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+namuncura_datos_analiticos.psv ->> ID..........................: 10
+namuncura_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+namuncura_datos_analiticos.psv ->> SERIE.......................: FALTA!
+namuncura_datos_analiticos.psv ->> UBICACION...................: FALTA!
+namuncura_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+namuncura_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+namuncura_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+namuncura_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+namuncura_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+namuncura_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+namuncura_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+namuncura_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+namuncura_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+namuncura_datos_analiticos.psv ->> COLOR.......................: FALTA!
+namuncura_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: Ap    | BE    | Bt1   | Bt2    | BCm
+namuncura_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20  | 20-26 | 26-75 | 75-110 | +110
+namuncura_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.28  | 1.55  | 0.69  | 0.34   | 0.14
+namuncura_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.90  | 0.90  | 0.40  | 0.20   | 0.08
+namuncura_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): ---   | ---   | ---   | ---    | ---
+namuncura_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: ---   | ---   | ---   | ---    | ---
+namuncura_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 28.1  | 29.9  | 34.5  | 40.0   | 29.7
+namuncura_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 62.9  | 61.6  | 58.2  | 51.4   | 60.2
+namuncura_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 9.0   | 8.5   | 7.3   | 8.6    | 10.1
+namuncura_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0  | 100.0
+namuncura_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---    | ---
+namuncura_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -      | -
+namuncura_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 8.3   | 7.7   | 7.0   | 7.8    | 9.2
+namuncura_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.7   | 0.8   | 0.3   | 0.8    | 0.9
+namuncura_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+namuncura_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+namuncura_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+namuncura_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.00  | 0.00  | 0.00  | 0.00   | 0.00
+namuncura_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 33.4  | 31.6  | 34.1  | 33.5   | 29.8
+namuncura_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---    | ---
+namuncura_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---    | ---
+namuncura_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.6   | 5.8   | 6.5   | 6.2    | 6.5
+namuncura_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3   | 6.7   | 7.2   | 7.2    | 7.3
+namuncura_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---    | ---
+namuncura_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.4  | 10.5  | 16.5  | 16.3   | 15.6
+namuncura_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.1   | 3.8   | 5.9   | 4.9    | 5.3
+namuncura_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2   | 0.3   | 0.3   | 0.2    | 0.4
+namuncura_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.1   | 2.1   | 3.0   | 2.7    | 3.0
+namuncura_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 9.5   | 8.2   | 5.6   | 6.4    | 4.3
+namuncura_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.0   | 1.5   | 1.1   | 0.8    | 1.6
+namuncura_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 21.0  | 20.2  | 27.0  | 26.4   | 25.3
+namuncura_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 15.8  | 16.7  | 25.7  | 24.1   | 24.3
+namuncura_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 75    | 83    | 95    | 91     | 96
+orono_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+orono_datos_analiticos.psv ->> ID..........................: 10
+orono_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+orono_datos_analiticos.psv ->> SERIE.......................: FALTA!
+orono_datos_analiticos.psv ->> UBICACION...................: FALTA!
+orono_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+orono_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+orono_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+orono_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+orono_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+orono_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+orono_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+orono_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+orono_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+orono_datos_analiticos.psv ->> COLOR.......................: FALTA!
+orono_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A1    | A2    | B21t  | B22t  | B23t   | B3      | C
+orono_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  | 18-26 | 26-55 | 55-82 | 82-116 | 116-156 | 156-190
+orono_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.93  | 1.60  | 1.10  | 0.72  | 0.48   | 0.33    | 0.33
+orono_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.70  | 0.93  | 0.64  | 0.42  | 0.28   | 0.19    | 0.19
+orono_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.145 | 0.069 | 0.067 | 0.051 | 0.04   | 0.03    | 0.02
+orono_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 12    | 13    | 10    | 8     | 8      | 7       | 9
+orono_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 26.8  | 25.4  | 53.1  | 52.5  | 35.8   | 28.8    | 23.3
+orono_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 69.5  | 71.8  | 44.7  | 45.3  | 61.2   | 66.2    | 70.0
+orono_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 3.7   | 3.8   | 2.2   | 2.2   | 3.0    | 5.0     | 6.7
+orono_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 101.0 | 100.0 | 100.0 | 100.0  | 100.0   | 100.0
+orono_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: 38.1  | 37.7  | 26.2  | 27.8  | 39.6   | 40.3    | 42.2
+orono_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -      | -       | -
+orono_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 2.9   | 3.1   | 1.8   | 1.9   | 2.5    | 4.0     | 5.1
+orono_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.8   | 0.7   | 0.4   | 0.3   | 0.5    | 1.0     | 1.6
+orono_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+orono_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+orono_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+orono_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): ---   | ---   | ---   | ---   | ---    | ---     | 0.1
+orono_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ---   | ---   | ---   | ---   | ---    | ---     | ---
+orono_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---    | ---     | ---
+orono_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---    | ---     | ---
+orono_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.2   | 6.2   | 6.8   | 6.9   | 7.7    | 7.9     | 8.4
+orono_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3   | 6.3   | 6.9   | 7.4   | 7.9    | 8.1     | 8.6
+orono_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: 5.2   | 5.0   | 5.3   | 5.6   | 6.4    | 6.4     | 6.7
+orono_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.0  | 8.1   | 17.2  | 18.0  | 18.3   | 16.4    | 14.1
+orono_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.8   | 0.4   | 5.0   | 5.3   | 3.8    | 3.5     | 4.3
+orono_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4   | 1.4   | 3.1   | 4.5   | 3.7    | 3.1     | 3.1
+orono_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.4   | 0.8   | 1.9   | 2.2   | 2.3    | 2.3     | 2.1
+orono_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 3.2   | 2.1   | 1.1   | 1.1   | 1.1    | 0.0     | 0.0
+orono_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.6   | 11.9  | 11.4  | 15.8  | 13.5   | 13.7    | 14.1
+orono_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 15.1  | 11.8  | 27.1  | 28.4  | 27.5   | 22.7    | 22.0
+orono_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12.6  | 10.7  | 27.2  | 30.0  | 28.1   | 25.3    | 23.6
+orono_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 83    | 91    | 100   | 106   | 102    | 111     | 107
+roldan_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+roldan_datos_analiticos.psv ->> ID..........................: 10
+roldan_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+roldan_datos_analiticos.psv ->> SERIE.......................: FALTA!
+roldan_datos_analiticos.psv ->> UBICACION...................: FALTA!
+roldan_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+roldan_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+roldan_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+roldan_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+roldan_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+roldan_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+roldan_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+roldan_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+roldan_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+roldan_datos_analiticos.psv ->> COLOR.......................: FALTA!
+roldan_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A1    | A2    | BA    | Bt1   | Bt2     | BC      | C
+roldan_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 3-12  | 18-25 | 30-38 | 45-80 | 100-130 | 150-175 | 190-210
+roldan_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.28  | 1.95  | 1.38  | 0.88  | 0.33    | 0.21    | 0.16
+roldan_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.90  | 1.13  | 0.80  | 0.51  | 0.19    | 0.12    | 0.09
+roldan_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.223 | 0.122 | 0.087 | 0.073 | 0.04    | 0.03    | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 9     | 9     | 9     | 7     | 4       | 4       | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 23.7  | 26.3  | 28.6  | 50.7  | 33.1    | 19.8    | 18.4
+roldan_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 74.1  | 71.3  | 68.4  | 47.1  | 63.6    | 76.9    | 77.6
+roldan_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 2.2   | 2.4   | 3.0   | 2.2   | 3.3     | 3.3     | 4.0
+roldan_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0   | 100.0   | 100.0
+roldan_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -       | -       | -
+roldan_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 1.8   | 2.1   | 2.7   | 1.9   | 3.0     | 2.5     | 3.4
+roldan_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.4   | 0.3   | 0.3   | 0.3   | 0.3     | 0.8     | 0.6
+roldan_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 27.9  | 26.9  | 26.8  | 41.6  | 31.6    | 28.7    | 27.0
+roldan_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.4   | 6.0   | 5.9   | 6.0   | 6.1     | 6.3     | 7.4
+roldan_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.9   | 6.5   | 6.5   | 6.7   | 6.9     | 7.1     | 8.1
+roldan_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13.4  | 11.5  | 10.4  | 17.0  | 15.3    | 15.3    | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.5   | 2.3   | 3.5   | 7.9   | 6.6     | 5.9     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3   | 0.2   | 0.2   | 0.2   | 0.2     | 0.4     | 0.5
+roldan_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.9   | 3.0   | 2.7   | 4.3   | 2.8     | 2.5     | 2.4
+roldan_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: ---   | ---   | ---   | ---   | ---     | ---     | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.4   | 1.0   | 1.1   | 0.6   | 0.8     | 1.6     | 2.2
+roldan_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 21.9  | 19.2  | 18.6  | 32.2  | 26.4    | 25.0    | 22.9
+roldan_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 19.1  | 17.0  | 16.8  | 29.4  | 24.9    | 24.1    | ---
+roldan_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 87    | 89    | 90    | 91    | 94      | 96      | ---
+rosales_descripcion_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+rosales_descripcion_datos_analiticos.psv ->> ID..........................: 10
+rosales_descripcion_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> SERIE.......................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> UBICACION...................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+rosales_descripcion_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> COLOR.......................: FALTA!
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | E     | Bt    | BC    | C
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23  | 23-34 | 34-52 | 52-75 | 75
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.41  | 0.69  | 0.52  | 0.19  | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.40  | 0.40  | 0.30  | 0.11  | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.170 | 0.060 | 0.050 | ---   | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 8     | 7     | 6     | ---   | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 11.7  | 6.2   | 18.9  | 11.5  | 9.2
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 30.7  | 28.5  | 23.6  | 22.6  | 22.7
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 55.7  | 64.3  | 56.0  | 64.5  | 66.6
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 98.1  | 99.0  | 98.5  | 98.6  | 98.5
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 39.3  | 50.7  | 38.6  | 51.5  | 51.6
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 16.3  | 13.6  | 17.4  | 12.9  | 14.9
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1   | 0.0   | 0.0   | 0.1   | 0.1
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.1   | 0.0   | 0.0   | 0.1   | 0.1
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.00  | 0.00  | 0.00  | 0.00  | 0.00
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 18.5  | 13.3  | 22.6  | 19.6  | 14.7
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.7   | 7.1   | 7.2   | 7.4   | 7.4
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.8   | 7.2   | 7.5   | 7.7   | 7.9
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 5.7   | 3.3   | 7.4   | 5.9   | 3.2
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.2   | 2.2   | 1.3   | 1.7   | 0.7
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2   | 0.7   | 2.4   | 2.3   | 3.8
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 0.9   | 1.5   | 0.7   | 1.5   | 1.5
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 3.1   | 0.8   | ---   | ---   | ---
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 1.8   | 8.1   | 20.3  | 22.1  | 41.3
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 11.3  | 8.6   | 11.8  | 10.4  | 9.2
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8.0   | 7.7   | 11.8  | 11.4  | 9.2
+rosales_descripcion_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 71    | 90    | 100   | 110   | 100
+sanctispiritu_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+sanctispiritu_datos_analiticos.psv ->> ID..........................: 10
+sanctispiritu_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+sanctispiritu_datos_analiticos.psv ->> SERIE.......................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> UBICACION...................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+sanctispiritu_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+sanctispiritu_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+sanctispiritu_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+sanctispiritu_datos_analiticos.psv ->> COLOR.......................: FALTA!
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | E     | Bt    | BC    | C
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 5-10  | 20-25 | 35-55 | 70-80 | 95-110
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.76  | 0.43  | 0.53  | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.02  | 0.25  | 0.31  | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.107 | ---   | 0.053 | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10    | ---   | 6     | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15.3  | 9.8   | 34.8  | 19.6  | 17.7
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 29.5  | 29.3  | 19.2  | 23.2  | 20.6
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 55.2  | 60.9  | 46.0  | 57.2  | 61.7
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 52.0  | 58.6  | 44.0  | 52.9  | 57.4
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 3.1   | 2.2   | 1.9   | 4.2   | 4.2
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1   | 0.1   | 0.1   | 0.1   | 0.1
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: ---   | ---   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: ---   | ---   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.00  | 0.00  | vest. | vest. | vest.
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 15.6  | 12.0  | 29.8  | 17.0  | 17.1
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.4   | 6.6   | 7.5   | 7.6   | 8.1
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.0   | 7.1   | 8.1   | 8.4   | 8.9
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 5.6   | 4.7   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.8   | 1.6   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4   | 0.3   | 0.5   | 0.7   | 2.0
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.2   | 2.0   | 3.1   | 3.1   | 3.1
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 4.1   | 2.0   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.7   | 3.9   | 2.2   | 4.3   | 13.6
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 10.7  | 7.7   | 22.5  | 16.3  | 14.7
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11.0  | 8.6   | ---   | ---   | ---
+sanctispiritu_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 103   | 112   | ---   | ---   | ---
+sanfabian_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+sanfabian_datos_analiticos.psv ->> ID..........................: 10
+sanfabian_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+sanfabian_datos_analiticos.psv ->> SERIE.......................: FALTA!
+sanfabian_datos_analiticos.psv ->> UBICACION...................: FALTA!
+sanfabian_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+sanfabian_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+sanfabian_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+sanfabian_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+sanfabian_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+sanfabian_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+sanfabian_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+sanfabian_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+sanfabian_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+sanfabian_datos_analiticos.psv ->> COLOR.......................: FALTA!
+sanfabian_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A1    | A2    | B21t  | B22t  | B23t   | B3      | C1      | C2CA
+sanfabian_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  | 18-25 | 25-54 | 54-84 | 84-120 | 120-160 | 160-210 | 210-230
+sanfabian_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.93  | 1.90  | 1.38  | 0.69  | 0.34   | 0.17    | 0.17    | 0.17
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.70  | 1.10  | 0.80  | 0.40  | 0.20   | 0.10    | 0.10    | 0.10
+sanfabian_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.146 | 0.095 | 0.088 | 0.053 | 0.036  | 0.027   | 0.019   | 0.018
+sanfabian_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 12    | 12    | 9     | 8     | 6      | 4       | 5       | 6
+sanfabian_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 23.9  | 25.1  | 55.0  | 46.6  | 30.6   | 33.1    | 20.3    | ---
+sanfabian_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 66.6  | 65.8  | 39.9  | 48.6  | 60.1   | 59.0    | 66.5    | ---
+sanfabian_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 9.5   | 9.1   | 5.1   | 4.8   | 9.3    | 6.9     | 13.2    | 13.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0  | 99.0    | 100.0   | ---
+sanfabian_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: 35.1  | 30.7  | 21.9  | 25.1  | 29.2   | 28.6    | 34.2    | ---
+sanfabian_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -      | -       | -       | -
+sanfabian_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 6.2   | 4.8   | 3.3   | 3.1   | 6.9    | 4.9     | 8.3     | 7.1
+sanfabian_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 2.8   | 3.8   | 1.5   | 1.4   | 2.1    | 1.7     | 4.3     | 4.9
+sanfabian_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.5   | 0.5   | 0.3   | 0.3   | 0.3    | 0.3     | 0.6     | 1.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 4.6
+sanfabian_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ---   | ---   | ---   | ---   | ---    | ---     | ---     | ---
+sanfabian_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---    | ---     | ---     | ---
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---    | ---     | ---     | ---
+sanfabian_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.3   | 6.3   | 6.7   | 6.7   | 7.1    | 7.1     | 7.3     | 8.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.5   | 6.5   | 6.8   | 7.0   | 7.3    | 7.3     | 7.5     | 8.2
+sanfabian_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: 5.5   | 5.3   | 5.4   | 5.7   | 5.5    | 5.1     | 5.7     | 7.4
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 9.7   | 9.7   | 18.0  | 16.8  | 13.7   | 12.2    | 12.8    | 17.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.1   | 2.1   | 7.5   | 7.1   | 5.5    | 5.3     | 4.6     | 5.2
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.6   | 0.7   | 1.4   | 1.3   | 1.2    | 1.2     | 1.1     | 1.9
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.3   | 0.9   | 1.8   | 1.7   | 1.6    | 1.5     | 1.4     | 1.4
+sanfabian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 2.0   | 3.0   | 2.1   | 2.1   | 2.1    | 2.1     | 1.0     | 0.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.8   | 4.3   | 4.6   | 4.6   | 5.1    | 5.1     | 5.0     | 7.6
+sanfabian_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 15.6  | 16.3  | 30.6  | 28.3  | 23.6   | 23.4    | 21.8    | 25.0
+sanfabian_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.7  | 13.4  | 28.7  | 26.9  | 22.0   | 20.2    | 19.9    | 25.5
+sanfabian_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 88    | 82    | 94    | 95    | 93     | 86      | 91      | 102
+sanguillermo_descripcion_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+sanguillermo_descripcion_datos_analiticos.psv ->> ID..........................: 10
+sanguillermo_descripcion_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> SERIE.......................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> UBICACION...................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+sanguillermo_descripcion_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> COLOR.......................: FALTA!
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | E     | Bt1   | Bt2    | BC      | C       | Ck
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  | 18-25 | 25-63 | 63-104 | 104-121 | 121-142 | 142-170
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.36  | 1.88  | 1.21  | 0.47   | 0.22    | 0.21    | 0.17
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.95  | 1.09  | 0.70  | 0.27   | 0.13    | 0.12    | 0.10
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.146 | 0.076 | 0.074 | 0.041  | 0.03    | 0.03    | 0.02
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 13    | 14    | 9     | 7      | 4       | 5       | 5
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 32.5  | 29.0  | 44.5  | 35.2   | 27.3    | 24.8    | 26.7
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 65.5  | 68.3  | 53.8  | 62.1   | 67.5    | 69.3    | 66.9
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 2.0   | 2.7   | 1.7   | 2.7    | 5.2     | 5.9     | 6.4
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0  | 100.0   | 100.0   | 100.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: 41.2  | 44.4  | 36.5  | 43.2   | 45.1    | 47.9    | 41.8
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -      | -       | -       | -
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 1.6   | 2.1   | 1.0   | 2.2    | 3.9     | 4.2     | 4.2
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.4   | 0.6   | 0.4   | 0.5    | 1.2     | 1.6     | 2.2
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.3   | 0.0    | 0.1     | 0.1     | 0.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 4.7
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ---   | ---   | ---   | ---    | ---     | ---     | ---
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: >1000 | >1000 | >1000 | >1000  | >1000   | >1000   | 1432
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---    | ---     | ---     | ---
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.9   | 6.2   | 6.5   | 7.3    | 7.3     | 7.5     | 8.7
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.1   | 6.4   | 6.9   | 7.7    | 7.7     | 7.8     | 9.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: 5.0   | 5.0   | 5.1   | 5.6    | 5.5     | 5.6     | 7.4
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13.5  | 11.3  | 18.1  | 15.9   | 15.4    | 16.3    | 10.5
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.3   | 2.3   | 5.5   | 5.7    | 4.7     | 3.9     | 5.4
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.7   | 0.9   | 1.2   | 1.9    | 2.3     | 2.4     | 4.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.7   | 1.2   | 2.8   | 2.9    | 2.8     | 2.7     | 3.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 4.3   | 2.6   | 2.7   | 0.9    | 0.9     | 0.9     | 0.0
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.1   | 5.2   | 4.0   | 7.2    | 9.0     | 9.2     | 18.3
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 22.9  | 17.2  | 30.2  | 26.5   | 25.5    | 26.0    | 21.9
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 19.2  | 15.7  | 27.6  | 26.4   | 25.2    | 25.3    | 22.9
+sanguillermo_descripcion_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 84    | 91    | 91    | 100    | 99      | 97      | 105
+sanjulian_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+sanjulian_datos_analiticos.psv ->> ID..........................: 10
+sanjulian_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+sanjulian_datos_analiticos.psv ->> SERIE.......................: FALTA!
+sanjulian_datos_analiticos.psv ->> UBICACION...................: FALTA!
+sanjulian_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+sanjulian_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+sanjulian_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+sanjulian_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+sanjulian_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+sanjulian_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+sanjulian_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+sanjulian_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+sanjulian_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+sanjulian_datos_analiticos.psv ->> COLOR.......................: FALTA!
+sanjulian_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | Btn   | BCn   | C      | Ck
+sanjulian_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20  | 20-43 | 43-69 | 69-131 | 131
+sanjulian_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.98  | 0.53  | 0.22  | 0.14   | 0.10
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.15  | 0.31  | 0.13  | 0.08   | 0.06
+sanjulian_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.134 | 0.058 | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 9     | 5     | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14.5  | 22.0  | 12.7  | 10.4   | 9.5
+sanjulian_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 31.7  | 26.4  | 26.7  | 26.9   | 25.3
+sanjulian_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 53.6  | 50.4  | 58.5  | 61.0   | 63.4
+sanjulian_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 99.8  | 98.8  | 97.9  | 98.3   | 98.2
+sanjulian_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -      | -
+sanjulian_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 38.9  | 36.8  | 40.8  | 43.9   | 39.8
+sanjulian_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 14.7  | 12.9  | 17.7  | 16.8   | 22.9
+sanjulian_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.1   | 0.0   | 0.1    | 0.1
+sanjulian_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.4   | 0.0   | 0.2    | 0.5
+sanjulian_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.2   | 0.0   | 0.0    | 0.1
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.00  | 0.37  | 1.67  | 0.29   | 0.49
+sanjulian_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 19.7  | 24.2  | 19.5  | 16.0   | 15.3
+sanjulian_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.5   | 8.5   | 9.4   | 9.8    | 10.0
+sanjulian_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.7   | 9.1   | 9.8   | 10.0   | 10.2
+sanjulian_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 7.3   | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.7   | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4   | 4.8   | 8.7   | 9.5    | 11.0
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.2   | 2.6   | 2.4   | 2.0    | 2.1
+sanjulian_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 0.7   | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.0   | 22.4  | 55.1  | 67.4   | 80.9
+sanjulian_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 13.5  | 21.4  | 15.8  | 14.1   | 13.6
+sanjulian_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12.6  | ---   | ---   | ---    | ---
+sanjulian_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 93    | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+santalucia_datos_analiticos.psv ->> ID..........................: 10
+santalucia_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+santalucia_datos_analiticos.psv ->> SERIE.......................: FALTA!
+santalucia_datos_analiticos.psv ->> UBICACION...................: FALTA!
+santalucia_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+santalucia_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+santalucia_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+santalucia_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+santalucia_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+santalucia_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+santalucia_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+santalucia_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+santalucia_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+santalucia_datos_analiticos.psv ->> COLOR.......................: FALTA!
+santalucia_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A1    | A2    | Bt    | Btk   | BC     | C
+santalucia_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14  | 14-28 | 28-60 | 60-95 | 95-135 | 135-160
+santalucia_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.02  | 2.24  | 0.69  | 0.29  | 0.19   | 0.16
+santalucia_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.75  | 1.30  | 0.40  | 0.17  | 0.11   | 0.09
+santalucia_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.183 | 0.135 | 0.071 | 0.042 | 0.03   | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10    | 10    | 6     | 4     | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 24.4  | 23.6  | 49.2  | 34.2  | 28.2   | 22.6
+santalucia_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 69.7  | 67.8  | 47.2  | 60.9  | 67.1   | 71.4
+santalucia_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 5.9   | 8.6   | 3.6   | 4.9   | 4.7    | 6.0
+santalucia_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0  | 100.0
+santalucia_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -      | -
+santalucia_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 5.1   | 7.6   | 3.4   | 4.7   | 4.4    | 5.6
+santalucia_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.8   | 1.0   | 0.2   | 0.2   | 0.3    | 0.4
+santalucia_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+santalucia_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+santalucia_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+santalucia_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.9   | 3.0   | 1.5    | 1.5
+santalucia_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 25.9  | 25.2  | 52.4  | 33.3  | 30.2   | 29.0
+santalucia_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.3   | 6.1   | 8.0   | 8.0   | 7.7    | 7.5
+santalucia_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.6   | 6.6   | 8.5   | 8.7   | 8.4    | 8.0
+santalucia_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 9.3   | 9.4   | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.2   | 3.2   | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.6   | 2.5   | 10.0  | 6.0   | 2.2    | 1.3
+santalucia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.3   | 1.4   | 3.4   | 3.2   | 2.7    | 2.4
+santalucia_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 4.4   | 2.8   | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.0   | 13.4  | 30.1  | 22.4  | 9.0    | 5.8
+santalucia_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 19.8  | 18.6  | 33.2  | 26.8  | 24.5   | 22.5
+santalucia_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 15.4  | 16.5  | ---   | ---   | ---    | ---
+santalucia_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 78    | 89    | ---   | ---   | ---    | ---
+villacanas_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+villacanas_datos_analiticos.psv ->> ID..........................: 10
+villacanas_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+villacanas_datos_analiticos.psv ->> SERIE.......................: FALTA!
+villacanas_datos_analiticos.psv ->> UBICACION...................: FALTA!
+villacanas_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+villacanas_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+villacanas_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+villacanas_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+villacanas_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+villacanas_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+villacanas_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+villacanas_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+villacanas_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+villacanas_datos_analiticos.psv ->> COLOR.......................: FALTA!
+villacanas_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: Ap    | A     | BA    | Bt1   | Bt2    | BC      | C
+villacanas_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21  | 21-36 | 36-49 | 49-70 | 70-100 | 100-160 | 160-185
+villacanas_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 4.97  | 3.45  | 2.07  | 1.40  | 0.76   | 0.52    | 0.19
+villacanas_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2.88  | 2.00  | 1.20  | 0.81  | 0.44   | 0.30    | 0.11
+villacanas_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.235 | 0.163 | 0.109 | 0.080 | 0.05   | ---     | ---
+villacanas_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 12    | 12    | 11    | 10    | 8      | ---     | ---
+villacanas_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 30.6  | 35.2  | 34.5  | 33.0  | 32.0   | 26.3    | 19.9
+villacanas_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 55.1  | 50.3  | 48.0  | 46.2  | 43.6   | 46.0    | 46.0
+villacanas_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 14.3  | 14.5  | 17.5  | 20.8  | 24.4   | 27.7    | 34.1
+villacanas_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0 | 100.0  | 100.0   | 100.0
+villacanas_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---   | ---    | ---     | ---
+villacanas_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -     | -      | -       | -
+villacanas_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 13.6  | 14.0  | 17.3  | 19.8  | 23.3   | 26.5    | 32.4
+villacanas_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.7   | 0.5   | 0.2   | 1.0   | 1.1    | 1.2     | 1.7
+villacanas_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+villacanas_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+villacanas_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+villacanas_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0
+villacanas_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 31.1  | 30.7  | 28.6  | 27.7  | 27.3   | 24.0    | 19.8
+villacanas_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---   | ---    | ---     | ---
+villacanas_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---   | ---    | ---     | ---
+villacanas_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.8   | 5.9   | 5.9   | 6.0   | 6.1    | 6.2     | 6.4
+villacanas_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.2   | 6.7   | 6.7   | 7.0   | 7.1    | 7.4     | 7.4
+villacanas_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---   | ---    | ---     | ---
+villacanas_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 13.7  | 14.6  | 13.4  | 8.4   | 8.4    | 6.4     | 6.1
+villacanas_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 4.8   | 4.7   | 4.7   | 4.0   | 4.0    | 5.9     | 4.5
+villacanas_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2   | 0.3   | 0.3   | 0.2   | 0.2    | 0.2     | 0.2
+villacanas_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.8   | 2.0   | 1.9   | 1.5   | 1.5    | 1.5     | 1.5
+villacanas_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 4.4   | 5.8   | 4.8   | 4.4   | 3.9    | 3.0     | 2.7
+villacanas_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 0.9   | 1.3   | 1.4   | 1.3   | 1.2    | 1.4     | 1.6
+villacanas_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 22.6  | 23.9  | 22.2  | 15.9  | 16.3   | 14.7    | 12.8
+villacanas_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 21.5  | 21.6  | 20.3  | 14.1  | 14.1   | 14.0    | 12.3
+villacanas_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 95    | 90    | 91    | 89    | 87     | 95      | 96
+villarosi_descripcion_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+villarosi_descripcion_datos_analiticos.psv ->> ID..........................: 10
+villarosi_descripcion_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> SERIE.......................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> UBICACION...................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+villarosi_descripcion_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> COLOR.......................: FALTA!
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: E     | Bt1   | Bt2   | BC     | C
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  | 18-35 | 35-66 | 66-103 | 103
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.38  | 0.41  | 0.29  | 0.21   | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.80  | 0.24  | 0.17  | 0.12   | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.090 | 0.060 | 0.040 | ---    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 9     | 4     | 4     | ---    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9.6   | 24.2  | 19.3  | 12.5   | 11.9
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 36.0  | 27.9  | 27.4  | 27.9   | 25.0
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 54.4  | 49.7  | 53.5  | 59.7   | 61.4
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 101.8 | 100.2 | 100.1  | 98.3
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: ---   | ---   | ---   | ---    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -      | -
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 32.2  | 35.0  | 30.9  | 41.7   | 41.4
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 21.4  | 14.2  | 22.1  | 17.4   | 19.1
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.4   | 0.3   | 0.3   | 0.3    | 0.4
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.4   | 0.2   | 0.2   | 0.3    | 0.5
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.00  | 1.00  | 0.60  | 0.00   | 0.30
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 14.7  | 25.8  | 20.7  | 16.6   | 16.3
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: ---   | ---   | ---   | ---    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.1   | 8.5   | 8.9   | 9.0    | 9.0
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3   | 9.1   | 9.4   | 9.4    | 9.4
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: ---   | ---   | ---   | ---    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 3.9   | ---   | ---   | 3.7    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.4   | ---   | ---   | 0.8    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.7   | 8.5   | 10.1  | 8.5    | 9.4
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.0   | 2.3   | 2.3   | 1.7    | 2.0
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 1.8   | ---   | ---   | ---    | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 7.0   | 51.5  | 66.0  | 57.8   | 72.3
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 10.0  | 16.5  | 15.3  | 14.7   | 13.0
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8.0   | ---   | ---   | 14.7   | ---
+villarosi_descripcion_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 80    | ---   | ---   | 100    | ---
+villatrinidad_descripcion_datos_analiticos.psv ->> --------------------------------------------------------------------------------------------------------------------------------------------------------------
+villatrinidad_descripcion_datos_analiticos.psv ->> ID..........................: 10
+villatrinidad_descripcion_datos_analiticos.psv ->> CLASIFICACION...............: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> SERIE.......................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> UBICACION...................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+villatrinidad_descripcion_datos_analiticos.psv ->> LATITUD.....................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> LONGITUD....................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> ALTITUD.....................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> DRENAJE.....................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> TIPO DE SUELO...............: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> COLOR.......................: FALTA!
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: A     | BA    | Bt1   | Bt2    | BC      | C       | Ck
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-27  | 27-37 | 37-82 | 82-116 | 116-147 | 147-210 | 210-240
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.28  | 1.45  | 0.53  | 0.29   | 0.28    | 0.33    | 0.17
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.90  | 0.84  | 0.31  | 0.17   | 0.16    | 0.19    | 0.10
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.148 | 0.080 | 0.056 | 0.040  | 0.03    | 0.04    | 0.02
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 13    | 11    | 6     | 4      | 5       | 5       | 4
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 34.7  | 42.5  | 46.5  | 45.0   | 34.5    | 35.6    | 18.9
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 63.1  | 55.3  | 51.5  | 53.1   | 62.0    | 61.3    | 63.3
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena >50µ.......: 2.2   | 2.2   | 2.0   | 1.9    | 3.5     | 3.1     | 17.8
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.0 | 100.0 | 100.0  | 100.0   | 100.0   | 100.0
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....: 41.8  | 35.2  | 32.5  | 34.7   | 41      | 39.2    | 40.6
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->Arena............: -     | -     | -     | -      | -       | -       | -
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 1.9   | 1.9   | 1.7   | 1.5    | 2.7     | 2.4     | 7.9
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 0.3   | 0.3   | 0.3   | 0.4    | 0.8     | 0.7     | 9.9
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 0.0
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0    | 0.0     | 0.0     | 3.7
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): ---   | ---   | ---   | ---    | ---     | ---     | ---
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....: 1780  | 2520  | 2500  | 2650   | 2710    | 2680    | 1120
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.: ---   | ---   | ---   | ---    | ---     | ---     | ---
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 6.0   | 6.1   | 6.7   | 7.0    | 6.9     | 7.0     | 8.4
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.2   | 6.2   | 6.8   | 7.2    | 7.2     | 7.2     | 8.5
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..: 5.0   | 4.8   | 5.1   | 5.4    | 5.4     | 5.4     | 7.2
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 12.5  | 13.5  | 16.5  | 18.6   | 17.4    | 19.2    | 20.9
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.9   | 4.0   | 5.3   | 5.4    | 5.4     | 2.8     | 3.6
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.5   | 0.5   | 0.7   | 0.6    | 0.6     | 0.6     | 1.2
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.0   | 1.7   | 1.6   | 2.5    | 2.5     | 2.3     | 2.4
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 3.4   | 3.4   | 2.6   | 2.7    | 1.8     | 1.8     | 0.0
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.4   | 2.2   | 2.6   | 2.1    | 2.2     | 2.3     | 4.5
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 21.0  | 23.1  | 26.6  | 28.4   | 26.9    | 26.3    | 26.7
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 17.9  | 19.7  | 24.1  | 27.1   | 25.9    | 24.9    | 28.1
+villatrinidad_descripcion_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 85    | 85    | 91    | 95     | 96      | 95      | 105

@@ -1,0 +1,286 @@
+
+--------------------------------------------------------------------------------
+SERIE CRESPO Símbolo: Crp
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos (Brunizems vertisólicos).
+Son suelos moderadamente bien drenados y leve a moderadamente erosionados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico, oscuro, arcillo-limoso con abundantes caras de fricción ("slickensides") no intersectadas y concreciones de calcáreo a 70-80 cm.
+
+Son suelos desarrollados en loess sobre materiales loessoides.
+
+
+Perfil tipo: ER7-88C
+Fecha: 1-VI-1990
+Ubicación: Colonia Isletas, (foto 438-80) - Dpto. Diamante.
+Reconocedores: H.A.A. Tasi; L.O. López.
+
+
+A1: 00-21 cm; gris muy oscuro (10YR 3/1) en húmedo; pardo oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, débiles; blando en seco; friable en húmedo; barnices "humic skins", abundantes, medios; moteados de hierro comunes, finos y precisos; límite claro, suave.
+
+B21t: 21-53 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco; friable en húmedo; barnices "humic skins" y "clay skins", abundantes, medios; caras de fricción ("slickensides") escasas, medias, no intersectadas; moteados de hierro comunes, medios y precisos; chorreaduras de materia orgánica por grietas; límite gradual, suave.
+
+B22t: 53-89 cm; pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques subangulares, angulares irregulares y cuneiformes, medios, moderados; duro en seco; friable en húmedo; barnices "clay skins", escasos y finos; caras de fricción ("slickensides") abundantes, gruesas y escasas, finas, intersectadas; moteados de hierro comunes, medios y precisos; inclusión de un 20 % de colores ocráceos (loess); límite gradual, suave.
+
+B3ca: 89-117 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subangulares, medios, moderados; friable en húmedo; barnices "clay skins", escasos y finos; caras de fricción ("slickensides") escasas, finas, no intersectadas; moteados de hierro comunes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; límite claro, suave.
+
+Cca: 117 + cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-limoso; masivo; moteados de hierro y manganeso, abundantes, medios y precisos; abundante cantidad de carbonatos libres en la masa y en forma de miscelios; concreciones calcáreas escasas.
+
+
+Variabilidad de rasgos
+
+El solum tiene una profundidad de 80-120 cm. El epipedón varía entre 09-24 cm y consta normalmente de un horizonte A1, aunque puede incluir un B1 o A3 cuando el horizonte superficial supera los 20 cm. Su estructura es buena y friable cuando no está afectada por la erosión y el continuo laboreo a una misma profundidad (ocurriendo, en este último caso, la formación de un "piso de arado"), constituida por agregados granulares y bloques subangulares débiles. Posee entre 27-34 % de arcilla (textura franco-limosa a franco-arcillo-limosa) y un contenido de 2-5 % de materia orgánica.
+
+El horizonte argílico tiene un espesor de 60-70 cm y un valor de arcilla que oscila entre 45-53 %. Tiene abundantes a comunes caras de fricción ("slickensides") poco intersectadas. Las características vérticas están mejor expresadas en el horizonte B22t (a partir de 65-70 cm de profundidad).
+
+El calcáreo en concreciones aparece en escasa cantidad a partir de los 60 cm (generalmente más profundo, 80-90 cm), pero en forma abundante como calcáreo libre y en "miscelios".
+
+
+Fases
+
+Severamente erosionada (símbolo: Crp.h3)
+Engrosada (símbolo: Crp. hx)
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie General Racedo del Dpto. Diamante, que es menos arcillosa y posee un horizonte argílico menos desarrollado y se ubica en un paisaje distinto; y a la Serie Tezanos Pinto, que es menos arcillosa en todo el perfil y está desarrollada sobre loess.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado a rápido. Permeabilidad lenta a muy lenta. Capa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Crespo manifiesta una erosión actual moderada (principalmente laminar) y, especialmente en las lomas más altas, tiene un epipedón de buen espesor (hasta 25 cm). Parte de estos suelos tiene entre 09-15 cm de epipedón, con una estructura degradada y más arcillosa que lo normal de la serie. En el Dpto. Diamante se describió una fase severamente erosionada, surcada por surcos y pequeñas cárcavas, el horizonte superficial no supera los 7 cm y el perfil se muestra decapitado en algunos sectores, particularmente en zonas de captación de cañadas y arroyos menores.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Crespo
+
+ER7-88C
+NE de registro
+ 5.441
+ 5.442
+ 5.443
+ 5.444
+ 5.445
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 08-19
+ 30-47
+ 60-80
+ 95-110
+ 127+
+Mat.organica (%)
+ 4.89
+ 1.46
+ 0.76
+ 0.45
+ 0.15
+N (%)
+ 0.21
+ 0.08
+ 0.05
+ 0.05
+ 0.02
+C/N
+ 14
+ 10
+ 8
+ 6
+ N.D.
+
+T < 2 u
+
+ 35.44
+
+ 53.23
+
+ 45.52
+
+ 62.82
+
+ 48.72
+E 2-20 u
+ 36.10
+ 22.82
+ 25.98
+ 31.79
+ 32.03
+X 20-50 u
+ 61.14
+ 44.16
+ 51.12
+ 34.35
+ 46.52
+T 50-100 u
+ 3.24
+ 2.52
+ 3.28
+ 2.73
+ 4.04
+U 100-500 u
+ 0.17
+ 0.09
+ 0.08
+ 0.10
+ 0.72
+R 500-1000 u
+ -
+ -
+ -
+ -
+ -
+A
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ 0.8
+
+ 7.7
+PH H2O
+ 6.1
+ 6.8
+ 7.3
+ 7.9
+ 8.3
+pH ClK
+ 5.2
+ 5.5
+ 5.8
+ 6.6
+ 7.1
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+
+ 38.40
+
+
+
+ 50.10
+
+
+
+ 49.20
+
+
+
+ -
+
+
+
+ -
+
+
+d
+
+Ca++
+
+ 25.20
+
+ 28.70
+
+ 29.10
+
+ -
+
+ -
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 10.90
+ 18.50
+ 18.20
+ -
+ -
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 0.23
+ 0.61
+ 0.65
+ 0.61
+ 0.54
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 0.25
+ 0.51
+ 0.25
+ 0.38
+ 0.25
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ 1.30
+ 0.90
+ 0.90
+ -
+ -
+
+Equivalente de humedad (%)
+
+ 33.60
+
+ 48.22
+
+ 39.61
+
+ 37.44
+
+ 33.18
+

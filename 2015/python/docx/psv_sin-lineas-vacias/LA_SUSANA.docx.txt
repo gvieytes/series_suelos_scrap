@@ -1,0 +1,195 @@
+--------------------------------------------------------------------------------
+SERIE LA SUSANA Símbolo: LSu
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos crómicos.
+Suelos moderadamente bien drenados con un epipedón franco-arcillo-limoso bien estructurado debido al "self-mulching".
+No presenta microrelieve gilgai visible en el terreno, pero sí muy tenue en las fotografías aéreas. Está moderadamente erosionada. Las concreciones calcáreas aparecen entre 55-60 cm de profundidad.
+Perfil tipo: ER6-30C
+Fecha: 2-XII-86
+Ubicación: 500 m sudoeste del casco de la Ea. La Susana (foto IR431-33) - dto. Algarrobitos - Dpto. Nogoyá.
+Reconocedores: D.J. Bedendo. L.O. López.
+Ap: 00-15 cm; gris muy oscuro (10YR 3/1) en húmedo; pardo grisáceo oscuro (10YR 4/2) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices ("humic skins") escasos; límite claro, suave.
+B21t: 15-34 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; firme en húmedo; barnices ("clay skins") comunes a abundantes; caras de fricción ("slickensides") comunes e intersectadas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+B22t: 34-54 cm; negro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, débiles; firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes, medias y muy intercectadas; concreciones de ferromanganesíferas escasas, finas; moteados de hierro-manganeso, comunes, finos y precisos; límite gradual, ondulado.
+B3ca: 54-98 cm; pardo a pardo oscuro (7.5YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados que rompen en bloques angulares irregulares, gruesos, moderados; firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") abundantes, gruesas e intersectadas; concreciones ferromanganesíferas comunes; comunes carbonatos libres en la masa; concreciones calcáreas comunes a abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+C: 98 cm +; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; masivo ; friable en húmedo; caras de fricción ("slickensides") escasas, inherentes al material; escasos carbonatos libres en la masa; concreciones calcáreas comunes; moteados de hierro-manganeso comunes, medios y precisos.
+Variabilidad de rasgos
+La variabilidad está determinada por dos procesos, uno la erosión hídrica existente y el otro por la formación incipiente del gilgai, que aunque no se manifieste como un microrelieve visible en el terreno, si es en la fotografía aérea. En el bajo del gilgai el solum tiene entre 90-120 cm.
+El epipedón varía de 15 a 20 cm de espesor y generalmente está bien estructurado por efecto del "self-mulching".
+El calcáreo en concreciones pequeñas, aparece entre los 55-60 cm, generalmente en el horizonte B3 o parte inferior del horizonte B22.
+Fases
+Severamente erosionada (símbolo: LSu.h3)
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio a rápido. Permeabilidad moderadamente lenta a lenta. Capa freática profunda (70 m). Grupo hidrológico D.
+Erosión
+Serie La Susana muestra una erosión actual laminar moderada, a veces en pequeños surcos. El suelo tiene gran peligro de erosión en surcos y cárcavas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Susana
+ER6-30C
+N° de registro
+ 4861
+ 4862
+ 4863
+ 4864
+ 4865
+Horizonte
+ Ap
+ B21t
+ B22t
+ B3ca
+ B3tca
+Profundidad (cm
+ 03-11
+ 20-30
+ 40-50
+ 75-85
+ 100-110
+Mat.organica (%)
+ 4.81
+ 2.85
+ 1.05
+ 0.97
+ 0.30
+N (%)
+ 0.208
+ 0.131
+ 0.055
+ 0.052
+ 0.017
+C/N
+ 13.5
+ 12.7
+ 11.1
+ 11.0
+ 10.0
+T <2 u
+ 30.25
+ 38.86
+ 44.18
+ 44.11
+ 43.18
+E 2-20 u
+ 28.17
+ 25.60
+ 24.06
+ 23.18
+ 24.00
+X 2-50 u
+ 67.92
+ 55.68
+ 54.12
+ 54.56
+ 55.57
+T 50-100 u
+ 0.24
+ 0.28
+ 0.52
+ 0.35
+ 0.32
+U 100-500 u
+ 1.57
+ 1.17
+ 1.16
+ 0.96
+ 0.91
+R 500-1000 u
+ 0.02
+ 0.01
+ 0.02
+ 0.02
+ 0.02
+A 1000-2000 u
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+CO3Ca (%)
+ -
+ -
+ -
+ 4.65
+ 2.71
+pH H2O
+ 6.6
+ 6.5
+ 7.0
+ 7.9
+ 7.8
+pH ClK
+ 5.9
+ 5.9
+ 6.0
+ 6.9
+ 6.8
+C.E. (mmhos/cm)
+ 0.224
+ 0.293
+ 0.290
+ 0.243
+ 0.241
+Capacidad de intercambio catiónico (m.e./100 g) =
+valor T
+ 31.12
+ 38.42
+ 46.28
+ 46.93
+ 44.10
+d
+Ca++
+ 25.75
+ 30.69
+ 37.64
+ -
+ -
+C
+e
+a
+Mg++
+ 2.90
+ 3.04
+ 3.86
+ -
+ -
+t
+c
+i
+a
+K+
+ 1.16
+ 1.40
+ 1.72
+ 1.60
+ 1.77
+o
+m
+n
+b
+Na+
+ 1.23
+ 1.33
+ 2.07
+ 2.63
+ 2.80
+e
+i
+s
+o
+H+
+% Na/T
+ 3.95
+ 3.46
+ 4.47
+ 5.60
+ 6.35
+Equivalente de humedad (%)
+ 33.43
+ 40.93
+ 46.59
+ 43.94
+ 42.19
+P asimilable (ppm)
+ 10.35
+ 8.71
+ 5.46
+ 4.93
+ 3.71

@@ -1,0 +1,217 @@
+--------------------------------------------------------------------------------
+SERIE LOS RODEOS Símbolo: LRo
+Pertenece a la familia "fina, mixta, térmica" de los Natracuoles típicos.
+Suelo no salino pero sódico. Se ha desarrollado sobre redepósitos de sedimentos loéssicos.
+Perfil tipo: 337C INTA Castelar
+Fecha: 04-IV-1976
+Ubicación: 10 km al SE de Gualeguay. (Hoja IGM 3360-23-3)
+Reconocedores: L.A. Gómez.; V. Nakama
+A1: 0-13 cm; negro pardusco (10YR 3/2) en húmedo; franco arcilloso; estructura en bloques subangulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; moteados abundantes, finos, débiles; raíces abundantes; límite inferior claro, suave.
+IIB21t: 13-58 cm; negro (10YR 1,7/1) en húmedo; arcilloso; estructura en prismas irregulares medios moderados que rompen en bloques subangulares menores; firme; plástico, adhesivo; concreciones calcáreas escasas; microconcreciones calcáreas comunes; barnices (clay-skins) comunes; moteados comunes, finos, débiles; raíces comunes; límite inferior claro suave.
+IIIB22t: 58-92 cm; negro pardusco (10YR 3/2) en húmedo; arcilloso; estructura en bloques subangulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; concreciones calcáreas comunes; microconcreciones calcáreas abundantes; concreciones ferromanganésicas escasas; barnices (clay-skins) comunes; moteados comunes, finos, débiles; raíces escasas; límite inferior claro suave.
+IIIB23t: 92-114 cm; pardo oscuro (10YR 3/3) en húmedo; arcilloso; estructura en bloques subangulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; concreciones calcáreas escasas; microconcreciones calcáreas abundantes; moteados comunes, finos, débiles; barnices (clay skins) escasos; límite inferior claro suave.
+IVB3: 114-140 cm; pardo (7,5YR 4/4) en húmedo; arcillo limoso; estructura en bloques subangulares medios y débiles que rompen en bloques menores; firme; ligeramente plástico, ligeramente adhesivo; concreciones calcáreas comunes; moteados comunes, finos, débiles.
+Variabilidad de rasgos
+El horizonte superficial es de 13 cm de espesor, de color negro pardusco; bien provisto en materia orgánica, franco arcilloso, de estructura en bloques subangulares, medios moderados. Siguen horizontes de textura arcillosa (IIB21t, IIIB22t y IIIB23t) con barnices (clay-skins) comunes y pequeñas grietas. A los 114 cm se describe un horizonte de textura arcillo limosa (IVB3). Desde el IIIB21t se observan concreciones y microconcreciones calcáreas y concreciones ferromanganésicas, mientras que los moteados se encuentran desde la superficie.
+El perfil tiene más de 15 % de sodio desde los 13 cm con un máximo de 25 % en el IIB21t clasificándose como A1 32.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Este suelo es de permeabilidad muy lenta y de drenaje pobre. Frecuente anegamiento por precipitaciones.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Los Rodeos
+337C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ IIB21t
+ IIB22t
+ IIIB23t
+ IVB3
+Profundidad (cm)
+ 5-12
+ 20-40
+ 65-85
+ 98-112
+ 120-140
+Mat.organica (%)
+ 4.64
+ 0.59
+ -
+ -
+ -
+C (%)
+ 2.69
+ 0.34
+ -
+ -
+ -
+N (%)
+ 0.247
+ 0.048
+ -
+ -
+ -
+C/N
+ 11
+ 7
+ -
+ -
+ -
+T <2 u
+ 32.4
+ 47.8
+ 49.0
+ 55.0
+ 40.9
+E 2-20 u
+ 22.7
+ 23.1
+ 17.8
+ 16.4
+ 20.8
+X 2-50 u
+ 46.6
+ 39.1
+ 37.3
+ 36.0
+ 41.6
+T 50-74 u
+ 7.3
+ 6.4
+ 6.2
+ 4.2
+ 9.6
+U 74-100 u
+ 4.9
+ 2.4
+ 2.5
+ 2.2
+ 3.6
+R 100-250 u
+ 6.5
+ 3.3
+ 3.4
+ 2.2
+ 3.3
+A 250-500 u
+ 2.3
+ 0.6
+ 1.3
+ 0.4
+ 1.0
+ 500-1000 u
+ -
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0.4
+ 0.3
+ vest.
+ vest.
+Equivalente de humedad (%)
+ 32.1
+ 55.4
+ 60.1
+ 61.5
+ 33.2
+Resistencia de la pasta (Ohms/cm)
+ 2274
+ 1563
+ 2711
+ 1807
+ 2259
+pH en pasta
+ 5.1
+ 7.7
+ 7.7
+ 7.6
+ 7.6
+PH H2O
+ 6.5
+ 9.2
+ 9.0
+ 9.0
+ 8.9
+pH ClK
+ 4.8
+ 6.6
+ 6.8
+ 6.5
+ 6.3
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+Cationes de cambio (m.e./100 g)
+Ca++
+ 9.0
+ -
+ -
+ -
+ -
+Mg++
+ 4.8
+ -
+ -
+ -
+ -
+Na+
+ 0.7
+ 6.6
+ 7.2
+ 6.8
+ 4.5
+K+
+ 0.6
+ 1.1
+ 1.3
+ 1.5
+ 1.2
+H+
+ 11.6
+ -
+ -
+ -
+ -
+% Na/T
+ 3
+ 25
+ 24
+ 19
+ 18
+Suma de bases, m.e./100 gr (S)
+ 15.1
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 22.8
+ 26.4
+ 30.5
+ 35.6
+ 25.0
+Saturación con bases, (%) (S/T)
+ 66
+ -
+ -
+ -
+ -
+Observaciones: Tosca Ca %
+ -
+ 0.6
+ 1.2
+ 1.6
+ -

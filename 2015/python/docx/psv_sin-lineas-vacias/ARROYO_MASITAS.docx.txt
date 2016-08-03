@@ -1,0 +1,242 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO MASITAS Símbolo: AMst
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos con epipedón oscuro, moderadamente bien drenados y presencia de arena en las caras de los agregados.
+El horizonte argílico, de textura arcillosa a franco arcillo limosa, tiene abundantes caras de fricción.
+El calcáreo es muy abundante a partir del horizonte B3.
+Son suelos desarrollados en materiales loessoides franco-arcillo-limosos.
+Perfil tipo: ER1-141C
+Fecha: 3-XI-2002
+Ubicación: Ea. Las Masitas, 10 Km al sudoeste de Gilbert. Dto. San Antonio, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A11: 00-15 cm; gris muy oscuro (10YR 3/1) en húmedo; franco; estructura granular y en bloques subangulares finos, débiles; blando en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y precisos; presencia de arena fina en las caras de los agregados; límite claro, suave.
+A12: 15-30 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco; estructura granular y en bloques subangulares, finos, débiles; blando en seco, friable en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso escasos, finos y precisos; presencia de arena fina en las caras de los agregados; límite abrupto, suave.
+B21t: 30-57 cm; gris muy oscuro (10YR 3,5/1) en húmedo; arcillosa; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques cuneiformes medios, moderados; duro en seco, firme en úmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") abundantes, medias; moteados de hierro-manganeso comunes, finos y precisos; presencia de arena fina en las caras de los agregados; límite claro, ondulado.
+B22t: 57-75 cm; pardo grisáceo oscuro (10YR4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, medias; concreciones calcáreas escasas, finas; moteados de hierro-manganeso comunes, medios y sobresalientes; límite claro, ondulado.
+B3ca: 75-100 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, medias; concreciones calcáreas comunes a abundantes, finas; comunes a abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y sobresalientes; límite gradual, ondulado.
+Cca: 100 cm +; pardo a pardo oscuro (7,5YR 4/4) en húmedo; franco-arcillosa; masivo; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") escasos a comunes; concreciones calcáreas comunes de hasta 1 cm; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El solum varía de 100-110 cm. El epipedón mólico tiene un espesor de 30-35 cm e incluye horizontes A11 y A12, a veces localmente también un A3; es de color pardo muy oscuro y está muy bien estructurado. El horizonte argílico, de estructura prismática y de color pardo grisáceo a pardo oscuro, tiene un espesor de 40-45 cm y posee entre 38-41 % de arcilla.
+El calcáreo, abundante en la masa, aparece en el horizonte B3 pero desaparece en el C. Las concreciones calcáreas se encuentran en el horizonte B22 entre los 55-58 cm de profundidad.
+Fases
+No se describieron a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial muy lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico C.
+Erosión
+La serie Arroyo Masitas no tiene erosión actual, pero corre peligro de erosión laminar.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Arroyo Masitas
+ER1-141C
+N° de registro
+ 11083
+ 11084
+ 11085
+ 11086
+ 11087
+ 11088
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm
+ 03-12
+ 20-28
+ 35-55
+ 60-70
+ 80-95
+ 125-135
+Mat.organica (%)
+ 3.65
+ 2.86
+ 1.87
+ 0.98
+ 0.74
+ 0.14
+C (%)
+ 2.12
+ 1.66
+ 1.09
+ 0.57
+ 0.43
+ 0.08
+N (%)
+ 0.160
+ 0.118
+ 0.082
+ 0.057
+ 0.030
+ 0.021
+C/N
+ 13.25
+ 14.07
+ 13.29
+ 10.00
+ 14.33
+ 3.81
+T <2
+ 20 11
+ 21.58
+ 41.04
+ 38.61
+ 35.29
+ 30.19
+E 2-20
+ 25.17
+ 23.43
+ 22.14
+ 25.80
+ 27.30
+ 27.95
+X 2-50
+ 42.48
+ 40.81
+ 34.50
+ 43.16
+ 47.67
+ 34.21
+T 50-100
+ 0.79
+ 0.55
+ 0.59
+ 0.47
+ 0.38
+ 0.52
+U 100-250
+ 32.07
+ 3251
+ 20.55
+ 15.07
+ 15.30
+ 30.41
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 4.51
+ 4.53
+ 3.30
+ 2.67
+ 1.35
+ 4.61
+ 1000-2000
+ 0.04
+ 0.02
+ 0.02
+ 0.02
+ 0.01
+ 0.06
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 7.51
+ 1.04
+PH H2O
+ 6.3
+ 6.3
+ 7.1
+ 7.7
+ 8.6
+ 8.5
+PH ClK
+ 5.3
+ 5.2
+ 6.0
+ 6.1
+ 7.3
+ 7.2
+Conductividad (mmhos/cm)
+ 0.25
+ 0.14
+ 0,46
+ 0,25
+ 0.47
+ 0.62
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 22.88
+ 23.64
+ 41.58
+ 37.81
+ 38.10
+ 31.20
+D
+Ca++
+ 15.92
+ 16.80
+ 35.02
+ 30.22
+ -
+ 23.96
+C
+E
+A
+Mg++
+ 3.10
+ 3.30
+ 4.08
+ 4.60
+ -
+ 4.68
+T
+C
+I
+A
+K+
+ 0.84
+ 0.75
+ 0.74
+ 0.64
+ 0.45
+ 0.36
+O
+M
+N
+B
+Na+
+ 0.27
+ 0.27
+ 0.70
+ 2.27
+ 2.47
+ 2.15
+E
+I
+S
+O
+H+
+ 2.20
+ 2.41
+ 1.03
+ -
+ -
+ -
+% Na/T
+ 0.01
+ 0.01
+ 0.02
+ 0.06
+ 0.06
+ 0.07
+Equivalente de humedad (%)
+ 22.96
+ 21.22
+ 39.31
+ 39.27
+ 33.81
+ 28.37
+P disponible (ppm)
+ 9.80
+ 6.70
+ 3.90
+ 3.60
+ 3.40
+ 3.10

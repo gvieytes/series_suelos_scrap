@@ -1,0 +1,39 @@
+dss_rodeo_viejo.psv ->> ID..........................: 235
+dss_rodeo_viejo.psv ->> CLASIFICACION...............: Haplustol paralítico
+dss_rodeo_viejo.psv ->> SERIE.......................: RODEO VIEJO (RViej)
+dss_rodeo_viejo.psv ->> UBICACION...................: 3 km al Oeste de Villa del Totoral, departamento Totoral
+dss_rodeo_viejo.psv ->> PROVINCIA...................: CORDOBA
+dss_rodeo_viejo.psv ->> LATITUD.....................: S300300
+dss_rodeo_viejo.psv ->> LONGITUD....................: O300700
+dss_rodeo_viejo.psv ->> ALTITUD.....................: 550
+dss_rodeo_viejo.psv ->> PENDIENTE...................: FALTA!
+dss_rodeo_viejo.psv ->> DRENAJE.....................: FALTA!
+dss_rodeo_viejo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_rodeo_viejo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_rodeo_viejo.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_rodeo_viejo.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_rodeo_viejo.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_rodeo_viejo.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20
+dss_rodeo_viejo.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,1
+dss_rodeo_viejo.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,8
+dss_rodeo_viejo.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,16
+dss_rodeo_viejo.psv ->> HORIZONTE->RELACIÓN C/N.....: 11,3
+dss_rodeo_viejo.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9,5
+dss_rodeo_viejo.psv ->> HORIZONTE->LIMO 2-50 (%)....: 21,6
+dss_rodeo_viejo.psv ->> HORIZONTE->AMF 50-100 (%)...: 10,9
+dss_rodeo_viejo.psv ->> HORIZONTE->AF 100-250 (%)...: 27,2
+dss_rodeo_viejo.psv ->> HORIZONTE->AM 250-500 (%)...: 13,5
+dss_rodeo_viejo.psv ->> HORIZONTE->AG 500-1000 (%)..: 11,1
+dss_rodeo_viejo.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 4,1
+dss_rodeo_viejo.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0
+dss_rodeo_viejo.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 13,5
+dss_rodeo_viejo.psv ->> HORIZONTE->PH PASTA.........: -
+dss_rodeo_viejo.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,8
+dss_rodeo_viejo.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 11,4
+dss_rodeo_viejo.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,3
+dss_rodeo_viejo.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2
+dss_rodeo_viejo.psv ->> HORIZONTE->CI ME/100G-K +...: 0,4
+dss_rodeo_viejo.psv ->> HORIZONTE->CI ME/100G-H +...: 1,5
+dss_rodeo_viejo.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12,3
+dss_rodeo_viejo.psv ->> HORIZONTE->CIC ME/100G(T)...: 13,8
+dss_rodeo_viejo.psv ->> HORIZONTE->SAT.B % (S/T)....: 89,1

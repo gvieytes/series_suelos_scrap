@@ -1,0 +1,268 @@
+
+--------------------------------------------------------------------------------
+SERIE PUERTO ALGARROBO 					 Símbolo: PA
+
+
+Pertenece a la familia "arenosa sobre franca gruesa, silícea, térmica" de los Udifluventes ácuicos.
+Son suelos areno-franco a franco-arenosos, sin mayor diferenciación de horizontes, con discontinuidad litológica hacia materiales más densos, con abundantes concreciones y moteados de hierro-manganeso.
+Están desarrollados sobre sedimentos arcillosos lacustres mezclados y redepositados con material arenoso, sobre los cuales yace una capa de material fluvial arenoso (arenas pardas), más reciente.
+
+
+Perfil tipo: ER1-37C
+Fecha: 10-VIII-72
+Ubicación: Puerto Algarrobo (foto IR 471-6) - Dpto. La Paz
+Reconocedores: O.A.Foti; G.W.van Barneveld
+
+
+Ap: 00-17 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; areno-franco; estructura de grano simple con tendencia a bloques subangulares; suelto en seco, muy friable en húmedo; límite claro, suave.
+
+A1: 17-36 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; areno-franco; estructura en bloques angulares irregulares, medios, muy débiles; muy friable en húmedo; barnices ("humic skins") escasos; límite gradual, suave.
+
+A/C: 36-76 cm; pardo oscuro (10YR 3/3) en húmedo; areno-franco; estructura en bloques angulares irregulares, medios, muy débiles; muy friable en húmedo; límite claro, suave.
+
+I/II: 79-89 cm; pardo oscuro (7.5YR 3/2) en húmedo; franco-arenoso; estructura en bloques angulares irregulares, medios, débiles; firme en húmedo; caras de fricción ("slickensides") escasas, finas; concreciones ferromanganesíferas escasas a comunes, finas; moteados de hierro-manganeso abundantes, medios y precisos; límite claro, suave. Horizonte semi-gleizado.
+
+IIg: 89 cm +; varia de pardo oscuro (7,5YR 4/2) a pardo rojizo (5YR 4/4) en húmedo; franco-arenoso; estructura en bloques angulares cuneiformes gruesos, inherentes al material; firme en húmedo; caras de fricción ("slickensides") comunes; concreciones de ferromanganesíferas abundantes, de hasta 3 mm; moteados de hierro-manganeso abundantes, medios y precisos. Horizonte gleizado.
+
+
+Variabilidad de rasgos
+
+La primera capa tiene un espesor de 40-85 cm y generalmente comprende un Ap o un A1 (que muchas veces puede subdividirse en A11, A12) seguido de un horizonte AC. Es de colores oscuros (10YR 3/1 a 10YR 4/2) y estructura de grano simple, localmente estratificada, con alguna tendencia a desarrollar una estructura en bloques angulares, subangulares muy débles; en campos agrícolas, es susceptible a la formación de piso de arado. Tiene de 1-2% de materia orgánica y es areno-franco (con 4-8% de arcilla y 52-76% de arena fina y media); comunmente es posible encontrar escasos moteados débiles de hierro.
+El I/II es un horizonte de transición, franco-arenoso, que en algunos casos es descripto como B2, con un espesor de 13-40 cm; tiene de 12-18% de arcilla y 51-53% de arena fina y media. Su color varía de 10YR 3/1 a 7.5YR 4/2 y su estructura es de bloques angulares débiles (localmente de prismas débiles). Los materiales aparecen semigleizados, con escasas y finas concreciones ferromanganesíferas y comunes, finos y débiles moteados hierro-manganeso.
+
+Los materiales franco-arenosos a franco-arcillo-arenosos (II) tienen un espesor de 40-80 cm y normalmente pueden describirse como IIB2g, IIB3g. Su contenido de arcilla varía de 15-20% y la arena fina y media de 45-60%. El color de esta capa es muy variable (de gris oscuro a pardo rojizo, 10YR 4/1 a 2.5YR 5/2); su estructura varía desde masiva y compacta a bloques angulares cuneiformes inherentes al material.
+
+Los materiales siempre presentan características de gleización, con comunes a abundantes moteados y concreciones de hierro-manganeso, y en algunos casos presentan cantos rodados.
+
+
+Fases
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien drenado a algo excesivamente drenado. Escurrimiento superficial moderado. Permeabilidad moderadamente rápida en los horizontes superiores y moderadamente lenta a lenta en el subsuelo. Capa freática profunda. Grupo hidrológico A.
+
+
+Erosión
+
+La serie Puerto Algarrobo generalmente no tiene erosión hídrica (aunque localmente puede ser leve), y es muy poco susceptibilidad a la misma.
+	
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Puerto Algarrobo
+
+ER7-126C
+
+
+
+
+
+N° de registro
+ -
+ 858
+ 859
+ -
+ 860
+Horizonte
+ Ap*
+ A1
+ A/C
+ I/II*
+ IIg
+Profundidad (cm)
+ -
+ 20-35
+ 54-69
+ -
+ 97-110
+Mat.organica (%)
+ -
+ 0.8
+ 0.7
+ -
+ 0.8
+N (%)
+ -
+ 0.510
+ 0.041
+ -
+ 0.046
+C/N
+
+ -
+ 9
+ 10
+ -
+ 10
+
+T < 2 u
+ -
+ 4.8
+ 6.3
+ -
+ 15.0
+E 2-20 u
+ -
+ 3.2
+ 2.6
+ -
+ 7.5
+X 2-50 u
+ -
+ 13.8
+ 12.6
+ -
+ 19.3
+T 50-100 u
+ -
+ 5.4
+ 5.9
+ -
+ 5.5
+U 100-250 u
+ -
+ 42.3
+ 42.2
+ -
+ 33.5
+R 250-500 u
+ -
+ 32.6
+ 32.0
+ -
+ 25.9
+A 500-1000 u
+ -
+ 1.1
+ 1.0
+ -
+ 0.8
+ 1000-2000 u
+
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ 0.0
+ 0.0
+ -
+ 0.0
+pH H2O
+ -
+ 6.0
+ 5.6
+ -
+ 5.2
+pH ClK
+ -
+ 5.6
+ 5.5
+ -
+ 4.7
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+ -
+ 7.3
+ 9.8
+ -
+ 20.6
+ d Ca++
+ -
+ 4.8
+ 7.0
+ -
+ 13.6
+C e
+
+
+
+
+
+Mg++
+ -
+ 1.2
+ 1.4
+ -
+ 3.1
+t c
+
+
+
+
+
+i a K+
+ -
+ 0.1
+ 0.2
+ -
+ 0.3
+o m
+
+
+
+
+
+n b Na+
+ -
+ 0.3
+ 0.2
+ -
+ 0.2
+e i
+
+
+
+
+
+s o H+
+ -
+ 1.3
+ 1.3
+ -
+ 2.9
+% Na/T
+
+ -
+ 4.1
+ 5.1
+ -
+ 1.0
+Equiv. de humedad (%)
+ -
+ 6.9
+ 7.3
+ -
+ 17.0
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+* Horizontes no muestreados
+
+
+
+
+
+
+

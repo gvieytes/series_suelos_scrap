@@ -1,0 +1,211 @@
+--------------------------------------------------------------------------------
+SERIE PUEBLO BRUGO					 Símbolo: PBr
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico pardo oscuro franco-arcillo-limoso, con moteados de hierro-manganeso.
+Suelos desarrollados en materiales loessoides con poca cantidad de carbonatos y de textura franco-arcillo-limoso.
+Perfil tipo: ER7-122C
+Fecha: 02-X-97
+Ubicación: Est. María Angélica (foto IRH 468-32) - Dto. Antonio Tomás - Dpto. Paraná.
+Reconocedores: O.A.Foti; L.O.López.
+A1: 00-21 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; friable en húmedo; barnices ("humic skins") comunes y finos; límite claro, suave.
+B1: 21-31 cm; pardo grisáceo oscuro (10YR 3.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios, débiles; friable en húmedo; barnices ("clay-humic skins") escasos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+B21t: 31-50 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+B22t: 50-69 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos, caras de fricción ("slickensides") escasas, gruesas; moteados de hierro-manganeso, comunes, medios y precisos; límite gradual, suave.
+B3: 69-100 cm; pardo oscuro (7,5YR 3/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite difuso, ondulado.
+C: 100 cm +; pardo oscuro (7,5YR 4/2) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; barnices inherentes al material; escasa cantidad de carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y precisos.
+Variabilidad de rasgos.
+El solum varía generalmente de 100-110 cm. El epipedón mólico tiene un espesor de 25-30 cm y normalmente incluye un A1 y un B1 de poco espesor y de textura franco-limosa a franco arcillo-limosa; es friable y bien estructurado, con 3 a 5 % de materia orgánica.
+El horizonte argílico, incluye los horizontes B21 y B22, de textura franco-arcillo-limosa, de color pardo grisáceo muy oscuro y con comunes a abundantes barnices ("clay skins").
+El horizonte B3 de color pardo oscuro, con comunes moteados de hierro-manganeso y sin presencia de carbonatos.
+Una característica destacable es la ausencia de carbonatos en el perfil. 	
+Fases
+Fase moderadamente erosionada (símbolo: PBr.h2).
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderada. Capa freática profunda. Grupo hidrológico C.
+Erosión
+La serie Pueblo Brugo tiene erosión actual leve en forma laminar pero corre un moderado peligro de erosión en surcos, particularmente en las pendientes más largas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Pueblo Brugo
+ER7-122C
+Nº de registro
+ 2057
+ 2058
+ 2059
+ 2060
+ 2061
+ 2062
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 07-15
+ 21-30
+ 35-45
+ 55-65
+ 75-95
+ 120-130
+Mat.organica (%)
+ 4.7
+ 1.9
+ 1.5
+ 1.0
+ 0.7
+ 0.5
+N (%)
+ 0.18
+ 0.09
+ 0.07
+ 0.06
+ 0.05
+ 0.04
+C/N
+ 15
+ 11
+ 12
+ 9
+ 9
+ 6
+T < 2 μ
+ 27.32
+ 38.15
+ 38.58
+ 35.58
+ 34.24
+ 33.85
+E 2-20 μ
+ 33.22
+ 25.39
+ 24.04
+ 35.01
+ 25.07
+ 25.68
+X 2-50 μ
+ 62.42
+ 53.74
+ 52.42
+ 55.96
+ 56.92
+ 56.52
+T 50-100 μ
+ 1.25
+ 0.93
+ 0.89
+ 1.22
+ 1.62
+ 1.34
+U 100-500 μ
+ 8.99
+ 7.09
+ 8.02
+ 7.16
+ 7.18
+ 8.19
+R 500-1000 μ
+ 0.02
+ 0.09
+ 0.09
+ 0.08
+ 0.04
+ 0.10
+A
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ 0.23
+pH H2O
+ 6.3
+ 6.6
+ 6.8
+ 7.6
+ 7.5
+ 7.6
+pH ClK
+ 5.5
+ 5.6
+ 5.7
+ 6.5
+ 6.1
+ 6.1
+CE (mmhos/cm)
+ 0.539
+ 0.508
+ 0.231
+ 0.180
+ 0.219
+ 0.161
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 25.55
+ 37.18
+ 37.62
+ 35.12
+ 31.79
+ 31.56
+ d Ca++
+ 19.01
+ 31.39
+ 31.71
+ 29.68
+ 25.93
+ 25.40
+C e
+Mg++
+ 2.10
+ 2.21
+ 2.14
+ 2.88
+ 2.76
+ 3.04
+t c
+i a K+
+ 1.72
+ 0.86
+ 0.92
+ 1.05
+ 0.88
+ 0.90
+o m
+n b Na+
+ 0.43
+ 0.32
+ 0.95
+ 1.00
+ 1.20
+ 0.93
+e i
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.68
+ 0.86
+ 2.52
+ 2.85
+ 3.77
+ 2.95
+Equivalente de humedad (%)
+ 27.20
+ 36.65
+ 37.41
+ 35.87
+ 33.90
+ 33.37
+Fósforo asimilable (ppm)
+ 15.66
+ 4.21
+ 2.29
+ 1.67
+ 1.05
+ 0.43

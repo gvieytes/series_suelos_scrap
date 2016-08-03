@@ -1,0 +1,352 @@
+
+--------------------------------------------------------------------------------
+SERIE COSTA GRANDE Símbolo: CG
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón mólico oscuro, franco-limoso a franco-arcillo-limoso, y un horizzonte argílico pardo oscuro, arcillo-limoso a franco-arcillo-limoso, con moteados de hierro-manganeso.
+
+Suelos desarrollados en loess calcáreo, franco-limoso, con concreciones de calcáreo ("loessskindeln") y calcáreo libre.
+
+
+Perfil tipo: ER6-28C
+Fecha: 26-VIII-1986
+Ubicación: Establecimiento "La Asunción" (foto 436-104) - Dpto. Diamante.
+Reconocedores: D.J. Bedendo; C.V. Acosta.
+
+
+Ap: 00-14 cm; gris muy oscuro (10YR 3/1.5) en húmedo; gris oscuro (10YR 4/1.5) en seco; franco-limoso; estructura en bloques subangulares gruesos, moderados que rompen en estructura granular y en bloques subangulares medios, moderados; duro en seco; friable en húmedo; límite abrupto, suave.
+
+B1: 14-23 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles, que rompen en bloques angulares irregulares, medios, moderados; duro en seco; friable en húmedo; barnices "humic skins", escasos y finos, y "clay humic skins", abundantes y medios; límite claro, suave.
+
+B21t: 23-42 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados a débiles, que rompen en prismas compuestos irregulares, finos, moderados, y bloques angulares irregulares, medios, moderados; ligeramente firme en húmedo; barnices "clay skins", abundantes y medios; moteados de hierro comunes, finos y débiles; límite gradual, suave.
+
+B22t: 42-75 cm; pardo a pardo oscuro (7.5YR 4/3) en húmedo; arcillo-limoso liviano; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins", comunes y medios; moteados de hierro escasos, finos y débiles; límite gradual, ondulado.
+
+B3: 75-115 cm; pardo oscuro a pardo (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, gruesos, débiles; friable en húmedo; barnices "clay skins", escasos y finos; moteados de hierro escasos, finos y débiles; vetas de materia orgánica rellenando las grietas; límite difuso, ondulado.
+
+Cca: 115 + cm; pardo (7.5YR 5/4) en húmedo; franco-limoso; estructura masiva; friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 2 cm, escasas, blandas y en miscelio.
+
+
+Variabilidad de rasgos
+
+La profundidad del solum varía generalmente de 110-120 cm.
+El epipedón mólico, de 10-25 cm, comprende los horizontes A1 y B1, ó A1 y A3, y la parte superior del B21t. El A1, normalmente de 12-15 cm de espesor, franco-limoso a franco-arcillo-limoso liviano (24-28 % de arcilla) es friable y bien estructurado, con agregados granulares y en bloques subangulares. El horizonte B1, de aproximadamente 10 cm, es franco-arcillo-limoso (27-32 % de arcilla) y de estructura bloquiforme (bloques subangulares y angulares que comúnmente son débiles), con un color que varía de 7.5YR 3/1.5 a 3/2, y suele contener abundantes cutanes arcillo-húmicos ("clay humic skins").
+
+A veces, puede describirse un horizonte A3, friable y por lo general, más oscuro que el horizonte superficial, con una estructura de bloques angulares débiles y abundantes barnices húmicos ("humic skins"). Su espesor, en la mayoría de los casos, no supera los 8-10 cm.
+
+El horizonte argílico incluye siempre un horizonte B2t de 50-60 cm y un horizonte transicional B3 de 20-40 cm. El B2, arcillo-limoso (33-42 % de arcilla) en su parte superior y franco-arcillo-limoso (27-35 % de arcilla) en su parte inferior, es de estructura prismática compuesta (prismas irregulares o regulares, muchas veces débiles, que rompen en prismas más finos y bloques angulares) y de color pardo oscuro (7.5YR 3/2-4/2) con comunes cutanes arcillo-húmicos ("clay humic skins") y abundantes barnices ("clay skins"). Presenta moteados finos y débiles, pudiendo contener además -pero muy raramente- escasas y muy pequeñas caras de fricción ("slickensides").
+
+El B3 es franco-arcillo-limoso y de color pardo oscuro (7.5YR 4/3-4/4), con escasos, finos a medios, débiles a precisos moteados de hierro-manganeso, y muy raras veces tiene calcáreo libre en la masa (siendo esto último más típico de la fase moderadamente erosionada, donde los carbonatos aparecen a 105-115 cm en la base del solum).
+
+El horizonte C tiene 18-25 % de arcilla (franco-limoso) y hasta 6 % de arena (principalmente arena muy fina) y su color es relativamente uniforme (7.5YR 5/4). Sus características son inherentes al loess "bonaerense", con abundantes carbonatos libres hasta 5 % y concreciones (duras, blandas y difusas en miscelio) de hasta 2 cm. En algunos casos, el carbonato cementa el material en concreciones de forma irregular (durinódulos) o laminares, que suelen denominarse "loessskindeln" o "muñecas" del loess; no raras veces el perfil se muestra totalmente descarbonatado hasta 120-130 cm, particularmente donde el manto de loess es más espeso (110-115 m.s.n.m.).
+
+
+Fases
+
+Moderadamente erosionada (símbolo: CG.h2)
+Severamente erosionada (símbolo: CG.h3)
+Engrosada (símbolo: CG.x)
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Tezanos Pinto (pero ésta tiene un epipedón normalmente algo más corto, un B2t mejor desarrollado y el espesor del solum y la profundidad a la que aparecen los carbonatos es menor) y a la serie General Racedo (que tiene un B2 más arcilloso y CO3Ca libre en el B3).
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad lenta a moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Costa Grande tiene una erosión actual leve en forma laminar y su susceptibilidad a la misma (principalmente laminar y en algunos surcos) es moderada. La serie incluye una fase por erosión actual moderada con un epipedón de 15-18 cm (excepcionalmente 20 cm) con síntomas de degradación; y un fase por erosión actual severa con un epipedón de espesor muy variado (05-15 cm) franco-arcillo-limoso a arcillo-limoso y con una estructura desfavorable.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Costa Grande
+
+ER6-28C
+
+
+
+
+
+
+N° de registro
+ 4.746
+ 4.747
+ 4.748
+ 4.749
+ 4.750
+ 4.751
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 00-14
+ 15-23
+ 25-35
+ 50-65
+ 85-100
+ 125-140
+Mat.organica (%)
+ 2.61
+ 1.51
+ 0.21
+ 0.21
+ 1.14
+ 0.07
+N (%)
+ 0.16
+ 0.13
+ 0.08
+ 0.06
+ 0.04
+ 0.03
+C/N
+ 9
+ 7
+ 2
+ 2
+ 17
+ 1
+
+T < 2 u
+
+ 20.74
+
+ 22.61
+
+ 27.04
+
+ 27.38
+
+ 21.06
+
+ 19.40
+E 2-20 u
+ 28.37
+ 29.83
+ 30.64
+ 29.24
+ 29.73
+ 31.37
+X 2-50 u
+ 70.32
+ 75.90
+ 70.56
+ 70.05
+ 75.07
+ 76.32
+T 50-100 u
+ 8.32
+ 1.37
+ 2.21
+ 2.37
+ 3.45
+ 3.85
+U 100-500 u
+ 0.57
+ 0.11
+ 0.19
+ 0.19
+ 0.43
+ 0.43
+R 500-1000 u
+ 0.05
+ -
+ -
+ 0.01
+ -
+ -
+A
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ 3.6
+pH H2O
+ 6.5
+ 6.6
+ 6.6
+ 6.7
+ 6.7
+ 8.2
+pH ClK
+ 5.6
+ 5.3
+ 5.2
+ 5.3
+ 5.4
+ 7.0
+Conductividad eléctrica mmhos/cm
+ -
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de
+interc. catiónico
+(m.e./100 g) = valor T
+
+
+ 24.80
+
+
+ 26.50
+
+
+ 30.60
+
+
+ 29.20
+
+
+ 25.40
+
+
+ 23.80
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 19.50
+ 21.80
+ 24.20
+ 23.80
+ 20.50
+ 21.20
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 1.60
+ 0.90
+ 1.80
+ 2.00
+ 1.90
+ 0.90
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.23
+ 1.12
+ 1.40
+ 1.12
+ 0.98
+ 0.81
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.43
+ 0.43
+ 0.53
+ 0.21
+ 0.21
+ 0.21
+e
+i
+
+
+
+
+
+
+
+S
+o
+H+
+ 1.80
+ 1.80
+ 1.80
+ 1.80
+ 1.60
+ -
+
+% Na/T
+ 1.73
+ 1.62
+ 1.73
+ 0.72
+ 0.83
+ 0.88
+
+Equivalente de humedad (%)
+
+ 25.35
+
+ 27.71
+
+ 32.41
+
+ 29.60
+
+ 26.02
+
+ 24.80
+Fósforo asimilable (ppm)
+ 26.0
+ 26.0
+ 12.0
+ 15.0
+ N.D.
+ N.D.
+
+

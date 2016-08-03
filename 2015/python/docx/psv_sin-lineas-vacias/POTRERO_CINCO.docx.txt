@@ -1,0 +1,182 @@
+--------------------------------------------------------------------------------
+SERIE POTRERO CINCO Símbolo: PCI
+Pertenece a la familia "limosa fina, mixta, no calcárea, térmica" de los Haplacuoles típicos.
+Suelo aluvial salino sódico. Por su posición intermedia dentro del paisaje, la napa freática permanece generalmente por debajo de la superficie del suelo mineral.
+Perfil tipo: 57C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 5,7 km al sudeste de Médanos (Hoja IGM 3360-29-2) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+O1: 10-0 cm; horizonte orgánico; límite inferior abrupto y ondulado.
+A1: 0-32 cm; negro (10YR 2/1) en húmedo; franco arcillo limoso; estructura en prismas irregulares compuestos medios moderados que rompen en bloques angulares; friable; moteados finos, comunes, débiles a precisos; raíces abundantes; límite abrupto, ondulado.
+IIC1: 32-75 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco arcillo limoso; masivo; friable; concreciones ferromanganésicas escasas; moteados medios, comunes, precisos; raíces comunes; límite claro, ondulado.
+IIIC2: 75-120 cm; pardo amarillento opaco (10YR 5/3) en húmedo; franco limoso; masivo; friable; concreciones ferromanganésicas abundantes; moteados medios, comunes, precisos.
+Variabilidad de rasgos
+El perfil de este suelo tiene un pH que aumenta con la profundidad, variando de débilmente ácido en superficie a muy débilmente ácido en la capa más profunda.
+	
+Por arriba del suelo mineral, este perfil tiene un horizonte orgánico O1 de 10 cm de espesor donde predominan restos vegetales semidescompuestos. Inmediatamente sigue el horizonte A1 con un espesor de 32 cm, de color claro, moderadamente provisto de materia orgánica (2 a 3 %), de textura franco arcillo limosa y una estructura en prismas irregulares compuestos. A continuación siguen capas de colores más claros: de amarillo grisáceo oscuro a pardo amarillento opaco, con una textura que varía de franco arcillo limosa a franco limosa. Entre los 30 y 120 cm, en la zona de fluctuación de la napa freática, se observan concreciones ferromanganésicas escasas en la primera capa y abundantes en la capa más profunda, con moteados precisos a lo largo de todo el perfil.
+	
+La conductividad varía de 2 a 13 mmhos/cm desde la superficie hasta los 75 cm. A mayor profundidad, en la capa IIIC2, la conductividad llega a 27 mmhos/cm. Por lo tanto este suelo es moderadamente salino. El sodio de intercambio no alcanza el 15 % en el horizonte A1, pero en las dos capas siguientes, el PSI (Porcentaje de Sodio de Intercambio) del extracto del suelo saturado sobrepasa el 20 %. Por alcalinidad ha sido clasificado en la clase A1 22.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+El perfil de esta serie es de permeabilidad moderada y pobremente drenado. Napa freática relativamente alta e inundaciones excepcionales durante las crecidas más grandes del Paraná.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Potrero Cinco
+57C INTA Castelar
+N° de registro
+Horizonte
+ O1
+ A1
+ IIC1
+ IIIC2
+Profundidad (cm)
+ -
+ 8-20
+ 38-57
+ 94-103
+Mat. orgánica (%)
+ -
+ 2.16
+ 0.03
+ -
+C (%)
+ -
+ 1.25
+ 0.02
+ -
+N (%)
+ -
+ 0.166
+ -
+ -
+C/N
+ -
+ 8
+ -
+ -
+T <2 u
+ -
+ 28.8
+ 28.3
+ 19.5
+E 2-20 u
+ -
+ 46.2
+ 57.4
+ 57.1
+X 2-50 u
+ -
+ 64.4
+ 68.8
+ 70.7
+T 50-74 u
+ -
+ 2.8
+ 2.4
+ 4.5
+U 74-100 u
+ -
+ 3.3
+ 0.3
+ 4.6
+R 100-250 u
+ -
+ 0.5
+ 0.1
+ 0.4
+A 250-500 u
+ -
+ 0.2
+ 0.1
+ 0.3
+ 500-1000 u
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ -
+ 33.6
+ 33.4
+ 24.0
+Resistencia de la pasta (Ohms/cm)
+ -
+ 1014
+ 329
+ 213
+pH en pasta
+ -
+ 6.0
+ 6.5
+ 6.9
+pH en agua (1:2,5)
+ -
+ 7.2
+ 7.4
+ 7.2
+pH en KCl (1:2,5)
+ -
+ 5.6
+ 5.9
+ 6.2
+Conductividad (mmhos/cm)
+ -
+ 1.89
+ 13.36
+ 27.17
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ -
+ 13.6
+ -
+ -
+Mg++
+ -
+ 7.5
+ -
+ -
+Na[+]
+ -
+ 2.2
+ -
+ -
+K[+]
+ -
+ 0.5
+ -
+ -
+H[+]
+ -
+ 7.4
+ -
+ -
+Na+ % del valor T
+ -
+ 8
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ 23.8
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ -
+ 26.1
+ -
+ -
+Saturación con bases, (%) (S/T)
+ -
+ 91
+ -
+ -

@@ -1,0 +1,239 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO NEGRO	 Símbolo: AoN
+
+
+Pertenece a la familia "muy fina, mixta, ácida, térmica" de los Udifluventes típicos.
+
+Suelo formado a partir de capas arcillosas y arcillo limosas.
+
+La vegetación típica es de juncales.
+
+
+Perfil tipo: 99C INTA Castelar
+Fecha: XII-1976
+Ubicación: Establecimiento Isla Don Antonio (Hoja IGM 3360-36-1) - Dpto. Islas del Ibicuy
+Reconocedores: R. Wermbter; D. Ramallo
+
+
+I: 0-20 cm; gris amarillento (2,5Y 4/1) en húmedo, arcillo limoso; plástico y adhesivo.
+
+II: 20-50 cm; negro (2,5YR 2/1) en húmedo, arcilloso; plástico y adhesivo.
+
+III: 50-80 cm; amarillo pardo grisáceo (10YR 4/2) en húmedo, arcilloso; plástico y adhesivo.
+
+IV: 80-120 cm; negro oliva (5Y 3/1) en húmedo, arcilloso; plástico y adhesivo.
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Este suelo presenta drenaje pobre. Escurrimiento superficial muy lento. Permeabilidad lenta. Muy anegable y muy inundable.
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Arroyo Negro
+
+99C INTA Castelar
+N° de registro
+ 21239
+ 21240
+ 21241
+ 21242
+Horizonte
+ I
+ II
+ III
+ IV
+Profundidad (cm)
+ 0-20
+ 20-50
+ 50-80
+ 80-120
+Mat.organica (%)
+ 3.37
+ 23.43
+ 17.54
+ 8.26
+C (%)
+ 1.96
+ 13.62
+ 10.20
+ 4.80
+N (%)
+ 0.160
+ 0.756
+ 0.90
+ 0.43
+C/N
+ 12
+ 18
+ 11
+ 10
+
+T <2 u
+
+ 47.0
+
+ 64.8
+
+ 56.3
+
+ 59.8
+E 2-20 u
+ 34.4
+ 23.0
+ 29.1
+ 30.2
+X 2-50 u
+ 52.3
+ 32.6
+ 37.8
+ 35.7
+T 50-74 u
+ 0.5
+ 1.3
+ 2.4
+ 2.1
+U 74-100 u
+ 0.1
+ 1.2
+ 2.5
+ 1.3
+R 100-250 u
+ 0.1
+ 0.1
+ 1.0
+ 1.1
+A 250-500 u
+ -
+ -
+ -
+ -
+
+
+
+
+
+Gravilla (> 7) Tosca Ca %
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ -
+Equiv. de humedad (%)
+ 48.1
+ 61.5
+ 51.9
+ 44.9
+Resistencia de la pasta (Ohms/cm)
+
+ 1487
+
+ 3123
+
+ 2231
+
+ 1041
+pH en pasta
+ 4.3
+ 4.6
+ 4.4
+ 3.9
+PH H2O
+ 4.5
+ 4.9
+ 4.6
+ 4.1
+pH ClK
+ 3.7
+ 3.9
+ 3.8
+ 3.4
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ Cationes de camb (m. e / 100 g)
+Ca++
+ 4.6
+ 17.9
+ 13.7
+ 12.9
+
+Mg++
+ 6.4
+ 5.9
+ 5.8
+ 3.3
+
+Na+
+ 0.7
+ 1.8
+ 1.8
+ 1.7
+
+K+
+ 1.0
+ 0.5
+ 0.5
+ 0.7
+% Na/T
+ 2.28
+ 2.84
+ 3.6
+ 4.4
+% Saturación de Agua
+ 81
+ 100
+ 81
+ 77
+Valor S (m.e./100 g)
+ 12.7
+ 26.1
+ 21.8
+ 18.4
+H de cambio (m.e./100 g)
+ 23.2
+ 45.1
+ 34.1
+ 29.6
+Valor T (m.e./100) NH4++ o Na+
+ 31.1
+ 63.4
+ 50.0
+ 38.8
+% de saturación de T
+ 41
+ 41
+ 44
+ 47
+% de saturación de S + H
+ 35
+ 37
+ 39
+ 38
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+Factor de humedad
+ 1.14
+ 1.28
+ 1.08
+ 1.11
+

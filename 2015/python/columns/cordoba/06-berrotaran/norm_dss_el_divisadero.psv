@@ -1,0 +1,40 @@
+dss_el_divisadero.psv ->> ID..........................: 603
+dss_el_divisadero.psv ->> CLASIFICACION...............: Ustorthent lítico/paralítico
+dss_el_divisadero.psv ->> SERIE.......................: EL DIVISADERO (Div)
+dss_el_divisadero.psv ->> UBICACION...................: 13 Km al NW de Los Cóndores, departamento Calamuchita
+dss_el_divisadero.psv ->> PROVINCIA...................: CORDOBA
+dss_el_divisadero.psv ->> LATITUD.....................: S321600
+dss_el_divisadero.psv ->> LONGITUD....................: O641600
+dss_el_divisadero.psv ->> ALTITUD.....................: 675
+dss_el_divisadero.psv ->> PENDIENTE...................: FALTA!
+dss_el_divisadero.psv ->> DRENAJE.....................: FALTA!
+dss_el_divisadero.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_divisadero.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_divisadero.psv ->> TIPO DE SUELO...............: ESQUELÉTICA FRANCA GRUESA
+dss_el_divisadero.psv ->> COLOR ......................: PARDO OSCURO
+dss_el_divisadero.psv ->> HORIZONTE->NOMBRE(S)........: a | r
+dss_el_divisadero.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-10 | 10a+
+dss_el_divisadero.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.8 | 
+dss_el_divisadero.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2.2 | 
+dss_el_divisadero.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.21 | 
+dss_el_divisadero.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.5 | 
+dss_el_divisadero.psv ->> HORIZONTE->ARCILLA 2 (%)....: 6.7 | 
+dss_el_divisadero.psv ->> HORIZONTE->LIMO 2-50 (%)....: 37.5 | 
+dss_el_divisadero.psv ->> HORIZONTE->AMF 50-100 (%)...: 8.6 | 
+dss_el_divisadero.psv ->> HORIZONTE->AF 100-250 (%)...: 11.1 | 
+dss_el_divisadero.psv ->> HORIZONTE->AM 250-500 (%)...: 10.0 | 
+dss_el_divisadero.psv ->> HORIZONTE->AG 500-1000 (%)..: 13.8 | 
+dss_el_divisadero.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 10.8 | 
+dss_el_divisadero.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 
+dss_el_divisadero.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24.4 | 
+dss_el_divisadero.psv ->> HORIZONTE->PH PASTA.........: 6.5 | 
+dss_el_divisadero.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.8 | 
+dss_el_divisadero.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 11.6 | 
+dss_el_divisadero.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.2 | 
+dss_el_divisadero.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 
+dss_el_divisadero.psv ->> HORIZONTE->CI ME/100G-K +...: 1.1 | 
+dss_el_divisadero.psv ->> HORIZONTE->CI ME/100G-H +...: 0.8 | 
+dss_el_divisadero.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | 
+dss_el_divisadero.psv ->> HORIZONTE->SUM.B. ME/100G(S): 14.3 | 
+dss_el_divisadero.psv ->> HORIZONTE->CIC ME/100G(T)...: 15.1 | 
+dss_el_divisadero.psv ->> HORIZONTE->SAT.B % (S/T)....: 94.7 | 

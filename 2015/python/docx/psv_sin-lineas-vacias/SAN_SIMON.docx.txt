@@ -1,0 +1,228 @@
+--------------------------------------------------------------------------------
+SERIE SAN SIMON Símbolo: SSim
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiudólicos.
+Suelos moderadamente bien drenados, profundos, de colores oscuros y un horizonte argílico denso, arcillo-limoso.
+Están desarrollados sobre limos calcáreos arcillo-limosos.
+Presentan un microrelieve gilgai tenue, poco visible en el terreno y presencia de arena fina y gruesa en todo el perfil.
+Perfil tipo: ER1-132C
+Fecha: 24-X-2002
+Ubicación: 5 Km al Oeste de Ea. San Simón. (foto IR 120-28). Dto. Pehuajó al Norte, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti, R.H. Fuentes.
+A1: 00-20 cm; pardo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; ligeramente duro en seco, firme en húmedo; barnices ("humic skins"), escasos a comunes; moteados de hierro-manganeso escasos, finos y precisos; presencia de arena fina en caras de agregados; límite claro, suave.
+B21t: 20-47 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medio, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco y firme en húmedo; caras de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso comunes, finos y precisos; presencia de arena fina en caras de agregados; límite claro, suave.
+B22t: 47-73 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, fuertes; muy duro en seco y muy firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas y medias; moteados de hierro-manganeso comunes, finos y precisos; presencia de arena fina en caras de agregados; límite claro, suave.
+B23t: 73-95 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques cuneiformes medios, fuertes; muy duro en seco y muy firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas; concreciones ferromanganesíferas escasas; comunes a abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, finos y precisos; presencia de arena fina en caras de agregados; límite gradual, ondulado.
+B3ca: 95-120 cm +; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares, medios, moderados; duro en seco y firme en húmedo; caras de fricción ("slickensides") escasas a comunes; concreciones calcáreas abundantes, finas; abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y sobresalientes; materiales de horizontes superiores rellenando las grietas; límite difuso, ondulado.
+Cca: 120 cm +; pardo a pardo oscuro (10YR 4/4) en húmedo; arcillo-limoso; masivo; duro en seco, firme en húmedo; concreciones calcáreas abundantes, gruesas, blandas; abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y sobresalientes.
+Variabilidad de rasgos
+El sólum varía entre 110-120 cm de profundidad. El epipedón mólico está compuesto por un horizonte A1 y ocasionalmente por un B1 con un espesor de 20-25 cm y con presencia de arena fina.
+El horizonte argílico de 55-60 cm de espesor tiene 42-45 % de arcilla, con abundantes caras de fricción y arena fina y gruesa. Esta última característica lo diferencia de otros Peludertes argiudólicos presentes en el departamento, como las series Gilbert y La Laura.
+El calcáreo aparece a los 80 cm aumentando considerablemente en profundidad.
+Fases
+No se describieron a escala de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie San Simón presenta erosión hídrica ligera y es muy susceptible a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie San Simón
+ER1-132C
+N° de registro
+ 10781
+ 10782
+ 10783
+ 10784
+ 10785
+ 10786
+Horizonte
+ A1
+ B21t
+ B22t
+ B23t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-17
+ 25-40
+ 50-70
+ 78-90
+ 100-115
+ 135-145
+Mat.organica (%)
+ 3.01
+ 3.29
+ 1.66
+ 1.59
+ 0.76
+ 0.74
+C (%)
+ 1.75
+ 1.91
+ 0.97
+ 0.92
+ 0.44
+ 0.42
+N (%)
+ 0.140
+ 0.121
+ 0.088
+ 0.073
+ 0.034
+ 0.024
+C/N
+ 12.50
+ 15.79
+ 11.02
+ 12.60
+ 12.94
+ 17.92
+T <2
+ 29.53
+ 45.24
+ 42.51
+ 42.11
+ 40.01
+ 39.02
+E 2-20
+ 27.05
+ 28.53
+ 29.07
+ 29.51
+ 27.02
+ 26.08
+X 2-50
+ 60.71
+ 48.51
+ 50.53
+ 51.65
+ 54.86
+ 56.46
+T 50-100
+ 1.07
+ 0.52
+ 1.01
+ 0.49
+ 0.29
+ 0.29
+U 100-250
+ 8.28
+ 5.41
+ 5.63
+ 5.43
+ 4.37
+ 4.00
+R 500-1000
+ 0.41
+ 0.23
+ 0.28
+ 0.29
+ 0.32
+ 0.22
+A 1000-2000
+ -
+ 0.09
+ 0.04
+ 0.03
+ 0.15
+ 0.01
+CO3Ca (%)
+ -
+ -
+ -
+ 5.5
+ 15.70
+ 16.20
+PH H2O
+ 7.2
+ 7.4
+ 8.4
+ 8.9
+ 9.0
+ 8.9
+PH ClK
+ 6.0
+ 5.9
+ 6.8
+ 7.2
+ 7.3
+ 7.3
+Conductividad eléctrica (mmhos/cm)
+ 76.40
+ 113.20
+ 191.10
+ 223.00
+ 237.00
+ 239.00
+Capacidad de intercambio catiónico (cmol(c)kg-1) =
+Valor T
+ 26.82
+ 39.25
+ 40.03
+ 39.77
+ 30.48
+ 27.08
+D
+Ca++
+ 21.18
+ 28.55
+ 27.08
+ 24.47
+ 21.33
+ 20.12
+C
+E
+A
+Mg++
+ 2.95
+ 4.37
+ 4.34
+ 5.22
+ 4.23
+ 3.85
+T
+C
+I
+A
+K+
+ 0.27
+ 0.29
+ 0.26
+ 0.19
+ 0.23
+ 0.21
+O
+M
+N
+B
+Na+
+ 0.40
+ 0.89
+ 1.44
+ 1.78
+ 1.78
+ 1.44
+E
+I
+S
+O
+H+
+ 2.02
+ 5.16
+ 6.90
+ 8.11
+ 2.92
+ 1.46
+Equivalente de humedad (%)
+ 31.94
+ 47.17
+ 44.97
+ 44.49
+ 41.87
+ 38.68
+P disponible (ppm)
+ 10.60
+ 6.30
+ 5.90
+ 5.30
+ 4.60
+ 4.10

@@ -1,0 +1,211 @@
+--------------------------------------------------------------------------------
+SERIE HASENKAMP 						 Símbolo: Hk
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso y un horizonte argílico oscuro franco-arcillo-limoso a arcillo-limoso, con moteados de hierro-manganeso y concreciones de calcáreo a 60-70 cm de profundidad.
+Suelos desarrollados en materiales loessoides de poco espesor y textura franco-arcillo-limosa, que yacen sobre materiales lacustres (limos calcáreos).
+Perfil tipo: ER1-53C
+Fecha: 12-IV-73
+Ubicación: Estación Hasenkamp (foto IR 459-44) - Dpto. Paraná.
+Reconocedores: O.A.Foti; G.W. van Barneveld.
+Ap: 00-14 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; friable en húmedo; barnices ("humic skins") escasos y finos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave. Horizonte con algunas concreciones calcáreas de arrastre.
+B1: 14-23 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("humic y clay-humic-skins") escasos y finos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+B21t: 23-55 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay-humic skins") comunes, medios; caras de fricción ("slickensides") escasas y finas, poco intersectadas; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+B22t: 55-74 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; firme en húmedo; barnices ("clay-humic skins") escasos, finos; caras de fricción ("slickensides") escasas, finas a medias, poco intersectadas; concreciones calcáreas escasas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+B31ca: 74-105 cm; pardo oscuro (7,5YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, débiles; friable en húmedo; barnices ("clay-humic skins") escasos y finos; caras de fricción ("slickensides") escasas y finas, no intersectadas; concreciones calcáreas escasas a comunes; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+B32ca: 105 cm +; pardo oscuro (7,5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares gruesos, débiles; friable en húmedo; barnices inherentes al material; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas escasas a comunes; moteados de hierro-manganeso escasos, finos y débiles.
+Variabilidad de rasgos
+El solum varía de 120-140 cm. El epipedón mólico tiene un espesor de 14-21 cm y normalmente incluye un A1 algo eluviado y un B1 de poco espesor; tiene 27-30 % de arcilla en su parte superior que aumenta en profundidad, con 3 a 5 % de materia orgánica. En campos con uso agrícola sostenido puede encontrarse un incipiente piso de arado en el B1.
+El horizonte B2, argílico, fuertemente desarrollado, con 45-52 % de arcilla, es levemente vertisólico con escasas caras de fricción ("slickensides") finas a medias y poco intersectadas; en seco se agrieta moderadamente. Por estas características esta serie se podría incluir en el subgrupo vértico.
+El calcáreo libre en la masa y en concreciones duras, aparece a los 60-70 cm de profundidad con un contenido de 1-2%.
+El material originario es franco-arcillo-limoso a arcillo-limoso con un contenido de arcilla de 35-40 % de arcilla y un color que oscila entre pardo oscuro (7,5YR 4/2) y pardo (7,5YR 5/4).	
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial moderado. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Hasenkamp no tiene erosión actual pero corre un moderado peligro de erosión en surcos, particularmente en las pendientes más largas.
+	
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Hasenkamp
+ER1-53C
+N° de registro
+ 1.072
+ 1.073
+ 1.074
+ 1.075
+ 1.076
+ 1.077
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B31ca
+ B32ca
+Profundidad (cm)
+ 0-12
+ 14-23
+ 37-48
+ 6270
+ 80-90
+ 105-120
+Mat.organica (%)
+ 4.0
+ 3.6
+ 2.6
+ 1.7
+ 1.3
+ 0.8
+N (%)
+ 0.21
+ 0.17
+ 0.12
+ 0.10
+ 0.09
+ 0.04
+C/N
+ 11
+ 12
+ 12
+ 10
+ 9
+ 10
+T < 2 u
+ 30.5
+ 36.6
+ 51.4
+ 47.7
+ 46.9
+ 39.0
+E 2-20 u
+ 22.0
+ 24.0
+ 22.5
+ 17.2
+ 17.7
+ 25.0
+X 2-50 u
+ 68.1
+ 62.6
+ 47.7
+ 51.2
+ 52.1
+ 59.8
+T 50-100 u
+ 0.7
+ 1 0
+ 0.7
+ 0.8
+ 0.7
+ 0.8
+U 100-500 u
+ 0.7
+ 0.8
+ 0.2
+ 0.3
+ 0.3
+ 0.4
+R 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.2
+ 1.5
+ 0.9
+pH H2O
+ 6.8
+ 6.7
+ 7.0
+ 7.7
+ 8.0
+ 8.0
+pH ClK
+ 6.0
+ 5.8
+ 5.9
+ 6.5
+ 5.8
+ 6.8
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 38.8
+ 37.8
+ 48.4
+ 45.8
+ 43.7
+ 42.1
+ d Ca++
+ 32.1
+ 31.8
+ 42.0
+ -
+ -
+ -
+C e
+Mg++
+ 1.8
+ 2.4
+ 3.1
+ -
+ -
+ -
+t c
+i a K+
+ 1.3
+ 1.1
+ 1.1
+ 1.0
+ 1.1
+ 1.1
+o m
+n b Na+
+ 0.3
+ 0.4
+ 0.9
+ 1.0
+ 1.3
+ 1.1
+e i
+s o H+
+ 3.2
+ 3.3
+ 2.9
+ -
+ -
+ -
+% Na/T
+ 0.8
+ 1.1
+ 1.9
+ 2.2
+ 3.0
+ 2.6
+Equiv. de humedad (%)
+ 36.9
+ 38.1
+ 52.1
+ 51.5
+ 49.4
+ 47.9
+Fósforo asimilable (ppm)
+ 10.54
+ 4.35
+ 3.03
+ 2.39
+ 2.35
+ 2.34

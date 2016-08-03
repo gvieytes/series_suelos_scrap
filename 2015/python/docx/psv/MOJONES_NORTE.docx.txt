@@ -1,0 +1,265 @@
+
+--------------------------------------------------------------------------------
+SERIE MOJONES NORTE Símbolo: MjN
+
+
+Pertenece a la familia "fina, neutra (t), térmica" de los Peludertes argiudólicos (vertisol con epipedón mólico y B2 textural).
+
+Muestra un microrrelieve gilgai bien desarrollado, los cristales de sulfato de calcio (yeso) aparecen a partir de los 60 cm.
+
+Suelo desarrollado a partir de sedimentos limos calcáreos, con abundantes sulfatos de calcio.
+
+
+Perfil tipo: ER6-15aC
+Fecha: 22-X-1974
+Ubicación: Ea. "La Verde" (foto 460-9) - Dpto. Villaguay.
+Reconocedores: H.A. Tasi; R.E. Kleinerman.
+
+
+A1: 00-22 cm; gris oscuro (10YR 4/1) en seco, gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares que rompen en agregados granulares y bloques subangulares medios, moderados; firme en seco; barnices ("humic skins") escasos; moteados de hierro-manganeso escasos, finos y débiles; horizonte eluviado; límite claro, suave.
+
+B21: 22-42 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, moderados; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso escasos, finos y débiles; concreciones de hierro-manganeso escasas y finas; límite claro, suave.
+
+B22ca: 42-72 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; caras de fricción ("slickensides") comunes, finas, intersectadas; moteados de hierro-manganeso escasos, finos y débiles; concreciones de hierro-manganeso escasas, finas; concreciones calcáreas duras y blandas, escasas, finas; moderada cantidad de carbonatos libres en la masa; límite claro, suave.
+
+B31ca: 72-98 cm; pardo grisáceo muy oscuro (10YR 4/2) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares y cuneiformes; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso escasos, finos y débiles; concreciones calcáreas comunes, blandas y duras, de 2 cm; moderada cantidad de carbonatos libres en la masa; límite claro, suave.
+
+B32ca: 98 cm +; pardo (7.5YR 5/4) en húmedo; franco arcillo limoso; estructura en bloques subangulares gruesos; caras de fricción ("slickensides") comunes; concreciones de hierro-manganeso escasas; concreciones calcáreas escasas; moderada cantidad de carbonatos libres en la masa; cristales de sulfato de calcio comunes; materiales de los horizontes superficiales rellenando las grietas.
+
+
+
+Variabilidad de rasgos
+
+	Está dada preferentemente por su posición en el paisaje y por ende a la mayor o menor expresión del gilgai lineal; en parte asociada a la serie Viraró con marcado hidromorfismo y epipedón muy eluviado. El epipedón varia entre 09 y 27 cm y la textura franco-limosa a franco-arcillo-limosa y un B2t entre 40 y 60 cm de espesor con porcentaje de arcilla que oscila entre 30-45%. Los cristales de sulfato de calcio (yeso) a partir de los 60 cm en forma muy abundante.
+
+
+Fases
+
+No posee a este nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+La serie Mojones Norte se parece a la serie Avigdor, pero ésta está en un paisaje de pendientes más suaves y posee más tenores de arcilla desde la superficie; y a la serie El Rancho que es más hidromórfica.
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento superficial medio a rápido. Permeabilidad lenta a muy lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+	
+Muy susceptible a la erosión hídrica en surcos y cárcavas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Mojones Norte
+
+ER6-15aC
+Nº de registro
+ 1.485
+ 1.486
+ 1.487
+ 1.488
+ 1.489
+Horizonte
+ A1
+ B21
+ B22ca
+ B31ca
+ B32ca
+Profundidad (cm)
+ 0.2-10
+ 24-34
+ 47-62
+ 75-90
+ 108-124
+Mat.organica (%)
+ 6.54
+ 4.13
+ 2.41
+ 1.20
+ 0.01
+N (%)
+ 0.3
+ 0.2
+ 0.2
+ 0.2
+ ND
+C/N
+ 12
+ 11
+ 7
+ 4
+ ND
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 36.7
+ 38.6
+ 47.5
+ 50.8
+ 48.3
+E
+ 2-20 u
+ 30.4
+ 28.9
+ 23.9
+ 28.5
+ 25.3
+X
+ 2-50 u
+ 31.5
+ 31.2
+ 22.5
+ 19.4
+ 30.2
+T
+ 50-100 u
+ 0.3
+ 0.2
+ 0.1
+ 0.1
+ 0.1
+U
+ 100-250 u
+ 0.4
+ 0.5
+ 0.4
+ 0.4
+ 0.3
+R
+ 250-500 u
+ 0.8
+ 0.6
+ 0.6
+ 0.6
+ 0.6
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.2
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 1.1
+ 4.6
+ 7.7
+pH H2O
+ 5.7
+ 5.7
+ 8.2
+ 7.9
+ 7.5
+pH ClK
+ 4.8
+ 6.5
+ 7.1
+ 6.9
+ 6.5
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 46.2
+ 48.5
+ 65.6
+ ND
+ ND
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 34.0
+ 1.8
+ 1.0
+ ND
+ ND
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 3.6
+ 1.8
+ 1.0
+ ND
+ ND
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 0.3
+ 0.3
+ 0.4
+ ND
+ ND
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 0.6
+ 0.5
+ 0.7
+ ND
+ ND
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ 5.5
+ 1.6
+ ND
+ ND
+ ND
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 36.6
+ 41.7
+ 52.7
+ 49.9
+ 43.4
+
+ND: No determinado
+

@@ -1,0 +1,199 @@
+--------------------------------------------------------------------------------
+SERIE DON ANTONIO Símbolo: DA
+Pertenece a la familia "franca fina, mixta, térmica" de los Hapludoles ácuicos.
+Desarrollado sobre material arcillo limoso y franco arenoso.
+La vegetación típica es de juncales.
+Perfil tipo: 7C INTA Castelar
+Fecha: II-1986
+Ubicación: a 1 km al NO de Villa Paranacito (Hoja IGM 3360-36-2) - Dpto. Islas del Ibicuy
+Reconocedores: L. A. Gómez; R. F. Ferrao
+A: 0-17 cm; negro (10YR 2/1) en húmedo, gris oscuro (10YR 4/1) en seco; arcillo limoso; migajosa; friable, ligeramente plástico y ligeramente adhesivo; límite inferior abrupto suave.
+I: 17-41 cm; gris muy oscuro (10YR 3/1) en húmedo; gris (10YR 5/1) en seco; arcillo limoso; bloques subangulares, medios, moderados; duro, friable, plástico y adhesivo; límite inferior claro y suave.
+II: 41-92 cm; gris verdoso (5GY 6/1) en húmedo; gris verdoso claro (5GY 7/1) en seco; franco; bloques subangulares, gruesos, fuertes; extremadamente duro, firme, plástico y adhesivo; escasas concreciones de hierro manganeso; moteados abundantes, sobresalientes y gruesos; límite inferior claro y suave.
+III: 92-110 cm; pardo amarillento (10YR 5/6) en húmedo; pardo muy pálido (10YR 7/4) en seco; franco a franco arenoso; masivo; friable, no plástico, no adhesivo; moteados abundantes, sobresalientes y gruesos.
+ Serie Don Antonio
+Variabilidad de rasgos
+No se determinó.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Mal drenado. Escurrimiento superficial nulo. Permeabilidad muy lenta. Muy anegable e inundable.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Don Antonio
+7C INTA Castelar
+N° de registro
+ 30555
+ 30556
+ 30557
+ 30558
+Horizonte
+ A
+ I
+ II
+ III
+Profundidad (cm)
+ 2-15
+ 20-40
+ 45-90
+ 95-110
+Mat.organica (%)
+ 15.62
+ 4.13
+ 0.42
+ 0.12
+C (%)
+ 9.03
+ 2.39
+ 0.24
+ 0.07
+N (%)
+ 0.785
+ 0.188
+ -
+ -
+C/N
+ 11
+ 13
+ -
+ -
+T <2 u
+ 43.0
+ 42.2
+ 12.4
+ 7.5
+E 2-20 u
+ 27.3
+ 43.9
+ 16.1
+ 7.5
+X 2-50 u
+ 51.0
+ 54.7
+ 48.6
+ 43.3
+T 50-74 u
+ 4.1
+ 1.9
+ 25.6
+ 40.5
+U 74-100 u
+ 1.0
+ 0.7
+ 10.5
+ 6.9
+R 100-250 u
+ 0.9
+ 0.5
+ 2.9
+ 1.8
+A 250-500 u
+ -
+ -
+ -
+ -
+Gravilla (> 7) Tosca Ca %
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ -
+Equiv. de humedad (%)
+ 47.7
+ 41.2
+ 14.3
+ 6.9
+Resistencia de la pasta (Ohms/cm)
+ 1682
+ 2243
+ 4113
+ 5609
+pH en pasta
+ 4.2
+ 4.2
+ 4.2
+ 4.2
+PH H2O
+ 4.6
+ 4.7
+ 4.7
+ 6.9
+pH ClK
+ 3.6
+ 3.7
+ 3.7
+ 5.2
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ Cationes de camb (m. e / 100 g)
+Ca++
+ 13.1
+ 10.6
+ 4.2
+ 3.8
+Mg++
+ 5.2
+ 5.5
+ 2.4
+ 1.0
+Na+
+ 1.4
+ 1.1
+ 0.8
+ 0.5
+K+
+ 0.9
+ 0.6
+ 0.2
+ 0.2
+% Na/T
+ 3.5
+ 3.7
+ 9.3
+ 8.1
+% Saturación de Agua
+ 88
+ 77
+ 42
+ 40
+Valor S (m.e./100 g)
+ 20.6
+ 17.8
+ 7.6
+ 5.5
+H de cambio (m.e./100 g)
+ 23.0
+ 12.7
+ 6.3
+ 3.6
+Valor T (m.e./100) NH4++ o Na+
+ 39.5
+ 29.3
+ 8.6
+ 6.1
+% de saturación de T
+ 52
+ 61
+ 88
+ 90
+% de saturación de S + H
+ 47
+ 58
+ 55
+ 60
+Fósforo asimilable (ppm)
+ 5.6
+ 2.4
+ 3.5
+ 15.2
+Factor de Humedad
+ 1.15
+ 1.04
+ 1.01
+ 1.01

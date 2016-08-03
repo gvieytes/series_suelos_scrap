@@ -1,0 +1,199 @@
+--------------------------------------------------------------------------------
+SERIE LA JUANITA Símbolo: LJu
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles rendólicos.
+Son suelos poco profundos, moderadamente bien drenados, con un epipedón oscuro, franco-limoso, y un horizonte argílico somero y levemente desarrollado, franco-limoso a arcillo-limoso, de color pardo grisáceo oscuro.
+Presenta concreciones de carbonatos y calcáreo libre en la masa prácticamente en todo el perfil. Son suelos desarrollados en materiales loessoides muy heterogéneos en corta distancia, que se han depositado sobre materiales calcáreos consolidados muy antiguos (bancos de "tosca" calcárea de edad pliocena/pleistocena).
+Perfil tipo: ER7-84C
+Fecha: 30-VI-1989.
+Ubicación: Colonia Ensayo (foto 446-95) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+Ap: 00-19 cm; gris muy oscuro a pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo; gris (10YR 5/1) en seco; franco-limoso; estructura granular y en bloques subangulares, medios, débiles; duro en seco; friable en húmedo; barnices "humic skins" y "clay humic skins", abundantes, medios; moteados de hierro escasos, finos, débiles; límite abrupto, suave.
+B21tca: 19-34 cm; pardo muy oscuro a pardo grisáceo muy oscuro (10YR 3.5/2) en húmedo; pardo grisáceo (10YR5.2) en seco; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes que rompen en bloques subangulares, medios, moderados; extremadamente duro en seco; firme en húmedo; barnices "clay humic skins" y "clay skins", abundantes, medios y gruesos; caras de fricción ("slickensides") finas, intersectadas; moteados de hierro comunes, precisos y finos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes; límite gradual, ondulado.
+B22tca: 34-51 cm; pardo grisáceo (10YR 5/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, moderados, que rompen en bloques subangulares, medios, débiles; extremadamente duro en seco; friable en húmedo; barnices "clay humic skins" escasos, finos, y "clay skins", abundantes y medios; caras de fricción ("slickensides") abundantes, finas e intersectadas; abundante cantidad de carbonatos libres en la masa; concreciones y rodados calcáreos de hasta 5 cm, abundantes; límite gradual, suave.
+B3ca: 51-70 cm; pardo grisáceo (10YR 5/2) en húmedo; franco-limoso; estructura bloques cuneiformes, medios, moderados, friable en húmedo; barnices "clay humic skins" escasos y finos; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro y manganeso abundantes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones y rodados calcáreos de hasta 5 cm, abundantes, duras y semi-duras; límite gradual, suave.
+(R): 70 cm+; banco de "tosca" calcárea, semi-consolidado, gris pardo claro (10YR 6/2) en húmedo, de matriz franco-limosa y abundante cantidad de dendritas de manganeso.
+Variabilidad de rasgos
+El suelo tiene una profundidad efectiva de aproximadamente 70-80 cm hasta alcanzar el material calcáreo consolidado, aunque en algunos perfiles éste puede aparecer recién a los 30 cm. Esta amplia variabilidad se manifiesta, a su vez, en el espesor del epipedón mólico (entre 15-40 cm) que puede estar compuesto de un A1 o A11+A12. No es común un horizonte transicional B1.
+Al horizonte superficial le sigue un horizonte argílico somero (en todos los casos estudiados su espesor no supera los 40 cm), de estructura bloquiforme y un contenido de arcilla muy variable (27-48 %) y la particularidad de presentar una abundante acumulación de carbonatos, tanto en forma libre como en concreciones de hasta 5 cm y rodados calcáreos de diámetro muy variable.
+En algunas lomas y pendientes el proceso erosivo natural ha dejado expuesto el material calcáreo consolidado ("tosca") el cual, afectado por el agua de escorrentía, es redisuelto y transportado pendiente abajo (rodados calcáreos de arrastre). Este banco calcáreo aparece en el perfil a profundidades variables y, en muchos casos, aflora en superficie; la génesis de este material geológico (edad pliocena-pleistocena) parece estar asociada a la formación (elevación) de la peniplanicie entrerriana, manteniendo un nivel uniforme sobre el nivel del mar (aprox. 37 a 43 metros). Este estrato (consolidado unas veces, friable y pulvurulento otras) es de una textura muy variable entre franco-arenosa a arcillosa, fosilífero en su parte inferior -marina- y con aspecto loessiforme o tobásico en sus formaciones superiores. Este material ha sido interpretado por algunos autores como un antiguo horizonte petrocálcico que pertenecería a un antiguo perfil, truncado, sobre el cual el manto de loess se habría depositado. Ante la falta de otros elementos de juicio para confirmar su génesis, se ha preferido -a los fines del levantamiento de suelos- considerar a este material como de origen geológico, hasta tanto posteriores estudios evidencien lo contrario.
+Parte de los pedones que integran la serie posee un horizonte B2 de poco desarrollo y que no puede clasificarse como argílico e, inclusive, existen perfiles en donde el horizonte A1 descansa directamente sobre la "tosca". Los perfiles, en estos casos, deberían clasificarse como Hapludoles rendólicos, pero -a los fines prácticos de uso y manejo (limitaciones)- esta diferenciación no fué considerada a nivel de otra serie, sino que se las prefirió incluír como "taxa adjunta" a la misma serie. Estos suelos, con epipedones de colores muy oscuros, fueron erróneamente clasificados por algunos autores, en el pasado, como Rendzinas. Sin embargo, el estudio morfológico de sus perfiles revela que están desarrollados en loess o sedimentos loesssoides similares y no a partir de la meteorización del material calizo (G.W. van Barneveld, 1974).
+Fases
+No se han distinguido fases a la escala de reconocimiento (1:100.000).
+Series similares y sus diferencias
+Se parece a la Serie Las Mercedes, pero esta pertenece al orden Vertisol y está desarrollada en un paisaje distinto, aunque el banco calcáreo subyacente a ambas es del mismo origen.
+Drenaje
+Bien a moderadamente bien drenado; escurrimiento superficial rápido. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie La Juanita tiene un grado de erosión hídrica actual muy variable a corta distancia, dependiendo de: la pendiente, la presencia o ausencia del horizonte B2 y la profundidad a la que aparece la tosca. En parte, la estabilidad del paisaje frente a la erosión (tanto natural como acelerada) está determinada por el control estructural que ejerce el banco calcáreo consolidado. Aún en pendientes de hasta 12 % se ha podido observar una relativa estabilidad del perfil.
+Las pendientes normalmente cortas, la presencia de calcáreo en todo el perfil y el B2 normalmente poco desarrollado, contribuyen a una baja potencialidad erosiva.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Juanita
+ER7-84C
+Nº de registro
+ 5.300
+ 5.301
+ 5.302
+ 5.303
+ 5.304
+Horizonte
+ Ap
+ B21t
+ B22tca
+ B3ca
+ CR
+Profundidad (cm)
+ 05-15
+ 22-32
+ 40-50
+ 55-65
+ 75-85
+Mat.organica (%)
+ 5.18
+ 4.00
+ 2.53
+ 1.64
+ 0.46
+N (%)
+ 0.20
+ 0.20
+ 0.13
+ 0.08
+ 0.04
+C/N
+ 15
+ 12
+ 12
+ 12
+ 7
+T < 2 u
+ 38.62
+ 48.38
+ 46.68
+ 37.24
+ 26.22
+E 2-20 u
+ 18.61
+ 16.17
+ 14.15
+ 13.03
+ 23.01
+X 2-50 u
+ 47.95
+ 41.47
+ 46.33
+ 55.55
+ 55.59
+T 50-100 u
+ 6.68
+ 4.61
+ 2.82
+ 2.88
+ 9.10
+U 100-250 u
+ 6.39
+ 5.09
+ 3.84
+ 3.94
+ 7.80
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.36
+ 0.45
+ 0.28
+ 0.39
+ 0.77
+ 1000-2000 u
+ -
+ -
+ 0.05
+ 0.01
+ 0.11
+CO3Ca (%)
+ -
+ -
+ 20.8
+ 29.4
+ 14.9
+PH H2O
+ 7.2
+ 7.5
+ 8.2
+ 8.3
+ 8.2
+pH ClK
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 43.80
+ 49.70
+ -
+ -
+ -
+d
+Ca++
+ 30.60
+ 32.3
+ -
+ -
+ -
+C
+e
+a
+Mg++
+ 10.50
+ 15.80
+ -
+ -
+ -
+t
+c
+i
+a
+K+
+ 0.90
+ 0.40
+ 0.32
+ 0.21
+ 0.21
+o
+m
+n
+b
+Na+
+ 0.63
+ 0.25
+ 0.51
+ 0.38
+ 0.38
+e
+i
+s
+o
+H+
+ 0.90
+ 0.90
+ -
+ -
+ -
+% Na/T
+ 1.44
+ 0.50
+ N.D.
+ N.D.
+ N.D.
+Equival. de humedad (%)
+ 31.82
+ 39.00
+ 33.34
+ 30.04
+ 29.26

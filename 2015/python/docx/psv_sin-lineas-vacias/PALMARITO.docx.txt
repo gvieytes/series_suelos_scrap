@@ -1,0 +1,220 @@
+--------------------------------------------------------------------------------
+SERIE PALMARITO Símbolo: Plmto
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos desarrollados en materiales limos-loessoides retransportados, franco arcillo limosos con aportes de arenas.
+Son suelos profundos, moderadamente bien drenados, con un epipedón mólico oscuro franco arenoso a franco arcillo limoso y un horizonte argílico somero, con concreciones de hierro-manganeso y algunas caras de fricción ("slickensides").
+Perfil tipo: ER7-132C
+Fecha: 02-VI-1999.
+Ubicación: Estancia "Don Guillermo" (foto IRH 152-30) - Dpto. San Salvador
+Reconocedores: H.A.Tasi; L.O. López.
+A11: 00-23 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-limoso; estructura granular y en bloques subangulares, medios, débiles; friable en húmedo; barnices "humic skins", escasos, finos y débiles; límite claro, suave.
+A12: 23-38 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-limoso; estructura en bloques angulares irregulares, medios, débiles; muy friable en húmedo; barnices "humic skins" escasos y "clay skins abundantes, finos; moteados de hierro-manganeso escasos, finos; límite claro, suave.
+B21t: 38-67 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques angulares irregulares, y bloques cuneiformes medios, débiles; friable en húmedo; barnices "clay skins", abundantes; caras de fricción ("slickensides") abundantes, gruesas no intersectadas; concreciones de hierro-manganeso escasas y finas; límite claro, suave.
+IIB22t: 67-83 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, débiles; barnices "clay skins" son escasos, finos; caras de fricción ("slickensides") gruesas no intersectadas y finas e intersectadas abundantes; límite abrupto, suave.
+IIIB3ca: 83-114 cm; pardo oscuro (10YR 3/3) en húmedo; franco-arcilloso; estructura en prismas compuestos irregulares, finos, débiles que rompen en bloques angulares irregulares y bloques cuneiformes medios, débiles; caras de fricción ("slickensides") abundantes, gruesas no intersectadas; concreciones calcáreas escasas; concreciones de hierro-manganeso comunes, finas y precisas; límite abrupto, suave.
+IVC: + 114 cm; pardo (7.5YR 5/4) en húmedo; franco-arcilloso; estructura masiva; concreciones de hierro-manganeso abundantes; moteados abundantes, precisos y medios; caras de fricción (" slickensides") fósiles, abundantes.
+Variabilidad de rasgos
+El sólum varía entre 60-75 cm de espesor. El epipedón está compuesto generalmente de A11 + A12 de 30-35 cm de espesor y es frecuente que el A12 sea poroso y algo lixiviado. En algunos sectores puede presentar perfiles con suelos enterrados (tapto cumúlicos).
+El B2t es generalmente muy somero (no supera los 40 cm de espesor) y pasa frecuentemente en forma abrupta hacia una discontinuidad litológica a horizontes franco arcillosos con moteados y concreciones de hierro-manganeso.	
+Fases
+No se han descripto a escala de reconocimiento.
+Drenaje
+Moderada a imperfectamente bien drenado; escurrimiento superficial medio a rápido. Permeabilidad lenta. Capa freática a 12 m. Grupo hidrológico C.
+Erosión
+La Serie Palmarito no presenta erosión hídrica actual, pero en sectores de captación hacia los arroyos principales podría presentar erosión en cárcavas muy activas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Palmarito
+ER7-132C
+N° de registro
+ 4149
+ 4150
+ 4151
+ 4152
+ 4153
+ 4154
+Horizonte
+ A11
+ A12
+ B21t
+ IIB22t
+ IIIB3ca
+ IVC
+Profundidad (cm)
+ 07-17
+ 26-34
+ 45-60
+ 70-80
+ 95-105
+ 130-145
+Mat.organica (%)
+ 4.28
+ 3.16
+ 1.68
+ 1.05
+ 0.63
+ 0.14
+N (%)
+ 0.198
+ 0.110
+ 0.084
+ 0.054
+ 0.033
+ -
+C/N
+ 13
+ 17
+ 12
+ 12
+ 12
+ -
+T <2
+ 26.98
+ 25.96
+ 40.37
+ 38.44
+ 30.98
+ 28.00
+E 2-20
+ 36.01
+ 37.20
+ 30.73
+ 30.98
+ 33.01
+ 32.15
+X 2-50
+ 56.95
+ 53.58
+ 44.79
+ 42.07
+ 42.11
+ 36.07
+T 50-100
+ 0.44
+ 0.75
+ 0.98
+ 0.88
+ 0.94
+ 1.64
+U 100-500
+ 15.25
+ 19.30
+ 13.58
+ 18.24
+ 25.52
+ 33.89
+R 500-1000
+ 0.38
+ 0.41
+ 0.33
+ 0.35
+ 0.43
+ 0.39
+A 1000-2000
+ -
+ -
+ 0.01
+ 0.02
+ 0.02
+ 0.01
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 2.38
+ -
+pH H2O
+ 6.4
+ 6.1
+ 6.7
+ 7.4
+ 8.4
+ 8.1
+pH ClK
+ 5.4
+ 5.1
+ 5.4
+ 6.5
+ 7.1
+ 6.4
+Conductividad eléctrica mmhos/cm
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 0.270
+ 24.81
+ 0.135
+ 22.88
+ 0.173
+ 32.38
+ 0.539
+ 31.61
+ 0.366
+ 30.10
+ 0.266
+ 21.45
+d
+Ca++
+ 17.60
+ 15.66
+ 28.31
+ 27.04
+ 24.92
+ 18.43
+C
+e
+a
+Mg++
+ 1.76
+ 1.56
+ 1.35
+ 1.17
+ 1.87
+ 1.05
+t
+c
+i
+a
+K+
+ 0.68
+ 0.21
+ 0.68
+ 0.92
+ 0.60
+ 0.40
+o
+m
+n
+b
+Na+
+ 0.27
+ 0.22
+ 0.35
+ 1.57
+ 2.35
+ 2.22
+e
+i
+s
+o
+H+
+% Na/T
+ 1.09
+ 0.96
+ 1.08
+ 4.97
+ 7.81
+ 10.35
+Equivalente de humedad (%)
+ 29.86
+ 27.36
+ 41.28
+ 39.56
+ 33.45
+ 25.87
+Fósforo asimilable ppm
+ 11.07
+ 8.19
+ 4.97
+ 4.43
+ 3.32
+ 2.74

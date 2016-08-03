@@ -1,0 +1,190 @@
+
+--------------------------------------------------------------------------------
+SERIE EMBARCADERO FERNANDEZ Símbolo: EFe
+
+
+Pertenece a la familia "franca fina, silícea, térmica" de los Hapludoles fluvénticos.
+
+Es un suelo no salino ni sódico, originado a partir de redepósitos eólicos de materiales arenosos marinos.
+
+
+Perfil tipo: 320C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 15 km al NE de la localidad de Ibicuy (Hoja IGM 3360-29-4) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-15 cm; negro pardusco (10YR 2/3) en húmedo; areno franco; masivo; suelto; friable; no plástico, no adhesivo; raíces abundantes; límite inferior claro, suave.
+
+C1: 15-48 cm; pardo oscuro (10YR 3/4) en húmedo; arenoso; masivo; suelto; muy friable; no plástico, no adhesivo; moteados escasos, finos, precisos de color pardo brillante (7,5YR 5/8); raíces comunes; límite inferior abrupto, suave.
+
+IIC2: 48-76 cm; negro pardusco (10YR 3/2) en húmedo; franco arcilloso; estructura en bloques subangulares medios, moderados que rompen en bloques menores; duro; firme; plástico, adhesivo; concreciones ferromanganésicas escasas; moteados abundantes medios, precisos, de color pardo oscuro (7,5YR 3/4); raíces escasas.
+
+
+Variabilidad de rasgos
+
+El suelo se caracteriza por la irregular distribución de la materia orgánica que evidencia un perfil de material arenoso sobrepuesto a otro de material más fino. El perfil arenoso tiene un horizonte superficial de 15 cm de espesor, color negro pardusco, medianamente provisto de materia orgánica y textura areno-franco, seguido de una capa de textura arenosa. A los 48 cm aparece una capa de textura, franco arcillosa estructura en bloques moderados con moteados abundantes.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Permeabilidad moderadamente rápida y drenaje imperfecto, que excepcionalmente puede inundarse.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Embarcadero Fernández
+
+320C INTA Castelar
+
+
+
+N° de registro
+
+
+
+Horizonte
+ A1
+ IC1
+ IIC2
+Profundidad (cm)
+ 5-12
+ 20-42
+ 50-72
+Mat.organica (%)
+ 2.01
+ 0.06
+ 0.74
+C (%)
+ 1.17
+ 0.04
+ 0.43
+N (%)
+ 0.117
+ -
+ 0.083
+C/N
+ 10
+ -
+ 5
+
+T <2 u
+
+ 9.6
+
+ 6.7
+
+ 28.1
+E 2-20 u
+ 3.2
+ 3.0
+ 27.3
+X 2-50 u
+ 5.8
+ 4.2
+ 45.7
+T 50-74 u
+ 0.1
+ -
+ 0.7
+U 74-100 u
+ 0.3
+ 0.3
+ 0.5
+R 100-250 u
+ 53.9
+ 58.4
+ 20.8
+A 250-500 u
+ 30.1
+ 28.1
+ 3.4
+ 500-1000 u
+ 0.2
+ 2.3
+ 0.8
+ 1000-2000 u
+ -
+ -
+ -
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 7.6
+ 3.3
+ 28.1
+Resistencia de la pasta (Ohms/cm)
+ 4011
+ 33884
+ 14522
+pH en pasta
+ 4.3
+ 5.2
+ 4.6
+PH H2O
+ 5.2
+ 5.8
+ 5.2
+pH ClK
+ 3.9
+ 4.0
+ 3.5
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ 1.85
+ 0.6
+ 3.0
+
+Mg++
+ 1.10
+ 0.85
+ 3.4
+
+Na+
+ 0.10
+ 0.05
+ 0.4
+
+K+
+ 0.05
+ 0.05
+ 0.2
+
+H+
+ 8.10
+ 2.60
+ 21.4
+% Na/T
+ 2
+ 2
+ 2
+Suma de bases, m.e./100 gr (S)
+ 3.10
+ 1.55
+ 7.0
+C.I.C., m.e./100 gr (T)
+ 5.45
+ 2.35
+ 17.7
+Saturación con bases, (%) (S/T)
+ 57
+ 66
+ 40
+

@@ -1,0 +1,310 @@
+
+--------------------------------------------------------------------------------
+SERIE RANCHO GRANDE Símbolo: RGd
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos.
+Suelos profundos, moderadamente bien drenados, con abundantes concreciones calcáreas y carbonatos libres a partir de los 90 cm pero los horizontes superiores también presentan escasas concreciones que fueron retransportadas por las hormigas y con un horizonte argílico arcillo-limoso.
+Están desarrollados sobre limos calcáreos.
+Muestra un microrelieve gilgai lineal poco visible en el campo, con ciclos aproximados de 4 a 5 m entre cresta y cresta.
+
+
+Perfil tipo: ER1-111C
+Fecha: 03-VI-1999
+Ubicación: Ea. Rancho Grande. (foto IR 449-86) - Dto. Raíces - Dpto. Villaguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A1: 00-13 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, fuertes; firme en húmedo, duro en seco; barnices ("clay-humic skins") comunes; moteados de hierro-manganeso, escasos, finos y precisos; límite claro, suave.
+
+B1: 13-25 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; firme en húmedo, duro en seco; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso, escasos, finos y precisos; límite claro, suave.
+
+B21t: 25-60 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medios, moderados; firme en húmedo, duro en seco; caras de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso escasos, finos y precisos; límite gradual, suave.
+
+B22t	: 60-90 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en bloques cuneiformes, gruesos, moderados; firme en húmedo, duro en seco; caras de fricción ("slickensides") abundantes, gruesas e intersectadas; moteados de hierro-manganeso escaso, finos, precisos; límite gradual, ondulado.
+
+B3ca: 90-120 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares y cuneiformes, medios, fuertes; firme en húmedo, duro en seco; caras de fricción ("slickensides") escasas a comunes, gruesas; comunes a abundantes carbonatos libres en la masa; concreciones calcáreas, abundantes, blandas y pulverulentas; moteados de hierro-manganeso abundantes, medios y sobresaliente; límite difuso, ondulado.
+
+Cca: 120 cm +; pardo oscuro (7,5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares, irregulares y cuneiformes, medios, moderados; firme en húmedo, duro en seco; caras de fricción ("slickensides") escasas a comunes, medias; concreciones calcáreas abundantes, blandas y pulverulentas; abundantes carbonatos libres en la masa abundantes; moteados de hierro-manganeso abundantes, medios y sobresalientes.
+Variabilidad de rasgos
+
+Está determinada por el movimiento de expansión y contracción del material arcilloso con los distintos contenidos de humedad, que da lugar a la formación del microrelieve gilgai. Este microrelieve es tenue y solo se observa en suelos vírgenes y con vegetación natural.
+
+Presenta un horizonte argílico de color oscuro, con un espesor de 70-80 cm, con abundantes caras de fricción, finas y gruesos y con calcáreo que aparece, en abundante cantidad, a partir de los 90 cm.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Rancho Grande está ligeramente erosionada y corre peligro de erosión en surcos y cárcava, fundamentalmente en áreas bajo uso agrícola intensivo.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Rancho Grande
+
+ER1-111C
+Nº de registro
+ 4.175
+ 4.176
+ 4.177
+ 4.178
+ 4.179
+ 4.180
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 02-10
+ 15-22
+ 30-50
+ 70-85
+ 100-110
+ 115-135
+Mat.organica (%)
+ 5.4
+ 3.9
+ 2.0
+ 1.8
+ 0.5
+ 0.4
+N (%)
+ 0.23
+ 0.18
+ 0.15
+ 0.07
+ 0.02
+ 0.01
+C/N
+ 13
+ 12
+ 7
+ 14
+ 12
+ 16
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 39.79
+ 42.83
+ 48.02
+ 48.51
+ 43.52
+ 43.99
+E
+ 2-20 u
+ 31.82
+ 30.13
+ 28.21
+ 27.97
+ 30.24
+ 30.15
+X
+ 2-50 u
+ 55.57
+ 51.89
+ 47.47
+ 47.18
+ 54.39
+ 54.65
+T
+ 50-100 u
+ 0.79
+ 0.97
+ 1.29
+ 0.94
+ 0.69
+ 0.45
+U
+ 100-500 u
+ 3.79
+ 4.27
+ 3.18
+ 3.45
+ 1.37
+ 0.89
+R
+ 500-1000 u
+ 0.06
+ 0.04
+ 0.04
+ 0.02
+ 0.03
+ 0.02
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.85
+ 1.44
+ 13.27
+ 7.11
+pH H2O
+ 7.0
+ 7.2
+ 7.7
+ 7.8
+ 8.5
+ 8.4
+pH ClK
+ 6.1
+ 6.3
+ 6.6
+ 6.7
+ 7.1
+ 7.0
+C.E.(mmhos/cm)
+ 1.078
+ 0.601
+ 0.562
+ 0.539
+ 0.683
+ 0.792
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 33.95
+ 41.53
+ 43.86
+ 46.12
+ 41.40
+ 42.07
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 29.00
+ 36.60
+ 38.80
+ 38.60
+ -
+ -
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 2.27
+ 2.61
+ 3.11
+ 1.92
+ -
+ -
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 0.97
+ 1.36
+ 1.06
+ 1.72
+ 1.66
+ 1.34
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.25
+ 0.62
+ 0.62
+ 1.65
+ 2.83
+ 2.17
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 3.68
+ 1.49
+ 1.41
+ 3.58
+ 6.84
+ 5.16
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 38.30
+ 41.74
+ 50.46
+ 50.72
+ 43.10
+ 46.95
+
+Fósforo asimilable (ppm)
+ 12.08
+ 8.05
+ 1.83
+ 1.72
+ 1.68
+ 1.64
+

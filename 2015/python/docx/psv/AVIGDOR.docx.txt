@@ -1,0 +1,282 @@
+
+--------------------------------------------------------------------------------
+SERIE AVIGDOR Símbolo: Av
+
+
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Peludertes mólicos (Vertisol mínimo, con un epipedón mólico y un B2 textural).
+Muestra un microrrelieve gilgai lineal tenue, con ciclos de 4 a 7 m y altibajos de hasta 5-10 cm.
+Suelo negro hasta 60-80 cm en el bajo del gilgai y de 00-10 cm en la cresta, ligeramente erosionado, moderadamente bien drenados y moderadamente alcalino en el subsuelo.
+
+En el bajo del gilgai tiene un epipedón mólico franco-arcillo-limoso y un horizonte argílico arcillo-limoso con concreciones de calcáreo que aparecen entre 45-60 cm.
+
+Son suelos desarrollados en material lacustre (limos calcáreos) arcillo-limosos y moderadamente alcalinos.
+
+
+Perfil tipo: ER1-63aC
+Fecha: 29-VIII-1977
+Ubicación: Colonia Avigdor(foto IR 469-24) - Dpto. La Paz
+Reconocedores: O.A. Foti; C.Cuatrin.
+
+
+A1: 00-12 cm; (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; friable en húmedo; vestigios de barnices ("humic skins"); vestigios de moteados; límite gradual, suave.
+
+B21: 12-48 cm; (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios débiles que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; caras de fricción ("slickensides") escasas, no intersectadas; vestigios de moteados; límite gradual, suave.
+
+B22ca: 48-82 cm; (10YR 3/1.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso escasos, finos, precisos; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas, de hasta 0.5 cm; límite gradual, suave.
+
+B3ca: 82-96 cm; (10YR 4/1.5) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques cuneiformes; firme en húmedo; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso comunes, finos y precisos; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas, comunes, de hasta 0.5 cm; límite difuso, suave.
+
+Cca: 96 cm +; (7,5YR 5/2) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; moteados de hierro-manganeso comunes, finos y precisos; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, de hasta 1 cm; horizonte con chorreaduras de materia orgánica.
+
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción del material arcilloso que da lugar a la formación del microrrelieve gilgai y, en menor grado, a la erosión.
+
+El microrrelieve gilgai, por lo general, es tenuemente visible en la fotografía aérea y se observa sólo en campos con vegetación natural o con pendientes de más del 2%; en declives suaves no tiene gilgai, aunque si se observa movimiento en masa del perfil.
+
+El solum varía de 90-100 cm. En el bajo del gilgai elepipedón varia de 18-25 cm, es mólico y poco estructurado. Comprende un horizonte A1 de 12 a 14 cm y la parte superior (5-10 cm) de un horizonte que morfológicamente se describe como un B2t con pocas caras de fricción pero que, por su textura y porcentaje de materia orgánica similares al A1 puede considerarse como un B1 incipiente. El epipedón tiene 33-43% de arcilla en su parte superior y 35-48% en su parte inferior, con 5-6% y 3-4% de materia orgánica, respectivamente. En la cresta del gilgai el epipedón varía de 8-15 cm, tiene menos materia orgánica y es menos oscuro.
+
+El horizonte B2, argílico, existe solo en el bajo del gilgai; tiene 50-55% de arcilla y su estructura es prismática, aunque los prismas pueden ser muy débiles. Las caras de fricción ("slickensides") se encuentran a partir de la parte inferior del epipedón (aunque muy escasas y no intersectadas) pero son más abundantes e intersectadas en el B22, y llegan hasta los 110-130 cm. Cuando seco, el B2 presenta grietas de hasta 2 cm de ancho, que se extienden hasta la base del epipedón.
+
+El calcáreo, en concreciones de hasta 1 cm, aparece a los 45-60 cm en el bajo del gilgai, o prácticamente desde la superficie en la cresta. Su porcentaje varía de 7-15%, con una mayor concentración en el horizonte B3. Son suelos neutros a levemente alcalinos en el epipedón, y moderadamente alcalinos a partir del horizonte B22 (la variabilidad del contenido de Na+ intercambiable se conoce poco, ya que en la mayoría de los perfiles muestreados este elemento no pudo ser determinado por la abundancia de carbonatos). El horizonte C tiene 44-46% de arcilla y su color varia de 7.5YR 4/4 a 7.5YR 5/3.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie El Rancho (con un argílico menos arcilloso y calcáreo más alto en el perfil), a la serie Federal (más hidromórfica, con gilgai irregular y también a la serie Santiago (que no tiene epipedón mólico).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Avigdor está levemente erosionada y corre moderado a grave peligro de erosión en forma laminar, en surcos y cárcavas. En áreas bajo uso agrícola intensivo la susceptibilidad a la erosión hídrica es grave si no se aplican prácticas conservacionistas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Avigdor
+
+ER1-63aC
+Nº de registro
+ 2.321
+ 2.322
+ 2.323
+ 2.324
+ 2.325
+Horizonte
+ A1
+ B21
+ B22ca
+ B3ca
+ Cca
+Profundidad (cm)
+ 01-10
+ 16-44
+ 51-80
+ 82-96
+ 133-146
+Mat.organica (%)
+ 5.8
+ 3.8
+ 0.8
+ 1.1
+ 0.8
+C/N
+ 13
+ 14
+ -
+ 7
+ -
+────────────────────────────────────────────────────────
+
+T
+ < 2 u
+ 42.70
+ 48.20
+ 54.90
+ 47.20
+ 47.20
+E
+ 2-20 u
+ 26.90
+ 27.10
+ 21.30
+ 27.70
+ 27.80
+X
+ 2-50 u
+ 29.90
+ 22.70
+ 23.40
+ 24.70
+ 24.70
+T
+ 50-100 u
+ 0.00
+ 1.5
+ 0.0
+ 0.0
+ 0.0
+U
+ 100-250 u
+ 0.2
+ 0.2
+ 0.1
+ 0.1
+ 0.1
+R
+ 250-500 u
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.0
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+────────────────────────────────────────────────────────
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 7.8
+ 11.6
+ 9.1
+pH H2O
+ 5.9
+ 7.2
+ 8.4
+ 8.4
+ 8.1
+pH ClK
+ 4.5
+ 6.1
+ 7.1
+ 7.1
+ 6.9
+────────────────────────────────────────────────────────
+
+Capacidad de intercambio
+catiónico (meq/100 g)
+Valor T
+
+
+ 43.0
+ 46.0
+ ND
+ ND
+ ND
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 30.60
+ 32.00
+ ND
+ ND
+ ND
+C
+e
+
+
+
+
+
+
+A
+
+Mg++
+ 1.6
+ 2.0
+ ND
+ ND
+ ND
+T
+c
+
+
+
+
+
+
+I
+a
+K+
+ 2.7
+ 1.7
+ ND
+ ND
+ ND
+O
+m
+
+
+
+
+
+
+N
+b
+Na+
+ 1.0
+ 2.0
+ ND
+ ND
+ ND
+E
+i
+
+
+
+
+
+
+S
+o
+H+
+ 5.5
+ 5.5
+ ND
+ ND
+ ND
+% Na/T
+
+
+ 2.3
+ 4.3
+ ND
+ ND
+ ND
+────────────────────────────────────────────────────────
+
+Equivalente de humedad (%)
+ 42.3
+ 46.8
+ ND
+ 54.6
+ 52.2
+
+ND = No determinado
+
+

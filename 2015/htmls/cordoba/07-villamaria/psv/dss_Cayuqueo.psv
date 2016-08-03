@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 7
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a1|bt|bc|ck
+HORIZONTE->Profundidad de la muestra (cm): 0-19|19-42|42-74|74 a +
+HORIZONTE->Materia Orgánica (%): 2.93|0.68|0.17|
+HORIZONTE->Carbono Orgánico (%): 1.7|0.4|0.1|
+HORIZONTE->Nitrógeno total (%): 0.20|0.09||
+HORIZONTE->Relación C/N: 8.5|4.4||
+HORIZONTE->Arcilla, <2 u (%): 21.5|39.4|23.9|14.4
+HORIZONTE->Limo, 2-50 u (%): 64.9|50.2|55.8|62.5
+HORIZONTE->Arena muy fina, 50-100 u (%): 12.1|11.2|18.2|22.4
+HORIZONTE->Arena fina, 100-250 u (%): 0.3|0.3|0.4|0.4
+HORIZONTE->Arena media, 250-500 u (%): 0.2|0.2|0.2|0.2
+HORIZONTE->Arena gruesa, 500-1000 u (%): ||0.3|
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): |||
+HORIZONTE->Calcáreo, CaCO3 (%): 0|0.5|0.9|2.2
+HORIZONTE->Equivalente de humedad (%): 29.6|38.2|28.8|20.5
+HORIZONTE->pH en pasta: 7.6|8.0|8.6|8.4
+HORIZONTE->pH en agua 1:2,5: 7.9|8.6|8.9|9.0
+HORIZONTE->Cationes de intercambio, me/100 gr-Ca++: 10.7||| 
+HORIZONTE->Cationes de intercambio, me/100 gr-Mg++: 1.5|||
+HORIZONTE->Cationes de intercambio, me/100 gr-Na+: 4.7|3.2||6.2
+HORIZONTE->Cationes de intercambio, me/100 gr-K+: 1.8|1.0||1.9
+HORIZONTE->Cationes de intercambio, me/100 gr-H+: |||
+HORIZONTE->Na+, % del valor T: 25.2|15.9|33|56.3
+HORIZONTE->Conductividad, mmhos/cm: |5.14|9.01|
+HORIZONTE->Suma de bases, me/100 gr (S): 18.7|||
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 18.6|20.1|16.5|11.0
+HORIZONTE->Saturación con bases, % (S/T): |||
+HORIZONTE->Composición extracto de saturación, me/1-Ca++: |9.2|10.8|
+HORIZONTE->Composición extracto de saturación, me/1-Mg++: |1.4|2.2|
+HORIZONTE->Composición extracto de saturación, me/1-Na+: |40|84|
+HORIZONTE->Composición extracto de saturación, me/1-K+: |2|2|
+HORIZONTE->Composición extracto de saturación, me/1-HCO3-: |12.8|4.8|
+HORIZONTE->Composición extracto de saturación, me/1-SO4=: |27.2|59.9|
+HORIZONTE->Composición extracto de saturación, me/1-Cl-: |15.8|36.8|

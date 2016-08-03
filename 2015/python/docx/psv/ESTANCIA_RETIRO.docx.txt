@@ -1,0 +1,230 @@
+
+--------------------------------------------------------------------------------
+SERIE ESTANCIA RETIRO Símbolo: ERt
+
+
+Pertenece a la familia "arenosa, mixta, térmica" de los Udisamentes típicos.
+Son suelos muy arenosos (del 57-73.8 de esta fracción mineral).
+De característico color pardo a pardo grisáceo, este horizonte superficial yase sobre materiales más arcillosos que se encuentran aproximadamente a 65-70 cm de profundidad, constituyendo una discontimuidad litológica.
+En algunos casos forman verdaderos "domos" de arena.
+
+
+Perfil tipo: ER1-131C
+Fecha: 23-X-2002
+Ubicación: 4 km al sudeste de Ea. Retiro. (foto IR 096-14). Dto. Dos Hermanas, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-30 cm; pardo grisáceo (10YR 5/2) en seco, pardo oscuro (10YR 3/3) en húmedo; arenoso; sin estructura (grano simple); límite claro, irregular.
+
+A12: 30-67 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arenoso; sin estructura (grano simple) límite abrupto, suave.
+
+II: 67 cm +; gris (7,5YR 5/0) en húmedo; arcillo-arenoso; estructura en bloques cuneiformes gruesos, débiles; extremadamente duro en seco, muy firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, gruesas; concreciones ferromanganesíferas comunes de hasta 6 mm; moteados de hierro abundantes, gruesos, sobresalientes, color pardo fuerte (7,5YR 5/6) y de manganeso abundantes, gruesos y sobresalientes; materiales de horizontes superiores en las grietas.
+
+
+Variabilidad de rasgos
+
+Está basada fundamentalmente en la profundidad a que se encuentra la discontinuidad litológica, que en algunos perfiles está a sólo 20 cm y, en otros, a más de 100 cm.
+
+La capa superficial tiene un espesor promedio de 60 cm y comprende los horizontes A11 y A12, es de color pardo y estructura en grano simple. Tiene de 0.48 a 1.39 % de materia orgánica y el porcentaje de arena fina varía de 64.3 a 73.8 % y arena gruesa de 9.2 a 19.6 %.
+
+Los materiales arcillo-arenosos subyacentes (capa II) contienen 20.8 % de arcilla y 57.11 % de arena fina; el bajo contenido de limo hace que este tipo de materiales sea muy denso, poco permeable y penetrable por las raíces.
+
+
+Fases
+
+No se describieron a nivel de reconocimiento.
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento superficial medio. Permeabilidad moderada a rápida. Capa freática profunda. Grupo hidrológico B.
+
+
+Erosión
+
+La serie Estancia Retiro tiene erosión hídrica ligera, laminar y en pequeños surcos, y una moderada susceptibilidad a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Estancia Retiro
+
+ER1-131C
+
+
+
+N° de registro
+ 10778
+ 10779
+ 10780
+Horizonte
+ A11
+ A12
+ II
+Profundidad (cm
+ 05-20
+ 40-65
+ 90-110
+Mat.organica (%)
+ 1.39
+ 0.48
+ 0.43
+C (%)
+ 0.81
+ 0.28
+ 0.25
+N (%)
+ 0.047
+ 0.027
+ 0.023
+C/N
+ 17.23
+ 10.37
+ 10.87
+
+T <2
+
+ 5.14
+
+ 5.02
+
+ 20.81
+E 2-20
+ 5.74
+ 7.40
+ 7.28
+X 2-50
+ 11.38
+ 10.66
+ 16.45
+T 50-100
+ 0.27
+ 0.26
+ 0.42
+U 100-250
+ 73.88
+ 64.39
+ 57.11
+R 250-500
+ -
+ -
+ -
+A 500-1000
+ 9.22
+ 19.61
+ 4.87
+ 1000-2000
+ 0.11
+ 0.06
+ 0.34
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+PH H2O
+ 6.4
+ 5.5
+ 6.0
+PH ClK
+ 5.7
+ 4.3
+ 4.8
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+
+
+ 18.32
+
+
+
+ 15.57
+
+
+
+ 22.24
+
+D
+Ca++
+ 11.29
+ 9.51
+ 9.76
+C
+E
+
+
+
+
+A
+
+Mg++
+ 1.18
+ 1.07
+ 3.89
+T
+C
+
+
+
+
+I
+A
+K+
+ 0.13
+ 0.15
+ 0.34
+O
+M
+
+
+
+
+N
+B
+Na+
+ 0.24
+ 0.24
+ 0.29
+E
+I
+
+
+
+
+S
+O
+H+
+ 5.47
+ 4.60
+ 7.97
+
+% Na/T
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+
+
+ 6.11
+
+
+ 5.55
+
+
+ 18.08
+
+P disponible (ppm)
+
+ 10.20
+
+ 6.10
+
+ 6.20
+

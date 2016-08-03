@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 300
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|bw|bc|ck
+HORIZONTE->Profundidad de la muestra (cm): 0-23|23-43|43-67|67 a +
+HORIZONTE->Materia Orgánica (%): 3,62|1,89|0,58|
+HORIZONTE->Carbono Orgánico (%): 2,1|1,1|0,34|
+HORIZONTE->Nitrógeno total (%): 0,22|0,11||
+HORIZONTE->Relación C/N: 9,5|10,0||
+HORIZONTE->Arcilla, < 2 µ (%): 26,1|28,9|20,4|15,4
+HORIZONTE->Limo, 2-50 µ (%): 69,4|67,3|74,4|74,4
+HORIZONTE->Arena muy fina, 50-100 µ (%): 2,9|4,2|4,0|6,6
+HORIZONTE->Arena fina, 100-250 µ (%): 1,5|0,2|1,5|4,2
+HORIZONTE->Arena media, 250-500 µ (%): 0,5|0.1|0,3|0,7
+HORIZONTE->Arena gruesa, 500-1000 µ (%): ||0,2|0,2
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): |||
+HORIZONTE->Calcáreo, CaCO3 (%): 0|0|0|4,4
+HORIZONTE->Equivalente de humedad (%): 31,3|30,6|28,6|27,2
+HORIZONTE->pH en pasta: 6,2|6,7|6,9|7,9
+HORIZONTE->pH en agua 1:2,5: 6,5|6,8|7,0|8,2
+HORIZONTE->Cationes de intercambio (me/100 gr)-Ca++: 16,1|17,3|18,5|
+HORIZONTE->Cationes de intercambio (me/100 gr)-Mg++: 2,9|2,5|1,5|
+HORIZONTE->Cationes de intercambio (me/100 gr)-Na+: 0,3|0,1|0,2|0,3
+HORIZONTE->Cationes de intercambio (me/100 gr)-K+: 2,5|2,3|1,4|2,0
+HORIZONTE->Cationes de intercambio (me/100 gr)-H+: 1,2|1,1|0,5|
+HORIZONTE->Suma de bases, me/100 gr (S): 21,8|22,2|21,6|
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 22,9|23,2|22,1|20,1
+HORIZONTE->Saturación con bases, % (S/T): 95|96|98|

@@ -1,0 +1,235 @@
+
+--------------------------------------------------------------------------------
+SERIE EL PATO Símbolo: EPa
+
+
+Pertenece a la familia "fina, mixta, no calcárea, térmica" de los Haplacuoles típicos.
+
+Suelo aluvial salino-sódico. Originado a partir de materiales marinos y continentales.
+
+
+Perfil tipo: 341C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: 16 km al SO de la ciudad de Gualeguay (Hoja IGM 3360-23-3) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-13 cm; negro pardusco (10YR 3/2) en húmedo; franco arcilloso; estructura en bloques subangulares medios débiles que rompen en bloques menores; ligeramente firme; plástico, adhesivo; mo - teados escasos, finos, débiles; raíces abundantes; límite inferior claro, suave.
+
+IIC1: 13-62 cm; negro pardusco (10YR 2/2) en húmedo; franco arcilloso, estructura en bloques subangulares medios, moderados que rompen en bloques menores; ligeramente firme; plástico, adhesivo; concreciones ferromanganésicas comunes; barnices (clay skins) escasos; moteados abundantes, finos, precisos, raíces comunes; límite inferior claro, ondulado.
+
+IIIC2: 62-121 cm; gris amarillento (2,5Y 4/1) en húmedo; arcilloso; estructura en bloques subangulares medios moterados que rompen en bloques menores; duro; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; concreciones calcáreas comunes; barnices (clay skins) escasos; moteados abundantes, finos, precisos; raíces escasas; límite inferior, abrupto, suave.
+
+IVC3: 121-142 cm; pardo amarillento opaco (10YR 5/3) en húmedo; areno franco; masivo con tendencia laminar; muy friable; no plástico, no adhesivo; moteados abundantes, medios, precisos, concentrados en el techo de la capa.
+
+
+Variabilidad de rasgos
+
+La capa superficial es de 13 cm de espesor, color negro parduzco, muy bien provisto de materia orgánica, franco arcilloso, y estructura en bloques subangulares, medios débiles. Sigue una sucesión de capas que van del franco arcilloso al arcilloso y al areno franco en profundidad.
+
+Estas capas subsuperficiales presentan concreciones ferromangenésicas comunes.
+
+Los moteados se hallan desde la superficie en escasa cantidad y de contraste débil, haciéndose abundantes y precisos en profundidad.
+
+Fuertemente salino y sódico desde las capas subsuperficiales.
+
+
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Permeabilidad muy lenta y drenaje pobre. Peligro de inundación frecuente.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Pato
+
+341C INTA Castelar
+
+
+
+
+N° de registro
+
+
+
+
+Horizonte
+ A1
+ IIC1
+ IIIC2
+ IVC3
+Profundidad (cm)
+ 5-10
+ 20-30
+ 70-85
+ 125-135
+Mat. orgánica (%)
+ 6.96
+ 1.28
+ 0.48
+ -
+C (%)
+ 4.04
+ 0.74
+ 0.28
+ -
+N (%)
+ 0.228
+ 0.068
+ -
+ -
+C/N
+ 18
+ 11
+ -
+ -
+
+T <2 u
+
+ 31.4
+
+ 35.5
+
+ 61.3
+
+ 12.5
+E 2-20 u
+ 27.3
+ 17.5
+ 27.5
+ 0.2
+X 2-50 u
+ 36.4
+ 24.4
+ 31.2
+ 3.3
+T 50-74 u
+ 4.9
+ 2.7
+ 0.5
+ 0.3
+U 74-100 u
+ 3.7
+ 4.9
+ 0.8
+ 0.7
+R 100-250 u
+ 14.7
+ 18.1
+ 2.7
+ 53.4
+A 250-500 u
+ 7.6
+ 13.0
+ 1.3
+ 29.2
+ 500-1000 u
+ 1.3
+ 1.3
+ 0.4
+ 0.6
+ 1000-2000 u
+ -
+ 0.1
+ -
+ -
+
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ vest (n)
+ vest (n)
+Equivalente de humedad (%)
+ 32.2
+ 36.4
+ 58.2
+ 15.4
+Resistencia de la pasta (Ohms/cm)
+ 1553
+ 373
+ 202
+ 590
+pH en pasta
+ 5.3
+ 6.1
+ 7.3
+ 7.5
+pH en agua (1:2,5)
+ 6.4
+ 7.6
+ 8.0
+ 8.6
+pH en KCl (1:2,5)
+ 4.5
+ 5.9
+ 6.5
+ 6.8
+Conductividad (mmhos/cm)
+ -
+ 0.09
+ 17.33
+ 8.29
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 9.5
+ 8.3
+ -
+ -
+
+Mg++
+ 4.2
+ 4.4
+ -
+ -
+
+Na[+]
+ 2.3
+ 8.1
+ -
+ -
+
+K[+]
+ 0.8
+ 0.3
+ -
+ -
+
+H[+]
+ 13.0
+ 3.7
+ -
+ -
+Na+ % del valor T
+ 10
+ 34
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ 16.8
+ 21.1
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 23.5
+ 23.6
+ -
+ -
+Saturación con bases, (%) (S/T)
+ 72
+ 89
+ -
+ -
+

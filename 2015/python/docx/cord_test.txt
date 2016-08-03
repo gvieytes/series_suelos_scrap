@@ -1,0 +1,396 @@
+10,25 km al NNE de Puerto San Juan, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+10 km al NO del Est. Forestal Mazaruca, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+10 km al SE de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+11,25 km al SO de Ceibas, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+11,5 km al SO de Ceibas, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+11 km al SE de la localidad de Medanos, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+12,5 km al SO de Ceibas, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+12 km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+12 km al SO de Ceibas, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+1,2 km al SO de El Empalme, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+15 km al NE de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+1,5 Km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+1,5 km al SO de la Estancia Sagastume, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+16 km al S de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+16 km al SO de Gualeguay, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+1 km al SE de El Empalme, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+22 Km al SE de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+24 km al SE de Feliciano, Departamento Feliciano
+<no results>
+(None, None)
+24 km al SSE de la ciudad de Feliciano, Departamento Feliciano
+<no results>
+(None, None)
+2.5 Km al NE de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+26 Km al SO de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+2,75 km al NNO de Puerto San Juan, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+27 km al NE de la ciudad de Feliciano, Departamento Feliciano
+<no results>
+(None, None)
+2 Km al Sur de la localidad de Hernandez, Departamento Quebrachitos, Departamento Victoria
+<no results>
+(None, None)
+3.3 km aprox. de Estacion La Clarita, rumbo Oeste. Hoja 3157-31, Departamento Colon
+<no results>
+(None, None)
+3,5 km al SO de Estacion Minones, Departamento Federal
+<no results>
+(None, None)
+3.7 Km al N de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+38 Km al SE de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+3km al N del Puerto San Juan, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+4.500 m al NE de Colonia Elia, Departamento Uruguay
+<no results>
+(None, None)
+5,75 km al ESE de Medanos, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+5,75km al SO de la localidad de Medanos, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+5,7 km al sudeste de Medanos, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+5 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+5 km al norte de Holt. ,
+<no results>
+(None, None)
+5 km al SO de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+5 Km de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+6.5 Km aprox. de la localidad de Villa Elisa, rumbo NE. Hoja 3357-1, Departamento Colon
+<no results>
+(None, None)
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+6 Km al sur de la localidad de Antelo, Departamento Corrales, Departamento Victoria
+<no results>
+(None, None)
+7 Km al E del cruce de rutas Nac. 18 y Pcial 32, Departamento Quebracho, Departamento Parana
+<no results>
+(None, None)
+7 Km al E de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+7 km al norte de Cerrito, Departamento Tala, Departamento Parana
+<no results>
+(None, None)
+7 km al S de la ciudad de Feliciano, Departamento Feliciano
+<no results>
+(None, None)
+7 Km al SO de San Jaime de la Frontera, departamento federacion
+<no results>
+(None, None)
+8 km al NNE del Puerto San Juan, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+a 1,5 km al Oeste de la parada km 340 FCGU, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+a 1,5 km al SO de la Escuela Provincial N 74, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+a 2 km al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+a 800 m al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Area muestra Aldea Santa Maria, Departamento Parana
+<no results>
+(None, None)
+Area muestra Colonia Nueva, Departamento Parana
+<no results>
+(None, None)
+Campo del Sr. Montrull, Departamento Espinillo. Departamento Parana
+<no results>
+(None, None)
+Celulosa S.A. Isla Victoria, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Durazno, Departamento Tala, Departamento Parana
+<no results>
+(None, None)
+El Relincho, Departamento Federal
+<no results>
+(None, None)
+Esc. Agrotecnica Las Delicias, Departamento Parana
+<no results>
+(None, None)
+Escuela N 121 Sor Juana Ines de la Cruz, Departamento Tala, Departamento Parana
+<no results>
+(None, None)
+Establecimiento Campo Nuevo, Departamento Colon
+<no results>
+(None, None)
+Establecimiento del Sr. Esteban Elgenreder, Departamento Parana
+<no results>
+(None, None)
+Establecimiento Don Antonio, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento Don Tino, Departamento Corrales, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento El Caraguata, Departamento Chilcas, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento El Caraguata, Departamento Chilcas, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento El Caraguata, Departamento Chilcas, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento El Cuadro, dto Montoya, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento El Lucero, Departamento Parana
+<no results>
+(None, None)
+Establecimiento El Potrillo, Departamento Parana
+<no results>
+(None, None)
+Establecimiento El Terron, Departamento Rincon de Nogoya, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento Forestal Mazaruca, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento Isla Don Antonio, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento Isla Victoria, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento La Ceiba, Departamento Pajonal, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento Las Tres Marias, Departamento Tala, Departamento Parana
+<no results>
+(None, None)
+Establecimiento Los Laureles, Departamento Tala, Departamento Parana
+<no results>
+(None, None)
+Establecimiento Los Nogales, Departamento Antonio Tomas- Departamento Parana
+<no results>
+(None, None)
+Establecimiento San Francisco, Departamento Hinojal, Departamento Victoria
+<no results>
+(None, None)
+Establecimiento Sr. Galetto, Departamento Parana
+<no results>
+(None, None)
+Establecimiento Sr. Rausch, Departamento Parana
+<no results>
+(None, None)
+Establecimiento tambero Don Quicho, Departamento Parana
+<no results>
+(None, None)
+Estacion Conscripto Bernardi, Departamento Federal
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Concordia INTA, Departamento Concordia
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria del INTA Parana, Departamento Parana
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana
+<no results>
+(None, None)
+Estacion Experimental INTA Parana, Departamento Parana
+<no results>
+(None, None)
+Estacion Hasenkamp, Departamento Parana
+<no results>
+(None, None)
+Estacion La Calandria, Departamento Federal
+<no results>
+(None, None)
+Estacion Minones, Departamento Federal
+<no results>
+(None, None)
+Estacion Nueva Vizcaya, Departamento Federal
+<no results>
+(None, None)
+Estancia El Diecisiete, dto Hinojal, Departamento Victoria
+<no results>
+(None, None)
+Estancia El Guasuncho, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Estancia El Puesto, Departamento Quebracho, Departamento Parana
+<no results>
+(None, None)
+Estancia El Talar, Departamento Parana
+<no results>
+(None, None)
+Estancia El Talar, Departamento Parana
+<no results>
+(None, None)
+Estancia La Fe, Departamento Montoya, Departamento Victoria
+<no results>
+(None, None)
+Estancia La Luisa, Departamento Parana
+<no results>
+(None, None)
+Estancia Las Rosas, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Estancia Las Rosas, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Estancia Mugherli, Departamento Uruguay
+<no results>
+(None, None)
+Estancia Mugherli, Departamento Uruguay
+<no results>
+(None, None)
+Estancia San Benito, Departamento Feliciano
+<no results>
+(None, None)
+Estancia San Francisco, dto Hinojal, Departamento Victoria
+<no results>
+(None, None)
+Estancia Santa Teresita, Departamento Parana
+<no results>
+(None, None)
+Est. Maria Angelica, Departamento Antonio Tomas, Departamento Parana
+<no results>
+(None, None)
+INTA Concordia, Departamento Concordia
+<no results>
+(None, None)
+INTA Concordia, Departamento Concordia
+<no results>
+(None, None)
+INTA Concordia, Departamento Concordia
+<no results>
+(None, None)
+La Avanzada, Departamento Concordia
+<no results>
+(None, None)
+La Entrerriana, Departamento Federal
+<no results>
+(None, None)
+La Estrella, Departamento Feliciano
+<no results>
+(None, None)
+La Palmita, Departamento Federal
+<no results>
+(None, None)
+Maria Luisa, Departamento Federal
+<no results>
+(None, None)
+Parana del INTA, Departamento Parana
+<no results>
+(None, None)
+Paso Birrinchin, Departamento Federal
+<no results>
+(None, None)
+Predio de La Abadia del Nino Dios, Departamento Corrales, Departamento Victoria
+<no results>
+(None, None)
+Predio perteneciente a La Abadia del Nino Dios, Departamento Corrales, Departamento Victoria
+<no results>
+(None, None)
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria
+<no results>
+(None, None)
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria
+<no results>
+(None, None)
+Puesto de Tabla, Departamento Federal
+<no results>
+(None, None)
+San Buenaventura, Departamento Federal
+<no results>
+(None, None)
+San Lorenzo, Departamento Islas del Ibicuy
+<no results>
+(None, None)
+Santa Jeronima, 18 km al SE/E de Feliciano- Departamento Feliciano
+<no results>
+(None, None)

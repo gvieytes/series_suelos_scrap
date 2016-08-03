@@ -1,0 +1,40 @@
+Serie_General_Cabrera.psv ->> ID..........................: 806
+Serie_General_Cabrera.psv ->> CLASIFICACION...............: Haplustol éntico
+Serie_General_Cabrera.psv ->> SERIE.......................: GENERAL CABRERA (GrlCbr)
+Serie_General_Cabrera.psv ->> UBICACION...................: 2,5 Km al SE de la localidad de General Cabrera, departamento Juárez Celman
+Serie_General_Cabrera.psv ->> PROVINCIA...................: CORDOBA
+Serie_General_Cabrera.psv ->> LATITUD.....................: S324900
+Serie_General_Cabrera.psv ->> LONGITUD....................: O635100
+Serie_General_Cabrera.psv ->> ALTITUD.....................: 288
+Serie_General_Cabrera.psv ->> PENDIENTE...................: FALTA!
+Serie_General_Cabrera.psv ->> DRENAJE.....................: FALTA!
+Serie_General_Cabrera.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_General_Cabrera.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_General_Cabrera.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_General_Cabrera.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_General_Cabrera.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | ck
+Serie_General_Cabrera.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-50 | 50a+
+Serie_General_Cabrera.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,37 | 0,51 | -
+Serie_General_Cabrera.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0,8 | 0,3 | -
+Serie_General_Cabrera.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,13 | 0,08 | -
+Serie_General_Cabrera.psv ->> HORIZONTE->RELACIÓN C/N.....: 6,1 | 3,7 | -
+Serie_General_Cabrera.psv ->> HORIZONTE->ARCILLA 2 (%)....: 10,6 | 8,8 | 7,8
+Serie_General_Cabrera.psv ->> HORIZONTE->LIMO 2-50 (%)....: 39,2 | 38,2 | 38,0
+Serie_General_Cabrera.psv ->> HORIZONTE->AMF 50-100 (%)...: 46,0 | 51,6 | 51,4
+Serie_General_Cabrera.psv ->> HORIZONTE->AF 100-250 (%)...: 3,1 | 0,7 | 2,1
+Serie_General_Cabrera.psv ->> HORIZONTE->AM 250-500 (%)...: 0,4 | 0,0 | 0,0
+Serie_General_Cabrera.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,0 | 0,0 | 0,0
+Serie_General_Cabrera.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,0 | 0,0 | 0,0
+Serie_General_Cabrera.psv ->> HORIZONTE->CaCO 3 (%).......: 0,0 | 0,0 | 2,9
+Serie_General_Cabrera.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 15,1 | 12,5 | 11,9
+Serie_General_Cabrera.psv ->> HORIZONTE->PH PASTA.........: 5,8 | 6,9 | 8,3
+Serie_General_Cabrera.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,0 | 7,1 | 8,6
+Serie_General_Cabrera.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 5,9 | 6,9 | 
+Serie_General_Cabrera.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,2 | 1,1 | 
+Serie_General_Cabrera.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2 | 0,2 | 0,1
+Serie_General_Cabrera.psv ->> HORIZONTE->CI ME/100G-K +...: 1,8 | 1,2 | 0,8
+Serie_General_Cabrera.psv ->> HORIZONTE->CI ME/100G-H +...: 1,6 | 0,6 | 
+Serie_General_Cabrera.psv ->> HORIZONTE->Na INTERC % (PSI): 1,9 | 2,0 | 
+Serie_General_Cabrera.psv ->> HORIZONTE->SUM.B. ME/100G(S): 9,1 | 9,4 | 
+Serie_General_Cabrera.psv ->> HORIZONTE->CIC ME/100G(T)...: 10,9 | 10,0 | 8,5
+Serie_General_Cabrera.psv ->> HORIZONTE->SAT.B % (S/T)....: 83,5 | 94,0 | 

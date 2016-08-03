@@ -1,0 +1,312 @@
+
+--------------------------------------------------------------------------------
+SERIE URDINARRAIN Símbolo: Urd
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos.
+Muestra un microrrelieve gilgai poco desarrollado.
+Son suelos muy profundos, oscuros y moderadamente bien drenados.
+Las concreciones de calcáreo aparecen a los 75 cm aproximadamente, incrementándose en profundidad.
+
+Suelos desarrollados en limos calcáreos, franco-arcillo-limoso a arcillo-limoso.
+
+
+Perfil tipo: ER1-138C
+Fecha: 14-XI-2002.
+Ubicación: 7 Km noreste de ruta 20 (Ea. Santa Clara). (foto IR122-36). Dto. Pehuajó al Norte, Dpto Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A1: 00-16 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; duro en seco; firme en húmedo; barnices ("humic skins"), comunes; moteados de hierro-manganeso escasos, finos y débiles; límite abrupto, suave.
+
+B21t: 16-44 cm; negro (10YR 2/1) en húmedo; arcillo-limoso a arcilloso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques cuneiformes, medios, moderados; muy duro en seco; firme en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") abundantes, medias y gruesas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B22t: 44-75 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados que rompen en bloques angulares irregulares y cuneiformes, medios, moderados; muy duro en seco; firme en húmedo; caras de fricción ("slickensides") abundantes, medias; moteados de hierro-manganeso escasos, finos y débiles; límite claro, ondulado.
+
+B3ca: 75-110cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques cuneiformes, medios, moderados; duro en seco; firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") comunes; concreciones calcáreas comunes, de hasta 1 cm; abundantes carbonatos libres en la masa; límite gradual, ondulado.
+
+Cca: 110cm+ pardo a pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, gruesos, moderados; ligeramente duro en seco, friable en húmedo, barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, gruesas e intersectadas; concreciones calcáreas comunes, gruesas de hasta 1 cm; abundantes carbonatos libres en la masa; moteados de hierro-manganeso abundantes, gruesos y sobresalientes.
+
+
+Variabilidad de rasgos
+
+Presenta un horizonte superficial de 15-20 cm de espesor, arcillo-limoso, de color muy oscuro y porcentajes de materia orgánica en superficie de 5-6% disminuyendo sensiblemente a partir de los 15-20 cm.
+
+El argílico, con abundantes caras de fricción, tiene entre 47-49 % de arcilla. El calcáreo en forma de concreciones y en carbonatos libres en la masa, aparece aproximadamente entre los 70-80 cm de profundidad, en porcentajes, generalmente escasos.
+
+
+Fases
+
+Se determinó a nivel de reconocimiento una fase por erosión moderada. (Urd.h2).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Urdinarrain tiene erosión hídrica actual moderada y es muy susceptible a la misma.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Urdinarrain
+
+ER1-138C
+
+
+
+
+
+N° de registro
+ 11063
+ 11064
+ 11065
+ 11066
+ 11067
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 20-40
+ 46-70
+ 80-100
+ 135-140
+Mat.organica (%)
+ 5.62
+ 3.23
+ 2.30
+ 1.58
+ 0.57
+C (%)
+ 3.27
+ 1.88
+ 1.34
+ 0.92
+ 0.33
+N (%)
+ 0.281
+ 0.136
+ 0.102
+ 0.057
+ 0.034
+C/N
+ 11.64
+ 13.82
+ 13.14
+ 16.14
+ 9.71
+
+T <2
+
+ 40.15
+
+ 47.48
+
+ 49.45
+
+ 47.50
+
+ 45.02
+E 2-20
+ 30.00
+ 28.25
+ 32.20
+ 30.20
+ 30.01
+X 2-50
+ 57.51
+ 50.46
+ 48.65
+ 50.61
+ 52.53
+T 50-100
+ 0.45
+ 0.40
+ 0.51
+ 0.36
+ 0.58
+U 100-250
+ 1.86
+ 1.59
+ 1.37
+ 1.44
+ 1.85
+R 250-500
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.03
+ 0.07
+ 0.02
+ 0.09
+ 0.02
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 1.02
+
+ 1.03
+PH H2O
+ 7.3
+ 7.5
+ 7.8
+ 8.5
+ 8.6
+PH ClK
+ 6.4
+ 6.1
+ 6.4
+ 7.2
+ 7.2
+Conductividad eléctrica mmhos/cm
+
+ 0,88
+
+ 0,54
+
+ 0,42
+
+ 0,54
+
+ 0,45
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+
+
+ 39,80
+
+
+
+ 40,02
+
+
+
+ 46,40
+
+
+
+ 45,60
+
+
+
+ 40,60
+
+
+D
+Ca++
+ 29,40
+ 30,72
+ 35,00
+ 34,60
+ 30,84
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 5,31
+ 5,82
+ 6,89
+ 6,11
+ 5,20
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 1,77
+ 1,02
+ 1,80
+ 1,43
+ 1,36
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 1,25
+ 1,30
+ 1,43
+ 2,01
+ 2,24
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 1,15
+ 1,10
+ 0,80
+ -
+ -
+
+Equivalente de humedad (%)
+
+
+ 41.16
+
+
+ 49.40
+
+
+ 50.19
+
+
+ 45.23
+
+
+ 42.58
+
+P disponible (ppm)
+
+ 11.70
+
+ 5.50
+
+ 5.30
+
+ 4.10
+
+ 4.00
+

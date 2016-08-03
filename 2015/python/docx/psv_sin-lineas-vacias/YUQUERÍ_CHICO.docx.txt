@@ -1,0 +1,207 @@
+--------------------------------------------------------------------------------
+SERIE YUQUERÍ CHICO Símbolo: Yc
+Pertenece a la familia "arenosa sobre arcilla, silícea, no ácida, térmica" de los Udifluventes óxicos (aluvial antiguo, arenoso, rojizo sobre subsuelo arcilloso).
+Son suelos arenosos a areno francos, rojizos, sobre materiales arcillo-arenosos rojizos a 65-85 cm, generalmente con cantos rodados.
+Perfil tipo: ER2-44C
+Fecha: 21-V-72.
+Ubicación: EEA INTA Concordia (foto 164-8) - Dpto. Concordia.
+Reconocedores: C.J.J. Vesco; G.W. van Barneveld.
+Ap: 00-15 cm; gris rojizo oscuro (5YR 4/2) en húmedo; arenoso; estructura en grano simple; suelto; límite claro, suave.
+I: 15-75 cm; rojo amarillento (5YR 4/6) en húmedo; areno franco; estructura en grano simple; suelto; con 1% de cantos rodados de hasta 2 cm de diámetro; límite gradual suave.
+I/II: 75-88 cm; pardo rojizo (5YR 4/4) en húmedo; franco arenoso; estructura masiva; friable en húmedo; con 5% de cantos rodados de hasta 2 cm; límite claro ondulado.
+II: 88-120 cm; pardo rojizo oscuro (2,5YR 3/4) en húmedo; arcillo arenoso; estructura masiva; firme en húmedo; con 15-20% de cantos rodados de hasta 3 cm; limite gradual, ondulado.
+III: 120+ cm; rojo oscuro (2,5YR 3/6) en húmedo; franco arcillo arenoso; estructura masiva; firme en húmedo; con 15% de cantos rodados de hasta 2 cm.
+Variabilidad de rasgos
+La primera capa, que generalmente comprende un A11 (Ap) y un A12 (A1) o un A1 y AC, varía de arenoso areno franco con 5-12% de arcilla y con 70-90% de arena fina y media.
+Tiene 0,2-0,6% de materia orgánica y una saturación de bases de 35-50% aproximadamente. Su color varía considerablemente de 2,5YR 3/6 a 7,5YR 4/2 y rara vez puede encontrarse colores 10YR. Cabe aclarar que los perfiles con colores 5YR y más rojos, constituyen la variante "rojo", mientras los que tienen colores 10YR constituyen la variante "pardo". Química y físico-químicamente no existen diferencias entre ambos; probablemente de colores menos rojizos solo se trata del resultado de un proceso de retransporte y redeposición. En muchos, la intensidad del color rojo aumenta en profundidad.
+El I/II es un horizonte de transición y consiste en una mezcla de materiales arcillo-arenosos (II) con materiales arenosos del A. Varía del 0,8 a 25 cm y casi siempre está presente.
+Los materiales arcillo-arenosos (II) tienen 35-43% de arcilla y 40-60% de arena fina y media. Muchas veces también tienen gravas y en algunos casos, éstas últimas constituyen la mayor parte del horizonte (variante pedregoso). Su color es, en su gran mayoría, muy rojo (colores hasta 2,5YR 3/4-3/6).
+En general, éstos materiales yacen sobre otras capas de igual color y de una textura menos arcillosa (18-35% de arcilla; franco-arcillo-arenoso).
+El II y el III están caracterizados por un porcentaje de materia orgánica mayor que el de los horizontes superficiales
+Fases
+No se han descripto a escala de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Yuquerí Grande (Cuarzisamente óxico), la cual tiene los materiales arcillo-arenoso y franco arcillo-arenosos a profundidades mayores de 100 cm y localmente, a mas de 2-3 metros.
+Drenaje
+Bien drenado a algo excesivamente drenado; escurrimiento superficial moderado. Permeabilidad moderada (muy rápida en los horizontes superficiales y moderadamente lentos en los materiales subsuperficiales). Napa freática profunda. Grupo hidrológico B.
+Erosión
+La Serie Yuquerí Chico presenta erosión hídrica actual leve y existe una moderada susceptibilidad a la misma. También se ha observado erosión moderada y en algunos lugares severa, sobre todo en quintas cítricas. Existe una leve erosión eólica en campos desnudos.
+	
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Yuquerí Chico
+ER2-44C
+N° de registro
+ 897
+ 898
+ 899
+ 900
+ 901
+Horizonte
+ Ap
+ I
+ I/II
+ II
+ III
+Profundidad (cm
+ 05-12
+ 35-55
+ 75-88
+ 95-110
+ 140-160
+Mat.organica (%)
+ 0,5
+ 0,3
+ 0,2
+ 0,7
+ 0,0
+C/N
+ 9
+ 7
+ 6
+ 7
+ -
+T
+ <2 u
+ 5,4
+ 6,5
+ 14,0
+ 40,9
+ 27,0
+E
+ 2-20 u
+ 2,8
+ 5,3
+ 4,8
+ 3,4
+ 1,8
+X
+ 2-50 u
+ 6,0
+ 9,0
+ 5,8
+ 5,4
+ 4,4
+T
+ 50-100 u
+ 4,6
+ 4,8
+ 3,5
+ 5,0
+ 1,7
+U
+ 100-500 u
+ 39,8
+ 33,3
+ 37,0
+ 22,8
+ 32,4
+R
+ 500-1000 u
+ 41,8
+ 42,0
+ 37,2
+ 23,4
+ 32,3
+A
+ 1000-2000 u
+ 2,4
+ 4,4
+ 2,5
+ 2,5
+ 2,2
+ Gravas
+ 1,2
+ 1,1
+ 4,5
+ 17,2
+ 7,8
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+pH H2O
+ 5,7
+ 6,0
+ 6,1
+ 5,6
+ 5,8
+pH ClK
+ 4,5
+ 4,7
+ 4,6
+ 4,0
+ 4,1
+Capacidad de intercambio catiónico
+(m.e./100 g) =
+ Valor T
+ 2,1
+ 2,6
+ 3,5
+ 18,9
+ 10,2
+d
+Ca++
+ 0,6
+ 1,3
+ 1,7
+ 7,3
+ 4,7
+C
+e
+a
+Mg++
+ 0,2
+ 0,4
+ 0,8
+ 3,4
+ 1,1
+t
+c
+i
+a
+K+
+ 0,1
+ 0,1
+ 0,1
+ 0,4
+ 0,1
+o
+m
+n
+b
+Na+
+ 0,1
+ 0,1
+ 0,1
+ 0,1
+ 0,1
+e
+i
+s
+o
+H+
+ 2,0
+ 1,8
+ 2,0
+ 10,4
+ 7,0
+% Na/T
+ 4,8
+ 3,8
+ 2,9
+ 0,5
+ 1,0
+Equivalente de humedad (%)
+ 2,9
+ 4,6
+ 6,4
+ 22,9
+ 15,7
+Saturación con bases, (%) (S/T)
+ 33,0
+ 48,0
+ 57,0
+ 52,0
+ 46,0

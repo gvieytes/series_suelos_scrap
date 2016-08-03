@@ -1,0 +1,41 @@
+dss_GeneralPaz.psv ->> ID..........................: 710
+dss_GeneralPaz.psv ->> CLASIFICACION...............: Natracualf típico
+dss_GeneralPaz.psv ->> SERIE.......................: GENERAL PAZ (GrlPaz)
+dss_GeneralPaz.psv ->> UBICACION...................: 9,2 km al norte de la localidad de Ordoñez
+dss_GeneralPaz.psv ->> PROVINCIA...................: CORDOBA
+dss_GeneralPaz.psv ->> LATITUD.....................: S324500
+dss_GeneralPaz.psv ->> LONGITUD....................: O625300
+dss_GeneralPaz.psv ->> ALTITUD.....................: 139
+dss_GeneralPaz.psv ->> PENDIENTE...................: FALTA!
+dss_GeneralPaz.psv ->> DRENAJE.....................: FALTA!
+dss_GeneralPaz.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_GeneralPaz.psv ->> PERMEABILIDAD...............: FALTA!
+dss_GeneralPaz.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TÉRMICA
+dss_GeneralPaz.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_GeneralPaz.psv ->> HORIZONTE->NOMBRE(S)........: e | bt | bw | bck
+dss_GeneralPaz.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-51 | 51-80 | 80a+
+dss_GeneralPaz.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.6 | 1.63 | 0.44 | 0.8
+dss_GeneralPaz.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2.10 | 0.95 | 0.26 | 0.47
+dss_GeneralPaz.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.17 | 0.10 | 0.07 | 0.05
+dss_GeneralPaz.psv ->> HORIZONTE->RELACIÓN C/N.....: 11.9 | 9.22 | 3.37 | 
+dss_GeneralPaz.psv ->> HORIZONTE->ARCILLA 2 (%)....: 27.7 | 35.4 | 29.6 | 23.5
+dss_GeneralPaz.psv ->> HORIZONTE->LIMO 2-50 (%)....: 65.1 | 58.3 | 64.5 | 64.5
+dss_GeneralPaz.psv ->> HORIZONTE->AMF 50-100 (%)...: 6.0 | 5.5 | 4.9 | 7.5
+dss_GeneralPaz.psv ->> HORIZONTE->AF 100-250 (%)...: 1.9 | 1.3 | 1.2 | 2.4
+dss_GeneralPaz.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | 1.9
+dss_GeneralPaz.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | 
+dss_GeneralPaz.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 
+dss_GeneralPaz.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 0 | 0 | 2.8
+dss_GeneralPaz.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 33.5 | 31.9 | 33.1 | 34.0
+dss_GeneralPaz.psv ->> HORIZONTE->PH PASTA.........: 6.0 | 6.7 | 7.5 | 8.3
+dss_GeneralPaz.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7.6 | 7.6 | 7.9 | 9.2
+dss_GeneralPaz.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.3 | 13.9 | 16.7 | 
+dss_GeneralPaz.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.1 | 6.3 | 5.5 | 
+dss_GeneralPaz.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.7 | 2.0 | 5.7 | 15.7
+dss_GeneralPaz.psv ->> HORIZONTE->CI ME/100G-K +...: 2.5 | 2.1 | 1.9 | 2.3
+dss_GeneralPaz.psv ->> HORIZONTE->CI ME/100G-H +...: 7.3 | 4.6 | 2.5 | 
+dss_GeneralPaz.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.3 | 8.1 | 20.0 | 66.2
+dss_GeneralPaz.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | - | 5.75 | 9.61
+dss_GeneralPaz.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16.6 | 24.3 | 29.8 | 
+dss_GeneralPaz.psv ->> HORIZONTE->CIC ME/100G(T)...: 20.9 | 24.4 | 28.5 | 23.7
+dss_GeneralPaz.psv ->> HORIZONTE->SAT.B % (S/T)....: 79 | 99 | 100 | 

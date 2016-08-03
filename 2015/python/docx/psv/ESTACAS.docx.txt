@@ -1,0 +1,262 @@
+
+--------------------------------------------------------------------------------
+SERIE ESTACAS								 Símbolo: Est
+
+
+Pertenece a la familia "fina, mixta, levemente alcalina y térmica" de los Ocracualfes típicos.
+Suelos desarrollados sobre materiales limo-loesoides retransportados, franco arcillo limosos.
+Imperfectamente drenados, con concreciones ferromanganesíferas en todo el perfil y un epipedón de colores claros, muy lixiviado y degradado, franca limoso a franco arcillo limoso; un horizonte argílico arcillo limoso, agrietable en seco; y concreciones de calcáreo a partir de los 45-60 cm. Son levemente a moderadamente alcalinos desde los 30-40 cm.
+
+
+Perfil tipo: ER3 - 38C
+Fecha: 11/IV/1972
+Estancia San Juan (foto 492-26) - Dpto. La Paz
+Reconocedores: R.E. Kleinerman - G.W. van Barneveld
+
+
+A2: 00-15 cm; gris oscuro a pardo grisáceo oscuro (10YR 4/1.5) en húmedo; gris a pardo grisáceo (10YR 5/1.5) en seco; franco limoso; estructura en bloques subangulares y angulares irregulares medios débiles; muy duro en seco; friable en húmedo; barnices ("humic skins") escasos, finos; concreciones de hierro-manganeso comunes de hasta 2 mm; moteados de hierro-manganeso abundantes finos y precisos; límite claro, suave. Horizonte muy lixiviado.
+
+B21: 15-48 cm; negro (10YR 2.5/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares con tendencia cuneiforme medios, moderados a fuertes; firme en húmedo;.barnices ("humic y clay skins") escasos, finos; concreciones de hierro-manganeso escasas de hasta 3 mm; moteados de hierro-manganeso camines, finos y precisos; límite gradual suave.
+
+B22ca: 48-68 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo limoso; estructura en prismas irregulares con tendencia cuneiforme medios moderados que rompen en bloques angulares irregulares con tendencia cuneiforme medios moderados; firme en húmedo; concreciones de calcáreo escasas, finas; barnices ("humic y clay skins") escasos; concreciones de hierro-manganeso escasas de hasta 2 mm; moteados de hierro-manganeso comunes, finos, débiles a precisos; límite gradual suave.
+
+B31ca: 68-110 cm; pardo amarillento oscuro (10YR 4/4) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares medios débiles que rompen en bloques angulares irregulares medios moderados; friable en húmedo; concreciones de calcáreo comunes y finas de hasta 4 mm; concreciones de hierro-manganeso comunes de hasta 2 mm; moteados de hierro-manganeso comunes, finos y precisos; límite difuso, suave.
+
+B32(g): 110 cm+ j pardo (7.5YR 5/4) en húmedo; franco arcillo limoso; estructura en bloques angulares irregulares medios débiles; friable en húmedo; barnices inherentes al material; concreciones de hierro-manganeso escasas, finas; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+
+
+Variabilidad de rasgos
+
+El solum varía de 95-150 cm. El epipedón tiene normalmente un espesor de 12-20 cm (en algunos lugares llega excepcionalmente a los 34 cm). Es moderada a fuertemente lixiviado, degradado y compactado, con colores claros que en la mayoría de los casos no son suficientemente oscuros para que el epipedón sea mólico. Por lo general incluye un Al y un A2 (o un Al y un A2 A3 o, más raramente, un Al y un Bl). tiene 22-27 % de arcilla y 2-4 % de materia orgánica. Es levemente alcalino con 2-3 % de sodio (Na+) intercambiable.
+El horizonte B2, argílico, tiene estructura prismática y 40-50 % de arcilla. No tiene características vérticas marcadas, agrietándose moderadamente en seco y con escasa cantidad de caras de fricción ("slickensides") que faltan en la mayoría de los perfiles. Las concreciones de calcáreo aparecen a los 45-60 cm (a veces a 30 cm) aunque en no pocos casos faltan en todo el perfil. Es levemente a moderadamente alcalino, con 6-8 % de Na+ intercambiable. Puede ser, además, levemente salino (hasta 5 mmohs/cm).
+El horizonte B3 tiene una estructura prismática débil o en bloques angulares irregulares medios a gruesos, débiles, y su color varía de 10YR 4/3 a 7.5YR 5/4; tiene 35-42 % de arcilla y puede contener algunos cristales de yeso. Es rara la presencia de caras de fricción ("slickensides"). El horizonte muestra, en muchos casos, síntomas incipientes de gleización. Es levemente alcalino, con 6-8 % de Na+ intercambiable.
+El perfil puede contener de 1-2 % de arena y muestra comunes a abundantes moteados finos de hierro-manganeso en su totalidad.
+Estos suelos se han desarrollado en materiales lacustres ("limos calcáreos") de textura franco arcillo limosa, pero es muy probable que hayan sido enriquecidos con aporte de materiales loesoides.
+
+
+Fases
+
+Poco anegadizo.
+
+
+Series semejantes y sus diferencias
+
+Se parece a la Serie Saucesito (más vertisólica) y a la Serie Santa Elena (paisaje distinto, monte con mayor abundancia de Trithrinax).
+
+
+Drenaje
+
+Imperfectamente drenado (existe una fase moderadamente bien drenada) encharcamiento después de cada lluvia mayor. Escurrimiento muy lento a lento. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie Estacas no está erosionada y no existe ningún peligro de erosión.
+
+
+
+
+
+Vegetación típica
+
+Monte de Montiel con predominio de espinillo (Acacia caven), algarrobo (Prosopis nigra) y ñandubay (Prosopis algarrobillo), con pasturas naturales hidromórficas con especies como Schyzachyrium y Eringium.
+DATOS ANALÍTICOS DEL PERFIL TÍPICO
+
+Serie Estacas
+
+ER3 - 38C
+
+
+
+
+
+Nº de registro
+ 769
+ 770
+ 771
+ 772
+ 773
+Horizonte
+ A2
+ B21
+ B22ca
+ B31ca
+ B32 (g)
+Profundidad (cm)
+ 00-15
+ 23-37
+ 52-62
+ 75-110
+ 125-135
+Mat.organica (%)
+ 2.8
+ 1.7
+ 1.2
+ 0.3
+ -
+C/N
+ 10
+ 9
+ 8
+ 6
+ -
+
+T <2
+ 24.3
+ 44.2
+ 48.3
+ 39.9
+ 39.7
+E 2-20
+ 32.5
+ 26.5
+ 27.8
+ 31.0
+ 31.5
+X 2-50
+ 73.8
+ 54.5
+ 50.9
+ 58.6
+ 59.3
+T 50-100
+ 0.7
+ 0.5
+ 0.3
+ 0.6
+ 0.4
+U 100-250
+ 0.9
+ 0.5
+ 0.3
+ 0.6
+ 0.4
+R 250-500
+ 0.3
+ 0.3
+ 0.2
+ 0.3
+ 0.2
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.5
+ 0.2
+ 0.6
+pH H2O
+ 5.7
+ 7.4
+ 6.0
+ 7.7
+ 7.9
+pH ClK
+ 5.0
+ 6.0
+ 6.6
+ 6.1
+ 6.7
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+ Valor T
+
+ 24.8
+ 39.7
+ 40.0
+ 32.3
+ 32.7
+
+D
+Ca++
+ 16.1
+ 29.7
+ -
+ -
+ -
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 3.6
+ 5.9
+ -
+ -
+ -
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.7
+ 0.9
+ 1.0
+ 1.1
+ 1.2
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.6
+ 2.3
+ 3.4
+ 2.5
+ 2.5
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 4.1
+ 2.1
+ -
+ -
+ -
+% Na/T
+ 2.4
+ 5.8
+ 8.5
+ 7.7
+ 7.7
+
+Equivalente de humedad (%)
+ 28.1
+ 55.4
+ 61.7
+ 48.0
+ 47.4
+

@@ -1,0 +1,223 @@
+--------------------------------------------------------------------------------
+SERIE ALTAMIRANO Símbolo: Alt
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Ocracualfes vérticos.
+Son suelos imperfectamente drenados, con horizontes superficiales arcillo-limosos, someros y horizontes subsuperficiales densos, arcillo-limosos a arcillosos, desarrollados sobre "limos calcáreos" retransportados, con calcáreo que oscila entre los 40 y 50 cm de profundidad y concreciones de hierro-manganeso desde la superficie.
+Perfil tipo: ER1-102C
+Fecha: 13-VII-94
+Ubicación: Paso El Raigón (foto: 439-8) Dpto. Tala
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-08 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios y fuertes; muy duro en seco y muy firme en húmedo; barnices ("humic-skins") escasos a comunes; concreciones de hierro-manganeso abundantes a muy abundantes; moteados de hierro-manganeso abundantes, finos y sobresalientes; límite claro, suave.
+B21t: 08-28 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares gruesos y fuertes; extremadamente duro en seco, muy firme en húmedo; barnices ("clay-skins") abundantes a muy abundantes; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso abundantes, medios y sobresalientes; presenta interdigitaciones de material álbico (color 10YR 6/1); límite claro, suave.
+B22t: 28-44 cm; gris muy oscuro (10YR 3/1) en húmedo; arcilloso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares gruesos y fuertes; muy duro en seco, firme en húmedo; barnices ("clay-skins") escasos a comunes; caras de fricción ("slickensides") escasas; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B31ca: 44-67 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcilloso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco, friable en húmedo; barnices ("clay-skins") escasos a comunes; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; concreciones ferromanganesiferas escasas y finas; moteados de hierro-manganeso comunes, medios y sobresalientes; límite gradual, suave.
+B32ca: 67-100 cm; pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo; arcilloso; estructura masiva que tiende a bloques angulares irregulares medios, débiles; blando en seco, friable en húmedo; barnices ("clay-skins") abundantes; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; concreciones de hierro-manganeso, escasas; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite difuso, suave.
+Cca: 100 cm +; pardo oscuro (7.5YR 4/4) en húmedo; arcillo-limoso; estructura masiva; ligeramente duro en seco, friable en húmedo; muy abundante cantidad de carbonatos libres en la masa; concreciones calcáreas, abundantes; concreciones de hierro-manganeso escasas; moteados de hierro-manganeso comunes, gruesos y sobresalientes.
+Variabilidad de rasgos
+El solum varía de 100-130 cm. El epipedón incluye un horizonte A1 somero de 7-8 cm de espesor, de color oscuro y con concreciones de hierro-manganeso muy abundantes.
+El horizonte B2, con un espesor de 35-40 cm es de textura arcillo limosa, con 40-45% de arcilla y muy denso, con abundantes moteados y concreciones de hierro-manganeso.
+El calcáreo, en forma de concreciones y no muy abundante, aparece a los 45 cm aproximadamente (B31ca) aumentando en el material madre.
+El horizonte B3 de 55 a 60 cm de espesor, de color pardo grisáceo muy oscuro, de textura arcillosa, contiene menor cantidad de concreciones ferromanganesíferas que el epipedón.
+Fases
+No se describieron fases a nivel de reconocimiento.
+Series similares y sus diferencias
+Serie Altamirano se parece a la serie Maciá, pero ésta no presenta concreciones de hierro-manganeso desde superficie y además está desarrollada en un paisaje diferente; por otra parte, la vegetación natural de la serie Altamirano es más variada en especies y de mayor desarrollo.
+Drenaje
+Imperfectamente drenado. Permeabilidad muy lenta. Escurrimiento superficial muy lento. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La serie no presenta erosión y generalmente no corre peligro de la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Altamirano
+ER1-102C
+N° de registro
+ 8648
+ 8649
+ 8650
+ 8651
+ 8652
+ 8653
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm
+ 00-07
+ 10-26
+ 30-40
+ 42-60
+ 70-90
+ 120-130
+Mat.organica (%)
+ 9.23
+ 2.00
+ 1.64
+ 0.92
+ 0.79
+ 0.50
+N (%)
+ 0.50
+ 0.13
+ 0.10
+ 0.07
+ 0.05
+ 0.04
+C/N
+ 10.32
+ 8.82
+ 8.76
+ 7.88
+ 8.15
+ 6.51
+T <2
+ 29.85
+ 42.99
+ 52.06
+ 48.44
+ 51.63
+ 45.42
+E 2-20
+ 25.80
+ 25.22
+ 23.97
+ 25.66
+ 23.86
+ 25.41
+X 2-50
+ 50.55
+ 44.62
+ 38.63
+ 37.95
+ 37.45
+ 45.16
+T 50-100
+ 3.19
+ 1.86
+ 1.34
+ 1.38
+ 1.79
+ 1.05
+U 100-500
+ 15.83
+ 9.83
+ 7.72
+ 11.81
+ 8.66
+ 8.11
+R 500-1000
+ 0.55
+ 0.66
+ 0.25
+ 0.38
+ 0.41
+ 0.26
+A 1000-2000
+ 0.03
+ 0.04
+ -
+ 0.04
+ 0.06
+ -
+CO3Ca (%)
+ -
+ -
+ 0.26
+ 0.83
+ 0.51
+ 1.23
+pH H2O
+ 5.6
+ 7.5
+ 8.2
+ 8.2
+ 8.1
+ 8.3
+pH ClK
+ 5.0
+ 6.0
+ 6.8
+ 6.8
+ 6.6
+ 6.8
+Conductividad eléctrica mmhos/cm
+ 0.88
+ 1.00
+ 1.99
+ 1.76
+ 2.19
+ 2.25
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 27.10
+ 33.10
+ 38.20
+ 35.00
+ 37.40
+ 33.90
+d
+Ca++
+ 20.20
+ 24.30
+ 28.40
+ 25..60
+ 27.60
+ 24.90
+C
+e
+a
+Mg++
+ 3.90
+ 5.10
+ 5.80
+ 5.50
+ 5.60
+ 5.20
+t
+c
+i
+a
+K+
+ 1.10
+ 1.30
+ 1.50
+ 1.30
+ 1.40
+ 1.30
+o
+m
+n
+b
+Na+
+ 1.30
+ 1.50
+ 2.00
+ 1.70
+ 1.90
+ 1.60
+e
+i
+s
+o
+H+
+% Na/T
+ 4.80
+ 4.53
+ 5.24
+ 4.86
+ 5.08
+ 4.72
+Equivalente de humedad (%)
+ 33.48
+ 45.98
+ 51.98
+ 48.25
+ 50.79
+ 47.60
+Fósforo asim. (ppm)
+ -
+ -
+ -
+ -
+ -
+ -

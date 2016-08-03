@@ -1,0 +1,48 @@
+dss_ElCandil.psv ->> ID..........................: 707
+dss_ElCandil.psv ->> CLASIFICACION...............: Natralbol típico
+dss_ElCandil.psv ->> SERIE.......................: EL CANDIL (Cndl)
+dss_ElCandil.psv ->> UBICACION...................: 13,5 km al NNO de Leones, departamento Marcos Juárez
+dss_ElCandil.psv ->> PROVINCIA...................: CORDOBA
+dss_ElCandil.psv ->> LATITUD.....................: S323300
+dss_ElCandil.psv ->> LONGITUD....................: O623300
+dss_ElCandil.psv ->> ALTITUD.....................: 114
+dss_ElCandil.psv ->> PENDIENTE...................: FALTA!
+dss_ElCandil.psv ->> DRENAJE.....................: FALTA!
+dss_ElCandil.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ElCandil.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ElCandil.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TÉRMICA
+dss_ElCandil.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ElCandil.psv ->> HORIZONTE->NOMBRE(S)........: ap | e | bt | bc | ck
+dss_ElCandil.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-10 | 10-18 | 18-52 | 52-97 | 97a+
+dss_ElCandil.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.73 | 2.15 | 1.13 | 0.24 | 
+dss_ElCandil.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.59 | 1.25 | 0.66 | 0.14 | 0.10
+dss_ElCandil.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.14 | 0.12 | 0.08 | 0.04 | 
+dss_ElCandil.psv ->> HORIZONTE->RELACIÓN C/N.....: 11.3 | 10.4 | 8.2 | 3.5 | 
+dss_ElCandil.psv ->> HORIZONTE->ARCILLA 2 (%)....: 19.6 | 17 | 24.6 | - | 13.0
+dss_ElCandil.psv ->> HORIZONTE->LIMO 2-50 (%)....: 71.9 | 72.3 | 67.7 | - | 72.9
+dss_ElCandil.psv ->> HORIZONTE->AMF 50-100 (%)...: 8.4 | 9.0 | 6.5 | - | 10.2
+dss_ElCandil.psv ->> HORIZONTE->AF 100-250 (%)...: 0.3 | 0.2 | 0.4 | - | 0.9
+dss_ElCandil.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | - | 0.2
+dss_ElCandil.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | - | 
+dss_ElCandil.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | 
+dss_ElCandil.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 5.44
+dss_ElCandil.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 25.7 | 25.2 | 31 | 27.2 | 24.6
+dss_ElCandil.psv ->> HORIZONTE->PH PASTA.........: 5.7 | 6.3 | 7.2 | 7.9 | 9.4
+dss_ElCandil.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.1 | 6.5 | 7.7 | 8.2 | 9.9
+dss_ElCandil.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.6 | 9.0 | 13.1 | - | 
+dss_ElCandil.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.3 | 3.0 | 5.2 | - | 
+dss_ElCandil.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.5 | 1.5 | 4.7 | - | 10.6
+dss_ElCandil.psv ->> HORIZONTE->CI ME/100G-K +...: 2.5 | 1.7 | 3.5 | - | 4.3
+dss_ElCandil.psv ->> HORIZONTE->CI ME/100G-H +...: 3.1 | 2.6 | - | - | 
+dss_ElCandil.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | 9.37 | 17.87 | - | 62.0
+dss_ElCandil.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | - | - | 13.3 | 3.56
+dss_ElCandil.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16.9 | 15.2 | 26.8 | - | 
+dss_ElCandil.psv ->> HORIZONTE->CIC ME/100G(T)...: 19.6 | 16.0 | 26.3 | 23.6 | 17.1
+dss_ElCandil.psv ->> HORIZONTE->SAT.B % (S/T)....: - | - | - | - | 
+dss_ElCandil.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | - | - | 26.0 | 
+dss_ElCandil.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | - | - | 11.2 | 
+dss_ElCandil.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | - | - | 120.0 | 
+dss_ElCandil.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | - | - | 4.0 | 
+dss_ElCandil.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | - | - | 7.2 | 
+dss_ElCandil.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | - | - | 131.0 | 
+dss_ElCandil.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | - | - | 22.4 | 

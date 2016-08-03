@@ -1,0 +1,349 @@
+
+--------------------------------------------------------------------------------
+SERIE SANTA EULALIA Símbolo: SEu
+
+
+Pertenece a la familia "limosa fina, mixta, térmica" de los Hapludoles típicos.
+Son suelos profundos, bien drenados, con un epipedón mólico oscuro, franco-arcillo-limoso, y un horizonte subsuperficial que no reúne las características para argílico, gris muy oscuro, franco-arcillo-limoso, con moteados de hierro-manganeso.
+
+Suelos desarrollados en loess calcáreo, franco-arcillo-limoso.
+
+
+Perfil tipo: ER7-94C
+Fecha: 07-VI-1995
+Ubicación: Establecimiento "La Ceiba" (foto 425-98) dto. Pajonal - Dpto. Victoria.
+Reconocedores: L.O. López; O.A. Foti.
+
+
+Ap: 00-21 cm; gris muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios y débiles; friable en húmedo; barnices "humic skins" escasos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B21: 21-38 cm; gris muy oscuro (10YR 3/2.5) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares medios, débiles; friable en húmedo; barnices "humic skins" comunes y gruesos, "clay skins" comunes; bolsones de materia orgánica; moteados de hierro-manganeso escasos, finos y débiles; límite gradual y suave.
+
+B22: 38-51 cm; pardo grisáceo oscuro (10YR 3/3) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares finos, débiles; friable en húmedo; barnices "humic skins", y "clay skins" escasos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B3Ca: 51-62 cm; pardo (7.5YR 5.5/4) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares finos y débiles; muy friable en húmedo; barnices "humic skins" y "clay skins" escasos; moteados de hierro-manganeso comunes, finos y precisos; abundantes carbonatos libres en la masa; límite claro, suave.
+
+C1ca: 62-83 cm; pardo (7.5YR 5/5.5) en húmedo; franco-arcillo-limoso; estructura masiva; muy friable en húmedo; moteados de hierro-manganeso escasos, finos y débiles; bolsones de materia orgánica; abundantes carbonatos libres en la masa; concreciones calcáreas duras, escasas; límite gradual, suave.
+
+C2Ca: 83 cm +; pardo (7.5YR 5/6) en húmedo; franco-limoso; estructura masiva; muy friable en húmedo; moteados de hierro-manganeso escasos, finos y precisos; abundantes carbonatos libres en la masa; concreciones calcáreas escasas.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos no se conoce.
+
+Fases
+
+No posee a nivel de reconocimiento (escala 1:100.000).
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Granero (pero ésta tiene un horizonte argílico de 25 cm de espesor y un epipedón mólico más profundo).
+
+
+Drenaje
+
+Bien drenado; escurrimiento superficial medio a rápido. Permeabilidad moderada. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Santa Eulalia tiene -en general- una erosión actual leve en forma laminar.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Santa Eulalia
+
+ER7-94C
+
+
+
+
+
+
+Nº de registro
+ 10.317
+ 10.318
+ 10.319
+ 10.320
+ 10.321
+ 10.322
+Horizonte
+ Ap
+ B21
+ B22
+ B3ca
+ C1ca
+ C2ca
+Profundidad (cm)
+ 05-15
+ 25-30
+ 42-50
+ 53-60
+ 70-77
+ 90-110
+Mat.organica (%)
+ 4.76
+ 1.92
+ 0.99
+ 0.92
+ 0.64
+ 0.57
+N (%)
+ 0.27
+ 0.14
+ 0.08
+ 0.08
+ 0.05
+ 0.05
+C/N
+ 10
+ 8
+ 7
+ 7
+ 7
+ 7
+
+T < 2 u
+
+ 27.92
+
+ 33.20
+
+ 31.54
+
+ 31.10
+
+ 27.27
+
+ 26.99
+E 2-20 u
+ 24.46
+ 23.93
+ 25.49
+ 25.51
+ 25.01
+ 25.14
+X 2-50 u
+ 61.94
+ 59.40
+ 59.45
+ 58.28
+ 63.72
+ 63.47
+T 50-100 u
+ 4.20
+ 4.76
+ 3.50
+ 6.91
+ 6.71
+ 6.05
+U 100-500 u
+ 5.91
+ 2.60
+ 5.47
+ 3.69
+ 2.28
+ 3.44
+R 500-1000 u
+ 0.03
+ 0.04
+ 0.04
+ 0.02
+ 0.02
+ 0.05
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.5
+
+ 9.4
+
+ 9.5
+PH H2O
+ 6.0
+ 6.2
+ 6.5
+ 7.3
+ 7.6
+ 7.6
+pH ClK
+ -
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+ 38.10
+
+
+ 31.60
+
+
+ 31.20
+
+
+ N.D.
+
+
+ N.D.
+
+
+ N.D.
+
+
+d
+
+Ca++
+
+ 23.40
+
+ 22.80
+
+ 25.80
+
+ N.D.
+
+ N.D.
+
+ N.D.
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 6.40
+ 3.40
+ 2.20
+ N.D.
+ N.D.
+ N.D.
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 4.00
+ 3.10
+ 2.00
+ 2.00
+ 1.74
+ 0.96
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.30
+ 1.25
+ 1.00
+ 1.12
+ 1.12
+ 1.32
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+
+
+
+
+
+
+
+
+% Na/T
+
+
+ 3.41
+ 3.96
+ 3.21
+ N.D.
+ N.D.
+ N.D.
+
+Equival. de humedad (%)
+
+ 29.01
+
+ 34.31
+
+ 29.98
+
+ 28.45
+
+ 25.33
+
+ 25.60
+Fósforo asimilable (ppm)
+ 74.90
+ 29.66
+ 6.28
+ 5.56
+ 0.0
+ 0.0
+
+

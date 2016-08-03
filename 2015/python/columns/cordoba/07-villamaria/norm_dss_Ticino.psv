@@ -1,0 +1,48 @@
+dss_Ticino.psv ->> ID..........................: 727
+dss_Ticino.psv ->> CLASIFICACION...............: Natracualf típico
+dss_Ticino.psv ->> SERIE.......................: TICINO (Tcno)
+dss_Ticino.psv ->> UBICACION...................: 12 km al Oeste de la localidad de Pasco, departamento San Martín
+dss_Ticino.psv ->> PROVINCIA...................: CORDOBA
+dss_Ticino.psv ->> LATITUD.....................: S323700
+dss_Ticino.psv ->> LONGITUD....................: O632700
+dss_Ticino.psv ->> ALTITUD.....................: 198
+dss_Ticino.psv ->> PENDIENTE...................: FALTA!
+dss_Ticino.psv ->> DRENAJE.....................: FALTA!
+dss_Ticino.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_Ticino.psv ->> PERMEABILIDAD...............: FALTA!
+dss_Ticino.psv ->> TIPO DE SUELO...............: LIMOSA FINA A GRUESA, MIXTA, TÉRMICA
+dss_Ticino.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_Ticino.psv ->> HORIZONTE->NOMBRE(S)........: e | btk | bck | ck
+dss_Ticino.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-10 | 10-35 | 35-75 | 75a+
+dss_Ticino.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.06 | 1.03 | 0.68 | 
+dss_Ticino.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.78 | 0.60 | 0.4 | 
+dss_Ticino.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.20 | 0.07 | - | 
+dss_Ticino.psv ->> HORIZONTE->RELACIÓN C/N.....: 8.9 | 8.6 | - | 
+dss_Ticino.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18.2 | 25.4 | 16.4 | 14.5
+dss_Ticino.psv ->> HORIZONTE->LIMO 2-50 (%)....: 58.7 | 51.3 | 58.3 | 58.9
+dss_Ticino.psv ->> HORIZONTE->AMF 50-100 (%)...: 21.1 | 21.3 | 24.6 | 25.4
+dss_Ticino.psv ->> HORIZONTE->AF 100-250 (%)...: 0.6 | 0.4 | 0.2 | 0.3
+dss_Ticino.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1 | 0.2 | 0.1 | 0.1
+dss_Ticino.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.1 | 0.3 | 0.1 | 
+dss_Ticino.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.1 | 0.2 | - | 
+dss_Ticino.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 1.6 | 3.1 | 2.7
+dss_Ticino.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 22.8 | 27.4 | 22.5 | 20.4
+dss_Ticino.psv ->> HORIZONTE->PH PASTA.........: 6.0 | 8.2 | 8.7 | 8.9
+dss_Ticino.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.4 | 8.8 | 9.5 | 9.3
+dss_Ticino.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8.5 | - | - | 
+dss_Ticino.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.0 | - | - | 
+dss_Ticino.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.7 | 10.0 | 7.4 | 7.1
+dss_Ticino.psv ->> HORIZONTE->CI ME/100G-K +...: 2.9 | 3.4 | 2.7 | 2.4
+dss_Ticino.psv ->> HORIZONTE->CI ME/100G-H +...: 1.4 | - | - | 
+dss_Ticino.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | 52.6 | 47.1 | 48.9
+dss_Ticino.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | - | 4.91 | 4.32
+dss_Ticino.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.2 | - | - | 
+dss_Ticino.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.7 | 19.0 | 15.7 | 14.5
+dss_Ticino.psv ->> HORIZONTE->SAT.B % (S/T)....: 90 | - | - | 
+dss_Ticino.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | - | 4.6 | 4.6
+dss_Ticino.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | - | 2.2 | 2.8
+dss_Ticino.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | - | 52 | 40
+dss_Ticino.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | - | 1.6 | 1.2
+dss_Ticino.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | - | 8 | 6.4
+dss_Ticino.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | - | 37.4 | 29
+dss_Ticino.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | - | 17.6 | 11.2

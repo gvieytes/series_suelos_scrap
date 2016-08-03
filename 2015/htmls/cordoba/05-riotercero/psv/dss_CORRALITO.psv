@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 2
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|bw|bc|ck
+HORIZONTE->Profundidad de la muestra (cm): 0-20|20-37|37-62|62 a +
+HORIZONTE->Materia Orgánica (%): |||
+HORIZONTE->Carbono Orgánico (%): 1.5|0.9|0.5|0.3
+HORIZONTE->Nitrógeno total (%): 0.14|||
+HORIZONTE->Relación C/N: 10.7|||
+HORIZONTE->Arcilla, <2 µ (%): 15.7|17.7|15.9|13.9
+HORIZONTE->Limo, 2-50 µ (%): 72.4|71.6|70.2|69.4
+HORIZONTE->Arena muy fina, 50-100 µ (%): 11.0|10.6|13.0|14.4
+HORIZONTE->Arena fina, 100-250 µ (%): 1.2|0.7|0.7|1.4
+HORIZONTE->Arena media, 250-500 µ (%): 0.3|0.1||0.1
+HORIZONTE->Arena gruesa, 500-1000 µ (%): 0.3|0.1|0.1|0.3
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0.3|||
+HORIZONTE->Calcáreo, CaCO3 (%): 0|0|0|4.91
+HORIZONTE->Equivalente de humedad (%): 24.0|27.5|25.3|24.0
+HORIZONTE->pH en pasta: 5.9|6.6|6.9|7.7
+HORIZONTE->pH en agua 1:2,5: 6.6|7.2|7.3|8.2
+HORIZONTE->Cationes de intercambio, me/100 gr-Ca++: 11.2|13.0|14.3|
+HORIZONTE->Cationes de intercambio, me/100 gr-Mg++: 2.0|3.2|1.2|
+HORIZONTE->Cationes de intercambio, me/100 gr-Na+: 0.3|0.3|0.3|0.6
+HORIZONTE->Cationes de intercambio, me/100 gr-K+: 3.0|2.0|1.1|1.2
+HORIZONTE->Cationes de intercambio, me/100 gr-H+: 1.4|0.5|0.3|
+HORIZONTE->Suma de bases, me/100 gr (S): 15.5|16.5|16.9|
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 16.8|19.0|17.1|16.3
+HORIZONTE->Saturación con bases, % (S/T): 92|97|99|

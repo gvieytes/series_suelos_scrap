@@ -1,0 +1,241 @@
+--------------------------------------------------------------------------------
+SERIE LARROQUE Símbolo: LRq
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados, con un epipedón muy oscuro, franco arcilloso a franco-arcillo-limoso y un horizonte argílico, oscuro, franco-arcillo-limoso, con caras de fricción ("slickensides") y calcáreo a partir de los 45-50 cm.
+Suelos desarrollados sobre materiales loessicos retransportados.
+Perfil tipo: ER1-130C
+Fecha: 23-X-2002
+Ubicación: 4 Km al O-NO de Perdices. (foto IR 095-18). Dto. Dos Hermanas, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A1: 00-10 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcilloso; estructura granular y bloques subangulares medios, moderados; ligeramente duro en seco; firme en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; presencia de arena fina en caras de agregados; límite abrupto, suave.
+B1: 10-20 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, moderados; ligeramente duro en seco; firme en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso escasos, finos y precisos; presencia de arena fina en caras de agregados; límite abrupto, suave.
+B21t: 20-45 cm; gris muy oscuro (10YR 3/1) en húmedo; arcilloso; estructura en prismas compuestos irregulares, finos, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco; firme en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") comunes, medias; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 45-85 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, fuertes; muy duro en seco; muy firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") abundantes, gruesas y medias; concreciones calcáreas muy escasas, finas; comunes carbonatos libres en la masa; moteados de hierro- manganeso, comunes, medios y precisos; límite gradual, suave.
+B3ca: 85-120 cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, gruesos, débiles; duro en seco; firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas, finas; concreciones calcáreas abundantes, finas y gruesas; abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, gruesos y sobresalientes; límite, difuso, suave.
+Cca: 120 cm +; pardo a pardo oscuro (7.5YR 4.5/4) en húmedo, franco-arcillo-limoso; masivo; ligeramente duro en seco, firme en húmedo; concreciones calcáreas abundantes, gruesas y finas; abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, finos y precisos; materiales de horizontes superiores rellenando las grietas.
+Variabilidad de rasgos
+El solum varía de 110 a 125 cm. El epipedón mólico, bien estructurado, incluye los horizontes A1 y B1 y tiene un espesor de 20-28 cm, dependiendo del mayor o menor grado de erosión.
+El horizonte B2, de marcadas características vérticas, tiene un espesor de 60-65 cm, con un contenido de arcilla de 39-41 % y concreciones calcáreas que aumentan considerablemente en el B3 y C.
+El perfil se encuentra muy perturbado por la actividad biológica y compactado en superficie por el pisoteo de los animales.
+Fases
+Existen fases por erosión (símbolo: LRq h2) que no fueron diferenciadas a nivel de reconocimiento.
+Drenaje
+Suelo moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Larroque presenta una erosión actual moderada. El suelo tiene gran peligro de erosión en surcos y cárcavas
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Larroque
+ER1-130C
+N° de registro
+ 10772
+ 10773
+ 10774
+ 10775
+ 10776
+ 10777
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 02-10
+ 11-20
+ 23-40
+ 50-80
+ 90-110
+ 145-160
+Mat.organica (%)
+ 3.68
+ 3.68
+ 2.41
+ 1.12
+ 0.89
+ 0.29
+C (%)
+ 2.14
+ 2.14
+ 1.40
+ 0.65
+ 0.52
+ 0.17
+N (%)
+ 0.184
+ 0.174
+ 0.112
+ 0.063
+ 0.027
+ 0.019
+C/N
+ 11.63
+ 12.30
+ 12.50
+ 10.32
+ 19.26
+ 8.95
+T <2
+ 27.98
+ 32.43
+ 41.90
+ 39.84
+ 37.20
+ 3641
+E 2-20
+ 26.12
+ 24.80
+ 20.98
+ 30.30
+ 30.41
+ 30.22
+X 2-50
+ 48.24
+ 48.42
+ 39.39
+ 41.77
+ 46.76
+ 48.07
+T 50-100
+ 1.31
+ 1.35
+ 0.88
+ 1.22
+ 0.87
+ 0.52
+U 100-250
+ 20.94
+ 16.94
+ 16.75
+ 16.20
+ 13.92
+ 14.05
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 1.51
+ 0.81
+ 1.06
+ 0.94
+ 1.23
+ 0.84
+ 1000-2000
+ 0.02
+ 0.05
+ 0.02
+ 0.03
+ 0.02
+ 0.11
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 3.43
+ 18.09
+ 14.77
+PH H2O
+ 6.7
+ 6.8
+ 7.1
+ 8.4
+ 8.6
+ 8.7
+PH ClK
+ 5.7
+ 5.8
+ 5.9
+ 7.1
+ 7.4
+ 7.4
+Conductividad eléctrica (mmhos/cm)
+ 76.80
+ 77.50
+ 69.90
+ 138.40
+ 148.60
+ 151.40
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 26.56
+ 31.14
+ 39.79
+ 36.37
+ 29.04
+ 30.48
+D
+Ca++
+ 14.10
+ 17.37
+ 23.75
+ 20.26
+ 18.82
+ 18.91
+C
+E
+A
+Mg++
+ 4.08
+ 4.43
+ 7.46
+ 5.10
+ 4.31
+ 5.62
+T
+C
+I
+A
+K+
+ 0.54
+ 0.41
+ 0.46
+ 0.26
+ 0.20
+ 0.24
+O
+M
+N
+B
+Na+
+ 0.31
+ 0.36
+ 0.40
+ 0.36
+ 0.20
+ 0.20
+E
+I
+S
+O
+H+
+ 7.53
+ 8.58
+ 7.72
+ 10.38
+ 5.52
+ 5.52
+% Na/T
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+Equivalente de humedad (%)
+ 27.36
+ 30.33
+ 39.17
+ 37.34
+ 35.17
+ 34.79
+P disponible (ppm)
+ 12.70
+ 7.20
+ 4.70
+ 4.10
+ 3.00
+ 2.90

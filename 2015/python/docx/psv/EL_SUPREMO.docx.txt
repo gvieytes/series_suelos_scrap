@@ -1,0 +1,343 @@
+
+--------------------------------------------------------------------------------
+SERIE EL SUPREMO							 Símbolo: ESup
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-limoso, y un horizonte argílico arcillo-limoso, de colores pardos y con moteados ferromanganesíferos.
+El pedón se encuentra completamente descarbonatado. Están desarrollados en materiales loessoides de textura franco-limosa.
+
+
+Perfil tipo: ER1-78C
+Fecha: 25-IX-1992
+Ubicación: Ea. El Supremo (foto IR 412-14) - Dpto. Gualeguay
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+
+A11: 00-11 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo, pardo oscuro (10YR 4/3) en seco; franco-limoso; estructura en bloques subangulares a granulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+A12: 11-21 cm; pardo oscuro (10YR 3/3) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, débiles; blando en seco y muy friable en húmedo; barnices ("humic skins") escasos a comunes; moteados de hierro-manganeso, escasos, finos y débiles; límite claro, suave.
+
+B1: 21-35 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, débiles; blando en seco, muy friable en húmedo; barnices humic- skins") abundantes; moteados de hierro-manganeso, escasos, finos y débiles; límite abrupto, suave.
+
+B21t: 35-62 cm; pardo oscuro (10YR 3/3); arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; barnices ("clay skins") abundantes; caras de fricción ("slickensides") comunes a abundantes; moteados de hierro-manganeso, comunes, medios y precisos; límite claro, suave.
+
+B22t: 62-86 cm; pardo oscuro (7.5YR 3.5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares con tendencia cuneiformes, gruesos, moderados; muy duro en seco, firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes; moteados de hierro-manganeso escasos finos y débiles; límite claro, suave.
+
+B3: 86-105 cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("clay skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+
+C: 105 cm+; pardo (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, débiles; ligeramente duro en seco, friable en húmedo.
+
+Variabilidad de rasgos
+
+La profundidad del solum varía de 100-110 cm.
+
+El epipedón mólico está bien desarrollado, llegando -en algunos casos- hasta 40 cm de profundidad, y comprende a los horizontes A11, A12 y B1; es de textura franco-limosa y está bien estructurado, con agregados granulares y bloques subangulares. El horizonte A12 generalmente es muy poroso y está eluviado en las caras de los agregados.
+
+El argílico incluye los horizontes B21t y B22t, con un espesor de 50-55 cm. Es de textura arcillo-limosa y con estructura prismática compuesta. Presenta grietas rellenas de materiales pertenecientes al epipedón.
+
+El horizonte transicional B3 es de textura franco-arcillo-limosa, de color pardo oscuro y tiene una estructura prismática débil.
+
+El perfil comúnmente está completamente descarbonatado hasta, por lo menos, los 170 cm de profundidad.
+
+
+Fases
+
+No se determinaron fases a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Cuatro Manos en cuanto a no presentar carbonatos, pero ésta no sufre hidromorfismo. También se parece a la serie La Fermina, que tiene carbonatos en el perfil.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial muy lento. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie El Supremo no presenta erosión actual ni tiene peligro a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Supremo
+
+ER1-78C
+
+
+
+
+
+
+
+Nº de registro
+ 6982
+ 6983
+ 6984
+ 6985
+ 6986
+ 6987
+ 6988
+Horizonte
+ A11
+ A12
+ B1
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 02-10
+ 12-20
+ 23-33
+ 43-56
+ 69-82
+ 88-100
+ 110-120
+Mat.organica (%)
+ 4.45
+ 3.50
+ 2.89
+ 1.56
+ 0.95
+ 0.70
+ 0.45
+N (%)
+ 0.21
+ 0.17
+ 0.14
+ 0.10
+ 0.05
+ 0.05
+ 0.04
+C/N
+ 12
+ 11
+ 12
+ 9
+ 11
+ 8
+ 6
+
+T < 2 μ
+ 25.50
+ 26.15
+ 29.16
+ 43.16
+ 42.68
+ 37.42
+ 36.09
+E 2-20 μ
+ 33.78
+ 33.69
+ 33.16
+ 30.85
+ 28.80
+ 30.80
+ 30.85
+X 2-50 μ
+ 61.20
+ 63.72
+ 61.37
+ 51.50
+ 51.60
+ 56.19
+ 52.93
+T 50-100 μ
+ 6.21
+ 7.40
+ 5.36
+ 3.51
+ 3.96
+ 2.83
+ 2.78
+U 100-500 μ
+ 7.02
+ 2.65
+ 4.00
+ 1.73
+ 1.72
+ 3.53
+ 2.04
+R 500-1000 μ
+ 0.07
+ 0.08
+ 0.11
+ 0.10
+ 0.04
+ 0.03
+ 0.16
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+pH H2O
+ 6.2
+ 6.2
+ 6.1
+ 6.1
+ 6.5
+ 6.6
+ 6.6
+pH ClK
+ 5.1
+ 5.3
+ 5.3
+ 5.3
+ 5.7
+ 5.9
+ 5.8
+CE (mmhos/cm)
+ 0.50
+ 0.50
+ 0.45
+ 0.37
+ 0.26
+ 0.25
+ 0.24
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 30.30
+ 31.75
+ 34.53
+ 42.00
+ 39.20
+ 34.80
+ 33.89
+ d Ca++
+ 24.70
+ 25.30
+ 27.30
+ 32.37
+ 30.70
+ 27.05
+ 26.30
+C e
+
+
+
+
+
+
+
+Mg++
+ 3.25
+ 3.70
+ 3.99
+ 5.90
+ 4.70
+ 4.10
+ 3.95
+t c
+
+
+
+
+
+
+
+i a K+
+ 1.88
+ 1.90
+ 1.95
+ 2.00
+ 1.95
+ 1.90
+ 1.89
+o m
+
+
+
+
+
+
+
+n b Na+
+ 0.42
+ 0.77
+ 1.20
+ 1.50
+ 1.40
+ 1.30
+ 1.25
+e i
+
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+
+% Na/T
+ 1.39
+ 2.43
+ 3.47
+ 3.57
+ 3.57
+ 3.73
+ 3.67
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 27.70
+ 26.67
+ 26.59
+ 38.54
+ 38.49
+ 34.59
+ 33.32
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+

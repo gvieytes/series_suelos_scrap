@@ -1,0 +1,291 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO VERDE	 Símbolo: AoV
+
+
+Pertenece a la familia "fina, mixta, ácida, térmica" de los Fluvacuentes típicos.
+
+Suelo formado a partir de capas arcillo limosas.
+
+La vegetación típica es de juncales.
+
+
+Perfil tipo: 8C INTA Castelar
+Fecha: II-1986
+Ubicación: 500 m al NE de Villa Paranacito (Hoja IGM 3560-36-2) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez; R.F. Ferrao
+
+
+I: 0-18 cm; pardo amarillento oscuro (10YR 3/4) en húmedo, pardo (10YR 5/3) en seco; franco limoso; bloques subangulares medios, fuertes a moderados; friable, ligeramente plástico, ligeramente adhesivo; moteados comunes, precisos y medios; límite claro suave.
+
+II: 18-29 cm; pardo amarillento oscuro (10YR 4/4) en húmedo, pardo pálido (10YR 6/3) en seco; franco arcillo limoso; bloques subangulares medios, fuertes; friable, ligeramente plástico y ligeramente adhesivo; moteados abundantes, precisos y medios; límite claro y suave.
+
+III: 29-40 cm; pardo oscuro (10YR 3/3) en húmedo, pardo (10YR 5/3) en seco; arcillo limoso; friable, plástico y adhesivo; moteados abundantes, sobresalientes, medios; límite claro y suave.
+
+IV: 40-53 cm; gris oscuro (5Y 4/1) en húmedo, gris a gris pálido (5Y 6/1) en seco; arcillo limoso; friable, muy plástico y muy adhesivo; moteados abundantes, sobresalientes y gruesos; límite claro ondulado.
+
+V: 53-80 cm; gris (5Y 5/1) en húmedo, gris claro (5Y 7/1) en seco; franco arcillo limoso; friable, muy plástico y muy adhesivo; moteados abundantes, sobresalientes y gruesos.
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Este suelo presenta drenaje pobre. Escurrimiento superficial muy lento. Permeabilidad lenta. Muy anegable y muy inundable.
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Arroyo Verde
+
+8C INTA Castelar
+N° de registro
+ 30559
+ 30560
+ 30561
+ 30562
+ 30563
+Horizonte
+ I
+ II
+ III
+ IV
+ V
+Profundidad (cm)
+ 1-16
+ 20-27
+ 31-39
+ 41-51
+ 55-80
+Mat.organica (%)
+ 2.68
+ 1.82
+ 1.77
+ 1.79
+ 1.27
+C (%)
+ 1.56
+ 1.06
+ 1.03
+ 1.04
+ 0.74
+N (%)
+ 0.130
+ 0.117
+ 0.139
+ 0.091
+ 0.066
+C/N
+ 12
+ 9
+ 7
+ 11
+ 11
+
+T <2 u
+
+ 26.5
+
+ 35.6
+
+ 40.5
+
+ 44.0
+
+ 36.0
+E 2-20 u
+ 25.9
+ 41.8
+ 48.3
+ 43.5
+ 47.1
+X 2-50 u
+ 50.2
+ 54.8
+ 56.3
+ 51.5
+ 62.0
+T 50-74 u
+ 14.6
+ 6.0
+ 0.9
+ 0.9
+ 1.2
+U 74-100 u
+ 6.8
+ 2.5
+ 0.5
+ 0.5
+ 0.3
+R 100-250 u
+ 1.9
+ 1.1
+ 1.1
+ 1.2
+ 0.5
+A 250-500 u
+ -
+ -
+ 0.1
+ 0.9
+ -
+ 500-1000 u
+ -
+ -
+ 0.6
+ 1.0
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+Gravilla (> 7) Tosca Ca %
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+Equiv. de humedad (%)
+ 27.0
+ 31.5
+ 36.6
+ 38.7
+ 31.8
+Resistencia de la pasta (Ohms/cm)
+
+ 3085
+
+ 2991
+
+ 2711
+
+ 2617
+
+ 2804
+pH en pasta
+ 4.5
+ 4.6
+ 4.7
+ 4.7
+ 4.7
+PH H2O
+ 5.1
+ 5.2
+ 5.4
+ 5.4
+ 5.4
+pH ClK
+ 3.5
+ 3.5
+ 3.6
+ 3.7
+ 3.6
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+ Cationes de camb (m. e / 100 g)
+Ca++
+ 7.6
+ 10.9
+ 11.9
+ 13.2
+ 10.3
+
+Mg++
+ 3.8
+ 5.5
+ 6.7
+ 6.8
+ 5.9
+
+Na+
+ 0.7
+ 1.0
+ 1.2
+ 1.4
+ 1.3
+
+K+
+ 0.3
+ 0.3
+ 0.5
+ 0.5
+ 0.4
+% Na/T
+ 3.9
+ 4.0
+ 4.2
+ 4.4
+ 5.6
+% Saturación de Agua
+ 55
+ 60
+ 66
+ 66
+ 61
+Valor S (m.e./100 g)
+ 12.4
+ 17.7
+ 20.3
+ 21.9
+ 17.9
+H de cambio (m.e./100 g)
+ 11.3
+ 11.2
+ 12.1
+ 12.8
+ 9.3
+Valor T (m.e./100) NH4++ o Na+
+ 17.6
+ 25.0
+ 28.2
+ 31.7
+ 22.9
+% de saturación de T
+ 70
+ 71
+ 72
+ 69
+ 78
+% de saturación de S + H
+ 52
+ 61
+ 63
+ 63
+ 66
+Fósforo asimilable (ppm)
+ 9.5
+ 3.5
+ 1.6
+ 1.5
+ 1.3
+Factor de humedad
+ 1.05
+ 1.06
+ 1.04
+ 1.05
+ 1.03
+

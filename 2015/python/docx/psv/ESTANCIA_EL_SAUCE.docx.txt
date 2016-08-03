@@ -1,0 +1,262 @@
+
+--------------------------------------------------------------------------------
+SERIE ESTANCIA EL SAUCE		 			 Símbolo: Es ES
+
+
+Pertenece a la familia "fina montmorillonítica, neutra y térmica" de los Peludertes árgicos.
+Muestra un microrrelieve gilgai lineal moderadamente desarrollado, con ciclos de 4-7 m y altibajos de hasta 20 cm, visibles en el campo.
+
+Es negro hasta 50-90 cm en el bajo del gilgai y desde 00-12 cm en la cresta. Está ligeramente erosionado y moderadamente bien drenado. Es neutro a moderadamente alcalino. En el bajo del gilgai tiene un epipedón no o poco mólico, arcillo-limoso, con concreciones de calcáreo que aparecen entre 45-50 cm.
+Son suelos desarrollados en materiales lacustres ("liaros calcáreos) arcillo-limosos.
+
+
+Perfil tipo: ER2 - 18C
+Fecha: 29/IV/1971
+Estancia La Vigilancia (foto 478-13) - Dpto. La Paz
+Reconocedores: C.J.J.Vesco - G.W. van Barneveld
+
+
+Al: 00-21 cm; negro (10YR 2/1) en húmedo; gris muy oscuro (10 YR 3/1) en seco; arcillo-limoso; estructura granular y en bloques subangulares finos a medios, moderados a fuertes; muy duro en seco; friable en húmedo; barnices ("humic skins") escasos y finos; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+B21: 21-41 cm; negro (10YH 2/1) en humado; gris muy oscuro (10YK 3/1) en seco; arcilloso; estructura en bloques angulares irregulares medios moderados; muy duro en seco; friable en húmedo; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+
+B22: 41-74 cm; negro (7.5YR 2/0) en húmedo; negro (7.5YR 2/0) en seco; arcilloso; estructura en prismas compuestos irregulares gruesos débiles que rompen en bloques angulares irregulares y bloques cuneiformes gruesos finos; extremadamente duro en seco; muy firme en húmedo; caras de fricción ("slickensides") abundantes, medias y gruesas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, ondulado.
+
+B3ca: 74-102 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; pardo grisáceo oscuro (10YR 4/2) en seco; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes muy gruesos y muy fuertes; muy firme en húmedo; moderada cantidad de carbonatos libres en la masa; comunes concreciones de calcáreo de hasta 2 cm; caras da fricción ("slickensides") abundantes, muy gruesas; moteados de hierro-manganeso comunes, finos y precisos; límite difuso, ondulado. Horizonte con vetas de materia orgánica.
+
+Cca: 102 cm+; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; pardo grisáceo oscuro (10YR 4/2) en seco; arcillo-limoso; estructura masiva muy duro en seco; muy firme en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones de calcáreo comunes, duros, de hasta 2 cm; caras de fricción ("slickensides") comunes, medias y gruesas, concreciones de hierro-manganeso escasas; moteados de hierro-manganeso comunes, finos, precisos (sobre las caras de fricción son abundantes) de color pardo oscuro.
+
+Variabi1idad de rasgos
+
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción del material arcilloso que da lugar a la formación del microrrelieve gilgai, y en menor grado a la erosión.
+En el bajo del gilgai el solum varía de 100-110 cm. E1 epipedón tiene un espesor de 10-15 cm y normalmente consta de un horizonte Al (el epipedón del perfil descripto como típico es muy profundo para la serie). Tiene 35-40 % de arcilla (cuando está erosionado tiene más del 42 %) y 6 % aproximadamente de materia orgánica (cuando hay erosión alcanza hasta un 4 %), Y 3-7 % de arena. En la cresta el epipedón es más somero y menos oscuro y tiene menos materia orgánica y concreciones de calcáreo desde superficie.
+El horizonte B2, argílico, solo existe en el bajo del gilgai tiene 48-55 % de arcilla y 3-6 % de arena y una estructura generalmente prismática, aunque los prismas pueden ser muy débiles.
+Las caras de fricción, medias a gruesas, se encuentran a partir del B21 y son más abundantes e intersectadas en el B22. Cuando el B2 está seco, presenta grietas de hasta 2 cm de ancho que se extienden hasta la base del epipedón, o hasta la superficie cuando el suelo está erosionado.
+El calcáreo, en concreciones duras de hasta 2 cm, aparece entre 45-50 cm en el bajo del gilgai y desde la superficie en la cresta. Es posible encontrar concreciones en el epipedón del bajo del gilgai, debido a la erosión (calcáreo de arrastre). El calcáreo libre aparece más abajo (60-70 cm) y su porcentaje varía de 7-12 %. En algunos casos, puede haber además concreciones de yeso (SO4Ca), a veces en rosetas. Las concreciones ferro-manganesíferas son raras, y se dan en la parte inferior del argílico. Los moteados son comunes en la parte inferior del B2 y abundantes en el B3 y C.
+Es un suelo ligeramente acido a neutro en superficie, y ligera a moderadamente alcalino en el subsuelo, con porcentajes variables do Na+ intercambiable (de 1-2 %, en el epipedón hasta 1.4 % en el B3 y C).
+El color del C varía de 10YK 3/2 a 5/3, y tiene 52-55 % ce arcilla y menos del 4 % de arena.
+
+
+Fases
+
+Moderadamente erosionada
+Severamente erosionada
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie San Gustavo (más liviano y con gilgai mejor desarrollado). Otros Vertisoles no son tan arcillosos o tienen un epipedón más profundo y más mólico o son más hidromórficos.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie Estancia El Sauce está levemente erosionada, en gran parte debido a la erosión natural, Existen fases por erosión moderada (laminar y en surcos) y severa (en surcos y cárcavas).
+El suelo corre moderado peligro de erosión en surcos y cárcavas.
+Vegetación típica
+
+En su mayor parte ha desaparecido. En las zonas aún no desmontadas se aprecia un monte de espinillo (Acacia caven), algarrobo (Prosopis nigra) y ñandubay (Prosopis algarrobillo), con algunas palmas (Trithrinax campestris) y pencas (Opuntia sp.) aisladas, y especies como Baccharis coridifolia (mío-mío). Baccharis articulata (carqueja) y Stipas.
+DATOS ANALÍTICOS DEL PERFIL TIPO
+
+Serie Estancia El Sauce
+
+ER2-18C
+
+
+
+
+
+Nº de registro
+ 305
+ 306
+ 307
+ 308
+ 309
+Horizonte
+ Al
+ B21
+ B22
+ B3ca
+ Cca
+Profundidad (cm)
+ 03-15
+ 26-36
+ 57-70
+ 76-86
+ 115-125
+Mat.organica (%)
+ 7.7
+ 5.1
+ 4.0
+ 1.0
+ 0.7
+C/N
+ 11
+ 12
+ 17
+ 12
+ 12
+
+T <2
+ 38.3
+ 42.8
+ 48.2
+ 50.3
+ 45.0
+E 2-20
+ 31.2
+ 30.5
+ 24.4
+ 17.5
+ 24.5
+X 2-50
+ 54.9
+ 50.8
+ 45.8
+ 44.7
+ 50.5
+T 50-100
+ 1.1
+ 1.1
+ 1.1
+ 0.8
+ 0.9
+U 100-250
+ 3.7
+ 3.3
+ 3.2
+ 2.9
+ 2.4
+R 250-500
+ 1.9
+ 1.9
+ 1.6
+ 1.2
+ 1.0
+A 500-1000
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.2
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 10.9
+ 12.1
+pH H2O
+ 5.8
+ 6.1
+ 6.6
+ 7.8
+ 8.0
+pH ClK
+ 5.5
+ 5.7
+ 6.0
+ 6.9
+ 7.0
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+ 42.5
+ 47,8
+ 48.9
+ 42.5
+ 41.6
+
+D
+Ca++
+ 35.0
+ 40.7
+ 44.0
+ -
+ -
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 3.3
+ 3.1
+ 2.2
+ -
+ -
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 1.2
+ 1.0
+ 0.7
+ 0.8
+ 0.8
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.1
+ 0.2
+ 0,6
+ 0.6
+ 1.1
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 5.3
+ 4.5
+ 3.2
+ -
+ -
+% Na/T
+ 0.2
+ 0.4
+ 1.2
+ 1.4
+ 2.6
+
+Equivalente de humedad (%)
+ 42.9
+ 43.2
+ 47.1
+ 46.6
+ 46.1
+
+
+
+

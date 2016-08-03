@@ -1,0 +1,221 @@
+--------------------------------------------------------------------------------
+SERIE LA PAULINA Símbolo: Pau
+Pertenece a la familia "fina, montmorillonítica, neutra, térmica" de los Peludertes argiudólicos (Vertisol, epipedón mólico y B2 textural).
+Son suelos profundos oscuros no presentan gilgai lineal visible pero sí movimiento en masa ("churning") en el perfil.
+Perfil tipo: ER7-133C
+Fecha: 02-VI-1999.
+Ubicación: Estancia "Don Guillermo" (foto IRH 152-30) - Dpto. San Salvador
+Reconocedores: H.A.Tasi; L.O. López.
+A1: 00-18 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo- limoso; estructura en bloques subangulares y bloques angulares irregulares gruesos, débiles; friable en húmedo; barnices "humic skins", abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B1: 18-36 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, gruesos; friable en húmedo; barnices "clay skins" finos; caras de fricción ("slickensides") escasas, poco intersectadas; límite claro, suave.
+B21t: 36-75 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares irregulares, y bloques cuneiformes medios, dédiles; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, gruesas no intersectadas; límite claro, suave.
+B22t: 75-95 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, débiles; firme en húmedo; caras de fricción ("slickensides") abundantes, gruesas no intersectadas; límite claro, suave.
+B3ca: 95-110 cm; pardo muy oscuro (10YR 4/2) en húmedo en un 40% de la matriz y pardo grisáceo muy oscuro (10YR 3/2) en un 60%; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares y bloques cuneiformes medios, moderados, friable en húmedo; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; concreciones calcáreas blandas, abundantes; concreciones de hierro-manganeso abundantes, precisas y medias; carbonatos y concreciones de calcio abundantes; límite claro, suave.
+Cca: + 110 cm; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura masiva; friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes; concreciones de hierro-manganeso abundantes, precisas y medias.
+Variabilidad de rasgos
+El sólum varía entre 105-120 cm de espesor. El epipedón está compuesto generalmente profundo (+ de 30 cm). Es de color generalmente muy oscuro.
+El horizonte argílico tiene un espesor que varía entre 55-65 cm, con un contenido de arcilla entre 42 y 46%. Las características están mejor expresadas en el B22t.
+Fases
+No se han descripto a escala de reconocimiento.
+Series similares y sus diferencias
+Se parece a la Serie General Campos, pero esta tiene un epipedón más somero y un B2 más arcilloso.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial lento. Permeabilidad moderada. Napa freática poco profunda. Grupo hidrológico D.
+Erosión
+La Serie no muestra erosión actual, pero tiene peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Paulina
+ER7-133C
+N° de registro
+ 4155
+ 4156
+ 4157
+ 4158
+ 4159
+ 4160
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm
+ 05-15
+ 24-33
+ 45-65
+ 78-84
+ 97-105
+ 130-140
+Mat.organica (%)
+ 4.49
+ 4.35
+ 3.93
+ 2.53
+ 0.77
+ 0.28
+N (%)
+ 0.208
+ 0.156
+ 0.111
+ 0.078
+ 0.032
+ 0.026
+C/N
+ 12
+ 16
+ 21
+ 19
+ 12
+ 6
+T <2
+ 33.46
+ 33.99
+ 42.10
+ 45.79
+ 46.21
+ 44.14
+E 2-20
+ 40.08
+ 40.18
+ 35.14
+ 31.42
+ 30.20
+ 30.00
+X 2-50
+ 58.55
+ 58.99
+ 50.71
+ 48.62
+ 49.72
+ 54.18
+T 50-100
+ 1.19
+ 0.73
+ 0.91
+ 0.50
+ 0.24
+ 0.05
+U 100-500
+ 6.65
+ 6.11
+ 6.10
+ 4.98
+ 3.67
+ 1.56
+R 500-1000
+ 0.15
+ 0.18
+ 0.17
+ 0.11
+ 0.15
+ 0.06
+A 1000-2000
+ -
+ -
+ 0.01
+ -
+ 0.01
+ 0.01
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 9.67
+ 9.90
+pH H2O
+ 5.9
+ 6.2
+ 6.2
+ 6.8
+ 8.0
+ 8.3
+pH ClK
+ 5.1
+ 5.4
+ 5.1
+ 5.6
+ 6.9
+ 7.0
+Conductividad eléctrica mmhos/cm
+ 0.262
+ 0.267
+ 0.201
+ 0.220
+ 0.462
+ 0.393
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 30.97
+ 30.68
+ 35.20
+ 37.65
+ 39.24
+ 39.05
+d
+Ca++
+ 23.88
+ 25.11
+ 31.86
+ 31.68
+ -
+ -
+C
+e
+a
+Mg++
+ 2.57
+ 2.52
+ 3.16
+ 3.46
+ -
+ -
+t
+c
+i
+a
+K+
+ 0.87
+ 0.80
+ 0.84
+ 0.92
+ 1.07
+ 1.12
+o
+m
+n
+b
+Na+
+ 0.35
+ 0.35
+ 0.35
+ 0.40
+ 0.82
+ 0.66
+e
+i
+s
+o
+H+
+% Na/T
+ 1.13
+ 1.14
+ 0.99
+ 1.06
+ 2.09
+ 1.59
+Equivalente de humedad (%)
+ 35.46
+ 33.45
+ 44.09
+ 47.70
+ 48.02
+ 47.10
+Fósforo asimilable ppm
+ 20.38
+ 11.15
+ 6.08
+ 4.22
+ 2.91
+ 2.76

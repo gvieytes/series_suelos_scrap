@@ -1,0 +1,396 @@
+10,25 km al NNE de Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+10 km al NO del Est. Forestal Mazaruca, Departamento Islas del Ibicuy, Entre Rios
+-33.5833282 -59.2666702
+(-33.5833282, -59.2666702)
+10 km al SE de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+11,25 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+-33.4980583 -58.79636
+(-33.4980583, -58.79636)
+11,5 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+-33.4980583 -58.79636
+(-33.4980583, -58.79636)
+11 km al SE de la localidad de Medanos, Departamento Islas del Ibicuy, Entre Rios
+-33.4149208 -59.0789795
+(-33.4149208, -59.0789795)
+12,5 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+-33.4980583 -58.79636
+(-33.4980583, -58.79636)
+12 km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+12 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+-33.4980583 -58.79636
+(-33.4980583, -58.79636)
+1,2 km al SO de El Empalme, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+15 km al NE de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+1,5 Km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+1,5 km al SO de la Estancia Sagastume, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+16 km al S de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+16 km al SO de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+1 km al SE de El Empalme, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+22 Km al SE de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+24 km al SE de Feliciano, Departamento Feliciano, Entre Rios
+<no results>
+(None, None)
+24 km al SSE de la ciudad de Feliciano, Departamento Feliciano, Entre Rios
+<no results>
+(None, None)
+2.5 Km al NE de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+26 Km al SO de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+2,75 km al NNO de Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+27 km al NE de la ciudad de Feliciano, Departamento Feliciano, Entre Rios
+<no results>
+(None, None)
+2 Km al Sur de la localidad de Hernandez, Departamento Quebrachitos, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+3.3 km aprox. de Estacion La Clarita, Departamento Colon, Entre Rios
+-31.9762363 -58.394474
+(-31.9762363, -58.394474)
+3,5 km al SO de Estacion Minones, Departamento Federal, Entre Rios
+-30.7000008 -58.5833282
+(-30.7000008, -58.5833282)
+3.7 Km al N de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+38 Km al SE de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+3km al N del Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+4.500 m al NE de Colonia Elia, Departamento Uruguay, Entre Rios
+-32.6678505 -58.3154297
+(-32.6678505, -58.3154297)
+5,75 km al ESE de Medanos, Departamento Islas del Ibicuy, Entre Rios
+-33.4149208 -59.0789795
+(-33.4149208, -59.0789795)
+5,75km al SO de la localidad de Medanos, Departamento Islas del Ibicuy, Entre Rios
+-33.4149208 -59.0789795
+(-33.4149208, -59.0789795)
+5,7 km al sudeste de Medanos, Departamento Islas del Ibicuy, Entre Rios
+-33.4149208 -59.0789795
+(-33.4149208, -59.0789795)
+5 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+5 km al norte de Holt. ,, Entre Rios
+<no results>
+(None, None)
+5 km al SO de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+5 Km de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+6.5 Km aprox. de la localidad de Villa Elisa, Departamento Colon, Entre Rios
+-32.1641185 -58.400599
+(-32.1641185, -58.40059899999999)
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+-33.7335205 -59.1668701
+(-33.7335205, -59.1668701)
+6 Km al sur de la localidad de Antelo, Departamento Corrales, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+7 Km al E del cruce de rutas Nac. 18 y Pcial 32, Departamento Quebracho, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+7 Km al E de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+7 km al norte de Cerrito, Departamento Tala, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+7 km al S de la ciudad de Feliciano, Departamento Feliciano, Entre Rios
+<no results>
+(None, None)
+7 Km al SO de San Jaime de la Frontera, departamento federacion, Entre Rios
+-30.9850361 -57.9198417
+(-30.9850361, -57.91984170000001)
+8 km al NNE del Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+a 1,5 km al Oeste de la parada km 340 FCGU, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+a 1,5 km al SO de la Escuela Provincial N 74, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+a 2 km al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+a 800 m al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Area muestra Aldea Santa Maria, Departamento Parana, Entre Rios
+-31.6000004 -60.0
+(-31.6000004, -59.99999999999999)
+Area muestra Colonia Nueva, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Campo del Sr. Montrull, Departamento Espinillo. Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Celulosa S.A. Isla Victoria, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Durazno, Departamento Tala, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+El Relincho, Departamento Federal, Entre Rios
+-30.9512291 -58.7988281
+(-30.9512291, -58.7988281)
+Esc. Agrotecnica Las Delicias, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Escuela N 121 Sor Juana Ines de la Cruz, Departamento Tala, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento Campo Nuevo, Departamento Colon, Entre Rios
+-32.2249328 -58.1447142
+(-32.2249328, -58.1447142)
+Establecimiento del Sr. Esteban Elgenreder, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento Don Antonio, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Establecimiento Don Tino, Departamento Corrales, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Establecimiento El Caraguata, Departamento Chilcas, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Establecimiento El Caraguata, Departamento Chilcas, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Establecimiento El Caraguata, Departamento Chilcas, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Establecimiento El Cuadro, dto Montoya, Departamento Victoria, Entre Rios
+-32.5999985 -59.8333282
+(-32.59999850000001, -59.83332819999999)
+Establecimiento El Lucero, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento El Potrillo, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento El Terron, Departamento Rincon de Nogoya, Departamento Victoria, Entre Rios
+-32.75 -59.933333
+(-32.75, -59.933333)
+Establecimiento Forestal Mazaruca, Departamento Islas del Ibicuy, Entre Rios
+-33.5833282 -59.2666702
+(-33.5833282, -59.2666702)
+Establecimiento Isla Don Antonio, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Establecimiento Isla Victoria, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Establecimiento La Ceiba, Departamento Pajonal, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Establecimiento Las Tres Marias, Departamento Tala, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento Los Laureles, Departamento Tala, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento Los Nogales, Departamento Antonio Tomas- Departamento Parana, Entre Rios
+-31.4166698 -60.0499992
+(-31.4166698, -60.04999919999999)
+Establecimiento San Francisco, Departamento Hinojal, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Establecimiento Sr. Galetto, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento Sr. Rausch, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Establecimiento tambero Don Quicho, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estacion Conscripto Bernardi, Departamento Federal, Entre Rios
+-31.0473595 -59.0899582
+(-31.0473595, -59.0899582)
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay, Entre Rios
+-32.4845349 -58.2321416
+(-32.4845349, -58.2321416)
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay, Entre Rios
+-32.4845349 -58.2321416
+(-32.4845349, -58.2321416)
+Estacion Experimental Agropecuaria Concordia INTA, Departamento Concordia, Entre Rios
+-31.3918479 -58.0170605
+(-31.3918479, -58.0170605)
+Estacion Experimental Agropecuaria del INTA Parana, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estacion Experimental INTA Parana, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estacion Hasenkamp, Departamento Parana, Entre Rios
+-31.5170307 -59.850769
+(-31.5170307, -59.85076900000001)
+Estacion La Calandria, Departamento Federal, Entre Rios
+-30.7999992 -58.6500015
+(-30.7999992, -58.65000149999999)
+Estacion Minones, Departamento Federal, Entre Rios
+-30.7000008 -58.5833282
+(-30.7000008, -58.5833282)
+Estacion Nueva Vizcaya, Departamento Federal, Entre Rios
+-30.9666691 -58.5999985
+(-30.9666691, -58.5999985)
+Estancia El Diecisiete, dto Hinojal, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Estancia El Guasuncho, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Estancia El Puesto, Departamento Quebracho, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estancia El Talar, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estancia El Talar, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estancia La Fe, Departamento Montoya, Departamento Victoria, Entre Rios
+-32.5999985 -59.8333282
+(-32.59999850000001, -59.83332819999999)
+Estancia La Luisa, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Estancia Las Rosas, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Estancia Las Rosas, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Estancia Mugherli, Departamento Uruguay, Entre Rios
+<no results>
+(None, None)
+Estancia Mugherli, Departamento Uruguay, Entre Rios
+<no results>
+(None, None)
+Estancia San Benito, Departamento Feliciano, Entre Rios
+<no results>
+(None, None)
+Estancia San Francisco, dto Hinojal, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Estancia Santa Teresita, Departamento Parana, Entre Rios
+-31.7413197 -60.5115471
+(-31.7413197, -60.51154709999999)
+Est. Maria Angelica, Departamento Antonio Tomas, Departamento Parana, Entre Rios
+-31.4166698 -60.0499992
+(-31.4166698, -60.04999919999999)
+INTA Concordia, Departamento Concordia, Entre Rios
+-31.3918479 -58.0170605
+(-31.3918479, -58.0170605)
+INTA Concordia, Departamento Concordia, Entre Rios
+-31.3918479 -58.0170605
+(-31.3918479, -58.0170605)
+INTA Concordia, Departamento Concordia, Entre Rios
+-31.3918479 -58.0170605
+(-31.3918479, -58.0170605)
+La Avanzada, Departamento Concordia, Entre Rios
+-31.3918479 -58.0170605
+(-31.3918479, -58.0170605)
+La Entrerriana, Departamento Federal, Entre Rios
+-32.4835137 -58.2311693
+(-32.4835137, -58.2311693)
+La Estrella, Departamento Feliciano, Entre Rios
+<no results>
+(None, None)
+La Palmita, Departamento Federal, Entre Rios
+-30.9512291 -58.7988281
+(-30.9512291, -58.7988281)
+Maria Luisa, Departamento Federal, Entre Rios
+-30.9512291 -58.7988281
+(-30.9512291, -58.7988281)
+Parana del INTA, Departamento Parana, Entre Rios
+-31.85 -60.53333
+(-31.85, -60.53333)
+Paso Birrinchin, Departamento Federal, Entre Rios
+-30.9512291 -58.7988281
+(-30.9512291, -58.7988281)
+Predio de La Abadia del Nino Dios, Departamento Corrales, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Predio perteneciente a La Abadia del Nino Dios, Departamento Corrales, Departamento Victoria, Entre Rios
+<no results>
+(None, None)
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria, Entre Rios
+-32.75 -59.933333
+(-32.75, -59.933333)
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria, Entre Rios
+-32.75 -59.933333
+(-32.75, -59.933333)
+Puesto de Tabla, Departamento Federal, Entre Rios
+-30.9512291 -58.7988281
+(-30.9512291, -58.7988281)
+San Buenaventura, Departamento Federal, Entre Rios
+-30.9512291 -58.7988281
+(-30.9512291, -58.7988281)
+San Lorenzo, Departamento Islas del Ibicuy, Entre Rios
+-33.6610262 -58.8289611
+(-33.6610262, -58.8289611)
+Santa Jeronima, 18 km al SE/E de Feliciano- Departamento Feliciano, Entre Rios
+<no results>
+(None, None)

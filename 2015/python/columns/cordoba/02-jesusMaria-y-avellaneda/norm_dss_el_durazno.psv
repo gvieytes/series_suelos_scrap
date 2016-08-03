@@ -1,0 +1,39 @@
+dss_el_durazno.psv ->> ID..........................: 210
+dss_el_durazno.psv ->> CLASIFICACION...............: Calciustol típico
+dss_el_durazno.psv ->> SERIE.......................: EL DURAZNO
+dss_el_durazno.psv ->> UBICACION...................: 6 km al Noroeste de la localidad de Avellaneda, departamento Ischilín
+dss_el_durazno.psv ->> PROVINCIA...................: CORDOBA
+dss_el_durazno.psv ->> LATITUD.....................: S303400
+dss_el_durazno.psv ->> LONGITUD....................: O641600
+dss_el_durazno.psv ->> ALTITUD.....................: 750
+dss_el_durazno.psv ->> PENDIENTE...................: FALTA!
+dss_el_durazno.psv ->> DRENAJE.....................: FALTA!
+dss_el_durazno.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_durazno.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_durazno.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_el_durazno.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_el_durazno.psv ->> HORIZONTE->NOMBRE(S)........: ACca | ACca | Cca
+dss_el_durazno.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-19 | 19-46 | 46 a +
+dss_el_durazno.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,3 | 1,6 |  
+dss_el_durazno.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,9 | 0,9 |  
+dss_el_durazno.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,19 | 1,08 |  
+dss_el_durazno.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,0 | 0,8 |  
+dss_el_durazno.psv ->> HORIZONTE->ARCILLA 2 (%)....: 25,8 | 18,8 | 26,0
+dss_el_durazno.psv ->> HORIZONTE->LIMO 2-50 (%)....: 42,6 | 38,4 | 47,0
+dss_el_durazno.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,3 | 5,7 | 5,5
+dss_el_durazno.psv ->> HORIZONTE->AF 100-250 (%)...: 5,4 | 6,6 | 5,5
+dss_el_durazno.psv ->> HORIZONTE->AM 250-500 (%)...: 5,2 | 8,0 | 5,2
+dss_el_durazno.psv ->> HORIZONTE->AG 500-1000 (%)..: 6,8 | 11,4 | 6,0
+dss_el_durazno.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 6,3 | 9,3 | 4,8
+dss_el_durazno.psv ->> HORIZONTE->CALCAREO CaCO3(%): 7,6 | 17,1 | 21,4
+dss_el_durazno.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 23,3 | 25,2 | 25,6
+dss_el_durazno.psv ->> HORIZONTE->PH PASTA.........: 7,2 | 7,3 | 7,4
+dss_el_durazno.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,6 | 7,9 | 8,1
+dss_el_durazno.psv ->> HORIZONTE->CI ME/100G-Ca ++.: - | - | 
+dss_el_durazno.psv ->> HORIZONTE->CI ME/100G-Mg ++.: - | - | 
+dss_el_durazno.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4 | 0,4 | 0,4
+dss_el_durazno.psv ->> HORIZONTE->CI ME/100G-K +...: 1,4 | 1,1 | 1,1
+dss_el_durazno.psv ->> HORIZONTE->CI ME/100G-H +...: - | - | 
+dss_el_durazno.psv ->> HORIZONTE->SUM.B. ME/100G(S): - | - | 
+dss_el_durazno.psv ->> HORIZONTE->CIC ME/100G(T)...: 25,7 | 21,6 | 
+dss_el_durazno.psv ->> HORIZONTE->SAT.B % (S/T)....: 100 | 100 | 

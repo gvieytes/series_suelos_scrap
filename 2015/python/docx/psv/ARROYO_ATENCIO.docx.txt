@@ -1,0 +1,255 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO ATENCIO				 	 Símbolo: At
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Ocracualfes aéricos.
+
+Es un suelo mal drenado, que ocupa los pequeños valles inundables de arroyos poco encajados. Generalmente están gleizados desde 50-100 cm. de profundidad.
+
+
+Perfil tipo: ER2-41C
+Fecha: -
+Ubicación: 24 km al SSE de la ciudad de Feliciano - Dpto. Feliciano
+Reconocedores: C.J.J Vesco; G.W. van Barneveld
+
+
+A2: 00-18 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; franco arcilloso; estructura en bloques angulares irregulares medios débiles con tendencia a masivo; extremadamente duro en seco; friable en húmedo; pH: 6,8 barnices ("humic skins") comunes finos; moteados de hierro y manganeso comunes, precisos y finos; escasas concreciones de hierro y manganeso hasta 2 mm; límite claro y suave.
+
+B21t: 18-58 cm; pardo grisáceo muy oscuro (10 YR 3.5/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios moderados que rompen en bloques angulares irregulares y agregados cuneiformes medios moderados; extremadamente duro en seco, muy firme en húmedo; pH: 5.6; barnices ("humic skins") comunes finos; moteados de hierro y manganeso comunes, precisos y finos; caras de fricción (slickensides) abundantes, finas; concreciones de hierro y manganeso escasas; límite gradual, suave; horizonte lixiviado por las caras.
+
+B22t: 58-84 cm; pardo grisáceo (10YR 5/2) en húmedo; franco arcillo limoso; estructura en prismas más compuestos irregulares medios débiles que rompen en bloques angulares irregulares medios moderados; firme en húmedo; pH: 6.4; moteados en hierro y manganeso comunes, precisos, finos; caras de fricción ("slickensides") escasas, finas a medias; escasas concreciones de hierro y manganeso hasta 2 mm; límite gradual suave.
+
+B3ca (g): 84 + cm; pardo grisáceo (10YR 5/2) en húmedo; franco arcilloso limoso; estructura en prismas compuestos irregulares medios débiles que rompen en bloques angulares irregulares medios moderados; friable en húmedo, pH: 7.2; barnices inherentes al material; caras de fricción (slickensides) comunes medias; moteados de hierro y manganeso de hasta 2 mm comunes; escasas concreciones calcáreas de hasta 3 cm.; se observan manchas de materia orgánica.
+
+
+Variabilidad de rasgos
+
+El horizonte superior es claro y seco, que generalmente se describe como A2, es franco-arcillo-limoso ácido. La estructura se expresa en bloques medios y posee concreciones y moteados de hierro-manganeso desde superficie.
+Le sigue un horizonte (B2) oscuro, arcilloso a arcillo limoso, de estructura prismática; muy potente (50-65 cm); algo lixiviado en su parte superior y con moteados y concreciones de hierro y manganeso.
+El horizonte transicional B3 se encuentra casi siempre gleizado, claro, franco arcillo limoso, con concreciones calcáreas de hierro y manganeso.
+El horizonte C está constituido por materiales aluviales, claros, calcáreos y gleizados.
+
+
+Fases
+
+No presenta a escala de reconocimiento (1:100.000).
+
+
+Drenaje
+
+Es un suelo mal drenado. La napa freática fluctúa entre 30-200 cm según el año y estación.
+
+
+Erosión
+
+	No presenta erosión actual, pero sí, peligro de deposición.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Atencio
+
+ER2-41C
+
+
+
+
+Nº de registro
+ 702
+ 703
+ 704
+ 705
+Horizonte
+ A2
+ B21 t
+ B22 t
+ B3ca (g)
+Profundidad (cm)
+ 2-15
+ 30-45
+ 67-80
+ 95-108
+Mat.organica (%)
+ 2.80
+ 1.17
+ 0.98
+ 0.24
+C (%)
+ 1.62
+ 0.68
+ 0.57
+ 0.14
+N (%)
+ 0.170
+ 0.065
+ 0.058
+ 0.029
+C/N
+ 9
+ 10
+ 10
+ 5
+
+T <2
+
+ 39.9
+
+ 47.3
+
+ 53.1
+
+ 46.6
+E 2-20
+ -
+ -
+ -
+ -
+X 2-50
+ 59.5
+ 51.8
+ 46.1
+ 52.6
+T 50-100
+ 0.3
+ 0.3
+ 0.2
+ 0.3
+U 100-250
+ 0.2
+ 0.3
+ 0.3
+ 0.3
+R 250-500
+ 0.1
+ 0.3
+ 0.3
+ 0.2
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 1.8
+pH H2O
+ 4.8
+ 5.6
+ 6.4
+ 7.2
+pH ClK
+ -
+ -
+ -
+ -
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+
+
+ 33.2
+
+
+ 37.9
+
+
+ 41.9
+
+
+ 36.5
+
+D
+Ca++
+ 19.8
+ 26.1
+ 30.9
+ -
+C
+E
+
+
+
+
+
+A
+
+Mg++
+ 5.6
+ 6.3
+ 6.7
+ -
+T
+C
+
+
+
+
+
+I
+A
+K+
+ 0.6
+ 0.6
+ 0.7
+ 0.9
+O
+M
+
+
+
+
+
+N
+B
+Na+
+ 0.9
+ 2.0
+ 2.5
+ 2.7
+E
+I
+
+
+
+
+
+S
+O
+H+
+ 6.8
+ 3.9
+ 2.4
+
+
+
+
+
+
+
+
+% Na/T
+
+ 2.7
+ 5.3
+ 6.0
+ 7.4
+
+Equivalente de humedad (%)
+
+ 39.3
+
+ 45.4
+
+ 50.1
+
+ 46.6
+

@@ -1,0 +1,853 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Benjamin_Gould.psv ->> ID..........................: 901
+Serie_Benjamin_Gould.psv ->> CLASIFICACION...............: Natracualf típico
+Serie_Benjamin_Gould.psv ->> SERIE.......................: BENJAMÍN GOULD (BnjGl)
+Serie_Benjamin_Gould.psv ->> UBICACION...................: 9,5 km al NNO de Alejo Ledesma, departamento Unión
+Serie_Benjamin_Gould.psv ->> PROVINCIA...................: CORDOBA
+Serie_Benjamin_Gould.psv ->> LATITUD.....................: S333121
+Serie_Benjamin_Gould.psv ->> LONGITUD....................: O623919
+Serie_Benjamin_Gould.psv ->> ALTITUD.....................: 110
+Serie_Benjamin_Gould.psv ->> PENDIENTE...................: FALTA!
+Serie_Benjamin_Gould.psv ->> DRENAJE.....................: FALTA!
+Serie_Benjamin_Gould.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Benjamin_Gould.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Benjamin_Gould.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Benjamin_Gould.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+Serie_Benjamin_Gould.psv ->> HORIZONTE->NOMBRE(S)........: E      |  E2     |  Btn    |  BC      |  C        |  Ck
+Serie_Benjamin_Gould.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-19   |  19-33  |  33-62  |  62-103  |  103-124  |  124a+
+Serie_Benjamin_Gould.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,70   |  0,49   |  0,46   |  0,24    |  0,21     |  0,21
+Serie_Benjamin_Gould.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0,99   |  0,29   |  0,27   |  0,14    |  0,12     |  0,12
+Serie_Benjamin_Gould.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,106  |  0,041  |  0,041  |  0,027   |  0,019    |  0,019
+Serie_Benjamin_Gould.psv ->> HORIZONTE->RELACIÓN C/N.....: 9,3    |  7,1    |  6,5    |  5,2     |  6,3      |  6,3
+Serie_Benjamin_Gould.psv ->> HORIZONTE->ARCILLA 2 (%)....: 4,0    |  5,0    |  14,0   |  10,4    |  6,8      |  6,8
+Serie_Benjamin_Gould.psv ->> HORIZONTE->LIMO 2-50 (%)....: 46,6   |  45,0   |  43,7   |  42,0    |  43,2     |  44,6
+Serie_Benjamin_Gould.psv ->> HORIZONTE->AMF 50-100 (%)...: 41,5   |  44,8   |  36,7   |  41,3    |  48,0     |  42,2
+Serie_Benjamin_Gould.psv ->> HORIZONTE->AF 100-250 (%)...: 5,3    |  1,8    |  3,7    |  3,8     |  0,1      |  4,0
+Serie_Benjamin_Gould.psv ->> HORIZONTE->AM 250-500 (%)...: 0,6    |  0,3    |  0,4    |  0,2     |  0,1      |  0,1
+Serie_Benjamin_Gould.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,7    |  0,3    |  0,8    |  0,3     |  0,1      |  0,7
+Serie_Benjamin_Gould.psv ->> HORIZONTE->AMG 1-2 mm (%)...:        |         |  0,2    |  0,1     |           |
+Serie_Benjamin_Gould.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0    |  0,0    |  1,39   |  1,71    |  0,28     |  2,46
+Serie_Benjamin_Gould.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 15,1   |  14,3   |  21,0   |  19,5    |  17,3     |  17,7
+Serie_Benjamin_Gould.psv ->> HORIZONTE->PH PASTA.........: 6,0    |  7,2    |  8,3    |  9,1     |  9,4      |  9,5
+Serie_Benjamin_Gould.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,0    |  5,7    |  6,5    |  6,9     |  7,2      |  7,5
+Serie_Benjamin_Gould.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,6    |  1,1    |         |          |           |
+Serie_Benjamin_Gould.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4    |  0,6    |         |  8,4     |  9,1      |  11,5
+Serie_Benjamin_Gould.psv ->> HORIZONTE->CI ME/100G-K +...: 2,8    |  1,6    |  2,7    |  2,2     |  2,1      |  1,9
+Serie_Benjamin_Gould.psv ->> HORIZONTE->CI ME/100G-H +...: 3,4    |  0,5    |         |          |           |
+Serie_Benjamin_Gould.psv ->> HORIZONTE->Na+ % DEL VALOR T:        |  4      |         |  38      |  47       |  56
+Serie_Benjamin_Gould.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13,1   |  14,2   |         |          |           |
+Serie_Benjamin_Gould.psv ->> HORIZONTE->CIC ME/100G(T)...: 16,5   |  15,0   |  28,3   |  22,4    |  19,4     |  20,4
+Serie_Benjamin_Gould.psv ->> HORIZONTE->SAT.B % (S/T)....: 79     |  95     |         |          |           |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Canals.psv ->> ID..........................: 902
+Serie_Canals.psv ->> CLASIFICACION...............: Haplustol éntico
+Serie_Canals.psv ->> SERIE.......................: CANALS (Cnls)
+Serie_Canals.psv ->> UBICACION...................: 8 Km al Sur de la localidad de Canals, departamento Unión
+Serie_Canals.psv ->> PROVINCIA...................: CORDOBA
+Serie_Canals.psv ->> LATITUD.....................: S333700
+Serie_Canals.psv ->> LONGITUD....................: O625500
+Serie_Canals.psv ->> ALTITUD.....................: 119
+Serie_Canals.psv ->> PENDIENTE...................: FALTA!
+Serie_Canals.psv ->> DRENAJE.....................: FALTA!
+Serie_Canals.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Canals.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Canals.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Canals.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Canals.psv ->> HORIZONTE->NOMBRE(S)........: Ap    |  AC     |  C
+Serie_Canals.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-25  |  25-54  |  54a+
+Serie_Canals.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,2   |  2,0    |  0,2
+Serie_Canals.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,30  |  1,14   |  0,12
+Serie_Canals.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,12  |  0,06   |  0,03
+Serie_Canals.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,8  |  19,0   |  4,0
+Serie_Canals.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9,8   |  5,0    |  3,4
+Serie_Canals.psv ->> HORIZONTE->LIMO 2-50 (%)....: 18,8  |  21,6   |  17,7
+Serie_Canals.psv ->> HORIZONTE->AMF 50-100 (%)...: 58,8  |  64,7   |  75,0
+Serie_Canals.psv ->> HORIZONTE->AF 100-250 (%)...: 10,0  |  6,4    |  0,4
+Serie_Canals.psv ->> HORIZONTE->AM 250-500 (%)...:       |         |
+Serie_Canals.psv ->> HORIZONTE->AG 500-1000 (%)..:       |         |
+Serie_Canals.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |
+Serie_Canals.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0
+Serie_Canals.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 12,0  |  10,0   |  8,6
+Serie_Canals.psv ->> HORIZONTE->PH PASTA.........: 5,7   |  6,6    |  7,3
+Serie_Canals.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,8   |  6,7    |  7,5
+Serie_Canals.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,0   |  1,5    |  1,5
+Serie_Canals.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,2    |  0,3
+Serie_Canals.psv ->> HORIZONTE->CI ME/100G-K +...: 2,2   |  1,2    |  0,8
+Serie_Canals.psv ->> HORIZONTE->CI ME/100G-H +...: 2,6   |  1,4    |  0,3
+Serie_Canals.psv ->> HORIZONTE->SUM.B. ME/100G(S): 9,3   |  9,9    |  9,5
+Serie_Canals.psv ->> HORIZONTE->CIC ME/100G(T)...: 12,0  |  11,3   |  9,9
+Serie_Canals.psv ->> HORIZONTE->SAT.B % (S/T)....: 77    |  87     |  96
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Estacion_Salguero.psv ->> ID..........................: 903
+Serie_Estacion_Salguero.psv ->> CLASIFICACION...............: Natracuol típico
+Serie_Estacion_Salguero.psv ->> SERIE.......................: ESTACIÓN SALGUERO (EstSlg)
+Serie_Estacion_Salguero.psv ->> UBICACION...................: 17 Km al NO de Villa Rossi, departamento Presidente Roque Sáenz Peña
+Serie_Estacion_Salguero.psv ->> PROVINCIA...................: CORDOBA
+Serie_Estacion_Salguero.psv ->> LATITUD.....................: S341400
+Serie_Estacion_Salguero.psv ->> LONGITUD....................: O631600
+Serie_Estacion_Salguero.psv ->> ALTITUD.....................: 135
+Serie_Estacion_Salguero.psv ->> PENDIENTE...................: FALTA!
+Serie_Estacion_Salguero.psv ->> DRENAJE.....................: FALTA!
+Serie_Estacion_Salguero.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Estacion_Salguero.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Estacion_Salguero.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Estacion_Salguero.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Estacion_Salguero.psv ->> HORIZONTE->NOMBRE(S)........: A     |  Btn    |  BC     |  Ck
+Serie_Estacion_Salguero.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-24  |  24-55  |  55-91  |  91a+
+Serie_Estacion_Salguero.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,51  |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,46  |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,15  |  0,04   |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->RELACIÓN C/N.....: 9,7   |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->ARCILLA 2 (%)....: 10,2  |  20,6   |         |  12,9
+Serie_Estacion_Salguero.psv ->> HORIZONTE->LIMO 2-50 (%)....: 39,6  |  31,0   |         |  25,8
+Serie_Estacion_Salguero.psv ->> HORIZONTE->AMF 50-100 (%)...: 39,2  |  36,4   |         |  43,9
+Serie_Estacion_Salguero.psv ->> HORIZONTE->AF 100-250 (%)...: 11,7  |  12,4   |         |  16,9
+Serie_Estacion_Salguero.psv ->> HORIZONTE->AM 250-500 (%)...: 0,3   |  0,1    |         |  0,5
+Serie_Estacion_Salguero.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,3   |         |         |  0,5
+Serie_Estacion_Salguero.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  2,3    |  0,6    |  3,7
+Serie_Estacion_Salguero.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17,7  |  26,6   |  18,1   |  15,9
+Serie_Estacion_Salguero.psv ->> HORIZONTE->PH PASTA.........: 5,1   |  7,4    |  8,0    |  8,5
+Serie_Estacion_Salguero.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,3   |  7,9    |  8,8    |  9,3
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,2   |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CI ME/100G-K +...: 1,9   |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CI ME/100G-H +...: 2,7   |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CONDUCT mmhos/cm.: 5,4   |  15,34  |  18,02  |  12,01
+Serie_Estacion_Salguero.psv ->> HORIZONTE->SUM.B. ME/100G(S): 10,5  |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CIC ME/100G(T)...: 13,2  |  20,1   |         |  13,0
+Serie_Estacion_Salguero.psv ->> HORIZONTE->SAT.B % (S/T)....:       |         |         |
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 14,4  |  27,2   |  8,0    |  5,4
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CI ME/100G-Na +..: 12,0  |  112,8  |  188,0  |  122,0
+Serie_Estacion_Salguero.psv ->> HORIZONTE->CI ME/100G-K +...: 6,0   |  1,4    |  1,6    |  1,0
+Serie_Estacion_Salguero.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: 1,6   |  9,6    |  4,8    |  8,0
+Serie_Estacion_Salguero.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: 10,9  |  70,7   |  105,2  |  68,2
+Serie_Estacion_Salguero.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: 43,2  |  89,0   |  100,0  |  59,2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Estancia_Don_Francisco.psv ->> ID..........................: 904
+Serie_Estancia_Don_Francisco.psv ->> CLASIFICACION...............: Argialbol típico
+Serie_Estancia_Don_Francisco.psv ->> SERIE.......................: ESTANCIA DON FRANCISCO (EstDFrnc)
+Serie_Estancia_Don_Francisco.psv ->> UBICACION...................: 12,3 Km al SE de la Estancia San Julián, departamento Marcos Juárez
+Serie_Estancia_Don_Francisco.psv ->> PROVINCIA...................: CORDOBA
+Serie_Estancia_Don_Francisco.psv ->> LATITUD.....................: S335800
+Serie_Estancia_Don_Francisco.psv ->> LONGITUD....................: O623200
+Serie_Estancia_Don_Francisco.psv ->> ALTITUD.....................: 118
+Serie_Estancia_Don_Francisco.psv ->> PENDIENTE...................: FALTA!
+Serie_Estancia_Don_Francisco.psv ->> DRENAJE.....................: FALTA!
+Serie_Estancia_Don_Francisco.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Estancia_Don_Francisco.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Estancia_Don_Francisco.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Estancia_Don_Francisco.psv ->> COLOR ......................: GRISÁCEO MUY OSCURO
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->NOMBRE(S)........: A      |  E      |  Bt     |  BC     |  C
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18   |  18-38  |  38-56  |  56-84  |  84a+
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,79   |  0,29   |  0,32   |  0,25   |  0,08
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,11   |  0,18   |  0,20   |  0,16   |  0,05
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,114  |  0,028  |  0,039  |         |
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->RELACIÓN C/N.....: 9,7    |  6,4    |  5,1    |         |
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->ARCILLA 2 (%)....: 7,4    |  4,4    |  17,8   |  16,8   |  4,6
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->LIMO 2-50 (%)....: 26,9   |  21,0   |  18,3   |  17,5   |  16,2
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->AMF 50-100 (%)...: 54,1   |  60,0   |  58,2   |  52,9   |  50,7
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->AF 100-250 (%)...: 12,5   |  14,9   |  6,9    |  13,4   |  28,0
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->AM 250-500 (%)...:        |         |         |         |
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->AG 500-1000 (%)..:        |         |         |         |
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->AMG 1-2 mm (%)...:        |         |         |         |
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0      |  0      |  0      |  0      |  0
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 16,0   |  9,8    |  21,7   |  19,7   |  10,0
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->PH PASTA.........: 5,7    |  6,6    |  7,3    |  7,8    |  9,2
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,0    |  6,8    |  7,5    |  8,2    |  9,4
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2,0    |  1,3    |  2,8    |  2,2    |  0,9
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2    |  0,5    |  0,9    |  1,8    |  4,3
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->CI ME/100G-K +...: 1,3    |  1,1    |  2,1    |  2,3    |  1,7
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->CI ME/100G-H +...: 1,0    |  0,2    |  0,4    |         |
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8,0    |  6,3    |  13,5   |  13,5   |  10,0
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->CIC ME/100G(T)...: 9,4    |  6,6    |  14,1   |  13,0   |  10,0
+Serie_Estancia_Don_Francisco.psv ->> HORIZONTE->SAT.B % (S/T)....: 85     |  95     |  96     |  100    |  100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Estancia_La_Alicia.psv ->> ID..........................: 905
+Serie_Estancia_La_Alicia.psv ->> CLASIFICACION...............: Duracuol nátrico
+aerie_Estancia_La_Alicia.psv ->> SERIE.......................: ESTANCIA LA ALICIA (EstAlc)
+Serie_Estancia_La_Alicia.psv ->> UBICACION...................: 3,05 Km al NO de la estancia La Oriental, departamento Presidente Roque Sáenz Peña
+Serie_Estancia_La_Alicia.psv ->> PROVINCIA...................: CORDOBA
+Serie_Estancia_La_Alicia.psv ->> LATITUD.....................: S340200
+Serie_Estancia_La_Alicia.psv ->> LONGITUD....................: O630300
+Serie_Estancia_La_Alicia.psv ->> ALTITUD.....................: 128
+Serie_Estancia_La_Alicia.psv ->> PENDIENTE...................: FALTA!
+Serie_Estancia_La_Alicia.psv ->> DRENAJE.....................: FALTA!
+Serie_Estancia_La_Alicia.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Estancia_La_Alicia.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Estancia_La_Alicia.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+Serie_Estancia_La_Alicia.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO A PARDO OSCURO
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->NOMBRE(S)........: A     |  E      |  Btn    |  Btm    |  BCm
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  |  18-25  |  25-37  |  37-50  |  50a+
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,96  |  0,89   |  0,81   |  0,38   |  0,19
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,14  |  0,52   |  0,47   |  0,22   |  0,11
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,14  |  0,09   |  0,08   |  0,06   |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,1   |  5,8    |  5,9    |  0,3    |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->ARCILLA 2 (%)....: 10,8  |  7,7    |  18,3   |  17,0   |  16,5
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->LIMO 2-50 (%)....: 37,8  |  38,1   |  32,7   |  32,9   |  33,4
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->AMF 50-100 (%)...: 42,1  |  41,0   |  40,4   |  41,2   |  39,9
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->AF 100-250 (%)...: 9,1   |  11,8   |  8,1    |  9,4    |  9,9
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->AM 250-500 (%)...:       |         |         |         |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->AG 500-1000 (%)..:       |         |         |         |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |         |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0    |  1,2    |  0,7
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 27,5  |  8,7    |  26,9   |  25,6   |  24,8
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->PH PASTA.........: 5,4   |  6,4    |  7,6    |  8,5    |  8,8
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,5   |  6,5    |  7,8    |  9,0    |  9,2
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,0   |  1,2    |  1,2    |         |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,8    |  4,4    |  3,1    |  9,4
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CI ME/100G-K +...: 1,5   |  1,0    |  2,0    |  1,5    |  2,7
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CI ME/100G-H +...: 1,5   |  1,0    |         |         |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->Na+ % DEL VALOR T:       |         |  31,0   |  23,0   |  70,0
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CONDUCT mmhos/cm.:       |         |         |         |  3,11
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8,1   |  7,0    |  13,9   |         |
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->CIC ME/100G(T)...: 9,9   |  8,1    |  13,9   |  13,0   |  13,3
+Serie_Estancia_La_Alicia.psv ->> HORIZONTE->SAT.B % (S/T)....: 82    |  86     |  100    |         |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Estancia_La_Emilia.psv ->> ID..........................: 906
+Serie_Estancia_La_Emilia.psv ->> CLASIFICACION...............: Natrustol típico
+Serie_Estancia_La_Emilia.psv ->> SERIE.......................: ESTANCIA LA EMILIA (EstEml)
+Serie_Estancia_La_Emilia.psv ->> UBICACION...................: 2 Km al Este de la estancia La Emilia, departamento Roque Sáenz Peña
+Serie_Estancia_La_Emilia.psv ->> PROVINCIA...................: CORDOBA
+Serie_Estancia_La_Emilia.psv ->> LATITUD.....................: S335800
+Serie_Estancia_La_Emilia.psv ->> LONGITUD....................: O630900
+Serie_Estancia_La_Emilia.psv ->> ALTITUD.....................: 130
+Serie_Estancia_La_Emilia.psv ->> PENDIENTE...................: FALTA!
+Serie_Estancia_La_Emilia.psv ->> DRENAJE.....................: FALTA!
+Serie_Estancia_La_Emilia.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Estancia_La_Emilia.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Estancia_La_Emilia.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+Serie_Estancia_La_Emilia.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->NOMBRE(S)........: A     |  Btn    |  BC     |  Ck
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20  |  20-50  |  50-80  |  80a+
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,4   |  0,5    |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0,8   |  0,3    |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,1   |  0,05   |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->RELACIÓN C/N.....: 8     |  6      |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->ARCILLA 2 (%)....: 10,9  |  21,0   |  20,1   |  17,1
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->LIMO 2-50 (%)....: 36,8  |  32,7   |  32,4   |  35,0
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->AMF 50-100 (%)...: 33,4  |  42,1   |  42,1   |  43,1
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->AF 100-250 (%)...: 17,6  |  5,5    |  7,3    |  5,7
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->AM 250-500 (%)...: 0,1   |  0,1    |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,1   |         |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,2    |  0,0    |  2,1
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 14,2  |  19,4   |  19,4   |  18,3
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->PH PASTA.........: 4,9   |  7,9    |  8,8    |  9
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,8   |  8,7    |  9,5    |  9,8
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2,9   |  1,8    |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,5   |  5,4    |  8,3    |  8,9
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CI ME/100G-K +...: 1,6   |  1,8    |  3,1    |  2,7
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CI ME/100G-H +...: 1,9   |         |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->Na+ % DEL VALOR T: 4,4   |  29,3   |  49,4   |  56,0
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CONDUCT mmhos/cm.: 4,3   |         |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->SUM.B. ME/100G(S): 9,3   |  16,7   |         |
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->CIC ME/100G(T)...: 11,2  |  17,2   |  16,8   |  15,7
+Serie_Estancia_La_Emilia.psv ->> HORIZONTE->SAT.B % (S/T)....: 83    |         |         |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Estancia_Las_Mercedes.psv ->> ID..........................: 907
+Serie_Estancia_Las_Mercedes.psv ->> CLASIFICACION...............: Ustipsamment típico
+Serie_Estancia_Las_Mercedes.psv ->> SERIE.......................: ESTANCIA LAS MERCEDES (EstMrcd)
+Serie_Estancia_Las_Mercedes.psv ->> UBICACION...................: 19,4 Km al ONO de Villa Rossi, departamento Presidente Roque Sáenz Peña
+Serie_Estancia_Las_Mercedes.psv ->> PROVINCIA...................: CORDOBA
+Serie_Estancia_Las_Mercedes.psv ->> LATITUD.....................: S341400
+Serie_Estancia_Las_Mercedes.psv ->> LONGITUD....................: O632700
+Serie_Estancia_Las_Mercedes.psv ->> ALTITUD.....................: 136
+Serie_Estancia_Las_Mercedes.psv ->> PENDIENTE...................: FALTA!
+Serie_Estancia_Las_Mercedes.psv ->> DRENAJE.....................: FALTA!
+Serie_Estancia_Las_Mercedes.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Estancia_Las_Mercedes.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Estancia_Las_Mercedes.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Estancia_Las_Mercedes.psv ->> COLOR ......................: PARDO OSCURO
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->NOMBRE(S)........: Ap    |  AC     |  C
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17  |  17-42  |  42a+
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,37  |  0,68   |
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0,81  |  0,44   |
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,10  |  0,07   |
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,1   |  6,3    |
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->ARCILLA 2 (%)....: 7,5   |  7,7    |  7,3
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->LIMO 2-50 (%)....: 16,5  |  15,9   |  11,9
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->AMF 50-100 (%)...: 56,9  |  46,9   |  76,4
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->AF 100-250 (%)...: 19,6  |  29,1   |  4,8
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->AM 250-500 (%)...: 0,1   |  0,1    |  0,1
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,2   |  0,1    |  0,2
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 9,2   |  9,0    |  7,1
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->PH PASTA.........: 5,6   |  6,2    |  6,7
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,7   |  6,3    |  6,8
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7   |  1,0    |  0,7
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,1    |  0,3
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->CI ME/100G-K +...: 1,8   |  1,3    |  0,6
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->CI ME/100G-H +...: 1,9   |  1,1    |  0,5
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->SUM.B. ME/100G(S): 7,5   |  8,1    |  7,2
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->CIC ME/100G(T)...: 9,4   |  9,0    |  7,5
+Serie_Estancia_Las_Mercedes.psv ->> HORIZONTE->SAT.B % (S/T)....: 80    |  90     |  96
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_General_Deheza.psv ->> ID..........................: 908
+Serie_General_Deheza.psv ->> CLASIFICACION...............: Haplustol típico
+Serie_General_Deheza.psv ->> SERIE.......................: GENERAL DEHEZA (GrlDhz)
+Serie_General_Deheza.psv ->> UBICACION...................: 4 Km al SO de la localidad de Las Perdices, departamento Tercero Arriba
+Serie_General_Deheza.psv ->> PROVINCIA...................: CORDOBA
+Serie_General_Deheza.psv ->> LATITUD.....................: S324400
+Serie_General_Deheza.psv ->> LONGITUD....................: O634300
+Serie_General_Deheza.psv ->> ALTITUD.....................: 252
+Serie_General_Deheza.psv ->> PENDIENTE...................: FALTA!
+Serie_General_Deheza.psv ->> DRENAJE.....................: FALTA!
+Serie_General_Deheza.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_General_Deheza.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_General_Deheza.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_General_Deheza.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_General_Deheza.psv ->> HORIZONTE->NOMBRE(S)........: Ap    |  A2     |  Bw     |  BC     |  Ck
+Serie_General_Deheza.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-10  |  10-22  |  22-49  |  49-78  |  78a+
+Serie_General_Deheza.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,72  |  1,89   |  1      |  0,5    |
+Serie_General_Deheza.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,0   |  1,1    |  0,6    |  0,3    |
+Serie_General_Deheza.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,1   |  0,16   |  0,11   |         |
+Serie_General_Deheza.psv ->> HORIZONTE->RELACIÓN C/N.....: 1,0   |  6,9    |  5,4    |         |
+Serie_General_Deheza.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15,4  |  16,0   |  17,0   |  12,1   |  11,3
+Serie_General_Deheza.psv ->> HORIZONTE->LIMO 2-50 (%)....: 48,6  |  48,0   |  44,1   |  46,6   |  48,1
+Serie_General_Deheza.psv ->> HORIZONTE->AMF 50-100 (%)...: 32,4  |  32,9   |  36,3   |  38,2   |  39,0
+Serie_General_Deheza.psv ->> HORIZONTE->AF 100-250 (%)...: 2,3   |  1,3    |  0,9    |  1,6    |  0,2
+Serie_General_Deheza.psv ->> HORIZONTE->AM 250-500 (%)...: 0,4   |  0,6    |         |         |
+Serie_General_Deheza.psv ->> HORIZONTE->AG 500-1000 (%)..:       |         |         |         |
+Serie_General_Deheza.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |         |
+Serie_General_Deheza.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0    |  0,0    |  3,0
+Serie_General_Deheza.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17,8  |  17,6   |  17,6   |  14,2   |  14,1
+Serie_General_Deheza.psv ->> HORIZONTE->PH PASTA.........: 5,5   |  5,6    |  6,7    |  7,3    |  8,3
+Serie_General_Deheza.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,8   |  5,9    |  6,9    |  7,5    |  8,6
+Serie_General_Deheza.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7   |  0,5    |  1,0    |  1,0    |
+Serie_General_Deheza.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,2    |  0,2    |  0,3    |  3,5
+Serie_General_Deheza.psv ->> HORIZONTE->CI ME/100G-K +...: 2,5   |  1,8    |  1,9    |  1,0    |  1,2
+Serie_General_Deheza.psv ->> HORIZONTE->CI ME/100G-H +...: 2,3   |  2,2    |  0,8    |  0,3    |
+Serie_General_Deheza.psv ->> HORIZONTE->CONDUCT mmhos/cm.: 36    |         |         |         |
+Serie_General_Deheza.psv ->> HORIZONTE->SUM.B. ME/100G(S): 9,5   |  10,2   |  11,2   |  10,5   |
+Serie_General_Deheza.psv ->> HORIZONTE->CIC ME/100G(T)...: 11,9  |  12,5   |  12,0   |  10,9   |  9,7
+Serie_General_Deheza.psv ->> HORIZONTE->SAT.B % (S/T)....: 80    |  82     |  92     |  96     |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Laboulaye.psv ->> ID..........................: 909
+Serie_Laboulaye.psv ->> CLASIFICACION...............: Haplustol udorthéntico, franca gruesa, mixta, térmica
+Serie_Laboulaye.psv ->> SERIE.......................: LABOULAYE (Lbly)
+Serie_Laboulaye.psv ->> UBICACION...................: 18,2 Km al NO de Villa Rossi, departamento Presidente Roque Sáenz Peña
+Serie_Laboulaye.psv ->> PROVINCIA...................: CORDOBA
+Serie_Laboulaye.psv ->> LATITUD.....................: S341300
+Serie_Laboulaye.psv ->> LONGITUD....................: O632500
+Serie_Laboulaye.psv ->> ALTITUD.....................: 138
+Serie_Laboulaye.psv ->> PENDIENTE...................: FALTA!
+Serie_Laboulaye.psv ->> DRENAJE.....................: FALTA!
+Serie_Laboulaye.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Laboulaye.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Laboulaye.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Laboulaye.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Laboulaye.psv ->> HORIZONTE->NOMBRE(S)........: Ap    |  A2     |  AC     |  C
+Serie_Laboulaye.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-15  |  15-25  |  25-55  |  55a+
+Serie_Laboulaye.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,81  |  2,01   |  0,83   |
+Serie_Laboulaye.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,05  |  1,17   |  0,48   |
+Serie_Laboulaye.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,09  |  0,13   |  0,08   |
+Serie_Laboulaye.psv ->> HORIZONTE->RELACIÓN C/N.....: 11,6  |  9      |  6      |
+Serie_Laboulaye.psv ->> HORIZONTE->ARCILLA 2 (%)....: 13,9  |  13,1   |  13,1   |  11,2
+Serie_Laboulaye.psv ->> HORIZONTE->LIMO 2-50 (%)....: 28,8  |  28,2   |  25,2   |  23,0
+Serie_Laboulaye.psv ->> HORIZONTE->AMF 50-100 (%)...: 42,4  |  40,5   |  46,0   |  49,3
+Serie_Laboulaye.psv ->> HORIZONTE->AF 100-250 (%)...: 14,8  |  16,3   |  15,3   |  15,3
+Serie_Laboulaye.psv ->> HORIZONTE->AM 250-500 (%)...: 0,4   |  0,4    |  0,4    |  0,4
+Serie_Laboulaye.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,7   |  0,8    |  0,3    |  0,8
+Serie_Laboulaye.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |
+Serie_Laboulaye.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0    |  0,0
+Serie_Laboulaye.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 14,8  |  13,6   |  13,6   |  11,0
+Serie_Laboulaye.psv ->> HORIZONTE->PH PASTA.........: 5,8   |  5,9    |  6,2    |  6,8
+Serie_Laboulaye.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,0   |  6,0    |  6,4    |  6,9
+Serie_Laboulaye.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,8   |  1,2    |  0,7    |  2,1
+Serie_Laboulaye.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,1    |  0,2    |  0,1
+Serie_Laboulaye.psv ->> HORIZONTE->CI ME/100G-K +...: 1,6   |  1,6    |  1,2    |  1,0
+Serie_Laboulaye.psv ->> HORIZONTE->CI ME/100G-H +...: 2,3   |  2,2    |  1,2    |  0,7
+Serie_Laboulaye.psv ->> HORIZONTE->Na+ % DEL VALOR T:       |         |         |
+Serie_Laboulaye.psv ->> HORIZONTE->SUM.B. ME/100G(S): 10,2  |  10,0   |  9,8    |  9,3
+Serie_Laboulaye.psv ->> HORIZONTE->CIC ME/100G(T)...: 12,6  |  12,2   |  11,2   |  10,1
+Serie_Laboulaye.psv ->> HORIZONTE->SAT.B % (S/T)....: 81    |  82     |  87     |  92
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_La_Carlota.psv ->> ID..........................: 910
+Serie_La_Carlota.psv ->> CLASIFICACION...............: Haplustol éntico
+Serie_La_Carlota.psv ->> SERIE.......................: LA CARLOTA (Crlt)
+Serie_La_Carlota.psv ->> UBICACION...................: 30 Km al SO de la ciudad de La Carlota, departamento Juárez Celman
+Serie_La_Carlota.psv ->> PROVINCIA...................: CORDOBA
+Serie_La_Carlota.psv ->> LATITUD.....................: S341600
+Serie_La_Carlota.psv ->> LONGITUD....................: O630500
+Serie_La_Carlota.psv ->> ALTITUD.....................: 125
+Serie_La_Carlota.psv ->> PENDIENTE...................: FALTA!
+Serie_La_Carlota.psv ->> DRENAJE.....................: FALTA!
+Serie_La_Carlota.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_La_Carlota.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_La_Carlota.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_La_Carlota.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_La_Carlota.psv ->> HORIZONTE->NOMBRE(S)........: A     |  AC     |  C       |  Ck
+Serie_La_Carlota.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-27  |  27-60  |  60-100  |  100a+
+Serie_La_Carlota.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.2   |         |          |
+Serie_La_Carlota.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.30  |         |          |
+Serie_La_Carlota.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.14  |         |          |
+Serie_La_Carlota.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.3   |         |          |
+Serie_La_Carlota.psv ->> HORIZONTE->ARCILLA 2 (%)....: 7.8   |  3.9    |  3.1     |  10.1
+Serie_La_Carlota.psv ->> HORIZONTE->LIMO 2-50 (%)....: 34.8  |  42.9   |  35.1    |  30.5
+Serie_La_Carlota.psv ->> HORIZONTE->AMF 50-100 (%)...: 28.0  |  32.8   |  49.2    |  47.5
+Serie_La_Carlota.psv ->> HORIZONTE->AF 100-250 (%)...: 25.1  |  19.0   |  6.8     |  10.1
+Serie_La_Carlota.psv ->> HORIZONTE->AM 250-500 (%)...: 1.3   |  0.6    |  3.0     |
+Serie_La_Carlota.psv ->> HORIZONTE->AG 500-1000 (%)..:       |         |          |
+Serie_La_Carlota.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |          |
+Serie_La_Carlota.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   |  0.0    |  0.0     |  3.6
+Serie_La_Carlota.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 16.7  |  12.8   |  11.7    |  12.2
+Serie_La_Carlota.psv ->> HORIZONTE->PH PASTA.........: 5.7   |  6.9    |  6.8     |  7.8
+Serie_La_Carlota.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3   |  7.0    |  7.0     |  8.8
+Serie_La_Carlota.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.8   |  1.5    |  1.5     |
+Serie_La_Carlota.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3   |  0.2    |  0.3     |  0.9
+Serie_La_Carlota.psv ->> HORIZONTE->CI ME/100G-K +...: 1.8   |  1.9    |  1.2     |  1.4
+Serie_La_Carlota.psv ->> HORIZONTE->CI ME/100G-H +...: 1.6   |  0.7    |  0.3     |
+Serie_La_Carlota.psv ->> HORIZONTE->Na+ % DEL VALOR T:       |         |          |  11.3
+Serie_La_Carlota.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11.5  |  10.7   |  10.3    |
+Serie_La_Carlota.psv ->> HORIZONTE->CIC ME/100G(T)...: 13.1  |  11.4   |  10.6    |  8.0
+Serie_La_Carlota.psv ->> HORIZONTE->SAT.B % (S/T)....: 87.8  |  93.9   |  97.2    |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Las_Marinas.psv ->> ID..........................: 911
+Serie_Las_Marinas.psv ->> CLASIFICACION...............: Argialbol típico
+Serie_Las_Marinas.psv ->> SERIE.......................: LAS MARINAS (Mrns)
+Serie_Las_Marinas.psv ->> UBICACION...................: 21,5 Km al ESE de Melo, departamento Presidente Roque Sáenz Peña
+Serie_Las_Marinas.psv ->> PROVINCIA...................: CORDOBA
+Serie_Las_Marinas.psv ->> LATITUD.....................: S341600
+Serie_Las_Marinas.psv ->> LONGITUD....................: O630500
+Serie_Las_Marinas.psv ->> ALTITUD.....................: 125
+Serie_Las_Marinas.psv ->> PENDIENTE...................: FALTA!
+Serie_Las_Marinas.psv ->> DRENAJE.....................: FALTA!
+Serie_Las_Marinas.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Las_Marinas.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Las_Marinas.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+Serie_Las_Marinas.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Las_Marinas.psv ->> HORIZONTE->NOMBRE(S)........: Ap    |  A2     |  E      |  Bt     |  Bt2    |  BC
+Serie_Las_Marinas.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14  |  14-26  |  26-34  |  34-52  |  52-71  |  71a+
+Serie_Las_Marinas.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,10  |  1,70   |  0,69   |  0,46   |  0,24   |  0,20
+Serie_Las_Marinas.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,22  |  0,99   |  0,40   |  0,27   |  0,14   |  0,12
+Serie_Las_Marinas.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,14  |  0,12   |  0,05   |  0,05   |  0,04   |
+Serie_Las_Marinas.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,7   |  8,2    |  8,0    |  5,4    |  3,5    |
+Serie_Las_Marinas.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14,4  |  13,8   |  10,0   |  19,2   |  18,7   |  14,8
+Serie_Las_Marinas.psv ->> HORIZONTE->LIMO 2-50 (%)....: 36,9  |  38,1   |  37,0   |  32,2   |  29,6   |  31,4
+Serie_Las_Marinas.psv ->> HORIZONTE->AMF 50-100 (%)...: 26,7  |  26,7   |  31,6   |  37,9   |  32,0   |  39,8
+Serie_Las_Marinas.psv ->> HORIZONTE->AF 100-250 (%)...: 18,3  |  18,7   |  19,9   |  9,3    |  18,3   |  12,4
+Serie_Las_Marinas.psv ->> HORIZONTE->AM 250-500 (%)...: 0,7   |  0,7    |  0,7    |  0,6    |  0,8    |  0,7
+Serie_Las_Marinas.psv ->> HORIZONTE->AG 500-1000 (%)..: 1,5   |  1,3    |  1,4    |  0,1    |  0,3    |  0,8
+Serie_Las_Marinas.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |         |         |
+Serie_Las_Marinas.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,2    |  0,4    |  0,0    |  0,0
+Serie_Las_Marinas.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17,6  |  17,1   |  13,9   |  19,8   |  18,3   |  17,1
+Serie_Las_Marinas.psv ->> HORIZONTE->PH PASTA.........: 5,4   |  5,8    |  6,0    |  6,4    |  7,0    |  7,2
+Serie_Las_Marinas.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,7   |  6,0    |  6,4    |  6,8    |  7,2    |  7,4
+Serie_Las_Marinas.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2,4   |  1,4    |  0,9    |  2,3    |  2,2    |  1,9
+Serie_Las_Marinas.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,3   |  0,3    |  0,3    |  0,4    |  0,4    |  0,6
+Serie_Las_Marinas.psv ->> HORIZONTE->CI ME/100G-K +...: 2,0   |  1,5    |  1,1    |  1,8    |  1,8    |  1,9
+Serie_Las_Marinas.psv ->> HORIZONTE->CI ME/100G-H +...: 2,8   |  2,0    |  1,1    |  0,7    |  0,5    |  0,2
+Serie_Las_Marinas.psv ->> HORIZONTE->Na+ % DEL VALOR T:       |         |         |         |         |
+Serie_Las_Marinas.psv ->> HORIZONTE->SUM.B. ME/100G(S): 10,4  |  8,5    |  6,8    |  13,3   |  13,1   |  12,9
+Serie_Las_Marinas.psv ->> HORIZONTE->CIC ME/100G(T)...: 13,2  |  10,7   |  8,0    |  14,2   |  13,8   |  13,1
+Serie_Las_Marinas.psv ->> HORIZONTE->SAT.B % (S/T)....: 79    |  79     |  85     |  94     |  95     |  98
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Leguizamon.psv ->> ID..........................: 912
+Serie_Leguizamon.psv ->> CLASIFICACION...............: Haplustol údico
+Serie_Leguizamon.psv ->> SERIE.......................: LEGUIZAMÓN (Lgzmn)
+Serie_Leguizamon.psv ->> UBICACION...................: 9 km al OSO de la Estancia Las Tunas, departamento Marcos Juárez
+Serie_Leguizamon.psv ->> PROVINCIA...................: CORDOBA
+Serie_Leguizamon.psv ->> LATITUD.....................: S334200
+Serie_Leguizamon.psv ->> LONGITUD....................: O624000
+Serie_Leguizamon.psv ->> ALTITUD.....................: 125
+Serie_Leguizamon.psv ->> PENDIENTE...................: FALTA!
+Serie_Leguizamon.psv ->> DRENAJE.....................: FALTA!
+Serie_Leguizamon.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Leguizamon.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Leguizamon.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Leguizamon.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Leguizamon.psv ->> HORIZONTE->NOMBRE(S)........: Ap     |  Bw     |  BC     |  C
+Serie_Leguizamon.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21   |  21-40  |  40-66  |  66a+
+Serie_Leguizamon.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.89   |  0.97   |  0.61   |  0.29
+Serie_Leguizamon.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.68   |  0.57   |  0.36   |  0.17
+Serie_Leguizamon.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.168  |  0.078  |  0.059  |  0.039
+Serie_Leguizamon.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.0   |  7.3    |  6.1    |  4.3
+Serie_Leguizamon.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14.8   |  15.6   |  12.4   |  9.6
+Serie_Leguizamon.psv ->> HORIZONTE->LIMO 2-50 (%)....: 34.0   |  29.8   |  29.9   |  28.3
+Serie_Leguizamon.psv ->> HORIZONTE->AMF 50-100 (%)...: 49.8   |  54.0   |  56.4   |  57.8
+Serie_Leguizamon.psv ->> HORIZONTE->AF 100-250 (%)...: 0.5    |  0.5    |  0.3    |  2.1
+Serie_Leguizamon.psv ->> HORIZONTE->AM 250-500 (%)...: 0.2    |         |         |
+Serie_Leguizamon.psv ->> HORIZONTE->AG 500-1000 (%)..:        |         |         |
+Serie_Leguizamon.psv ->> HORIZONTE->AMG 1-2 mm (%)...:        |         |         |
+Serie_Leguizamon.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0    |  0.0    |  0.0    |  0.0
+Serie_Leguizamon.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 19.0   |  17.1   |  14.9   |  13.2
+Serie_Leguizamon.psv ->> HORIZONTE->PH PASTA.........: 5.0    |  6.3    |  6.5    |  6.8
+Serie_Leguizamon.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.6    |  6.8    |  7.1    |  7.8
+Serie_Leguizamon.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.9    |  1.6    |  2.6    |  2.7
+Serie_Leguizamon.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3    |  0.3    |  0.3    |  0.3
+Serie_Leguizamon.psv ->> HORIZONTE->CI ME/100G-K +...: 2.8    |  2.1    |  1.7    |  1.9
+Serie_Leguizamon.psv ->> HORIZONTE->CI ME/100G-H +...: 2.7    |  1.9    |  0.6    |
+Serie_Leguizamon.psv ->> HORIZONTE->Na+ % DEL VALOR T:        |         |         |
+Serie_Leguizamon.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12.2   |  11.2   |  11.6   |  12.0
+Serie_Leguizamon.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.8   |  13.0   |  12.1   |  11.8
+Serie_Leguizamon.psv ->> HORIZONTE->SAT.B % (S/T)....: 82     |  86     |  96     |  100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Los_Medanitos.psv ->> ID..........................: 913
+Serie_Los_Medanitos.psv ->> CLASIFICACION...............: Natralbol típico
+Serie_Los_Medanitos.psv ->> SERIE.......................: LOS MEDANITOS (Mdnts)
+Serie_Los_Medanitos.psv ->> UBICACION...................: 11,7 km al ONO de la localidad de Alejo Ledesma, departamento Marcos Juárez
+Serie_Los_Medanitos.psv ->> PROVINCIA...................: CORDOBA
+Serie_Los_Medanitos.psv ->> LATITUD.....................: S333300
+Serie_Los_Medanitos.psv ->> LONGITUD....................: O623900
+Serie_Los_Medanitos.psv ->> ALTITUD.....................: 118
+Serie_Los_Medanitos.psv ->> PENDIENTE...................: FALTA!
+Serie_Los_Medanitos.psv ->> DRENAJE.....................: FALTA!
+Serie_Los_Medanitos.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Los_Medanitos.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Los_Medanitos.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Los_Medanitos.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Los_Medanitos.psv ->> HORIZONTE->NOMBRE(S)........: A      |  E      |  Btn    |  BC     |  Ck
+Serie_Los_Medanitos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-19   |  19-38  |  38-61  |  61-87  |  87a+
+Serie_Los_Medanitos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.96   |  0.53   |         |         |
+Serie_Los_Medanitos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.14   |  0.31   |  0.31   |  0.14   |  0.12
+Serie_Los_Medanitos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.111  |  0.038  |  0.038  |  0.024  |  0.019
+Serie_Los_Medanitos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.3   |  8.1    |  8.1    |  5.8    |  6.3
+Serie_Los_Medanitos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 7.2    |  3.4    |  14.6   |  7.4    |  6.6
+Serie_Los_Medanitos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 37.6   |  33.3   |  32.8   |  31.5   |  30.9
+Serie_Los_Medanitos.psv ->> HORIZONTE->AMF 50-100 (%)...: 52.6   |  60.5   |  47.0   |  54.2   |  54.0
+Serie_Los_Medanitos.psv ->> HORIZONTE->AF 100-250 (%)...: 1.2    |  1.0    |  4.0    |  5.6    |  7.9
+Serie_Los_Medanitos.psv ->> HORIZONTE->AM 250-500 (%)...:        |         |         |         |
+Serie_Los_Medanitos.psv ->> HORIZONTE->AG 500-1000 (%)..:        |         |         |         |
+Serie_Los_Medanitos.psv ->> HORIZONTE->AMG 1-2 mm (%)...:        |         |         |         |
+Serie_Los_Medanitos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0    |  0.0    |  0.0    |  0.325  |  3.14
+Serie_Los_Medanitos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 14.6   |  9.8    |  20.2   |  14.3   |  12.5
+Serie_Los_Medanitos.psv ->> HORIZONTE->PH PASTA.........: 5.1    |  6.5    |  7.6    |  8.2    |  8.9
+Serie_Los_Medanitos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.6    |  6.7    |  8.4    |  8.7    |  9.2
+Serie_Los_Medanitos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.9    |  2.4    |  2.5    |         |
+Serie_Los_Medanitos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3    |  0.7    |  6.4    |  9.0    |  9.0
+Serie_Los_Medanitos.psv ->> HORIZONTE->CI ME/100G-K +...: 1.5    |  1.0    |  2.3    |  2.2    |  1.9
+Serie_Los_Medanitos.psv ->> HORIZONTE->CI ME/100G-H +...: 3.2    |  1.3    |         |         |
+Serie_Los_Medanitos.psv ->> HORIZONTE->Na+ % DEL VALOR T:        |  7.4    |  23     |  50     |
+Serie_Los_Medanitos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 10.8   |  9.4    |  20.6   |         |
+Serie_Los_Medanitos.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.2   |  10.4   |  20.2   |  18.4   |  11.5
+Serie_Los_Medanitos.psv ->> HORIZONTE->SAT.B % (S/T)....: 76     |  90     |  100    |         |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Los_Olmos.psv ->> ID..........................: 914
+Serie_Los_Olmos.psv ->> CLASIFICACION...............: Natracuol típico
+Serie_Los_Olmos.psv ->> SERIE.......................: LOS OLMOS (Olms)
+Serie_Los_Olmos.psv ->> UBICACION...................: 9,5 Km al SE de la localidad de La Carlota, departamento Juárez Celman
+Serie_Los_Olmos.psv ->> PROVINCIA...................: CORDOBA
+Serie_Los_Olmos.psv ->> LATITUD.....................: S332700
+Serie_Los_Olmos.psv ->> LONGITUD....................: O631500
+Serie_Los_Olmos.psv ->> ALTITUD.....................: 135
+Serie_Los_Olmos.psv ->> PENDIENTE...................: FALTA!
+Serie_Los_Olmos.psv ->> DRENAJE.....................: FALTA!
+Serie_Los_Olmos.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Los_Olmos.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Los_Olmos.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Los_Olmos.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Los_Olmos.psv ->> HORIZONTE->NOMBRE(S)........: A     |  Btk    |  BCk    |  Ck
+Serie_Los_Olmos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-19  |  19-38  |  38-58  |  58a+
+Serie_Los_Olmos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,9   |  0,9    |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,10  |  0,50   |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,13  |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,5   |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 10,0  |  26,2   |  12,9   |  6,3
+Serie_Los_Olmos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 36,5  |  20,1   |  17,7   |  22,5
+Serie_Los_Olmos.psv ->> HORIZONTE->AMF 50-100 (%)...: 41,2  |  40,4   |  55,7   |  61,9
+Serie_Los_Olmos.psv ->> HORIZONTE->AF 100-250 (%)...: 6,1   |  7,9    |  8,1    |  5,6
+Serie_Los_Olmos.psv ->> HORIZONTE->AM 250-500 (%)...:       |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->AG 500-1000 (%)..:       |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  5,5    |  0,7    |  0,5
+Serie_Los_Olmos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 18,7  |  27,0   |  16,5   |  14,8
+Serie_Los_Olmos.psv ->> HORIZONTE->PH PASTA.........: 7,0   |  8,1    |  8,4    |  9,1
+Serie_Los_Olmos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,3   |  8,8    |  9,1    |  9,6
+Serie_Los_Olmos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,4   |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,6   |  3,1    |  5,4    |  1,5
+Serie_Los_Olmos.psv ->> HORIZONTE->CI ME/100G-K +...: 1,4   |  2,1    |  2,6    |  2,5
+Serie_Los_Olmos.psv ->> HORIZONTE->CI ME/100G-H +...:       |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 5,4   |  21,4   |  54,0   |  17,0
+Serie_Los_Olmos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11,2  |         |         |
+Serie_Los_Olmos.psv ->> HORIZONTE->CIC ME/100G(T)...: 11,2  |  14,5   |  10,0   |  8,8
+Serie_Los_Olmos.psv ->> HORIZONTE->SAT.B % (S/T)....: 100   |         |         |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Manantiales.psv ->> ID..........................: 915
+Serie_Manantiales.psv ->> CLASIFICACION...............: Natrustalf típico
+Serie_Manantiales.psv ->> SERIE.......................: MANANTIALES (Mnntls)
+Serie_Manantiales.psv ->> UBICACION...................: 29,5 km al Sur de la ciudad de La Carlota, departamento Juárez Celman
+Serie_Manantiales.psv ->> PROVINCIA...................: CORDOBA
+Serie_Manantiales.psv ->> LATITUD.....................: S333900
+Serie_Manantiales.psv ->> LONGITUD....................: O632200
+Serie_Manantiales.psv ->> ALTITUD.....................: 134
+Serie_Manantiales.psv ->> PENDIENTE...................: FALTA!
+Serie_Manantiales.psv ->> DRENAJE.....................: FALTA!
+Serie_Manantiales.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Manantiales.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Manantiales.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Manantiales.psv ->> COLOR ......................: PARDO OSCURO A PARDO AMARILLENTO OSCURO
+Serie_Manantiales.psv ->> HORIZONTE->NOMBRE(S)........: Ep     |  E2     |  Btn    |  BC     |  C       |  Ck
+Serie_Manantiales.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18   |  18-35  |  35-52  |  52-77  |  77-105  |  105a+
+Serie_Manantiales.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,9    |  1,2    |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,10   |  0,70   |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,01   |         |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->RELACIÓN C/N.....: 110,0  |         |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->ARCILLA 2 (%)....: 2,6    |  2,8    |  13,1   |  7,3    |  2,4     |  2,4
+Serie_Manantiales.psv ->> HORIZONTE->LIMO 2-50 (%)....: 25,9   |  21,3   |  29,4   |  23,1   |  24,6    |  23,3
+Serie_Manantiales.psv ->> HORIZONTE->AMF 50-100 (%)...: 63,6   |  69,1   |  46,5   |  54,0   |  62,6    |  61,7
+Serie_Manantiales.psv ->> HORIZONTE->AF 100-250 (%)...: 7,3    |  6,6    |  12,0   |  14,7   |  9,8     |  11,5
+Serie_Manantiales.psv ->> HORIZONTE->AM 250-500 (%)...:        |         |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->AG 500-1000 (%)..:        |         |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->AMG 1-2 mm (%)...:        |         |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->CALCAREO CaCO3(%):        |         |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 0,0    |  0,0    |  0,2    |  0,4    |  0,3     |  1,1
+Serie_Manantiales.psv ->> HORIZONTE->PH PASTA.........: 11,4   |  8,3    |  19,2   |  16,1   |  12,9    |  10,4
+Serie_Manantiales.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,9    |  8,3    |  9,0    |  9,2    |  9,4     |  9,5
+Serie_Manantiales.psv ->> HORIZONTE->PROFUNDIDADES(CM): 7,1    |  7,7    |  9,5    |  9,6    |  9,7     |  9,9
+Serie_Manantiales.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,5    |  0,3    |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,7    |  1,6    |  7,6    |  7,6    |  6,6     |  5,9
+Serie_Manantiales.psv ->> HORIZONTE->CI ME/100G-K +...: 2,0    |  1,5    |  1,9    |  1,8    |  1,5     |  1,4
+Serie_Manantiales.psv ->> HORIZONTE->CI ME/100G-H +...: 0,3    |         |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->Na+ % DEL VALOR T: 7,8    |  20,0   |  59,4   |  76,0   |  80,5    |  86,8
+Serie_Manantiales.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8,7    |  8,0    |         |         |          |
+Serie_Manantiales.psv ->> HORIZONTE->CIC ME/100G(T)...: 9,0    |  8,0    |  12,8   |  10,0   |  8,2     |  6,8
+Serie_Manantiales.psv ->> HORIZONTE->SAT.B % (S/T)....: 96,7   |  100    |         |         |          |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Monte_de_los_Gauchos.psv ->> ID..........................: 916
+Serie_Monte_de_los_Gauchos.psv ->> CLASIFICACION...............: Haplustol éntico
+Serie_Monte_de_los_Gauchos.psv ->> SERIE.......................: MONTE DE LOS GAUCHOS (MteGchs)
+Serie_Monte_de_los_Gauchos.psv ->> UBICACION...................: 4 km al SO de Monte de los Gauchos, departamento Río Cuarto
+Serie_Monte_de_los_Gauchos.psv ->> PROVINCIA...................: CORDOBA
+Serie_Monte_de_los_Gauchos.psv ->> LATITUD.....................: S333900
+Serie_Monte_de_los_Gauchos.psv ->> LONGITUD....................: O635000
+Serie_Monte_de_los_Gauchos.psv ->> ALTITUD.....................: 225
+Serie_Monte_de_los_Gauchos.psv ->> PENDIENTE...................: FALTA!
+Serie_Monte_de_los_Gauchos.psv ->> DRENAJE.....................: FALTA!
+Serie_Monte_de_los_Gauchos.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Monte_de_los_Gauchos.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Monte_de_los_Gauchos.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Monte_de_los_Gauchos.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->NOMBRE(S)........: A     |  AC     |  C
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-25  |  25-53  |  53a+
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.6   |         |
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.9   |         |
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.06  |         |
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->RELACIÓN C/N.....: 15.0  |         |
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 16.2  |  15.6   |  8.6
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 37.3  |  34.5   |  35.8
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->AMF 50-100 (%)...: 42.9  |  46.8   |  49.6
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->AF 100-250 (%)...: 3.3   |  1.6    |  3.6
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1   |  0.2    |  0.2
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->AG 500-1000 (%)..:       |         |
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   |  0.0    |  0.0
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 16.2  |  15.0   |  11.2
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->PH PASTA.........: 5.3   |  6.1    |  6.7
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.6   |  6.1    |  7.0
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.8   |  0.7    |  0.7
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.5   |  0.3    |  0.4
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.1   |  1.6    |  1.1
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->CI ME/100G-H +...: 1.3   |  1.0    |  0.4
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.0   |  1.0    |  1.1
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11.5  |  11.6   |  10.9
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->CIC ME/100G(T)...: 12.8  |  12.6   |  11.3
+Serie_Monte_de_los_Gauchos.psv ->> HORIZONTE->SAT.B % (S/T)....: 90.0  |  92.0   |  96.0
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Olaeta.psv ->> ID..........................: 917
+Serie_Olaeta.psv ->> CLASIFICACION...............: Haplustol éntico
+Serie_Olaeta.psv ->> SERIE.......................: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Olaeta.psv ->> UBICACION...................: 6 Km al NNO de la localidad de Olaeta, departamento Juárez Celman
+Serie_Olaeta.psv ->> PROVINCIA...................: CORDOBA
+Serie_Olaeta.psv ->> LATITUD.....................: S300100
+Serie_Olaeta.psv ->> LONGITUD....................: O355600
+Serie_Olaeta.psv ->> ALTITUD.....................: 311
+Serie_Olaeta.psv ->> PENDIENTE...................: FALTA!
+Serie_Olaeta.psv ->> DRENAJE.....................: FALTA!
+Serie_Olaeta.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Olaeta.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Olaeta.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Olaeta.psv ->> COLOR ......................: COLOR PARDO GRISÁCEO MUY OSCURO A PARDO OSCURO
+Serie_Olaeta.psv ->> HORIZONTE->NOMBRE(S)........: A     |  AC     |  C
+Serie_Olaeta.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-26  |  26-53  |  53a+
+Serie_Olaeta.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.6   |  0.7    |
+Serie_Olaeta.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.90  |  0.40   |
+Serie_Olaeta.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.08  |         |
+Serie_Olaeta.psv ->> HORIZONTE->RELACIÓN C/N.....: 11.3  |         |
+Serie_Olaeta.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9.4   |  9.0    |  6.4
+Serie_Olaeta.psv ->> HORIZONTE->LIMO 2-50 (%)....: 22.2  |  20.6   |  20.3
+Serie_Olaeta.psv ->> HORIZONTE->AMF 50-100 (%)...: 65.0  |  65.0   |  68.5
+Serie_Olaeta.psv ->> HORIZONTE->AF 100-250 (%)...: 3.0   |  4.5    |  4.0
+Serie_Olaeta.psv ->> HORIZONTE->AM 250-500 (%)...: 0.5   |  0.5    |  0.5
+Serie_Olaeta.psv ->> HORIZONTE->AG 500-1000 (%)..:       |         |  0.5
+Serie_Olaeta.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |
+Serie_Olaeta.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   |  0.0    |  0.0
+Serie_Olaeta.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 12.2  |  11.1   |  9.4
+Serie_Olaeta.psv ->> HORIZONTE->PH PASTA.........: 6.0   |  6.7    |  7.3
+Serie_Olaeta.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.4   |  6.9    |  7.6
+Serie_Olaeta.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.8   |  1.5    |  1.6
+Serie_Olaeta.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2   |  0.1    |  0.1
+Serie_Olaeta.psv ->> HORIZONTE->CI ME/100G-K +...: 1.7   |  1.2    |  0.7
+Serie_Olaeta.psv ->> HORIZONTE->CI ME/100G-H +...: 0.9   |  0.3    |
+Serie_Olaeta.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.0   |  1.0    |  1.1
+Serie_Olaeta.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8.8   |  9.3    |  9.4
+Serie_Olaeta.psv ->> HORIZONTE->CIC ME/100G(T)...: 9.8   |  9.6    |  9.4
+Serie_Olaeta.psv ->> HORIZONTE->SAT.B % (S/T)....: 89.8  |  96.9   |  100.0
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Rosales.psv ->> ID..........................: 918
+Serie_Rosales.psv ->> CLASIFICACION...............: Natralbol típico
+Serie_Rosales.psv ->> SERIE.......................: ROSALES (Rosls)
+Serie_Rosales.psv ->> UBICACION...................: 7,75 Km al OSO de Estancia La Oriental, departamento Presidente Roque Sáenz Peña
+Serie_Rosales.psv ->> PROVINCIA...................: CORDOBA
+Serie_Rosales.psv ->> LATITUD.....................: S341500
+Serie_Rosales.psv ->> LONGITUD....................: O630600
+Serie_Rosales.psv ->> ALTITUD.....................: 127
+Serie_Rosales.psv ->> PENDIENTE...................: FALTA!
+Serie_Rosales.psv ->> DRENAJE.....................: FALTA!
+Serie_Rosales.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Rosales.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Rosales.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Rosales.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_Rosales.psv ->> HORIZONTE->NOMBRE(S)........: A     |  E      |  Btn    |  BC     |  C
+Serie_Rosales.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23  |  23-34  |  34-52  |  52-75  |  75a+
+Serie_Rosales.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,41  |  0,69   |  0,52   |  0,19   |
+Serie_Rosales.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,40  |  0,40   |  0,30   |  0,11   |
+Serie_Rosales.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,17  |  0,06   |  0,05   |         |
+Serie_Rosales.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,2   |  6,6    |  6,0    |         |
+Serie_Rosales.psv ->> HORIZONTE->ARCILLA 2 (%)....: 11,7  |  6,2    |  18,9   |  11,5   |  9,2
+Serie_Rosales.psv ->> HORIZONTE->LIMO 2-50 (%)....: 30,7  |  28,5   |  23,6   |  22,6   |  22,7
+Serie_Rosales.psv ->> HORIZONTE->AMF 50-100 (%)...: 39,3  |  50,7   |  38,6   |  51,5   |  51,6
+Serie_Rosales.psv ->> HORIZONTE->AF 100-250 (%)...: 16,3  |  13,6   |  17,4   |  12,9   |  14,9
+Serie_Rosales.psv ->> HORIZONTE->AM 250-500 (%)...: 0,05  |         |         |  0,05   |  0,05
+Serie_Rosales.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,05  |         |         |  0,05   |  0,05
+Serie_Rosales.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |         |
+Serie_Rosales.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  0,0    |  0,0    |  0,0    |  0,0
+Serie_Rosales.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 18,5  |  13,3   |  22,6   |  19,6   |  14,7
+Serie_Rosales.psv ->> HORIZONTE->PH PASTA.........: 5,7   |  7,1    |  7,2    |  7,4    |  7,4
+Serie_Rosales.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5,8   |  7,2    |  7,5    |  7,7    |  7,9
+Serie_Rosales.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,2   |  2,2    |  1,3    |  1,7    |  0,7
+Serie_Rosales.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2   |  0,7    |  2,4    |  2,3    |  3,8
+Serie_Rosales.psv ->> HORIZONTE->CI ME/100G-K +...: 0,9   |  1,5    |  0,7    |  1,5    |  1,5
+Serie_Rosales.psv ->> HORIZONTE->CI ME/100G-H +...: 3,1   |  0,8    |         |         |
+Serie_Rosales.psv ->> HORIZONTE->Na+ % DEL VALOR T:       |         |  20,0   |  22,0   |  41,0
+Serie_Rosales.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8,0   |  7,7    |  11,8   |  10,4   |  9,2
+Serie_Rosales.psv ->> HORIZONTE->CIC ME/100G(T)...: 11,3  |  8,6    |  11,8   |  10,0   |  9,2
+Serie_Rosales.psv ->> HORIZONTE->SAT.B % (S/T)....: 71    |  89     |  100    |  100    |  100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_San_Julian.psv ->> ID..........................: 919
+Serie_San_Julian.psv ->> CLASIFICACION...............: Natracuol típico
+Serie_San_Julian.psv ->> SERIE.......................: SAN JULIÁN (SJuln)
+Serie_San_Julian.psv ->> UBICACION...................: 5,6 Km al SE de la estancia San Julián, departamento Presidente Roque Sáenz Peña
+Serie_San_Julian.psv ->> PROVINCIA...................: CORDOBA
+Serie_San_Julian.psv ->> LATITUD.....................: S335500
+Serie_San_Julian.psv ->> LONGITUD....................: O623800
+Serie_San_Julian.psv ->> ALTITUD.....................: 120
+Serie_San_Julian.psv ->> PENDIENTE...................: FALTA!
+Serie_San_Julian.psv ->> DRENAJE.....................: FALTA!
+Serie_San_Julian.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_San_Julian.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_San_Julian.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_San_Julian.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO A PARDO OSCURO
+Serie_San_Julian.psv ->> HORIZONTE->NOMBRE(S)........: A      |  Btn    |  BC     |  C       |  Ckm
+Serie_San_Julian.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20   |  20-43  |  43-69  |  69-131  |  131a+
+Serie_San_Julian.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,86   |  0,51   |  0,21   |  0,12    |  0,09
+Serie_San_Julian.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,15   |  0,31   |  0,13   |  0,08    |  0,06
+Serie_San_Julian.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,134  |  0,058  |         |          |
+Serie_San_Julian.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,6    |  5,3    |         |          |
+Serie_San_Julian.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14,5   |  22,0   |  12,7   |  10,4    |  9,5
+Serie_San_Julian.psv ->> HORIZONTE->LIMO 2-50 (%)....: 31,7   |  26,4   |  26,7   |  26,9    |  25,3
+Serie_San_Julian.psv ->> HORIZONTE->AMF 50-100 (%)...: 38,9   |  36,8   |  40,8   |  43,9    |  39,8
+Serie_San_Julian.psv ->> HORIZONTE->AF 100-250 (%)...: 14,7   |  12,9   |  17,7   |  16,8    |  22,9
+Serie_San_Julian.psv ->> HORIZONTE->AM 250-500 (%)...: 0,1    |  0,1    |  0,1    |          |
+Serie_San_Julian.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,4    |  0,2    |  0,5    |          |
+Serie_San_Julian.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,2    |  0,1    |         |          |
+Serie_San_Julian.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0    |  0,37   |  1,67   |  0,29    |  0,49
+Serie_San_Julian.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 19,7   |  24,2   |  19,5   |  16,0    |  15,3
+Serie_San_Julian.psv ->> HORIZONTE->PH PASTA.........: 6,5    |  8,5    |  9,4    |  9,8     |  10,0
+Serie_San_Julian.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,7    |  9,1    |  9,8    |  10,0    |  10,2
+Serie_San_Julian.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2,7    |         |         |          |
+Serie_San_Julian.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4    |  4,8    |  8,7    |  9,5     |  11,0
+Serie_San_Julian.psv ->> HORIZONTE->CI ME/100G-K +...: 2,2    |  2,6    |  2,4    |  2,0     |  2,1
+Serie_San_Julian.psv ->> HORIZONTE->CI ME/100G-H +...: 0,7    |         |         |          |
+Serie_San_Julian.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3,0    |  22,0   |  54,0   |          |
+Serie_San_Julian.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12,6   |         |         |          |
+Serie_San_Julian.psv ->> HORIZONTE->CIC ME/100G(T)...: 13,5   |  21,4   |  15,8   |  14,1    |  13,6
+Serie_San_Julian.psv ->> HORIZONTE->SAT.B % (S/T)....: 93     |         |         |          |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Santa_Eufemia.psv ->> ID..........................: 920
+Serie_Santa_Eufemia.psv ->> CLASIFICACION...............: Natracuol típico
+Serie_Santa_Eufemia.psv ->> SERIE.......................: SANTA EUFEMIA (StaEufm)
+Serie_Santa_Eufemia.psv ->> UBICACION...................: 17 Km al SE de la localidad de Santa Eufemia, departamento Juárez Celman
+Serie_Santa_Eufemia.psv ->> PROVINCIA...................: CORDOBA
+Serie_Santa_Eufemia.psv ->> LATITUD.....................: S332600
+Serie_Santa_Eufemia.psv ->> LONGITUD....................: O631700
+Serie_Santa_Eufemia.psv ->> ALTITUD.....................: 167
+Serie_Santa_Eufemia.psv ->> PENDIENTE...................: FALTA!
+Serie_Santa_Eufemia.psv ->> DRENAJE.....................: FALTA!
+Serie_Santa_Eufemia.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Santa_Eufemia.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Santa_Eufemia.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_Santa_Eufemia.psv ->> COLOR ......................: PARDO OSCURO A PARDO GRISÁCEO MUY OSCURO
+Serie_Santa_Eufemia.psv ->> HORIZONTE->NOMBRE(S)........: Ak    |  Ek     |  Btk    |  BCk
+Serie_Santa_Eufemia.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17  |  17-42  |  42-70  |  70a+
+Serie_Santa_Eufemia.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,6   |  0,7    |  0,3    |  0,2
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,5   |  0,4    |  0,2    |  0,1
+Serie_Santa_Eufemia.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,12  |         |         |
+Serie_Santa_Eufemia.psv ->> HORIZONTE->RELACIÓN C/N.....: 12,5  |         |         |
+Serie_Santa_Eufemia.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9,9   |  5,7    |  11,4   |  10,9
+Serie_Santa_Eufemia.psv ->> HORIZONTE->LIMO 2-50 (%)....: 40,6  |  38,0   |  34,8   |  37,5
+Serie_Santa_Eufemia.psv ->> HORIZONTE->AMF 50-100 (%)...: 30,6  |  50,0   |  36,4   |  48,0
+Serie_Santa_Eufemia.psv ->> HORIZONTE->AF 100-250 (%)...: 11,9  |  4,0    |  17,4   |  3,0
+Serie_Santa_Eufemia.psv ->> HORIZONTE->AM 250-500 (%)...: 1,9   |         |         |
+Serie_Santa_Eufemia.psv ->> HORIZONTE->AG 500-1000 (%)..: 3,4   |         |  0,7    |
+Serie_Santa_Eufemia.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 1,8   |         |  0,5    |
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CALCAREO CaCO3(%): 2,3   |  2,8    |  1,1    |  0,9
+Serie_Santa_Eufemia.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 25,1  |  20,9   |  24,6   |  18,1
+Serie_Santa_Eufemia.psv ->> HORIZONTE->PH PASTA.........: 9,3   |  9,4    |  9,1    |  8,9
+Serie_Santa_Eufemia.psv ->> HORIZONTE->PH H2O 1:2,5.....: 9,6   |  9,9    |  9,6    |  9,4
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,8   |  1,0    |  0,5    |  0,9
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CI ME/100G-Na +..: 1,9   |  3,0    |  2,8    |  4,1
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CI ME/100G-K +...: 3,0   |  4,1    |  3,6    |  3,8
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CI ME/100G-H +...:       |         |         |
+Serie_Santa_Eufemia.psv ->> HORIZONTE->Na+ % DEL VALOR T: 13,0  |  17,1   |  15,6   |  23,2
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CONDUCT mmhos/cm.: 5,8   |  5,2    |  6,4    |  4,5
+Serie_Santa_Eufemia.psv ->> HORIZONTE->SUM.B. ME/100G(S): 14,6  |  17,8   |  18,0   |  17,8
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CIC ME/100G(T)...: 14,6  |  17,5   |  18,0   |  17,7
+Serie_Santa_Eufemia.psv ->> HORIZONTE->SAT.B % (S/T)....: 100   |  100    |  100    |  100
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,6   |  1,6    |  2,0    |  2,0
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CI ME/100G-Na +..: 43,0  |  35,0   |  52,0   |  39,0
+Serie_Santa_Eufemia.psv ->> HORIZONTE->CI ME/100G-K +...: 1,0   |  0,6    |  0,6    |  0,4
+Serie_Santa_Eufemia.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: 25,6  |  14,4   |  11,2   |  11,2
+Serie_Santa_Eufemia.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: 36,1  |  35,5   |  57,6   |  26,0
+Serie_Santa_Eufemia.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: 2,2   |  2,8    |  2,2    |  8,8
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Serie_Villa_Rossi.psv ->> ID..........................: 921
+Serie_Villa_Rossi.psv ->> CLASIFICACION...............: Natracualf típico
+Serie_Villa_Rossi.psv ->> SERIE.......................: VILLA ROSSI (VllaRss)
+Serie_Villa_Rossi.psv ->> UBICACION...................: 41,2 Km, al ESE de Melo, departamento Presidente Roque Sáenz Peña
+Serie_Villa_Rossi.psv ->> PROVINCIA...................: CORDOBA
+Serie_Villa_Rossi.psv ->> LATITUD.....................: S341800
+Serie_Villa_Rossi.psv ->> LONGITUD....................: O631600
+Serie_Villa_Rossi.psv ->> ALTITUD.....................: 133
+Serie_Villa_Rossi.psv ->> PENDIENTE...................: FALTA!
+Serie_Villa_Rossi.psv ->> DRENAJE.....................: FALTA!
+Serie_Villa_Rossi.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_Villa_Rossi.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_Villa_Rossi.psv ->> TIPO DE SUELO...............: FRANCA FINA, MIXTA, TÉRMICA
+Serie_Villa_Rossi.psv ->> COLOR ......................: PARDO A PARDO OSCURO
+Serie_Villa_Rossi.psv ->> HORIZONTE->NOMBRE(S)........: E     |  Btn    |  Btn2   |  BC      |  C
+Serie_Villa_Rossi.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-18  |  18-35  |  35-66  |  66-103  |  103a+
+Serie_Villa_Rossi.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,38  |  0,41   |  0,29   |  0,10    |
+Serie_Villa_Rossi.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0,80  |  0,24   |  0,17   |  0,12    |
+Serie_Villa_Rossi.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,09  |  0,06   |  0,04   |          |
+Serie_Villa_Rossi.psv ->> HORIZONTE->RELACIÓN C/N.....: 8,9   |  4,0    |  4,2    |          |
+Serie_Villa_Rossi.psv ->> HORIZONTE->ARCILLA 2 (%)....: 9,6   |  24,2   |  19,3   |  12,5    |  11,9
+Serie_Villa_Rossi.psv ->> HORIZONTE->LIMO 2-50 (%)....: 36,0  |  27,9   |  27,4   |  27,9    |  25,0
+Serie_Villa_Rossi.psv ->> HORIZONTE->AMF 50-100 (%)...: 32,2  |  35,0   |  30,9   |  41,7    |  41,4
+Serie_Villa_Rossi.psv ->> HORIZONTE->AF 100-250 (%)...: 21,4  |  14,2   |  22,1   |  17,4    |  19,1
+Serie_Villa_Rossi.psv ->> HORIZONTE->AM 250-500 (%)...: 0,4   |  0,3    |  0,3    |  0,3     |  0,4
+Serie_Villa_Rossi.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,4   |  0,2    |  0,2    |  0,3     |  0,5
+Serie_Villa_Rossi.psv ->> HORIZONTE->AMG 1-2 mm (%)...:       |         |         |          |
+Serie_Villa_Rossi.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0   |  1,0    |  0,6    |  0,0     |  0,3
+Serie_Villa_Rossi.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 14,7  |  25,8   |  20,7   |  16,6    |  16,3
+Serie_Villa_Rossi.psv ->> HORIZONTE->PH PASTA.........: 6,1   |  8,5    |  8,9    |  9,0     |  9,0
+Serie_Villa_Rossi.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,3   |  9,1    |  9,4    |  9,4     |  9,4
+Serie_Villa_Rossi.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2,4   |         |         |  0,8     |
+Serie_Villa_Rossi.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,7   |  8,5    |  10,1   |  8,5     |  9,4
+Serie_Villa_Rossi.psv ->> HORIZONTE->CI ME/100G-K +...: 1,0   |  2,3    |  2,3    |  1,7     |  2,0
+Serie_Villa_Rossi.psv ->> HORIZONTE->CI ME/100G-H +...: 1,8   |         |         |          |
+Serie_Villa_Rossi.psv ->> HORIZONTE->Na+ % DEL VALOR T:       |  55     |  66     |  58      |  72
+Serie_Villa_Rossi.psv ->> HORIZONTE->SUM.B. ME/100G(S): 8,0   |         |         |  14,7    |
+Serie_Villa_Rossi.psv ->> HORIZONTE->CIC ME/100G(T)...: 10,0  |  16,5   |  15,3   |  14,7    |  13,0
+Serie_Villa_Rossi.psv ->> HORIZONTE->SAT.B % (S/T)....: 80    |         |         |  100     |

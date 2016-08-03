@@ -1,0 +1,39 @@
+dss_ongamira_2.psv ->> ID..........................: 230
+dss_ongamira_2.psv ->> CLASIFICACION...............: Ustorthent paralítico
+dss_ongamira_2.psv ->> SERIE.......................: ONGAMIRA II (Ong2)
+dss_ongamira_2.psv ->> UBICACION...................: 8 km al Norte de Ongamira, departamento Ischilín
+dss_ongamira_2.psv ->> PROVINCIA...................: CORDOBA
+dss_ongamira_2.psv ->> LATITUD.....................: S304600
+dss_ongamira_2.psv ->> LONGITUD....................: O642600
+dss_ongamira_2.psv ->> ALTITUD.....................: 1155
+dss_ongamira_2.psv ->> PENDIENTE...................: FALTA!
+dss_ongamira_2.psv ->> DRENAJE.....................: FALTA!
+dss_ongamira_2.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ongamira_2.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ongamira_2.psv ->> TIPO DE SUELO...............: FRANCA GRUESA CALCÁREA FERRALÍTICA TÉRMICA
+dss_ongamira_2.psv ->> COLOR ......................: ROJO SOMBRÍO
+dss_ongamira_2.psv ->> HORIZONTE->NOMBRE(S)........: A | R
+dss_ongamira_2.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14 | 14a+
+dss_ongamira_2.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 4,8 |  
+dss_ongamira_2.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 2,8 |  
+dss_ongamira_2.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,27 |  
+dss_ongamira_2.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,4 |  
+dss_ongamira_2.psv ->> HORIZONTE->ARCILLA 2 (%)....: 12,7 | 18,6
+dss_ongamira_2.psv ->> HORIZONTE->LIMO 2-50 (%)....: 27,7 | 28,3
+dss_ongamira_2.psv ->> HORIZONTE->AMF 50-100 (%)...: 19,2 | 18,1
+dss_ongamira_2.psv ->> HORIZONTE->AF 100-250 (%)...: 22,3 | 29,3
+dss_ongamira_2.psv ->> HORIZONTE->AM 250-500 (%)...: 8,4 | 6,9
+dss_ongamira_2.psv ->> HORIZONTE->AG 500-1000 (%)..: 5,9 | 4,3
+dss_ongamira_2.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 3,8 | 3,8
+dss_ongamira_2.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,9 | 10,2
+dss_ongamira_2.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17,5 | 17,0
+dss_ongamira_2.psv ->> HORIZONTE->PH PASTA.........: - | 
+dss_ongamira_2.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,8 | 8,0
+dss_ongamira_2.psv ->> HORIZONTE->CI ME/100G-Ca ++.: - | 
+dss_ongamira_2.psv ->> HORIZONTE->CI ME/100G-Mg ++.: - | 
+dss_ongamira_2.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2 | 0,1
+dss_ongamira_2.psv ->> HORIZONTE->CI ME/100G-K +...: 0,8 | 0,2
+dss_ongamira_2.psv ->> HORIZONTE->CI ME/100G-H +...: - | 
+dss_ongamira_2.psv ->> HORIZONTE->SUM.B. ME/100G(S): - | 
+dss_ongamira_2.psv ->> HORIZONTE->CIC ME/100G(T)...: 20,0 | 20,4
+dss_ongamira_2.psv ->> HORIZONTE->SAT.B % (S/T)....: 100 | 100

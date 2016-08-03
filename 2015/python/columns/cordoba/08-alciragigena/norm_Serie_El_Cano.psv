@@ -1,0 +1,40 @@
+Serie_El_Cano.psv ->> ID..........................: 803
+Serie_El_Cano.psv ->> CLASIFICACION...............: Haplustol típico
+Serie_El_Cano.psv ->> SERIE.......................: EL CANO (ElCn)
+Serie_El_Cano.psv ->> UBICACION...................: 13 Km al Sur de Río de los Sauces, departamento Calamuchita
+Serie_El_Cano.psv ->> PROVINCIA...................: CORDOBA
+Serie_El_Cano.psv ->> LATITUD.....................: S324000
+Serie_El_Cano.psv ->> LONGITUD....................: O643400
+Serie_El_Cano.psv ->> ALTITUD.....................: 650
+Serie_El_Cano.psv ->> PENDIENTE...................: FALTA!
+Serie_El_Cano.psv ->> DRENAJE.....................: FALTA!
+Serie_El_Cano.psv ->> ESCURRIMIENTO...............: FALTA!
+Serie_El_Cano.psv ->> PERMEABILIDAD...............: FALTA!
+Serie_El_Cano.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+Serie_El_Cano.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+Serie_El_Cano.psv ->> HORIZONTE->NOMBRE(S)........: a | bw | bc | ck
+Serie_El_Cano.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-43 | 43-74 | 74a+
+Serie_El_Cano.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,6 | 1,4 | - | -
+Serie_El_Cano.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,50 | 0,80 | - | -
+Serie_El_Cano.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,19 | - | - | -
+Serie_El_Cano.psv ->> HORIZONTE->RELACIÓN C/N.....: 7,9 | - | - | -
+Serie_El_Cano.psv ->> HORIZONTE->ARCILLA 2 (%)....: 13,8 | 14,1 | 9,2 | 9,8
+Serie_El_Cano.psv ->> HORIZONTE->LIMO 2-50 (%)....: 51,8 | 52,8 | 56,4 | 51,7
+Serie_El_Cano.psv ->> HORIZONTE->AMF 50-100 (%)...: 31,3 | 28,3 | 29,3 | 34,1
+Serie_El_Cano.psv ->> HORIZONTE->AF 100-250 (%)...: 0,2 | 2,0 | 1,4 | 1,6
+Serie_El_Cano.psv ->> HORIZONTE->AM 250-500 (%)...: 0,3 | 0,1 | 0,2 | 0,2
+Serie_El_Cano.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,4 | 0,3 | 0,3 | 0,2
+Serie_El_Cano.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,3 | 0,2 | 0,0 | 0,3
+Serie_El_Cano.psv ->> HORIZONTE->CaCO 3 (%).......: 0,0 | 0,0 | 0,0 | 5,9
+Serie_El_Cano.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17,6 | 26,1 | 15,5 | 16,2
+Serie_El_Cano.psv ->> HORIZONTE->PH PASTA.........: 6,4 | 0,0 | 7,4 | 8,0
+Serie_El_Cano.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,0 | 0,0 | 7,6 | 8,4
+Serie_El_Cano.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8,6 | 9,4 | 10,0 | 
+Serie_El_Cano.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,8 | 1,2 | 1,1 | 
+Serie_El_Cano.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,4 | 0,4 | 0,2 | 0,3
+Serie_El_Cano.psv ->> HORIZONTE->CI ME/100G-K +...: 1,7 | 1,8 | 1,4 | 1,0
+Serie_El_Cano.psv ->> HORIZONTE->CI ME/100G-H +...: 1,2 | 0,8 | - | 
+Serie_El_Cano.psv ->> HORIZONTE->Na INTERC % (PSI): 3,1 | 2,9 | 1,6 | 2,8
+Serie_El_Cano.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11,5 | 12,8 | 12,7 | 1,3
+Serie_El_Cano.psv ->> HORIZONTE->CIC ME/100G(T)...: 12,8 | 13,6 | 11,9 | 10,8
+Serie_El_Cano.psv ->> HORIZONTE->SAT.B % (S/T)....: 89,8 | 94,1 | 100 | 12,0

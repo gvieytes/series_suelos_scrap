@@ -1,0 +1,356 @@
+
+--------------------------------------------------------------------------------
+SERIE LA SELVA	 	 Símbolo: Se
+
+
+Pertenece a la familia franco "fina, montmorillonítica térmica" de los Argiudoles vérticos.
+Son suelos pesados, oscuros, hidromórficos, con arena gruesa y cantos rodados en todo el perfil. Tienen un epipedón de 20 - 30 cm de textura liviana, están muy lixiviados, y los cantos rodados son abundantes y de hasta 2 mm de diámetro, Hay un moderado desarrollo de raíces y gran actividad biológica, especialmente de lombrices.
+Normalmente los primeros 10 cm no mantienen la humedad, la vegetación no es espesa, pero las pasturas naturales son buenas y el monte de ñandubay por lo general es abierto.
+Son suelos sumamente compactos a partir de los 30 cm. Las concreciones cálcicas está entre 60 y 80 cm, y en el considerado material originario - limos calcáreos - el grado de firmeza es extremadamente grande. Hay síntomas de gleización.
+
+
+Perfil tipo: ER3 - 62C
+Ubicación: 5 Km de San Jaime
+Reconocedores: R.E. Kleinerman; L.O. López
+
+
+A11: 00-10 cm; gris muy oscuro (10 YR 3/1) en húmedo y pardo grisáceo (10 YR 5/2) en seco; franco arcillo limoso; estructura granular y bloques subangulares medios moderados; duro en seco; friable en húmedo; ligeramente plástico y no adhesivo en mojado; abundantes concreciones de hierro manganeso finas; barnices de materia orgánica escasos; moteados abundantes precisos y medios; horizonte muy lixiviado por caras de agregados; límite claro suave.
+
+A12: 10-23 cm; gris muy oscuro a pardo grisáceo muy oscuro (10 YR 3/1,5) en húmedo; franco limoso; estructura granular y bloques subangulares medios débiles; duro en seco y muy friable en húmedo; ligeramente plástico y no adhesivo; abundantes concreciones de hierro manganeso finas; escasos barnices de materia orgánica; moteados abundantes, precisos y medios; horizonte muy lixiviado por las caras de los agregados; límite claro suave.
+
+B1: 23-30 cm; negro (10 YR 2,5/1) en húmedo; franco limoso; bloques subangulares y angulares irregulares medios débiles; duro en seco, friable en húmedo y ligeramente plástico y no adhesivo en mojado; abundantes concreciones de hierro manganeso y barnices de materia orgánica; moteados abundantes precisos y medios; límite claro suave.
+
+B21t: 30-45 cm; negro (10 YR 2,5/1) en húmedo; franco arcillo limoso; estructura de prismas compuestos irregulares medios y fuertes que rompen en bloques angulares irregulares cuneiformes medios y fuertes, duro en seco, firme en húmedo, plástico y adhesivo en mojado; abundantes concreciones de hierro manganeso; abundantes barnices de arcilla iluvial y escasos slickensides finos e intersectados; moteados abundantes, precisos y finos; límite gradual suave.
+
+B22t: 45-66 cm; gris muy oscuro a gris oscuro (10 YR 3,5/1) en húmedo; franco arcillo limoso; estructura de prismas compuestos irregulares gruesos y fuertes que rompen en prismas compuestos regulares medios y fuertes; extremadamente duro en seco, firme en húmedo, plástico y muy adhesivo en mojado; abundantes concreciones de hierro manganeso y barnices de arcilla iluvial; slickensides abundantes en las caras horizontales de los agregados; moteados abundantes, precisos y finos; límite gradual suave.
+B3ca: 66-95 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; franco arcillo limoso; estructura de prismas compuestos irregulares gruesos fuertes que rompen en bloques angulares irregulares cuneiformes medios moderados; extremadamente duros en seco muy firme, muy plástico y muy adhesivo en mojado; abundantes concreciones de hierro manganeso y muy abundantes concreciones de carbonato de calcio; escasos barnices de arcilla iluvial; moteados abundantes, precisos y finos; límite claro suave.
+
+Cca: 95 cm en más; pardo amarillento claro (10 YR 6/4) en húmedo; franco arcillo limoso; estructura masiva; extremadamente duro en seco; muy firme en húmedo, muy plástico y adhesivo en mojado; escasas concreciones de hierro manganeso pero muy abundantes, precisos y finos.
+
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento superficial lento. Permeabilidad lenta. Grupo hidrológico C.
+
+
+Erosión
+
+La serie La Selva no presenta erosión hídrica actual y tiene leve susceptibilidad a la misma.
+
+
+
+
+
+
+
+
+
+
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Selva
+
+ER3 - 63C
+
+
+
+
+
+
+
+Horizonte
+ A11
+ A12
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-10
+ 10-23
+ 23-30
+ 30-45
+ 45-66
+ 66-95
+ 95 (+)
+Mat.organica (%)
+ 4,82
+ 3,37
+ 2,41
+ 1,72
+ 1,37
+ 0,76
+ 0,34
+C (%)
+ 2,80
+ 1,96
+ 1,40
+ 1,00
+ 0,80
+ 0,44
+ 0,20
+N (%)
+ 0,21
+ 0,14
+ 0,10
+ 0,07
+ 0,06
+ 0,03
+ 0,02
+C/N
+ 13
+ 14
+ 14
+ 14
+ 13
+ 14
+ 10
+
+T
+ <2 u
+ 24,75
+ 20,95
+ 23,53
+ 34,52
+ 38,55
+ 29,10
+ 39,99
+E
+ 2-20 u
+ 32,10
+ 33,34
+ 32,32
+ 27,07
+ 29,20
+ 30,75
+ 30,79
+X
+ 20-50 u
+ 25,86
+ 26,27
+ 26,0
+ 24,16
+ 17,27
+ 27,47
+ 29,34
+T
+ 50-100 u
+ 0,83
+ 1,30
+ 0,53
+ 0,81
+ 0,56
+ 0,51
+ 0,36
+U
+ 100-250 u
+ -
+ -
+ -
+ -
+ -
+ -
+ 8,38
+R
+ 250-500 u
+ 14,63
+ 16,59
+ 15,97
+ 12,02
+ 12,71
+ 10,55
+ 8,38
+A
+ 500-1000 u
+ 1,81
+ 1,51
+ 1,56
+ 1,23
+ 1,60
+ 1,52
+ 1,08
+ 1000-2000 u
+ 0,02
+ 0,04
+ 0,09
+ 0,01
+ 0,11
+ 0,07
+ 0,06
+
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 9,07
+ 10,08
+% Saturación de Agua
+
+
+
+
+
+
+
+Equivalente de Humedad (%)
+
+
+
+
+
+
+
+pH en pasta
+
+
+
+
+
+
+
+PH H2O
+ 5,8
+ 5,7
+ 5,9
+ 6,3
+ 6,3
+ 7,3
+ 7,3
+pH ClK
+ 5,6
+ 5,1
+ 5,3
+ 5,6
+ 5,9
+ 7,1
+ 7,1
+Conductividad (mmhos/cm)
+
+
+
+
+
+
+
+Sales solubles grs (%)
+
+
+
+
+
+
+
+Resistencia de la pasta (Ohms/cm)
+
+
+
+
+
+
+
+
+ Cationes de cambio
+ m.e./100 gr.
+Ca++
+ 17,83
+ 14,44
+ 17,78
+ 22,89
+ 26,33
+ ND
+ ND
+
+Mg++
+ 0,97
+ 3,11
+ 3,89
+ 3,78
+ 5,56
+ ND
+ ND
+
+Na+
+ ND
+ ND
+ ND
+ ND
+ ND
+ ND
+ 1,95
+
+K+
+ 0,08
+ 0,16
+ 0,20
+ 0,24
+ 0,30
+ 0,28
+ 0,26
+Valor S (m.e./ 100 gr.)
+ 21,50
+ 18,61
+ 23,17
+ 28,21
+ 34,09
+ ND
+ ND
+H de cambio (m.e. / 100 gr.)
+ 5,02
+ 3,94
+ 5,61
+ 2,2
+ 6,45
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 26,52
+ 22,55
+ 28,78
+ 30,41
+ 40,55
+ 38,13
+ 36,5
+% de saturación de T
+ 81
+ 82
+ 90
+ 92
+ 84
+ ND
+ ND
+% de saturación de S + H
+
+
+
+
+
+
+
+% Na/T
+ -
+ -
+ -
+ -
+ -
+ -
+ 5,3
+
+Fósforo asimilable ppm
+ 6,7
+ 4,9
+ 4,9
+ 3,4
+ 3,4
+ 3,4
+ 2,4
+

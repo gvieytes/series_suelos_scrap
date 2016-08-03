@@ -1,0 +1,227 @@
+--------------------------------------------------------------------------------
+SERIE COLONIA SANTA JUANA					 Símbolo: CJu
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles vérticos.
+Poseen un epipedón oscuro, franco a franco arcilloso, friable con espesores que oscilan entre 15 y 25 cm, aunque se estudiaron perfiles con horizonte A de 35 cm o más de profundidad.
+Abruptamente se pasa al horizonte B2, con estructura prismática; textura franco arcillosa a franco arcillo limosa; oscuro; con caras de fricción (slickensides) y grietas cuando seco. El espesor de estos horizontes varía entre 45 - 50 cm.
+El calcáreo en forma de concreciones, en algunos perfiles es muy abundante. En los horizontes transicionales B3 aparece a los 50 - 60 cm de profundidad.
+Las concreciones ferromanganesíferas, son características en los suelos de esta serie; su presencia ocurre desde la superficie y, a veces, en abundante cantidad, También es característica la disminución del porcentaje de arena en profundidad.
+Es común hallar cantos rodados finos entre los 40 - 60 cm de profundidad.
+El material madre de esta serie está constituido por una mezcla de sedimentos típicos de los que generaron los vertisoles del área, con aporte de arenas características de las terrazas fluviales del río Uruguay.
+Perfil tipo: ER3 - 49C
+Ubicación: 38 Km al SE de San Jaime.
+Reconocedores: R.E. Kleinerman; L.O. López
+A1: 00-20 cm; pardo grisáceo muy oscuro (10 YR 3/2) en húmedo, gris (10 YR 5/1) en seco; franco; estructura en bloques subangulares y algo de estructura subangular; medios moderados; duro en seco; friable en húmedo; barnices ("humic skins") escasos, finos; concreciones de hierro y manganeso comunes de hasta 1 mm de diámetro; vestigios de moteados; límite abrupto, suave.
+IIB21: 20-38 cm; negro (10 YR 2,5/1) en húmedo; franco arcilloso; estructura de prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares medios moderados; firme en húmedo; barnices ("clay humic skins") escasos, finos; caras de fricción ("slickensides") comunes finas, poco intersectadas; concreciones de hierro y manganeso comunes; vestigios de moteados; límite claro, suave.
+IIB22: 38-56 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco arcilloso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y bloques aplanados medios moderados; firme en húmedo; caras de fricción (slickensides) comunes, poco intersectadas; concreciones de hierro y manganeso comunes, finas; vestigios de moteados; límite claro, suave.
+IIB31ca: 56-92 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco arcilloso; estructura en bloques angulares irregulares y bloques aplanados medios moderados; muy firme en húmedo; caras de fricción (slickensides) escasas, finas no intersectadas; concreciones calcáreas comunes abundantes de hasta 2 mm de diámetro; concreciones ferromanganesíferas comunes; moteados de hierro y manganeso comunes, finos y precisos; horizonte algo compactado; límite gradual, suave.
+IIB32ca: 92 + cm (105); pardo amarillento (10 YR 5/4) en húmedo; franco arcillo limoso; estructura masiva; friable en húmedo; concreciones calcáreas comunes a abundantes y de hierro y manganeso comunes de 1 mm de diámetro; moteados de hierro y manganeso comunes, finos y precisos.
+Fases
+No se han descripto a escala de reconocimiento.
+Drenaje
+Pobremente drenado. Escurrimiento superficial medio. Permeabilidad lenta. Grupo hidrológico C.
+Erosión
+Es una serie que presenta erosión hídrica actual leve y la potencialidad a la misma es moderada.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Colonia Santa Juana
+ER3 - 49C
+Horizonte
+ A1
+ IIB21
+ IIB22
+ IIB31ca
+ IIB32ca
+Profundidad (cm)
+ 7-18
+ 27-38
+ 43-53
+ 60-80
+ 92-100
+Mat.organica (%)
+ 2,71
+ 1,83
+ 1,55
+ 1,24
+ 0,38
+C (%)
+ 1,57
+ 1,06
+ 0,9
+ 0,72
+ 0,22
+N (%)
+ 0,163
+ 0,121
+ 0,114
+ 0,086
+ 0,049
+C/N
+ 10
+ 9
+ 9
+ 8
+ 5
+T
+ <2 u
+ 18,1
+ 29,2
+ 32,0
+ 29,2
+ 29,6
+E
+ 2-20 u
+ 21,2
+ 18,4
+ 18,3
+ 16,6
+ 16,7
+X
+ 2-50 u
+ 28,8
+ 30,7
+ 29,9
+ 33,1
+ 35,8
+T
+ 50-100 u
+ 1,7
+ 1,3
+ 1,2
+ 1,3
+ 1,4
+U
+ 100-250 u
+ 14,2
+ 10,7
+ 9,5
+ 10,0
+ 8,3
+R
+ 250-500 u
+ 13,9
+ 8,9
+ 8,5
+ 9,2
+ 7,4
+A
+ 500-1000 u
+ 2,1
+ 0,8
+ 0,6
+ 0,6
+ 0,8
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 4,7
+ 9,0
+% Saturación de Agua
+ 58,0
+ 69,0
+ 74,0
+ 69,0
+ 68,3
+Equivalente de Humedad (%)
+ 22,9
+ 38,8
+ 38,5
+ 33,9
+ 33,0
+pH en pasta
+ 8,0
+ 6,5
+ 7,3
+ 7,8
+ 7,8
+PH H2O
+ 6,5
+ 7,1
+ 7,8
+ 8,2
+ 8,2
+pH ClK
+ 5,3
+ 5,7
+ 6,4
+ 7,0
+ 7,0
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ 0,6
+Sales solubles grs (%)
+ -
+ -
+ -
+ -
+ -
+Resistencia de la pasta (Ohms/cm)
+ 3532
+ 1764
+ 1412
+ 1112
+ 850
+ Cationes de cambio
+ m.e./100 gr
+Ca++
+ 18,1
+ 33,3
+ 33,9
+ ND
+ ND
+Mg++
+ 2,9
+ 3,0
+ 4,2
+ ND
+ ND
+Na+
+ 1,0
+ 2,7
+ 3,0
+ 3,7
+ 3,7
+K+
+ 0,3
+ 0,4
+ 0,6
+ 0,6
+ 0,6
+Valor S (m.e./ 100 gr)
+ 223
+ 39,4
+ 41,7
+ ND
+ ND
+H de cambio (m.e. / 100 gr)
+ 2,1
+ 2,1
+ 2,1
+ ND
+ ND
+Valor T (m.e. / 100 gr)
+ 24,6
+ 40,8
+ 43,0
+ 35,7
+ 35,4
+% de saturación de T
+ 91
+ 97
+ 97
+ ND
+ ND
+% de saturación de S + H
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 4,1
+ 6,6
+ 7,0
+ 10,4
+ 10,5

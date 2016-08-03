@@ -1,0 +1,207 @@
+--------------------------------------------------------------------------------
+SERIE TACHUELA							 Símbolo: Tch
+Pertenece a la familia, "fina, levemente alcalina y térmica" de los Peludertes argiacuólicos.
+Muestra un microrrelieve gilgai lineal bien desarrollado, con ciclos de 4-5 m y altibajos de hasta 20 cm.
+Suelo oscuro hasta 20 cm.
+Suelo oscuro hasta 75-120 cm en el bajo de gilgai y de 00-15 cm en la cresta.
+En el bajo del gilgai tiene un epipedón mólico profundo, franco-arcillo-limoso y algo lixiviado, y un horizonte B2 argílico, arcillo-limoso, con calcáreo de 60-80 cm y concreciones de hierro-manganeso en todo el perfil.
+Suelos desarrollados sobre "limos calcáreos" lacustres.
+Perfil tipo: ER3 - 31C
+Fecha: 23/III/1972
+El perfil se describió 13 Km. al SO de la ciudad de San José de Feliciano.
+Reconocedores: R.E. Kleinerman - G.W. van Barneveld
+A1: 00-16 cm.; gris muy oscuro (10 YR 3/1) en húmedo; gris (10 YR 5/1) en seco; franco arcillo limoso; estructura granular y en bloques subangulares medios moderados; levemente duro en seco; friable en húmedo; barnices ("humic skins") escasos, finos; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y débiles; límite abrupto, suave. Horizonte poco lixiviado.
+B21: 16-67 cm.; negro (10 YR 2/1) en húmedo; gris muy oscuro a gris oscuro (10 YR 3.5/1) en seco; arcillo a arcilloso limoso; estructura en prismas compuestos irregulares medios moderados, que rompen en agregados cuneiformes y bloques angulares irregulares con tendencia cuneiforme medios moderados; extremadamente duro en seco; muy firme en húmedo; barnices ("humic skins") escasos, finos; caras de fricción ("slickensides") comunes a abundantes, finas y medias, intersectadas; concreciones de hierro-manganeso escasa y finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+B22ca: 67-96 cm.; negro (10 YR 2/1) en húmedo; gris muy oscuro (10 YR 3/1) en seco; arcilloso a arcillo limoso; estructura en prismas compuestos irregulares, medios y débiles, que rompen en bloques angulares irregulares con tendencia cuneiforme medios a gruesos y moderados; extremadamente duro en seco; muy firme en húmedo; concreciones de calcáreo comunes, de hasta 3 mm; barnices ("humic skins") escasos y finos; caras de fricción ("slickensides") comunes a abundantes, medias, moderadamente intersectadas; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, ondulado.
+B31ca: 96-123 cm.; pardo grisáceo muy oscuro a pardo grisáceo oscuro (10 YR 3.5/2) en húmedo; pardo grisáceo oscuro a pardo grisáceo (10 YR 4.5/2) en seco; arcillo limoso a franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques del mismo tipo con tendencia cuneiforme, gruesos, débiles; extremadamente duro en seco; friable a firme en húmedo; escasas cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, de hasta 4 mm; caras de fricción ("slickensides") comunes, medias, poco intersectadas; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos, y precisos; límite gradual, ondulado. Horizonte con vetas de materia orgánica.
+B32ca: 123 cm. +; pardo grisáceo (10 YR 5/2) en húmedo; arcillo limoso a franco-arcillo-limoso; estructura en bloques angulares irregulares gruesos, muy débiles; friable en húmedo; concreciones calcáreas escasas, de hasta 2 mm; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+La variabilidad de rasgos está dada principalmente por el proceso de expansión y contracción del material arcilloso que de origen a la formación de microrrelieve gilgai.
+Este está bien desarrollado en pendientes de 1.7 % o más; en pendientes más suaves es visible solo muy tenuemente en las fotografías aéreas. Los ciclos son cortos 4-5 m, y fue determinado como "gilgai fino" por su imagen de líneas finas en la fotografía aérea.
+En el bajo del gilgai el solum varía de 120-130 cm; el epipedón tiene 20-25 cm de espesor y normalmente incluye un horizonte A1 que muchas veces puede describirse como secuencia A11/A12, y el horizonte B21t que morfológicamente se describe como tal aunque por su textura y contenido de materia orgánica podría describirse como B1. El epipedón tiene 32-35 % de arcilla y 4-5 % de materia orgánica. En la cresta del gilgai varía de 5 a 10 cm, tiene menos materia orgánica, es más oscuro y tiene concreciones de calcáreo.
+El horizonte B2, argílico, tiene 40-50 % de arcilla y estructura prismática compuesta, con prismas que pueden ser muy débiles. En seco el horizonte se agrieta hasta la base del epipedón, auque en condiciones de erosión leve las grietas pueden aparecer en la superficie.
+Las caras de fricción ("slickensides") son comunes a abundantes e intersectadas en la parte inferior del epipedón, igualmente abundantes y moderadamente intersectadas en el B22 y escasas a comunes con poca intercepción en el B3. El calcáreo, en concreciones duras de hasta 0,5 cm, aparece entre 60-80 cm y su porcentaje como carbonatos libres varía de 2-5 % en el B3 y C. Los moteados, finos y precisos, y las concreciones de hierro-manganeso se encuentran siempre en el perfil y son una características típica de la Serie.
+Es un suelo ligeramente alcalino en superficie y moderadamente en el subsuelo, con 7-11 % de Na+ intercambiable en el B22 y B3.
+El horizonte C tiene 40-50 % de arcilla; los porcentajes de arena varían de 1.5-2.5 % en todo el perfil.
+Fases
+Muy suavemente ondulada (en pendientes menores de 1.7 % y con gilgai muy tenuemente visible en el terreno).
+Series similares y sus diferencias
+La Serie Tachuela se parece a la Serie Chañar (aunque esta tiene más arena en el perfil y un epipedón menos mólico), a la Serie Ramblones (menos mólico y sin concreciones de hierro-manganeso en todo el perfil).
+Drenaje
+Imperfecta a moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta. Napa freática profunda. Grupo hidrológico D.	
+Erosión
+La Serie Tachuela generalmente no está erosionada; en sectores con uso agrícola sostenido puede presentar una leve erosión laminar y/o en surcos.
+La susceptibilidad y peligro de erosión es leve a moderado en forma de surcos, particularmente en las pendientes más largas.
+Vegetación típica
+Monte abierto con predominio de ñandubay (Prosopis algarrobilla) y algo de espinillo (Acacia caven). Pastura hidromórfica con especies como Paspalum dilatatum (pasto miel), Paspalum notatum (pasto horqueta), Stipa paposa (flechilla) y Cynodon dactylon (gramón); y especies herbáceas como Eryngium (caraguatá), Schyzachyrium (cola de zorro) y Baccharis (mío-mío).
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Tachuela
+ER3-31C
+Nº de registro
+ 734
+ 735
+ 736
+ 737
+ 738
+Horizonte
+ A1
+ B21
+ B22ca
+ B31ca
+ B32ca
+Profundidad (cm)
+ 03-16
+ 38-52
+ 67-90
+ 103-113
+ 130-140
+Mat.organica (%)
+ 4.11
+ 2.27
+ 1.54
+ 0.67
+ 0.20
+C (%)
+ 2.39
+ 1.32
+ 0.90
+ 0.39
+ 0.12
+N (%)
+ 0.225
+ 0.116
+ 0.083
+ 0.039
+ -
+C/N
+ 11
+ 11
+ 11
+ 10
+ -
+T <2
+ 32.0
+ 31.4
+ 42.6
+ 40.3
+ 48.6
+E 2-20
+ 30.0
+ 30.2
+ 26.1
+ 27.2
+ 27.4
+X 2-50
+ 66.2
+ 66.5
+ 56.3
+ 58.5
+ 50.7
+T 50-100
+ 0.6
+ 0.5
+ 0.3
+ 0.4
+ 0.2
+U 100-250
+ 0.8
+ 1.0
+ 0.5
+ 0.6
+ 0.3
+R 250-500
+ 0.4
+ 0.6
+ 0.3
+ 0.2
+ 0.2
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.5
+ 0.0
+ 2.2
+ 1.1
+ 4.5
+pH H2O
+ 7.4
+ 7.8
+ 8.1
+ 8.3
+ 8.2
+pH ClK
+ 6.5
+ 6.4
+ 6.6
+ 6.8
+ 6.8
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ 42.6
+ 45.7
+ 44.3
+ 41.3
+ 42.0
+D
+Ca++
+ -
+ 36.6
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ -
+ 4.9
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 0.5
+ 0.4
+ 0.4
+ 0.3
+ 0.5
+O
+M
+N
+B
+Na+
+ 0.9
+ 2.4
+ 3.9
+ 4.6
+ 3.9
+E
+I
+S
+O
+H+
+ -
+ 1.4
+ -
+ -
+ -
+% Na/T
+ 2.1
+ 5.2
+ 8.8
+ 11.1
+ 9.3
+Equivalente de humedad (%)
+ 7.3
+ 7.5
+ 7.7
+ 7.8
+ 7.9

@@ -1,0 +1,227 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MUGHERLI_alto_gilgai.docx.txt ->> ID..........................: 001
+MUGHERLI_alto_gilgai.docx.txt ->> CLASIFICACION...............: PELUDERTES ARGICOS (VERTISOL CON B2 TEXTURAL, DENSO). SON SUELOS PROFUNDOS. CON ALGO DE ARENA FINA Y MUY FINA EN TODO EL PERFIL, INHERENTE AL MATERIAL ORIGINARIO
+MUGHERLI_alto_gilgai.docx.txt ->> SERIE.......................: SERIE MUGHERLI - ALTO GILGAI (MGH)
+MUGHERLI_alto_gilgai.docx.txt ->> UBICACION...................: Estancia Mugherli (foto IR 123-35) - Dpto. Uruguay
+MUGHERLI_alto_gilgai.docx.txt ->> PROVINCIA...................: ENTRE RIOS
+MUGHERLI_alto_gilgai.docx.txt ->> LATITUD.....................: FALTA!
+MUGHERLI_alto_gilgai.docx.txt ->> LONGITUD....................: FALTA!
+MUGHERLI_alto_gilgai.docx.txt ->> ALTITUD.....................: FALTA!
+MUGHERLI_alto_gilgai.docx.txt ->> PENDIENTE...................: FALTA!
+MUGHERLI_alto_gilgai.docx.txt ->> DRENAJE.....................: Moderada a imperfectamente drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico D.
+MUGHERLI_alto_gilgai.docx.txt ->> ESCURRIMIENTO...............: FALTA!
+MUGHERLI_alto_gilgai.docx.txt ->> PERMEABILIDAD...............: FALTA!
+MUGHERLI_alto_gilgai.docx.txt ->> TIPO DE SUELO...............: FINA, MONTMORILLONÍTICA, NEUTRA, TÉRMICA
+MUGHERLI_alto_gilgai.docx.txt ->> COLOR ......................: FALTA!
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->NOMBRE(S)........: A11      | A12      | B21      | B22      | C1       | C2      
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->PROFUNDIDADES(CM): 0-10     | 10-25    | 25-70    | 70-110   | 110-155  | 155-200 
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CARBONO ORGÁN.(%): 2,65     | 2,55     | 1,43     | 0,94     | 0,10     | 0,07    
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->NITRÓGENO TOT.(%): 0,250    | 0,232    | 0,101    | 0,056    | -        | -       
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->RELACIÓN C/N.....: 11       | 11       | 14       | 16       | -        | -       
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->ARCILLA 2 (%)....:          | 50,0     |          | 51,9     |          | 51,7    
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->LIMO 2-20 (%)....: 25,7     | 22,4     | 27,6     | 32,8     | 34,4     | 41,6    
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->LIMO 2-50 (%)....: 37,6     | 39,1     | 39,7     | 38,7     | 40,8     | 52,8    
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->AMF 50-100 (%)...: 4,8      | 4,7      | 4,5      | 1,3      | 2,6      | 0,6     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->AM 100-500 (%)...: 3,4      | 3,1      | 3,3      | 1,2      | 1,9      | 0,8     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->AG 500-1000 (%)..: 1,2      | 0,7      | 0,8      | 0,2      | 0,8      | 1,6     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->AMG 1-2 mm (%)...: 0        | 0        | 0        | 0        | 0        | 0       
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CALCAREO CaCO3(%): 3,0      | 0,5      |          | 8,5      | 4,0      | 0,3     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->PH H2O 1:2,5.....: 8,0      | 8,1      | 8,3      | 8,3      | 8,9      | 8,7     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->PH 1N ClK 1:2,5..: 7,0      | 6,9      | 6,6      | 6,6      | 7,0      | 6,8     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CONDUCT mmhos/cm.:          | 0,98     |          | 0,70     |          | 0,48    
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->VT CIC ME/100G...:          |          | 58,1     |          |          | 59,5    
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Ca ++.: CaCO3    |          |          |          |          |         
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Mg ++.: MgCO3    |          |          |          |          |         
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-K +...: 0,7      | 0,6      | 0,6      | 0,4      | 0,6      | 0,8     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Na +..: 0,7      | 0,7      | 1,1      | 2,0      | 2,6      | 2,8     
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-H +...: -        | -        | -        | -        | -        | -       
+MUGHERLI_alto_gilgai.docx.txt ->> HORIZONTE->EQUIV. HUMEDAD(%):          | 44,2     |          | 45,3     |          | 54,1    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MUGHERLI_bajo_gilgai.docx.txt ->> ID..........................: 002
+MUGHERLI_bajo_gilgai.docx.txt ->> CLASIFICACION...............: PELUDERTES ARGICOS (VERTISOL CON B2 TEXTURAL, DENSO). SON SUELOS PROFUNDOS. CON ALGO DE ARENA FINA Y MUY FINA EN TODO EL PERFIL, INHERENTE AL MATERIAL ORIGINARIO
+MUGHERLI_bajo_gilgai.docx.txt ->> SERIE.......................: SERIE MUGHERLI - BAJO GILGAI (MGH)
+MUGHERLI_bajo_gilgai.docx.txt ->> UBICACION...................: Estancia Mugherli (foto IR 123-35) - Dpto. Uruguay
+MUGHERLI_bajo_gilgai.docx.txt ->> PROVINCIA...................: ENTRE RIOS
+MUGHERLI_bajo_gilgai.docx.txt ->> LATITUD.....................: FALTA!
+MUGHERLI_bajo_gilgai.docx.txt ->> LONGITUD....................: FALTA!
+MUGHERLI_bajo_gilgai.docx.txt ->> ALTITUD.....................: FALTA!
+MUGHERLI_bajo_gilgai.docx.txt ->> PENDIENTE...................: FALTA!
+MUGHERLI_bajo_gilgai.docx.txt ->> DRENAJE.....................: Moderada a imperfectamente drenado; escurrimiento superficial medio. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico D.
+MUGHERLI_bajo_gilgai.docx.txt ->> ESCURRIMIENTO...............: FALTA!
+MUGHERLI_bajo_gilgai.docx.txt ->> PERMEABILIDAD...............: FALTA!
+MUGHERLI_bajo_gilgai.docx.txt ->> TIPO DE SUELO...............: FINA, MONTMORILLONÍTICA, NEUTRA, TÉRMICA
+MUGHERLI_bajo_gilgai.docx.txt ->> COLOR ......................: FALTA!
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->NOMBRE(S)........: A11      | A12      | B21      | B22      | C1       | C2      
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->PROFUNDIDADES(CM): 0-10     | 10-20    | 20-60    | 60-95    | 95-135   | 135-200 
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CARBONO ORGÁN.(%): 3,04     | 2,35     | 1,65     | 0,98     | 0,20     | 0,10    
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->NITRÓGENO TOT.(%): 0,247    | 0,195    | 0,103    | 0,060    |          |         
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->RELACIÓN C/N.....: 12       | 12       | 16       | 16       |          |         
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->ARCILLA 2 (%)....:          | 46,2     |          | 43,3     |          | 42,9    
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->LIMO 2-20 (%)....: 24,9     | 25,7     | 30,3     | 33,4     | 36,8     | 38,6    
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->LIMO 2-50 (%)....: 43,1     | 44,8     | 45,9     | 45,2     | 47,8     | 47,7    
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->AMF 50-100 (%)...: 5,5      | 5,8      | 4,3      | 2,1      | 1,0      | 0,9     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->AM 100-500 (%)...: 4,1      | 4,4      | 3,1      | 1,5      | 1,1      | 1,1     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->AG 500-1000 (%)..: 1,1      | 1,7      | 1,5      | 0,6      | 1,0      | 1,5     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->AMG 1-2 mm (%)...: 0        | 0        | 0        | 0        | 0        | 0       
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CALCAREO CaCO3(%): 0        | 0        | 2,3      | 9,0      | 1,5      | 0,5     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->PH H2O 1:2,5.....: 7,4      | 7,2      | 8,5      | 8,9      | 8,9      | 8,7     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->PH 1N ClK 1:2,5..: 6,1      | 5,9      | 6,9      | 7,1      | 7,0      | 6,5     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CONDUCT mmhos/cm.:          | 0,89     |          | 0,72     |          | 0,56    
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->VT CIC ME/100G...:          |          | 46,2     |          |          | 44,6    
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Ca ++.: 38,6     | 37,9     |          |          |          |         
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Mg ++.: 5,9      | 5,4      |          |          |          |         
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-K +...: 0,8      | 0,5      | 0,6      | 0,3      | 0,4      | 0,6     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Na +..: 0,7      | 0,7      | 1,3      | 2,5      | 2,6      | 3,3     
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-H +...:          |          |          |          |          |         
+MUGHERLI_bajo_gilgai.docx.txt ->> HORIZONTE->EQUIV. HUMEDAD(%):          | 39,8     |          | 38,2     |          | 49,4    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> ID..........................: 003
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> CLASIFICACION...............: PELUDERTES ÁRGICOS (VERTISOL CON GILGAI Y B2 TEXTURAL)
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> SERIE.......................: SERIE SAN GUSTAVO - BAJO GILGAI (SG)
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> UBICACION...................: Colonia Oficial N° 13 (foto 486-27) - Dpto. La Paz
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> PROVINCIA...................: ENTRE RIOS
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> LATITUD.....................: FALTA!
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> LONGITUD....................: FALTA!
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> ALTITUD.....................: FALTA!
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> PENDIENTE...................: FALTA!
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> DRENAJE.....................: Moderadamente bien drenado; escurrimiento superficial moderado y a veces algo rápido. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> ESCURRIMIENTO...............: FALTA!
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> PERMEABILIDAD...............: FALTA!
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> TIPO DE SUELO...............: FINA, NEUTRA, TÉRMICA
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> COLOR ......................: FALTA!
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->NRO DE REGISTRO..: 404      | 405      | 406      | 407      | 408      | 409     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->NOMBRE(S)........: A1       | B21t     | B22t     | B23ca    | B3ca     | Cca(g)  
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->PROFUNDIDADES(CM): 00-13    | 22-31    | 40-52    | 68-84    | 88-98    | 103-115 
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->RELACIÓN C/N.....: 12       | 13       | 16       | 16       | 12       | 10      
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->ARCILLA 2 (%)....: 33.6     | 40.3     | 38.4     | 45.0     | 40.5     | 36.5    
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->LIMO 2-20 (%)....: 21.4     | 24.5     | 26.3     | 21.3     | 23.0     | 24.5    
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->LIMO 2-50 (%)....: 60.5     | 53.7     | 54.6     | 49.6     | 55.5     | 60.6    
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->AF 100-250 (%)...: 3.4      | 3.1      | 3.5      | 2.8      | 2.0      | 1.4     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->AM 50-500 (%)....: 1.3      | 1.5      | 1.6      | 1.2      | 1.0      | 0.7     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->AG 500-1000 (%)..: 0.0      | 0.0      | 0.0      | 0.0      | 0.0      | 0.0     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->CALCAREO CaCO3(%): 0.0      | 0.0      | 6.0      | 4.9      | 13.0     | 9.9     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->PH H2O 1:2,5.....: 6.3      | 6.5      | 6.9      | 7.7      | 7.9      | 7.9     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->PH 1N ClK 1:2,5..: 5.9      | 6.0      | 6.3      | 6.9      | 7.0      | 7.0     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->VT CIC ME/100G...:          | 41.9     | 44.8     | 40.6     | 44.5     | 36.7    
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Ca ++.: 32.8     | 36.5     | 32.5     | -        | -        | -       
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Mg ++.: 3.9      | 4.3      | 5.4      | -        | -        | -       
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-K +...: 1.7      | 0.9      | 0.6      | 0.8      | 0.7      | 0.7     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Na +..: 0.2      | 0.2      | 0.3      | 0.8      | 1.1      | 1.3     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-H +...: 4.2      | 3.1      | 2.1      | -        | -        | -       
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->Na+ % DEL VALOR T: 0.5      | 0.4      | 0.5      | 1.8      | 3.0      | 3.5     
+SAN_GUSTAVO_bajo_gilgai.docx.txt ->> HORIZONTE->EQUIV. HUMEDAD(%): 39.4     | 44.0     | 40.7     | 43.4     | 38.8     | 39.4    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> ID..........................: 004
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> CLASIFICACION...............: PELUDERTES ÁRGICOS (VERTISOL CON GILGAI Y B2 TEXTURAL)
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> SERIE.......................: SERIE SAN GUSTAVO - CRESTA GILGAI (SG)
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> UBICACION...................: Colonia Oficial N° 13 (foto 486-27) - Dpto. La Paz
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> PROVINCIA...................: ENTRE RIOS
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> LATITUD.....................: FALTA!
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> LONGITUD....................: FALTA!
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> ALTITUD.....................: FALTA!
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> PENDIENTE...................: FALTA!
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> DRENAJE.....................: Moderadamente bien drenado; escurrimiento superficial moderado y a veces algo rápido. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> ESCURRIMIENTO...............: FALTA!
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> PERMEABILIDAD...............: FALTA!
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> TIPO DE SUELO...............: FINA, NEUTRA, TÉRMICA
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> COLOR ......................: FALTA!
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->NRO DE REGISTRO..: 400      | 401      | 402      | 403     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->NOMBRE(S)........: A1ca     | AC1ca    | AC2ca    | Cca(g)  
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->PROFUNDIDADES(CM): 00-14    | 19-30    | 52-64    | 88-102  
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->RELACIÓN C/N.....: 11       | 8        | 7        | 6       
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->ARCILLA 2 (%)....: 34.6     | 42.4     | 42.7     | 40.4    
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->LIMO 2-20 (%)....: 19.4     | 18.9     | 21.3     | 21.7    
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->LIMO 2-50 (%)....: 58.6     | 53.2     | 53.9     | 56.1    
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->AMF 50-100 (%)...: 1.7      | 1.0      | 0.8      | 0.9     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->AF 100-250 (%)...: 3.5      | 2.2      | 1.9      | 1.8     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->AM 50-500 (%)....: 1.6      | 1.2      | 0.7      | 0.8     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->AG 500-1000 (%)..: 0.0      | 0.0      | 0.0      | 0.0     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->CALCAREO CaCO3(%): 0.5      | 12.2     | 12.9     | 13.6    
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->PH H2O 1:2,5.....: 7.2      | 7.6      | 7.8      | 8.0     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->PH 1N ClK 1:2,5..: 6.7      | 6.9      | 7.1      | 7.2     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->VT CIC ME/100G...:          | 40.4     | 40.1     | 37.7    
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Ca ++.: -        | -        | -        | -       
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Mg ++.: -        | -        | -        | -       
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-K +...: 1.3      | 1.0      | 0.9      | 0.8     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Na +..: 0.1      | 0.2      | 0.7      | 1.3     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-H +...: -        | -        | -        | -       
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->Na+ % DEL VALOR T: 0.2      | 0.5      | 0.9      | 8.5     
+SAN_GUSTAVO_cresta_gilgai.docx.txt ->> HORIZONTE->EQUIV. HUMEDAD(%): 38.8     | 37.2     | 37.0     | 39.2    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> ID..........................: 005
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> CLASIFICACION...............: PELUDERTES ARGIACUÓLICOS
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> SERIE.......................: SERIE SANTA JERÓNIMA - BAJO GILGAI (SJR)
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> UBICACION...................: Ea. La Britania, 22 Km al E-SE de la ciudad de San José de Feliciano. Foto IR195-44
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> PROVINCIA...................: ENTRE RIOS
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> LATITUD.....................: FALTA!
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> LONGITUD....................: FALTA!
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> ALTITUD.....................: FALTA!
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> PENDIENTE...................: FALTA!
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> DRENAJE.....................: El drenaje es de imperfecto a moderado. Escurrimiento medio a lento. Permeabilidad lenta a muy lenta.
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> ESCURRIMIENTO...............: FALTA!
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> PERMEABILIDAD...............: FALTA!
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> TIPO DE SUELO...............: ARCILLOSA FINA, MONTMORILLONÍTICA, NEUTRA, TÉRMICA
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> COLOR ......................: FALTA!
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->NRO DE REGISTRO..: -        | -        | -        | -        | -       
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->NOMBRE(S)........: A1       | B21t     | B22t     | B31ca    | B32ca   
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->PROFUNDIDADES(CM): 06-16    | 30-45    | 60-75    | 93-100   | 120-140 
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->CARBONO ORGÁN.(%): 3.49     | 2.16     | 0.99     | 0.55     | 0.12    
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->NITRÓGENO TOT.(%): 0.315    | 0.182    | 0.085    | 0.060    |         
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->RELACIÓN C/N.....: 11       | 12       | 12       | 9        |         
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->ARCILLA 2 (%)....: 24.2     | 30.5     | 39.8     | 38.0     | 38.7    
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->LIMO 2-20 (%)....: -        | -        | -        | -        | -       
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->LIMO 2-50 (%)....: 74.5     | 67.9     | 58.4     | 60.1     | 60.0    
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->AMF 50-100 (%)...: 0.3      | 0.4      | 0.5      | 0.5      | 0.4     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->AF 100-250 (%)...: 0.7      | 0.8      | 0.9      | 0.9      | 0.6     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->AM 50-500 (%)....: 0.3      | 0.4      | 0.4      | 0.5      | 0.3     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->AG 500-1000 (%)..: 0.0      | 0.0      | 0.0      | 0.0      | 0.0     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->CALCAREO CaCO3(%): 0.0      | 0.0      | 0.0      | 7.7      | 5.4     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->PH H2O 1:2,5.....: 5.7      | 6.1      | 6.5      | 7.7      | 8.0     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->PH 1N ClK 1:2,5..: -        | -        | -        | -        | -       
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->VT CIC ME/100G...:          | 38.8     | 40.7     | 38.7     | 37.4    
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Ca ++.: 27.8     | 32.2     | 32.4     |          |         
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Mg ++.: 3.5      | 3.3      | 3.1      | -        | -       
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-K +...: 1.0      | 0.4      | 0.6      | 0.4      | 0.5     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Na +..: 0.1      | 0.1      | 0.4      | 0.5      | 0.6     
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-H +...: 7.3      | 5.4      | 3.1      | -        | -       
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->Na+ % DEL VALOR T:          | 0.26     | 0.25     | 1.03     | 1.34    
+SANTA_JERONIMA_bajo_gilgai.docx.txt ->> HORIZONTE->EQUIV. HUMEDAD(%): 35.8     | 37.2     | 36.7     | 30.8     | 34.9    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> ID..........................: 006
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> CLASIFICACION...............: PELUDERTES ARGIACUÓLICOS
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> SERIE.......................: SERIE SANTA JERÓNIMA - CRESTA GILGAI (SJR)
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> UBICACION...................: Ea. La Britania, 22 Km al E-SE de la ciudad de San José de Feliciano. Foto IR195-44
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> PROVINCIA...................: ENTRE RIOS
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> LATITUD.....................: FALTA!
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> LONGITUD....................: FALTA!
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> ALTITUD.....................: FALTA!
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> PENDIENTE...................: FALTA!
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> DRENAJE.....................: El drenaje es de imperfecto a moderado. Escurrimiento medio a lento. Permeabilidad lenta a muy lenta.
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> ESCURRIMIENTO...............: FALTA!
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> PERMEABILIDAD...............: FALTA!
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> TIPO DE SUELO...............: ARCILLOSA FINA, MONTMORILLONÍTICA, NEUTRA, TÉRMICA
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> COLOR ......................: FALTA!
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->NRO DE REGISTRO..: -        | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->NOMBRE(S)........: A1ca     | ACca     | Cca     
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->PROFUNDIDADES(CM): 00-18    | 26-40    | 45-55   
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->CARBONO ORGÁN.(%): 3.40     | 0.69     | 0.20    
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->NITRÓGENO TOT.(%): 0.335    | 0.086    | 0.041   
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->RELACIÓN C/N.....: 10       | 8        | 5       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->ARCILLA 2 (%)....: 31.1     | 35.7     | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->LIMO 2-20 (%)....: -        | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->LIMO 2-50 (%)....: 67.4     | 63.0     | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->AMF 50-100 (%)...: 0.4      | 0.3      | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->AF 100-250 (%)...: 0.7      | 0.6      | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->AM 50-500 (%)....: 0.4      | 0.4      | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->AG 500-1000 (%)..: -        | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->CALCAREO CaCO3(%): 0.4      | 9.3      | 18.4    
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->PH H2O 1:2,5.....: 6.8      | 7.8      | 7.9     
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->PH 1N ClK 1:2,5..: -        | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->VT CIC ME/100G...:          | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Ca ++.: -        | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Mg ++.: -        | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-K +...: 1.3      | 1.0      | 0.6     
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-Na +..: 0.2      | 0.1      | 0.2     
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->CI ME/100G-H +...: -        | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->Na+ % DEL VALOR T:          | -        | -       
+SANTA_JERONIMA_cresta_gilgai.docx.txt ->> HORIZONTE->EQUIV. HUMEDAD(%): 38.6     | 35.0     | 31.5    

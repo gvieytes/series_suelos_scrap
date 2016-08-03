@@ -1,0 +1,54 @@
+coloniamoreno_datos_analiticos.psv ->> ID..........................: 040
+coloniamoreno_datos_analiticos.psv ->> CLASIFICACION...............: Natralbol típico
+coloniamoreno_datos_analiticos.psv ->> SERIE.......................: Colonia Moreno (CMo)
+coloniamoreno_datos_analiticos.psv ->> UBICACION...................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> PROVINCIA...................: SANTA FE
+coloniamoreno_datos_analiticos.psv ->> LATITUD.....................: S320600
+coloniamoreno_datos_analiticos.psv ->> LONGITUD....................: O620100
+coloniamoreno_datos_analiticos.psv ->> ALTITUD.....................: 88.2
+coloniamoreno_datos_analiticos.psv ->> PENDIENTE...................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> DRENAJE.....................: IMPERFECTO
+coloniamoreno_datos_analiticos.psv ->> ESCURRIMIENTO...............: FALTA!
+coloniamoreno_datos_analiticos.psv ->> PERMEABILIDAD...............: FALTA!
+coloniamoreno_datos_analiticos.psv ->> TIPO DE SUELO...............: LIMO/ARCILLOSA FINA, TÉRMICA (MINERALOGÍA NO DETERMINADA)
+coloniamoreno_datos_analiticos.psv ->> COLOR ......................: FALTA!
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->NOMBRE(S)........: Ap    | E     | Bt1   | Bt1   | BC    | Ck
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14  | 14-22 | 22-46 | 46-70 | 70-97 | +97
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.97  | 2.91  | 1.31  | 0.45  | 0.28  | 0.21
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.72  | 1.69  | 0.76  | 0.26  | 0.16  | 0.12
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.165 | 0.154 | 0.085 | 0.058 | 0.04  | 0.03
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->RELACIÓN C/N.....: 10    | 11    | 9     | 4     | 4     | 4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->ARCILLA 2 (%)....: 23.7  | 20.2  | 33.2  | 28.5  | 18.4  | 12.2
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->LIMO 2-50 (%)....: 70.4  | 74.4  | 63.3  | 66.6  | 72.5  | 74.5
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->ARENA >50µ.......: 5.9   | 6.1   | 4.3   | 5.5   | 9.6   | 12.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->TOTAL............: 100.0 | 100.7 | 100.8 | 100.6 | 100.5 | 98.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->LIMO 2-20 (%)....:       |       |       |       |       |
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AMF 50-100 (%)...: 4.8   | 5.6   | 3.5   | 5.0   | 7.2   | 9.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AF 100-250 (%)...: 1.1   | 0.5   | 0.8   | 0.5   | 2.1   | 2.2
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AM 250-500 (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.2   | 0.3
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.0   | 0.0   | 0.0   | 0.0   | 0.1   | 0.4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 0.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0   | 0.0   | 0.0   | 0.0   | 0.0   | 4.3
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 26.9  | 27.1  | 34.3  | 32.7  | 31.8  | 26.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->RESIST. PASTA....:       |       |       |       |       |    
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CONDUCT mmhos/cm.:       |       | 1.7   | 8.5   | 21.3  | 24.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PH PASTA.........: 5.0   | 5.3   | 6.8   | 7.3   | 8.2   | 8.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.3   | 5.8   | 7.7   | 8.9   | 9.1   | 9.4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->PH 1N ClK 1:2,5..:       |       |       |       |       |
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 7.6   | 7.9   |       |       |       |    
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.7   | 2.6   |       |       |       |    
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4   | 0.4   | 2.3   | 4.0   | 11.0  | 11.4
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-K +...: 2.5   | 2.8   | 2.7   | 2.1   | 4.0   | 3.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->CI ME/100G-H +...: 3.9   | 2.8   |       |       |       |    
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.3   | 2.4   | 9.3   | 16.1  | 45.8  | 50.7
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.I.C., (T)......: 17.4  | 16.8  | 24.8  | 24.8  | 24.0  | 22.5
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.2  | 13.7  |       |       |       |    
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->SAT.B % (S/T)....: 76    | 82    |       |       |       |    
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++:       |       |       | 13.4  | 32.9  | 30.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++:       |       |       | 7.2   | 17.1  | 18.8
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.:       |       |       | 63.0  | 165.0 | 205.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-K+..:       |       |       | 1.5   | 3.0   | 3.6
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EX.S ME/1-CO3-.:       |       |       | 3.1   | 3.9   | 3.1
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-SO4=:       |       |       | 37.3  | 111.0 | 150.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.:       |       |       | 47.9  | 99.3  | 100.0
+coloniamoreno_datos_analiticos.psv ->> HORIZONTE->RAS..............:       |       |       | 20    | 33    | 42

@@ -1,0 +1,39 @@
+dss_el_martillo.psv ->> ID..........................: 211
+dss_el_martillo.psv ->> CLASIFICACION...............: Udorthent lítico paralítico esquelética
+dss_el_martillo.psv ->> SERIE.......................: EL MARTILLO
+dss_el_martillo.psv ->> UBICACION...................: 5 km al Noroeste de Ongamira, departamento Ischilín
+dss_el_martillo.psv ->> PROVINCIA...................: CORDOBA
+dss_el_martillo.psv ->> LATITUD.....................: S304700
+dss_el_martillo.psv ->> LONGITUD....................: O642700
+dss_el_martillo.psv ->> ALTITUD.....................: 1300
+dss_el_martillo.psv ->> PENDIENTE...................: FALTA!
+dss_el_martillo.psv ->> DRENAJE.....................: FALTA!
+dss_el_martillo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_el_martillo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_el_martillo.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA MÉSICA
+dss_el_martillo.psv ->> COLOR ......................: GRIS MUY OSCURO
+dss_el_martillo.psv ->> HORIZONTE->NOMBRE(S)........: A
+dss_el_martillo.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-10
+dss_el_martillo.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 6,2
+dss_el_martillo.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 3,6
+dss_el_martillo.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,33
+dss_el_martillo.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,9
+dss_el_martillo.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14,9
+dss_el_martillo.psv ->> HORIZONTE->LIMO 2-50 (%)....: 17,8
+dss_el_martillo.psv ->> HORIZONTE->AMF 50-100 (%)...: 4,2
+dss_el_martillo.psv ->> HORIZONTE->AF 100-250 (%)...: 11,2
+dss_el_martillo.psv ->> HORIZONTE->AM 250-500 (%)...: 15,1
+dss_el_martillo.psv ->> HORIZONTE->AG 500-1000 (%)..: 23,4
+dss_el_martillo.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 11,6
+dss_el_martillo.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0
+dss_el_martillo.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 20,9
+dss_el_martillo.psv ->> HORIZONTE->PH PASTA.........: -
+dss_el_martillo.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,2
+dss_el_martillo.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 17,8
+dss_el_martillo.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1,6
+dss_el_martillo.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2
+dss_el_martillo.psv ->> HORIZONTE->CI ME/100G-K +...: 0,5
+dss_el_martillo.psv ->> HORIZONTE->CI ME/100G-H +...: 0,9
+dss_el_martillo.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20,1
+dss_el_martillo.psv ->> HORIZONTE->CIC ME/100G(T)...: 21,0
+dss_el_martillo.psv ->> HORIZONTE->SAT.B % (S/T)....: 95,7

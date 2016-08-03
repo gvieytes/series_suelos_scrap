@@ -1,0 +1,203 @@
+--------------------------------------------------------------------------------
+SERIE SANTIAGO Símbolo: Sg
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Peludertes árgicos.
+Muestra un microrrelieve gilgai lineal tenue, con ciclos de 4-7 m y altibajos de hasta 5-10 cm.
+Suelo negro hasta los 60-80 cm en el bajo del gilgai y 10-30 cm en la cresta, ligeramente erosionado y moderadamente bien drenado.
+En el bajo del gilgai tiene un epipedón franco-arcillo-limoso y un horizonte argílico arcillo-limoso, con concreciones calcáreas que aparecen entre los 35 y 55 cm.
+Son suelos desarrollados en materiales lacustres (limos calcáreos), arcillo-limosos y ligeramente alcalinos.
+Perfil tipo: ER1-39C
+Fecha: 10-VIII-1972
+Ubicación: Area Muestra Hernandarias (foto IR 469-51) - Dpto. La Paz.
+Reconocedores: O.A.Foti; G.W. van Barneveld.
+A1: 00-19 cm; negro (10YR 2,5/1) en húmedo y pardo grisáceo muy oscuro (10YR 3.5/1) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; muy duro en seco y friable en húmedo; barnices ("humic skins") escasos, muy finos; concreciones calcáreas escasas, duras, de arrastre; límite claro, suave.
+B21t: 19-47 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes medios, moderados; extremadamente duro en seco y firme en húmedo barnices ("clay-humic skins") escasos; caras defricción ("slickensides") escasas, finas; vestigio de moteados de hierro; límite gradual, suave.
+B22ca: 47-73 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares y cuneiformes medios, moderados; extremadamente duro en seco y firme en húmedo; caras de fricción ("slickensides") comunes, finas y poco intersectadas; concreciones calcáreas de hasta 1 mm de diámetro, dura, escasas; vestigios de moteados de hierro-manganeso; límite gradual, suave.
+B3ca: 73-98 cm; pardo oscuro (7,5YR 3,5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares, gruesos, débiles; extremadamente duro en seco y firme en húmedo; caras de fricción ("slickensides") comunes, finas y poco intersectadas; concreciones calcáreas de hasta 2 cm comunes, duras y semiduras; vestigios de moteados de hierro-manganeso; presencia de material del horizonte superior penetrado en grietas antiguas; límite difuso, suave.
+Cca: 98 cm +; pardo (7,5YR 5,5/4) en húmedo; arcillo-limoso; masivo con tendencia a bloques angulares irregulares inherentes al material; extremadamente duro en seco y firme en húmedo; caras de fricción ("slickensides") comunes, medias y poco intersectadas; concreciones calcáreas e hasta 2 cm, comunes; cristales de yeso comunes; moderada cantidad de carbonatos libres en la masa; moteados de hierro-manganeso escasos, finos y precisos.
+Variabilidad de rasgos
+La variabilidad está determinada por el proceso de expansión y contracción del material arcilloso que da lugar a la formación del microrelieve gilgai y en menor grado, a la erosión.
+Este microrelieve generalmente es tenue y sólo se observa en campos con vegetación natural (monte) y con una pendiente de más de 2 %.
+En el bajo del gilgai, el epipedón varía entre 10-18 cm de espesor y está moderadamente autoestructurado. Tiene 33-37 % de arcilla y normalmente entre 4,5 y 5,5 % de materia orgánica.
+En la cresta del gilgai, el epipedón varía entre 05-15 cm; tiene menos materia orgánica y es de color más claro.
+El horizonte B2, argílico, solo existe en el bajo del gilgai, tiene 40-48 % de arcilla y una estructura generalmente prismática. Las caras de fricción ("slickensides"), se encuentran a partir del B21t hasta los 100 cm de profundidad. Cuando el B2 está seco, presenta grietas de hasta 3 cm de ancho que se extienden hasta la base del epipedón o hasta la superficie cuando el suelo está erosionado.
+El calcáreo, en concreciones duras de hasta 2 cm, aparece entre los 35-55 cm en el bajo del gilgai y desde la superficie en la cresta del mismo. Por la labranza y/o erosión, también es posible encontrar concreciones en el epipedón del bajo del gilgai (calcáreo de arrastre).
+El porcentaje de carbonatos varía considerablemente de 1,5 % en el epipedón hasta 10 % en el material madre. En los horizontes B3 y C es común la presencia de cristales de yeso (sulfato de calcio) a veces en forma de rosetas. Es un suelo neutro en superficie y ligeramente alcalino en el subsuelo, con 6-10 % de sodio intercambiable.
+El color del C varía de 7,5YR 4/4 a 6/4 y puede mostrar gley fósil. Tiene alrededor de 44-46 % de arcilla y 1 a 2 % de arena.
+Fases
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial moderado. Permeabilidad muy lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Santiago está levemente erosionada y corre un moderado a gran peligro de erosión en forma laminar, en surcos y cárcavas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Santiago
+ER1-39C
+Nº de registro
+ 422
+ 423
+ 424
+ 425
+ 426
+Horizonte
+ A1
+ B21t
+ B22ca
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-08
+ 24-38
+ 54-67
+ 84-98
+ 100-120
+Mat.organica (%)
+ 5.5
+ 2.3
+ 1.8
+ 1.2
+ 0.6
+N (%)
+ 0.19
+ 0.17
+ 0.17
+ 0.07
+ 0.03
+C/N
+ 12
+ 14
+ 11
+ 12
+ 11
+T
+ < 2 u
+ 35.0
+ 42.0
+ 47.7
+ 45.9
+ 45.5
+E
+ 2-20 u
+ 22.5
+ 25.0
+ 22.6
+ 22.2
+ 23.0
+X
+ 2-50 u
+ 60.9
+ 53.5
+ 47.8
+ 50.9
+ 52.5
+T
+ 50-100 u
+ 1.1
+ 1.1
+ 1.1
+ 0.9
+ 0.5
+U
+ 100-500 u
+ 1.9
+ 2.0
+ 2.0
+ 1.6
+ 0.8
+R
+ 500-1000 u
+ 1.1
+ 1.4
+ 1.4
+ 0.7
+ 0.7
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 1.2
+ 0.2
+ 0.4
+ 7.2
+ 10.0
+pH H2O
+ 7.2
+ 7.5
+ 7.6
+ 7.9
+ 8.0
+pH ClK
+ 6.5
+ 6.6
+ 6.7
+ 6.8
+ 7.1
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 42.5
+ 42.5
+ 47.9
+ 45.6
+ 42.1
+d
+Ca++
+ -
+ -
+ -
+ -
+ -
+C
+e
+a
+Mg++
+ -
+ -
+ -
+ -
+ -
+t
+c
+i
+a
+K+
+ 3.5
+ 1.0
+ 1.0
+ 0.9
+ 1.1
+o
+m
+n
+b
+Na+
+ 0.3
+ 0.4
+ 1.6
+ 2.7
+ 2.3
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 0.7
+ 0.9
+ 3.3
+ 5.9
+ 5.5
+Equivalente de humedad (%)
+ 40.0
+ 42.6
+ 43.7
+ 44.5
+ 45.7

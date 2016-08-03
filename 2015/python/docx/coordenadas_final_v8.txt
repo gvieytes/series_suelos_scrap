@@ -1,0 +1,849 @@
+Campo El Reposo, 4 Km al Este de Enrique Carbo, Departamento Cuchilla Redonda, Departamento Gualeguaychu
+S345826
+O592919
+Colonia Arrua, Departamento Alcaraz 2, Departamento La Paz
+S311322
+O602138
+Departamento Gualeguay
+S345553
+O602607
+Departamento Tala
+S333809
+O603710
+Colonia General Alvear, Departamento Diamante
+S320400
+O611900
+Corrales, Departamento Victoria
+S332357
+O615056
+Establecimiento Los Nogales, Departamento Antonio Tomas- Departamento Parana
+S323459
+O616000
+Departamento Gualeguay
+S345729
+O602459
+Establecimiento Santa Maria, Departamento Diamante
+S335444
+O612143
+Paso Birrinchin, Departamento Federal
+S310150
+O591204
+El Supremo, Departamento Gualeguay
+S344950
+O603956
+Departamento Feliciano
+S323613
+O595806
+Macia, Departamento Tala
+S334955
+O603658
+Area Muestra San Carlos, Departamento La Paz
+S311331
+O602100
+10 Km al N de Aldea San Antonio, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S345829
+O592857
+12 km al SO de Ceibas, Departamento Islas del Ibicuy
+S342901
+O591212
+3,3 Km al sudeste de Escrina, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S345836
+O593137
+Estancia Santa Maria, Departamento San Salvador
+S322157
+O593000
+Establecimiento El Mariscal, 6 Km SO de Nogoya, Departamento Nogoya
+S333457
+O601243
+San Lorenzo, Departamento Islas del Ibicuy
+S341915
+O591015
+Departamento Raices, Departamento Villaguay
+S320534
+O604413
+Las Masitas, 10 Km al sudoeste de Gilbert. Departamento San Antonio, Departamento Gualeguaychu
+S345836
+O592837
+Establecimiento Isla Don Antonio, Departamento Islas del Ibicuy
+S341917
+O590956
+Departamento quinto Sauce, Departamento Gualeguay
+S344953
+O603934
+16 Km al este de Enrique Carbo, Departamento Cuchilla Redonda, Departamento Gualeguaychu
+S345848
+O592820
+4.500 m al NE de Colonia Elia, Departamento Uruguay
+S331955
+O594104
+1 Km al N de la ruta 20 y acceso a Aldea San Antonio, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S345903
+O592808
+Dos Tranqueras, 7 Km al NE de Perdices, Departamento Gualeguaychu
+S344141
+O592010
+Departamento Feliciano
+S323631
+O595714
+Durazno, Departamento Tala, Departamento Parana
+S321426
+O612918
+11 km al SE de la localidad de Medanos, Departamento Islas del Ibicuy
+S343401
+O605514
+500 m al NE de Villa Paranacito, Departamento Islas del Ibicuy
+S341557
+O592030
+INTA Concordia, Departamento Concordia
+S323524
+O595857
+Pueblo Arrua, Departamento La Paz
+S311355
+O602032
+Colonia Avigdor, Departamento La Paz
+S324900
+O603459
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay
+S333055
+O594904
+Estacion Bovril, Departamento La Paz
+S323923
+O603312
+Alrededores de Aldea Brasilera, Departamento Diamante
+S320600
+O612400
+Don Ramon, Departamento Raices Departamento Villaguay
+S320651
+O605823
+Puerto Yerua, Departamento Concordia
+S322800
+O595800
+Establecimiento Campo Nuevo, Departamento Colon
+S334630
+O595119
+Chilcas, Departamento Victoria
+S333707
+O601007
+Estacion Minones, Departamento Federal
+S311759
+O592800
+Chilcas, Departamento Victoria
+S333843
+O600900
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay
+S333055
+O594604
+5,75 km al ESE de Medanos, Departamento Islas del Ibicuy
+S343505
+O605356
+Estancia Santa Teresita, Departamento Parana
+S321429
+O612857
+Estancia El Guasuncho, Departamento Islas del Ibicuy
+S341923
+O590938
+4 Km al O de la ciudad de Chajari
+S311433
+O580030
+Establecimiento Las Tres Marias, Departamento Tala, Departamento Parana
+S321436
+O612837
+Estancia La Luisa, Departamento Parana
+S321448
+O612821
+Area muestra Colonia Nueva, Departamento Parana
+S321503
+O612809
+38 Km al SE de San Jaime de la Frontera, departamento federacion
+S305948
+O580447
+Estacion Conscripto Bernardi, Departamento Federal
+S325709
+O605436
+Establecimiento La Asuncion, Departamento Diamante
+S335459
+O612053
+Colonia Isletas, Departamento Diamante
+S335538
+O612026
+Estancia San Julio, Departamento Crucecitas Tercera, Departamento Nogoya
+S333633
+O601136
+El Supremo, Departamento Gualeguay
+S345000
+O603914
+Las Cabezas, Departamento Gualeguay
+S345012
+O603857
+Campo Berisso, 2,5 Km al norte de Cuchilla Redonda, Departamento Cuchilla Redonda, Departamento Gualeguaychu
+S345920
+O592801
+Chilcas, Departamento Victoria
+S333844
+O601115
+a 1 km al NO de Villa Paranacito, Departamento Islas del Ibicuy
+S341642
+O591916
+Estancia Don Guillermo, Departamento San Salvador
+S322301
+O592844
+Hinojal, Departamento Victoria
+S334431
+O615547
+Celulosa S.A. Isla Victoria, Departamento Islas del Ibicuy
+S341932
+O590923
+Departamento Montoya, Departamento Victoria
+S332400
+O601300
+Don Ramon, Departamento Raices Departamento Villaguay
+S320700
+O605745
+Durazno, Departamento Tala
+S315955
+O604259
+El Tigrecito, Departamento Raices, Departamento Villaguay
+S320724
+O606017
+10 km al SE de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+S341944
+O590910
+Campo Sr. Franco, Departamento Chiqueros, Departamento Nogoya
+S333634
+O601351
+El Relincho, Departamento Federal
+S310205
+O591115
+16 km al SO de Gualeguay, Departamento Islas del Ibicuy
+S341958
+O590901
+Hinojal, Departamento Victoria
+S334607
+O615440
+12,5 km al SO de Ceibas, Departamento Islas del Ibicuy
+S343005
+O591054
+2,75 km al NNO de Puerto San Juan, Departamento Islas del Ibicuy
+S342013
+O590857
+El Estribo, Departamento Gualeguay
+S345027
+O603845
+Establecimiento Isla Victoria, Departamento Islas del Ibicuy
+S342029
+O590857
+1,2 km al SO de El Empalme, Departamento Islas del Ibicuy
+S342044
+O590902
+10,25 km al NNE de Puerto San Juan, Departamento Islas del Ibicuy
+S342058
+O590912
+La Susana, Departamento Algarrobitos, Departamento Nogoya
+S334155
+O615559
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+S342110
+O590925
+Establecimiento El Potrillo, Departamento Parana
+S321520
+O612803
+Establecimiento El Cuadro, dto Montoya, Departamento Victoria
+S332400
+O601000
+Departamento Quebracho, Departamento Parana
+S320953
+O615332
+San Jose, Departamento Federal
+S310244
+O591050
+San Pablito, Departamento Don Cristobal, Departamento Nogoya
+S335602
+O595915
+La Nueva, Departamento Gualeguaychu
+S345938
+O592800
+5 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341555
+O604959
+12 km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341509
+O604909
+Establecimiento El Retiro, Departamento Diamante
+S335621
+O612035
+
+
+
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341548
+O604842
+El Supremo, Departamento Gualeguay
+S345044
+O603838
+16 km al S de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+S342118
+O590941
+Estancia El Talar, Departamento Parana
+S321538
+O612802
+Establecimiento El Terron, Departamento Rincon de Nogoya, Departamento Victoria
+S331355
+O600359
+La Emiliana, Departamento Gualeguay
+S345102
+O603838
+Km 19, ruta N 14, Departamento Ceibas, Departamento Gualeguaychu
+S345955
+O592806
+15 km al NE de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341631
+O604851
+3 Km al N-NO de Enrique Carbo, Departamento Cuchilla Redonda, Departamento Gualeguaychu
+S350011
+O592817
+1,5 Km al este de Escrina, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S350023
+O592833
+San Ramon, 3 Km al N. de la estacion Esmeralda
+S304756
+O595341
+11,25 km al SO de Ceibas, Departamento Islas del Ibicuy
+S343111
+O591214
+Estancia Los Amigos, 12 Km al sudoeste de Gilbert, Departamento San Antonio, Departamento Gualeguaychu
+S350032
+O592852
+La Celmira, Departamento Costa Uruguay Norte, Departamento Gualeguaychu
+S350036
+O592913
+4 km al sudeste de Ea. Retiro, Departamento Dos Hermanas, Departamento Gualeguaychu
+S344959
+O590859
+1,5 Km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341700
+O604932
+8 km al NNE del Puerto San Juan, Departamento Islas del Ibicuy
+S342123
+O590959
+6,25 km al ESE de Medanos, Departamento Gualeguaychu
+S350034
+O592935
+Estacion Experimental Agropecuaria del INTA Parana, Departamento Parana
+S321555
+O612807
+San Antonio Nu, Departamento Federal
+S310327
+O591059
+8 Km. al NO de la ciudad de San Jose de Feliciano
+S313557
+O591501
+26 Km al SO de San Jaime de la Frontera, departamento federacion
+S310006
+O580356
+Departamento Feliciano
+S323717
+O595650
+Pueblo La Perla, Departamento Concordia
+S323548
+O595758
+Estancia General Nazar, Departamento Gualeguay
+S345119
+O603843
+Esc. Agrotecnica Las Delicias, Departamento Parana
+S321611
+O612818
+El Pilar, Departamento Diamante
+S335547
+O612149
+2,5 Km al E-NE de Escrina, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S350028
+O592956
+Estancia San Julian, Departamento Gualeguay
+S345135
+O603854
+Corrales, Departamento Victoria
+S332501
+O614939
+Departamento Feliciano
+S323803
+O595712
+4 Km al SE de la ciudad de Gualeguaychu, Departamento Costa Uruguay Norte, Departamento Gualeguaychu
+S350018
+O593014
+General Nazar, Departamento Gualeguay
+S345147
+O603910
+Arroyo Durazno, Departamento Tala
+S320131
+O604153
+Estacion Hasenkamp, Departamento Parana
+S322858
+O600857
+Quebrachitos, Departamento Victoria
+S333259
+O615100
+4 km al noroeste del almacen La Querencia, Departamento La Paz
+S311427
+O602022
+6.5 Km aprox. de la localidad de Villa Elisa, Departamento Colon
+S335009
+O593557
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341700
+O605026
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341631
+O605107
+Area Muestra San Carlos, Departamento La Paz
+S311354
+O602031
+a 18,5 km al SO de Villa Paranacito, Departamento Islas del Ibicuy
+S341754
+O591945
+21,5 km el SO de Villa Paranacito, Departamento Islas del Ibicuy
+S341754
+O592117
+a 22 km al SO de Villa Paranacito, Departamento Islas del Ibicuy
+S341642
+O592146
+Aldea Chavez, Departamento Diamante
+S335200
+O614000
+Corrales, Departamento Victoria
+S332607
+O615058
+Area muestra Aldea Santa Maria, Departamento Parana
+S322359
+O600000
+Estancia Las Rosas, Departamento Islas del Ibicuy
+S342125
+O591018
+25 Km aprox al NE de Villaguay, ,.-.Departamento Villaguay
+S320828
+O605717
+Estacion La Calandria, Departamento Federal
+S311200
+O592059
+Durazno, Departamento Tala
+S320132
+O604406
+Esc. Agrotecnica La Carola, Departamento Algarrobitos, Departamento Nogoya
+S334331
+O615452
+25 Km NE de ciudad de Villaguay, Departamento Villaguay
+S320751
+O605835
+3.3 km aprox. de Estacion La Clarita, Departamento Colon
+S320125
+O593619
+Altamirano Norte, Departamento Tala
+S335600
+O604900
+Las Liebres, Departamento Diamante
+S335650
+O612116
+Estancia La Emiliana, Departamento Gualeguay
+S345156
+O603929
+1 km al SE de El Empalme, Departamento Islas del Ibicuy
+S342122
+O591037
+Maria Teresa, Departamento Gualeguay
+S345200
+O603950
+7 Km al SO de San Jaime de la Frontera, departamento federacion
+S310052
+O580332
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana
+S321623
+O612833
+Colonia Ensayo, Departamento Diamante
+S335650
+O612210
+Area Piloto Paso Gallo, Departamento Villaguay
+S320852
+O606045
+10 Km al NE de localidad Perdices, Departamento Perdices, Departamento Gualeguaychu
+S344141
+O591710
+Departamento Tala
+S333913
+O603553
+Departamento Gualeguay
+S345730
+O602716
+El Mirador, Departamento Don Cristobal- Departamento Nogoya
+S335603
+O600131
+La Emiliana, Departamento Gualeguay
+S345158
+O604012
+10 km al NO del Est. Forestal Mazaruca, Departamento Islas del Ibicuy
+S342500
+O604359
+La Querencia, Departamento Pehuajo al Sur, Departamento Gualeguaychu
+S350003
+O593027
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341548
+O605116
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+S342116
+O591054
+Estancia Don Guillermo, Departamento San Salvador
+S322407
+O593002
+4 Km al O-NO de Perdices, Departamento Dos Hermanas, Departamento Gualeguaychu
+S344959
+O590559
+a 800 m al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy
+S342107
+O591109
+Establecimiento del Sr. Esteban Elgenreder, Departamento Parana
+S321632
+O612852
+Las Cabezas, Departamento Gualeguay
+S345152
+O604033
+Estacion Experimental INTA Parana, Departamento Parana
+S321636
+O612913
+5 Km de San Jaime de la Frontera, departamento federacion
+S310138
+O580354
+Estancia Las Flores, Departamento Gualeguay
+S345142
+O604051
+Pueblo Bellocq, Departamento La Paz
+S311530
+O601926
+Departamento Villaguay
+S322109
+O590445
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria
+S331531
+O600252
+Estancia Las Rosas, Departamento Islas del Ibicuy
+S342054
+O591122
+Establecimiento La Stella. Departamento Lucas al Sud, Departamento Villaguay
+S320901
+O605823
+500 m sudoeste del casco de la Ea. La Susana, Departamento Algarrobitos, Departamento Nogoya
+S334332
+O615707
+Estancia La Constancia, Departamento Gualeguay
+S345127
+O604104
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+S342040
+O591130
+a 2 km al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy
+S342025
+O591133
+Doll, Departamento Diamante
+S334138
+O613432
+San Julian, Departamento Gualeguay
+S342432
+O604439
+a 1,5 km al Oeste de la parada km 340 FCGU, Departamento Islas del Ibicuy
+S342009
+O591132
+Establecimiento Sr. Galetto, Departamento Parana
+S321634
+O612934
+a 1,5 km al SO de la Escuela Provincial N 74, Departamento Islas del Ibicuy
+S341954
+O591127
+La Avanzada, Departamento Concordia
+S323642
+O595743
+Departamento Feliciano
+S323823
+O595806
+Establecimiento Los Laureles, Departamento Tala, Departamento Parana
+S321628
+O612954
+Estancia Los Cerrillos, Departamento Diamante
+S335621
+O612251
+Estancia Los Cerrillos, Departamento Diamante
+S335538
+O612300
+10 km al SE de Gualeguay
+S345111
+O604113
+Establecimiento tambero Don Quicho, Departamento Parana
+S321618
+O613011
+San Juan Chico, Departamento Federal
+S310356
+O591138
+Arroyo Guardamonte, Departamento Tala
+S335500
+O604200
+Estancia El Malambo, Departamento La Paz
+S311523
+O602300
+Colonia Mandisovi, Departamento Federacion
+S310020
+O580443
+Departamento Tala
+S334019
+O603712
+Egido de Gral. Ramirez, Departamento Diamante
+S335459
+O612233
+Establecimiento El Lucero, Departamento Parana
+S321603
+O613024
+Maria Luisa, Departamento Federal
+S310356
+O591230
+Departamento Feliciano
+S323805
+O595900
+3,5 km al SO de Estacion Minones, Departamento Federal
+S311759
+O592500
+La Verde, Departamento Villaguay
+S320852
+O610202
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy
+S341940
+O591117
+Paso Gallo, Departamento Concordia
+S310338
+O593445
+Puesto de Tabla, Departamento Federal
+S310327
+O591309
+Estacion Nueva Vizcaya, Departamento Federal
+S310159
+O592400
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana
+S321547
+O613032
+3,5 Km al SE de estacion Palavecino, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S345947
+O593036
+Arroyo Don Gonzalo, Departamento La Paz
+S311532
+O602138
+Estancia Don Guillermo, Departamento San Salvador
+S322301
+O593118
+7 km al este de la ciudad de Gualeguay, Departamento Gualeguay
+S345053
+O604115
+Estancia El Talar, Departamento Parana
+S321529
+O613035
+Departamento Tala
+S333913
+O603829
+Campo sucesion Vizconti. 800 m ENE de Zenon Roca, Departamento Villaguay
+S320828
+O610229
+7 Km al E de San Jaime de la Frontera, departamento federacion
+S310158
+O580447
+5,7 km al sudeste de Medanos, Departamento Islas del Ibicuy
+S343611
+O605516
+9,5 km al sudoeste de Puerto Ruiz, Departamento Islas del Ibicuy
+S344659
+O603700
+11,5 km al SO de Ceibas, Departamento Islas del Ibicuy
+S343005
+O591332
+Aldea Protestante, Departamento Diamante
+S335818
+O612621
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria
+S331532
+O600507
+Est. Maria Angelica, Departamento Antonio Tomas, Departamento Parana
+S323459
+O615700
+Establecimiento Sr. Rausch, Departamento Parana
+S321511
+O613031
+Escuela N 121 Sor Juana Ines de la Cruz, Departamento Tala, Departamento Parana
+S321455
+O613021
+Puerto Algarrobo, Departamento La Paz
+S312200
+O602500
+5 km al SO de la localidad de Ibicuy, Departamento Islas del Ibicuy
+S341509
+O605049
+Octavo Distrito Albardon, Departamento Gualeguay
+S345035
+O604111
+3km al N del Puerto San Juan, Departamento Islas del Ibicuy
+S341929
+O591103
+El Potrero, Departamento Costa Uruguay Norte, Departamento Gualeguaychu
+S345929
+O593038
+Estacion Experimental Agropecuaria Concordia INTA, Departamento Concordia
+S323727
+O595823
+5,75km al SO de la localidad de Medanos, Departamento Islas del Ibicuy
+S343505
+O605634
+Estancia Las Cabezas, Departamento Gualeguay
+S345019
+O604101
+Aldea Camarero, Departamento Diamante
+S335600
+O613159
+Estancia El Cinco, Departamento Gualeguay
+S345807
+O603548
+6 km al este de Urdinarrain, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S345911
+O593034
+de L. Lapuyade, Departamento Raices Oeste, Departamento Villaguay
+S320710
+O605729
+Rancho Grande, Departamento Raices, Departamento Villaguay
+S320724
+O605929
+La Entrerriana, Departamento Federal
+S333059
+O594607
+Mendez, Departamento Gualeguay
+S345005
+O604047
+Paso Gallo, Departamento Concordia
+S310338
+O593145
+Aldea San Alfonso, Departamento Diamante
+S335200
+O613559
+San Buenaventura, Departamento Federal
+S310245
+O591318
+1,5 km al SO de la Estancia Sagastume, Departamento Islas del Ibicuy
+S341921
+O591047
+Hinojal, Departamento Victoria
+S334608
+O615655
+3.7 Km al N de San Jaime de la Frontera, departamento federacion
+S310140
+O580540
+Establecimiento Don Antonio, Departamento Islas del Ibicuy
+S341916
+O591029
+San Julian, Departamento Gualeguay
+S342432
+O604139
+2.5 Km al NE de San Jaime de la Frontera, departamento federacion
+S310054
+O580604
+San Pablito, Departamento Don Cristobal, Departamento Nogoya
+S335426
+O600022
+Campo Sr. Nardone, Departamento Gualeguay
+S344956
+O604028
+5 Km al Oeste de Ea. San Simon, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S345855
+O593025
+Departamento La Paz
+S324804
+O602035
+Pajonal, Departamento Victoria
+S333818
+O614319
+Establecimiento Forestal Mazaruca, Departamento Islas del Ibicuy
+S342500
+O604659
+La Palmita, Departamento Federal
+S310206
+O591253
+Area Muestra Hernandarias, Departamento La Paz
+S311523
+O602516
+Campo del Sr. Montrull, Departamento Espinillo. Departamento Parana
+S321441
+O613007
+Departamento Feliciano
+S323719
+O595924
+Holt
+S335032
+O593527
+Corrales, Departamento Victoria
+S332501
+O615215
+Estancia El Aguara, Departamento La Paz
+S311531
+O602138
+Area muestra Arroyo Yacare, Departamento La Paz
+S311427
+O602254
+7 km al norte de Cerrito, Departamento Tala, Departamento Parana
+S321432
+O612949
+22 Km al SE de San Jaime de la Frontera, departamento federacion
+S310008
+O580542
+Parana del INTA, Departamento Parana
+S320900
+O612800
+7 Km noreste de ruta 20, Departamento Pehuajo al Norte, Departamento Gualeguaychu
+S345841
+O593010
+Colonia El Sauce, sobre ruta nacional N 14, Departamento Uruguay
+S332300
+O593259
+7 Km al E del cruce de rutas Nac. 18 y Pcial 32, Departamento Quebracho, Departamento Parana
+S321427
+O612929
+Establecimiento La Stella. Departamento Lucas al Sud, Departamento Villaguay
+S320700
+O605901
+Colonia Viraro, Departamento La Paz
+S311331
+O602216
+El Redomon, Departamento Concordia
+S325341
+O594303
+Colonia oficial N 5, Departamento Concordia
+S323728
+O595929
+Departamento Feliciano
+S323633
+O595902
+INTA Concordia, Departamento Concordia
+S323646
+O600012
+INTA Concordia, Departamento Concordia
+S323551
+O600000
+5 Km al Oeste de localidad Zenon Roca, Departamento Villaguay
+S320813
+O605937
+Departamento Uruguay
+S333436
+O593513
+Departamento Uruguay
+S333436
+O593213
+Departamento La Paz
+S324940
+O601929
+Departamento La Paz
+S324941
+O602143
+Ciudad de San Jose de Feliciano
+S313733
+O591355
+Ciudad de San Jose de Feliciano
+S313734
+O591608

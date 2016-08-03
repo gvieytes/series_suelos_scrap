@@ -1,0 +1,384 @@
+
+--------------------------------------------------------------------------------
+SERIE EL RESUELLO Símbolo: ERs
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Hapludoles ácuicos.
+
+Suelo aluvial, moderadamente sódico y moderadamente salino, desarrollado a partir de una sucesión de sedimentos marinos y continentales.
+
+
+Perfil tipo: 317C
+Fecha: 22-III-1976
+Ubicación: 12 km al NO de la localidad de Ibicuy (Hoja IGM 3360-29-4) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-50 cm; negro pardusco (10YR 3/2) en húmedo; arcilloso; estructura en prismas irregulares medios, moderados, que rompen en bloques menores; duro; muy firme; plástico; adhesivo; microconcreciones calcáreas comunes; moteados escasos, finos, precisos; raíces abundantes: límite inferior claro, suave.
+
+IIC1: 50-89 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; microconcreciones calcáreas abundantes; concreciones ferromanganésicas comunes; moteados abundantes, gruesos, sobresalientes; raíces comunes; límite inferior abrupto, suave.
+
+IIIC2: 89-101 cm; gris claro (10YR 8/1) en húmedo; arenoso; masivo; blando; muy friable; no plástico, no adhesivo; moteados escasos, medios, precisos; raíces escasas; límite inferior abrupto, suave.
+
+IVC3: 101-124 cm; pardo amarillo brillante (10YR 6/6) en húmedo; arenoso; estructura laminar fina y muy fina; muy friable; no plástico, no adhesivo; moteados escasos, finos, precisos; límite abrupto y suave.
+
+VC4: 124-132 cm; amarillo anaranjado opaco (10YR 6/4) en húmedo; arenoso; estructura laminar fina y muy fina; muy friable; no plástico, no adhesivo; límite inferior abrupto, suave.
+
+VIC5: 132-146 cm; amarillo anaranjado (10YR 7/8) en húmedo; arenoso; estructura laminar fina y muy fina; muy friable; no plástico, no adhesivo; límite inferior abrupto, suave.
+
+VIIC6: 146-164 cm; amarillo anaranjado claro (10YR 8/4) en húmedo; arenoso; estructura laminar fina; muy friable; no plástico, no adhesivo.
+
+
+Variabilidad de rasgos
+
+El horizonte superficial es de 50 cm de espesor, color negro pardusco, medianamente provisto de materia orgánica, arcilloso, de estructura prismática irregular moderada. Le sigue una sucesión de capas cuyas texturas varían de franco-arcillo-limosa a arenosa en profundidad. Las concreciones ferromanganésicas y las microconcreciones calcáreas se hallan concentradas en los dos primeros estratos. Los moteados son abundantes y sobresalientes en la capa subsuperficial.
+
+El perfil es moderadamente salino entre los 50 y 90 cm de profundidad, con predominio de sulfatos y cloruros de sodio en el extracto de saturación. Salvo el horizonte superficial, todo el perfil tiene entre 13 y 20 % de sodio de intercambio. Por alcalinidad sódica este suelo ha sido clasificado A1 12.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Este suelo es de permeabilidad muy lenta y pobremente drenado.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Resuello
+
+317C INTA Castelar
+
+
+
+
+
+
+
+N° de registro
+
+
+
+
+
+
+
+Horizonte
+ A1
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+ VIC5
+ VIIC6
+Profundidad (cm)
+ 10-20
+ 58-84
+ 92-100
+ 108-120
+ 126-130
+ 136-142
+ 148-156
+Mat. orgánica (%)
+ 1.91
+ 0.03
+ -
+ -
+ -
+ -
+ -
+C (%)
+ 1.11
+ 0.02
+ -
+ -
+ -
+ -
+ -
+N (%)
+ 0.120
+ -
+ -
+ -
+ -
+ -
+ -
+C/N
+ 9
+ -
+ -
+ -
+ -
+ -
+ -
+
+T <2 u
+
+ 59.6
+
+ 30.7
+
+ 8.0
+
+ 7.0
+
+ 6.5
+
+ 6.0
+
+ 4.0
+E 2-20 u
+ 30.7
+ 36.6
+ 0.6
+ 0.3
+ 0.3
+ 0.2
+ 0.2
+X 2-50 u
+ 33.6
+ 51.3
+ 1.3
+ 1.0
+ 0.8
+ 0.5
+ 0.5
+T 50-74 u
+ 0.2
+ 0.8
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+U 74-100 u
+ 0.3
+ 1.1
+ 3.1
+ 1.7
+ 3.8
+ 3.2
+ 3.0
+R 100-250 u
+ 5.7
+ 15.5
+ 87.4
+ 90.1
+ 88.7
+ 90.1
+ 92.3
+A 250-500 u
+ 0.6
+ 0.2
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0
+ 0.4
+ 0
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 52.5
+ 27.0
+ 1.5
+ 2.8
+ 2.6
+ 2.6
+ 1.5
+Resistencia de la pasta (Ohms/cm)
+ 980
+ 483
+ 8668
+ 1918
+ 2132
+ 2203
+ 1492
+pH en pasta
+ 5.9
+ 7.5
+ 7.6
+ 7.2
+ 7.4
+ 6.8
+ 6.9
+pH en agua (1:2,5)
+ 7.3
+ 8.4
+ 7.9
+ 8.0
+ 7.6
+ 7.5
+ 7.2
+pH en KCl (1:2,5)
+ 5.1
+ 6.8
+ 6.5
+ 6.3
+ 6.3
+ 6.3
+ 6.4
+Conductividad (mmhos/cm)
+ 1.60
+ 8.12
+ -
+ -
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 19.4
+ -
+ 1.65
+ 1.70
+ 1.50
+ 2.05
+ 1.55
+
+Mg++
+ 13.4
+ -
+ 0.60
+ 0.80
+ 1.05
+ 0.60
+ 0.60
+
+Na[+]
+ 3.2
+ 4.8
+ 0.40
+ 0.35
+ 0.45
+ 0.55
+ 0.40
+
+K[+]
+ 0.7
+ 0.4
+ 0.05
+ 0.05
+ 0.10
+ 0.10
+ 0.05
+
+H[+]
+ 8.7
+ -
+ -
+ 0.50
+ 0.40
+ 0.80
+ 0.60
+Na+ % del valor T
+ 8
+ 21
+ 16
+ 13
+ 16
+ 16
+ 17
+Suma de bases, m.e./100 gr (S)
+ 36.7
+ -
+ 2.70
+ 2.90
+ 3.10
+ 3.30
+ 2.60
+C.I.C., m.e./100 gr (T)
+ 40.8
+ 22.4
+ 2.45
+ 2.60
+ 2.75
+ 3.35
+ 2.40
+Saturación con bases, (%) (S/T)
+ 90
+ -
+ 100
+ 100
+ 100
+ 99
+ 100
+
+
+EXTRACTO DE SUELO SATURADO
+
+Serie El Resuello
+
+317 C
+
+Horizonte - Capas
+ A1
+Profundidad de la muestra, cm
+ 10-20
+pH
+Conductividad (mmhos/cm)
+ 7.9
+ 8.12
+Cationes y aniones del extracto de suelo
+Saturado, m.e./L
+
+ Ca++
+ Mg++
+ Na+
+ K+
+
+ CO3=
+ HCO3-
+ SO4=
+ Cl-
+
+
+
+ 8.2
+ 6.5
+ 56.0
+ 0.3
+
+ 0
+ 3.0
+ 35.8
+ 40.0
+R.A.S.
+P.S.I.
+ 20.66
+ 22.61
+

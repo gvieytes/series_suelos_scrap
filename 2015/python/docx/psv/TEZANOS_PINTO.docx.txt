@@ -1,0 +1,309 @@
+
+--------------------------------------------------------------------------------
+SERIE TEZANOS PINTO Símbolo: TP
+
+
+Pertenece a la familia "fina, mixta (t), térmica" de los Argiudoles ácuicos (Brunizems con B2t fuertemente desarrollado).
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-arcillo-limoso a franco-limoso, y un horizonte argílico oscuro, franco-arcillo-limoso a arcillo-limoso, con moteados de hierro-manganeso.
+
+Están desarrollados en loess calcáreo, de textura franco-limosa, con concreciones de calcáreo y calcáreo libre hasta 5 %.
+
+
+Perfil tipo: ER1-4C
+Fecha: 14-VII-1970
+Ubicación: EEA Paraná del INTA. (foto 448-37) - Dpto. Paraná.
+Reconocedores: G.R. Pellini; G.W. van Barneveld.
+
+
+Ap: 00-17 cm; gris muy oscuro (10YR 3.5/1) en húmedo; gris (10YR 5/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; ligeramente duro en seco; friable en húmedo; barnices; límite claro, suave.
+
+B21t: 17-34 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; pardo (7.5YR 5/2) en seco; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios y finos, moderados; muy duro en seco; friable en húmedo; barnices "clay humic skins" abundantes y medios, de color 7.5YR 3/2; moteados de hierro comunes, finos y precisos; chorreaduras de materia orgánica; límite gradual, suave.
+
+B22t: 34-63 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; pardo (7.5YR 5/2) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en prismas compuestos irregulares y bloques angulares irregulares, medios, moderados; muy duro en seco; friable en húmedo; barnices "clay humic skins" abundantes y medios; moteados de hierro comunes, finos y precisos; límite gradual, suave.
+
+B31: 63-86 cm; pardo oscuro (7.5YR 4/4) en húmedo; pardo (7.5YR 5/4) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, moderados; muy duro en seco; friable en húmedo; barnices "clay humic skins" escasos y finos; moteados de hierro escasos, finos y débiles; límite difuso, suave.
+
+B32: 86-104 cm; pardo oscuro (7.5YR 4/4) en húmedo; pardo (7.5YR 5/4) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios, débiles; friable en húmedo; barnices "clay humic skins" escasos y finos; límite difuso, ondulado.
+
+Cca: 104 cm + (115); pardo oscuro (7.5YR 4/4) en húmedo; pardo (7.5YR 5/4) en seco; franco-limoso; estructura masiva; friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 1 cm, comunes.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 90-115 cm. El epipedón mólico incluye los horizontes A1 y B1 ó A3 y, ocasionalmente, parte también del B21t.
+
+El espesor del A1 es de 08-15 cm, pero cuando se encuentra un horizonte A1 con un B1 ó A3, es de 15-22 cm. En muchos casos, el A3 yace directamente sobre el B21t con un límite casi abrupto. La estructura del A1 varía de granular a bloques subangulares y tiene 25-30 % de arcilla.
+
+El horizonte argílico, de estructura prismática compuesta que rompe en bloques subangulares, varía de 40-60 cm de espesor y posee entre 36-43 % de arcilla. Puede tener algunas caras de fricción pequeñas ("slickensides") y, en seco, se abre en grietas de hasta 1 cm de ancho y 10-20 cm de largo. Tiene moteados de hierro-manganeso escasos a comunes, finos y su color varía de 10YR 4/3 a 7.5YR 4/2-4/3.
+
+El calcáreo -en concreciones y libre en la masa- a veces se encuentra ya, en la parte inferior del horizonte B3 (a partir de 75-100 cm) y localmente, a mayor profundidad. Su porcentaje en el C varía de 1-5 % de la fracción menor de 2 mm. El C tiene 18-26 % de arcilla y 5-6 % de arena, principalmente muy fina. Su color es uniforme y varía de 7.5YR 5/4 a 4/4.
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá.
+
+
+Series similares y sus diferencias
+
+Se parece a las Series Oro Verde y General Racedo, del Dpto. Paraná, aunque ambas tienen un horizonte B2 más arcilloso y carbonatos a partir de la parte inferior del B2t ó en el B3 (Serie Oro Verde). Además, la Serie General Racedo está desarrollada en materiales loessoides retransportados, más arcillosos, cuya posición en el paisaje es distinta.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta a muy lenta. Capa freática muy profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Tezanos Pinto tiene una erosión actual leve. Su susceptibilidad a la misma, principalmente laminar, es moderada.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Tezanos Pinto
+
+ER1-4C
+NE de registro
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+Horizonte
+ Ap
+ B21t
+ B22t
+ B31
+ B32
+ Cca
+Profundidad (cm)
+ 03-15
+ 21-33
+ 29-57
+ 65-79
+ 88-100
+ 107-120
+Mat.organica (%)
+ 2.65
+ 1.53
+ 1.03
+ 0.69
+ 0.47
+ 0.47
+C/N
+ 10
+ 8
+ 8
+ 7
+ 6
+ 6
+
+T < 2 u
+
+ 27.60
+
+ 41.50
+
+ 34.60
+
+ 31.00
+
+ 27.60
+
+ 25.50
+E 2-20 u
+ 30.70
+ 25.30
+ 28.60
+ 32.00
+ 31.20
+ 33.50
+X 20-50 u
+ 67.90
+ 54.60
+ 61.40
+ 64.50
+ 67.50
+ 69.40
+T 50-100 u
+ 3.30
+ 2.90
+ 2.80
+ 3.40
+ 3.30
+ 3.30
+U 100-250 u
+ 0.90
+ 0.70
+ 1.00
+ 0.90
+ 1.30
+ 1.30
+R 250-500 u
+ 0.30
+ 0.30
+ 0.20
+ 0.20
+ 0.30
+ 0.50
+A 500-1000 u
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+
+CO3Ca (%)
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 0.30
+PH H2O
+ 5.7
+ 6.2
+ 6.4
+ 6.4
+ 6.6
+ 7.6
+pH ClK
+ 5.3
+ 5.5
+ 5.7
+ 5.7
+ 5.8
+ 6.7
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+
+ 4.70
+
+
+
+ 3.30
+
+
+
+ 3.30
+
+
+
+ 2.80
+
+
+
+ 1.50
+
+
+
+ -
+
+
+d
+Ca++
+ 16.30
+ 24.70
+ 22.40
+ 20.60
+ 20.80
+ N.D.
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 2.70
+ 4.10
+ 3.10
+ 2.50
+ 2.50
+ N.D.
+t
+c
+
+
+
+
+
+
+
+i
+a
+ K+
+ 1.90
+ 1.30
+ 1.20
+ 1.10
+ 1.00
+ 1.00
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.10
+ 0.10
+ 0.10
+ 0.10
+ 0.10
+ 0.10
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ 4.70
+ 3.30
+ 3.30
+ 2.80
+ 1.50
+
+
+Equivalente de humedad (%)
+
+ 26.90
+
+ 36.50
+
+ 32.90
+
+ 30.00
+
+ 27.50
+
+ 27.50
+

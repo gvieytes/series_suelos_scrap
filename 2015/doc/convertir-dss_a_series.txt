@@ -1,0 +1,61 @@
+JesusMaría y Avellaneda
+
+Puerta de Hierro 2:
+
+En la tabla del "dss_puerta_hierro_2.htm" aparece 2 veces la entrada para sodio
+"Cationes de intercambio (me/100 gr)-Na +"
+Como la primera es una fila completamente vacía, dejo sólo la 2da entrada
+
+
+Convertir los "dss_" a "XXX_series.txt":
+
+1ro. Copiar "a mano" cada una de las tablas desde la web a "libre office calc" en hojas distintas
+
+2do. Normalizar todo
+
+3ro. Guardar cada hoja como CSV pero usando "|" como separador
+
+4to. Renombrar todas las extensiones de "CSV" a "PSV"
+rename 's/.csv$/.psv/' *.csv
+
+5to. Hacer backup
+tar -cvzf cordoba_jesusMariaAvellaneda_psv-dflt.tgz cordoba_jesusMariaAvellaneda_psv/
+
+6to. Reemplazar el primer "pipe" ("|") con "dos puntos" (": ")
+sed -i 's/|/: /' *.psv
+
+7mo. Quitar el espacio antes de los ":"
+sed -i 's/ :/:/' *.psv
+
+8vo. Reemplazar "HORIZONTE" por "NOMBRE(S)........"
+sed -i 's/^HORIZONTE/NOMBRE(S)......../' *.psv
+
+9no. Agregar "HORIZONTE->" a todas las lineas en cada archivo
+sed -i 's/^/HORIZONTE->/' *.psv
+
+10mo. Agregar las lineas del principio
+sed -i 's/HORIZONTE->NOMBRE(S)......../--------------------------------------------------------------------------------------------------------------------------------------------------------------\
+ID..........................: 200\
+CLASIFICACION...............: FALTA!\
+SERIE.......................: FALTA!\
+UBICACION...................: FALTA!\
+PROVINCIA...................: CORDOBA\
+LATITUD.....................: FALTA!\
+LONGITUD....................: FALTA!\
+ALTITUD.....................: FALTA!\
+PENDIENTE...................: FALTA!\
+DRENAJE.....................: FALTA!\
+ESCURRIMIENTO...............: FALTA!\
+PERMEABILIDAD...............: FALTA!\
+TIPO DE SUELO...............: FALTA!\
+COLOR ......................: FALTA!\
+HORIZONTE->NOMBRE(S)......../' *.psv
+
+11vo. Agregar el nombre del archivo a todas las lineas
+awk '{print FILENAME,"->> " $0}' *.psv > jesusMaria-Avellaneda_series.txt
+
+12vo. Borrar el nombre del archivo de las lineas divisorias
+sed -i  's/.*--------------------------------------------------------------------------------------------------------------------------------------------------------------/--------------------------------------------------------------------------------------------------------------------------------------------------------------/' jesusMaria-Avellaneda_series.txt
+
+
+

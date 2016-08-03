@@ -1,0 +1,230 @@
+
+--------------------------------------------------------------------------------
+SERIE EL MOSQUITO Símbolo: EMo
+
+
+Pertenece a la familia "limosa fina, mixta (?), térmica" de los Hapludoles ácuicos.
+
+Suelo aluvial, salino-sódico.
+
+
+Perfil tipo: 85C INTA Castelar
+Fecha: 04-IV-1976
+Ubicación: 10,25 km al NNE de Puerto San Juan (Hoja IGM 3360-29-1) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+O2: 6-0 cm; horizonte orgánico; límite inferior abrupto, ondulado.
+
+A1: 0-26 cm; negro (10YR 2/1) en húmedo; franco arcillo limoso a franco limoso; estructura en bloques angulares y subangulares medios débiles; friable; barnices (clay-skins) escasos; raíces abundan - tes; límite inferior claro ondulado.
+
+IIC1: 26-68 cm, amarillo grisáceo oscuro (2, 5Y 5/2) en húmedo; franco limoso; masivo; friable; concreciones ferromanganésicas abundantes; moteados finos a medios, comunes, precisos; raíces escasas; límite gradual.
+
+IIIC2: 68-140 cm; pardo amarillo grisáceo (10YR 4/2) en húmedo; franco limoso a limoso; friable; concreciones ferromanganésicas abundantes; moteados finos a medios, comunes, precisos.
+
+
+Variabilidad de rasgos
+
+Sobrepuesto al perfil mineral presenta un horizonte O2 de poco espesor con predominio de residuos orgánicos. El primer horizonte mineral de 26 cm es de color negro y bajo contenido en materia orgánica, de textura franco arcillo limosa a franco limosa y estructura en bloques angulares y subangulares. A continuación siguen capas cuyo contenido de limo aumenta en profundidad con abundantes concreciones de hierro manganeso y moteados precisos en la zona de fluctuación de la napa freática que afecta el perfil entre 30 y 120 cm.
+
+Este suelo de permeabilidad moderada y de drenaje imperfecto, fuertemente salino desde la superficie (más de 16 mmhos/cm), con altos tenores de sales solubles con predominio de sulfatos y cloruros de sodio en e1 extracto.
+Los valores PSI (Porcentaje de sodio de intercambio) oscilan entre 19 y 26 % a lo largo de todo el perfil, aumentando en profundidad. Por alcalinidad este suelo ha sido clasificado en la clase A1 32.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Suelo de permeabilidad moderada y drenaje imperfecto. Napa freática alta. Por su posición relativamente más elevada dentro del paisaje este suelo está generalmente libre de aguas superficiales, aunque se dan inundaciones excepcionales por crecidas del Paraná.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie El Mosquito
+
+85C INTA Castelar
+
+
+
+
+N° de registro
+
+
+
+
+Horizonte
+ O2
+ A1
+ IIC1
+ IIIC2
+Profundidad (cm)
+ 5-2
+ 2-22
+ 30-50
+ 80-100
+Mat. orgánica (%)
+ -
+ 1.29
+ 0.38
+ -
+C (%)
+ 11.50
+ 0.75
+ 0.22
+ -
+N (%)
+ 1.166
+ 0.074
+ -
+ -
+C/N
+ 10
+ 10
+ -
+ -
+
+T <2 u
+
+ -
+
+ 28.5
+
+ 23.1
+
+ 15.2
+E 2-20 u
+ -
+ 47.7
+ 49.3
+ 56.9
+X 2-50 u
+ -
+ 69.0
+ 74.5
+ 81.4
+T 50-74 u
+ -
+ 1.1
+ 1.1
+ 1.7
+U 74-100 u
+ -
+ 1.1
+ 1.1
+ 1.2
+R 100-250 u
+ -
+ 0.2
+ 0.1
+ 0.4
+A 250-500 u
+ -
+ 0.1
+ 0.1
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 67.0
+ 31.1
+ 29.1
+ 27.9
+Resistencia de la pasta (Ohms/cm)
+ 592
+ 370
+ 188
+ 210
+pH en pasta
+ 5.1
+ 6.4
+ 6.5
+ 6.6
+pH en agua (1:2,5)
+ 5.4
+ 7.2
+ 7.0
+ 7.0
+pH en KCl (1:2,5)
+ 4.7
+ 6.0
+ 6.2
+ 6.0
+Conductividad (mmhos/cm)
+ 3.83
+ 18.04
+ 24.38
+ 23.43
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ -
+ -
+ -
+ -
+
+Mg++
+ -
+ -
+ -
+ -
+
+Na[+]
+ -
+ -
+ -
+ -
+
+K[+]
+ -
+ -
+ -
+ -
+
+H[+]
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ -
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ -
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ -
+ -
+ -
+ -
+

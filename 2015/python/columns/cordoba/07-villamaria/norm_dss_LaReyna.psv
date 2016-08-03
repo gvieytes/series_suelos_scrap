@@ -1,0 +1,40 @@
+dss_LaReyna.psv ->> ID..........................: 719
+dss_LaReyna.psv ->> CLASIFICACION...............: Haplustol típico
+dss_LaReyna.psv ->> SERIE.......................: LA REYNA (Ryna)
+dss_LaReyna.psv ->> UBICACION...................: 6 km al NNO de la localidad de Río Segundo, departamento del mismo nombre
+dss_LaReyna.psv ->> PROVINCIA...................: CORDOBA
+dss_LaReyna.psv ->> LATITUD.....................: S313535
+dss_LaReyna.psv ->> LONGITUD....................: O635731
+dss_LaReyna.psv ->> ALTITUD.....................: 340
+dss_LaReyna.psv ->> PENDIENTE...................: FALTA!
+dss_LaReyna.psv ->> DRENAJE.....................: FALTA!
+dss_LaReyna.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LaReyna.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LaReyna.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TÉRMICA
+dss_LaReyna.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO
+dss_LaReyna.psv ->> HORIZONTE->NOMBRE(S)........: a | bw | bc | c1
+dss_LaReyna.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-51 | 51-78 | 78-110
+dss_LaReyna.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.06 | 1.23 | 0.68 | 
+dss_LaReyna.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.78 | 0.72 | 0.34 | 
+dss_LaReyna.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.17 | 0.09 | - | 
+dss_LaReyna.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.5 | 8.0 | - | 
+dss_LaReyna.psv ->> HORIZONTE->ARCILLA 2 (%)....: 30.5 | 35.3 | 30.5 | 25.7
+dss_LaReyna.psv ->> HORIZONTE->LIMO 2-50 (%)....: 65.2 | 62.0 | 65.6 | 69.5
+dss_LaReyna.psv ->> HORIZONTE->AMF 50-100 (%)...: 3.1 | 3.3 | 3.8 | 4.7
+dss_LaReyna.psv ->> HORIZONTE->AF 100-250 (%)...: 0.7 | 0.5 | 0.5 | 1.0
+dss_LaReyna.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1 | - | 0.1 | 0.1
+dss_LaReyna.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.2 | - | 0.1 | 0.2
+dss_LaReyna.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.1 | - | - | 
+dss_LaReyna.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0
+dss_LaReyna.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 30.5 | 32.4 | 29.8 | 23.3
+dss_LaReyna.psv ->> HORIZONTE->PH PASTA.........: 5.8 | 6.4 | 6.6 | 6.7
+dss_LaReyna.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.0 | 6.5 | 6.7 | 6.8
+dss_LaReyna.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 15.6 | 15.4 | 14.1 | 14.1 
+dss_LaReyna.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.0 | 1.4 | 1.9 | 1.6
+dss_LaReyna.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.2 | 0.2 | 0.1
+dss_LaReyna.psv ->> HORIZONTE->CI ME/100G-K +...: 0.6 | 2.3 | 2.2 | 2.4
+dss_LaReyna.psv ->> HORIZONTE->CI ME/100G-H +...: 2.3 | 1.5 | 1.0 | 0.9
+dss_LaReyna.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | 
+dss_LaReyna.psv ->> HORIZONTE->SUM.B. ME/100G(S): 19.4 | 19.3 | 18.4 | 18.2
+dss_LaReyna.psv ->> HORIZONTE->CIC ME/100G(T)...: 21.5 | 20.9 | 19.4 | 19.0
+dss_LaReyna.psv ->> HORIZONTE->SAT.B % (S/T)....: 90 | 92 | 95 | 96

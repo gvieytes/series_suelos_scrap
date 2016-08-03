@@ -1,0 +1,39 @@
+dss_RIOPINTO.psv ->> ID..........................: 324
+dss_RIOPINTO.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_RIOPINTO.psv ->> SERIE.......................: TERRAZAS DEL RÍO PINTO (TrrzRP)
+dss_RIOPINTO.psv ->> UBICACION...................: 4 km al Sur de la localidad de Sarmiento, departamento Totoral
+dss_RIOPINTO.psv ->> PROVINCIA...................: CORDOBA
+dss_RIOPINTO.psv ->> LATITUD.....................: S304700
+dss_RIOPINTO.psv ->> LONGITUD....................: O641300
+dss_RIOPINTO.psv ->> ALTITUD.....................: 600
+dss_RIOPINTO.psv ->> PENDIENTE...................: FALTA!
+dss_RIOPINTO.psv ->> DRENAJE.....................: FALTA!
+dss_RIOPINTO.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_RIOPINTO.psv ->> PERMEABILIDAD...............: FALTA!
+dss_RIOPINTO.psv ->> TIPO DE SUELO...............: FRANCA FINA MIXTA TÉRMICA
+dss_RIOPINTO.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_RIOPINTO.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | ck
+dss_RIOPINTO.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-23 | 23-38 | 38a+
+dss_RIOPINTO.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,8 | - | 
+dss_RIOPINTO.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,6 | - | 
+dss_RIOPINTO.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,17 | - | 
+dss_RIOPINTO.psv ->> HORIZONTE->RELACIÓN C/N.....: 9,4 | - | 
+dss_RIOPINTO.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18,2 | 20,4 | 17,4
+dss_RIOPINTO.psv ->> HORIZONTE->LIMO 2-50 (%)....: 54,7 | 55,5 | 60,0
+dss_RIOPINTO.psv ->> HORIZONTE->AMF 50-100 (%)...: 5,3 | 5,1 | 5,8
+dss_RIOPINTO.psv ->> HORIZONTE->AF 100-250 (%)...: 3,2 | 3,0 | 2,9
+dss_RIOPINTO.psv ->> HORIZONTE->AM 250-500 (%)...: 4,2 | 3,7 | 3,2
+dss_RIOPINTO.psv ->> HORIZONTE->AG 500-1000 (%)..: 8,2 | 6,4 | 5,0
+dss_RIOPINTO.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 4,3 | 3,7 | 3,3
+dss_RIOPINTO.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 7,4
+dss_RIOPINTO.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 23,5 | 22,6 | 23,0
+dss_RIOPINTO.psv ->> HORIZONTE->PH PASTA.........: - | - | 
+dss_RIOPINTO.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,2 | 6,9 | 7,7
+dss_RIOPINTO.psv ->> HORIZONTE->CI ME/100G-Ca++..: 17,4 | 20,0 | 
+dss_RIOPINTO.psv ->> HORIZONTE->CI ME/100G-Mg++..: 0,9 | 1,0 | 
+dss_RIOPINTO.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,3 | 0,2 | 0,2
+dss_RIOPINTO.psv ->> HORIZONTE->CI ME/100G-K+....: 1,5 | 0,7 | 0,4
+dss_RIOPINTO.psv ->> HORIZONTE->CI ME/100G-H+....: 1,7 | 0,2 | 
+dss_RIOPINTO.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20,1 | 21,9 | 
+dss_RIOPINTO.psv ->> HORIZONTE->CIC ME/100G(T)...: 21,8 | 22,1 | 19,6
+dss_RIOPINTO.psv ->> HORIZONTE->SAT.B % (S/T)....: 92,2 | 99,1 | 100

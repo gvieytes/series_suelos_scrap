@@ -1,0 +1,134 @@
+# -*- coding: utf-8 -*-
+#!/home/gvieytes/Desktop/Trabajos/html-scrap/python/venv2.7/bin/python
+
+## Calcula la cantidad de campos entre "nº de registro" y "horizonte"
+def contarCampos(fileName):
+    with open(fileName, 'r') as f:
+        while True:
+            line = f.readline()
+
+            # Salteo las lineas hasta "Horizonte" y cuento hasta "Profundidad"
+            if line.strip().startswith("Horizonte"):
+                i = 0
+                while not f.readline().strip().startswith("Profundidad (cm"):
+                    i = i + 1
+                return i 
+
+### Para probar el cantLineas
+#import sys
+### Capturo el nombre del archivo pasado por parametro 
+#fileName = sys.argv[1]
+#print "Filename", fileName
+#print "cantidad", contarCampos(fileName)
+
+
+def getTitulo(titulo):
+    if " de registro" in titulo:
+        return "NRO DE REGISTRO.."
+    if "Horizonte" in titulo:
+        return "NOMBRE(S)........"
+    if "Profundidad (cm" in titulo:
+        return "PROFUNDIDADES(CM)"
+    if "Mat.organica (%)" in titulo:
+        return "MATERIA ORGÁN.(%)"
+    if "C (%)" in titulo:
+        return "CARBONO ORGÁN.(%)"
+    if "N (%)" in titulo:
+        return "NITRÓGENO TOT.(%)"
+    if "C/N" in titulo:
+        return "RELACIÓN C/N....."
+    if ("<2" in titulo) or ("< 2"  in titulo):
+        return "ARCILLA 2 (%)...."
+    if "2-20" in titulo:
+        return "LIMO 2-20 (%)...."
+    if "2-50" in titulo:
+        return "LIMO 2-50 (%)...."
+    if "20-50" in titulo:
+        return "LIMO 20-50 (%)..."
+    if "50-74" in titulo:
+        return "AMF 50-74 (%)...."
+    if "50-100" in titulo:
+        return "AMF 50-100 (%)..."
+    if "50-500" in titulo:
+        return "AM 50-500 (%)...."
+    if "74-100" in titulo:
+        return "AMF 74-100 (%)..."
+    if "100-250" in titulo:
+        return "AF 100-250 (%)..."
+    if "100-500" in titulo:
+        return "AM 100-500 (%)..."
+    if "250-500" in titulo:
+        return "AM 250-500 (%)..."
+    if "500-1000" in titulo:
+        return "AG 500-1000 (%).."
+    if "500-2000" in titulo:
+        return "AMG 500-2000 (%)."
+    if "1000-2000" in titulo:
+        return "AMG 1-2 mm (%)..."
+    if "CO3Ca (%)" in titulo:
+        return "CALCAREO CaCO3(%)"
+    if "Resistencia de la pasta" in titulo:
+        return "RESIST. PASTA...."
+    if "PH en pasta" in titulo:
+        return "PH PASTA........."
+    if "PH H2O" in titulo:
+        return "PH H2O 1:2,5....."
+    if "PH ClK" in titulo:
+        return "PH 1N ClK 1:2,5.."
+    if "mmhos/cm" in titulo:
+        return "CONDUCT mmhos/cm."
+    if "Valor T" in titulo:
+        return "VT CIC ME/100G..."
+    if "Ca++" in titulo:
+        return "CI ME/100G-Ca ++."
+    if "Mg++" in titulo:
+        return "CI ME/100G-Mg ++."
+    if "K+" in titulo:
+        return "CI ME/100G-K +..."
+    if "Na+" in titulo:
+        return "CI ME/100G-Na +.."
+    if "H+" in titulo:
+        return "CI ME/100G-H +..."
+    if "% Na/T" in titulo:
+        return "Na+ % DEL VALOR T"
+    if "humedad (%)" in titulo:
+        return "EQUIV. HUMEDAD(%)"
+    if "Factor de Humedad" in titulo:
+        return "FACTOR DE HUMEDAD"
+    if "ppm" in titulo:
+        return "FÓSFORO ASIM(PPM)"
+    if "Valor S" in titulo:
+        return "VALOR S (ME/100G)"
+    if "Ca disponible (mg/kg)" in titulo:
+        return "Ca DISPON(mg/kg)."
+    if "K disponible (mg/kg)" in titulo:
+        return "K DISPON(mg/kg).."
+    if "Mg disponible (mg/kg)" in titulo:
+        return "Mg DISPON(mg/kg)."
+    if "H de cambio" in titulo:
+        return "CI ME/100G-H +..."
+    if "CIC (meq/100 g)" in titulo:
+        return "CIC ME/100G(T)..."
+    if "% Saturación de Agua" in titulo:
+        return "% SAT. DE AGUA..."
+    if "SO4Ca" in titulo:
+        return "SO4Ca (g/%)......"
+    if "S/T" in titulo:
+        return "SAT.B % (S/T)...."
+    if "Suma de bases" in titulo:
+        return "SUM.B. ME/100G(S)"
+    if "Gravas" in titulo:
+        return "GRAVAS..........."
+    if "Gravilla (> 2" in titulo:
+        return "GRAVILL >2 T.Ca %"
+    if "Gravilla (> 7" in titulo:
+        return "GRAVILL >7 T.Ca %"
+    if "% de saturación de S + H" in titulo:
+        return "% SAT. S + H....."
+    if "% de saturación de T" in titulo:
+        return "% SAT. T........."
+    if "Sales solubles grs (%)" in titulo:
+        return "SALES SOL GRS. %."
+
+print getTitulo("Horizonte")
+

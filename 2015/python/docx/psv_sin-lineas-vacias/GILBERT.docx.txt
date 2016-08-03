@@ -1,0 +1,231 @@
+--------------------------------------------------------------------------------
+SERIE GILBERT Símbolo: Gib
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiudólicos.
+Muestran un microrelieve gilgai tenue en la fotografía aérea y poco visible en el campo.
+Suelos muy profundos, de color negro hasta los 85-90 cm.
+Moderadamente bien drenados, con concreciones calcáreas a partir de los 90 cm.
+Suelos desarrollados en materiales lacustres (limos calcáreos).
+Perfil tipo: ER1-134C
+Fecha: 12-XI-2002
+Ubicación: 2,5 Km al E-NE de Escriña. (foto IR 121-8). Dto. Pehuajó al Norte, Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti, R.H. Fuentes
+A11: 00-20 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular medio, moderada, ligeramente duro en seco, friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite claro, suave.
+A12: 20-35 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, finos, débiles; ligeramente duro en seco, friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; eluviado en las cara de los agregados; límite abrupto, suave.
+B21t: 35-66 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados que rompen en otros prismas compuestos irregulares medios, fuertes y bloques angulares irregulares y cuneiformes, gruesos, fuertes; extremadamente duro en seco, muy firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") abundantes e intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22t: 66-90 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, fuertes; extremadamente duro en seco y muy firme en húmedo; barnices ("clay skins") escasos; caras de fricción ("slickensides") abundantes e intersectadas; muy escasos carbonatos libres en la masa; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B23tca: 90-115 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, moderados; muy duro en húmedo, muy firme en húmedo; barnices ("clay skins") comunes a abundantes; caras de fricción ("slickensides") escasas, finas; concreciones calcáreas escasas a comunes, medias; comunes carbonatos libres en la masa; moteados de hierro-manganeso abundantes, medios y precisos; límite claro, suave.
+B3: 115 cm +; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes, medias; concreciones calcáreas escasas, finas; muy escasos carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y precisos.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por dos procesos: uno es la expansión y contracción del material arcilloso que da lugar a la formación incipiente del gilgai (aunque no se manifiesta como un microrrelieve visible en el terreno) y el otro, la erosión.
+El epipedón varía entre 30-35 cm de espesor debido a la remoción y deposición de materiales.
+El argílico tiene un espesor de 75-80 cm e incluye un B23 con abundantes caras de fricción ("slickensides") intersectadas y presencia de calcáreo en concreciones finas y medias a partir de los 90 cm.
+Fases
+Se determinó a nivel de reconocimiento una fase por erosión moderada. (Gib.h2).
+Drenaje
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Gilbert presenta un grado de erosión leve a moderado y tiene un moderado peligro de erosión en surcos y en cárcavas.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Gilbert
+ER1-134C
+N° de registro
+ 11040
+ 11041
+ 11042
+ 11043
+ 11044
+ 11045
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B23tca
+ B3
+Profundidad (cm)
+ 05-15
+ 25-35
+ 40-60
+ 70-85
+ 95-110
+ 120-140
+Mat.organica (%)
+ 4.75
+ 4.01
+ 3.63
+ 2.65
+ 1.87
+ 1.14
+C (%)
+ 2.76
+ 2.33
+ 2.11
+ 1.54
+ 1.09
+ 0.56
+N (%)
+ 0.181
+ 0.154
+ 0.118
+ 0.087
+ 0.053
+ 0.044
+C/N
+ 15.25
+ 15.13
+ 17.88
+ 17.70
+ 20.57
+ 15.00
+T <2
+ 30.01
+ 31.41
+ 46.26
+ 46.53
+ 49.02
+ 48.40
+E 2-20
+ 38.00
+ 38.77
+ 32.43
+ 33.36
+ 36.24
+ 3722
+X 2-50
+ 66.65
+ 65.22
+ 51.73
+ 51.70
+ 48.40
+ 48.25
+T 50-100
+ 1.09
+ 0.86
+ 0.41
+ 0.45
+ 0.49
+ 0.69
+U 100-250
+ 2.14
+ 2.46
+ 1.57
+ 1.28
+ 1.97
+ 2.50
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.09
+ 0.05
+ 0.03
+ 0.04
+ 0.12
+ 0.16
+ 1000-2000
+ 0.02
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 2.39
+ 1.60
+PH H2O
+ 7.0
+ 7.1
+ 7.2
+ 7.9
+ 8.4
+ 8.6
+PH ClK
+ 6.1
+ 5.8
+ 5.8
+ 6.3
+ 7.0
+ 7.0
+Conductividad eléctrica mmhos/cm
+ 0,33
+ 0,37
+ 0,36
+ 0,42
+ 0,46
+ 0,42
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 30,04
+ 30,80
+ 46,20
+ 46,52
+ 48,90
+ 48,21
+D
+Ca++
+ 23,82
+ 23,38
+ 37,41
+ 37,68
+ 39,75
+ 37,64
+C
+E
+A
+Mg++
+ 3,58
+ 3,60
+ 4,93
+ 4,80
+ 5,50
+ 5,22
+T
+C
+I
+A
+K+
+ 1,35
+ 1,34
+ 1,80
+ 1,91
+ 1,64
+ 1,64
+O
+M
+N
+B
+Na+
+ 1,07
+ 1,25
+ 1,45
+ 1,62
+ 1,67
+ 2,87
+E
+I
+S
+O
+H+
+% Na/T
+Equivalente de humedad (%)
+ 32.57
+ 33.04
+ 48.20
+ 48.27
+ 48.65
+ 48.22
+P disponible (ppm)
+ 5.00
+ 4.50
+ 3.80
+ 3.60
+ 3.30
+ 3.10

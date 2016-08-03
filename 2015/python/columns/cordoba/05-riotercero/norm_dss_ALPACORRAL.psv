@@ -1,0 +1,40 @@
+dss_ALPACORRAL.psv ->> ID..........................: 502
+dss_ALPACORRAL.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_ALPACORRAL.psv ->> SERIE.......................: ALPA CORRAL (AlpC)
+dss_ALPACORRAL.psv ->> UBICACION...................: 6,7 Km al SE de Río de los Sauces, departamento Calamuchita
+dss_ALPACORRAL.psv ->> PROVINCIA...................: CORDOBA
+dss_ALPACORRAL.psv ->> LATITUD.....................: S322400
+dss_ALPACORRAL.psv ->> LONGITUD....................: O643200
+dss_ALPACORRAL.psv ->> ALTITUD.....................: 704
+dss_ALPACORRAL.psv ->> PENDIENTE...................: FALTA!
+dss_ALPACORRAL.psv ->> DRENAJE.....................: FALTA!
+dss_ALPACORRAL.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ALPACORRAL.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ALPACORRAL.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+dss_ALPACORRAL.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ALPACORRAL.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | c | ck
+dss_ALPACORRAL.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-24 | 24-56 | 56-75 | 75a+
+dss_ALPACORRAL.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.9 | 0.9 | - | 
+dss_ALPACORRAL.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.10 | 0.50 | - | 
+dss_ALPACORRAL.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.18 | - | - | 
+dss_ALPACORRAL.psv ->> HORIZONTE->RELACIÓN C/N.....: 6.1 | - | - | 
+dss_ALPACORRAL.psv ->> HORIZONTE->ARCILLA 2 (%)....: 16.0 | 14.6 | 11.9 | 10.8
+dss_ALPACORRAL.psv ->> HORIZONTE->LIMO 2-50 (%)....: 54.5 | 57.5 | 62.4 | 60.5
+dss_ALPACORRAL.psv ->> HORIZONTE->AMF 50-100 (%)...: 27.0 | 20.8 | 23.2 | 23.9
+dss_ALPACORRAL.psv ->> HORIZONTE->AF 100-250 (%)...: 1.9 | 3.9 | 3.5 | 3.7
+dss_ALPACORRAL.psv ->> HORIZONTE->AM 250-500 (%)...: 0.1 | 0.1 | 0.2 | 0.2
+dss_ALPACORRAL.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.2 | 0.2 | 0.2 | 0.1
+dss_ALPACORRAL.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.1 | 0.1 | 0.1 | 
+dss_ALPACORRAL.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0 | 0.0 | 0.0 | 3.0
+dss_ALPACORRAL.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 21.1 | 20.1 | 21.5 | 18.2
+dss_ALPACORRAL.psv ->> HORIZONTE->PH PASTA.........: 6.1 | 6.7 | 7.0 | 8.1
+dss_ALPACORRAL.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3 | 7.1 | 7.5 | 8.4
+dss_ALPACORRAL.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 9.8 | 11.0 | 11.1 | 
+dss_ALPACORRAL.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.3 | 1.3 | 0.9 | 
+dss_ALPACORRAL.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3 | 0.1 | 0.2 | 0.3
+dss_ALPACORRAL.psv ->> HORIZONTE->CI ME/100G-K +...: 1.5 | 1.3 | 1.2 | 1.3
+dss_ALPACORRAL.psv ->> HORIZONTE->CI ME/100G-H +...: 1.3 | 0.4 | - | 
+dss_ALPACORRAL.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.1 | - | 1.5 | 2.5
+dss_ALPACORRAL.psv ->> HORIZONTE->SUM.B. ME/100G(S): 12.9 | 13.7 | 13.4 | 
+dss_ALPACORRAL.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.2 | 14.0 | 13.4 | 12.1
+dss_ALPACORRAL.psv ->> HORIZONTE->SAT.B % (S/T)....: 90.8 | 97.9 | 100.0 | 

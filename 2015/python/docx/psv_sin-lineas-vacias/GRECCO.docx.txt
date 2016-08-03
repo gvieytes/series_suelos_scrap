@@ -1,0 +1,190 @@
+--------------------------------------------------------------------------------
+SERIE GRECCO 								 Símbolo: Gr
+Pertenece a la familia "fina, montmorillonítica, moderadamente alcalina, térmica" de los Ocracualfes vérticos (planosol vertisólico).
+Suelo desarrollado sobre materiales arcillo limosos, alcalino en el subsuelo, también es característica la presencia de yeso a partir de 30-50 cm y un B textural cálcico a partir de 20-25 cm aproximadamente.
+Son suelos desarrollados en materiales limos calcáreos de la formación "Hernandarias".
+Perfil tipo: ER3-29C
+Fecha: 13-III-1972
+Ubicación: Ea. "San Diego" (foto 190-8) - Dpto. Feliciano.
+Reconocedores: R.E. Kleinerman; L.O. López.
+A2: 00-25 cm; gris oscuro (10YR 4/1) en húmedo; gris (10YR 5/1) en seco; franco-limoso; estructura en bloques angulares irregulares y subangulares medios, moderados a débiles; muy duro en seco; friable en húmedo; ligeramente plástico, ligeramente adhesivo; escasas concreciones de hierro-manganeso finas; barnices ("humic-skins") escasos, finos; moteados de hierro-manganeso comunes, finos y precisos; horizonte muy lixiviado; límite claro suave.
+B21ca: 25-47 cm; negro (10YR 2.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios moderados; muy duro en seco; firme en húmedo; plástico; ligeramente adhesivo; concreciones calcáreas comunes, finas; concreciones de hierro-manganeso escasas, finas; barnices ("humic skins") escasos, finos; moteados comunes, finos, precisos; lixiviado por las caras de los agregados; grieta; límite gradual suave.
+B22cacs: 47-82 cm; gris muy oscuro (10YR3/1) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares gruesos, moderados; muy duro en seco; firme en húmedo; plástico y adhesivo; concreciones calcáreas comunes, finas a medias; concreciones de hierro-manganeso escasas, finas; moderada cantidad de microcristales de yeso; barnices ("humic skins") escasos, finos; moteados escasos, finos y débiles; límite gradual, suave.
+B31ca: 82-110 cm; pardo grisáceo oscuro(10YR4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares gruesos, débiles; muy duro en seco; firme en húmedo; plástico y adhesivo; concreciones calcáreas comunes, medias; escasas concreciones calcáreas finas; escasa cantidad de microcristales de yeso; caras de fricción ("slickensides") escasas, finas; moteados comunes, finos y precisos; límite difuso, suave.
+B32ca: 110 cm+; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares gruesos muy débiles; muy duro en seco; firme en húmedo; plástico y adhesivo; escasas concreciones calcáreas finas; barnices ("clay skins") escasos, finos, inherentes al material; moteados comunes, finos y precisos.
+Variabilidad de rasgos
+Presenta un horizonte superior muy lixiviado (horizonte A1 ó A2) con espesores que varían entre 10-25 cm; franco limoso y con estructura en bloques. Los moteados de hierro-manganeso son comunes evidenciando problemas de hidromorfismo. Posee un B2 textural arcillo limoso, denso, poco permeable y penetrable por las raíces; el espesor de este horizonte varía entre 15-50 cm con estructura prismática y cristales de sulfato de calcio (yeso).
+El horizonte transicional (B3) es alcalino con contenidos de sodio que a veces superan el 10%.
+Fases
+No presenta a este nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Arroyo Quebracho con la cual está asociada en el paisaje (serie Quebracho pendientes más suaves, menos arcillosa) y a la serie Santa Rosa que es menos arcillosa y no sódica.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial estancado. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Grecco no presenta erosión ni existe peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Grecco
+ER3-29C
+N° de registro
+Horizonte
+ A2
+ B21ca
+ B22cacs
+ B31ca
+ B32ca
+Profundidad (cm)
+ 05-19
+ 30-40
+ 53-70
+ 83-95
+ 118-130
+Mat.organica (%)
+ 1.85
+ 1.77
+ 0.90
+ 0.55
+ 0.31
+N (%)
+ 0.11
+ 0.10
+ 0.06
+ 0.05
+ 0.03
+C/N
+ 10
+ 11
+ 9
+ 7
+ 5
+T <2
+ 28
+ 47.0
+ 46.0
+ 44.5
+ 43.0
+E 2-20
+ -
+ -
+ -
+ -
+ -
+X 2-50
+ 71
+ 52.5
+ 53.4
+ 55.0
+ 56.1
+T 50-100
+ 0.4
+ 0.1
+ 0.2
+ 0.2
+ 0.3
+U 100-250
+ 0.4
+ 0.2
+ 0.2
+ 0.2
+ 0.3
+R 250-500
+ 0.2
+ 0.2
+ 0.2
+ 0.1
+ 0.3
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 1000-2000
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.0
+ 7.2
+ 2.9
+ 3.9
+ 5.5
+pH H2O
+ 6.7
+ 7.8
+ 7.7
+ 8.0
+ 8.4
+pH ClK
+ -
+ -
+ -
+ -
+ -
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 26.5
+ 42.8
+ 39.6
+ 37.3
+ 35.5
+D
+Ca++
+ 20.1
+ N.D
+ N.D
+ N.D
+ N.D
+C
+E
+A
+Mg++
+ 3.3
+ N.D
+ N.D
+ N.D
+ N.D
+T
+C
+I
+A
+K+
+ 0.4
+ 0.5
+ 0.7
+ 0.6
+ 0.6
+O
+M
+N
+B
+Na+
+ 2.2
+ 4.3
+ 4.0
+ 3.7
+ 5.0
+E
+I
+S
+O
+H+
+ 0.5
+ N.D
+ N.D
+ N.D
+ N.D
+% Na/T
+ 8.3
+ 10.0
+ 10.1
+ 9.9
+ 14.1
+Equivalente de humedad (%)
+ 25.7
+ 46.0
+ 45.9
+ 46.3
+ 48.1

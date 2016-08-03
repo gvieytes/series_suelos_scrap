@@ -1,0 +1,35 @@
+dss_san_pablo.psv ->> ID..........................: 237
+dss_san_pablo.psv ->> CLASIFICACION...............: Haplustol údico
+dss_san_pablo.psv ->> SERIE.......................: SAN PABLO (SPblo)
+dss_san_pablo.psv ->> UBICACION...................: 1 km al Sudeste de la estancia homónima y a 8 km al Noroeste de la ciudad de Jesús María, departamento Totoral
+dss_san_pablo.psv ->> PROVINCIA...................: CORDOBA
+dss_san_pablo.psv ->> LATITUD.....................: S305700
+dss_san_pablo.psv ->> LONGITUD....................: O641500
+dss_san_pablo.psv ->> ALTITUD.....................: 550
+dss_san_pablo.psv ->> PENDIENTE...................: FALTA!
+dss_san_pablo.psv ->> DRENAJE.....................: FALTA!
+dss_san_pablo.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_san_pablo.psv ->> PERMEABILIDAD...............: FALTA!
+dss_san_pablo.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_san_pablo.psv ->> COLOR ......................: PARDO OSCURO
+dss_san_pablo.psv ->> HORIZONTE->NOMBRE(S)........: Ap | IIB21 | IIB22 | IIB3 | III
+dss_san_pablo.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-26 | 26-38 | 38-74 | 74-96 | 96a+
+dss_san_pablo.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3,0 | 0,7 | 1,0 | 0,5 | 0,5
+dss_san_pablo.psv ->> HORIZONTE->CARBONO ORGÁN.(%): - | - | - | - |  
+dss_san_pablo.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,14 | 0,01 | 0,04 | 0,03 | 0,01
+dss_san_pablo.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - | - | - |  
+dss_san_pablo.psv ->> HORIZONTE->ARCILLA 2 (%)....: 18,4 | 15,1 | 18,4 | 19,6 | 12,3
+dss_san_pablo.psv ->> HORIZONTE->LIMO 2-50 (%)....: 31,5 | 20,2 | 20,4 | 21,2 | 12,5
+dss_san_pablo.psv ->> HORIZONTE->ARENA (%)........: 47,4 | 64,3 | 60,5 | 56,6 | 73,7
+dss_san_pablo.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0 | 0,0 | 0,0
+dss_san_pablo.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): - | - | - | - |  
+dss_san_pablo.psv ->> HORIZONTE->PH PASTA.........: - | - | - | - |  
+dss_san_pablo.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7,3 | 7,3 | 7,8 | 7,3 | 7,7
+dss_san_pablo.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 12,7 | 9,1 | 11,0 | 9,1 | 7,3
+dss_san_pablo.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,7 | 1,3 | 0,6 | 1,7 | 0,7
+dss_san_pablo.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2 | 0,1 | 0,2 | 0,2 | 0,1
+dss_san_pablo.psv ->> HORIZONTE->CI ME/100G-K +...: 0,8 | 0,4 | 0,4 | 0,5 | 0,3
+dss_san_pablo.psv ->> HORIZONTE->CI ME/100G-H +...: 1,2 | 0,5 | - | 0,4
+dss_san_pablo.psv ->> HORIZONTE->SUM.B. ME/100G(S): - | - | - | - |  
+dss_san_pablo.psv ->> HORIZONTE->CIC ME/100G(T)...: 15,6 | 12,4 | 12,2 | 11,9 | 8,6
+dss_san_pablo.psv ->> HORIZONTE->SAT.B % (S/T)....: 92 | 96 | 100 | 97 | 100

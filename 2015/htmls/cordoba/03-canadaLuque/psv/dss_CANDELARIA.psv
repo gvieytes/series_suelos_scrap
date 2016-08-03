@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 300
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: a|bw|bc|ck
+HORIZONTE->Profundidad de la muestra (cm): 0-22|22-45|45-76|76 a +
+HORIZONTE->Materia Orgánica (%): 2,7|1,6||
+HORIZONTE->Carbono Orgánico (%): 1,6|0,9||
+HORIZONTE->Nitrógeno total (%): |||
+HORIZONTE->Relación C/N: |||
+HORIZONTE->Arcilla, <2 μ (%): 26,9|29,7|29,5|21,4
+HORIZONTE->Limo, 2-50 μ (%): 67,2|63,2|64,8|70,5
+HORIZONTE->Arena muy fina, 50-100 μ (%): 4,5|4,5|4,7|5,1
+HORIZONTE->Arena fina, 100-250 μ (%): 1,1|1,0|1,2|1,5
+HORIZONTE->Arena media, 250-500 μ (%): 0,4|0,3|0,3|0,5
+HORIZONTE->Arena gruesa, 500-1000 μ (%): 0,2|0,2|0,3|0,2
+HORIZONTE->Arena muy gruesa, 1-2 mm (%): 0,0|0,0|0,0|0,0
+HORIZONTE->Calcáreo, CaCO3 (%): 0,0|0,0|0,0|3,6
+HORIZONTE->Equivalente de humedad (%): 25,9|27,2|24,8|23,1
+HORIZONTE->pH en pasta: |||
+HORIZONTE->pH en agua 1:2,5: 6,0|6,8|6,9|7,9
+HORIZONTE->Cationes de intercambio (me/100 gr)-Ca++: 12,8|17,0|13,7|
+HORIZONTE->Cationes de intercambio (me/100 gr)-Mg++: 1,5|0,9|1,4|
+HORIZONTE->Cationes de intercambio (me/100 gr)-Na+: 0,5|0,4|0,4|0,5
+HORIZONTE->Cationes de intercambio (me/100 gr)-K+: 3,0|2,2|2,0|1,9
+HORIZONTE->Cationes de intercambio (me/100 gr)-H+: |||
+HORIZONTE->Suma de bases, me/100 gr (S): 17,8|20,5|17,5|
+HORIZONTE->Capacidad de intercambio catiónico, me/100 gr (T): 19,0|21,1|17,8|17,6
+HORIZONTE->Saturación con bases, % (S/T): 93,7|97,2|98,3|100,0

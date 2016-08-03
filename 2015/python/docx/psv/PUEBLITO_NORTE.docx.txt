@@ -1,0 +1,386 @@
+
+--------------------------------------------------------------------------------
+SERIE PUEBLITO NORTE Símbolo: PbN
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco-limoso y un horizonte argílico oscuro, arcillo-limoso, con moteados de hierro-manganeso y caras de fricción ("slickensides").
+
+Tiene concreciones de CO3Ca a partir de 100-110 cm en el horizonte C. Suelos desarrollados en materiales loessoides calcáreos retransportados, de textura franco-arcillo-limosa.
+
+
+Perfil tipo: ER7-102C
+Fecha: 28-VI-1995
+Ubicación: Pueblito Norte (foto 417-30) - dto. Rincón de Nogoyá - Dpto. Victoria.
+Reconocedores: L.O. López; O.A.Foti.
+
+
+Ap: 00-14 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares, finos, débiles; friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+
+A1: 14-27 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios y débiles; friable en húmedo; barnices húmicos ("humic skins") comunes y finos, y arcillo-húmicos ("clay humic skins") escasos; concreciones de hierro-manganeso comunes y finas; límite gradual y suave.
+
+B1: 27-35 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios y débiles; friable en húmedo; barnices ("humic skins") y ("clay humic skins") escasos; caras de fricción ("slickensides") escasas y finas; concreciones manganesíferas escasas; moteados de hierro-manganeso comunes, medios y precisos; límite claro ondulado.
+
+B21t: 35-54 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos y débiles, que rompen en prismas compuestos irregulares finos y debiles mas bloques subangulares y bloques angulares irregulares, finos y débiles; extremadamente duro en seco y firme en húmemdo ; barnices ("clay humic skins") comunes a abundantes,("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes y finas, intersectadas; moteados de hierro-manganeso comunes, medios y precisos; chorreaduras de materia orgánica abundantes; grietas en todo el horizonte; límite gradual ondulado.
+
+B22t: 54-81 cm; pardo a pardo oscuro (75YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos y débiles que rompen en bloques angulares y cuneiforme medios y débiles; firme en húmedo; barnices arcillo-húmicos ("clay humic skins") comunes y medios, y arcillosos ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso comunes, medios y precisos; horizonte disturbado por abundantes chorreaduras de materia orgánica; límite claro suave.
+
+
+B3: 81-107cm; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares y cuneiforme medios, debiles que rompen en bloques subangulares y bloques angulares irregulares medio debiles; friable en húmedo; barnices arcillo-húmicos ("clay- humic") escasos; barnices ("clay skins") comunes; caras de fricción ("slickensides") escasas a comunes; moteados de hierro- manganeso comunes, finos y precisos; abundante chorreaduras de materia orgánica; limite difuso suaves.
+
+Cca: 107 cm +; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso; estructura masiva; muy friable en húmedo; abundantes carbonatos libre en la masa; concreciones calcáreas escasas; concreciones ferro-manganesíferas escasas, finas; moteados de hierro-manganeso comunes, medios y precisos.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos no se conoce.
+
+
+Fases
+
+Moderadamente erosionada (símbolo PbN.h2)
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie El Terrón, pero esta tiene un horizonte superficial más somero, un B2t menos arcilloso y el paisaje presenta pendientes compuestas largas y suaves hacia los afluentes del arroyo Nogoyá.
+
+También se parece a la serie Aranguren (pero ésta posee un epipedón mólico más somero y un B2t argílico más profundo y arcilloso).
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento medio a rápido. Permeabilidad moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Pueblito Norte presenta una fase por erosión hídrica moderada, y tiene una alta susceptibilidad a la misma.
+	
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Pueblito Norte
+
+ER7-102C
+
+
+
+
+
+
+
+Nº de registro
+ 10.407
+ 10.408
+ 10.409
+ 10.410
+ 10.411
+ 10.412
+ 10.413
+Horizonte
+ Ap
+ A1
+ B1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 02-10
+ 16-25
+ 29-34
+ 40-52
+ 58-75
+ 90-100
+ 107-115
+Mat.organica (%)
+ 4.13
+ 2.49
+ 2.42
+ 1.63
+ 0.57
+ 0.15
+ 0.07
+C/N
+ 9
+ 14
+ 4
+ 10
+ 5
+ 2
+ 2
+
+T < 2 u
+
+ 22.4
+
+ 21.3
+
+ 27.5
+
+ 42.3
+
+ 40.3
+
+ 33.1
+
+ 27.9
+E 2-20 u
+ 29.0
+ 29.5
+ 26.0
+ 21.0
+ 21.0
+ 25.1
+ 26.1
+X 2-50 u
+ 67.0
+ 70.6
+ 63.0
+ 52.4
+ 54.0
+ 59.2
+ 62.2
+T 50-100 u
+ 1.2
+ 1.3
+ 2.3
+ 1.3
+ 0.6
+ 1.2
+ 2.8
+U 100-250 u
+ 9.3
+ 6.8
+ 7.0
+ 3.9
+ 4.9
+ 6.4
+ 6.9
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.2
+ 0.1
+ 0.0
+ 0.0
+ 0.1
+ 0.0
+ 0.1
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ 5.9
+PH H2O
+ 6.2
+ 5.8
+ 5.9
+ 6.1
+ 6.5
+ 6.6
+ 7.4
+pH ClK
+ 5.7
+ 5.2
+ 5.2
+ 5.2
+ 5.6
+ 5.6
+ 6.9
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+
+
+ 28.80
+
+
+ 26.00
+
+
+ 32.92
+
+
+ 37.44
+
+
+ 38.10
+
+
+ 30.84
+
+
+ N.D.
+
+
+d
+
+Ca++
+
+ 21.21
+
+ 22.50
+
+ 24.06
+
+ 28.50
+
+ 29.40
+
+ 21.80
+
+ N.D.
+C
+e
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 3.63
+ 3.82
+ 3.10
+ 3.72
+ 4.40
+ 4.20
+ N.D.
+t
+c
+
+
+
+
+
+
+
+
+i
+a
+K+
+ 2.08
+ 1.12
+ 1.80
+ 1.70
+ 2.08
+ 2.00
+ 1.28
+o
+m
+
+
+
+
+
+
+
+
+n
+b
+Na+
+ 1.11
+ 0.83
+ 1.75
+ 1.25
+ 1.29
+ 1.37
+ 1.67
+e
+i
+
+
+
+
+
+
+
+
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+
+
+
+
+
+
+
+
+
+% Na/T
+
+
+
+
+
+
+
+
+
+
+Equival. de humedad (%)
+
+ 25.5
+
+ 25.9
+
+ 27.9
+
+ 42.1
+
+ 38.9
+
+ 31.4
+
+ 25.0
+Fósforo asimilable (ppm)
+ 3.0
+ 2.4
+ 0.1
+ 0.0
+ 0.0
+ 0.0
+ -
+
+

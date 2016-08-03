@@ -1,0 +1,229 @@
+
+--------------------------------------------------------------------------------
+SERIE LA NUEVA ALIANZA Símbolo: LNA
+
+
+Pertenece a la familia "limosa fina, mixta, térmica" de los Hapludoles ácuicos.
+Se han desarrollado a partir de una sucesión de sedimentos marinos y continentales.
+
+	Suelo aluvial, fuertemente salino y sódico. Por su posición relativa más alta en el paisaje estas unidades cartográficas normalmente se encuentran libres de aguas superficiales.
+
+
+Perfil tipo: 328C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 18 km al N de la localidad de Ibicuy (Hoja IGM 3360-29-4) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+
+
+A1: 0-10 cm; pardo amarillo grisáceo (10YR 5/2) en seco y negro pardusco (10YR 3/2) en húmedo; franco arcillo limoso; estructura en bloques subangulares medios moderados que rompen en bloques menores; friable; no plástico, no adhesivo; raíces abundantes; límite inferior claro suave.
+
+IIC1: 10-26 cm; negro (10YR 1,7/1) en húmedo; franco arcillo limoso; estructura en bloques angulares medios moderados que rompen en bloques menores; firme; plástico, adhesivo; barnices (clay-skins) escasos; moteados comunes, finos y débiles; concreciones ferromanganésicas comunes; raíces comunes; límite inferior claro suave
+
+IIIC2: 26-87 cm; pardo amarillento opaco (10YR 4/3) en húmedo; franco arcillo limoso; estructura en bloques subangulares irregulares medios moderados, que rompen en bloques menores; ligeramente firme; plástico, adhesivo; concreciones ferromanganésicas abundantes; concreciones calcáreas comunes; microconcreciones calcáreas abundantes; moteados comunes, gruesos sobresalientes de color pardo brillante (7,5YR 5/6); raíces escasas; límite inferior claro suave.
+
+IVC3: 87-135 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco limoso; estructura en bloques subangulares medios, moderados que rompen en bloques menores; ligeramente firme; plástico; adhesivo; concreciones calcáreas comunes; concreciones ferromanganésicas escasas; microconcreciones calcáreas abundantes; moteados comunes, grandes, sobresalientes de color pardo brillante (7,5YR 5/6).
+
+
+Variabilidad de rasgos
+
+	El horizonte superficial es de 10 cm de espesor, de color negro pardusco, muy bien provisto de materia orgánica (mas de 7 %), franco arcillo limoso, de estructura en bloques subangulares medios moderados. Sigue una sucesión de capas de igual textura que se hacen franco limoso en profundidad. Se observa la presencia de concreciones ferromanganésicas y moteados comunes a partir del horizonte subsuperficial.
+
+	El perfil a partir de los 26 cm es fuertemente salino y tiene más de 15 % de sodio; por alcalinidad sódica fue clasificado como A1.
+
+Fases
+
+	No presenta a escala 1:100.000.
+
+
+Drenaje
+
+	Permeabilidad moderadamente lenta y drenaje imperfecto. Napa freática relativamente alta.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Nueva Alianza
+
+328C INTA Castelar
+
+
+
+
+N° de registro
+
+
+
+
+Horizonte
+ A1
+ IIC1
+ IIIC2
+ IVC3
+Profundidad (cm)
+ 3-7
+ 14-24
+ 30-70
+ 95-120
+Mat. orgánica (%)
+ 7.40
+ 2.19
+ 0.47
+ -
+C (%)
+ 4.29
+ 1.27
+ 0.27
+ -
+N (%)
+ 0.416
+ 0.143
+ -
+ -
+C/N
+ 10
+ 9
+ -
+ -
+
+T <2 u
+
+ 28.8
+
+ 28.3
+
+ 28.6
+
+ 26.0
+E 2-20 u
+ 41.8
+ 47.3
+ 45.7
+ 50.2
+X 2-50 u
+ 66.0
+ 66.0
+ 69.0
+ 70.4
+T 50-74 u
+ 0.5
+ 1.4
+ 0.8
+ 1.9
+U 74-100 u
+ 1.7
+ 2.9
+ 0.9
+ 0.6
+R 100-250 u
+ 2.5
+ 1.1
+ 0.2
+ 0.9
+A 250-500 u
+ 0.5
+ 0.3
+ 0.2
+ 0.2
+ 500-1000 u
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+
+
+
+
+
+CO3Ca (%)
+ 0
+ vest (n)
+ 0.3
+ vest (n)
+Equivalente de humedad (%)
+ 30.4
+ 30.1
+ 30.2
+ 33.1
+Resistencia de la pasta (Ohms/cm)
+ 3155
+ 701
+ 189
+ 196
+pH en pasta
+ 5.3
+ 6.2
+ 7.4
+ 7.3
+pH en agua (1:2,5)
+ 6.2
+ 7.1
+ 7.5
+ 7.5
+pH en KCl (1:2,5)
+ 4.5
+ 5.5
+ 7.0
+ 6.7
+Conductividad (mmhos/cm)
+ -
+ 2.99
+ 17.73
+ 15.97
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 8.2
+ -
+ -
+ -
+
+Mg++
+ 7.3
+ -
+ -
+ -
+
+Na[+]
+ 0.7
+ 3.3
+ -
+ -
+
+K[+]
+ 0.4
+ 0.2
+ -
+ -
+
+H[+]
+ 15.2
+ -
+ -
+ -
+Na+ % del valor T
+ 3
+ 13
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ 16.6
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ 23.0
+ 25.3
+ -
+ -
+Saturación con bases, (%) (S/T)
+ 72
+ -
+ -
+ -
+

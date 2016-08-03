@@ -1,0 +1,171 @@
+--------------------------------------------------------------------------------
+SERIE SAN GUSTAVO - cresta gilgai							 Símbolo: SG
+Pertenece a la familia "fina, neutra, térmica" de los Peludertes árgicos (Vertisol con gilgai y B2 textural).
+Muestra un microrrelieve gilgai lineal bien desarrollado, con ciclos de 5-7 m y altibajos de hasta 30 cm. Es negro hasta 70-90 cm en el bajo del gilgai y desde 00-15 cm en la cresta. Está ligeramente erosionado y moderadamente bien drenado. En el bajo del gilgai tiene un epipedón franco-arcillo-limoso bien estructurado y un horizonte B2 argílico, arcillo-limoso. Las concreciones de calcáreo aparecen entre los 50 y 70 cm, en el bajo del gilgai y desde la superficie, en la cresta.
+Son suelos desarrollados en materiales lacustres ("limos calcáreos") arcillo-limosos.
+Perfil tipo: ER5-10 C
+Fecha: 16/VI/1971
+Ubicación: Colonia Oficial N° 13 (foto 486-27) - Dpto. La Paz
+Reconocedores: R. Fuentes; G.W. van Barneveld
+Cresta del gilgai (perfil ER5-10aC)
+A1ca: 00-15 cm; negro (10YR 2. 5/1) en húmedo; franco arcillo limoso; estructura granular y bloques subangulares y angulares irregulares, medios, moderados; muy duro en seco; firme en húmedo; concreciones calcáreas hasta 2 mm comunes, duras; barnices ("humic skins") escasos, muy finos; límite claro, suave.
+AC1ca: 15-41 cm; pardo oscuro (7.5YR 4/2) en húmedo; arcillo limoso; estructura en bloques cuneiformes medios, moderados; muy duro en seco; friable en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 3 mm duras y semiduras, abundantes; caras de fricción ("slickensides") comunes, finas, medias intersectadas; concreciones de hierro-manganeso comunes, finos y precisos; límite gradual; ondulado.
+AC2ca: 41-88 cm; pardo (7,5YR 5/3) en húmedo; arcillo-limoso; estructura en bloques cuneiformes medios, moderados; muy duro en seco; friable en húmedo; abundante cantidad de carbonatos libres en masa; concreciones calcáreas de hasta 4 mm, semiduras, abundantes; caras de fricción ("slickensides") comunes, medias, poco intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite difuso; suave con algo de material del A1 en vetas.
+Cca: 88 cm +; pardo (7,5YR 5/4) en húmedo; arcillo limoso; estructura masiva con tendencia a bloques angulares y cuneiformes inherentes al material; extremadamente duro en seco; friable en húmedo; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 5 mm comunes, semiduras y blandas; caras de fricción ("slickensides") escasas gruesas, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada principalmente por el proceso de expansión y contracción del material arcilloso, que da lugar a la formación del microrrelieve gilgai.
+El epipedón, en el bajo del gilgai varía de 10 a 20 cm. Tiene 31-35% de arcilla y, normalmente, entre 3.5-5% de materia orgánica, que puede llegar a 6.5% en áreas más planas. En la cresta del gilgai, el epipedón varía de 10 a 15 cm, tiene menos materia orgánica y es menos oscuro.
+El B2, argílico, sólo existe en el bajo del gilgai; el porcentaje de arcilla incrementa levemente con su profundidad, variando del 38 al 42% en la parte superior y 40-46% en la inferior. Su estructura generalmente es prismática; pero los prismas pueden ser muy débiles.
+Las caras de fricción ("slickensides") se encuentran a partir del B21 hasta los 120 cm o más y son intersectadas, especialmente en el B2t. Cuándo éste está seco, presenta grietas de hasta 2 cm de ancho que se extiende hasta la base del epipedón o hasta la superficie, cuando el suelo está erosionado.
+El porcentaje de calcáreo varía entre 8-13% pero en algunos casos puede llegar a 18%. En concreciones duras de hasta 1 cm aparece entre 50-70 cm en el bajo del gilgai y desde la superficie, en la cresta. El carbonato libre se encuentra entre 50 y 80 cm en el bajo y entre 10 y 20 cm en la cresta.
+El color del C varía de 7.5YR 5/4 a 10YR 5. 5/2. Puede mostrar gley fósil. Tiene alrededor de 36-40% de arcilla y 4-6% de arena.
+Es un suelo ligeramente ácido en superficie y con menos de 3-4% dé sodio intercambiable en el subsuelo.
+Fases
+Moderadamente erosionada
+Severamente erosionada
+Muy suavemente ondulada
+Series similares y sus diferencias
+Se parece a la Serie Ramblones (con un epipedón más profundo y más mélico), a la Serie Chañar (con más arena y con un epipedón más profundo) y a la Serie El Sauce (más arcilloso). Otros Vertisoles no tienen gilgai bien desarrollado o son más hidromórficos o tienen el calcáreo más alto en el perfil.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado y a veces algo rápido. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La Serie San Gustavo está levemente erosionada, en parte debido a la erosión natural.
+El suelo corre moderado peligro de erosión en surcos y cárcavas. La fase moderadamente erosionada muestra surcos y pequeñas cárcavas, en parte rellenadas por la labranza. Las fases erosionadas se encuentran únicamente en las colonias agrícolas.
+Vegetación típica
+Monte de Montiel: predomina el espinillo (Acacia caven), algarrobo (Prosopis nigra) y tala (Celtis spinosa).
+DATOS ANALÍTICOS DEL PERFIL TÍPICO
+Serie San Gustavo
+ER5-10aC (cresta del gilgai)
+Nº de registro
+ 400
+ 401
+ 402
+ 403
+Horizonte
+ A1ca
+ AC1ca
+ AC2ca
+ Cca (g)
+Profundidad (cm)
+ 00-14
+ 19-30
+ 52-64
+ 88-102
+Mat.orgánica (%)
+ 4.5
+ 1.2
+ 0.4
+ 0.2
+C/N
+ 11
+ 8
+ 7
+ 6
+T <2
+ 34.6
+ 42.4
+ 42.7
+ 40.4
+E 2-20
+ 19.4
+ 18.9
+ 21.3
+ 21.7
+X 2-50
+ 58.6
+ 53.2
+ 53.9
+ 56.1
+T 50-100
+ 1.7
+ 1.0
+ 0.8
+ 0.9
+U 100-250
+ 3.5
+ 2.2
+ 1.9
+ 1.8
+R 250-500
+ 1.6
+ 1.2
+ 0.7
+ 0.8
+A 500-1000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+CO3Ca (%)
+ 0.5
+ 12.2
+ 12.9
+ 13.6
+pH H2O
+ 7.2
+ 7.6
+ 7.8
+ 8.0
+pH ClK
+ 6.7
+ 6.9
+ 7.1
+ 7.2
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+ 40.4
+ 40.1
+ 37.7
+ 37.6
+D
+Ca++
+ -
+ -
+ -
+ -
+C
+E
+A
+Mg++
+ -
+ -
+ -
+ -
+T
+C
+I
+A
+K+
+ 1.3
+ 1.0
+ 0.9
+ 0.8
+O
+M
+N
+B
+Na+
+ 0.1
+ 0.2
+ 0.7
+ 1.3
+E
+I
+S
+O
+H+
+ -
+ -
+ -
+ -
+% Na/T
+ 0.2
+ 0.5
+ 0.9
+ 8.5
+Equivalente de humedad (%)
+ 38.8
+ 37.2
+ 37.0
+ 39.2

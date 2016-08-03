@@ -1,0 +1,39 @@
+dss_CORRALITO.psv ->> ID..........................: 503
+dss_CORRALITO.psv ->> CLASIFICACION...............: Haplustol típico
+dss_CORRALITO.psv ->> SERIE.......................: CORRALITO
+dss_CORRALITO.psv ->> UBICACION...................: 3,5 km al SE de la localidad homónima, departamento Tercero Arriba
+dss_CORRALITO.psv ->> PROVINCIA...................: CORDOBA
+dss_CORRALITO.psv ->> LATITUD.....................: S320300
+dss_CORRALITO.psv ->> LONGITUD....................: O642300
+dss_CORRALITO.psv ->> ALTITUD.....................: 437
+dss_CORRALITO.psv ->> PENDIENTE...................: FALTA!
+dss_CORRALITO.psv ->> DRENAJE.....................: FALTA!
+dss_CORRALITO.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_CORRALITO.psv ->> PERMEABILIDAD...............: FALTA!
+dss_CORRALITO.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA, MIXTA, TÉRMICA
+dss_CORRALITO.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_CORRALITO.psv ->> HORIZONTE->NOMBRE(S)........: a | bw | bc | ck
+dss_CORRALITO.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-37 | 37-62 | 62a+
+dss_CORRALITO.psv ->> HORIZONTE->MATERIA ORGÁN.(%): - | - | - | 
+dss_CORRALITO.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.5 | 0.9 | 0.5 | 0.3
+dss_CORRALITO.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.14 | - | - | 
+dss_CORRALITO.psv ->> HORIZONTE->RELACIÓN C/N.....: 10.7 | - | - | 
+dss_CORRALITO.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15.7 | 17.7 | 15.9 | 13.9
+dss_CORRALITO.psv ->> HORIZONTE->LIMO 2-50 (%)....: 72.4 | 71.6 | 70.2 | 69.4
+dss_CORRALITO.psv ->> HORIZONTE->AMF 50-100 (%)...: 11.0 | 10.6 | 13.0 | 14.4
+dss_CORRALITO.psv ->> HORIZONTE->AF 100-250 (%)...: 1.2 | 0.7 | 0.7 | 1.4
+dss_CORRALITO.psv ->> HORIZONTE->AM 250-500 (%)...: 0.3 | 0.1 | - | 0.1
+dss_CORRALITO.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.3 | 0.1 | 0.1 | 0.3
+dss_CORRALITO.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.3 | - | - | 
+dss_CORRALITO.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 4.91
+dss_CORRALITO.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24.0 | 27.5 | 25.3 | 24.0
+dss_CORRALITO.psv ->> HORIZONTE->PH PASTA.........: 5.9 | 6.6 | 6.9 | 7.7
+dss_CORRALITO.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.6 | 7.2 | 7.3 | 8.2
+dss_CORRALITO.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 11.2 | 13.0 | 14.3 | 
+dss_CORRALITO.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 2.0 | 3.2 | 1.2 | 
+dss_CORRALITO.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.3 | 0.3 | 0.3 | 0.6
+dss_CORRALITO.psv ->> HORIZONTE->CI ME/100G-K +...: 3.0 | 2.0 | 1.1 | 1.2
+dss_CORRALITO.psv ->> HORIZONTE->CI ME/100G-H +...: 1.4 | 0.5 | 0.3 | 
+dss_CORRALITO.psv ->> HORIZONTE->SUM.B. ME/100G(S): 15.5 | 16.5 | 16.9 | 
+dss_CORRALITO.psv ->> HORIZONTE->CIC ME/100G(T)...: 16.8 | 19.0 | 17.1 | 16.3
+dss_CORRALITO.psv ->> HORIZONTE->SAT.B % (S/T)....: 92 | 97 | 99 | 

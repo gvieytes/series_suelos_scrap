@@ -1,0 +1,48 @@
+dss_LaVictoria.psv ->> ID..........................: 722
+dss_LaVictoria.psv ->> CLASIFICACION...............: Natralbol típico
+dss_LaVictoria.psv ->> SERIE.......................: LA VICTORIA (Vctr)
+dss_LaVictoria.psv ->> UBICACION...................: 21,3 km al Sudoeste de Wenceslao Escalante
+dss_LaVictoria.psv ->> PROVINCIA...................: CORDOBA
+dss_LaVictoria.psv ->> LATITUD.....................: S331927
+dss_LaVictoria.psv ->> LONGITUD....................: O625519
+dss_LaVictoria.psv ->> ALTITUD.....................: 114
+dss_LaVictoria.psv ->> PENDIENTE...................: FALTA!
+dss_LaVictoria.psv ->> DRENAJE.....................: FALTA!
+dss_LaVictoria.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LaVictoria.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LaVictoria.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+dss_LaVictoria.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LaVictoria.psv ->> HORIZONTE->NOMBRE(S)........: ap | e | bt | bc | c | ck
+dss_LaVictoria.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17 | 17-30 | 30-54 | 54-73 | 73-90 | 90a+
+dss_LaVictoria.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.96 | - | - | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.14 | - | 0.19 | 0.12 | - | 0.11
+dss_LaVictoria.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.125 | 0.043 | 0.040 | 0.029 | 0.023 | 0.023
+dss_LaVictoria.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.1 | - | 4.7 | 4.1 | - | 
+dss_LaVictoria.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15.5 | 8.5 | 17.2 | 15.1 | 13.1 | 12.1
+dss_LaVictoria.psv ->> HORIZONTE->LIMO 2-50 (%)....: 38.9 | 43.9 | 38.1 | 36.9 | 35.8 | 38.8
+dss_LaVictoria.psv ->> HORIZONTE->AMF 50-100 (%)...: 43.3 | 42.8 | 41.7 | 44.2 | 43.0 | 45.0
+dss_LaVictoria.psv ->> HORIZONTE->AF 100-250 (%)...: 1.8 | 2.9 | 4.4 | 3.3 | 7.1 | 3.5
+dss_LaVictoria.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0.47 | 0.09 | 0.147 | 0 | 1.02
+dss_LaVictoria.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 1.7 | 14.1 | 22.0 | 21.1 | 16.3 | 15.1
+dss_LaVictoria.psv ->> HORIZONTE->PH PASTA.........: 5.2 | 7.4 | 8.2 | 8.6 | 8.5 | 8.6
+dss_LaVictoria.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.6 | 8.9 | 9.2 | 9.3 | 9.2 | 9.3
+dss_LaVictoria.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 4.9 | - | 6.4 | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.9 | - | 1.9 | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.6 | - | 8.2 | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CI ME/100G-K +...: 2.5 | - | 2.7 | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CI ME/100G-H +...: 4.1 | - | - | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | 44.5 | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | 19.2 | 6.0 | 12.9 | 18.2 | 16.5
+dss_LaVictoria.psv ->> HORIZONTE->SUM.B. ME/100G(S): 9.9 | - | 19.2 | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->CIC ME/100G(T)...: 14.0 | 16.2 | 18.4 | 18.5 | 15.6 | 14.5
+dss_LaVictoria.psv ->> HORIZONTE->SAT.B % (S/T)....: 70 | - | 100 | - | - | 
+dss_LaVictoria.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | 20.9 | 8.8 | 10.0 | 11.5 | 11.8
+dss_LaVictoria.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | 11.2 | - | 6.5 | 7.3 | 6.2
+dss_LaVictoria.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | 196.0 | 52.0 | 121.0 | 180.0 | 172.0
+dss_LaVictoria.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | 3.9 | 1.15 | 2.2 | 3.0 | 2.5
+dss_LaVictoria.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | 3.0 | 5.4 | 4.0 | 3.0 | 6.8
+dss_LaVictoria.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | 124.0 | 19.7 | 72.8 | 101.0 | 96.0
+dss_LaVictoria.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | 104.0 | 33.9 | 66.4 | 105.0 | 92.4

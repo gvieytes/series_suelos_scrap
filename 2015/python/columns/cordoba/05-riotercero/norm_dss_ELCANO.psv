@@ -1,0 +1,40 @@
+dss_ELCANO.psv ->> ID..........................: 504
+dss_ELCANO.psv ->> CLASIFICACION...............: Haplustol típico
+dss_ELCANO.psv ->> SERIE.......................: EL CANO (Cano)
+dss_ELCANO.psv ->> UBICACION...................: 13 Km al Sur de Río de los Sauces, departamento Calamuchita
+dss_ELCANO.psv ->> PROVINCIA...................: CORDOBA
+dss_ELCANO.psv ->> LATITUD.....................: S322700
+dss_ELCANO.psv ->> LONGITUD....................: O643500
+dss_ELCANO.psv ->> ALTITUD.....................: 720
+dss_ELCANO.psv ->> PENDIENTE...................: FALTA!
+dss_ELCANO.psv ->> DRENAJE.....................: FALTA!
+dss_ELCANO.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_ELCANO.psv ->> PERMEABILIDAD...............: FALTA!
+dss_ELCANO.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+dss_ELCANO.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_ELCANO.psv ->> HORIZONTE->NOMBRE(S)........: a | bw | bc | ck
+dss_ELCANO.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-43 | 43-74 | 74a+
+dss_ELCANO.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.6 | 1.4 | - | 
+dss_ELCANO.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.50 | 0.80 | - | 
+dss_ELCANO.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.19 | - | - | 
+dss_ELCANO.psv ->> HORIZONTE->RELACIÓN C/N.....: 7.9 | - | - | 
+dss_ELCANO.psv ->> HORIZONTE->ARCILLA 2 (%)....: 13.8 | 14.1 | 9.2 | 9.8
+dss_ELCANO.psv ->> HORIZONTE->LIMO 2-50 (%)....: 51.8 | 52.8 | 56.4 | 51.7
+dss_ELCANO.psv ->> HORIZONTE->AMF 50-100 (%)...: 31.3 | 28.3 | 29.3 | 34.1
+dss_ELCANO.psv ->> HORIZONTE->AF 100-250 (%)...: 0.2 | 2.0 | 1.4 | 1.6
+dss_ELCANO.psv ->> HORIZONTE->AM 250-500 (%)...: 0.3 | 0.1 | 0.2 | 0.2
+dss_ELCANO.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.4 | 0.3 | 0.3 | 0.2
+dss_ELCANO.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.3 | 0.2 | - | 0.3
+dss_ELCANO.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0.0 | 0.0 | 0.0 | 5.9
+dss_ELCANO.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 17.6 | 26.1 | 15.5 | 16.2
+dss_ELCANO.psv ->> HORIZONTE->PH PASTA.........: 6.4 | 0.0 | 7.4 | 8.0
+dss_ELCANO.psv ->> HORIZONTE->PH H2O 1:2,5.....: 7.0 | 0.0 | 7.6 | 8.4
+dss_ELCANO.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8.6 | 9.4 | 10.0 | 
+dss_ELCANO.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.8 | 1.2 | 1.1 | 
+dss_ELCANO.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 0.4 | 0.2 | 0.3
+dss_ELCANO.psv ->> HORIZONTE->CI ME/100G-K +...: 1.7 | 1.8 | 1.4 | 1.0
+dss_ELCANO.psv ->> HORIZONTE->CI ME/100G-H +...: 1.2 | 0.8 | - | 
+dss_ELCANO.psv ->> HORIZONTE->Na+ % DEL VALOR T: 3.1 | 2.9 | 1.7 | 2.8
+dss_ELCANO.psv ->> HORIZONTE->SUM.B. ME/100G(S) (S): 11.5 | 12.8 | 12.7 | 1.3
+dss_ELCANO.psv ->> HORIZONTE->CIC ME/100G(T)...: 12.8 | 13.6 | 11.9 | 10.8
+dss_ELCANO.psv ->> HORIZONTE->SAT.B % (S/T)....: 89.8 | 94.1 | 106.7 | 12.0

@@ -1,0 +1,67 @@
+ALGARROBO.docx:		Estancia "Los Algarrobos" (foto 466-6) - Dpto. La Paz
+S324807
+O601914
+
+BANDERAS.docx:		Colonia Trece (foto 486-26) - Dpto. La Paz.
+S324807
+O601914
+
+CAÑADA_GRANDE.docx:	Doll (foto 432-80) - Dpto. Diamante.
+S335014
+O613038
+
+CHAÑAR.docx:		Estancia Los Paraísos (Foto 496-38) – Dpto. La Paz
+S324807
+O601914
+
+COLONIA_ONCE.docx:	Colonia San Carlos (foto 469-40).  Dpto.  La Paz.
+S324807
+O601914
+
+COLONIA_TRECE.docx:	Colonia Oficial Nº 13 (foto 486-27) - Dpto. La Paz
+S324807
+O601914
+
+DAMASIO.docx:		Estancia La Vigilancia (foto 479-69) - Dpto. La Paz
+S324807
+O601914
+
+DON_ALFREDO.docx:	Establecimiento "Don Alfredo" (foto 434-93) - Dpto. Diamante.
+S335014
+O613038
+
+DORADO.docx:		Arroyo Yacaré (foto 495 – 17) – Dpto. La Paz
+S324807
+O601914
+
+ESTACAS.docx:		Estancia San Juan (foto 492-26) - Dpto. La Paz
+S324807
+O601914
+
+ESTANCIA_EL_SAUCE.docx:	Estancia La Vigilancia (foto 478-13) - Dpto. La Paz
+S324807
+O601914
+
+HERNANDARIAS.docx:	Estancia El Tartagal (foto 463-42) - Dpto. La Paz
+S324807
+O601914
+
+LAS_MERCEDES.docx:	Est. "Don Alfredo" (foto 434-93) - Dpto. Diamante.
+S335014
+O613038
+
+LAS_MULAS.docx:		Estancia El Retiro (foto 494-18) – Dpto. La Paz
+S324807
+O601914
+
+LOS_CERRILLOS.docx:	Ea. "El Retiro" (foto H428-1) - Dpto. Diamante
+S335014
+O613038
+
+RAMBLONES.docx: 	Estancia "Santa Inés de las Estacas" (foto 485-15) - Dpto. La Paz
+S324807
+O601914
+
+TACHUELA.docx:		13 Km. al SO de la ciudad de San José de Feliciano.
+S313240
+O590845

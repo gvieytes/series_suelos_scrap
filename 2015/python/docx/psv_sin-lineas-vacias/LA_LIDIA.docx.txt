@@ -1,0 +1,226 @@
+--------------------------------------------------------------------------------
+SERIE LA LIDIA Símbolo: LLd
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con epipedón muy oscuro, franco-arcillo-limoso, y un horizonte argílico oscuro, arcilloso, con concreciones de hierro-manganeso en todo el perfil y escasas concreciones calcáreas a partir del horizonte B3.
+Están desarrollados sobres sedimentos limo-loessoides retransportados y descarbonatados.
+Perfil tipo: ER1-106C
+Fecha: 27-VII-94
+Ubicación: Estancia La Lidia (foto 440-9)-Dpto. Tala
+Reconocedores: O.A. Foti; R.H. Fuentes.
+A11: 00-19 cm; negro (10YR 2/1) en húmedo y gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; blando en seco, friable en húmedo; barnices ("humic-skins") abundantes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+A12: 19-33 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; blando en seco, friable en húmedo; barnices ("humic-skins") abundantes; concreciones de hierro-manganeso escasas; moteados de hierro-manganeso comunes, finos y precisos; presencia de arena fina en las caras de los agregados; límite claro, suave.
+B21t: 33-55 cm; gris muy oscuro (10YR 3/1) en húmedo; arcilloso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y finas; barnices ("clay-skins") escasos y finos; concreciones de hierro-manganeso escasas; moteados de hierro-manganeso comunes finos y precisos; límite claro, suave.
+B22t: 55-85 cm; gris muy oscuro (10YR 3/1.5) en húmedo; arcilloso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y gruesas; concreciones de hierro-manganeso abundantes; moteados de hierro-manganeso comunes finos y precisos; límite gradual, ondulado.
+B3ca: 85-120 cm; pardo oscuro (7.5YR 4/4) en húmedo; arcilloso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes gruesos, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes y gruesas; barnices ("clay-skins") abundantes; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes y finas; concreciones de hierro-manganeso escasas; moteados de hierro-manganeso abundantes, medios y sobresalientes; límite difuso, ondulado.
+C: 120 cm +; pardo oscuro (7.5YR 4/4.5) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; blando en seco, friable en húmedo; barnices ("clay-skins") escasos; concreciones de hierro-manganeso escasas a comunes; moteados de hierro-manganeso comunes, medios y precisos.
+Variabilidad de rasgos
+El solum tiene 120 cm o más. El epipedón mólico incluye los horizontes A11 y A12, con un espesor que varía entre 30 y 35 cm.
+El horizonte argílico, con estructura prismática, tiene un espesor de entre 50-57 cm y, normalmente, está mejor expresado en su parte inferior. Su porcentaje de arcilla es de alrededor del 50%, y es denso, poco penetrable por las raíces, con abundantes concreciones de hierro-manganeso.
+Las concreciones calcáreas aparecen recién a los 85 cm en el horizonte B3, pero desaparecen en el horizonte C. En algunos casos, no se encuentran concreciones hasta los 2 m de profundidad, por lo que puede inferirse que la formación de estos suelos correspondió a diferentes secuencias de deposición del loess.
+El color del horizonte C es muy uniforme y varía en tonos de pardo oscuro (7.5YR 4/4 a 7.5YR 4/4.5). Tiene alrededor del 45-50% de arcilla.
+Fases
+No presenta a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a serie La Emiliana, pero ésta tiene un epipedón más corto y más arcilloso. También se parece a serie Lazo que tiene más arena en el perfil y sin calcáreo.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial muy lento. Permeabilidad lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La serie tiene una erosión actual leve y es levemente susceptible a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Lidia
+ER1-106C
+N° de registro
+ 8674
+ 8675
+ 8676
+ 8677
+ 8678
+ 8679
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ C
+Profundidad (cm
+ 02-15
+ 21-30
+ 35-50
+ 58-80
+ 88-115
+ 130-160
+Mat.organica (%)
+ 6.04
+ 3.97
+ 1.56
+ 1.14
+ 0.71
+ 0.22
+N (%)
+ 0.29
+ 0.20
+ 0.10
+ 0.01
+ 0.02
+ 0.00
+C/N
+ 11.45
+ 11.20
+ 8.71
+ 42.67
+ 17.39
+ 30.00
+T <2
+ 29.44
+ 33.18
+ 50.75
+ 50.43
+ 50.00
+ 49.85
+E 2-20
+ 31.14
+ 26.52
+ 17.21
+ 21.50
+ 21.55
+ 21.98
+X 2-50
+ 54.19
+ 55.12
+ 38.69
+ 39.56
+ 39.79
+ 40.02
+T 50-100
+ 2.20
+ 1.11
+ 1.92
+ 2.55
+ 2.95
+ 2.70
+U 100-500
+ 13.80
+ 10.28
+ 8.21
+ 7.08
+ 6.98
+ 7.05
+R 500-1000
+ 0.37
+ 0.31
+ 0.43
+ 0.38
+ 0.28
+ 0.38
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ Vest.
+ Vest.
+ ND 1)
+ Vest.
+ 8.25
+ 0.19
+pH H2O
+ 6.0
+ 5.4
+ 6.1
+ 7.2
+ 8.1
+ 7.4
+pH ClK
+ 5.6
+ 4.9
+ 5.2
+ 6.2
+ 7.1
+ 6.5
+Conductividad eléctrica mmhos/cm
+ 1.14
+ 0.43
+ 0.49
+ 0.61
+ 1.30
+ 0.94
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 28.70
+ 29.70
+ 36.80
+ 36.60
+ 36.50
+ 36.10
+d
+Ca++
+ 20.80
+ 21.60
+ 27.00
+ 27.00
+ -
+ 26.80
+C
+e
+a
+Mg++
+ 4.60
+ 4.70
+ 5.60
+ 5.50
+ -
+ 5.40
+t
+c
+i
+a
+K+
+ 1.40
+ 1.50
+ 1.80
+ 1.70
+ 1.70
+ 1.60
+o
+m
+n
+b
+Na+
+ 1.10
+ 1.20
+ 1.60
+ 1.60
+ 2.10
+ 1.60
+e
+i
+s
+o
+H+
+% Na/T
+ 3.83
+ 4.04
+ 4.35
+ 4.37
+ 5.75
+ 4.43
+Equivalente de humedad (%)
+ 30.20
+ 30.33
+ 49.62
+ 48.75
+ 48.25
+ 48.32
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -
+ -
+ -
+N.D. 1) = No determinado.
+Vest.= Vestigios.

@@ -1,0 +1,269 @@
+
+--------------------------------------------------------------------------------
+SERIE ESMERALDA					 	 Símbolo: Esm
+
+
+Pertenece a la familia "arcillosa fina, montmorillonítica, neutra, térmica" de los Peludertes argiacuólicos.
+
+La serie Esmeralda es un suelo oscuro; hidromórfico; imperfectamente a moderadamente bien drenado, que cuando está seco se agrieta, especialmente en el subsuelo. Presenta un microrrelieve gilgai muy tenue y poco visible en el campo. Se ubica en un paisaje muy suavemente ondulado, sin erosión actual, con charcos pequeños y someros que cubren aproximadamente entre 10-20 % de la superficie de la unidad. Las pendientes son largas con intensidades que varían entre 0.5-1%.
+Al material madre de esta serie lo constituyen sedimentos lacustres del Grupo Punta Gorda.
+
+
+Perfil tipo: ER3-42C
+Fecha: 28-XI -1972
+Ubicación: Ea. San Ramón, 3 Km al N. de la estación Esmeralda. Foto IR 201-78
+Reconocedores: R.E. Kleinernan, E. Scotta; G.W. van Barneveld
+
+
+A1: 00-23 cm; gris muy oscuro (10 YR 3/1) en húmedo; franco limoso; estructura granular; friable en húmedo; plástico y ligeramente adhesivo; barnices ("humic skins") escasos, finos; moteados de hierro manganeso comunes; finos, débiles; escasas concreciones de hierro y manganeso; límite claro suave. Horizonte lixiviado.
+
+B21: 23-50 cm; negro (10 YR 2.5/1) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares medios moderados que rompen en bloques angulares y agregados cuneiformes medios débiles; firme en húmedo; muy plástico y adhesivo; caras de fricción ("slickensides") comunes, finas; concreciones de hierro y manganeso comunes; moteados de hierro y manganeso escasos, finos, débiles; límite claro ondulado.
+
+B22: 50-70 cm; negro (10 YR 2.5/1) en húmedo; arcillo limoso; estructura en prismas compuestos irregulares medios moderados que rompen en bloques cuneiformes y bloques angulares con agregados cuneiformes medios moderados; firme en húmedo; muy plástico y adhesivo; concreciones de hierro manganeso comunes de aproximadamente 2 mm; abundantes caras de fricción ("slickensides") intersectadas; moteados de hierro manganeso escasos, finos y débiles; límite claro y ondulado.
+
+B31ca: 70-95 cm; gris oscuro (10 YR 4/1) en húmedo; franco arcillo limoso; estructura en prismas compuestos irregulares medios débiles que rompen en bloques angulares irregulares medios gruesos, débiles; firme en húmedo; muy plástico y adhesivo; concreciones calcáreas comunes y de hierro y manganeso comunes, finas y débiles; límite difuso suave.
+
+B32ca: 95 cm + (120); pardo (7.5 YR 5/4) en húmedo; arcillo limoso; estructura masiva con bloques angulares inherentes al material; friable en húmedo; plástico y adhesivo; concreciones calcáreas abundantes, blandas; concreciones de hierro y manganeso escasas, finas; caras de fricción ("slickensides") escasas, finas.
+
+
+
+Variabilidad de rasgos
+
+Los perfiles presentan un epipedón (horizonte A1) oscuro, con un espesor medio entre 12-16 cm. existiendo fases someras (de menos de 10 cm) y profundas (más de 20 cm); franco limoso; con estructura en bloques, con escasas concreciones de hierro y manganeso y abundantes moteados de los mismos elementos. Este horizonte se presenta normalmente lixiviado a muy lixiviado.
+Subyace un horizonte B2, arcillo limoso, con espesores que oscilan entre 45-55 cm.; aunque se detectaron espesores de 30 cm y también algunos de unos 60 cm. La estructura es prismática; los moteados de hierro y manganeso son comunes y las caras de fricción ("slickensides") abundantes. Las concreciones calcáreas aparecen a partir de los 50-70 cm.
+El horizonte transicional (B3) pardo oscuro, es rico en concreciones calcáreas y los moteados de hierro y manganeso son comunes.
+
+
+Fases
+
+No se observaron a escala de relevamiento (1:100.000).
+
+
+Drenaje
+
+Imperfectamente a moderadamente bien drenado. Escurrimiento medio. Permeabilidad lenta
+
+
+Erosión
+
+La serie Esmeralda no presenta erosión actual.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Esmeralda
+
+ER3-42C
+
+
+
+
+
+Nº de registro
+ -
+ -
+ -
+ -
+ -
+Horizonte
+ A1
+ B21
+ B22
+ B31ca
+ B32ca
+Profundidad (cm)
+ 5-15
+ 30-47
+ 54-70
+ 76-92
+ 115-130
+Mat.organica (%)
+ 4.25
+ 2.16
+ 1.62
+ 0.81
+ 0.15
+C (%)
+ 2.46
+ 1.25
+ 0.94
+ 0.47
+ 0.09
+N (%)
+ 0.213
+ 0.110
+ 0.091
+ 0.057
+ N.D
+C/N
+ 12
+ 11
+ 10
+ 8
+ 11
+
+T <2
+ 22.1
+ 33.0
+ 43.5
+ 39.6
+ 40.8
+E 2-20
+ -
+ -
+ -
+ -
+ -
+X 2-50
+ 75.4
+ 65.5
+ 55.2
+ 58.9
+ 57.4
+T 50-100
+ 0.3
+ 0.3
+ 0.4
+ 0.5
+ 0.4
+U 100-250
+ 1.2
+ 0.6
+ 0.4
+ 0.5
+ 0.7
+R 250-500
+ 0.8
+ 0.4
+ 0.3
+ 0.3
+ 0.5
+A 500-1000
+ 0.2
+ 0.2
+ 0.2
+ 0.2
+ 0.2
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 3.7
+ 3.5
+pH H2O
+ 5.2
+ 6.1
+ 7.2
+ 7.9
+ 8.0
+pH ClK
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 25.8
+ 39.5
+ 42.0
+ 37.2
+ 34.6
+
+D
+Ca++
+ 19.2
+ 30.3
+ 36.5
+ N.D
+ N.D
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 2.3
+ 2.7
+ 3.2
+ N.D
+ N.D
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.3
+ 0.5
+ 0.6
+ 0.6
+ 0.6
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.4
+ 1.2
+ 1.6
+ 1.4
+ 1.5
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 5.6
+ 5.2
+ 1.9
+ N.D
+ N.D
+
+
+
+
+
+
+
+
+% Na/T
+
+ 1.6
+ 3
+ 3.8
+ 3.8
+ 4.3
+
+Equivalente de humedad (%)
+ 27.3
+ 38.5
+ 42.0
+ 37.8
+ 38.9
+

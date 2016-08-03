@@ -1,0 +1,200 @@
+--------------------------------------------------------------------------------
+SERIE LOS CONQUISTADORES	 Símbolo: Cq
+Pertenece a la familia "fina, montmorillonítica, no calcárea, térmica" de los Argiacuoles vérticos (suelos gley-subhúmicos vertisólicos).
+Son suelos oscuros, pobremente drenados, desarrollados en materiales limo-loessoides semigleizados y semidescarbonatados.
+Perfil tipo: ER3-26C
+Fecha: 22-III-1972
+Ubicación: Ea. La Estrella (foto 189-100) - Dpto. Feliciano.
+Reconocedores: R.E Kleinerman; G.W. van Barneveld.
+A11: 00-15 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco-arcillo-limoso; estructura en bloques subangulares, medios, moderados; extremadamente duro en seco; friable en húmedo; moteados de hierro-manganeso comunes, precisos y finos; concreciones de hierro-manganeso, finas; límite claro, suave.
+A12: 15-34 cm; gris muy oscuro a negro (10YR 2,5/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-limoso; estructura en bloques angulares irregulares, medios, moderados, con tendencia a prismas compuestos irregulares; duro en seco; firme en húmedo; barnices ("humic-skins") escasos, finos; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso, finas; límite claro, suave.
+B21t: 34-51 cm; negro (10YR 2/1) en húmedo; gris oscuro (10YR 4/1) en seco; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; extremadamente duro en seco; muy firme en húmedo; barnices ("humic-skins") escasos, finos; caras de fricción (`slickensides') escasas, finas; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso comunes, finas; límite gradual, suave.
+B22t: 51-87 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios y gruesos, moderados; firme en húmedo; caras de fricción (`slickensides') comunes a abundantes, finas, intersectadas; moteados de hierro-manganeso comunes, finos y débiles; concreciones de hierro-manganeso escasas a comunes, finas; límite claro, ondulado.
+B3ca(g): 87 cm+; pardo grisáceo (10YR 5,5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios y gruesos, moderados; friable en húmedo; caras de fricción (`slickensides') comunes, gruesas, poco intersectadas; concreciones de hierro-manganeso escasas a comunes, finas; concreciones calcáreas comunes y finas; horizonte gleizado.
+Variabilidad de rasgos
+La característica dominante es la heterogeneidad en cuanto al espesor del epipedón, ya que presenta un típico microrrelieve de altos y bajos conformando pequeñas depresiones y elevaciones, con diferencias de alturas que oscilan entre 5-8 cm.
+Debido a dicha heterogeneidad es posible encontrar perfiles donde el epipedón está formado por horizontes A11 y A12 de un espesor total de hasta 30 cm, franco-limosos, lixiviados, de colores oscuros en húmedo y claros en seco, y -a corta distancia- otros perfiles con un epipedón que no supera los 10 cm, con colores similares a los anteriores (se han considerado también otros pedones que permiten ser clasificados como Alfisoles), de textura franco-arcillo-limosa a arcillosa, muy denso y poco permeable.
+El horizonte B2 es arcillo-limoso, con tenores de arcilla que a veces superan el 55 %. La estructura es prismática y existen abundantes caras de fricción (slickensides) al igual que moteados de hierro-manganeso. El espesor varía entre 50-60 cm, tiene colores muy oscuros en húmedo y escasas concreciones de hierro-manganeso.
+El horizonte B3 se encuentra casi siempre gleizado, es arcillo limoso y con moteados y concreciones ferro-manganesíferas.
+En algunos perfiles se ha constatado la presencia de concreciones calcáreas en profundidad.
+Fases
+No presenta a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a la series Moreira (pero ésta tiene monte natural de ñandubay y algarrobos en donde la proporción de charcos y lagunas es menor; además, dicha serie tiene tenores más altos de sodio de intercambio), Garat (menos hidromórfica y con carbonatos a menor profundidad) y Lucas Norte (calcáreo más alto en el perfil y menos hidromorfismo).
+Drenaje
+Pobremente drenado. Escurrimiento superficial lento. Permeabilidad lenta. Napa freática fluctuante. Grupo hidrológico D.
+Erosión
+No presenta erosión actual y son prácticamente no susceptible a la misma.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Los Conquistadores
+ER3-26C
+Nº de registro
+ 706
+ 707
+ 708
+ 709
+ 710
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca (g)
+Profundidad (cm)
+ 00-13
+ 20-30
+ 41-49
+ 63-75
+ 100-120
+Mat.organica (%)
+ 4,55
+ 2,13
+ 1,48
+ 1,10
+ 0,22
+C (%)
+ 2,65
+ 1,24
+ 0,86
+ 0,64
+ 0,13
+N (%)
+ 0,231
+ 0,107
+ 0,073
+ 0,054
+ 0,018
+C/N
+ 11
+ 12
+ 12
+ 12
+ 7
+T
+ < 2 u
+ 28,9
+ 26,4
+ 40,6
+ 53,8
+ 50,0
+E
+ 2-20 u
+ -
+ -
+ -
+ -
+ -
+X
+ 2-50 u
+ 70,5
+ 72,7
+ 58,3
+ 45,5
+ 49,5
+T
+ 50-100 u
+ 0,3
+ 0,3
+ 0,3
+ 0,2
+ 0,2
+U
+ 100-250 u
+ 0,2
+ 0,3
+ 0,4
+ 0,3
+ 0,2
+R
+ 250-500 u
+ 0,1
+ 0,3
+ 0,4
+ 0,2
+ 0,1
+A
+ 500-1000 u
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+CO3Ca (%)
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+ 0,0
+pH H2O
+ 5,3
+ 5,7
+ 6,3
+ 7,2
+ 7,8
+pH ClK
+ -
+ -
+ -
+ -
+ -
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 29,30
+ 29,10
+ 31,40
+ 39,60
+ 36,30
+d
+Ca++
+ 18,10
+ 20,60
+ 24,90
+ 35,80
+ N,D,
+C
+e
+a
+Mg++
+ 3,70
+ 3,70
+ 2,90
+ 2,30
+ N,D,
+t
+c
+i
+a
+K+
+ 0,60
+ 0,50
+ 0,80
+ 1,10
+ 1,20
+o
+m
+n
+b
+Na+
+ 0,40
+ 0,30
+ 0,40
+ 0,80
+ 0,60
+e
+i
+s
+o
+H+
+ 7,60
+ 5,10
+ 3,10
+ 2,10
+ N,D,
+% Na/T
+ 1,4
+ 1,0
+ 1,3
+ 2,0
+ 1,7
+N.D.= No determinado.

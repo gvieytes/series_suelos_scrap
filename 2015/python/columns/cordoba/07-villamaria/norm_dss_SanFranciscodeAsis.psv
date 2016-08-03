@@ -1,0 +1,47 @@
+dss_SanFranciscodeAsis.psv ->> ID..........................: 726
+dss_SanFranciscodeAsis.psv ->> CLASIFICACION...............: Natracualf mólico
+dss_SanFranciscodeAsis.psv ->> SERIE.......................: SAN FRANCISCO DE ASÍS (SFdAsis)
+dss_SanFranciscodeAsis.psv ->> UBICACION...................: 11,3 km al SSO de la localidad de Alto Alegre
+dss_SanFranciscodeAsis.psv ->> PROVINCIA...................: CORDOBA
+dss_SanFranciscodeAsis.psv ->> LATITUD.....................: S321100
+dss_SanFranciscodeAsis.psv ->> LONGITUD....................: O625700
+dss_SanFranciscodeAsis.psv ->> ALTITUD.....................: 158
+dss_SanFranciscodeAsis.psv ->> PENDIENTE...................: FALTA!
+dss_SanFranciscodeAsis.psv ->> DRENAJE.....................: FALTA!
+dss_SanFranciscodeAsis.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_SanFranciscodeAsis.psv ->> PERMEABILIDAD...............: FALTA!
+dss_SanFranciscodeAsis.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA, MIXTA, TÉRMICA
+dss_SanFranciscodeAsis.psv ->> COLOR ......................: PARDO OSCURO
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->NOMBRE(S)........: ap | bt | bw | bc | ck
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17 | 17-38 | 38-53 | 53-86 | 86a+
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.85 | 0.72 | - | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.08 | 0.42 | 0.21 | 0.15 | 0.10
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.12 | 0.06 | 0.04 | 0.03 | 0.02
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->RELACIÓN C/N.....: 8.6 | 6.7 | 4.6 | 4.0 | 3.4
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14.6 | 19.9 | 15.7 | 13.6 | 11.5
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->LIMO 2-50 (%)....: 72.6 | 67.7 | 68.9 | 69.8 | 71.6
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->AMF 50-100 (%)...: 11.9 | 10.9 | 12.4 | 14.8 | 15.6
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->AF 100-250 (%)...: 0.9 | 1.5 | 1.7 | 1.3 | 1.4
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | 1.6 | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | 0.7 | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0.44 | 1.28 | 0.70 | 3.52
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 26.3 | 32.5 | 28 | 23.3 | 22.7
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->PH PASTA.........: 5.5 | 8.3 | 8.5 | 8.5 | 8.8
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.0 | 9.3 | 9.5 | 9.5 | 9.7
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 8.8 | - | - | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.4 | - | - | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 12.0 | 12.4 | 10.8 | 10.4
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CI ME/100G-K +...: 2.9 | 4.0 | 4.0 | 5.0 | 4.0
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CI ME/100G-H +...: 3.1 | - | - | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | 48.3 | 54.3 | 54.8 | 52.7
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.3 | - | - | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->CIC ME/100G(T)...: 16.8 | 24.8 | 22.8 | 19.7 | 19.7
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->SAT.B % (S/T)....: 79.1 | - | - | - | 
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->C.EXT.S ME/1-Ca++: - | 5.2 | 5.9 | 5.2 | 5.7
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->C.EXT.S ME/1-Mg++: - | - | 0.1 | - | 0.08
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->C.EXT.S ME/1-Na+.: - | 45.0 | 50.0 | 53.0 | 69.0
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->C.EXT.S ME/1-K+..: - | 0.75 | 0.8 | 0.9 | 1.0
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->C.EX.S ME/1-HCO3-: - | 9.3 | 7.6 | 6.8 | 10.0
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->C.EXT.S ME/1-SO4-: - | 20.5 | 35.6 | 34.6 | 47.9
+dss_SanFranciscodeAsis.psv ->> HORIZONTE->C.EXT.S ME/1-Cl-.: - | 22.6 | 12.8 | 16.0 | 16.0

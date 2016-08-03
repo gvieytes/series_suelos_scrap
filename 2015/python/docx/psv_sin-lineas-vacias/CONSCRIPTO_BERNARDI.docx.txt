@@ -1,0 +1,199 @@
+--------------------------------------------------------------------------------
+SERIE CONSCRIPTO BERNARDI					 Símbolo: Cbn
+Pertenece a la familia "fina, montmorillonítica, moderadamente alcalina, térmica" de los Natracualfes glósicos (Planosol con un horizonte B2t con altos contenidos de sodio).
+	
+Son suelos imperfectamente drenados, con un epipedón somero y colores claros, muy lixiviado y con "lenguas" de limo de aproximadamente 2 cm de espesor que se extienden hasta el horizonte nátrico, arcillo- limoso. Son moderadamente alcalinos a partir de 40 cm y presentan abundantes cristales de yeso.
+Suelos desarrollados sobre materiales "limos calcáreos" densos, franco-arcillo-limosos a arcillo- limosos.
+Perfil tipo: ER7-34C
+Fecha: 8-XII-1982
+Ubicación: Estación Conscripto Bernardi (foto 473-6) - Dpto. Federal
+Reconocedores: L.O. López; R.H. Fuentes; O.A. Foti.
+A2: 00-10cm; pardo amarillento (10YR 6/6) en seco y gris a gris oscuro (10YR 4.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, fuertes; extremadamente duro en seco, friable en húmedo; moteados de hierro-manganeso sobresalientes, comunes y finos; concreciones de hierro-manganeso escasas y finas; límite claro, ondulado.
+B/A: 10-17cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura columnar gruesos y fuertes; extremadamente duro en seco, firme en húmedo; barnices ("clay humic skins") moteados de hierro-manganeso precisos, abundantes y medios; concreciones de hierro-manganeso abundantes y finos; lenguas de material álbico de aproximadamente 2cm de ancho; limite claro, irregular.
+B21t: 17-40cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, fuertes; extremadamente duro en seco firme en húmedo; barnices ("clay humic skins") abundantes y gruesos; caras de fricción ("slickensides") finos e intersectados; moteados de hierro-manganeso precisos, comunes y medios; concreciones de hierro-manganeso escasas, finas; límite claro, suave.
+B22tcacs: 40-60cm; pardo grisáceo a pardo muy oscuro (10YR 4.5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles; duro en seco, friable en húmedo; barnices "clay skins" escasos, finos; caras de fricción "slickensides" abundantes e intersectados; moteados de hierro-manganeso precisos, escasos y finos, concreciones de calcio abundantes y finas; concreciones de sulfato de calcio (yeso) abundantes y finas; límite gradual, suave.
+B3ca: 60-90cm; pardo (7.5YR 5/4) en húmedo; arcillo-limoso estructura en prismas compuestos irregulares medios, débiles; duro en seco, friable en húmedo; barnices ("clay humic skins") escasos y gruesos; caras de fricción ("slickensides") escasas, finas; moteados de hierro-manganeso sobresalientes, abundantes y gruesos; concreciones de calcio finas y medias; límite difuso, suave.
+Cca: 90 cm +; gris rosado a pardo claro (7.5YR 6/4) en húmedo; arcillo-limosa; estructura de bloques subangulares irregulares y bloques cuneiformes medios, moderados; ligeramente duro en seco; friable en húmedo; caras de fricción ("slickensides") abundantes, gruesos; moteados sobresalientes, abundantes, medios; concreciones de calcio abundantes y medios.
+Variabilidad de rasgos
+La variabilidad de rasgos está determinada, principalmente, por la actividad de las hormigas (especies Atta vollenweideri y Acromyrmex lundi); ya que en algunos perfiles esta influencia ha alterado gran parte del pedón - es frecuente ver hormigueros de 10 m de diámetro x 70 cm de alto - también se observan microdepresiones que conforman bañados en épocas lluviosas ("bañados de altura").
+Normalmente presentan un epipedón de estructura masiva o platiforme en superficie con un A2 de 10 cm y un horizonte de transición con abundantes lenguas que se extienden hasta el horizonte argílico. El B2t con porcentajes de arcilla entre 40-50%, muy denso y de estructura muy desarrollada y con presencia de sodio aún desde superficie.
+Presenta grietas de aproximadamente 2.5 cm de ancho que nacen en la cabeza del B22 y se extienden hasta la superficie. El SO4Ca, en forma de "rosetas", aparece a partir de los 40 cm aproximadamente.
+Fases
+No presenta a escala de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Arroyo Quebracho, menos alcalino, no sódico. A la serie Colonia Trece, otro paisaje, menos extenso, menos lixiviado y con más erosión y a la serie Bovril, otro paisaje y epipedón mólico.
+Drenaje
+Imperfectamente drenado; escurrimiento superficial nulo. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+No tiene erosión actual, como tampoco es susceptible a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Conscripto Bernardi
+ER7-34C
+Nº de registro
+ 3561
+ 3562
+ 3563
+ 3564
+ 3565
+ 3566
+Horizonte
+ A2
+ B/A
+ B21t
+ B22cacs
+ B3ca
+ Cca
+Profundidad (cm)
+ 01-08
+ 10-17
+ 22-37
+ 44-57
+ 67-85
+ 95-102
+Mat.organica (%)
+ 4.54
+ 1.58
+ 1.78
+ 0.62
+ -
+ -
+N (%)
+ 0.27
+ 0.12
+ 0.12
+ 0.04
+ 0.03
+ 0.02
+C/N
+ 10
+ 8
+ 9
+ 9
+ -
+ -
+T < 2 μ
+ 29.67
+ 42.27
+ 44.75
+ 50.24
+ 47.80
+ 43.55
+E 2-20 μ
+ 40.13
+ 37.31
+ 39.74
+ 29.82
+ 29.47
+ 29.12
+X 2-50 μ
+ 69.85
+ 57.43
+ 55.02
+ 49.52
+ 51.88
+ 56.16
+T 50-100 μ
+ 0.28
+ 0.21
+ 0.15
+ 0.15
+ 0.20
+ 0.16
+U 100-250 μ
+ 0.17
+ 0.08
+ 0.07
+ 0.08
+ 0.11
+ 0.11
+R 250-500 μ
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+A 500-1000 μ
+ 0.03
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+CO3Ca (%)
+ N.D
+ N.D
+ N.D
+ N.D
+ N.D
+ N.D
+pH H2O
+ 5.9
+ 6.1
+ 6.8
+ 6.9
+ 7.1
+ 7.0
+pH ClK
+ N.D
+ N.D
+ N.D
+ N.D
+ N.D
+ N.D
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 33.37
+ 36.67
+ 41.78
+ 45.11
+ 42.88
+ 39.33
+ d Ca++
+ 24.78
+ 27.83
+ 29.67
+ 38.69
+ -
+ -
+C e
+Mg++
+ 1.96
+ 2.82
+ 3.59
+ 3.05
+ -
+ -
+t c
+i a K+
+ 0.03
+ 0.06
+ 0.13
+ 0.06
+ 0.67
+ 0.09
+o m
+n b Na+
+ 4.90
+ 6.90
+ 6.97
+ 6.37
+ N.D
+ 6.30
+e i
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 14.70
+ 18.80
+ 16.70
+ 14.10
+ N.D
+ 16.00
+N.D.= No determinado.

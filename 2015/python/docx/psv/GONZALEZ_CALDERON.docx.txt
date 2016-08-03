@@ -1,0 +1,339 @@
+
+--------------------------------------------------------------------------------
+SERIE GONZALEZ CALDERON Símbolo: GCn
+
+
+Pertenece a la familia "fina, montmorillonitica, térmica" de los Argiudoles vérticos.
+Suelos moderadamente bien drenados, con un epipedón muy oscuro, franco-limoso a franco-arcillo-limoso y un horizonte argílico oscuro, franco-arcilloso a arcilloso, con caras de fricción y concreciones de calcio a partir del horizonte B3.
+
+Suelos desarrollados en materiales limo-loessoides retransportados, de textura franco-arcillosa y de escaso espesor sobre materiales "limos calcáreos" de textura franco-arcillosa.
+
+
+Perfil tipo: ER2-14C
+Fecha: 3-XI-1970
+Ubicación: Estancia San Julián. (foto IR 411-24). Dpto. Gualeguay
+Reconocedores: C.J. Vesco; G.W. Barneveld.
+
+
+A1: 00-19 cm; negro (10YR 2/2) en húmedo, gris oscuro (10YR 4/1) en seco; franco-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; límite claro, suave.
+
+B1: 19-31 cm; negro (10YR 2/1.5) en húmedo, gris oscuro (10YR 4/1) en seco; franco-limoso; estructura en bloques subangulares y bloques angulares irregulares medios, moderados con tendencia a prismas compuestos irregulares; friable en húmedo; barnices ("humic skins" y "clay-humic skins") escasos; moteado de hierro-manganeso comunes, finos y débiles; límite claro, suave.
+
+B21t: 31-61 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcilloso a arcilloso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; firme en húmedo; barnices ("clay-humic skins") comunes y finos; caras de fricción ("slickensides") escasas, finas e intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B22t: 61-93 cm; pardo grisáceo muy oscuro (10YR 5/2) en húmedo; arcilloso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos y finos; caras de fricción ("slickensides") comunes, finas e intersectadas; moteados de hierro-manganeso, comunes, finos y precisos; límite gradual, ondulado.
+
+B3ca: 93-115 cm; pardo a pardo oscuro (7.5YR 4/3) en húmedo; arcilloso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques subangulares y angulares irregulares débiles; friable en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones de calcio abundantes y finas; barnices ("clay-humic skins"), comunes y finos; caras de fricción ("slickensides") escasas y finas; moteados de hierro-manganeso, escasos, finos y débiles; límite gradual, suave.
+
+Cca: 115 cm+; pardo (7.5YR 5/4) en húmedo; arcilloso; estructura masiva; friable en húmedo; escasos carbonatos en la masa; concreciones de calcio abundantes, de hasta 3 cm; barnices escasos, inherentes al material; moteados de hierro-manganeso comunes, finos y débiles.
+Variabilidad de rasgos
+
+El solum varía de 100-120 cm. El epipedón mólico incluye los horizontes A1 y B1, y varía de 20-35 cm. La estructura es generalmente en bloques angulares y subangulares, con un porcentaje de arcilla que varía entre 20-27%. El horizonte argílico tiene 50-65 cm de espesor con 40-45% de arcilla. Las caras de fricción, poco intersectadas, se encuentran generalmente en el B2 y B3 y a veces en el C. Cuando está seco, el B2 presenta grietas de 1 a 1,5 cm de ancho que se extienden hasta la base del epipedón.
+
+El calcáreo, en concreciones duras y blandas aparece entre los 55-75 cm, en el horizonte B3. El porcentaje aumenta de 1 a 2% en el horizonte B3 hasta 10 a 13% en el C.
+
+El perfil se caracteriza por su cantidad de arena fina y media, que varía de 25 a 30% en todo el perfil.
+
+
+Fases
+
+No se describieron a nivel de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie San Roque, pero ésta última tiene muy poca arena en el perfil (no mas de 5-7%).
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Serie González Calderón está ligeramente erosionada y tiene peligro de erosión laminar cuando está en uso intensivo sin un manejo adecuado.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Gonzalez Calderón
+
+ER2-8C
+
+
+
+
+
+
+N° de registro
+ 233
+ 234
+ 235
+ 236
+ 237
+ 238
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm
+ 00-10
+ 19-31
+ 35-50
+ 70-80
+ 95-105
+ 130-140
+Mat.organica (%)
+ 3.50
+ 3.10
+ 1.80
+ 1.20
+ 0.40
+ 0.20
+C/N
+ 11.00
+ 11.00
+ 10.00
+ 9.00
+ 7.00
+ N/D
+
+T <2
+
+ 21.30
+
+ 23.20
+
+ 40.00
+
+ 42.00
+
+ 41.10
+
+ 42.80
+E 2-20
+ 26.90
+ 23.20
+ 20.00
+ 20.00
+ 20.30
+ 10.00
+X 2-50
+ 47.70
+ 50.10
+ 36.60
+ 35.80
+ 38.50
+ 25.40
+T 50-100
+ 3.10
+ 2.30
+ 2.20
+ 2.30
+ 3.00
+ 1.50
+U 100-250
+ 13.50
+ 11.30
+ 10.00
+ 8.40
+ 8.40
+ 15.00
+R 250-500
+ 13.40
+ 12.00
+ 9.80
+ 9.90
+ 7.90
+ 13.80
+A 500-1000
+ 1.00
+ 1.10
+ 1.40-
+ 1.40
+ 1.10
+ 1.30
+CO3Ca (%)
+
+
+ -
+ -
+ 1.00
+ 10.00
+pH H2O
+ 5.2
+ 5.0
+ 5.4
+ 6.2
+ 7.3
+ 7.6
+pH ClK
+ 4.8
+ 4.5
+ 4.7
+ 5.4
+ 6.5
+ 6.8
+
+Conductividad eléctrica mmhos/cm
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+
+ 22.30
+
+
+
+ 22.20
+
+
+
+ 36.10
+
+
+
+ 34.90
+
+
+
+ 28.30
+
+
+
+ 27.10
+
+d
+Ca++
+ 13.00
+ 13.60
+ 23.80
+ 25.90
+ N.D.
+ N.D.
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 2.50
+ 1.90
+ 4.90
+ 5.30
+ N.D.
+ N.D.
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.10
+ 0.70
+ 0.90
+ 0.90
+ 0.80
+ 0.60
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.10
+ 0.10
+ 0.10
+ 0.20
+ 0.20
+ 0.30
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ 7.10
+ 7.10
+ 6.30
+ 3.10
+ N.D.
+ N.D.
+
+
+% Na/T
+
+ 0.45
+
+ 0.45
+
+ 0.28
+
+ 0.57.
+
+ 0.71
+
+ 1.11
+Equivalente de humedad (%)
+
+ 22.00
+
+ 22.20
+
+ 35.10
+
+ 35.40
+
+ 31.50
+
+ 27.80
+
+P disponible (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+
+¹) N.D.= No determinado
+

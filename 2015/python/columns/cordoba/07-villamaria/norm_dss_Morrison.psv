@@ -1,0 +1,40 @@
+dss_Morrison.psv ->> ID..........................: 724
+dss_Morrison.psv ->> CLASIFICACION...............: Duracuol árgico
+dss_Morrison.psv ->> SERIE.......................: MÓRRISON (Mrrsn)
+dss_Morrison.psv ->> UBICACION...................: 11 km al SSO de la localidad de Alto Alegre, departamento Unión
+dss_Morrison.psv ->> PROVINCIA...................: CORDOBA
+dss_Morrison.psv ->> LATITUD.....................: S322500
+dss_Morrison.psv ->> LONGITUD....................: O625700
+dss_Morrison.psv ->> ALTITUD.....................: 156
+dss_Morrison.psv ->> PENDIENTE...................: FALTA!
+dss_Morrison.psv ->> DRENAJE.....................: FALTA!
+dss_Morrison.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_Morrison.psv ->> PERMEABILIDAD...............: FALTA!
+dss_Morrison.psv ->> TIPO DE SUELO...............: LIMOSA GRUESA, MIXTA, TÉRMICA
+dss_Morrison.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO A PARDO OSCURO
+dss_Morrison.psv ->> HORIZONTE->NOMBRE(S)........: ap | e | bt | bc | ckm
+dss_Morrison.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-17 | 17-38 | 38-68 | 68-86 | 86a+
+dss_Morrison.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1.87 | 1.05 | 0.84 | - | 
+dss_Morrison.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.09 | 0.61 | 0.49 | 0.25 | 0.20
+dss_Morrison.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.11 | 0.07 | 0.06 | 0.04 | 0.03
+dss_Morrison.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.3 | 8.6 | 7.4 | 6.2 | 5.4
+dss_Morrison.psv ->> HORIZONTE->ARCILLA 2 (%)....: 14.7 | 16.3 | 20.8 | 12.4 | 11.2
+dss_Morrison.psv ->> HORIZONTE->LIMO 2-50 (%)....: 69.11 | 69.9 | 65.1 | 70.7 | 66.1
+dss_Morrison.psv ->> HORIZONTE->AMF 50-100 (%)...: 14.3 | 13.1 | 11.5 | 14.4 | 18.6
+dss_Morrison.psv ->> HORIZONTE->AF 100-250 (%)...: 1.0 | 0.7 | 0.8 | 1.3 | 1.9
+dss_Morrison.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | - | 
+dss_Morrison.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | - | 
+dss_Morrison.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | 
+dss_Morrison.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0.70 | 2.93
+dss_Morrison.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 19.6 | 21.3 | 25.3 | 24.2 | 22.5
+dss_Morrison.psv ->> HORIZONTE->PH PASTA.........: 5.8 | 6.9 | 7.0 | 7.7 | 7.9
+dss_Morrison.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.3 | 7.5 | 7.5 | 8.4 | 8.5
+dss_Morrison.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 7.5 | 13.6 | 17.0 | - | 
+dss_Morrison.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.6 | 1.8 | 2.6 | - | 
+dss_Morrison.psv ->> HORIZONTE->CI ME/100G-Na +..: - | 0.8 | 1.6 | 2.0 | 1.9
+dss_Morrison.psv ->> HORIZONTE->CI ME/100G-K +...: 2.0 | 1.8 | 2.2 | 2.6 | 2.4
+dss_Morrison.psv ->> HORIZONTE->CI ME/100G-H +...: 2.4 | 1.1 | 0.9 | - | 
+dss_Morrison.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | - | 
+dss_Morrison.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.1 | 17.6 | 22.6 | - | 
+dss_Morrison.psv ->> HORIZONTE->CIC ME/100G(T)...: 15.4 | 18.6 | 22.9 | 18.0 | 16.8
+dss_Morrison.psv ->> HORIZONTE->SAT.B % (S/T)....: 85.0 | 94.6 | 98.6 | - | 

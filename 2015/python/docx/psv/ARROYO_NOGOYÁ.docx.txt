@@ -1,0 +1,327 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO NOGOYÁ Símbolo: ANog
+
+
+Pertenece a la familia "fina, montmorillonítica, no calcárea, térmica" de los Argiacuoles vérticos.
+
+Suelos desarrollados en materiales loessoides gleizados, probablemente mezclados con materiales lacustres, de textura arcillo-limosa, profundos, de colores oscuros, imperfectamente drenados y completamente descarbonatados. Se encuentran en las partes bajas y cóncavas de las pendientes, con exceso de agua después de cada lluvia.
+
+
+Perfil tipo: ER1-84C
+Fecha: 22-X-1992
+Ubicación: Foto IR 420-74, dto. 5º Sauce - Dpto. Gualeguay.
+Reconocedores: O.A. Foti; R.H. Fuentes.
+
+A11: 00-20 cm; gris oscuro (10YR 4/1) en húmedo, gris muy oscuro (10YR 3/1) en seco; franco- arcillo-limoso; estructura en bloques subangulares medios, moderados; ligeramente duro en seco; firme en húmedo; barnices ("humic-skins") comunes a abundantes; moteados de hierro-manganeso abundantes, finos y precisos; límite claro, suave.
+
+A12: 20-40 cm; negro (10YR 2/1) en húmedo; franco; estructura granular y en bloques subangulares medios, moderados; ligeramente duro en seco, friable en húmedo; barnices ("humic-skins") comunes; moteados de hierro-manganeso, comunes, finos y precisos; concreciones de hierro-manganeso escasas; límite abrupto, suave.
+
+B21t: 40-60 cm; gris muy oscuro (10YR 3/1) en húmedo; arcilloso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en bloques angulares irregulares con tendencia cuneiformes medios, moderados; muy duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes, medias; moteados de hierro-manganeso abundantes, finos y precisos; escasas a comunes concreciones de hierro-manganeso; límite claro, suave.
+
+B22t: 60-90 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques cuneiformes medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, medias; moteados de hierro-manganeso abundantes, finos y precisos; concreciones de hierro-manganeso escasas; límite claro, suave.
+
+B3: 90-113 cm; pardo oscuro (7.5YR 3/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares con tendencia cuneiforme medios, moderados; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") comunes a abundantes; moteados de hierro-manganeso comunes, finos y precisos; escasas concreciones de hierro-manganeso; límite claro, suave.
+
+C: 113 cm+; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques cuneiformes gruesos, débiles; ligeramente duro en seco, friable en húmedo; caras de fricción ("slickensides") comunes a abundantes, gruesas, algo gleizadas; moteados de hierro-manganeso abundantes, finos y precisos.
+
+Variabilidad de rasgos
+
+El solum tiene una profundidad de 110-125 cm y comprende un epipedón mólico bien desarrollado de 40-45 cm de espesor y textura franco-arcillo-limosa a franca, seguido de un horizonte argílico de 52-55 cm de espesor y de textura arcillo-limosa pesada (43-48% de arcilla) y está fuertemente estructurado, con prismas compuestos irregulares que rompen en bloques cuneiformes y con abundantes caras de fricción ("slickensides") medias e intersectados. Hasta la profundidad de 95 cm se destaca la presencia de arena gruesa en las caras de los agregados, debido a aportes selectivos del arroyo Nogoyá.
+
+El horizonte B3 tiene 40-42% de arcilla y un espesor de 20-30 cm; todo el perfil presenta moteados comunes a abundantes, con concreciones ferromanganesíferas prácticamente desde la superficie. No contiene carbonatos libres ni en forma concrecionaria.
+
+El horizonte C, de color pardo, está gleizado por efecto de una napa freática que se encuentra aproximadamente a 100 cm de profundidad. Tiene una estructura cuneiforme gruesa, con abundantes caras de fricción gruesas e intersectadas.
+
+
+Fases
+
+No se describieron fases a nivel de reconocimiento en el departamento Nogoyá
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Puesto Sarandi del Dpto. Gualeguay, pero esta está algo mejor drenada y posee un horizonte argílico menos arcilloso. También se parece a la serie La Matilde, pero el epipedón de esta última está engrosado por acumulación de materiales arrastrados desde las partes más elevadas del relieve y, además, está gran parte del año saturada por una napa freática temporaria suspendida sobre el horizonte B2.
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial muy lento. Permeabilidad muy lenta. Capa freática a 100 cm. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Arroyo Nogoyá no tiene erosión actual, ni peligro a la misma.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Nogoyá
+
+ER1-84C
+Nº de registro
+ 7.206
+ 7.207
+ 7.208
+ 7.209
+ 7.210
+ 7.211
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3
+ C
+Profundidad (cm)
+ 03-17
+ 23-35
+ 45-55
+ 65-85
+ 90-105
+ 113-123
+Mat.organica (%)
+ 3.87
+ 1.54
+ 0.75
+ 0.52
+ 0.15
+ 0.14
+N (%)
+ 0.21
+ 0.07
+ 0.06
+ 0.04
+ 0.02
+ 0.02
+C/N
+ 9.91
+ 11.20
+ 6.67
+ 6.83
+ 3.48
+ 3.81
+
+T < 2 u
+
+ 30.20
+
+ 26.48
+
+ 45.23
+
+ 43.95
+
+ 41.40
+
+ 36.97
+E 2-20 u
+ 27.77
+ 22.38
+ 14.01
+ 15.83
+ 20.53
+ 34.29
+X 2-50 u
+ 51.60
+ 49.46
+ 38.00
+ 41.33
+ 44.35
+ 49.72
+T 50-100 u
+ 1.29
+ 2.36
+ 2.19
+ 1.85
+ 1.33
+ 1.48
+U 100-500 u
+ 16.52
+ 21.05
+ 14.11
+ 12.52
+ 12.51
+ 11.41
+R 500-1000 u
+ 0.39
+ 0.65
+ 0.47
+ 0.35
+ 0.41
+ 0.42
+A 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+pH H2O
+ 5.8
+ 6.3
+ 6.7
+ 7.3
+ 7.7
+ 7.9
+pH ClK
+ 5.0
+ 5.4
+ 5.9
+ 6.5
+ 6.7
+ 7.0
+C.E. (mmhos/cm)
+ 0.47
+ 0.25
+ 0.63
+ 0.82
+ 0.87
+ 0.84
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 32.00
+
+ 29.40
+
+ 42.00
+
+ 40.00
+
+ 37.85
+
+ 34.80
+
+
+d
+Ca++
+ 26.00
+ 24.00
+ 33.60
+ 32.10
+ 30.80
+ 28.20
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 4.10
+ 3.60
+ 5.60
+ 4.90
+ 4.60
+ 4.30
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.10
+ 1.00
+ 1.60
+ 1.55
+ 1.30
+ 1.25
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.55
+ 0.50
+ 1.50
+ 1.38
+ 1.10
+ 1.50
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+% Na/T
+
+ 1.72
+
+ 1.70
+
+ 3.57
+
+ 3.45
+
+ 2.91
+
+ 4.31
+Equivalente de humedad (%)
+ 29.95
+ 24.02
+ 41.53
+ 40.33
+ 39.33
+ 37.40
+

@@ -1,0 +1,39 @@
+dss_MONTERALO.psv ->> ID..........................: 516
+dss_MONTERALO.psv ->> CLASIFICACION...............: Argiustol típico
+dss_MONTERALO.psv ->> SERIE.......................: MONTE RALO (MteRa)
+dss_MONTERALO.psv ->> UBICACION...................: 8 km al NO de la localidad de Corralito, departamento Santa María
+dss_MONTERALO.psv ->> PROVINCIA...................: CORDOBA
+dss_MONTERALO.psv ->> LATITUD.....................: S315500
+dss_MONTERALO.psv ->> LONGITUD....................: O641400
+dss_MONTERALO.psv ->> ALTITUD.....................: 495
+dss_MONTERALO.psv ->> PENDIENTE...................: FALTA!
+dss_MONTERALO.psv ->> DRENAJE.....................: FALTA!
+dss_MONTERALO.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_MONTERALO.psv ->> PERMEABILIDAD...............: FALTA!
+dss_MONTERALO.psv ->> TIPO DE SUELO...............: FINA, MIXTA, TÉRMICA
+dss_MONTERALO.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_MONTERALO.psv ->> HORIZONTE->NOMBRE(S)........: a | bt1 | bt2 | bc
+dss_MONTERALO.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-50 | 50-70 | 70a+
+dss_MONTERALO.psv ->> HORIZONTE->MATERIA ORGÁN.(%): - | - | - | 
+dss_MONTERALO.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.8 | 1.7 | 1.3 | 1.0
+dss_MONTERALO.psv ->> HORIZONTE->NITRÓGENO TOT.(%): - | - | - | 
+dss_MONTERALO.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - | - | 
+dss_MONTERALO.psv ->> HORIZONTE->ARCILLA 2 (%)....: 26.8 | 40.0 | 43.8 | 37.2
+dss_MONTERALO.psv ->> HORIZONTE->LIMO 2-50 (%)....: 70.1 | 57.9 | 54.0 | 57.7
+dss_MONTERALO.psv ->> HORIZONTE->AMF 50-100 (%)...: 3.0 | 2.1 | 2.1 | 5.0
+dss_MONTERALO.psv ->> HORIZONTE->AF 100-250 (%)...: 0.7 | 0.3 | 0.4 | 0.6
+dss_MONTERALO.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | 
+dss_MONTERALO.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | 0.2
+dss_MONTERALO.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 
+dss_MONTERALO.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0
+dss_MONTERALO.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 30.5 | 35.9 | 36.5 | 34.5
+dss_MONTERALO.psv ->> HORIZONTE->PH PASTA.........: 6.2 | 6.3 | 6.9 | 7.0
+dss_MONTERALO.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.6 | 6.6 | 7.3 | 7.4
+dss_MONTERALO.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 15.3 | 16.2 | 17.2 | 15.7
+dss_MONTERALO.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 3.0 | 3.5 | 5.7 | 3.7
+dss_MONTERALO.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.4 | 0.4 | 0.4 | 0.4
+dss_MONTERALO.psv ->> HORIZONTE->CI ME/100G-K +...: 1.6 | 1.4 | 1.9 | 1.8
+dss_MONTERALO.psv ->> HORIZONTE->CI ME/100G-H +...: 1.2 | 1.2 | 0.4 | 0.2
+dss_MONTERALO.psv ->> HORIZONTE->SUM.B. ME/100G(S): 20.3 | 21.5 | 25.2 | 21.6
+dss_MONTERALO.psv ->> HORIZONTE->CIC ME/100G(T)...: 21.7 | 22.9 | 25.8 | 21.7
+dss_MONTERALO.psv ->> HORIZONTE->SAT.B % (S/T)....: 94 | 94 | 98 | 99

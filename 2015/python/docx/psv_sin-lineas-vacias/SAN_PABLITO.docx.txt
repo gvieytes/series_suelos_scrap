@@ -1,0 +1,217 @@
+--------------------------------------------------------------------------------
+SERIE SAN PABLITO Símbolo: SPbt
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados, con un epipedón pardo a pardo grisáceo, "franco-arcillo-limoso" seguido de un horizonte argílico no muy oscuro y de textura arcillo-limosa.
+Con presencia de calcáreo a los 80 cm aproximadamente Están desarrollados en materiales loessoides.
+Perfil tipo: ER6-51C
+Fecha: 25-II-92
+Ubicación: Ea. San Pablito (foto IR 437-5) - Dto. Don Cristobal. Dpto. Nogoyá..
+Reconocedores: H.A. Tasi; L.O. López.
+A1: 00-21 cm; gris muy oscuro (10YR 3/1) en húmedo y gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, débiles; duro en seco; friable en húmedo; barnices ("humic skins") escasos a comunes; moteados de hierro-manganeso, escasos, finos, débiles; límite claro, suave.
+B21t: 21-31 cm; gris muy oscuro (10YR 3/1,5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; firme en húmedo; barnices ("clay-humic skins") comunes y ("clay skins") escasos a comunes; moteados de hierro-manganeso, escasos, finos, débiles; límite claro, suave.
+B22t: 31-50 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques subangulares y angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay skins") escasos a comunes y ("clay-humic skins") escasos; cara de fricción ("slickensides") escasas; moteados de hierro-manganeso, escasos, finos y débiles; límite claro, suave.
+B23: 50-78 cm; pardo oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, débiles, que rompen en bloques subangulares y angulares irregulares, medios, moderados; firme en húmedo; barnices ("clay skins") escasos a comunes y ("clay-humic skins") escasos; caras de fricción ("slickensides") comunes, gruesas, no intesectadas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B3ca: 78-95 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares finnos, débiles que rompen en bloques angulares irregulares, finos, débiles; friable en húmedo; barnices ("clay-humic skins") escasos; caras de fricción ("slickensides") escasas a comunes; abundantes carbonatos libres en la masa; concreciones calcáreas escasas y finas; moteados de hierro-manganeso, comunes, medios, precisos; límite gradual, suave.
+Cca: 95 cm+; pardo (7,5YR 5/4) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; abundantes carbonatos libres en la masa; concreciones calcáreas comunes a abundantes, finas; moteados de hierro-manganeso escasos, finos y débiles.
+Variabilidad de rasgos
+El solum varía entre 90-100 cm de profundidad. El epipedón mólico tiene un espesor de 18-22 cm, de estructura granular bien desarrollada.
+El horizonte B2 tiene un espesor que varía entre 55-60 cm, con un contenido de arcilla de entre 48-50 %, con ausencia de concreciones calcáreas y ferromanganesíferas.
+El horizonte B3 presenta colores más claro, menor contenido de arcilla y alto porcentaje de calcáreo.
+Fases
+Severamente erosionada (símbolo: SPbt h3).
+Drenaje
+Moderadamente bien drenado; Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+Serie San Pablito presenta erosión actual ligera y es muy susceptible a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie San Pablito
+ER6-51C
+N° de registro
+ 6302
+ 6303
+ 6304
+ 6305
+ 6306
+ 6307
+Horizonte
+ A1
+ B21t
+ B22t
+ B23t
+ B3ca
+ Cca
+Profundidad (cm
+ 05-18
+ 21-30
+ 35-40
+ 52-76
+ 85-93
+ 95-110
+Mat.organica (%)
+ 8.05
+ 3.04
+ 1.07
+ 0.98
+ 0.67
+ 045
+N (%)
+ 0.355
+ 0.150
+ 0.084
+ 0.054
+ 0.037
+ 0.024
+C/N
+ 12
+ 10
+ 7
+ 8
+ 10
+ 10
+T <2
+ 37.95
+ 50.51
+ 50.81
+ 47.89
+ 39.85
+ 39.63
+E 2-20
+ 21.34
+ 21.75
+ 24.58
+ 22.40
+ 20.84
+ 21.63
+X 2-50
+ 67.96
+ 46.78
+ 46.27
+ 48.55
+ 56.12
+ 57.71
+T 50-100
+ 1.96
+ 1.31
+ 1.46
+ 1.85
+ 1.36
+ 2.09
+U 100-500
+ 2.02
+ 1.38
+ 1.42
+ 0.50
+ 2.65
+ 0.56
+R 500-1000
+ 0.13
+ 0.02
+ 0.04
+ 0.21
+ 0.02
+ 0.01
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0.50
+ -
+ -
+ -
+ 12.30
+ 13.90
+pH H2O
+ 6.5
+ 6.7
+ 6.8
+ 7.1
+ 8.0
+ 8.1
+pH ClK
+ 5.6
+ 5,6
+ 5.9
+ 6.1
+ 7.1
+ 7.1
+C.E. mmhos/cm
+ 0.524
+ 0.435
+ 0.385
+ 0.385
+ 0.570
+ 0.754
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 41.94
+ 49.01
+ 48.80
+ 46.60
+ 41.60
+ 41.80
+D
+Ca++
+ 30.29
+ 40.04
+ 39.82
+ 37.32
+ -
+ -
+C
+E
+A
+Mg++
+ 2.95
+ 2.32
+ 2.49
+ 2.73
+ -
+ -
+T
+C
+I
+A
+K+
+ 2.56
+ 2.44
+ 2.04
+ 2.40
+ 2.68
+ 2.58
+O
+M
+N
+B
+Na+
+ 0.65
+ 1.67
+ 1.78
+ 2.00
+ 2.15
+ 2.82
+E
+I
+S
+O
+H+
+% Na/T
+ 1.55
+ 4.07
+ 3.65
+ 4.29
+ 5.17
+ 6.75
+Equivalente de humedad (%)
+ 34.11
+ 45.58
+ 45.74
+ 43.55
+ 36.07
+ 36.06
+P. asimilable (ppm)
+ 29.84
+ 3.64

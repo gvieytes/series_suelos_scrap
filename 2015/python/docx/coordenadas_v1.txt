@@ -1,0 +1,846 @@
+Campo El Reposo, 4 Km al Este de Enrique Carbo, Dpto.Cuchilla Redonda, Dpto Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Colonia Arrua, Dpto. Alcaraz 2, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Paso El Raigon, Dpto. Tala
+<no results>
+(None, None)
+Colonia General Alvear, Dpto. Diamante
+50.937531 6.9602786
+(50.937531, 6.9602786)
+6 Km al sur de la localidad de Antelo, Dpto. Corrales, Dpto. Victoria
+<no results>
+(None, None)
+Establecimiento Los Nogales, Dpto. Antonio Tomas- Dpto. Parana
+<no results>
+(None, None)
+Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Establecimiento Santa Maria, Dpto. Diamante
+<no results>
+(None, None)
+Paso Birrinchin, Dpto. Federal
+<no results>
+(None, None)
+Ea. El Supremo, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+24 km al SSE de la ciudad de Feliciano, Dpto. Feliciano
+<no results>
+(None, None)
+Macia, Dpto. Tala
+-32.1679687 -59.3838501
+(-32.1679687, -59.3838501)
+Area Muestra San Carlos, Dpto La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+10 Km al N de Aldea San Antonio, Dpto. Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+12 km al SO de Ceibas, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+3,3 Km al sudeste de Escrina, Dpto.Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Estancia Santa Maria, Dpto. San Salvador
+13.6929403 -89.2181911
+(13.6929403, -89.2181911)
+Establecimiento El Mariscal, 6 Km SO de Nogoya, Dpto Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+Ea. San Lorenzo, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Dpto. Raices, Dpto. Villaguay
+-31.9070396 -59.2630005
+(-31.9070396, -59.2630005)
+Ea. Las Masitas, 10 Km al sudoeste de Gilbert. Dpto. San Antonio, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Establecimiento Isla Don Antonio, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Dpto. quinto Sauce, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+16 Km al este de Enrique Carbo, Dpto. Cuchilla Redonda, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+4.500 m al NE de Colonia Elia, Dpto. Uruguay
+<no results>
+(None, None)
+1 Km al N de la ruta 20 y acceso a Aldea San Antonio, Dpto. Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Ea. Dos Tranqueras, 7 Km al NE de Perdices, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+24 km al SE de Feliciano, Dpto. Feliciano
+<no results>
+(None, None)
+Durazno, Dpto. Tala, Dpto. Parana
+<no results>
+(None, None)
+11 km al SE de la localidad de Medanos, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+500 m al NE de Villa Paranacito, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+EEA INTA Concordia, Dpto. Concordia
+<no results>
+(None, None)
+Pueblo Arrua, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Colonia Avigdor, Dpto. La Paz
+-31.1833305 -59.4166718
+(-31.1833305, -59.4166718)
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Dpto. Uruguay
+<no results>
+(None, None)
+Estacion Bovril, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Alrededores de Aldea Brasilera, Dpto. Diamante
+<no results>
+(None, None)
+Ea. Don Ramon., Dpto. Raices Dpto. Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Puerto Yerua,  Dpto. Concordia
+-31.5333309 -58.033329
+(-31.5333309, -58.033329)
+Establecimiento Campo Nuevo, Dpto. Colon
+<no results>
+(None, None)
+Establecimiento El Caraguata, Dpto. Chilcas, Dpto. Victoria
+<no results>
+(None, None)
+Estacion Minones, Dpto. Federal
+<no results>
+(None, None)
+Establecimiento El Caraguata, Dpto. Chilcas, Dpto. Victoria
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Dpto. Uruguay
+<no results>
+(None, None)
+5,75 km al ESE de Medanos, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia Santa Teresita, Dpto. Parana
+<no results>
+(None, None)
+Estancia El Guasuncho, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+4 Km al O de la ciudad de Chajari
+-30.7572746 -57.9916191
+(-30.7572746, -57.99161909999999)
+Establecimiento Las Tres Marias, Dpto. Tala, Dpto. Parana
+<no results>
+(None, None)
+Estancia La Luisa, Dpto. Parana
+<no results>
+(None, None)
+Area muestra Colonia Nueva, Dpto. Parana
+<no results>
+(None, None)
+38 Km al SE de San Jaime
+<no results>
+(None, None)
+Estacion Conscripto Bernardi, Dpto. Federal
+<no results>
+(None, None)
+Establecimiento La Asuncion, Dpto. Diamante
+<no results>
+(None, None)
+Colonia Isletas, Dpto. Diamante
+50.937531 6.9602786
+(50.937531, 6.9602786)
+Estancia San Julio, Dpto. Crucecitas Tercera, Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+Ea. El Supremo,  Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Ea. Las Cabezas, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Campo Berisso, 2,5 Km al norte de Cuchilla Redonda, Dpto.Cuchilla Redonda, Dpto Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Establecimiento El Caraguata, Dpto. Chilcas, Dpto. Victoria
+<no results>
+(None, None)
+a 1 km al NO de Villa Paranacito, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia Don Guillermo, Dpto. San Salvador
+13.6929403 -89.2181911
+(13.6929403, -89.2181911)
+Estancia San Francisco, dto Hinojal, Dpto. Victoria
+<no results>
+(None, None)
+Celulosa S.A. Isla Victoria, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia La Fe, Dpto. Montoya, Dpto. Victoria
+<no results>
+(None, None)
+Ea. Don Ramon., Dpto. Raices Dpto. Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Durazno, Dpto. Tala
+-31.9833298 -59.283329
+(-31.9833298, -59.28332899999999)
+Ea. El Tigrecito, Dpto. Raices, Dpto. Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+10 km al SE de la ciudad de Gualeguay, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Campo Sr. Franco, Dpto. Chiqueros, Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+Ea. El Relincho, Dpto. Federal
+<no results>
+(None, None)
+16 km al SO de Gualeguay, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia El Diecisiete, dto Hinojal, Dpto. Victoria
+<no results>
+(None, None)
+12,5 km al SO de Ceibas, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+2,75 km al NNO de Puerto San Juan, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. El Estribo, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Establecimiento Isla Victoria, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+1,2 km al SO de El Empalme, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+10,25 km al NNE de Puerto San Juan, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. La Susana, Dpto. Algarrobitos, Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+16 km al SO de la ciudad de Gualeguay, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento El Potrillo, Dpto. Parana
+<no results>
+(None, None)
+Establecimiento El Cuadro, dto Montoya, Dpto. Victoria
+<no results>
+(None, None)
+Estancia El Puesto, Dpto. Quebracho, Dpto. Parana
+<no results>
+(None, None)
+Ea. San Jose, Dpto. Federal
+<no results>
+(None, None)
+Ea. San Pablito, Dpto. Don Cristobal, Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+Ea. La Nueva, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+5 km al N de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+12 km al NO de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento El Retiro, Dpto. Diamante
+<no results>
+(None, None)
+18 km al N de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. El Supremo, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+16 km al S de la ciudad de Gualeguay, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia El Talar, Dpto. Parana
+<no results>
+(None, None)
+Establecimiento El Terron, Dpto. Rincon de Nogoya, Dpto. Victoria
+<no results>
+(None, None)
+Ea. La Emiliana, Dpto.Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Km 19, ruta N 14, Dpto. Ceibas, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+15 km al NE de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+3 Km al N-NO de Enrique Carbo, Dpto. Cuchilla Redonda, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+1,5 Km al este de Escrina, Dpto. Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Ea. San Ramon, 3 Km al N. de la estacion Esmeralda
+<no results>
+(None, None)
+11,25 km al SO de Ceibas, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia Los Amigos, 12 Km al sudoeste de Gilbert, Dpto. San Antonio, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Ea. La Celmira, Dpto. Costa Uruguay Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+4 km al sudeste de Ea. Retiro, Dpto. Dos Hermanas, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+1,5 Km al NO de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+8 km al NNE del Puerto San Juan, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+6,25 km al ESE de Medanos, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Estacion Experimental Agropecuaria del INTA Parana, Dpto. Parana
+<no results>
+(None, None)
+Ea. San Antonio Nu, Dpto. Federal
+<no results>
+(None, None)
+8 Km. al NO de la ciudad de San Jose de Feliciano
+-30.3826904 -58.7493896
+(-30.3826904, -58.7493896)
+26 Km al SO de San Jaime
+<no results>
+(None, None)
+Ea. Santa Jeronima, 18 km al SE/E de Feliciano- Dpto. Feliciano
+<no results>
+(None, None)
+Pueblo La Perla, Dpto. Concordia
+33.8470714 -118.3250084
+(33.8470714, -118.3250084)
+Estancia General Nazar, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Esc. Agrotecnica Las Delicias, Dpto. Parana
+<no results>
+(None, None)
+Ea. El Pilar, Dpto. Diamante
+<no results>
+(None, None)
+2,5 Km al E-NE de Escrina, Dpto. Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Estancia San Julian, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Establecimiento Don Tino, Dpto. Corrales, Dpto. Victoria
+<no results>
+(None, None)
+Ea. San Diego, Dpto. Feliciano
+<no results>
+(None, None)
+4 Km al SE de la ciudad de Gualeguaychu, Dpto.Costa Uruguay Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Ea. General Nazar, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Arroyo Durazno, Dpto. Tala
+<no results>
+(None, None)
+Estacion Hasenkamp, Dpto. Parana
+<no results>
+(None, None)
+2 Km al Sur de la localidad de Hernandez, Dpto. Quebrachitos, Dpto. Victoria
+<no results>
+(None, None)
+4 km al noroeste del almacen La Querencia, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+6.5 Km aprox. de la localidad de Villa Elisa, rumbo NE. Hoja 3357-1, Dpto. Colon
+<no results>
+(None, None)
+6 km al E de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+6 km al E de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Area Muestra San Carlos, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+a 18,5 km al SO de Villa Paranacito, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+21,5 km el SO de Villa Paranacito, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+a 22 km al SO de Villa Paranacito, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Aldea Chavez, Dpto. Diamante
+-32.1333313 -60.3333282
+(-32.1333313, -60.3333282)
+Predio perteneciente a La Abadia del Nino Dios, Dpto. Corrales, Dpto. Victoria
+<no results>
+(None, None)
+Area muestra Aldea Santa Maria, Dpto. Parana
+<no results>
+(None, None)
+Estancia Las Rosas, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+25 Km aprox al NE de Villaguay, ,.-.Dpto Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Estacion La Calandria, Dpto. Federal
+<no results>
+(None, None)
+Durazno, Dpto. Tala
+-31.9833298 -59.283329
+(-31.9833298, -59.28332899999999)
+Esc. Agrotecnica La Carola, Dpto. Algarrobitos, Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+25 Km NE de ciudad de Villaguay, Dpto Villaguay
+-31.8690681 -59.0233459
+(-31.8690681, -59.0233459)
+3.3 km aprox. de Estacion La Clarita, rumbo Oeste. Hoja 3157-31, Dpto. Colon
+<no results>
+(None, None)
+Altamirano Norte, Dpto. Tala
+-32.0666618 -59.1833305
+(-32.0666618, -59.1833305)
+Ea. Las Liebres, Dpto. Diamante
+<no results>
+(None, None)
+Estancia La Emiliana, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+1 km al SE de El Empalme, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. Maria Teresa, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+7 Km al SO de San Jaime
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Parana del INTA, Dpto. Parana
+<no results>
+(None, None)
+Colonia Ensayo, Dpto. Diamante
+50.937531 6.9602786
+(50.937531, 6.9602786)
+Area Piloto Paso Gallo, Dpto. Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+10 Km al NE de localidad Perdices, Dpto. Perdices, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Estancia La Lidia, Dpto. Tala
+<no results>
+(None, None)
+Estancia El Trebol, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Ea. El Mirador, Dpto. Don Cristobal- Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+Ea. La Emiliana, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+10 km al NO del Est. Forestal Mazaruca, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. La Querencia, Dpto. Pehuajo al Sur, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+18 km al N de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+16 km al SO de la ciudad de Gualeguay, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia Don Guillermo, Dpto. San Salvador
+13.6929403 -89.2181911
+(13.6929403, -89.2181911)
+4 Km al O-NO de Perdices, Dpto. Dos Hermanas, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+a 800 m al SE de la Escuela Provincial N 97, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento del Sr. Esteban Elgenreder, Dpto. Parana
+<no results>
+(None, None)
+Ea. Las Cabezas, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Estacion Experimental INTA Parana, Dpto. Parana
+<no results>
+(None, None)
+5 Km de San Jaime
+<no results>
+(None, None)
+Estancia Las Flores, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Pueblo Bellocq, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Dpto Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Pueblito Norte, Dpto. Rincon de Nogoya, Dpto. Victoria
+<no results>
+(None, None)
+Estancia Las Rosas, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento La Stella. Dpto.Lucas al Sud, Dpto Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+500 m sudoeste del casco de la Ea. La Susana, Dpto. Algarrobitos, Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+Estancia La Constancia, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+16 km al sur de la ciudad de Gualeguay, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+a 2 km al SE de la Escuela Provincial N 97, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Doll, Dpto. Diamante
+-32.3059902 -60.4243965
+(-32.3059902, -60.4243965)
+Ea. San Julian, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+a 1,5 km al Oeste de la parada km 340 FCGU, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento Sr. Galetto, Dpto. Parana
+<no results>
+(None, None)
+a 1,5 km al SO de la Escuela Provincial N 74, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. La Avanzada, Dpto. Concordia
+<no results>
+(None, None)
+Ea. La Estrella, Dpto. Feliciano
+<no results>
+(None, None)
+Establecimiento Los Laureles, Dpto. Tala, Dpto. Parana
+<no results>
+(None, None)
+Estancia Los Cerrillos, Dpto. Diamante
+<no results>
+(None, None)
+Estancia Los Cerrillos, Dpto. Diamante
+<no results>
+(None, None)
+10 km al SE de Gualeguay. ,
+40.6078908 -3.5409703
+(40.6078908, -3.5409703)
+Establecimiento tambero Don Quicho, Dpto. Parana
+<no results>
+(None, None)
+Ea. San Juan Chico, Dpto. Federal
+<no results>
+(None, None)
+Arroyo Guardamonte, Dpto. Tala
+<no results>
+(None, None)
+Estancia El Malambo, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Colonia Mandisovi, Dpto. Federacion
+50.937531 6.9602786
+(50.937531, 6.9602786)
+Campo J. Marosini, Dpto. Tala
+<no results>
+(None, None)
+Egido de Gral. Ramirez, Dpto. Diamante
+<no results>
+(None, None)
+Establecimiento El Lucero, Dpto. Parana
+<no results>
+(None, None)
+Ea. Maria Luisa, Dpto Federal
+<no results>
+(None, None)
+27 km al NE de la ciudad de Feliciano, Dpto. Feliciano
+<no results>
+(None, None)
+3,5 km al SO de Estacion Minones, Dpto. Federal
+<no results>
+(None, None)
+Ea. La Verde, Dpto. Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+16 km al sur de la ciudad de Gualeguay, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Paso Gallo, Dpto. Concordia
+-30.9394444 -58.4708333
+(-30.9394444, -58.4708333)
+Ea. Puesto de Tabla, Dpto. Federal
+<no results>
+(None, None)
+Estacion Nueva Vizcaya, Dpto. Federal
+<no results>
+(None, None)
+Estacion Experimental Agropecuaria Parana del INTA, Dpto. Parana
+<no results>
+(None, None)
+3,5 Km al SE de estacion Palavecino, Dpto. Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Arroyo Don Gonzalo, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Estancia Don Guillermo, Dpto. San Salvador
+13.6929403 -89.2181911
+(13.6929403, -89.2181911)
+7 km al este de la ciudad de Gualeguay, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Estancia El Talar, Dpto. Parana
+<no results>
+(None, None)
+Paso El Raigon, Dpto. Tala
+<no results>
+(None, None)
+Campo sucesion Vizconti. 800 m ENE de Zenon Roca, Dpto Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+7 Km al E de San Jaime
+<no results>
+(None, None)
+5,7 km al sudeste de Medanos, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+9,5 km al sudoeste de Puerto Ruiz, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+11,5 km al SO de Ceibas, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Aldea Protestante, Dpto. Diamante
+-32.0283279 -60.5605736
+(-32.0283279, -60.5605736)
+Pueblito Norte, Dpto. Rincon de Nogoya, Dpto. Victoria
+<no results>
+(None, None)
+Est. Maria Angelica, Dpto. Antonio Tomas, Dpto. Parana
+<no results>
+(None, None)
+Establecimiento Sr. Rausch, Dpto. Parana
+<no results>
+(None, None)
+Escuela N 121 Sor Juana Ines de la Cruz, Dpto. Tala, Dpto. Parana
+<no results>
+(None, None)
+Puerto Algarrobo, Dpto. La Paz
+-30.6333294 -59.5833282
+(-30.6333294, -59.5833282)
+5 km al SO de la localidad de Ibicuy, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Octavo Distrito Albardon, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+3km al N del Puerto San Juan, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. El Potrero, Dpto. Costa Uruguay Norte, Dpto Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Estacion Experimental Agropecuaria Concordia INTA, Dpto. Concordia
+<no results>
+(None, None)
+5,75km al SO de la localidad de Medanos, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Estancia Las Cabezas, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Aldea Camarero, Dpto. Diamante
+-32.0666618 -60.466671
+(-32.0666618, -60.466671)
+Estancia El Cinco, Dpto. Gualeguay
+-33.03127 -59.403183
+(-33.03127, -59.403183)
+6 km al este de Urdinarrain, Dpto.Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Ea. de L. Lapuyade, Dpto. Raices Oeste, Dpto. Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Ea. Rancho Grande, Dpto. Raices, Dpto. Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Ea. La Entrerriana, Dpto. Federal
+<no results>
+(None, None)
+Ea. Mendez, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+Paso Gallo, Dpto. Concordia
+-30.9394444 -58.4708333
+(-30.9394444, -58.4708333)
+Aldea San Alfonso, Dpto. Diamante
+-32.1333313 -60.4000015
+(-32.1333313, -60.4000015)
+Ea. San Buenaventura, Dpto. Federal
+<no results>
+(None, None)
+1,5 km al SO de la Estancia Sagastume, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Establecimiento San Francisco, Dpto. Hinojal, Dpto. Victoria
+<no results>
+(None, None)
+3.7 Km al N de San Jaime de la Frontera
+<no results>
+(None, None)
+Establecimiento Don Antonio, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. San Julian, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+2.5 Km al NE de San Jaime
+<no results>
+(None, None)
+Ea. San Pablito, Dpto. Don Cristobal, Dpto. Nogoya
+-32.399216 -59.7877403
+(-32.399216, -59.7877403)
+Campo Sr. Nardone, Dpto. Gualeguay
+-33.1512413 -59.3344116
+(-33.1512413, -59.3344116)
+5 Km al Oeste de Ea. San Simon, Dpto. Pehuajo al Norte, Dpto. Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Estancia La Loma, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Establecimiento La Ceiba, Dpto. Pajonal, Dpto. Victoria
+<no results>
+(None, None)
+Establecimiento Forestal Mazaruca, Dpto. Islas del Ibicuy
+<no results>
+(None, None)
+Ea. La Palmita, Dpto. Federal
+<no results>
+(None, None)
+Area Muestra Hernandarias, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Campo del Sr. Montrull, Dpto. Espinillo. Dpto Parana
+<no results>
+(None, None)
+Estancia San Benito, Dpto. Feliciano
+<no results>
+(None, None)
+5 km al norte de Holt. ,
+<no results>
+(None, None)
+Predio de La Abadia del Nino Dios, Dpto. Corrales, Dpto. Victoria
+<no results>
+(None, None)
+Estancia El Aguara, Dpto La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Area muestra Arroyo Yacare, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+7 km al norte de Cerrito, Dpto. Tala, Dpto. Parana
+<no results>
+(None, None)
+22 Km al SE de San Jaime
+<no results>
+(None, None)
+EEA Parana del INTA, Dpto. Parana
+<no results>
+(None, None)
+7 Km noreste de ruta 20, Dpto. Pehuajo al Norte, Dpto Gualeguaychu
+-33.0077778 -58.5111667
+(-33.0077778, -58.5111667)
+Colonia El Sauce, sobre ruta nacional N 14, Dpto. Uruguay
+15.7687304 -86.7856208
+(15.7687304, -86.78562079999999)
+7 Km al E del cruce de rutas Nac. 18 y Pcial 32, Dpto. Quebracho, Dpto. Parana
+<no results>
+(None, None)
+Establecimiento La Stella. Dpto.Lucas al Sud, Dpto Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Colonia Viraro, Dpto. La Paz
+-31.4201362 -64.5190426
+(-31.4201362, -64.51904259999999)
+Ea. El Redomon, Dpto. Concordia
+<no results>
+(None, None)
+Colonia oficial N 5, Dpto. Concordia
+50.937531 6.9602786
+(50.937531, 6.9602786)
+7 km al S de la ciudad de Feliciano, Dpto. Feliciano
+<no results>
+(None, None)
+EEA INTA Concordia, Dpto. Concordia
+<no results>
+(None, None)
+EEA INTA Concordia, Dpto. Concordia
+<no results>
+(None, None)
+5 Km al Oeste de localidad Zenon Roca, Dpto Villaguay
+-31.8677008 -59.0269219
+(-31.8677008, -59.0269219)
+Estancia Mugherli, Dpto. Uruguay
+<no results>
+(None, None)
+Estancia Mugherli, Dpto. Uruguay
+<no results>
+(None, None)
+Colonia Oficial N 13, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Colonia Oficial N 13, Dpto. La Paz
+-16.5 -68.15
+(-16.5, -68.14999999999999)
+Ea. La Britania, 22 Km al E-SE de la ciudad de San Jose de Feliciano
+-30.3826904 -58.7493896
+(-30.3826904, -58.7493896)
+Ea. La Britania, 22 Km al E-SE de la ciudad de San Jose de Feliciano
+-30.3826904 -58.7493896
+(-30.3826904, -58.7493896)

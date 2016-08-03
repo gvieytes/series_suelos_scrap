@@ -1,0 +1,237 @@
+
+--------------------------------------------------------------------------------
+SERIE SAN JOSÉ Símbolo: SJ
+
+
+Pertenece a la familia "franca fina, silícea, ácida, térmica" de los Haplacuentes típicos.
+	
+Se desarrolló sobre un material arcillo limo arenoso. La vegetación característica es de pajonales.
+
+
+Perfil tipo: 94C INTA Castelar
+Fecha: X - 1976
+Ubicación: Establecimiento Don Antonio (Hoja IGM 3360-36-1) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+I: 0-15 cm; negro (10YR 2/1) en húmedo, arcilloso; bloques subangulares, medios, moderados; plástico y adhesivo; límite inferior abrupto, suave.
+
+II: 15-120 cm; gris oscuro (5YR 4/1) en húmedo, franco limoso; bloques subangulares, medios, débiles; ligeramente plástico, no adhesivo; límite inferior abrupto, suave.
+
+III: 120-165 cm; gris oscuro (5YR 4/1) en húmedo; franco arenoso; bloques subangulares, medios, débiles; ligeramente plástico, no adhesivo; límite inferior abrupto, suave.
+
+IV: 165-190 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; franco arenoso; bloques subangulares, finos, débiles; friable, no plástico, no adhesivo.
+
+
+Variabilidad de rasgos
+
+No se determinó.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento superficial lento. Permeabilidad lenta. Anegable e inundable.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie San José
+
+94C INTA Castelar
+N° de registro
+ 21235
+ 21236
+ 21237
+ 21238
+Horizonte
+ I
+ II
+ III
+ IV
+Profundidad (cm)
+ 0-15
+ 90-105
+ 135-155
+ 175-190
+Mat.organica (%)
+ 17.37
+ 0.95
+ 1.32
+ -
+C (%)
+ 10.1
+ 0.55
+ 0.77
+ -
+N (%)
+ 0.806
+ 0.053
+ -
+ -
+C/N
+ 13
+ 10
+ -
+ -
+
+T <2 u
+
+ 57.4
+
+ 19.9
+
+ 14.6
+
+ 10.8
+E 2-20 u
+ 26.9
+ 10.3
+ 8.3
+ 1.5
+X 2-50 u
+ 36.7
+ 40.1
+ 28.7
+ 10.8
+T 50-74 u
+ 2.5
+ 14.9
+ 23.3
+ 42.7
+U 74-100 u
+ 1.7
+ 24.1
+ 28.5
+ 33.6
+R 100-250 u
+ 1.5
+ 0.6
+ 4.3
+ 2.0
+A 250-500 u
+ 0.2
+ 0.4
+ 0.6
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ -
+Gravilla (> 2 Tosca Ca %
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ -
+Equivalente de humedad (%)
+ 69.8
+ 15.7
+ 9.2
+ 6.4
+Resistencia de la pasta (Ohms/cm)
+ 2156
+ 4610
+ 3792
+ 3569
+pH en pasta
+ 5.0
+ 4.9
+ 4.9
+ 4.8
+PH H2O
+ 5.2
+ 5.2
+ 5.2
+ 5.0
+pH ClK
+ 4.3
+ 4.2
+ 4.2
+ 4.2
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+
+ Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ 20.1
+ 5.4
+ 3.5
+ 1.9
+
+Mg++
+ 9.1
+ 1.7
+ 1.1
+ 0.7
+
+Na+
+ 1.7
+ 0.4
+ 0.4
+ 0.4
+
+K+
+ 0.5
+ 0.2
+ 0.2
+ 0.2
+% Na/T
+ 2.6
+ 4.2
+ 5.5
+ 9.0
+% Saturación de Agua
+ 122
+ 34
+ 34
+ 32
+Valor S (m.e./100 g)
+ 31.4
+ 7.7
+ 5.2
+ 3.2
+H de cambio (m.e./100 g)
+ 43.6
+ 4.9
+ 3.4
+ 2.0
+Valor T (m.e./100) NH4++ o Na+
+ 65.2
+ 9.5
+ 7.3
+ 4.4
+% de saturación de T
+ 48
+ 81
+ 71
+ 72
+% de saturación de S + H
+ 42
+ 61
+ 60
+ 61
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+Factor de humedad
+ 1.24
+ 1.01
+ 1.01
+ 1.01
+

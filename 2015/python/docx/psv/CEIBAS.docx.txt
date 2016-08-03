@@ -1,0 +1,194 @@
+
+--------------------------------------------------------------------------------
+SERIE CEIBAS Símbolo: Cei
+
+
+Pertenece a la familia "arenosa, silícea, térmica" de los Hapludoles fluvénticos.
+
+La serie Ceibas es un suelo arenoso.
+
+
+Perfil tipo: 53C INTA Castelar
+Fecha: 19-III-1976
+Ubicación: 5,75 km al ESE de Médanos (Hoja IGM 3360-29-2) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+A11: 0-21 cm; negro pardusco (10YR 2/2) en húmedo; arenoso; estructura en bloques angulares medios moderados a débiles; suelto en húmedo; raíces comunes; límite claro y suave.
+
+A12: 21-60 cm; negro (10YR 1,7/1) en húmedo; arenoso a areno franco; ma - sivo; no plástico, no adhesivo; raíces comunes; límite claro y ondulado.
+
+IIC1: 60-110 cm; anaranjado amarillo opaco (10YR 7/3) en húmedo; arenoso; estructura en grano simple; no plástico, no adhesivo; moteados pardo brillante (7,5YR 5/6) medios, comunes precisos.
+
+
+Variabilidad de rasgos
+
+Suelo fuertemente ácido en superficie a neutro en profundidad y que refleja la baja saturación con bases del estrato superficial que apenas sobrepasa el 50 % creciendo en profundidad.
+
+La parte superficial de esta serie puede dividirse en dos estra - tos (horizonte A11 y A12) de espesor variable entre 30 y 60 cm, colores entre negro y negro pardusco, texturas arenosas y estructura en bloques angulares a grano simple con un contenido de materia orgánica entre 2 y 3 %. A continuación sigue una capa arenosa de colores claros con motea - dos precisos en la zona de fluctuación de la napa freática.
+
+Esta serie no presenta cantidades significativas de sales solu - bles ni sodio de intercambio.
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Este suelo es de permeabilidad rápida y moderadamente bien drenado. Napa freática fluctuante.
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Ceibas
+
+53C INTA Castelar
+
+
+
+N° de registro
+
+
+
+Horizonte
+ A11
+ A12
+ IIC1
+Profundidad (cm)
+ 5-18
+ 28-55
+ 80-95
+Mat.organica (%)
+ 2.38
+ 3.00
+ 0.03
+C (%)
+ 1.38
+ 1.74
+ 0.02
+N (%)
+ 0.109
+ 0.138
+ -
+C/N
+ 13
+ 13
+ -
+
+T <2 u
+
+ 3.7
+
+ 6.9
+
+ 2.2
+E 2-20 u
+ 2.7
+ 1.5
+ 1.2
+X 2-50 u
+ 4.0
+ 4.5
+ 2.3
+T 50-74 u
+ 0.1
+ 0.3
+ 0.1
+U 74-100 u
+ 0.2
+ 0.2
+ 0.1
+R 100-250 u
+ 62.5
+ 61.3
+ 79.0
+A 250-500 u
+ 28.0
+ 26.7
+ 15.5
+ 500-1000 u
+ 1.5
+ 0.1
+ 0.8
+ 1000-2000 u
+ -
+ -
+ -
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 6.6
+ 8.9
+ 0.8
+Resistencia de la pasta (Ohms/cm)
+ 26638
+ 39256
+ 75708
+pH en pasta
+ 5.0
+ 5.5
+ 6.8
+PH H2O
+ 6.1
+ 6.5
+ 7.5
+pH ClK
+ 4.0
+ 4.2
+ 4.7
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ 2.0
+ 2.8
+ 0.6
+
+Mg++
+ 1.5
+ 3.4
+ 0.6
+
+Na+
+ 0.2
+ 0.3
+ 0.1
+
+K+
+ 0.1
+ 0.1
+ 0.05
+
+H+
+ 6.5
+ 10.0
+ 1.2
+% Na/T
+ 3
+ 3
+ 7
+Suma de bases, m.e./100 gr (S)
+ 3.8
+ 6.6
+ 1.35
+C.I.C., m.e./100 gr (T)
+ 7.5
+ 11.0
+ 1.4
+Saturación con bases, (%) (S/T)
+ 51z
+ 60
+ 96
+

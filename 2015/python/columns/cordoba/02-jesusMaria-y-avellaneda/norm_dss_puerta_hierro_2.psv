@@ -1,0 +1,35 @@
+dss_puerta_hierro_2.psv ->> ID..........................: 233
+dss_puerta_hierro_2.psv ->> CLASIFICACION...............: Ustipsament típico
+dss_puerta_hierro_2.psv ->> SERIE.......................: PUERTA DE HIERRO II (PtaH2)
+dss_puerta_hierro_2.psv ->> UBICACION...................: 4,9 km al Oeste de la ciudad de Jesús María, departamento Colón
+dss_puerta_hierro_2.psv ->> PROVINCIA...................: CORDOBA
+dss_puerta_hierro_2.psv ->> LATITUD.....................: S305800
+dss_puerta_hierro_2.psv ->> LONGITUD....................: O640900
+dss_puerta_hierro_2.psv ->> ALTITUD.....................: 550
+dss_puerta_hierro_2.psv ->> PENDIENTE...................: FALTA!
+dss_puerta_hierro_2.psv ->> DRENAJE.....................: FALTA!
+dss_puerta_hierro_2.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_puerta_hierro_2.psv ->> PERMEABILIDAD...............: FALTA!
+dss_puerta_hierro_2.psv ->> TIPO DE SUELO...............: ARENOSA MIXTA TÉRMICA
+dss_puerta_hierro_2.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_puerta_hierro_2.psv ->> HORIZONTE->NOMBRE(S)........: Ap | A12 | II
+dss_puerta_hierro_2.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-12 | 12-49 | 49a+
+dss_puerta_hierro_2.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 1,6 | 1,6 |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->CARBONO ORGÁN.(%): - | - |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,9 | 0,9 |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->ARCILLA 2 (%)....: 6,5 | 6,5 |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->LIMO 2-50 (%)....: 16,0 | 16,0 |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->ARENA (%)........: 76,5 | 76,5 |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): - | - |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->PH PASTA.........: - | - |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,2 | 6,2 |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 4,7 | 4,7 | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,3 | 0,3 | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2 | 0,2 | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->CI ME/100G-K +...: 0,9 | 0,9 | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->CI ME/100G-H +...: 1,4 | 1,4 | 
+dss_puerta_hierro_2.psv ->> HORIZONTE->SUM.B. ME/100G(S): - | - |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->CIC ME/100G(T)...: - | - |  
+dss_puerta_hierro_2.psv ->> HORIZONTE->SAT.B % (S/T)....: - | - |  

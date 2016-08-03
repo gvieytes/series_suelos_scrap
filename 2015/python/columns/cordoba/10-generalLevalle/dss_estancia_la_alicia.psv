@@ -1,0 +1,26 @@
+HORIZONTE->NOMBRE(S)........ :  a | e | btn | btm | bcm
+HORIZONTE->Profundidad de la muestra (cm) :  0-18 | 18-25 | 25-37 | 37-50 | 50a+
+HORIZONTE->Materia Orgánica (%) :  1,96 | 0,89 | 0,81 | 0,38 | 0,19
+HORIZONTE->Carbono Orgánico (%) :  1,14 | 0,52 | 0,47 | 0,22 | 0,11
+HORIZONTE->Nitrógeno total (%) :  0,14 | 0,09 | 0,08 | 0,06 | ---
+HORIZONTE->Relación C/N :  8,1 | 5,8 | 5,9 | 0,3 | ---
+HORIZONTE->Arcilla, <2 μ (%) :  10,8 | 7,7 | 18,3 | 17 | 16,5
+HORIZONTE->Limo, 2-50 μ (%) :  37,8 | 38,1 | 32,7 | 32,9 | 33,4
+HORIZONTE->Arena muy fina, 50-100 μ (%) :  42,1 | 41 | 40,4 | 41,2 | 39,9
+HORIZONTE->Arena fina, 100-250 μ (%) :  9,1 | 11,8 | 8,1 | 9,4 | 9,9
+HORIZONTE->Arena media, 250-500 μ (%) :  0 | 0 | 0 | 0 | 0
+HORIZONTE->Arena gruesa, 500-1000 μ (%) :  0 | 0 | 0 | 0 | 0
+HORIZONTE->Arena muy gruesa, 1-2 mm (%) :  0 | 0 | 0 | 0 | 0
+HORIZONTE->Carbonatos (% CaCO3) :  0 | 0 | 0 | 1,2 | 0,7
+HORIZONTE->Equivalente de humedad (%) :  27,5 | 8,7 | 26,9 | 25,6 | 24,8
+HORIZONTE->pH en pasta :  5,4 | 6,4 | 7,6 | 8,5 | 8,8
+HORIZONTE->pH en agua (1:2,5) :  5,5 | 6,5 | 7,8 | 9 | 9,2
+HORIZONTE->Conductividad (ext. satur.) (mmhos/cm) :  --- | --- | --- | --- | 3,11
+HORIZONTE->Mg++ :  1 | 1,2 | 1,2 | --- | ---
+HORIZONTE->Na+ :  0,3 | 0,8 | 4,4 | 3,1 | 9,4
+HORIZONTE->K+ :  1,5 | 1 | 2 | 1,5 | 2,7
+HORIZONTE->H+ :  1,5 | 1 | --- | --- | ---
+HORIZONTE->Suma de bases, S (meq/100g) :  8,1 | 7 | 13,9 | --- | ---
+HORIZONTE->Capacidad de intercambio catiónico, T (meq/100g) :  9,9 | 8,1 | 13,9 | 13 | 13,3
+HORIZONTE->Porcentaje de sodio de intercambio (P.S.I.) :  3 | 9,9 | 31,7 | 23,8 | 70,7
+HORIZONTE->Saturación con bases, S/T (%) :  81,8 | 86,4 | 100 | 100 | 100

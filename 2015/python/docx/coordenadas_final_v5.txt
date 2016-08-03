@@ -1,0 +1,846 @@
+Campo El Reposo, 4 Km al Este de Enrique Carbo, Departamento Cuchilla Redonda, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Colonia Arrua, Departamento Alcaraz 2, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+Departamento Gualeguay, Entre Rios
+LAT: S330503
+LON: O595642
+Departamento Tala, Entre Rios
+LAT: S323460
+LON: O593800
+Colonia General Alvear, Departamento Diamante, Entre Rios
+LAT: S319333
+LON: O606833
+Corrales, Departamento Victoria, Entre Rios
+LAT: S325826
+LON: O601506
+Establecimiento Los Nogales, Departamento Antonio Tomas- Departamento Parana, Entre Rios
+LAT: S314166
+LON: O600499
+Departamento Gualeguay, Entre Rios
+LAT: S330503
+LON: O595642
+Establecimiento Santa Maria, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+Paso Birrinchin, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+El Supremo, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+Macia, Departamento Tala, Entre Rios
+LAT: S321679
+LON: O593838
+Area Muestra San Carlos, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+10 Km al N de Aldea San Antonio, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+12 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334915
+LON: O592003
+3,3 Km al sudeste de Escrina, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Estancia Santa Maria, Departamento San Salvador, Entre Rios
+LAT: S316159
+LON: O584994
+Establecimiento El Mariscal, 6 Km SO de Nogoya, Departamento Nogoya, Entre Rios
+LAT: S323992
+LON: O597877
+San Lorenzo, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334917
+LON: O591944
+Departamento Raices, Departamento Villaguay, Entre Rios
+LAT: S319070
+LON: O592630
+Las Masitas, 10 Km al sudoeste de Gilbert. Departamento San Antonio, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Establecimiento Isla Don Antonio, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334923
+LON: O591926
+Departamento quinto Sauce, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+16 Km al este de Enrique Carbo, Departamento Cuchilla Redonda, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+4.500 m al NE de Colonia Elia, Departamento Uruguay, Entre Rios
+LAT: S326678
+LON: O583154
+1 Km al N de la ruta 20 y acceso a Aldea San Antonio, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Dos Tranqueras, 7 Km al NE de Perdices, Departamento Gualeguaychu, Entre Rios
+LAT: S333050
+LON: O587136
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+Durazno, Departamento Tala, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+11 km al SE de la localidad de Medanos, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334932
+LON: O591911
+500 m al NE de Villa Paranacito, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334944
+LON: O581858
+INTA Concordia, Departamento Concordia, Entre Rios
+LAT: S313918
+LON: O580170
+Pueblo Arrua, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+Colonia Avigdor, Departamento La Paz, Entre Rios
+LAT: S311833
+LON: O594166
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay, Entre Rios
+LAT: S324845
+LON: O582321
+Estacion Bovril, Departamento La Paz, Entre Rios
+LAT: S313434
+LON: O594465
+Alrededores de Aldea Brasilera, Departamento Diamante, Entre Rios
+LAT: S318999
+LON: O605999
+Don Ramon, Departamento Raices Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+Puerto Yerua, Departamento Concordia, Entre Rios
+LAT: S315333
+LON: O580333
+Establecimiento Campo Nuevo, Departamento Colon, Entre Rios
+LAT: S322249
+LON: O581447
+Chilcas, Departamento Victoria, Entre Rios
+LAT: S323633
+LON: O601008
+Estacion Minones, Departamento Federal, Entre Rios
+LAT: S307000
+LON: O585833
+Chilcas, Departamento Victoria, Entre Rios
+LAT: S323633
+LON: O601008
+Estacion Experimental Agropecuaria Concepcion del Uruguay, Departamento Uruguay, Entre Rios
+LAT: S324845
+LON: O582321
+5,75 km al ESE de Medanos, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334149
+LON: O590789
+Estancia Santa Teresita, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Estancia El Guasuncho, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340505
+LON: O592329
+4 Km al O de la ciudad de Chajari, Entre Rios
+LAT: S307572
+LON: O579916
+Establecimiento Las Tres Marias, Departamento Tala, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Estancia La Luisa, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Area muestra Colonia Nueva, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+38 Km al SE de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+Estacion Conscripto Bernardi, Departamento Federal, Entre Rios
+LAT: S310473
+LON: O590899
+Establecimiento La Asuncion, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+Colonia Isletas, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+Estancia San Julio, Departamento Crucecitas Tercera, Departamento Nogoya, Entre Rios
+LAT: S323992
+LON: O597877
+El Supremo, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Las Cabezas, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Campo Berisso, 2,5 Km al norte de Cuchilla Redonda, Departamento Cuchilla Redonda, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Chilcas, Departamento Victoria, Entre Rios
+LAT: S323633
+LON: O601008
+a 1 km al NO de Villa Paranacito, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337159
+LON: O586580
+Estancia Don Guillermo, Departamento San Salvador, Entre Rios
+LAT: S316159
+LON: O584994
+Hinojal, Departamento Victoria, Entre Rios
+LAT: S322400
+LON: O600700
+Celulosa S.A. Isla Victoria, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340507
+LON: O592309
+Departamento Montoya, Departamento Victoria, Entre Rios
+LAT: S325999
+LON: O598333
+Don Ramon, Departamento Raices Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+Durazno, Departamento Tala, Entre Rios
+LAT: S319833
+LON: O592833
+El Tigrecito, Departamento Raices, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+10 km al SE de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340514
+LON: O592250
+Campo Sr. Franco, Departamento Chiqueros, Departamento Nogoya, Entre Rios
+LAT: S323992
+LON: O597877
+El Relincho, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+16 km al SO de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340524
+LON: O592234
+Hinojal, Departamento Victoria, Entre Rios
+LAT: S322400
+LON: O600700
+12,5 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334980
+LON: O587963
+2,75 km al NNO de Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340538
+LON: O592221
+El Estribo, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Establecimiento Isla Victoria, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340553
+LON: O592213
+1,2 km al SO de El Empalme, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340610
+LON: O592211
+10,25 km al NNE de Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340627
+LON: O592213
+La Susana, Departamento Algarrobitos, Departamento Nogoya, Entre Rios
+LAT: S322833
+LON: O600666
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340642
+LON: O592221
+Establecimiento El Potrillo, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Establecimiento El Cuadro, dto Montoya, Departamento Victoria, Entre Rios
+LAT: S325999
+LON: O598333
+Departamento Quebracho, Departamento Parana, Entre Rios
+LAT: S318350
+LON: O601077
+San Jose, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+San Pablito, Departamento Don Cristobal, Departamento Nogoya, Entre Rios
+LAT: S320745
+LON: O599935
+La Nueva, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+5 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+12 km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+Establecimiento El Retiro, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+El Supremo, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+16 km al S de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340656
+LON: O592234
+Estancia El Talar, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Establecimiento El Terron, Departamento Rincon de Nogoya, Departamento Victoria, Entre Rios
+LAT: S3275 
+LON: O599333
+La Emiliana, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Km 19, ruta N 14, Departamento Ceibas, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+15 km al NE de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+3 Km al N-NO de Enrique Carbo, Departamento Cuchilla Redonda, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+1,5 Km al este de Escrina, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+San Ramon, 3 Km al N. de la estacion Esmeralda, Entre Rios
+LAT: S304756
+LON: O581052
+11,25 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334980
+LON: O587963
+Estancia Los Amigos, 12 Km al sudoeste de Gilbert, Departamento San Antonio, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+La Celmira, Departamento Costa Uruguay Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+4 km al sudeste de Ea. Retiro, Departamento Dos Hermanas, Departamento Gualeguaychu, Entre Rios
+LAT: S331666
+LON: O589000
+1,5 Km al NO de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+8 km al NNE del Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340706
+LON: O592250
+6,25 km al ESE de Medanos, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Estacion Experimental Agropecuaria del INTA Parana, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+San Antonio Nu, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+8 Km. al NO de la ciudad de San Jose de Feliciano, Entre Rios
+LAT: S303826
+LON: O587493
+26 Km al SO de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+Pueblo La Perla, Departamento Concordia, Entre Rios
+LAT: S313918
+LON: O580170
+Estancia General Nazar, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Esc. Agrotecnica Las Delicias, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+El Pilar, Departamento Diamante, Entre Rios
+LAT: S320701
+LON: O606362
+2,5 Km al E-NE de Escrina, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Estancia San Julian, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Corrales, Departamento Victoria, Entre Rios
+LAT: S325826
+LON: O601506
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+4 Km al SE de la ciudad de Gualeguaychu, Departamento Costa Uruguay Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+General Nazar, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Arroyo Durazno, Departamento Tala, Entre Rios
+LAT: S319833
+LON: O592833
+Estacion Hasenkamp, Departamento Parana, Entre Rios
+LAT: S315170
+LON: O598507
+Quebrachitos, Departamento Victoria, Entre Rios
+LAT: S3245 
+LON: O6015
+4 km al noroeste del almacen La Querencia, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+6.5 Km aprox. de la localidad de Villa Elisa, Departamento Colon, Entre Rios
+LAT: S321641
+LON: O584005
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+6 km al E de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+Area Muestra San Carlos, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+a 18,5 km al SO de Villa Paranacito, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337159
+LON: O586580
+21,5 km el SO de Villa Paranacito, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337159
+LON: O586580
+a 22 km al SO de Villa Paranacito, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337159
+LON: O586580
+Aldea Chavez, Departamento Diamante, Entre Rios
+LAT: S321333
+LON: O603333
+Corrales, Departamento Victoria, Entre Rios
+LAT: S325826
+LON: O601506
+Area muestra Aldea Santa Maria, Departamento Parana, Entre Rios
+LAT: S316000
+LON: O599999
+Estancia Las Rosas, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340713
+LON: O592309
+25 Km aprox al NE de Villaguay, ,.-.Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+Estacion La Calandria, Departamento Federal, Entre Rios
+LAT: S307999
+LON: O586500
+Durazno, Departamento Tala, Entre Rios
+LAT: S319833
+LON: O592833
+Esc. Agrotecnica La Carola, Departamento Algarrobitos, Departamento Nogoya, Entre Rios
+LAT: S322833
+LON: O600666
+25 Km NE de ciudad de Villaguay, Departamento Villaguay, Entre Rios
+LAT: S318690
+LON: O590233
+3.3 km aprox. de Estacion La Clarita, Departamento Colon, Entre Rios
+LAT: S319762
+LON: O583944
+Altamirano Norte, Departamento Tala, Entre Rios
+LAT: S320666
+LON: O591833
+Las Liebres, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+Estancia La Emiliana, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+1 km al SE de El Empalme, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340715
+LON: O592329
+Maria Teresa, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+7 Km al SO de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Colonia Ensayo, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+Area Piloto Paso Gallo, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+10 Km al NE de localidad Perdices, Departamento Perdices, Departamento Gualeguaychu, Entre Rios
+LAT: S333050
+LON: O587136
+Departamento Tala, Entre Rios
+LAT: S323460
+LON: O593800
+Departamento Gualeguay, Entre Rios
+LAT: S330503
+LON: O595642
+El Mirador, Departamento Don Cristobal- Departamento Nogoya, Entre Rios
+LAT: S320745
+LON: O599935
+La Emiliana, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+10 km al NO del Est. Forestal Mazaruca, Departamento Islas del Ibicuy, Entre Rios
+LAT: S335833
+LON: O592666
+La Querencia, Departamento Pehuajo al Sur, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+18 km al N de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+16 km al SO de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340713
+LON: O592349
+Estancia Don Guillermo, Departamento San Salvador, Entre Rios
+LAT: S316159
+LON: O584994
+4 Km al O-NO de Perdices, Departamento Dos Hermanas, Departamento Gualeguaychu, Entre Rios
+LAT: S331666
+LON: O589000
+a 800 m al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340706
+LON: O592408
+Establecimiento del Sr. Esteban Elgenreder, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Las Cabezas, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Estacion Experimental INTA Parana, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+5 Km de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+Estancia Las Flores, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Pueblo Bellocq, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+Departamento Villaguay, Entre Rios
+LAT: S316474
+LON: O589206
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria, Entre Rios
+LAT: S3275 
+LON: O599333
+Estancia Las Rosas, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340656
+LON: O592424
+Establecimiento La Stella. Departamento Lucas al Sud, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+500 m sudoeste del casco de la Ea. La Susana, Departamento Algarrobitos, Departamento Nogoya, Entre Rios
+LAT: S322833
+LON: O600666
+Estancia La Constancia, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340642
+LON: O592437
+a 2 km al SE de la Escuela Provincial N 97, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340627
+LON: O592445
+Doll, Departamento Diamante, Entre Rios
+LAT: S323059
+LON: O604243
+San Julian, Departamento Gualeguay, Entre Rios
+LAT: S335911
+LON: O593058
+a 1,5 km al Oeste de la parada km 340 FCGU, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340610
+LON: O592447
+Establecimiento Sr. Galetto, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+a 1,5 km al SO de la Escuela Provincial N 74, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340553
+LON: O592445
+La Avanzada, Departamento Concordia, Entre Rios
+LAT: S313918
+LON: O580170
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+Establecimiento Los Laureles, Departamento Tala, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Estancia Los Cerrillos, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+Estancia Los Cerrillos, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+10 km al SE de Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Establecimiento tambero Don Quicho, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+San Juan Chico, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+Arroyo Guardamonte, Departamento Tala, Entre Rios
+LAT: S320833
+LON: O592999
+Estancia El Malambo, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+Colonia Mandisovi, Departamento Federacion, Entre Rios
+LAT: S309943
+LON: O579212
+Departamento Tala, Entre Rios
+LAT: S323460
+LON: O593800
+Egido de Gral. Ramirez, Departamento Diamante, Entre Rios
+LAT: S320697
+LON: O606378
+Establecimiento El Lucero, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Maria Luisa, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+3,5 km al SO de Estacion Minones, Departamento Federal, Entre Rios
+LAT: S307000
+LON: O585833
+La Verde, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+16 km al sur de la ciudad de Gualeguay, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340538
+LON: O592437
+Paso Gallo, Departamento Concordia, Entre Rios
+LAT: S309394
+LON: O584708
+Puesto de Tabla, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+Estacion Nueva Vizcaya, Departamento Federal, Entre Rios
+LAT: S309666
+LON: O585999
+Estacion Experimental Agropecuaria Parana del INTA, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+3,5 Km al SE de estacion Palavecino, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Arroyo Don Gonzalo, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+Estancia Don Guillermo, Departamento San Salvador, Entre Rios
+LAT: S316159
+LON: O584994
+7 km al este de la ciudad de Gualeguay, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Estancia El Talar, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Departamento Tala, Entre Rios
+LAT: S323460
+LON: O593800
+Campo sucesion Vizconti. 800 m ENE de Zenon Roca, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+7 Km al E de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+5,7 km al sudeste de Medanos, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334149
+LON: O590789
+9,5 km al sudoeste de Puerto Ruiz, Departamento Islas del Ibicuy, Entre Rios
+LAT: S332166
+LON: O593833
+11,5 km al SO de Ceibas, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334980
+LON: O587963
+Aldea Protestante, Departamento Diamante, Entre Rios
+LAT: S320283
+LON: O605605
+Pueblito Norte, Departamento Rincon de Nogoya, Departamento Victoria, Entre Rios
+LAT: S3275 
+LON: O599333
+Est. Maria Angelica, Departamento Antonio Tomas, Departamento Parana, Entre Rios
+LAT: S314166
+LON: O600499
+Establecimiento Sr. Rausch, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Escuela N 121 Sor Juana Ines de la Cruz, Departamento Tala, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Puerto Algarrobo, Departamento La Paz, Entre Rios
+LAT: S306333
+LON: O595833
+5 km al SO de la localidad de Ibicuy, Departamento Islas del Ibicuy, Entre Rios
+LAT: S337335
+LON: O591668
+Octavo Distrito Albardon, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+3km al N del Puerto San Juan, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340524
+LON: O592424
+El Potrero, Departamento Costa Uruguay Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Estacion Experimental Agropecuaria Concordia INTA, Departamento Concordia, Entre Rios
+LAT: S313918
+LON: O580170
+5,75km al SO de la localidad de Medanos, Departamento Islas del Ibicuy, Entre Rios
+LAT: S334149
+LON: O590789
+Estancia Las Cabezas, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Aldea Camarero, Departamento Diamante, Entre Rios
+LAT: S320666
+LON: O604666
+Estancia El Cinco, Departamento Gualeguay, Entre Rios
+LAT: S330312
+LON: O594031
+6 km al este de Urdinarrain, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+de L. Lapuyade, Departamento Raices Oeste, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+Rancho Grande, Departamento Raices, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+La Entrerriana, Departamento Federal, Entre Rios
+LAT: S324835
+LON: O582311
+Mendez, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+Paso Gallo, Departamento Concordia, Entre Rios
+LAT: S309394
+LON: O584708
+Aldea San Alfonso, Departamento Diamante, Entre Rios
+LAT: S321333
+LON: O604000
+San Buenaventura, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+1,5 km al SO de la Estancia Sagastume, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340514
+LON: O592408
+Hinojal, Departamento Victoria, Entre Rios
+LAT: S322400
+LON: O600700
+3.7 Km al N de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+Establecimiento Don Antonio, Departamento Islas del Ibicuy, Entre Rios
+LAT: S340507
+LON: O592349
+San Julian, Departamento Gualeguay, Entre Rios
+LAT: S335911
+LON: O593058
+2.5 Km al NE de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+San Pablito, Departamento Don Cristobal, Departamento Nogoya, Entre Rios
+LAT: S320745
+LON: O599935
+Campo Sr. Nardone, Departamento Gualeguay, Entre Rios
+LAT: S331512
+LON: O593344
+5 Km al Oeste de Ea. San Simon, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Departamento La Paz, Entre Rios
+LAT: S311806
+LON: O596564
+Pajonal, Departamento Victoria, Entre Rios
+LAT: S323615
+LON: O602778
+Establecimiento Forestal Mazaruca, Departamento Islas del Ibicuy, Entre Rios
+LAT: S335833
+LON: O592666
+La Palmita, Departamento Federal, Entre Rios
+LAT: S309512
+LON: O587988
+Area Muestra Hernandarias, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+Campo del Sr. Montrull, Departamento Espinillo. Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+Holt, Entre Rios
+LAT: S321576
+LON: O584090
+Corrales, Departamento Victoria, Entre Rios
+LAT: S325826
+LON: O601506
+Estancia El Aguara, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+Area muestra Arroyo Yacare, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+7 km al norte de Cerrito, Departamento Tala, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+22 Km al SE de San Jaime de la Frontera, departamento federacion, Entre Rios
+LAT: S309850
+LON: O579198
+Parana del INTA, Departamento Parana, Entre Rios
+LAT: S3185 
+LON: O605333
+7 Km noreste de ruta 20, Departamento Pehuajo al Norte, Departamento Gualeguaychu, Entre Rios
+LAT: S330077
+LON: O585111
+Colonia El Sauce, sobre ruta nacional N 14, Departamento Uruguay, Entre Rios
+LAT: S326166
+LON: O584500
+7 Km al E del cruce de rutas Nac. 18 y Pcial 32, Departamento Quebracho, Departamento Parana, Entre Rios
+LAT: S317413
+LON: O605115
+Establecimiento La Stella. Departamento Lucas al Sud, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+Colonia Viraro, Departamento La Paz, Entre Rios
+LAT: S307589
+LON: O596392
+El Redomon, Departamento Concordia, Entre Rios
+LAT: S311050
+LON: O582824
+Colonia oficial N 5, Departamento Concordia, Entre Rios
+LAT: S313918
+LON: O580170
+Departamento Feliciano, Entre Rios
+LAT: S313782
+LON: O580313
+INTA Concordia, Departamento Concordia, Entre Rios
+LAT: S313918
+LON: O580170
+INTA Concordia, Departamento Concordia, Entre Rios
+LAT: S313918
+LON: O580170
+5 Km al Oeste de localidad Zenon Roca, Departamento Villaguay, Entre Rios
+LAT: S318677
+LON: O590269
+Departamento Uruguay, Entre Rios
+LAT: S324232
+LON: O584629
+Departamento Uruguay, Entre Rios
+LAT: S324232
+LON: O584629
+Departamento La Paz, Entre Rios
+LAT: S311806
+LON: O596564
+Departamento La Paz, Entre Rios
+LAT: S311806
+LON: O596564
+Ciudad de San Jose de Feliciano, Entre Rios
+LAT: S303826
+LON: O587493
+Ciudad de San Jose de Feliciano, Entre Rios
+LAT: S303826
+LON: O587493

@@ -1,0 +1,345 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO LUCAS Símbolo: ALu
+
+
+Pertenece a la familia "fina, montmorillonítica, ligeramente alcalina, térmica" de los Ocracualfes vérticos (Planosol con características vérticas).
+
+Son suelos desarrollados en materiales arcillos limosos, con un epipedón ócrico sobre un horizonte argílico y presencia de concreciones de hierro-manganeso en todo el perfil.
+
+
+Perfil tipo: ER7-134C
+Fecha: 03-VI-1999.
+Ubicación: Estancia "Santa María" (foto IR 164-32) - Dpto. San Salvador
+Reconocedores: H.A.Tasi; L.O. López
+
+
+A2: 00-12 cm; pardo grisáceo (10YR 5/2) en seco, pardo grisáceo (10YR 4/2) en húmedo; franco-arcilloso; estructura en bloques subangulares, medios, fuertes; firme en húmedo; concreciones de hierro-manganeso comunes a abundantes, precisos y sobresalientes, abundante limo en la cara de los agregados; límite abrupto, ondulado.
+
+B21t: 12-40 cm; gris pardusco claro (10YR 6/2) en seco, negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, fuertes; firme en húmedo; barnices "clay skins" escasos; caras de fricción ("slickensides") comunes, gruesas; moteados de hierro-manganeso comunes, medios y precisos; concreciones de hierro-manganeso comunes a abundantes, finas y gruesas; límite claro, suave.
+
+B22t: 40-71 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, y bloques cuneiformes medios, moderados; firme en húmedo; caras de fricción ("slickensides") abundantes, finas y gruesas; moteados de hierro-manganeso comunes, precisos y medios y concreciones de hierro-manganeso comunes a abundantes; límite claro, suave.
+
+B23t: 71-87 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; firme en húmedo; caras de fricción ("slickensides") comunes, finas, intersectadas; concreciones de hierro-manganeso escasas y finas; límite claro, suave.
+
+B31ca: 87-97 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; caras de fricción ("slickensides") escasas, finas; concreciones de hierro-manganeso comunes; moteados de hierro-manganeso comunes, medios y precisos; límite claro, suave.
+
+B32ca: 97-112 cm; pardo (7.5YR 5/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques subangulares, medios, débiles; moteados de hierro-manganeso abundantes, medios y precisos, hay manganeso concentrado; concreciones de hierro-manganeso comunes; límite claro, suave.
+Cca: 112 cm +; pardo (7.5YR 4/2) en húmedo; arcillo-limoso; masivo; moteados de hierro-manganeso abundantes, precisos y sobresalientes; concreciones de hierro-manganeso abundantes, finas.
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos está determinada por su posición en el paisaje, hay sectores donde el agua queda estancada por más tiempo y en planos convexos donde ha comenzado a invadir el renoval. En ambas situaciones no se observan cambios importantes en el perfil del suelo.
+
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Drenaje
+
+Pobremente drenado; escurrimiento superficial muy lento. Permeabilidad muy lenta. Capa freática fluctuante. Sufren anegamientos por desbordes en los sectores mas cercanos al arroyo (pajonales) aunque puede extenderse al resto de la unidad en inundaciones excepcionales y se encharcan después de la mayoría de las lluvias. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie Arroyo Lucas no posee erosión hídrica.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Lucas
+
+ER7-134C
+N° de registro
+ 4.161
+ 4.162
+ 4.163
+ 4.164
+ 4.165
+ 4.166
+ 4.167
+Horizonte
+ A2
+ B21t
+ B22t
+ B23t
+ B31
+ B32
+ C
+Profundidad (cm)
+ 03-12
+ 20-33
+ 45-55
+ 74-82
+ 92-98
+ 102-110
+ 125-132
+Mat.organica (%)
+ 3.79
+ 1.68
+ 1.33
+ 1.01
+ 0.51
+ 0.29
+ 0.14
+N (%)
+ 0.137
+ 0.090
+ 0.087
+ 0.069
+ 0.074
+ -
+ -
+C/N
+ 16
+ 11
+ 9
+ 8
+ 4
+ -
+ -
+────────────────────────────────────────────────────────
+
+T
+ < 2 u
+ 33.46
+ 52.53
+ 50.36
+ 50.01
+ 47.60
+ 45.42
+ 45.00
+E
+ 2-20 u
+ 39.99
+ 23.27
+ 26.00
+ 29.97
+ 32.11
+ 33.24
+ 33.90
+X
+ 2-50 u
+ 25.39
+ 22.96
+ 22.33
+ 18.77
+ 18.95
+ 20.23
+ 19.72
+T
+ 50-100 u
+ 0.15
+ 0.14
+ 0.17
+ 0.19
+ 0.47
+ 0.47
+ 0.59
+U
+ 100-500 u
+ 0.97
+ 1.01
+ 1.00
+ 0.97
+ 0.78
+ 0.60
+ 0.74
+R
+ 500-1000 u
+ 0.04
+ 0.09
+ 0.14
+ 0.09
+ 0.09
+ 0.04
+ 0.05
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+PH H2O
+ 6.6
+ 6.7
+ 6.5
+ 6.8
+ 7.2
+ 7.5
+ 7.5
+PH ClK
+ 5.5
+ 5.1
+ 4.9
+ 5.1
+ 5.5
+ 5.4
+ 5.6
+C.E.(mmhos/cm)
+ 0.439
+ 0.273
+ 0.212
+ 0.204
+ 0.196
+ 0.142
+ 0.208
+────────────────────────────────────────────────────────
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+
+
+ 28.00
+ 39.92
+ 37.56
+ 37.86
+ 36.67
+ 36.56
+ 36.7
+
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 22.84
+ 32.00
+ 32.46
+ 31.48
+ 31.48
+ 28.41
+ 28.76
+C
+e
+
+
+
+
+
+
+
+
+A
+
+Mg++
+ 1.76
+ 2.69
+ 2.76
+ 2.99
+ 3.16
+ 3.87
+ 3.75
+T
+c
+
+
+
+
+
+
+
+
+I
+a
+K+
+ 0.58
+ 0.51
+ 0.68
+ 0.58
+ 0.68
+ 0.97
+ 1.10
+O
+m
+
+
+
+
+
+
+
+
+N
+b
+Na+
+ 0.50
+ 0.70
+ 0.50
+ 1.62
+ 1.62
+ 2.05
+ 2.15
+E
+i
+
+
+
+
+
+
+
+
+S
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 1.78
+ 1.75
+ 1.35
+ 4.28
+ 4.42
+ 6.61
+ 5.86
+────────────────────────────────────────────────────────
+
+Equivalente de humedad (%)
+ 31.84
+ 55.00
+ 23.91
+ 52.21
+ 49.72
+ 47.50
+ 45.47
+
+Fósforo asimilable (ppm)
+ 6.54
+ 4.06
+ 3.59
+ 3.29
+ 3.22
+ 3.48
+ 3.22
+

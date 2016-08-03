@@ -1,0 +1,323 @@
+
+--------------------------------------------------------------------------------
+SERIE DON ALFREDO Símbolo: DAf
+
+
+Pertenece a la familia "fina, montmorillonítica (t), térmica" de los Argiudoles vérticos (Brunizems vertisólicos).
+Son suelos moderadamente bien drenados, con un epipedón muy oscuro y profundo, franco-limoso, y un horizonte argílico bien desarrollado, arcillo-limoso, con presencia de caras de fricción ("slickensides") intersectadas.
+
+Suelos desarrollados en materiales loessoides calcáreos, retransportados, de textura franco-arcillo-limosa.
+
+
+Perfil tipo: ER7-72C
+Fecha: 6-VI-1989.
+Localización: Establecimiento "Don Alfredo" (foto 434-93) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+
+
+A1: 00-25 cm; negro (10YR 2/1) en húmedo; gris (10YR 5/1) en seco; franco-limoso; estructura granular y en bloques subangulares medios, débiles; friable en húmedo; barnices "clay humic skins" abundantes, gruesos; moteados de hierro comunes, finos y débiles; límite abrupto, suave.
+
+B21t: 25-43 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; extremadamente duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins", abundantes y gruesos; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro comunes, finos y precisos; límite difuso, ondulado.
+
+B22t: 43-60 cm; pardo muy oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, moderados, que rompen en prismas compuestos irregulares, medios, débiles; extremadamente duro en seco; friable en húmedo; barnices "clay humic skins" escasos, finos, y "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro y manganeso comunes, medios y precisos; límite difuso, ondulado.
+
+B23t: 60-88 cm; pardo oscuro (7.5YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares y agregados cuneiformes, medios, moderados; duro en seco; friable en húmedo; barnices "humic skins" y "clay skins", escasos, finos; caras de fricción ("slickensides") escasas, finas e intersectadas; moteados de hierro y manganeso comunes, medios y precisos; concreciones de calcio escasas; límite claro, suave.
+
+B3ca: 88-110 cm; pardo (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, débiles; friable en húmedo; barnices "clay skins", escasos y finos; moteados de hierro y manganeso comunes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas de hasta 6 cm (muñecas de loess o "loessskindeln"), escasas; límite claro, suave.
+
+C: 110 + cm; pardo claro (7.5YR 5/4) en húmedo; franco-limoso; estructura masiva; friable en húmedo; moteados de hierro manganeso comunes, medios y precisos; escasa cantidad de carbonatos libres en la masa.
+
+
+Variabilidad de rasgos
+
+El solum posee más de 115 cm, con un epipedón mólico profundo de aproximadamente 25-30 cm de espesor, compuesto de un A1 o A1+B1, de textura franco-limosa a franco-arcillo-limosa, con 24 % de arcilla; su estructura generalmente es buena, variando de granular a bloques subangulares. Posee normalmente de 4-5 % de materia orgánica en su parte superior y 2.5-3 % en la inferior.
+
+El horizonte argílico tiene un espesor de 60-70 cm y está mejor expresado en el subhorizonte B21t. Tiene normalmente entre 44-47 % de arcilla, y abundantes caras de fricción ("slickensides") finas e intersectadas. El perfil presenta, a partir del B21t, grietas rellenas por material de horizontes suprayacentes; la penetración radicular en este horizonte es limitada y se produce mayormente a través de las grietas, siendo común encontrar raíces aplastadas.
+
+El calcáreo, en forma de carbonatos libres y escasas concreciones de hasta 6 cm de diámetro -y cementadas en forma de "muñecas de loess" o "loessskindeln"- aparecen recién a partir de 75-85 cm.
+
+
+Fases
+
+No se observaron a nivel de detalle.
+
+
+Series similares y sus diferencias
+
+La Serie Don Alfredo se parece a la Serie La Jaula, pero ésta es menos profunda, tiene un horizonte argílico menos arcilloso y su posición en el paisaje es distinta.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial lento a muy lento. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Don Alfredo puede presentar un leve peligro de erosión laminar y en surcos, especialmente en las márgenes de las áreas cóncavas.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Don Alfredo
+
+ER7-72C
+
+
+
+
+
+
+Nº de registro
+ 5230
+ 5231
+ 5232
+ 5233
+ 5234
+ 5235
+Horizonte
+ A1
+ B21t
+ B22t
+ B23t
+ B3ca
+ C
+Profundidad (cm)
+ 05-20
+ 27-40
+ 47-57
+ 68-84
+ 95-105
+ 125-140
+Mat.organica (%)
+ 4.09
+ 2.24
+ 1.15
+ 0.61
+ 0.38
+ 0.15
+N (%)
+ 0.17
+ 0.10
+ 0.07
+ 0.04
+ 0.03
+ 0.02
+C/N
+ 14
+ 13
+ 10
+ 8
+ 8
+ 5
+
+T
+
+ <2 u
+
+ 23.99
+
+ 47.08
+
+ 43.53
+
+ 43.83
+
+ 41.16
+
+ 28.78
+E
+ 2-20 u
+ 36.94
+ 22.47
+ 24.79
+ 24.75
+ 24.99
+ 31.22
+X
+ 2-50 u
+ 70.83
+ 49.68
+ 52.95
+ 52.88
+ 53.26
+ 64.72
+T
+ 50-100 u
+ 4.61
+ 2.88
+ 3.07
+ 2.71
+ 4.08
+ 5.93
+U
+ 100-500 u
+ 0.54
+ 0.35
+ 0.41
+ 0.53
+ 0.46
+ 0.54
+R
+ 500-1000 u
+ 0.03
+ 0.01
+ 0.04
+ 0.05
+ 0.04
+ 0.03
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ -
+ -
+ -
+ 0.4
+ 0.8
+ 1.1
+pH H2O
+ 5.5
+ 6.9
+ 7.3
+ 7.7
+ 7.9
+ 8.2
+pH ClK
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+
+ 35.70
+
+
+
+ 40.80
+
+
+
+ 37.60
+
+
+
+ 36.80
+
+
+
+ N.D.
+
+
+
+ 33.90
+
+ d Ca ++
+ 17.90
+ 32.80
+ 30.30
+ 30.20
+ -
+ 30.40
+C e
+
+
+
+
+
+
+Mg++
+ 2.40
+ 3.80
+ 3.90
+ 3.50
+ -
+ 2.40
+t C
+
+
+
+
+
+
+i a K+
+ 0.78
+ 0.75
+ 0.41
+ 0.50
+ 0.37
+ 0.40
+o m
+
+
+
+
+
+
+n b Na+
+ 1.20
+ 1.03
+ 0.40
+ 0.48
+ 0.38
+ 0.56
+e i
+
+
+
+
+
+
+s o H+
+ 2.20
+ 0.40
+ 0.90
+ 0.90
+ -
+ -
+% Na/T
+ 6.16
+ 0.98
+ 2.39
+ 2.45
+ -
+ -
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 28.24
+ 47.52
+ 44.84
+ 42.24
+ 43.12
+ 34.69
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -
+ -
+ -
+

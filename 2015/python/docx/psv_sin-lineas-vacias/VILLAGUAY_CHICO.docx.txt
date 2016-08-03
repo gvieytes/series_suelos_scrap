@@ -1,0 +1,240 @@
+--------------------------------------------------------------------------------
+SERIE VILLAGUAY CHICO Símbolo: Vgch
+Pertenece a la familia "fina, mixta, térmica" de los Hapludoles tapto árgicos.
+Suelos someros, oscuros, de textura franco limosa en el epipedón y franco-arcillo-limoso en el B2, imperfectamente drenados, a veces presentan una capa freática suspendida sobre el perfíl enterrado.
+Suelos desarrollados en materiales coluvio-aluviales retransportados y descarbonatados.
+Perfil tipo: ER7-138C
+Fecha: 19-VII-00
+Ubicación: Establecimiento La Stella. Dto Lucas al Sud (foto IR 154-46) Dpto Villaguay.
+Reconocedores: O.A. Foti; L.O. Lopez
+A1: 00-22 cm; pardo grisáceo oscuro (10YR 3/2.5) en húmedo y pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura granular y bloques subangulares medios, moderados; friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso, comunes, medios y precisos; límite claro, suave.
+B2: 22-34 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles que rompen en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay skins") comunes; moteados de hierro-manganeso, comunes, medios y precisos; límite gradual suave.
+A1b: 34-49 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares medios, débiles; friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso abundantes, medios y precisos; límite abrupto, suave.
+B1gb: 49-57 cm; abigarrado; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices ("clay skins") comunes, caras de fricción ("slickensides") escasas, finas; concreciones ferromanganesíferas, comunes, finas; moteados de hierro-manganeso abundantes, medios y precisos; límite gradual, suave.
+B21tb: 57-74 cm; gris oscuro (10YR 4/1); arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas y finas, intersectadas; concreciones ferromanganesiferas comunes; moteados de hierro-manganeso abundantes, medios y precisos; límite difuso, suave.
+B22tb: 74-120 cm +; gris oscuro (10YR 4,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, medios; extremadamente duro en seco, muy firme en húmedo; moteados de hierro-manganeso comunes, medios y precisos.
+Variabilidad de rasgos
+El solum tiene más de 130 cm de espesor y su variabilidad está determinada por la profundidad a que aparece el suelo enterrado.
+El epipedón mólico está constituido principalmente de material acumulado, proveniente de sectores más elevados, y puede mostrar ocasionalmente, leves síntomas de eluviación. Es de color pardo grisáceo con presencia de barnices y moteados, comunes a abundantes.
+El horizonte B2tb, de textura franco-arcillo-limoso a arcillo-limoso, es de color oscuro y presenta caras de fricción ("Slickensides") abundantes y gruesas.
+El perfil muestra moteados y concreciones ferromanganesíferas en casi su totalidad, aunque no sienpre visibles por el exceso de humedad, además, es notable la ausencia de calcáreo en todo el perfil. Los materiales originarios son heterogéneos, habiéndose encontrado en algunos casos lentes de poco espesor de un material limoso, masivo y de colores muy claros, con características abrasivas propias de las cenizas volcánicas. Sólo un estudio específico podría determinar su origen y definir su relación con los suelos presente.
+Fases
+No se han descripto a nivel de reconocimiento.
+Drenaje
+Imperfectamente drenado. Escurrimiento superficial muy lento a estancado. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+Erosión
+La serie Villaguay Chico presenta una leve deposición. En algunos sectores existe peligro de erosión en cárcavas y surcos.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Villaguay Chico
+ER7-138C
+Nº de registro
+ 5.344
+ 5.345
+ 5.346
+ 5.347
+ 5.348
+ 5.349
+Horizonte
+ A1
+ B2
+ A1b
+ B1gb
+ B21tb
+ B22tb
+Profundidad (cm)
+ 06-20
+ 26-33
+ 40-47
+ 50-56
+ 60-70
+ 80-100
+Mat.organica (%)
+ 2.9
+ 1.6
+ 1.6
+ 1.0
+ 1.0
+ 0.5
+N (%)
+ 0.15
+ 0.09
+ 0.09
+ 0.07
+ 0.06
+ 0.02
+C/N
+ 11
+ 10
+ 10
+ 8
+ 9
+ 10
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 26.59
+ 35.53
+ 33.33
+ 34.61
+ 47.67
+ 44.01
+E
+ 2-20 u
+ 36.25
+ 38.23
+ 35.86
+ 31.72
+ 28.49
+ 20.02
+X
+ 2-50 u
+ 72.54
+ 64.26
+ 65.55
+ 63.86
+ 51.06
+ 54.61
+T
+ 50-100 u
+ 0.24
+ 0.06
+ 0.61
+ 0.53
+ 0.15
+ 0.18
+U
+ 100-500 u
+ 0.62
+ 0.14
+ 0.50
+ 0.98
+ 1.09
+ 1.03
+R
+ 500-1000 u
+ 0.01
+ 0.01
+ 0.01
+ 0.02
+ 0.03
+ 0.17
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.11
+pH H2O
+ 6.4
+ 6.5
+ 6.6
+ 6.7
+ 6.6
+ 7.2
+pH ClK
+ 4.9
+ 5.0
+ 5.0
+ 5.0
+ 5.1
+ 5.7
+C.E.(mmhos/cm)
+ 0.212
+ 0.162
+ 0.166
+ 0.178
+ 0.366
+ 0.367
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+ 23.21
+ 28.66
+ 27.34
+ 26.42
+ 40.46
+ 36.29
+d
+Ca++
+ 14.08
+ 21.54
+ 19.96
+ 18.72
+ 33.20
+ 31.61
+C
+e
+a
+Mg++
+ 1.23
+ 1.17
+ 1.70
+ 2.28
+ 2.51
+ 2.22
+t
+c
+i
+a
+K+
+ 0.48
+ 0.36
+ 0.24
+ 0.25
+ 0.60
+ 0.24
+o
+m
+n
+b
+Na+
+ 0.41
+ 0.62
+ 0.57
+ 0.67
+ 8.75
+ 1.25
+e
+i
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 1.77
+ 2.16
+ 2.08
+ 2.53
+ 1.85
+ 3.45
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 28.81
+ 34.14
+ 32.52
+ 36.55
+ 49.82
+ 45.99
+Fósforo asimilable (ppm)
+ 4.9
+ 3.4
+ 3.2
+ 2.9
+ 2.6
+ 1.8

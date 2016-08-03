@@ -1,0 +1,151 @@
+--------------------------------------------------------------------------------
+SERIE PUESTO ASTORGA Símbolo: PAs
+Pertenece a la familia "limosa fina, mixta (?), térmica" de los Hapludoles ácuicos.
+La serie Puesto Astorga es un suelo aluvial fuertemente salino y sódico. Esta serie integra unidades cartográficas de posición relativamente alta en el paisaje que están a salvo de anegamiento por aguas ya sea por lluvias o por inundaciones excepto las extraordinarias.
+La vegetación es de pastizal con presencia de plantas halófitas.
+Perfil tipo: 59C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 5,75km al SO de la localidad de Médanos (Hoja IGM 3360-29-2) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+A1: 0-32 cm; negro (10YR 2/1) en húmedo; franco arcillo limoso a franco limoso; estructura en prismas irregulares compuestos medios moderados; friable; barnices (clay skins) escasos; raíces comu - nes; límite inferior gradual ondulado.
+IIC1: 32-69 cm; pardo amarillento opaco (10YR 4/3) en húmedo; franco limoso; estructura en bloques angulares y subangulares medios moderados; friable; concreciones calcáreas escasas; concreciones ferromanganésicas abundantes; moteados finos comunes y precisos; raíces escasas; límite inferior abrupto ondulado.
+IIC1: 60-100 cm; alternancia de las dos capas; límite inferior abrupto IIIC2 ondulado.
+IIC2
+IIIC2: 100-130 cm; gris amarillento a amarillo grisáceo oscuro (2,5Y 4/1,5) en húmedo; franco limoso; masivo; friable; concreciones ferromanganésicas escasas; moteados medios comunes sobresalientes.
+Variabilidad de rasgos
+El estrato superficial, horizonte A1, es de 32 cm de espesor, de color negro, con bajo contenido de materia orgánica (alrededor del 1%) de textura franco arcillo limosa a franco limosa y estructura en prismas irregulares medios débiles. A continuación sigue una alternancia de capas de colores pardo amarillento opaco y amarillo grisáceo oscuro, de texturas más livianas (franco limosa) hasta los 130 cm de profundidad. Se observan concreciones ferromanganésicas comunes a abundantes y moteados precisos y sobresalientes entre los 30 y 130cm de profundidad, en la zona de fluctuación de la napa freática.
+Este suelo es fuertemente salino. La conductividad es de 12 mmhos/cm en superficie y crece en profundidad hasta 40mmhos/cm. En las sales solubles predominan los cloruros y sulfatos de sodio. El PSI (Por - centaje de sodio de intercambio) del extracto del suelo saturado va desde 28 % en superficie a 39 % a los 120 cm de profundidad; en este caso este suelo ha sido clasificado por alcalinidad sódica como A1 32.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+	
+El perfil es de permeabilidad moderada e imperfectamente drenado. Napa freática relativamente alta e inundaciones excepcionales.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Puesto Astorga
+59C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ IIC1
+ IIIC2
+Profundidad (cm)
+ 12-26
+ 46-64
+ 110-125
+Mat. orgánica (%)
+ 1.00
+ 0.06
+ -
+C (%)
+ 0.58
+ 0.04
+ -
+N (%)
+ 0.130
+ -
+ -
+C/N
+ 5
+ -
+ -
+T <2 u
+ 28.1
+ 24.4
+ 22.4
+E 2-20 u
+ 39.6
+ 40.2
+ 54.8
+X 2-50 u
+ 66.9
+ 70.4
+ 75.4
+T 50-74 u
+ 2.1
+ 3.3
+ 0.8
+U 74-100 u
+ 2.4
+ 1.6
+ 1.2
+R 100-250 u
+ 0.3
+ 0.2
+ 0.1
+A 250-500 u
+ 0.2
+ 0.1
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 44.5
+ 30.9
+ 31.4
+Resistencia de la pasta (Ohms/cm)
+ 323
+ 158
+ 154
+pH en pasta
+ 6.8
+ 6.7
+ 7.0
+pH en agua (1:2,5)
+ 7.3
+ 6.9
+ 6.9
+pH en KCl (1:2,5)
+ 6.2
+ 6.4
+ 6.6
+Conductividad (mmhos/cm)
+ 12.52
+ 38.27
+ 40.35
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ -
+ -
+ -
+Mg++
+ -
+ -
+ -
+Na[+]
+ -
+ -
+ -
+K[+]
+ -
+ -
+ -
+H[+]
+ -
+ -
+ -
+Na+ % del valor T
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ -
+ -
+ -

@@ -1,0 +1,225 @@
+--------------------------------------------------------------------------------
+SERIE LA LUISA Símbolo: LLu
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelos moderadamente bien drenados, con un epipedón muy oscuro, franco-arcillo-limoso y un horizonte argílico oscuro, de textura arcillo limosa y con caras de fricción ("slickensides").
+Tienen concreciones calcáreas a partir de la base del argílico. Suelos desarrollados en materiales loessoides de textura franco-arcillo-limosa.
+Perfil tipo: ER3-8C
+Fecha: 20-X-70
+Ubicación: Estancia El Trébol (foto 414-23) - Dpto. Gualeguay
+Reconocedores: R. Kleinerman; G. van Barneveld.
+Ap: 00-14 cm; pardo muy oscuro (10YR 2/2) en húmedo y gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares medios, moderados; duro en seco; límite abrupto y suave.
+B1: 14-21 cm; negro (10YR 2/2) en húmedo y pardo grisáceo oscuro (10YR 4/2) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic") escasos y finos; moteados de hierro escasos finos y débiles; límite claro, suave.
+B21t: 21-47 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; firme en húmedo; barnices ("clay-humic") comunes y débiles; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso escasos finos y débiles; límite gradual, suave.
+B22t: 47-76 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en otros prismas compuestos irregulares finos, moderados más bloques angulares irregulares y cuneiformes medios, moderados; friable en húmedo; concreciones calcáreas comunes, finas y duras; barnices ("clay-humic") comunes y finos; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso abundantes, finos y precisos; límite claro, ondulado.
+B3Ca: 76-103 cm; pardo (7.5YR 5/5.4) en húmedo; franco-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; concreciones calcáreas comunes, finas y duras; barnices ("clay-humic") escasos y finos; caras de fricción ("slickensides") escasas y finas; moteados de hierro manganeso comunes, finos y precisos; límite gradual, ondulado.
+CCa: 103 cm +; pardo fuerte (7.5YR 5/6) en húmedo; franco-limoso; estructura masiva; concreciones calcáreas comunes y medias, semiduras y blandas; moteados de hierro-manganeso abundantes finos y precisos.
+Variabilidad de rasgos
+El sólum varía de 90-125 cm. El epipedón mólico incluye los horizontes A1 y B1. Su espesor es de 15 a 25 cm, llegando a medir 10 cm cuando está muy erosionado. Su estructura varía de granular a bloques subangulares y tiene entre 26-32% de arcilla.
+El horizonte argílico, de estructura prismática compuesta, varía de 50 a 70 cm de espesor y tiene 45-52% de arcilla. Los "slickensides", poco intersectados, se encuentran generalmente en el horizonte B2 y B3 y a veces también en el C.
+En verano, en el horizonte B2 aparecen grietas de 1 a 1,5 cm de ancho que se extienden hasta la base del epipedón, cuando éste no está erosionado.
+El calcáreo, en concreciones duras, se encuentra a partir de los 40-50 cm de profundidad, en la parte inferior del horizonte B2, su porcentaje varía de 2 a 10%.
+El color del horizonte C varía de pardo (7.5YR 5/4) a pardo claro (7.5YR 5/3). Tiene entre 20 y 25% de arcilla y 2 a 3% de arena fina.
+Fases:
+No se determinaron fases a nivel de reconocimiento.
+Series similares y sus diferencias:
+Se parece a la serie San Roque, pero ésta se desarrolla en materiales limo-loessoides más arcillosos. Su posición en el paisaje es distinta.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado y a veces, algo lento. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+Serie La Luisa tiene una erosión actual laminar leve y es susceptible a la erosión en surcos.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Luisa
+ER7-133C
+N° de registro
+ 192
+ 193
+ 194
+ 195
+ 196
+ 197
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm
+ 00-10
+ 14-21
+ 25-40
+ 53-70
+ 80-100
+ 105-120
+Mat.organica (%)
+ 6.30
+ 3.80
+ 2.50
+ 1.80
+ 0.50
+ 0.40
+N (%)
+ 0.35
+ 0.20
+ 0.14
+ 0.09
+ 0.04
+ 0.03
+C/N
+ 10
+ 10
+ 10
+ 10
+ 8
+ 8
+T <2
+ 29.20
+ 38.80
+ 48.40
+ 50.40
+ 23.90
+ 23.20
+E 2-20
+ 29.90
+ 23.70
+ 20.70
+ 23.70
+ 30.50
+ 36.30
+X 2-50
+ 66.60
+ 56.90
+ 48.00
+ 46.40
+ 73.00
+ 74.10
+T 50-100
+ 2.40
+ 2.70
+ 2.40
+ 2.50
+ 1.40
+ 2.00
+U 100-500
+ 1.80
+ 1.60
+ 1.20
+ 0.07
+ 0.07
+ 0.07
+R 500-1000
+ -
+ -
+ -
+ -
+ -
+ -
+A 1000-2000
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 11.80
+ 1.60
+pH H2O
+ 5.8
+ 5.9
+ 6.3
+ 7.0
+ 8.0
+ 7.8
+pH ClK
+ 5.1
+ 5.5
+ 5.7
+ 6.3
+ 6.9
+ 6.9
+Conductividad eléctrica mmhos/cm
+ 31.70
+ 35.00
+ 37.90
+ 47.40
+ 32.60
+ 32.50
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 31.70
+ 35.00
+ 37.90
+ 47.40
+ 32.60
+ 32.50
+d
+Ca++
+ 21.70
+ 30.40
+ 34.90
+ 47.40
+ -
+ -
+C
+e
+a
+Mg++
+ 5.60
+ 5.00
+ 5.00
+ 2.10
+ -
+ -
+t
+c
+i
+a
+K+
+ 2.00
+ 1.70
+ 1.50
+ 0.90
+ 0.80
+ 0.08
+o
+m
+n
+b
+Na+
+ 0.10
+ 0.10
+ 010
+ 0.60
+ 0.20
+ 0.20
+e
+i
+s
+o
+H+
+% Na/T
+ 0.31
+ 0.29
+ 0.26
+ 1.27
+ 0.61
+ 0.61
+Equivalente de humedad (%)
+ 31.70
+ 35.30
+ 43.20
+ 44.60
+ 36.50
+ 36.40
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -2
+ -
+ -

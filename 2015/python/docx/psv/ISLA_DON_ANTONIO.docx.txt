@@ -1,0 +1,306 @@
+
+--------------------------------------------------------------------------------
+SERIE ISLA DON ANTONIO Símbolo: IDAn
+
+
+Pertenece a la familia "franca gruesa, mixta, no calcárea, térmica" de los Haplacuoles hísticos.
+
+La serie Isla Don Antonio, es un suelo aluvial no salino ni sódico. Dentro del paisaje se encuentra en posición deprimida, por lo cual este suelo permanece bajo agua durante períodos prolongados durante el año, siempre y cuando, el área no esté endicada.
+
+La vegetación vegetación presente es de tipo hidrófila.
+
+
+Perfil tipo: 106C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: 21,5 km el SO de Villa Paranacito (Hoja IGM 3360-36-3) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+O1: 25-0 cm; horizonte orgánico.
+
+A1: 0-15 cm; negro (10YR 1,7/1) en húmedo; arcilloso; plástico, adhe - sivo; raíces abundantes.
+
+IIC1: 15-35 cm; pardo grisáceo (7,5YR 4/2) en húmedo; arcillo limoso; plástico, adhesivo; moteados finos, comunes, precisos; raíces comunes.
+
+IIIC2: 35-90 cm; amarillo pardo grisáceo (10YR 5/2) en húmedo; franco arenoso; no plástico, ligeramente adhesivo.
+
+IVC3: 90-120 cm; pardo opaco (7,5YR 5/4) en húmedo; areno franco a arenoso; no plástico, no adhesivo; moteados medios a gruesos, comunes, precisos.
+
+VC4: 120-160 cm; amarillo pardo grisáceo (10YR 4/2) en franco arenoso; no plástico, ligeramente adhesivo.
+
+
+Variabilidad de rasgos
+
+Es un perfil cuyo pH oscila entre fuertemente ácido y medianamente ácido.
+Sobrepuesto al perfil mineral tiene un horizonte orgánico O1 de 25 cm de espesor con predominio de restos vegetales semidescompuestos. A continuación se describe un horizonte mineral A1 de 15 cm de espesor; de color negro, muy bien provisto de materia orgánica (más del 20 %) y textura arcillosa. Sigue una capa subsuperficial (IIC1) de color pardo grisáceo y textura arcillo limosa con buen contenido de materia orgánica. A continuación sigue una alternancia de capas de colores más claros, la primera, amarillo pardo grisáceo y textura franco arenosa, la segunda de color pardo opaco y textura areno franca. Se observan moteados precisos en las capas IIC1 y IVC3.
+
+El porcentaje de sodio de intercambio no supera el 15 % a lo largo de todo el perfil y por alcalinidad sódica ha sido clasificado en la clase A1 01.
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+El perfil es de permeabilidad moderadamente lenta y mal drenado para áreas no endicadas. Napa freática alta que cubre el perfil gran parte del año.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Isla Don Antonio
+
+106C INTA Castelar
+
+
+
+
+
+
+N° de registro
+
+
+
+
+
+
+Horizonte
+ O1
+ A1
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+Profundidad (cm)
+ -
+ 5-12
+ 20-32
+ 40-60
+ 95-110
+ 130-150
+Mat.organica (%)
+ -
+ 24.48
+ 3.62
+ -
+ -
+ -
+C (%)
+ -
+ 14.2
+ 2.10
+ -
+ -
+ -
+N (%)
+ -
+ 1.26
+ 0.198
+ -
+ -
+ -
+C/N
+ -
+ 11
+ 11
+ -
+ -
+ -
+
+T <2 u
+
+ -
+
+ 56.9
+
+ 47.5
+
+ 12.0
+
+ 7.6
+
+ 17.2
+E 2-20 u
+ -
+ 25.2
+ 28.8
+ 5.8
+ 1.0
+ 7.7
+X 2-50 u
+ -
+ 36.1
+ 45.9
+ 19.0
+ 4.8
+ 23.4
+T 50-74 u
+ -
+ 3.5
+ 3.4
+ 27.4
+ 37.0
+ 29.6
+U 74-100 u
+ -
+ 2.4
+ 2.6
+ 28.1
+ 12.5
+ 22.1
+R 100-250 u
+ -
+ 0.9
+ 0.5
+ 8.3
+ 38.0
+ 7.6
+A 250-500 u
+ -
+ 0.2
+ 0.1
+ 5.2
+ 0.1
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+ -
+ 0
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ -
+ 74.2
+ 33.8
+ 11.6
+ 3.2
+ 12.4
+Resistencia de la pasta (Ohms/cm)
+ -
+ 4504
+ 3261
+ 9163
+ 8541
+ 2330
+pH en pasta
+ -
+ 5.7
+ 5.5
+ 5.9
+ 5.8
+ 5.4
+PH H2O
+ -
+ 5.9
+ 6.1
+ 6.3
+ 6.1
+ 5.6
+pH ClK
+ -
+ 4.9
+ 4.8
+ 5.1
+ 5.2
+ 4.8
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca++
+ -
+ 16.2
+ 11.6
+ 4.1
+ 2.3
+ 3.0
+
+Mg++
+ -
+ 1.9
+ 2.6
+ 1.2
+
+
+
+Na+
+ -
+ 0.9
+ 0.7
+ 0.2
+ 0.4
+ 0.6
+
+K+
+ -
+ 0.8
+ 0.2
+ 0.1
+ -
+ 0.2
+
+H+
+ -
+ 27.1
+ 16.0
+ 3.9
+ 1.6
+ 4.8
+% Na/T
+ -
+ 2
+ 3
+ 3
+ 13
+ 8
+Suma de bases, m.e./100 gr (S)
+ -
+ 19.8
+ 15.1
+ 5.6
+ 2.7
+ 3.8
+C.I.C., m.e./100 gr (T)
+ -
+ 42.0
+ 25.9
+ 7.2
+ 3.1
+ 7.3
+Saturación con bases, (%) (S/T)
+ -
+ 47
+ 58
+ 78
+ 87
+ 52
+Observaciones: los valores de Ca[++] que figuran en las capas IVC3 y VC4 corresponden a los valores de Ca[++]+Mg[++]
+

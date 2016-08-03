@@ -1,0 +1,247 @@
+--------------------------------------------------------------------------------
+SERIE SAN JULIAN I Símbolo: SJ I
+Pertenece a la familia "fina, montmorillonítica neutra, térmica" de los Peludertes árgicos crómicos.
+No muestra un microrrelieve gilgai visible en el terreno, pero sí muy tenuemente en la foto aérea y en el perfil. Está ligeramente erosionada y moderadamente bién drenada. Tiene un epipedón bien estructurado, de textura franco-arcillo-limoso y un horizonte argílico arcillo-limoso. Las concreciones de calcáreo aparecen entre los 30 y 60 cm.
+Suelos desarrollados en materiales "limos calcáreos", franco-arcillo-limosos, con aporte de arenas.
+Perfil tipo: ER2-13C
+Fecha: 3-XI-1970
+Ubicación: Ea. San Julián. (foto IR 411-24). Dpto. Gualeguay.
+Reconocedores: C.J. Vesco; G.W. van Barneveld.
+A1: 00-06 cm; gris muy oscuro (10YR 3/1) en húmedo, pardo (10YR 5/1) en seco; franco-arcillo-limoso; estructura de bloques subangulares, bloques angulares (y algo de granular) medios, moderados; muy duro en seco; friable en húmedo; barnices ("humic skins") escasos; límite claro, suave.
+B1: 06-15 cm; negro (10YR 2.5/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares, débiles, que rompen en bloques angulares medios, moderados; muy duro en seco; friable en húmedo; barnices ("clay-humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+B21t: 15-27 cm; negro (10YR 2/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares medios, moderados; muy duro en seco, friable en húmedo; barnices ("clay-humic skins") comunes y medios; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+B22t: 27-44 cm; gris muy oscuro (10YR 3/1.5) en húmedo, gris oscuro (10YR 4/1.5) en seco; arcilloso; estructura en bloques angulares irregulares y bloques cuneiformes medios, moderados con tendencia a prismas compuestos irregulares, débiles; extremadamente duro en seco, firme en húmedo; concreciones calcáreas escasas y finas; barnices ("clay-humic skins"), comunes y medios; caras de fricción ("slickensides") abundantes e intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, ondulado.
+B31Ca: 44-66 cm; pardo grisáceo oscuro (10YR 4/2.5) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes gruesos, moderados; extremadamente duro en seco, firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, de hasta 2 cm de diámetro; caras de fricción ("slickensides") comunes, finas y medias; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B32Ca: 66-88 cm; pardo a pardo oscuro (7.5YR 4.5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados (y algo de bloques cuneiformes débiles); firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, de hasta 4cm de diámetro; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso comunes finos y precisos; límite gradual, suave.
+CCa: 88 cm+; pardo (7.5YR 5/4) en húmedo; franco-arcilloso; estructura masiva; friable en húmedo; abundantes carbonatos libres en la masa; concreciones calcáreas, abundantes; escasos barnices, inherentes al material; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso, comunes, medios y precisos.
+Variabilidad de rasgos
+Está determinada principalmente por dos procesos, uno la "actividad" del material arcilloso que da lugar a la formación del gilgai y, el otro, la erosión. El epipedón varía entre 15-22 cm y está bien estructurado; generalmente se puede diferenciar un A1 y un B1. Tiene entre 35-38% de arcilla, pero en algunos lugares con valores menores.
+El horizonte B2 argílico, que está mejor expresado en el bajo del gilgai, es más arcilloso en su parte inferior (50%). Las caras de fricción, intersectadas, se encuentran generalmente a partir de los 10-15 cm llegando hasta 1.5 m en el material originario.
+El calcáreo, en concreciones duras de 2 a 4 cm de diámetro, aparece entre los 30 y 70 cm, generalmente a partir del horizonte B3 o parte inferior del B22. El porcentaje de calcáreo varía entre 10-18%. Los contenidos de arenas varían entre 17-20% en superficie, disminuyendo a 10-12% en profundidad.
+Fases
+No se determinaron a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie El Triángulo (a la que está asociada), pero ésta tiene menos arena, su epipedón es más arcilloso, es más alcalina en el subsuelo y está en una posición fisiográfica distinta.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+Serie San Julián I muestra una erosión actual laminar leve a moderada. Tiene peligro de erosión en surcos debido a la estructura desfavorable y el contenido de arcilla del epipedón.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie San Julián I
+ER2-13C
+N° de registro
+ 226
+ 227
+ 228
+ 229
+ 230
+ 231
+ 232
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 00-06
+ 06-15
+ 15-27
+ 31-41
+ 46-62
+ 72-84
+ 93-100
+Mat.organica (%)
+ 4.40
+ 3.91
+ 3.48
+ 2.09
+ 0.90
+ N.D.
+ N.D.
+N (%)
+ 0.270
+ 0.240
+ 0.200
+ 0.420
+ 0.070
+ N.D.
+ N.D.
+C/N
+ 10
+ 9
+ 10
+ 10
+ 7
+ N.D.
+ N.D.
+T <2
+ 29.80
+ 34.40
+ 39.60
+ 53.10
+ 43.10
+ N.D.
+ N.D.
+E 2-20
+ 24.20
+ 28.30
+ 26.90
+ 16.10
+ 15.90
+ N.D.
+ N.D.
+X 2-50
+ 51.90
+ 50.10
+ 46.30
+ 36.30
+ 44.70
+ N.D.
+ N.D.
+T 50-100
+ 3.50
+ 2.70
+ 2.70
+ 2.00
+ 2.40
+ N.D.
+ N.D.
+U 100-250
+ 7.90
+ 6.90
+ 6.10
+ 4.60
+ 4.90
+ N.D.
+ N.D.
+R 250-500
+ 6.30
+ 5.50
+ 4.80
+ 3.60
+ 4.20
+ N.D.
+ N.D.
+A 500-1000
+ 0.60
+ 0.40
+ 0.50
+ 0.40
+ 0.70
+ N.D.
+ N.D.
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+pH H2O
+ 6.0
+ 6.3
+ 6.3
+ 7.1
+ 7.7
+ 7.9
+ 7.9
+pH ClK
+ 5.7
+ 5.9
+ 5.9
+ 6.2
+ 6.5
+ 6.8
+ 6.8
+Capacidad de intercambio catiónico (m.e./100 g) = Valor T
+ 32.70
+ 37.00
+ 40.40
+ 48.80
+ 44.40
+ 32.40
+ 32.70
+D
+Ca++
+ 24.10
+ 28.80
+ 31.90
+ -
+ -
+ -
+ -
+C
+E
+a
+Mg++
+ 4.00
+ 3.90
+ 4.00
+ -
+ -
+ -
+ -
+t
+C
+i
+A
+K+
+ 1.70
+ 1.30
+ 1.00
+ 0.80
+ 0.60
+ 0.60
+ 0.60
+o
+M
+n
+B
+Na+
+ 0.00
+ 0.10
+ 0.10
+ 0.20
+ 0.90
+ 1.20
+ 1.30
+e
+I
+s
+O
+H+
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ -
+ -
+ -
+ -
+ 0.02
+ 0.04
+ 0.04
+Equivalente de humedad (%)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+P disponible (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+ -

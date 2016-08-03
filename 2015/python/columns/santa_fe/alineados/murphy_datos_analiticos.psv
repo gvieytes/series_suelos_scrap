@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ID..........................: 10
+CLASIFICACION...............: FALTA!
+SERIE.......................: FALTA!
+UBICACION...................: FALTA!
+PROVINCIA...................: CORDOBA
+LATITUD.....................: FALTA!
+LONGITUD....................: FALTA!
+ALTITUD.....................: FALTA!
+PENDIENTE...................: FALTA!
+DRENAJE.....................: FALTA!
+ESCURRIMIENTO...............: FALTA!
+PERMEABILIDAD...............: FALTA!
+TIPO DE SUELO...............: FALTA!
+COLOR ......................: FALTA!
+HORIZONTE->NOMBRE(S)........: ap    | bt   | bc    | c
+HORIZONTE->Profundidad: 0     | 23   | 57    | 100
+HORIZONTE->muestra: 23    | 57   | 100   | 125
+HORIZONTE->Mat. orgánica: 1.76  | 0.45 | 0.07  | ---
+HORIZONTE->C orgánico: 1.02  | 0.26 | 0.04  | ---
+HORIZONTE->N total: 0.197 | ---  | ---   | ---
+HORIZONTE->Relación C/N: 5     | ---  | ---   | ---
+HORIZONTE->Arcilla < 2µ: 24.2  | 39.4 | 31.5  | 15.9
+HORIZONTE->Limo 2-50µ: 48.9  | 39.9 | 43.2  | 38.0
+HORIZONTE->TOTAL: 98.1  | 99.2 | 102.2 | 102.2
+HORIZONTE->Limo 2-20µ: ---   | ---  | ---   | ---
+HORIZONTE->Muy fina 50-100µ: 24.6  | 19.7 | 26.9  | 47.2
+HORIZONTE->Fina 100-250µ: 0.4   | 0.2  | 0.6   | 1.1
+HORIZONTE->Media 250-500µ: 0.0   | 0.0  | 0.0   | 0.0
+HORIZONTE->Gruesa 500-1000µ: 0.0   | 0.0  | 0.0   | 0.0
+HORIZONTE->Muy gruesa 1-2mm: 0.0   | 0.0  | 0.0   | 0.0
+HORIZONTE->Calcáreo, CaCO3: 0.0   | 0.0  | 0.0   | 0.0
+HORIZONTE->Equiv.humedad: 25.0  | 37.9 | 24.4  | 15.1
+HORIZONTE->Resist.pasta: ---   | ---  | ---   | ---
+HORIZONTE->pH pasta (1:1): 6.4   | 6.3  | 6.5   | 8.2
+HORIZONTE->pH agua (1:2,5): 7.4   | 7.6  | 8.0   | 9.1
+HORIZONTE->pH 1N ClK (1:2,5): ---   | ---  | ---   | ---
+HORIZONTE->Ca++ intercambio: 12.1  | 14.2 | 12.8  | ---
+HORIZONTE->Mg++ intercambio: 2.6   | 5.8  | 4.1   | ---
+HORIZONTE->Na+ intercambio: 0.7   | 0.9  | 1.0   | 2.4
+HORIZONTE->K+ intercambio: 1.6   | 1.6  | 1.4   | 1.4
+HORIZONTE->H+ intercambio: 5.3   | 4.9  | 2.9   | .
+HORIZONTE->(Na+/T): 3.2   | 3.6  | 4.4   | 24.5
+HORIZONTE->C.I.C., (T): 21.7  | 24.7 | 22.6  | 9.8
+HORIZONTE->Suma bases (S): 17.0  | 22.5 | 19.3  | ---
+HORIZONTE->Sat.bases, (S/T): 78    | 91   | 85    | ---

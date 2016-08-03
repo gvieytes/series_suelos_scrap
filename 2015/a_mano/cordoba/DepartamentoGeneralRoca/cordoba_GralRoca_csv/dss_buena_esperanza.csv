@@ -1,0 +1,24 @@
+HORIZONTE,Ap,AC,C
+Profundidad de la muestra (cm),0-20,20-45,45 a +
+Materia Orgánica (%),"0,90","0,61","0,41"
+Carbono Orgánico (%),"0,50","0,34","0,23"
+Nitrógeno total (%),"0,07","0,06","0,07"
+Relación C/N,"6,0","5,0","3,0"
+"Arcilla, 2 u (%)","5,41","4,43","2,79"
+"Limo, 2-50 u (%)","11,21","9,12","9,45"
+"Arena muy fina, 50-100 u (%)","4,37","5,59","3,26"
+"Arena fina, 100-250 u (%)","63,87","65,37","68,01"
+"Arena media, 250-500 u (%)","7,91","8,72","9,26"
+"Arena gruesa, 500-1000 u (%)","1,52","1,48","1,76"
+"Arena muy gruesa, 1-2 mm (%)", , , 
+"Calcáreo, CaCO3 (%)","0,14","0,14","0,14"
+pH en pasta,"6,0","6,50","7,0"
+"pH en agua 1:2,5","6,50","7,0","7,50"
+Cationes de intercambio (me/100 gr): Ca ++,"3,79","4,09","4,40"
+Cationes de intercambio (me/100 gr): Mg ++,"1,44","1,57","1,44"
+Cationes de intercambio (me/100 gr): Na +,"0,30","0,40","0,48"
+Cationes de intercambio (me/100 gr): K +,"1,16","2,26","2,06"
+Cationes de intercambio (me/100 gr): H +,"1,0","0,6", 
+"Suma de bases, me/100 gr (S)","5,23","8,32","8,38"
+"Capacidad de intercambio catiónico, me/100 gr (T)","5,60","8,80","8,80"
+"Saturación con bases, % (S/T)",93,95,95

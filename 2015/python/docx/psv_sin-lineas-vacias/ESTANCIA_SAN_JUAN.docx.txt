@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+SERIE ESTANCIA SAN JUAN Símbolo: ESJ
+Pertenece a la familia "limosa fina, mixta, no calcárea, térmica" de los Haplacuoles hísticos.
+Suelo aluvial, no salino ni sódico, difundido en los bañados con vegetación de pajonal y sectores que, por su posición deprimida, están bajo agua durante largos periodos al año.
+Perfil tipo: 72C - CNIA INTA Castelar
+Fecha: 03-V-1976
+Ubicación: 8 km al NNE del Puerto San Juan (Hoja IGM: 3360-29-1) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+O1: 28-0 cm; horizonte orgánico; límite inferior claro y ondulado.
+A1: 0-27 cm; negro (10YR 1,7/1) en húmedo; arcillo limoso; plástico, adhesivo; raíces abundantes; límite claro ondulado.
+IIC1: 27-55 cm; gris (10YR 5/1) en húmedo; franco limoso a franco arcillo limoso; ligeramente plástico y adhesivo; moteados comunes, medios, sobresalientes; raíces comunes; límite claro ondulado.
+IIIC2: 55-90 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco limoso; ligeramente plástico, ligeramente adhesivo; moteados abundantes, medios a gruesos, sobresalientes.
+Variabilidad de rasgos
+Es un perfil con un pH que oscila entre medianamente ácido en superficie a muy débilmente ácido en profundidad.
+Sobrepuesto al perfil mineral se encuentra un horizonte orgánico (01) de 28 cm de espesor en el que predominan restos vegetales semi-descompuestos. Inmediatamente por debajo está el horizonte mineral A1 con un espesor de 27 cm, es de color negro con elevado porcentaje de materia orgánica (5%) de textura arcillo limosa. A continuación siguen capas de colores más claros, gris y amarillo grisáceo oscuro, con una textura arcillo limosa a franco limosa en profundidad. A partir de los 30 cm y hasta los 90 cm, se observan moteados sobresalientes.
+El sodio de intercambio no alcanza el 15 % oscilando entre el 6 y 7 % por lo tanto el grado por alcalinidad es A1 01.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+El perfil es de permeabilidad moderadamente lenta y mal drenado. Napa freática sobre o muy cerca de la superficie. Inundaciones excepcionales durante las crecidas más grandes del río Gualeguay, del Paraná y también por sudestada.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Estancia San Juan
+72C INTA Castelar
+N° de registro
+Horizonte
+ O1
+ A1
+ IIC1
+ IIIC2
+Profundidad (cm)
+ 23-3
+ 5-25
+ 30-50
+ 60-80
+Mat.organica (%)
+ -
+ 5.36
+ 0.55
+ -
+C (%)
+ -
+ 3.11
+ 0.32
+ -
+N (%)
+ -
+ 0.412
+ 0.041
+ -
+C/N
+ -
+ 8
+ 8
+ -
+T <2 u
+ -
+ 50.2
+ 26.5
+ 17.0
+E 2-20 u
+ -
+ 30.4
+ 49.4
+ 47.3
+X 2-50 u
+ -
+ 48.3
+ 70.9
+ 78.8
+T 50-74 u
+ -
+ 0.7
+ 1.3
+ 2.1
+U 74-100 u
+ -
+ 0.6
+ 1.1
+ 1.3
+R 100-250 u
+ -
+ 0.1
+ 0.1
+ 0.5
+A 250-500 u
+ -
+ 0.1
+ 0.1
+ 0.3
+ 500-1000 u
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 75.0
+ 49.7
+ 29.5
+ 31.1
+Resistencia de la pasta (Ohms/cm)
+ 1303
+ 2541
+ 2103
+ 2383
+pH en pasta
+ 5.5
+ 5.8
+ 6.9
+ 6.9
+PH H2O
+ 5.8
+ 6.3
+ 8.2
+ 8.0
+pH ClK
+ 4.8
+ 4.8
+ 5.9
+ 5.9
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+Cationes de cambio (m.e./100 g)
+Ca++
+ -
+ 22.0
+ 13.8
+ 14.0
+Mg++
+ -
+ 6.9
+ 7.9
+ 5.9
+Na+
+ -
+ 2.5
+ 1.8
+ 1.5
+K+
+ -
+ 0.6
+ 0.4
+ 0.2
+H+
+ -
+ 15.5
+ 4.0
+ 3.5
+% Na/T
+ -
+ 6
+ 7
+ 7
+Suma de bases, m.e./100 gr (S)
+ -
+ 32.0
+ 23.9
+ 21.6
+C.I.C., m.e./100 gr (T)
+ -
+ 42.2
+ 24.4
+ 22.1
+Saturación con bases, (%) (S/T)
+ -
+ 76
+ 98
+ 98

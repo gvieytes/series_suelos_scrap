@@ -1,0 +1,266 @@
+
+--------------------------------------------------------------------------------
+SERIE LA LATA Símbolo: Lt
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiacuoles vérticos (Molisol vertisólico hidromórfico).
+Suelos con concreciones de hierro-manganeso en todo el perfil; levemente gleizado en profundidad.
+
+Desarrollado en materiales franco-arcillo-limoso con concreciones calcáreas a partir de los 70 cm.
+
+
+Perfil tipo: ER6-5C
+Fecha: 28-VII-1972
+Ubicación: Área Piloto "Paso Gallo" (foto 177-35) - Dpto. Villaguay
+Reconocedores: H.A. Tasi; G.W. van Barneveld.
+
+
+A1: 00-12 cm; gris oscuro a gris muy oscuro (10YR 3.5/1) en húmedo; franco arcillo limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("humic skins") comunes y finos; concreciones de hierro-manganeso comunes; lixiviado por la cara de los agregados; límite claro, suave.
+
+B21t: 12-42 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en bloques angulares y cuneiformes medios, moderados y firme en húmedo; caras de fricción ("slickensides") abundantes e intersectados; concreciones de hierro-manganeso abundantes de hasta 4 mm; nidos de material iluviado; poros comunes, comunes; límite gradual, suave.
+
+B22t: 42-67 cm; gris muy oscuro a negro (10YR 2.5/1) en húmedo; arcillo limoso; estructura en bloques angulares irregulares y cuneiformes medios, moderados; firme en húmedo; caras de fricción ("slickensides") comunes, finas poco intersectadas; concreciones de hierro-manganeso de hasta 4 mm; moteados de hierro-manganeso, comunes y finos, precisos; nidos de material del B3 y material iluviado; poros comunes, escasos; límite claro, suave.
+
+B3ca: 67-97 cm; pardo muy oscuro (10YR 4/2) en húmedo; arcillo limoso; estructura en bloques angulares irregulares gruesos y débiles con tendencia a prismas compuestos irregulares; firme en húmedo; caras de fricción ("slickensides") comunes, finas; concreciones de hierro-manganeso abundantes de hasta 5 mm; moteados de hierro-manganeso comunes a escasos y finos; concreciones de carbonato de calcio abundantes entre 3-4 cm; límite difuso, suave.
+
+Cca(g): 97 cm+; pardo (10YR 5/3) en húmedo; arcillo limoso; estructura masiva; friable en húmedo; caras de fricción ("slickensides") escasas y finas; concreciones de hierro-manganeso abundantes de hasta 1 mm; moteados de hierro-manganeso, comunes y finos precisos; horizonte semigley.
+
+
+Variabilidad de rasgos
+
+Está determinada especialmente por pedones que presentan un incipiente gilgai irregular. No se ha podido determinar diferencias a nivel de serie por su intrincado patrón fisiográfico.
+
+Posee un epipedón eluviado y un horizonte B textural bien desarrollado con caras de fricción ("slickensides") y grietas cuando seco.
+Fases
+
+No tiene a escala de reconocimiento
+
+
+Series similares y sus diferencias.
+
+
+Se parece a la serie garatt ( pero ésta se encuentra en un paisaje de altillanuras y tiene un epipedón más desarrollado y profundo), con algo de arena en todo el perfil.
+
+
+Drenaje
+
+Imperfectamente drenado. Escurrimiento superficial muy lento a nulo. Permeabilidad muy lenta. Capa freática poco profunda. Grupo hidrológico D.
+
+
+Erosión
+
+No presenta. Tampoco existe peligro potencial.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Lata
+
+ER6-5C
+Nº de registro
+ 808
+ 809
+ 810
+ 811
+ 812
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca(g)
+Profundidad (cm)
+ 03-10
+ 26-39
+ 47-63
+ 71-84
+ 100-110
+Mat.organica (%)
+ 4.1
+ 1.5
+ 1.3
+ 0.5
+ 0.2
+C/N
+ 10
+ 12
+ 12
+ 7
+ N.D.
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 30.3
+ 43.9
+ 47.1
+ 48.7
+ 44.0
+E
+ 2-20 u
+ 34.4
+ 21.7
+ 24.0
+ 22.1
+ 29.3
+X
+ 2-50 u
+ 68.8
+ 55.1
+ 52.2
+ 50.8
+ 55.1
+T
+ 50-100 u
+ 0.3
+ 0.3
+ 0.2
+ 0.1
+ 0.5
+U
+ 100-250 u
+ 0.4
+ 0.4
+ 0.3
+ 0.2
+ 0.3
+R
+ 250-500 u
+ 0.2
+ 0.3
+ 0.2
+ 0.2
+ 0.1
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 1.8
+ 1.1
+pH H2O
+ 5.2
+ 6.0
+ 6.8
+ 7.5
+ 7.5
+pH ClK
+ 4.5
+ 4.9
+ 5.5
+ 6.5
+ 6.2
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 28.6
+ 31.8
+ 30.5
+ 33.7
+ 33.0
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 17.1
+ 22.9
+ 23.1
+ ND
+ ND
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 2.7
+ 4.1
+ 4.0
+ ND
+ ND
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 0.6
+ 0.6
+ 0.7
+ 1.1
+ 1.2
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 0.5
+ 0.9
+ 1.3
+ 1.7
+ 1.4
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ 8.1
+ 5.1
+ 3.1
+ ND
+ ND
+% Na/T
+
+
+ 1.7
+ 2.8
+ 4.3
+ 5.0
+ 4.2
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 49.0
+ 43.6
+ 46.8
+ 51.0
+ 45.7
+
+ND: No determinado
+

@@ -1,0 +1,33 @@
+HORIZONTE->NOMBRE(S)........ #:  e | 2bt1 | 2bt2
+HORIZONTE->Profundidad muestra #  cm:  0-22 | 22-45 | 45a+
+HORIZONTE->Mat. orgánica #  %:  2.6 | 1.13 | -
+HORIZONTE->C orgánico #  %:  1.51 | 0.66 | -
+HORIZONTE->N total #  %:  0.149 | 0.085 | -
+HORIZONTE->Relación C/N #  ---:  10 | 8 | -
+HORIZONTE->Arcilla < 2µ #  %:  9.5 | 28 | 32
+HORIZONTE->Limo 2-50µ #  %:  66.5 | 49 | 15.9
+HORIZONTE->Arena >50µ #  %:  23.44 | 16.68 | 51
+HORIZONTE->TOTAL #  %:  99.44 | 93.68 | 98.9
+HORIZONTE->Limo 2-20µ #  %:  ----- | ----- | -----
+HORIZONTE->Arena#:: - | - | -
+HORIZONTE->Muy fina 50-100µ #  %:  ----- | ----- | -----
+HORIZONTE->Fina 100-250µ #  %:  ----- | ----- | -----
+HORIZONTE->Media 250-500µ #  %:  ----- | ----- | -----
+HORIZONTE->Gruesa 500-1000µ #  %:  ----- | ----- | -----
+HORIZONTE->Muy gruesa 1-2mm #  %:  ----- | ----- | -----
+HORIZONTE->Calcáreo, CaCO3 #  %:  ----- | ----- | -----
+HORIZONTE->Equiv. humedad #  %:  ----- | ----- | -----
+HORIZONTE->Resist. pasta #  ohms:  298 | 315 | 372
+HORIZONTE->Conductividad #  mmhos/cm:  20.2 | 6.2 | 4.4
+HORIZONTE->pH pasta (1#1)#  ---: - | - | -
+HORIZONTE->pH agua (1#2,5)#  ---:  7.1 | 7.8 | 7.6
+HORIZONTE->pH 1N ClK (1#2,5)#  ---: - | - | -
+HORIZONTE->Ca++ intercambio #  me/100g:  10.6 | 10.8 | 15.4
+HORIZONTE->Mg++ intercambio #  me/100g:  2.2 | 3.0 | 2.0
+HORIZONTE->Na+ intercambio #  me/100g:  5.2 | 8.7 | 7.0
+HORIZONTE->K+ intercambio #  me/100g:  0.5 | 0.7 | 0.5
+HORIZONTE->H+ intercambio #  me/100g: - | - | -
+HORIZONTE->(Na+/T) #  %:  26.8 | 36.7 | 29.1
+HORIZONTE->C.I.C., (T) #  me/100g:  19.4 | 23.7 | 24
+HORIZONTE->Suma bases (S) #  me/100g:  18.5 | 23.2 | 24.9
+HORIZONTE->Sat.bases, (S/T) #  %:  95 | 98 | 100

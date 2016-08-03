@@ -1,0 +1,361 @@
+
+--------------------------------------------------------------------------------
+SERIE DON GUILLERMO Símbolo: DGui
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos (Vertisol con gilgai lineal y B2 textural).
+Muestra un microrrelieve gilgai poco desarrollado, poco visible en el campo, pero notable en la fotografía aérea .
+
+Son suelos profundos, con algunos granos de arena gruesa; franco limoso a franco arcillo limoso.
+
+
+Perfil tipo: ER7-131C
+Fecha: 02-VI-1999.
+Ubicación: Estancia "Don Guillermo" (foto IRH 152-30) - Dpto. San Salvador
+Reconocedores: H.A.Tasi; L.O. López.
+
+A1: 00-18 cm; negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, débiles; friable en húmedo; barnices "clay humic skins", escasos, finos y dédiles; límite claro, suave.
+
+B21t: 18-34 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins" abundantes; caras de fricción ("slickensides") escasos; moteados de hierro-manganeso escasos, finos y débiles; límite claro, ondulado.
+
+B22t: 34-65 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, y bloques cuneiformes medios, moderados; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, finas e intersectadas; límite claro, suave.
+
+B23t: 65-85 cm; negro (10YR 2/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, débiles; firme en húmedo; caras de fricción ("slickensides") escasas, gruesas no intersectadas y abundantes finas e intersectadas; concreciones de hierro-manganeso escasas y finas; límite abrupto, suave.
+
+B31ca: 85-99 cm; pardo oscuro a pardo muy oscuro (10YR 2.5/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados, que rompen en bloques angulares y bloques cuneiformes medios, moderados; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; concreciones calcáreas escasas; concreciones de hierro-manganeso escasas; límite abrupto, suave.
+
+B32ca: 99-118 cm; pardo oscuro (7.5YR 3/2) en húmedo 40% de la matriz, pardo (7.5YR 4/2) en el 60% de la matriz; arcillo-limoso; estructura en prismas compuestos medios, débiles, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; friable en húmedo; moteados de hierro-manganeso abundantes; concreciones de calcio abundantes; límite abrupto, suave.
+
+Cca: + 99 cm; pardo (7.5YR 5/4) en húmedo; arcillo-limoso; estructura masiva; friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes.
+Variabilidad de rasgos
+
+El sólum varía entre 110-120 cm de espesor. El epipedón está compuesto generalmente de A1 + B1 de 20-34 cm de espesor (esto es variable de acuerdo con el grado de erosión hídrica que presente).
+
+El horizonte argílico está desprovisto de calcáreo (puede haber tosquilla de calcio en superficie por decapitación de la cresta del gilgai por acción de la maquinaria agrícola) el espesor oscila entre 50-60 cm y está mejor expresado en el B22t donde las características vérticas se acentúan.
+
+
+Fases
+
+No se han descripto a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Yeruá, aunque ésta muestra mayor porcentaje de arena en todo el perfil, y a la Serie La Paulina que se encuentra en un paisaje con pendientes más suaves y largas.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio a rápido. Permeabilidad moderadamente lenta. Napa freática profunda..
+
+
+Erosión
+
+La Serie Don Guillermo muestra en las lomas erosión actual leve en forma laminar y en surcos y cárcavas activas más anchas que profundas cuando las pendientes se acentúan.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Don Guillermo
+
+ER7-131C
+
+
+
+
+
+
+
+N° de registro
+ 4142
+ 4143
+ 4144
+ 4145
+ 4146
+ 4147
+ 4148
+Horizonte
+ A1
+ B21t
+ B22t
+ B23t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 07-15
+ 20-30
+ 44-60
+ 70-80
+ 95-105
+ 105-115
+ +147
+Mat.organica (%)
+ 4.21
+ 2.81
+ 2.11
+ 1.61
+ 0.91
+ 0.49
+ 0.07
+N (%)
+ 0.203
+ 0.136
+ 0.096
+ 0.063
+ 0.034
+ 0.025
+ -
+C/N
+ 12
+ 12
+ 13
+ 15
+ 16
+ 11
+ -
+
+
+T <2
+
+ 38.74
+
+ 48.87
+
+ 48.67
+
+ 47.21
+
+ 45.71
+
+ 45.01
+
+ 46.00
+E 2-20
+ 28.94
+ 23.86
+ 22.43
+ 24.19
+ 29.98
+ 30.15
+ 28.81
+X 2-50
+ 53.10
+ 44.16
+ 43.20
+ 46.22
+ 48.76
+ 50.44
+ 51.65
+T 50-100
+ 0.76
+ 0.40
+ 0.60
+ 0.80
+ 0.67
+ 0.62
+ 0.61
+U 100-500
+ 7.24
+ 6.41
+ 7.33
+ 5.64
+ 4.63
+ 3.74
+ 1.67
+R 500-1000
+ 0.16
+ 0.16
+ 0.20
+ 0.13
+ 0.21
+ 0.16
+ 0.07
+A 1000-2000
+ -
+ -
+ -
+ -
+ 0.02
+ 0.03
+ -
+
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 10.30
+ 10.17
+ 3.54
+pH H2O
+ 6.0
+ 6.4
+ 7.0
+ 7.8
+ 8.5
+ 8.6
+ 8.3
+pH ClK
+ 4.92
+ 5.10
+ 5.6
+ 6.3
+ 7.1
+ 7.2
+ 6.9
+
+Conducvtividad electrica mmhos/cm
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+ 0.212
+
+
+ 35.28
+
+
+ 0.139
+
+
+ 41.43
+
+ 0.154
+
+
+ 44.32
+
+ 0.189
+
+
+ 43.00
+
+ 0.485
+
+
+ 41.17
+
+ 0.493
+
+
+ 41.80
+
+ 0.485
+
+
+ 39.77
+
+D
+Ca++
+ 29.53
+ 35.69
+ 39.04
+ 35.62
+ -
+ -
+ -
+C
+E
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 2.34
+ 2.68
+ 2.80
+ 3.22
+ -
+ -
+ -
+t
+C
+
+
+
+
+
+
+
+
+i
+A
+K+
+ 0.60
+ 0.62
+ 0.60
+ 0.56
+ 0.69
+ 0.69
+ 0.85
+o
+M
+
+
+
+
+
+
+
+
+n
+B
+Na+
+ 0.35
+ 0.50
+ 1.07
+ 2.80
+ 2.55
+ 2.55
+ 2.30
+e
+I
+
+
+
+
+
+
+
+
+s
+O
+H+
+
+
+
+
+
+
+
+
+% Na/T
+ 0.99
+ 1.21
+ 2.41
+ 6.51
+ 6.19
+ 6.10
+ 5.78
+Equivalente de humedad (%)
+ 35.75
+ 48.88
+ 50.69
+ 49.44
+ 46.99
+ 46.16
+ 48.21
+Fósforo asimilable ppm
+ 9.41
+ 6.94
+ 4.0
+ 3.71
+ 3.52
+ 3.30
+ 3.10
+

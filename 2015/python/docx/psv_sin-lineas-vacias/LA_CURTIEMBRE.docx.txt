@@ -1,0 +1,174 @@
+--------------------------------------------------------------------------------
+SERIE LA CURTIEMBRE						 Símbolo: LCu
+Pertenece a la familia "limosa fina, mixta, térmica" de los Argiudoles ácuicos (Brunizems con B2t moderadamente desarrollado).
+Son suelos profundos, moderadamente bien drenados, con un epiepdón algo somero, franco-limoso, y un horizonte argílico franco-arcillo-limoso, con moteados de hierro a partir de los 20-25 cm.
+Suelos desarrollados sobre loess calcáreo de textura franco-limosa, con carbonatos y concreciones de calcáreo a partir de 90 cm.
+Perfil tipo: ER7-78C
+Fecha: 26-VI-1989.
+Ubicación: Ea. "Las Liebres" (foto 438-64) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+Ap: 00-20 cm; gris muy oscuro (10YR 3/1) en húmedo; pardo grisáceo (10YR 5/2) en seco; franco-limoso; estructura granular y en bloques subangulares y angulares irregulares, medios, moderados; duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins", escasos, medios; moteados de hierro comunes, finos, precisos; límite abrupto, suave.
+B21t: 20-33 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes, medios, moderados; duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins", abundantes, medios; caras de fricción ("slickensides") escasos, gruesos, no intersectadas; moteados de hierro comunes, medios y precisos; límite gradual, suave.
+B22t: 33-65 cm; pardo oscuro (7.5YR 3.5/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques cuneiformes medios, moderados_; duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins", abundantes, medios; caras de fricción ("slickensides") muy escasas, medias, no intersectados; moteados de hierro comunes, medios y precisos; límite claro, suave.
+B3: 65-93 cm; pardo (7.5YR 4.5/4) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares, gruesos, moderados; friable en húmedo; barnices "clay skins", escasos, finos; moteados de hierro comunes, finos y precisos; límite claro, suave.
+Cca:	+ 93 cm; pardo claro (7.5YR 6/4) en húmedo; franco-limoso; estructura masiva; suelto en seco; chorreaduras de materia orgánica; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; pedotúbulos comunes.
+Variabilidad de rasgos
+El espesor del solum varía de 65 a 95 cm de profundidad, con un epipedón mólico que no supera los 23 cm. Normalmente posee entre 18-20 cm para el normal de la serie, aunque es posible encontrar perfiles con tan solo 15 cm de epipedón.	
+El epipedón se compone de los horizontes A1 o A1+A3, no es común la presencia de un B1 transicional, pasándose abruptamente a un horizonte B2t. El epipedón contiene 25 % de arcilla, con un 10-12 % de arena muy fina y fina y alrededor de 60-65 % de limo. Es muy frecuente, además, la formación de un "piso de arado" en los primeros 18-20 cm.
+El porcentaje de arcilla en el B2t se incrementa a valores de 30-35 %, con un espesor promedio del horizonte de 40-45 cm en el cual es característica la presencia de caras de fricción ("slickensides") escasas, finas y no intersectadas, asi como chorreaduras de material de horizontes superiores a través de las grietas.
+El calcáreo se encuentra profundo (más de 90 cm) en forma libre y en concreciones escasas.
+Fases
+No tiene fases a la escala de reconocimiento.
+Series similares y sus diferencias
+Serie La Curtiembre se parece a la Serie Tezanos Pinto, de la cual difiere en el espesor del B2t (más profundo) y en el paisaje distinto (menos ondulado). También se asemeja a las series El Retiro y Alvear, aunque éstas presentan mayor desarrollo genético, con perfiles más profundos y menor grado de erosión actual.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial rápido. Permeabilidad moderadamente lenta. Napa freática a 50-60 m aproximadamente. Grupo hidrológico C.
+Erosión
+La Serie La Curtiembre tiene una erosión actual moderada, siendo severa su susceptibilidad a la erosión, principalmente laminar y en surcos. En algunos sectores, el truncamiento del perfil ha sido severo, aflorando en superficie rodados de tosca del material calizo subyacente al loess.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie La Curtiembre
+ER7-78C
+Nº de registro
+ 5267
+ 5268
+ 5269
+ 5270
+ 5271
+Horizonte
+ Ap
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 05-15
+ 20-30
+ 45-60
+ 70-90
+ 110-130
+Mat.organica (%)
+ 3.62
+ 2.12
+ 1.26
+ 0.59
+ 0.30
+N (%)
+ 0.15
+ 0.10
+ 0.06
+ 0.04
+ -
+C/N
+ 14
+ 12
+ 11
+ 8
+ -
+T < 2 μ
+ 24.68
+ 34.41
+ 29.43
+ 25.27
+ 36.64
+E 2-20 μ
+ 25.02
+ 21.14
+ 24.96
+ 26.33
+ 29.35
+X 2-50 μ
+ 64.36
+ 58.73
+ 62.47
+ 65.54
+ 54.16
+T 50-100 μ
+ 8.40
+ 6.45
+ 7.64
+ 8.68
+ 11.05
+U 100-250 μ
+ 2.54
+ 0.39
+ 0.45
+ 0.50
+ 1.13
+R 250-500 μ
+ -
+ -
+ -
+ -
+ -
+A 500-1000 μ
+ 0.02
+ 0.02
+ 0.02
+ 0.01
+ 0.02
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 10.2
+pH H2O
+ 6.6
+ 6.9
+ 7.0
+ 7.2
+ 8.4
+pH ClK
+ 5.4
+ 5.5
+ 5.4
+ 5.7
+ 7.3
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 23.8
+ 30.5
+ 31.3
+ 27.2
+ 26.5
+ d Ca++
+ 16.0
+ 22.0
+ 23.4
+ 20.8
+ 20.2
+C e
+Mg++
+ 2.8
+ 3.2
+ 3.7
+ 3.1
+ 3.4
+t c
+i a K+
+ 2.63
+ 2.22
+ 1.95
+ 1.80
+ 1.50
+o m
+n b Na+
+ 0.43
+ 1.0
+ 1.1
+ 0.7
+ 0.86
+e i
+s o H+
+ 1.3
+ 0.9
+ 0.8
+ 0.8
+ ND
+Equivalente de humedad (%)
+ 24.61
+ 31.33
+ 29.19
+ 26.40
+ 24.64

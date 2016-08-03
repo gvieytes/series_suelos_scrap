@@ -1,0 +1,212 @@
+--------------------------------------------------------------------------------
+SERIE ARROYO GRANDE Símbolo: AGr
+Pertenece a la familia "limosa gruesa, silícea, térmica" de los Hapludoles ácuicos.
+Suelo aluvial, salino-sódico, que se ha originado a partir de sedimentos fluviales.
+Los albardones más elevados y mejor drenados tienen una cubierta arbustiva de espinillos y sarandí (Monte blanco).
+Perfil tipo: 116C INTA Castelar
+Fecha: 04-XII-1976
+Ubicación: 12 km al SO de Ceibas (Hoja IGM 3360-30-3) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+A1: 0-20 cm; negro pardusco (7,5YR 3/2) en húmedo; franco limoso; estructura en bloques angulares y subangulares medios moderados; ligeramente duro; moteados finos, comunes, débiles; raíces abundantes; límite inferior claro ondulado.
+IIC1: 20-48 cm; pardo opaco (7,5YR 5/3) en húmedo; franco limoso; estructura prismática; friable; concreciones y microconcreciones calcáreas abundantes; concreciones ferromanganésicas abundantes; moteados finos, escasos, precisos; raíces comunes; límite inferior gradual.
+IIIC2: 48-83 cm; pardo opaco (7,5YR 6/3) en húmedo; franco limoso; friable; concreciones ferromanganésicas escasas; moteados medianos a gruesos, abundantes, sobresalientes; raíces escasas; límite inferior claro ondulado.
+IVC3: 83-130 cm; amarillo grisáceo oscuro (7,5Y 5/2) en húmedo; franco limoso; friable; microconcreciones calcáreas escasas; concrecio - nes ferromanganésicas escasas; moteados medios, comunes, sobresalientes; límite inferior claro ondulado.
+VC4: 130-170 cm; pardo (7,5YR 4/4) en húmedo; franco limoso; no plástico; ligeramente adhesivo; moteados medios a gruesos, abundantes, precisos.
+Variabilidad de rasgos
+El perfil tiene un horizonte superficial A1 de 20 cm de espesor color negro pardusco bien provisto de materia orgánica, franco limoso, estructura en bloques angulares y subangulares. A continuación sigue una serie de capas que se hacen más arenosas en profundidad con micro-concreciones de calcáreo, concreciones de hierro manganeso y moteados a lo largo de todo el perfil y que son sobresalientes en la zona de fluctuación de la napa freática entre 40 y 130 cm.
+El perfil es moderadamente salino con predominio de cloruros de sodio en el extracto de saturación. El horizonte A1 tiene 10 % de sodio de intercambio y no es salino, las capas que le siguen son salinas con una conductividad que aumenta en profundidad de 5 a 15 mmhos/cm. En estas capas se ha calculado el PSI que oscila entre 20 y 30 %. Por alcalinidad sódica este suelo se ha clasificado en la clase A1 22.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Este suelo es de permeabilidad moderadamente rápida e imperfectamente drenado. Se encuentra libre de aguas superficiales, salvo en épocas de inundaciones extraordinarias.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Arroyo Grande
+116C INTA Castelar
+N° de registro
+Horizonte
+ A1
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+Profundidad (cm)
+ 5-15
+ 30-42
+ 58-78
+ 100-120
+ 138-150
+Mat. orgánica (%)
+ 4.34
+ 0.45
+ 0.03
+ -
+ -
+C (%)
+ 2.52
+ 0.26
+ 0.02
+ -
+ -
+N (%)
+ 0.140
+ -
+ -
+ -
+ -
+C/N
+ 18
+ -
+ -
+ -
+ -
+T <2 u
+ 25.2
+ 17.1
+ 18.6
+ 16.5
+ 12.6
+E 2-20 u
+ 23.2
+ 25.0
+ 13.0
+ 11.7
+ 13.3
+X 2-50 u
+ 66.3
+ 71.9
+ 69.6
+ 70.8
+ 55.2
+T 50-74 u
+ 5.9
+ 6.5
+ 7.8
+ 9.2
+ 20.5
+U 74-100 u
+ 2.3
+ 2.8
+ 2.8
+ 3.1
+ 11.2
+R 100-250 u
+ 0.2
+ 0.3
+ 0.5
+ 0.3
+ 0.4
+A 250-500 u
+ 0.1
+ 0.2
+ 0.7
+ 0.1
+ 0.1
+ 500-1000 u
+ -
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 1.2
+ vest. (n)
+ vest. (n)
+ vest. (n)
+Equivalente de humedad (%)
+ 25.6
+ 22.7
+ 19.6
+ 15.3
+ 7.6
+Resistencia de la pasta (Ohms/cm)
+ 1398
+ 699
+ 373
+ 342
+ 466
+pH en pasta
+ 7.0
+ 8.0
+ 7.4
+ 7.2
+ 7.4
+pH en agua (1:2,5)
+ 7.6
+ 9.0
+ 8.2
+ 7.8
+ 7.9
+pH en KCl (1:2,5)
+ 6.1
+ 7.5
+ 7.1
+ 6.9
+ 6.7
+Conductividad (mmhos/cm)
+ -
+ 5.67
+ 13.18
+ 15.06
+ 10.85
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ 8.0
+ -
+ -
+ -
+ -
+Mg++
+ 8.3
+ -
+ -
+ -
+ -
+Na[+]
+ 2.4
+ 6.2
+ -
+ -
+ -
+K[+]
+ 0.5
+ 0.2
+ -
+ -
+ -
+H[+]
+ 4.1
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ 12
+ 32
+ -
+ -
+ -
+Suma de bases, m.e./100 gr (S)
+ 19.2
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr. (T)
+ 19.4
+ 19.6
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ 99
+ -
+ -
+ -
+ -

@@ -1,0 +1,290 @@
+
+--------------------------------------------------------------------------------
+SERIE LA CHUNGA Símbolo: LChu
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiudólicos.
+Suelos moderadamente bien drenados, profundos, de colores oscuros y un horizonte argílico denso, desarrollados sobre limos calcáreos arcillo-limosos con moderada cantidad de carbonatos.
+
+Presentan un microrelieve gilgai lineal, poco visible en el terreno. El calcáreo aparece a partir de los 85 cm de profundidad, incrementándose en profundidad.
+
+
+Perfil tipo: ER7-141C
+Fecha: 18-VIII-00
+Ubicación: 25 Km NE de ciudad de Villaguay (foto IR 153-54). Dpto Villaguay.
+Reconocedores: L.O. Lopez; O.A. Foti
+
+
+A1: 00-24 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, débiles; friable en húmedo; barnices ("clay-humic skins") comunes ("clay skins") escasos; moteados de hierro-manganeso, escasos, finos y precisos; presencia de arena fina; límite gradual, suave.
+
+B21t: 24-57 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios débiles que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, finas e intersectadas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, ondulado.
+
+B22t: 57-85 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en prismas compuestos regulares finos, moderados; friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro-manganeso comunes, medios, precisos; presencia de arena fina; límite gradual, suave
+
+B3ca: 85-120cm; pardo oscuro (7,5YR 4.5/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas; concreciones ferromanganesíferas escasas, finas; abundantes carbonatos libres en la masa; concreciones calcáreas, escasas, finas, blandas; moteados de hierro-manganeso abundantes, medios y precisos; materiales de horizontes superiores en las grietas; límite gradual,suave.
+
+Cca: 120 cm +; pardo (7,5YR 5/3) en húmedo; arcillo-limoso; masivo; friable en húmedo; caras de fricción ("slickensides") comunes, gruesas; concreciones ferromanganesíferas escasas, finas; abundantes carbonatos libres en la masa; concreciones calcáreas comunes; moteados de hierro-manganeso abundantes, medios y sobresalientes. Presencia de pseudogley
+
+
+
+
+Variabilidad de rasgos
+
+El solum varía entre 110-120 cm de profundidad. El epipedón mólico está formado por un horizonte A1 y ocasionalmente puede aparecer un B1, con espesores que varían entre 20-25 cm, de textura franco-arcillo-limosa y colores oscuros.
+
+El argílico, de aproximadamente 60 cm de espesor, presenta abundantes caras de fricción ("slickensides") y algo de arena fina.
+
+El calcáreo aparece a los 85 cm de profundidad, aumentando considerablemente en profundidad.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Variante de serie
+
+Se describió una variante arenosa de la serie La Chunga en el sector S del departamento.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento medio a rápido. Permeabilidad moderada. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Serie La Chunga es muy susceptible a la erosión hídrica, principalmente en surcos y cárcavas y tiene un moderado a severo peligro.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie La Chunga
+
+ER7-141C
+Nº de registro
+ 5.696
+ 5.697
+ 5.698
+ 5.699
+ 5.700
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-20
+ 30-50
+ 60-80
+ 90-110
+ 130-140
+Mat.organica (%)
+ 3.6
+ 4.2
+ 2.7
+ 0.6
+ 0.3
+N (%)
+ 0.15
+ 0.18
+ 0.11
+ 0.03
+ 0.02
+C/N
+ 13
+ 14
+ 13
+ 12
+ 10
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 33.96
+ 37.16
+ 38.09
+ 44.57
+ 44.25
+E
+ 2-20 u
+ 36.36
+ 36.13
+ 34.02
+ 28.11
+ 27.38
+X
+ 2-50 u
+ 61.06
+ 58.37
+ 56.70
+ 51.59
+ 52.75
+T
+ 50-100 u
+ 0.39
+ 0.17
+ 0.33
+ 0.18
+ 0.21
+U
+ 100-500 u
+ 4.54
+ 4.26
+ 4.80
+ 3.64
+ 2.77
+R
+ 500-1000 u
+ 0.05
+ 0.04
+ 0.08
+ 0.02
+ 0.02
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 7.04
+ 7.87
+PH H2O
+ 6.5
+ 6.4
+ 6.3
+ 8.3
+ 8.4
+PH ClK
+ 5.4
+ 5.1
+ 5.2
+ 6.9
+ 7.0
+C.E.(mmhos/cm)
+ 0.385
+ 0.354
+ 0.539
+ 0.677
+ 0.262
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+
+
+ 32.09
+ 34.50
+ 37.85
+ 42.25
+ 42.20
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 25.00
+ 26.00
+ 26.04
+ ND
+ ND
+C
+e
+
+
+
+
+
+
+A
+
+Mg++
+ 1.23
+ 1.40
+ 1.46
+ ND
+ ND
+T
+c
+
+
+
+
+
+
+I
+a
+K+
+ 0.69
+ 0.79
+ 0.80
+ 0.86
+ 0.87
+O
+m
+
+
+
+
+
+
+N
+b
+Na+
+ 0.57
+ 0.52
+ 0.50
+ 2.16
+ 2.50
+E
+i
+
+
+
+
+
+
+S
+o
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 1.78
+ 1.51
+ 1.32
+ 5.11
+ 5.92
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 31.74
+ 34.87
+ 35.69
+ 42.15
+ 42.09
+
+Fósforo asimilable (ppm)
+ 8.1
+ 7.2
+ 6.8
+ 3.7
+ 3.2
+
+ND: No determinado
+

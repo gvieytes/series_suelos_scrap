@@ -1,0 +1,318 @@
+
+--------------------------------------------------------------------------------
+SERIE ARROYO CARRASCO Símbolo: Aº Ca
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Suelo profundo, imperfecta a moderadamente bien drenado, con un epipedón muy oscuro, franco-arcillo-limoso y un horizonte argílico, oscuro, arcillo-limoso, con caras de fricción ("slickensides").
+Tiene concreciones calcáreas a partir de los 60-80 cm.
+Suelos desarrollados en materiales "limo-loessoides" retransportados, franco-arcillo-limoso a arcillo-limoso.
+
+
+Perfil tipo: ER1-29C
+Fecha: 30-VI-1971
+Ubicación: Area Muestra San Carlos (foto IR 469-40) - Dpto La Paz.
+Reconocedores: O.A.Foti; G.W. van Barneveld.
+
+
+A1: 00-24 cm; negro (10YR 2,5/1) en húmedo y gris (10YR 5/1) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic skins") escasos, finos; horizonte muy eluviado; limite claro, ondulado.
+
+B21t: 24-35 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados, que rompen en bloques angulares irregulares con tendencia a cuneiformes medios, fuertes; firme en húmedo; barnices ("Clay-humic skins") comunes, finos; caras de fricción ("slickensides") escasas, finas; límite claro, suave.
+
+B22t: 35-66 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en prismas compuestos irregulares finos, moderados, bloques cuneiformes medios, moderados; firme en húmedo; barnices ("Clay-humic skins") escasos a comunes, finos; caras de fricción ("slickensides") comunes, finas; moteados de hierro-manganeso comunes, finos y débiles; límite claro, suave.
+
+B31ca: 66-94 cm; pardo oscuro (7,5YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares con tendencia a cuneiformes medios, moderados; firme en húmedo; barnices ("Clay-humic skins") escasos y finos; caras de fricción ("slickensides") comunes, finas; moderados carbonatos libres en la masa; concreciones calcáreas escasas; límite gradual, suave.
+
+B32ca: 94-135 cm; pardo oscuro a pardo (7,5 4/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares con tendencia a cuneiforme gruesos, débiles; friable en húmedo; caras de fricción ("slickensides") comunes, medios; moderados carbonatos libres en la masa; concreciones calcáreas comunes; límite difuso, suave.
+
+Cca: 135 cm +; pardo (7,5YR 5/4) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; moderados carbonatos libres en la masa; concreciones calcáreas escasas, hasta un centímetro; presencia de durinódulos.
+
+
+
+
+Variabilidad de rasgos
+
+El solum varía de 100-135 cm. El epipedón mólico, que en general está formado por un A1, oscila entre 20-30 cm de espesor y normalmente está leve a moderadamente eluviado; tiene estructura granular y en bloques, con 23-27 % de arcilla y 2-5 % de materia orgánica.
+
+El horizonte argílico tiene un espesor de 40-55 cm con colores que varían de 10YR 3/2 a 4/2, con 40-50 % de arcilla y estructura prismática; tiene barnices escasos a comunes y finos, caras de fricción ("slickensides") finas y medias, que están mejor expresadas en el B22 y B3.
+
+En seco el horizonte argílico presenta grietas de hasta 2,2 cm de ancho que se extienden hasta la base del epipedón.
+
+El calcáreo aparece a los 60-80 cm de profundidad en forma de concreciones duras de hasta 1 cm de diámetro o en forma de miscelios; el calcáreo libre (con moderada a fuerte reacción) aparece más abajo (70 cm) variando su cantidad entre un 5-7 %.
+
+El material originario tiene 40-45 % de arcilla y 6-8 % de arena y es levemente alcalino con un 2-3 % de sodio intercambiable.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado. Escurrimiento superficial lento. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Arroyo Carrasco no tiene erosión actual ni peligro de erosión.
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Arroyo Carrasco
+
+ER1-29C
+Nº de registro
+ 449
+ 450
+ 451
+ 452
+ 453
+ 454
+Horizonte
+ A1
+ B21t
+ B22t
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 00-24
+ 24-35
+ 46-62
+ 70-84
+ 99-113
+ 130-150
+Mat.organica (%)
+ 5.4
+ 2.9
+ 1.8
+ 1.0
+ 0.5
+ 0.2
+N (%)
+ 0.28
+ 0.16
+ 0.10
+ 0.06
+ 0.05
+ N/D
+C/N
+ 11
+ 11
+ 11
+ 10
+ 6
+ N/D
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 23.6
+ 41.0
+ 49.2
+ 46.0
+ 42.3
+ 42.6
+E
+ 2-20 u
+ 31.6
+ 25.0
+ 21.1
+ 19.7
+ 24.6
+ 25.9
+X
+ 2-50 u
+ 73.7
+ 56.9
+ 48.6
+ 52.0
+ 56.3
+ 55.8
+T
+ 50-100 u
+ 1.1
+ 1.0
+ 1.0
+ 0.9
+ 0.7
+ 0.7
+U
+ 100-250 u
+ 0.9
+ 0.6
+ 0.6
+ 0.6
+ 0.4
+ 0.3
+R
+ 250-500 u
+ 0.7
+ 0.5
+ 0.6
+ 0.5
+ 0.3
+ 0.6
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 4.2
+ 6.7
+ 6.1
+pH H2O
+ 5.2
+ 5.5
+ 6.3
+ 7.5
+ 7.7
+ 7.7
+pH ClK
+ 5.0
+ 5.2
+ 5.6
+ 6.8
+ 6.9
+ 7.0
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 33.9
+ 43.4
+ 46.4
+ 40.4
+ 39.2
+ 41.0
+
+
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 20.7
+ 28.3
+ 34.0
+ -
+ -
+ -
+
+C
+e
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 4.3
+ 6.9
+ 7.0
+ -
+ -
+ -
+
+t
+c
+
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.4
+ 1.7
+ 1.8
+ 1.5
+ 1.4
+ 1.5
+
+o
+m
+
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.1
+ 0.2
+ 0.5
+ 0.6
+ 0.5
+ 0.6
+
+e
+i
+
+
+
+
+
+
+
+
+s
+o
+H+
+ 8.3
+ 7.6
+ 4.3
+ -
+ -
+ -
+
+% Na/T
+
+
+ 0.3
+ 0.5
+ 1.1
+ 1.5
+ 1.3
+ 1.5
+
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 38.4
+ 47.6
+ 53.7
+ 47.7
+ 42.7
+ 38.1
+
+
+

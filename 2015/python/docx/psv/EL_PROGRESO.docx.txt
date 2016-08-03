@@ -1,0 +1,309 @@
+
+--------------------------------------------------------------------------------
+SERIE EL PROGRESO Símbolo: EPr
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón mólico oscuro, franco-limoso a franco-arcillo-limoso, y un horizonte argílico pardo oscuro, arcillo-limoso a franco-arcillo-limoso, con moteados de hierro-manganeso.
+
+Suelos desarrollados sobre loess calcáreo, franco-arcillo-limoso, con concreciones de calcáreo ("loessskindeln") y calcáreo libre a partir de los 90-100 cm de profundidad.
+
+
+Perfil tipo: ER7-106C
+Fecha: 19-VII-1995
+Ubicación: Establecimiento "El Cuadro" (foto 419-38) - dto Montoya - Dpto. Victoria.
+Reconocedores: L.O.López; O.A.Foti.
+
+
+A1: 00-28 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares medios, débiles; friable en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y precisos; presencia de lombrices; límite claro, suave.
+
+B21t: 28-58 cm; pardo oscuro (7.5YR 3/2) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares medios, moderados; friable en húmedo; barnices ("clay humic skins"), comunes y finos, y ("clay skins"), abundantes y medios; caras de fricción ("slickensides") escasas, gruesas; moteados de hierro-manganeso comunes, medios y precisos; presencia de lombrices; límite gradual, suave.
+
+B22t: 58-86 cm; pardo oscuro (7.5YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles, que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices ("clay humic skins") abundantes y medios, y ("clay skins") comunes y medios; caras de fricción ("slickensides") escasas, gruesas no intersectadas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, ondulado.
+
+B3: 86-110 cm; pardo oscuro (7.5YR 4.5/4) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes finos y débiles; friable en húmedo; barnices ("clay humic skins") y ("clay skins") escasos y finos; caras de fricción ("slickensides") escasas y gruesas no intersectadas; moteados de hierro-manganesos comunes, finos y precisos; carbonatos libres en la masa; concreciones calcáreas finas, escasas; glébulas de carbonato de cálcio; límite gradual, ondulado.
+
+Cca: 110 cm+; pardo (7.5YR 5/3) en húmedo; franco-arcillo-limoso; estructura masiva; muy friable en húmedo; barnices ("clay skins") muy escasos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas, finas, blandas y en miscelio.
+
+
+
+
+Variabilidad de rasgos
+
+La variabilidad de rasgos no se conoce.
+
+
+Fases
+
+No presenta a nivel de reconocimiento (1:100.000).
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Antelo, pero ésta tiene más arcilla en el B2t.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad moderada. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La serie El Progreso tiene erosión actual leve (principalmente laminar y en algunos surcos) y su susceptibilidad a la misma es moderada.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Progreso
+
+ER7-106C
+
+
+
+
+
+N° de registro
+ 10.480
+ 10.481
+ 10.482
+ 10.483
+ 10.484
+Horizonte
+ A1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 03-25
+ 35-55
+ 60-80
+ 90-100
+ 115-120
+Mat.organica (%)
+ 3.48
+ 2.49
+ 1.06
+ 0.35
+ 0.07
+N (%)
+ 0.22
+ 0.15
+ 0.09
+ 0.06
+ 0.04
+C/N
+ 4
+ 9
+ 6
+ 3
+ 1
+
+T < 2 u
+
+ 27.62
+
+ 37.58
+
+ 45.04
+
+ 40.88
+
+ 33.91
+E 2-20 u
+ 30.37
+ 23.02
+ 20.21
+ 26.13
+ 28.09
+X 2-50 u
+ 63.40
+ 56.44
+ 49.74
+ 53.50
+ 53.22
+T 50-100 u
+ 1.04
+ 0.73
+ 1.73
+ 1.29
+ 1.49
+U 100-500 u
+ 7.72
+ 5.20
+ 3.46
+ 4.28
+ 11.19
+R 500-1000 u
+ 0.22
+ 0.05
+ 0.03
+ 0.05
+ 0.19
+A
+
+
+
+
+
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 1.6
+
+ 2.6
+pH H2O
+ 6.0
+ 6.7
+ 7.7
+ 8.0
+ 8.5
+pH ClK
+ 5.2
+ 5.4
+ 6.2
+ 6.8
+ 7.0
+Conductividad eléctrica mmhos/cm
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de
+interc. catiónico
+(m.e./100 g) = valor T
+
+
+
+ N.D.
+
+
+
+ 26.84
+
+
+
+ 30.40
+
+
+
+ 35.40
+
+
+
+ 30.10
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ N.D.
+ 18.82
+ 20.00
+ 22.41
+ 16.00
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ N.D.
+ 1.33
+ 3.20
+ 3.10
+ 6.63
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ N.D.
+ 2.21
+ 2.20
+ 2.10
+ 1.98
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ N.D.
+ 2.50
+ 4.22
+ 5.22
+ 5.70
+e
+i
+
+
+
+
+
+
+S
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+
+% Na/T
+ N.D.
+ 9.31
+ 13.88
+ 14.75
+ 18.94
+
+Equivalente de humedad (%)
+
+ 26.12
+
+ 35.03
+
+ 43.21
+
+ 38.67
+
+ 30.56
+Fósforo asimilable (ppm)
+ 1.89
+ 1.55
+ 0.56
+ -
+ -
+
+

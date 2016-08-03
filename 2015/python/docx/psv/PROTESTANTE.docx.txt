@@ -1,0 +1,250 @@
+
+--------------------------------------------------------------------------------
+SERIE PROTESTANTE					 Símbolo: Pro
+
+
+Pertenece a la familia "fina, mixta, térmica" de los Argiudoles ácuicos vérticos (Brunizems con B2t fuertemente desarrollado, con características vérticas).
+Son suelos profundos, moderadamente bien drenados, con un epipedón franco-limoso a franco-arcillo-limoso y un horizonte argílico franco-arcillo-limoso a arcillo-limoso.
+
+Suelos desarrollados en materiales de loess (y loesssoides), franco-limosos.
+
+
+Perfil tipo: ER7-79C
+Fecha: 27-VI-1989
+Ubicación: Aldea Protestante (foto 441-110) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+
+
+A1: 00-19 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares, medios, débiles; friable en húmedo; barnices "humic skins", abundantes, medios; moteados de hierro comunes, finos y débiles; límite abrupto, suave.
+
+B21t: 19-40 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices "clay humic skins" escasos, finos, y "clay skins", abundantes, finos; caras de fricción ("slickensides") escasas, finas, no intersectadas; moteados de hierro comunes, finos y precisos; límite claro, suave.
+
+B22t: 40-76 cm; pardo muy oscuro (10YR 3.5/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, moderados que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; barnices "clay humic skins" escasos, finos, y "clay skins", abundantes, medios; caras de fricción ("slickensides")	abundantes, gruesas, no intersectadas; moteados de hierro y manganeso comunes, precisos y finos; límite gradual, suave.
+
+B3: 76-100 cm; pardo amarillento oscuro (10YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, moderados; muy friable en húmedo; barnices "clay humic skins" y "clay skins", escasos, finos; caras de fricción ("slickensides")	 abundantes, gruesas, no intersectadas; concreciones de hierro-manganeso escasas, finas; moteados de hierro comunes, medios y precisos; l(mite claro, suave.
+
+Cca: 100 cm+; pardo amarillento (10YR 5/4) en húmedo; franco-limoso; masivo; muy friable en húmedo; abundante cantidad de carbonatos libres en la masa; escasas concreciones calcáreas de hasta 1 cm.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 87-110 cm, con un epipedón mólico cuyo espesor no supera los 20 cm. Posee 25-35 % de arcilla, y estructura granular y en bloques subangulares; en muchos casos, el epipedón está mezclado con el B subyacente debido a la labranza, y puede presentar un "piso de arado" a partir de los 12 cm.
+
+El horizonte B2t, argílico, de estructura prismática compuesta, que rompe a bloques angulares, varía de 55 a 70 cm de espesor. Posee entre 39 y 45 % de arcilla, y presenta caras de fricción ("slickensides") gruesas, no intersectadas, así como grietas que, a partir de los 65 cm de profundidad, alcanzan los 25 cm (a veces hasta la base del A1, aprox. 20 cm). El perfil muestra moteados de hierro, comunes y finos a partir del horizonte B21t.
+
+Las concreciones de calcio y los carbonatos libres aparecen recién a partir de los 90 cm de profundidad. Son abundantes los carbonatos, no así las concreciones (en formas de "muñecas de loess" o "loessskindeln").
+
+
+Series similares y sus diferencias
+
+Se parece a la Serie Tezanos Pinto (que tiene un epipedón más profundo y de colores más claros, y un horizonte argílico menos arcilloso y profundo) y a la Serie Costa Grande (que tiene un epipedón más profundo y un B2t menos desarrollado y sin características vérticas). Ambas series, además, están desarrolladas en un paisaje fisiográficamente distinto.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Protestante presenta una erosión actual moderada; su suceptibilidad a una erosión hídrica potencial es severa, especialmente en las pendientes más inclinadas de las cuencas de los arroyos El Pelado, Crespo y De La Ensenada.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Protestante
+
+ER7-79C
+
+
+
+
+
+Nº de registro
+ 5272
+ 5273
+ 5274
+ 5275
+ 5276
+Horizonte
+ A1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 04-17
+ 25-35
+ 55-72
+ 80-95
+ 105-120
+Mat.organica (%)
+ 3.95
+ 1.99
+ 1.22
+ 0.75
+ 0.68
+N (%)
+ 0.15
+ 0.09
+ 0.08
+ 0.05
+ 0.04
+C/N
+ 15
+ 13
+ 9
+ 10
+ 9
+
+T < 2 μ
+
+ 25.97
+
+ 43.47
+
+ 38.98
+
+ 34.10
+
+ 34.69
+E 2-20 μ
+ 30.89
+ 21.71
+ 23.39
+ 26.43
+ 27.63
+X 2-50 μ
+ 68.89
+ 52.99
+ 57.04
+ 61.33
+ 60.93
+T 50-100 μ
+ 4.83
+ 3.32
+ 3.76
+ 4.28
+ 4.08
+U 100-250 μ
+ 0.31
+ 0.21
+ 0.22
+ 0.28
+ 0.29
+R 500-1000 μ
+ 0.00
+ 0.01
+ 0.01
+ 0.01
+ 0.01
+A
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ 6.3
+
+ 6.9
+
+ 7.2
+
+ 7.2
+
+ 8.3
+pH H2O
+ 5.3
+ 5.4
+ 5.6
+ 5.8
+ 7.1
+pH ClK
+ -
+ -
+ -
+ -
+ -
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 88.61
+ 91.15
+ 95.34
+ 97.17
+ 99.65
+ d Ca++
+ 22.6
+ 33.9
+ 33.3
+ 32.6
+ 32.5
+C e
+
+
+
+
+
+Mg++
+ 1.9
+ 1.3
+ 1.2
+ 1.2
+ 1.5
+t c
+
+
+
+
+
+i a K+
+ 0.68
+ 0.74
+ 0.71
+ 0.65
+ 0.42
+o m
+
+
+
+
+
+n b Na+
+ 0.34
+ 0.34
+ 0.36
+ 0.34
+ 0.26
+e i
+
+
+
+
+
+s o H+
+ 3.1
+ 3.0
+ 2.1
+ -
+ -
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 28.69
+ 40.76
+ 36.33
+ 32.84
+ 30.44
+

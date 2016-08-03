@@ -1,0 +1,245 @@
+--------------------------------------------------------------------------------
+SERIE EL ESPINILLAR Símbolo: EEs
+Pertenece a la familia "arenosa, silícea, térmica" de los Hapludoles énticos.
+La serie El Espinillar corresponde a un suelo arenoso.
+La vegetación es una cubierta arbustiva de tala, curupí, espinillo, etc.
+Perfil tipo: 87C INTA Castelar
+Fecha: 04-IV-1976
+Ubicación: 2,75 km al NNO de Puerto San Juan (Hoja IGM 3360-29-1) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+A/C: 0-12 cm; negro pardusco (10YR 3/2) en húmedo; arenoso; estructura en grano simple; suelto en seco; raíces abundantes, límite inferior claro suave.
+C1: 12-47 cm; negro pardusco (7,5YR 3/2) en húmedo; arenoso; estructura en grano simple; suelto en seco; raíces abundantes; límite inferior claro suave.
+C2: 47-71 cm; pardo (7,5YR 4/4) en húmedo; arenoso; estructura en grano simple; suelto en húmedo; raíces comunes; límite inferior claro suave.
+C3: 71-98 cm; anaranjado opaco (7,5YR 6/4) en húmedo; arenoso; estructura en grano simple; suelto en húmedo; raíces escasas; límite inferior abrupto ondulado.
+IIC4: 98-140 cm; pardo (7,5YR 4/4) en húmedo; arenoso franco; estructura en grano simple; suelto en húmedo; concreciones ferromanganésicas abundantes; moteados de color pardo rojizo oscuro (5YR 3/6) medios a gruesos, abundantes, sobresalientes; límite inferior claro ondulado.
+IIC5: 140-170 cm; anaranjado opaco (10YR 7/4) en húmedo; arenoso; estructura en grano simple; suelto en húmedo; concreciones ferromanganésicas escasas; moteados medios, comunes, sobresalientes.
+Variabilidad de rasgos
+El pH a lo largo de todo el perfil oscila entre fuertemente ácido a extremadamente ácido. La saturación con bases supera el 80 % por lo tanto es un suelo bien provisto de bases de intercambio. Aunque el sodio de intercambio sobrepasa el 15 %, se ha considerado que es muy elevado, teniendo en cuenta los bajos valores del pH. Por alcalinidad sódica esta serie se ha clasificado en la clase A1 12. El horizonte superficial A/C es de espesor variable, entre 10 y 20 cm, de color negro pardusco y moderadamente provisto de materia orgánica. La textura es arenosa y la estructura grano simple. A continuación siguen capas de textura arenosa que se han diferenciado principalmente por los colores de los materiales que van desde el negro pardusco al anaranjado opaco pasando por el pardo. La primera de estas capas (C1) hasta los 50 cm de profundidad tiene todavía 1 % de materia orgánica.
+Entre los 100 y los 170 cm de profundidad, zona de fluctuación de la napa freática, se observan concreciones ferromanganésicas abundantes, como también moteados sobresalientes de color pardo rojizo oscuro.
+No presenta cantidades significativas de sales solubles.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Este suelo es de permeabilidad rápida y bien drenado. Napa freática fluctuante entre los 100 y 170 cm de profundidad.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie El Espinillar
+87C INTA Castelar
+N° de registro
+Horizonte
+ A/C
+ C1
+ C2
+ C3
+ IIC4
+ IIC5
+Profundidad (cm)
+ 3-10
+ 25-35
+ 50-60
+ 75-88
+ 102-118
+ 143-160
+Mat.organica (%)
+ 1.52
+ 1.02
+ 0.10
+ -
+ -
+ -
+C (%)
+ 0.88
+ 0.59
+ 0.06
+ -
+ -
+ -
+N (%)
+ 0.077
+ 0.057
+ -
+ -
+ -
+ -
+C/N
+ 11
+ 10
+ -
+ -
+ -
+ -
+T <2 u
+ 3.5
+ 3.5
+ 1.6
+ 1.0
+ 4.7
+ 3.0
+E 2-20 u
+ 1.1
+ 3.5
+ 1.4
+ 2.0
+ 7.7
+ 2.2
+X 2-50 u
+ 4.1
+ 5.2
+ 3.2
+ 2.5
+ 13.5
+ 4.0
+T 50-74 u
+ 0.1
+ 0.5
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+U 74-100 u
+ 0.3
+ 0.3
+ 0.1
+ 0.1
+ 0.2
+ 0.1
+R 100-250 u
+ 58.6
+ 67.9
+ 68.6
+ 72.0
+ 71.6
+ 83.0
+A 250-500 u
+ 33.3
+ 22.5
+ 26.3
+ 24.2
+ 9.9
+ 9.8
+ 500-1000 u
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 4.6
+ 4.1
+ 1.7
+ 0.9
+ 5.8
+ 1.6
+Resistencia de la pasta (Ohms/cm)
+ 5148
+ 14801
+ 14801
+ 50193
+ 16731
+ 77220
+pH en pasta
+ 5.2
+ 4.3
+ 4.6
+ 5.1
+ 4.3
+ 5.7
+PH H2O
+ 6.1
+ 5.6
+ 5.7
+ 6.1
+ 5.5
+ 6.0
+pH ClK
+ 5.0
+ 3.7
+ 3.9
+ 4.7
+ 3.9
+ 4.4
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+ -
+ -
+Cationes de cambio (m.e./100 g)
+Ca++
+ 2.05
+ 1.20
+ 0.65
+ 0.25
+ 1.20
+ 1.35
+Mg++
+ 1.85
+ 1.25
+ 1.40
+ 0.90
+ 1.40
+ 1.35
+Na+
+ 0.20
+ 0.30
+ 0.25
+ 0.25
+ 0.35
+ 0.60
+K+
+ 0.30
+ 0.20
+ 0.10
+ 0.05
+ 0.20
+ 0.10
+H+
+ 3.20
+ 3.60
+ 2.20
+ 0.60
+ 3.20
+ 0.80
+% Na/T
+ 4
+ 8
+ 10
+ 18
+ 9
+ 18
+Suma de bases, m.e./100 gr (S)
+ 4.40
+ 2.95
+ 2.40
+ 1.45
+ 3.15
+ 3.40
+C.I.C., m.e./100 gr (T)
+ 5.00
+ 3.80
+ 2.45
+ 1.40
+ 3.95
+ 3.35
+Saturación con bases, (%) (S/T)
+ 88
+ 78
+ 98
+ 100
+ 80
+ 100

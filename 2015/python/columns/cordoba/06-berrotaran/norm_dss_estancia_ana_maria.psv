@@ -1,0 +1,40 @@
+dss_estancia_ana_maria.psv ->> ID..........................: 605
+dss_estancia_ana_maria.psv ->> CLASIFICACION...............: Haplustol éntico thapto mólico
+dss_estancia_ana_maria.psv ->> SERIE.......................: ESTANCIA ANA MARÍA (EstAM)
+dss_estancia_ana_maria.psv ->> UBICACION...................: 8 Km al Oeste de el paraje Las Gamas, departamento Río Cuarto
+dss_estancia_ana_maria.psv ->> PROVINCIA...................: CORDOBA
+dss_estancia_ana_maria.psv ->> LATITUD.....................: S322900
+dss_estancia_ana_maria.psv ->> LONGITUD....................: O641200
+dss_estancia_ana_maria.psv ->> ALTITUD.....................: 510
+dss_estancia_ana_maria.psv ->> PENDIENTE...................: FALTA!
+dss_estancia_ana_maria.psv ->> DRENAJE.....................: FALTA!
+dss_estancia_ana_maria.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_estancia_ana_maria.psv ->> PERMEABILIDAD...............: FALTA!
+dss_estancia_ana_maria.psv ->> TIPO DE SUELO...............: FRANCA GRUESA
+dss_estancia_ana_maria.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_estancia_ana_maria.psv ->> HORIZONTE->NOMBRE(S)........: a1 | b | c1 | c2ca
+dss_estancia_ana_maria.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-30 | 30-52 | 52-92 | 92a+
+dss_estancia_ana_maria.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 3.3 | 1.6 | - | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 3.1 | 0.9 | - | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.25 | - | - | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->RELACIÓN C/N.....: 12.4 | - | - | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->ARCILLA 2 (%)....: 28.3 | 21.1 | 17.4 | 15.4
+dss_estancia_ana_maria.psv ->> HORIZONTE->LIMO 2-50 (%)....: 65.3 | 71.9 | 70.7 | 70.8
+dss_estancia_ana_maria.psv ->> HORIZONTE->AMF 50-100 (%)...: 4.8 | 4.9 | 6.9 | 6.8
+dss_estancia_ana_maria.psv ->> HORIZONTE->AF 100-250 (%)...: 2.7 | 2.8 | 3.6 | 4.7
+dss_estancia_ana_maria.psv ->> HORIZONTE->AM 250-500 (%)...: 0.7 | 0.5 | 0.7 | 0.4
+dss_estancia_ana_maria.psv ->> HORIZONTE->AG 500-1000 (%)..: 1.1 | 1.1 | 1.4 | 1.0
+dss_estancia_ana_maria.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0.2 | 0.2 | 0.4 | 0.2
+dss_estancia_ana_maria.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 0 | 0 | 4.9
+dss_estancia_ana_maria.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 29.9 | 28.3 | 26.7 | 23.9
+dss_estancia_ana_maria.psv ->> HORIZONTE->PH PASTA.........: 6.1 | 7.1 | 7.3 | 8.0
+dss_estancia_ana_maria.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.4 | 7.4 | 7.7 | 8.4
+dss_estancia_ana_maria.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 12.7 | 14.4 | 14.0 | 	 
+dss_estancia_ana_maria.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 1.1 | 1.7 | 1.3 | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->CI ME/100G-Na +..: 1.3 | 0.8 | 1.5 | 0.3
+dss_estancia_ana_maria.psv ->> HORIZONTE->CI ME/100G-K +...: 1.3 | 0.5 | 0.6 | 1.7
+dss_estancia_ana_maria.psv ->> HORIZONTE->CI ME/100G-H +...: 1.4 | 0.2 | - | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->SUM.B. ME/100G(S): 16.4 | 17.4 | 17.4 | 
+dss_estancia_ana_maria.psv ->> HORIZONTE->CIC ME/100G(T)...: 17.8 | 17.6 | 17.4 | 13.7
+dss_estancia_ana_maria.psv ->> HORIZONTE->SAT.B % (S/T)....: 92.1 | 98.9 | 100 | 100

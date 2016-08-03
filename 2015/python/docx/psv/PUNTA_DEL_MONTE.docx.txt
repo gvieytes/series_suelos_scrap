@@ -1,0 +1,298 @@
+
+--------------------------------------------------------------------------------
+SERIE PUNTA DEL MONTE Símbolo: PMo
+
+
+Pertenece a la familia "fina, mixta, alcalina, térmica" de los Natracualfes típicos.
+
+Son suelos alcalinos y salinos desde la superficie, desarrollados en materiales aluviales relativamente modernos (aportados por periódicas crecidas del río Paraná) que se depositaron sobre limos loessoides gleizados.
+
+
+Perfil tipo: ER1-87C
+Fecha: 4-XI-1992
+Ubicación: Estancia El Cinco (foto IR403-52) - Dpto. Gualeguay
+Reconocedores: R.H. Fuentes; O.A. Foti.
+
+
+A11: 00-11 cm; pardo muy oscuro (10YR 4/1) en húmedo, gris (10YR 6/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, débiles; duro en seco, friable en húmedo; concreciones de hierro-manganeso escasas; barnices ("humic skins") escasos; moteados de hierro-manganeso comunes, medios y sobresalientes; horizonte muy eluviado; límite abrupto, suave.
+
+A12: 11-21 cm; gris muy oscuro (10YR 3.5/1) en húmedo; arcillo-limoso; estructura granular y en bloques subangulares, débiles; duro en seco, friable en húmedo; escasa cantidad de carbonatos libres en la masa; barnices ("humic skins") escasos a comunes; moteados de hierro-manganeso comunes, medios y sobresalientes; elevada alcalinidad; límite claro, suave.
+
+B21t: 21-44 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; duro en seco, firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas a comunes; moteados de hierro-manganeso comunes, finos y precisos; elevada alcalinidad; límite claro, suave.
+
+B22t: 44-65 cm; pardo muy oscuro (10YR 4/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas y finas; caras de fricción ("slickensides") escasas a comunes; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+
+IIB3: 65-140 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles, que rompen en bloques angulares irregulares y cuneiformes medios, moderados; duro en seco, firme en húmedo; escasa cantidad de carbonatos libres en la masa; concreciones de hierro-manganeso comunes; barnices ("clay-humic skins") comunes; caras de fricción ("slickenside") comunes; moteados de hierro-manganeso abundantes, gruesos y sobresalientes; horizonte con evidencias de gley fósil y presencia de durinódulos; concreciones calcáreas muy duras, de hasta 0,5 cm.
+
+
+
+
+Variabilidad de rasgos
+
+En general, el solum de estos suelos es relativamente somero (65-70 cm), pero el espesor varía de acuerdo al mayor o menor aporte aluvial que se produzcan con las crecientes del río Paraná.
+
+La serie presenta un proceso de alcalinización y salinización provocada por la evaporación, en períodos de sequías, por ascenso capilar de aguas salobres de la napa freática, relicto de las ingresiones marinas ocurridas probablemente en el período cuaternario medio a superior, que dio origen al estuario antiguo del actual predelta del río Paraná.
+
+Generalmente presenta una vegetación rala, típica de los ambientes salino-alcalinos, pero en áreas algo más elevadas donde el drenaje mejora y la salinización es menor, se desarrolla un monte abierto dominado por especies como Algarrobo blanco, con un mejoramiento general de su vegetación.
+
+Son suelos muy hidromórficos que suelen permanecer muy anegados por largos períodos con las crecidas estacionales del río o, simplemente, cuando las lluvias son intensas.
+
+El epipedón (A11+A12) no supera los 20 cm de profundidad, es de textura franco-arcillo limosa y tiene abundantes moteados. Le sigue un B2t arcillo-limoso, con concreciones de carbonato a los 45 cm de profundidad y presencia de abundantes moteados.
+
+
+Fases
+
+Serie Punta del Monte fase muy anegable 				 Símbolo: PMo.w2
+
+
+Series similares y sus diferencias
+
+La serie Punta del Monte se parece a la serie El Estribo (pero ésta tiene un perfil más profundo y no es salina) y es similar, también, a la serie General Nazar (pero ésta no es salina y es menos alcalina).
+
+
+Drenaje
+
+Muy pobremente drenado; escurrimiento superficial estancado. Permeabilidad lenta a muy lenta. Napa freática superficial. Grupo hidrológico D.
+	
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Punta del Monte
+
+ER1-87C
+
+
+
+
+
+N° de registro
+ 7221
+ 7222
+ 7223
+ 7224
+ 7225
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ IIB3
+Profundidad (cm
+ 03-10
+ 13-19
+ 24-40
+ 46-63
+ 90-110
+Mat.organica (%)
+ 2.08
+ 1.34
+ 1.05
+ 0.52
+ 0.15
+N (%)
+ 0.09
+ 0.08
+ 0.07
+ 0.04
+ 0.02
+C/N
+ 13.02
+ 8.78
+ 7.47
+ 6.22
+ 3.64
+
+T
+
+ <2 u
+
+ 20.14
+
+ 46.35
+
+ 50.15
+
+ 48.60
+
+ 40.89
+E
+ 2-20 u
+ 25.23
+ 24.61
+ 24.64
+ 25.01
+ 27.08
+X
+ 2-50 u
+ 55.68
+ 49.54
+ 47.51
+ 47.71
+ 46.75
+T
+ 50-100 u
+ 4.01
+ 1.16
+ 0.44
+ 1.09
+ 5.19
+U
+ 100-500 u
+ 11.13
+ 2.92
+ 1.88
+ 2.46
+ 6.97
+R
+ 500-1000 u
+ 0.04
+ 0.03
+ 0.02
+ 0.09
+ 0.08
+A
+ 1000-2000 u
+ -
+ -
+ -
+ 0.05
+ 0.12
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+pH H2O
+ 8.2
+ 9.2
+ 9.4
+ 9.5
+ 9.0
+pH ClK
+ 7.3
+ 8.4
+ 8.5
+ 8.7
+ 8.3
+C.E. (mmhos/cm)
+ 8.19
+ 10.23
+ 16.26
+ 11.94
+ 5.26
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+ Valor T
+
+
+ 22.00
+
+
+ 23.00
+
+
+ 42.50
+
+
+ 33.00
+
+
+ 29.00
+
+D
+Ca++
+ 11.60
+ 12.30
+ 19.30
+ 13.30
+ 14.50
+C
+E
+
+
+
+
+
+
+a
+
+Mg++
+ 1.80
+ 1.90
+ 3.60
+ 2.70
+ 2.50
+t
+C
+
+
+
+
+
+
+i
+A
+K+
+ 1.50
+ 1.60
+ 2.00
+ 1.70
+ 1.50
+o
+M
+
+
+
+
+
+
+n
+B
+Na+
+ 6.30
+ 6.50
+ 17.10
+ 12.40
+ 10.30
+e
+I
+
+
+
+
+
+
+s
+O
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 28.6
+ 28.3
+ 40.2
+ 37.6
+ 35.5
+
+Equivalente de humedad (%)
+
+ 30.87
+
+ 48.67
+
+ 49.70
+
+ 46.71
+
+ 39.89
+

@@ -1,0 +1,39 @@
+dss_las_piedras.psv ->> ID..........................: 225
+dss_las_piedras.psv ->> CLASIFICACION...............: Argiustol cumúlico
+dss_las_piedras.psv ->> SERIE.......................: LAS PIEDRAS (Pdrs)
+dss_las_piedras.psv ->> UBICACION...................: 24 km al NO de la ciudad de Jesús María, Dpto. Totoral
+dss_las_piedras.psv ->> PROVINCIA...................: CORDOBA
+dss_las_piedras.psv ->> LATITUD.....................: S304800
+dss_las_piedras.psv ->> LONGITUD....................: O641300
+dss_las_piedras.psv ->> ALTITUD.....................: 700
+dss_las_piedras.psv ->> PENDIENTE...................: FALTA!
+dss_las_piedras.psv ->> DRENAJE.....................: FALTA!
+dss_las_piedras.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_las_piedras.psv ->> PERMEABILIDAD...............: FALTA!
+dss_las_piedras.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_las_piedras.psv ->> COLOR ......................: PARDO MUY OSCURO
+dss_las_piedras.psv ->> HORIZONTE->NOMBRE(S)........: A1 | B21t | B22t
+dss_las_piedras.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-40 | 40-60 | 60a+
+dss_las_piedras.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,1 | 0,5 |  
+dss_las_piedras.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,2 | 0,3 |  
+dss_las_piedras.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,12 | 0,03 |  
+dss_las_piedras.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,0 | 10,0 |  
+dss_las_piedras.psv ->> HORIZONTE->ARCILLA 2 (%)....: 12,1 | 16,4 | 16,4
+dss_las_piedras.psv ->> HORIZONTE->LIMO 2-50 (%)....: 25,4 | 21,4 | 22,8
+dss_las_piedras.psv ->> HORIZONTE->AMF 50-100 (%)...: 4,1 | 4,1 | 4,8
+dss_las_piedras.psv ->> HORIZONTE->AF 100-250 (%)...: 6,4 | 6,7 | 9,8
+dss_las_piedras.psv ->> HORIZONTE->AM 250-500 (%)...: 11,4 | 11,7 | 14,7
+dss_las_piedras.psv ->> HORIZONTE->AG 500-1000 (%)..: 27,3 | 24,5 | 21,7
+dss_las_piedras.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 11,8 | 13,2 | 10,2
+dss_las_piedras.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0
+dss_las_piedras.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 14,2 | 14,6 | 13,2
+dss_las_piedras.psv ->> HORIZONTE->PH PASTA.........: - | - |  
+dss_las_piedras.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,1 | 6,4 | 6,5
+dss_las_piedras.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10,3 | 12,1 | 10,5
+dss_las_piedras.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0,6 | 0,6 | 0,3
+dss_las_piedras.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,2 | 0,2 | 0,2
+dss_las_piedras.psv ->> HORIZONTE->CI ME/100G-K +...: 0,4 | 0,3 | 0,2
+dss_las_piedras.psv ->> HORIZONTE->CI ME/100G-H +...: 1,2 | 1,1 | 0,5
+dss_las_piedras.psv ->> HORIZONTE->SUM.B. ME/100G(S): 11,5 | 13,2 | 11,2
+dss_las_piedras.psv ->> HORIZONTE->CIC ME/100G(T)...: 12,7 | 14,3 | 11,7
+dss_las_piedras.psv ->> HORIZONTE->SAT.B % (S/T)....: 90,5 | 92,3 | 95,7

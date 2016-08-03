@@ -1,0 +1,215 @@
+--------------------------------------------------------------------------------
+SERIE GRANERO Símbolo: Gra
+Pertenece a la familia "limosa fina, mixta, térmica" de los Argiudoles típicos.
+Son suelos poco profundos, bien drenados, con estructura bloquiforme en todo el perfil.
+Suelos desarrollados sobre loess calcáreo de textura franco-limosa, ricos en carbonatos a partir de los 80-90 cm de profundidad.
+Perfil tipo: ER7-101C
+Fecha: 27-VI-1995
+Ubicación: Establecimiento "Don Tino" (foto 421-96) - dto. Corrales - Dpto. Victoria.
+Reconocedores: O.L. Lopez; O.A. Foti.
+A1: 00-30 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura granular y bloques subangulares finos y débiles; friable en húmedo; barnices ("humic skins") comunes; límite gradual, suave.
+B21: 30-55 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo; estructura en bloques subangulares y bloques angulares irregulares gruesos y débiles que rompen en bloques granulares finos y débiles; friable en húmedo; barnices ("clay skins"), escasos a comunes, y ("clay humic"), escasos; límite claro, suave.
+B22: 55-65 cm; pardo oscuro (10YR 3/3) en húmedo; franco-limoso; estructura en bloques subangulares y bloques angulares irregulares, medios y débiles, friable en húmedo; barnices ("clay skins"), escasos; ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, ondulado.
+B3: 65-83 cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-arcilloso; estructura en bloques subangulares y bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("clay skins") escasos; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual suave.
+C1ca: 83-107 cm; pardo oscuro (7.5YR 4/4) en húmedo; franco-limoso; estructura masiva muy friable en húmedo; abundantes carbonatos libres en la masa; moteados de hierro-manganeso abnundantes, medios y precisos; límite gardual suave.
+C2ca: 107 cm+; pardo (7.5YR 5/4) en húmedo; franco-limoso; estructura masiva; muy friable en húmedo; abundante cantidad de carbonatos libres en la masa; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+La variabilidad de rasgos no se conoce.
+Fases
+No presenta a nivel de reconocimiento.
+Series similares y sus diferencias
+Se parece a la serie Santa Eulalia, pero ésta no posee un horizonte argílico y se ha desarrollado en una peniplanicie loéssica menos ondulada. También se parece a la serie San Francisco, pero ésta es más arcillosa en todo el perfil y se encuentra en un paisaje más suavemente ondulado.
+Drenaje
+Bien drenado; escurrimiento superficial rápido. Permeabilidad moderada. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie Granero tiene erosión actual leve en forma laminar, y corre peligro de erosión en grado moderado.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Granero
+ER7-101C
+NE de registro
+ 10.401
+ 10.402
+ 10.403
+ 10.404
+ 10.405
+ 10.406
+Horizonte
+ A1
+ B21t
+ B22
+ B3
+ C1ca
+ C2ca
+Profundidad (cm)
+ 05-25
+ 35-50
+ 56-63
+ 67-80
+ 85-100
+ 120-130
+Mat.organica (%)
+ 3.91
+ 1.07
+ 0.50
+ 0.29
+ 0.14
+ 0.14
+N (%)
+ 0.23
+ 0.10
+ 0.07
+ 0.06
+ 0.05
+ 0.05
+C/N
+ 9.4
+ 5.7
+ 3.9
+ 2.7
+ 1.5
+ 1.5
+T < 2 u
+ 24.29
+ 29.62
+ 23.45
+ 27.19
+ 26.45
+ 24.79
+E 2-20 u
+ 23.48
+ 19.70
+ 21.26
+ 20.49
+ 20.49
+ 22.07
+X 2-50 u
+ 53.15
+ 48.85
+ 51.43
+ 49.39
+ 58.36
+ 56.87
+T 50-100 u
+ 1.83
+ 2.86
+ 3.91
+ 4.39
+ 2.51
+ 2.01
+U 100-250 u
+ 20.69
+ 18.63
+ 21.10
+ 18.98
+ 12.65
+ 16.26
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.04
+ 0.04
+ 0.04
+ 0.04
+ 0.01
+ 0.02
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 0.84
+ 12.0
+PH H2O
+ 6.6
+ 6.4
+ 6.0
+ 6.1
+ 7.0
+ 7.4
+pH ClK
+ 6.3
+ 5.9
+ 5.5
+ 5.6
+ 6.5
+ 7.0
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 33.80
+ 30.23
+ 23.22
+ 27.20
+ 25.80
+ N.D.
+d
+Ca++
+ 25.00
+ 22.61
+ 17.82
+ 19.62
+ 20.71
+ N.D.
+C
+e
+a
+Mg++
+ 4.40
+ 4.12
+ 2.81
+ 2.43
+ 2.60
+ N.D.
+t
+c
+i
+a
+K+
+ 1.84
+ 0.48
+ 0.43
+ 1.28
+ 1.24
+ 1.02
+o
+m
+n
+b
+Na+
+ 1.62
+ 1.47
+ 1.67
+ 1.00
+ 1.75
+ 0.85
+e
+i
+s
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+Equival. de humedad (%)
+ 26.7
+ 29.6
+ 24.5
+ 26.5
+ 24.2
+ 24.0
+Fósforo asimilable (ppm)
+ 47.0
+ 30.0
+ 5.0
+ 0.2
+ 0.0
+ 0.0

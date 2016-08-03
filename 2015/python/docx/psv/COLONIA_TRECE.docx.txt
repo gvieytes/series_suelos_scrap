@@ -1,0 +1,255 @@
+
+--------------------------------------------------------------------------------
+SERIE COLONIA TRECE 					 Símbolo: CT
+
+
+Pertenece a la familia "arcillosa fina, montmorillonítica, moderadamente alcalina, térmica" de los Ocracualfes vérticos (Planosol vertisólico, alcalino en el subsuelo).
+Suelos imperfectamente drenados con concreciones ferromanganesíferas prácticamente en todo el perfil.
+Tienen un epipedón somero, con colores claros, muy lixiviado y degradado, franco-arcillo-limoso, y concreciones de calcáreo y algunos cristales de yeso a partir de 40-50 cm.
+Son levemente alcalinos desde 30-40 cm, y moderadamente en el C.
+Se han desarrollado sobre materiales lacustres (limos calcáreos), densos, arcillo-limosos.
+
+
+Perfil tipo: ER5-3C
+Fecha: 15-VI-1971
+Colonia Oficial Nº 13 (foto 486-27) - Dpto. La Paz
+Reconocedores: R.H. Fuentes; G.W. van Barneveld.
+
+
+A1: 00-07 cm; gris muy oscuro (10 YR 3/1) en húmedo; gris (10 YR 5/1) en seco; franco-arcillo-limoso; estructura masiva; extremadamente duro en seco; firme en húmedo; barnices `humic-skins', escasos, finos ; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas, finas; horizonte muy lixiviado con partículas de limo sueltas decoloradas en superficie; el pisoteo de los animales destruyó la estructura; límite claro, suave.
+
+B21: 07-31 cm; negro (10 YR 2/1) en húmedo; gris muy oscuro (10 YR 3/1) en seco; arcillo-limoso; estructura en bloques angulares irregulares y agregados cuneiformes, medios, moderados, con tendencia a prismas compuestos irregulares; barnices `humic-skins y clay-skins', escasos, finos; caras de fricción (`slickensides') escasa, finas, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; concreciones calcáreas escasas, duras, de hasta 1 mm ; horizonte con "nidos" ("pockets") de material del A1, y lixiviado en las caras de los agregados; límite claro, suave.
+
+B22ca: 31-60 cm; negro (10 YR 2.5/1) en húmedo; gris oscuro (10 YR 4/1) en seco; arcillo-limoso; estructura en bloques angulares irregulares, medios y gruesos, moderados; muy duro en seco; muy firme en húmedo; barnices `clay-skins y humic-skins', escasos, finos; caras de fricción (`slickensides') escasas, finas y medias, no intersectadas; moteados de hierro-manganeso escasos, finos y débiles; concreciones de hierro-manganeso escasas, muy finas; concreciones calcáreas escasas, duras, de hasta 1 mm ; límite gradual, suave.
+
+B3ca: 60-90 cm; pardo grisáceo oscuro (10 YR 4/2) en húmedo; pardo (10 YR 5/3) en seco; arcillo-limoso; estructura en bloques angulares irregulares, gruesos, débiles; muy duro en seco; muy firme en húmedo; barnices `clay-humic-skins', escasos, finos; caras de fricción (`slickensides') escasas, medias, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; concreciones de hierro-manganeso escasas, finas; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas comunes, duras, semiduras y blandas, de hasta 3 mm; cristales de yeso comunes; límite gradual, ondulado.
+
+Cca: 90 cm +; pardo oscuro (7.5YR 4.5/4) en húmedo; pardo claro (7.5YR 6/4) en seco; arcillo-limoso; estructura masiva; duro en seco; firme en húmedo; caras de fricción (`slickensides') comunes, medias, no intersectadas; moteados de hierro-manganeso comunes, finos y precisos; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, duras, semi-duras y blandas, de hasta 4 cm.
+
+
+Variabilidad de rasgos
+
+Las variabilidad de rasgos está determinada principalmente por la actividad de las hormigas (especies Atta vollenweideri y Acromyrmex lundi), cuya influencia se observa en más del 80% de los perfiles. Las mismas originan un microrrelieve que fácilmente puede ser interpretado como gilgai.
+
+El epipedón varía normalmente de 7 a 12 cm, pero en algunos lugares puede llegar a 20 cm. Es muy lixiviado y en campos de pastoreo semiintensivo muy pisoteados, prácticamente sin estructura. En la mayoría de los casos, el epipedón puede ser descripto como un A1, pero a veces también como A2. Tiene entre 33-39 % de arcilla y entre 2.5-3% de materia orgánica, en parte dispersa y en parte, poco descompuesta. En general es levemente alcalino con 3-7% de sodio (Na+) intercambiable.
+
+El horizonte B2 -argílico- generalmente tiene una estructura de bloques y localmente, de prismas débiles. Tiene 45-55% de arcilla y habitualmente contiene en nidos ("pockets") y también entre los agregados (grietas antiguas), material del A1 traído por las hormigas. Las concreciones de calcáreo generalmente aparecen entre 40-50 cm, pero no en pocos casos pueden encontrarse desde las base del epipedón y aún en todo el perfil. El horizonte es levemente alcalino con 10-15% de Na+ intercambiable y puede tener en su parte inferior algunos cristales de yeso. En seco se abren en grietas de 1-3 cm que llegan hasta la superficie.
+
+Suelos desarrollados en materiales franco-arcillo-limosos a arcillo-limosos, con 36-44% de arcilla y que, en muchos casos, muestran síntomas de gleización.	Materiales moderadamente alcalinos con aproximadamente 12-18% de Na+ intercambiable.
+
+
+Series similares y sus diferencias
+
+Se parece a las series A Quebracho (menos alcalino, más hidromórfico), Grecco (algo más alcalino y más hidromórfico) y La Calandria (en otro paisaje); también se parece a la serie Saucesito del departamento La Paz (menos alcalino y menos planosólico).
+
+
+Drenaje
+
+Imperfectamente drenado; encharcamiento después de cada lluvia importante; no existe escurrimiento superficial. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie no está erosionada ni existe peligro de erosión en las partes muy planas, pero sí lo hay en las muy suavemente onduladas (entre moderado a severo).
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Colonia Trece
+
+ER5-3C
+
+
+
+
+
+Nº de registro
+ 378
+ 379
+ 380
+ 381
+ 382
+Horizonte
+ A1
+ B21
+ B22ca
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-07
+ 14-27
+ 35-55
+ 60-80
+ 102-118
+Mat.organica (%)
+ 3.0
+ 2.4
+ 2.1
+ 1.1
+ 0.3
+N (%)
+ -
+ -
+ -
+ -
+ -
+C/N
+ 13
+ 11
+ 14
+ 11
+ 7
+
+T < 2 μ
+
+ 39.7
+
+ 52.0
+
+ 52.3
+
+ 47.9
+
+ 43.2
+E 2-20 μ
+ 26.6
+ 20.5
+ 21.6
+ 20.9
+ 19.6
+X 2-50 μ
+ 55.7
+ 44.7
+ 45.3
+ 49.0
+ 53.3
+T 50-100 μ
+ 1.2
+ 0.8
+ 0.6
+ 0.8
+ 0.9
+U 100-500 μ
+ 2.4
+ 1.5
+ 1.2
+ 1.5
+ 1.8
+R 500-1000 μ
+ 1.0
+ 0.7
+ 0.6
+ 0.8
+ 0.8
+A 1000-2000 μ
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+ 0.0
+ 0.3
+ 3.0
+ 2.8
+ 9.3
+pH H2O
+ 6.3
+ 7.5
+ 8.1
+ 8.1
+ 8.3
+pH ClK
+ 5.7
+ 6.4
+ 7.0
+ 7.0
+ 7.1
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 35.0
+ 41.7
+ 45.1
+ 41.7
+ 34.8
+ d Ca++
+ -
+ -
+ -
+ -
+ -
+C e
+
+
+
+
+
+Mg++
+ -
+ -
+ -
+ -
+ -
+t c
+
+
+
+
+
+i a K+
+ 1.2
+ 1.1
+ 0.9
+ 1.0
+ 1.2
+o m
+
+
+
+
+
+n b Na+
+ 2.1
+ 3.8
+ 5.7
+ 3.9
+ 5.2
+e i
+
+
+
+
+
+s o H+
+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 6.0
+ 9.1
+ 12.6
+ 9.4
+ 14.9
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 43.1
+ 51.2
+ 56.6
+ 46.9
+ 45.6
+SO4Ca (g/%)
+ -
+ -
+ -
+ 0.2
+ -
+

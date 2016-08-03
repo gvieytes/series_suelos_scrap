@@ -1,0 +1,305 @@
+
+--------------------------------------------------------------------------------
+SERIE ISLA VICTORIA Símbolo: IVi
+
+
+Pertenece a la familia "franca gruesa, silícea, térmica" de los Hapludoles ácuicos.
+
+La serie Isla Victoria es un suelo aluvial, moderadamente salino y sódico.
+
+Por su posición relativamente más elevada dentro del paisaje este suelo se encuentra libre de aguas superficiales.
+
+
+Perfil tipo: 91C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: a 22 km al SO de Villa Paranacito (Hoja IGM 3360-36-1) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+O1: 6-0 cm; horizonte orgánico; límite inferior claro ondulado.
+
+A1: 0-15 cm; negro (10YR 1,7/1) en húmedo; arcilloso; estructura migajosa; firme; raíces abundantes; límite inferior abrupto ondulado.
+
+IIC1: 15-20 cm; gris pardusco (10YR 5/1) en húmedo; arcilloso; firme; moteados finos a medios, abundantes, sobresalientes; raíces comunes; límite inferior claro, ondulado.
+
+IIIC2: 20-78 cm; anaranjado amarillo opaco (10YR 6/3) en húmedo; franco arenoso; friable; concreciones calcáreas escasas, moteados gruesos, abundantes, precisos a sobresalientes; raíces comu - nes; límite inferior abrupto, ondulado.
+
+IVC3: 78-98 cm; pardo amarillo grisáceo (10YR 5/2) en húmedo franco a franco limoso; ligeramente plástico, ligeramente adhesivo; concreciones calcáreas escasas; moteados medios, comunes a abundantes, precisos; raíces escasas; límite inferior abrupto, ondulado.
+
+VC4: 98-180 cm; pardo amarillento opaco (10YR 4/3) en húmedo; arenoso; no plástico, no adhesivo; raíces escasas.
+
+
+Variabilidad de rasgos
+
+Sobrepuesto al suelo mineral se encuentra un horizonte orgánico (O1) de 6 cm de espesor, en el cual predominan restos vegetales en descomposición. A continuación sigue el primer horizonte mineral A1, de 15 cm de espesor, de color negro, muy bien provisto de materia orgánica (12 %), textura arcillosa y de estructure migajosa. Siguen capas la primera de color gris pardusco y textura arcillosa, a continuación otra capa de color anaranjado amarillo y de textura franco arenosa, la tercera capa de color pardo amarillo grisáceo y textura franca y finalmente desde los 98 cm a 180 cm de profundidad una capa de color pardo amarillento opaco y textura arenosa. El perfil presenta concreciones calcáreas escasas entre los 20 y 100 cm de profundidad y moteados sobresalientes a precisos a lo largo del mismo.
+
+El porcentaje de sodio de intercambio de este perfil es de 15 % desde la superficie y sobrepasa el 40 % dentro de les 100 cm de profundidad. Por lo tanto por alcalinidad sódica este suelo se lo clasifica en la clase A1 33. En cuanto a la salinidad, la conductividad en los dos primeros estratos no llega a 3 mmhos/cm y en las dos capas siguientes supera los 8 mmhos/cm, por lo que este suelo está clasificado como moderadamente salino, En el extracto de suelo saturado predominan las sales de sulfato de sodio.
+
+
+Fases
+
+No presenta a escala 1:100.000.
+
+
+Drenaje
+
+Este suelo es de permeabilidad lenta e imperfectamente drenado.
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie Isla Victoria
+
+91C INTA Castelar
+
+
+
+
+
+
+N° de registro
+
+
+
+
+
+
+Horizonte
+ O1
+ A1
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+Profundidad (cm)
+ -
+ 5-12
+ 15-20
+ 36-70
+ 80-95
+ 150-170
+Mat. orgánica (%)
+ -
+ 11.83
+ -
+ -
+ -
+ -
+C (%)
+ -
+ 6.86
+ -
+ -
+ -
+ -
+N (%)
+ -
+ 0.610
+ -
+ -
+ -
+ -
+C/N
+ -
+ 11
+ -
+ -
+ -
+ -
+
+T <2 u
+
+ -
+
+ 55.6
+
+ 47.6
+
+ 15.8
+
+ 15.8
+
+ 3.8
+E 2-20 u
+ -
+ 24.9
+ 28.5
+ 3.0
+ 12.5
+ 2.7
+X 2-50 u
+ -
+ 31.5
+ 37.3
+ 14.1
+ 49.1
+ 7.2
+T 50-74 u
+ -
+ 4.5
+ 7.3
+ 26.3
+ 16.9
+ 13.3
+U 74-100 u
+ -
+ 6.6
+ 5.5
+ 33.2
+ 11.8
+ 22.2
+R 100-250 u
+ -
+ 1.7
+ 2.1
+ 10.4
+ 6.2
+ 50.9
+A 250-500 u
+ -
+ 0.1
+ 0.1
+ 0.2
+ 0.1
+ 2.5
+ 500-1000 u
+ -
+ -
+ -
+ -
+ 0.1
+ 0.1
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+CO3Ca (%)
+ -
+ 0
+ 0.1
+ vest (n)
+ vest (n)
+ 0
+Equivalente de humedad (%)
+ -
+ 57.4
+ 44.5
+ 15.8
+ 18.4
+ 4.1
+Resistencia de la pasta (Ohms/cm)
+ -
+ 1023
+ 650
+ 552
+ 463
+ 3248
+pH en pasta
+ -
+ 5.5
+ 7.5
+ 8.5
+ 8.0
+ 7.9
+pH en agua (1:2,5)
+ -
+ 6.0
+ 8.2
+ 9.2
+ 8.8
+ 8.7
+pH en KCl (1:2,5)
+ -
+ 4.7
+ 6.3
+ 8.0
+ 7.5
+ 7.4
+Conductividad (mmhos/cm)
+ -
+ 2.70
+ 2.87
+ 8.58
+ 8.39
+ -
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ -
+ 16.1
+ -
+ -
+ -
+ -
+
+Mg++
+ -
+ 6.8
+ -
+ -
+ -
+ -
+
+Na[+]
+ -
+ 10.7
+ 9.2
+ 2.5
+ 3.7
+ -
+
+K[+]
+ -
+ 0.5
+ 0.4
+ -
+ -
+ -
+
+H[+]
+ -
+ 20.8
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ -
+ 15
+ 34
+ 63
+ 65
+ -
+Suma de bases, m.e./100 gr (S)
+ -
+ 34.1
+ -
+ -
+ -
+ -
+C.I.C., m.e./100 gr (T)
+ -
+ 69.3
+ 27.2
+ 4.0
+ 5.7
+ -
+Saturación con bases, (%) (S/T)
+ -
+ 49
+ -
+ -
+ -
+ -
+

@@ -1,0 +1,301 @@
+
+--------------------------------------------------------------------------------
+SERIE BRASILERA						 Símbolo: Bra
+
+
+Pertenece a la familia "muy fina, levemente alcalina, térmica" de los Cromudertes árgicos (Vertisoles con gilgai y un B2 textural de color pardo muy oscuro).
+Muestra raramente un microrrelieve gilgai linear poco visible en la fotografía aérea, con ciclos de 4-5 m y altibajos de hasta 10 cm.
+Suelos moderadamente erosionados, imperfectamente drenados y ligeramente alcalinos en el subsuelo, con un epipedón arcillo-limoso, bien estructurado por el "self-mulching" y un horizonte B2 argílicom, arcilloso, con concreciones de calcáreo que aparecen entre los 70-80 cm.
+
+Suelos desarrollados en limos calcáreos, arcillo-limosos.
+
+
+Perfil tipo: ER7-86C
+Fecha: 4-VIII-1989.
+Ubicación: Alrededores de Aldea Brasilera (foto 445-62) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+
+
+Ap: 00-16 cm; gris parduzco muy oscuro (10YR 3/1.5) en húmedo; franco-arcillolimoso; estructura en bloques subangulares, medios, moderados; duro en seco; friable en húmedo; barnices "humic skins", abundantes y gruesos, y "clay humic skins" escasos y finos; moteados de hierro comunes, finos y precisos; límite claro, suave.
+
+B21t: 16-33 cm; pardo grisáceo muy oscuro (7.5YR 3.5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques subangulares y angulares irregulares, medios, fuertes; extremadamente duro en seco; firme en húmedo; barnices "clay humic skins" abundantes y medios, y "clay skins", escasos a abundantes, finos; caras de fricción ("slickensides") abundantes, finas e intersectadas; moteados de hierro comunes, medios y precisos; concreciones calcáreas escasas y finas; límite claro, ondulado.
+
+B22t: 33-74 cm; gris parduzco (7.5YR 4.5/4) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, fuertes, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; extremadamente duro en seco; firme en húmedo; barnices "clay humic skins" y "clay skins", escasos y finos; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; concreciones de hierro-manganeso de hasta 0.2 cm, escasas y finas; moteados de hierro y manganeso comunes, finos y precisos; escasa cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; grietas que se extiende hasta la base de este horizonte, rellenas de material superior; raíces aplastadas en las caras de fricción; límite gradual, ondulado.
+
+B23tca: 74-90 cm; pardo (7.5YR 5/4) en húmedo; franco-arcillo-limoso a arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques subangulares y angulares irregulares, medios, moderados; extremadamente duro en seco; firme en húmedo; barnices "clay skins", abundantes, finos a medios; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; moteados de hierro y manganeso comunes, medios y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes; límite claro, suave.
+
+
+
+B3ca: 90-107 cm; pardo fuerte (7.5YR 5/6) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares y bloques cuneiformes, medios, moderados; friable en húmedo; barnices "clay humic skins" y "clay skins", escasos, finos; caras de fricción ("slickensides") fósiles, abundantes y gruesas, no intersectadas; moteados de hierro y manganeso comunes, finos y precisos; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes, duras y en miscelio; límite claro, suave.
+
+Cca: 107+ cm; amarillo rojizo (7.5YR 7.5/6) en húmedo; franco-arcillo-limoso; estructura masiva; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas, duras, y abundantes en miscelio.
+
+
+Variabilidad de rasgos
+
+Poco se conoce sobre la variabilidad de las características morfológicas de la Serie Brasilera. Los factores que inciden en el amplio rango de variación de las mismas, están relacionados con la erosión y la posición en el paisaje. La erosión, que en la mayoría de los casos es natural o "geológica", ha atenuado el desarrollo del microrrelieve gilgai, observándose más comúnmente en el talud de los caminos.
+
+El epipedón, somero, no supera los 18 cm de profundidad. Raramente incluye un horizonte transicional B1, siendo abrupto el cambio hacia el horizonte B2 textural, de estructura prismática que rompe en bloques angulares y bloques cuneiformes. Muestra abundantes caras de fricción ("slickensides") finas y gruesas, intersectadas (que en el horizonte B3ca son "fósiles"), grietas rellenas por material de horizontes suprayacentes, y abundantes raíces aplastadas en las caras de fricción.
+
+El horizonte argílico supera siempre los 35 cm de espesor -que, en casos excepcionales, llega a un máximo de 75 cm- y posee 60-65 % de arcilla en su parte superior (B21t) y 50-60 % en la parte inferior (B22t, B23tca).
+
+El horizonte Cca muestra condiciones de reducción ("gley") fósil (inherente al material parental limo-calcáreo).
+
+
+Fases
+
+No se han establecido fases a escala de reconocimiento (1:100.000)
+
+
+Series similares y sus diferencias
+
+Se parece a la series Febré y Las Mercedes, pero éstas se ubican en un paisaje distinto (terrazas de erosión y peniplanicie suavemente ondulada con manto de loess de muy poco espesor, respectivamente).
+
+
+Fisiografía y extensión
+
+La Serie Brasilera ocupa las lomas bajas e intermedias, entre los 65-75 m.s.n.m. de la peniplanicie ondulada con manto de loess de espesor variable. Es una serie poco representativa, limitándose su extensión a los alrededores de la localidad de Aldea Brasilera (margen izquierda de la cuenca del arroyo Salto).
+
+
+Drenaje
+
+Imperfectamente drenado; escurrimiento superficial rápido. Permeabilidad muy lenta. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La Serie Brasilera está moderadamente erosionada y posee un moderado a severo peligro de erosión potencial en surcos y cárcavas. La fase severamente erosionada (no descripta para esta escala de mapeo) posee un epipedón muy somero (aprox. 7 cm), arcilloso, con grietas y concreciones de arrastre en superficie.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Brasilera
+
+ER7-86C
+
+
+
+
+
+
+Nº de registro
+ 5329
+ 5330
+ 5331
+ 5332
+ 5333
+ 5334
+Horizonte
+ Ap
+ B21t
+ B22tca
+ B23tca
+ B3ca
+ Cca
+Profundidad (cm)
+ 00-16
+ 16-33
+ 33-74
+ 74-90
+ 90-107
+ 117+
+Mat.organica (%)
+ 4.71
+ 2.96
+ 1.28
+ 0.75
+ 0.23
+ 0.15
+N (%)
+ 0.21
+ 0.13
+ 0.06
+ 0.05
+ 0.03
+ 0.15
+C/N
+ 13
+ 13
+ 12
+ 10
+ 5
+ 5
+
+T < 2 μ
+
+ 46.40
+
+ 71.30
+
+ 62.31
+
+ 55.80
+
+ 53.50
+
+ 47.20
+E 2-20 μ
+ 23.60
+ 19.27
+ 18.20
+ 21.60
+ 39.90
+ 36.70
+X 2-50 μ
+ 51.80
+ 27.60
+ 36.90
+ 43.50
+ 46.00
+ 52.40
+T 50-100 μ
+ 1.40
+ 0.82
+ 0.65
+ 0.53
+ 0.44
+ 0.28
+U 100-500 μ
+ 0.43
+ 0.20
+ 0.16
+ 0.10
+ 0.05
+ 0.15
+R 500-1000 μ
+ 0.02
+ 0.04
+ 0.04
+ 0.03
+ 0.01
+ -
+A 1000-2000 μ
+ -
+ 0.04
+ -
+ 0.04
+ -
+ -
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ 2.2
+
+ 12.9
+
+ 10.3
+
+ 5.9
+
+ 5.1
+pH H2O
+ 6.7
+ 7.5
+ 7.9
+ 7.9
+ 7.8
+ 7.8
+pH ClK
+ 7.0
+ 7.8
+ 8.0
+ 8.0
+ 7.9
+ 7.8
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 43.70
+ 48.50
+ -
+ -
+ 45.40
+
+
+ 41.20
+ d Ca++
+ 37.80
+ 41.70
+ -
+ -
+ 42.10
+ 38.20
+C e
+
+
+
+
+
+
+Mg++
+ 2.90
+ 3.50
+ -
+ -
+ 2.00
+ 1.20
+t c
+
+
+
+
+
+
+i a K+
+ 0.95
+ 0.61
+ 0.39
+ 0.47
+ 0.36
+ 0.73
+o m
+
+
+
+
+
+
+n b Na+
+ 0.21
+ 0.43
+ 0.53
+ 0.43
+ 0.53
+ 0.75
+e i
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 39.29
+ 47.63
+ 46.58
+ 44.81
+ 42.35
+ 38.52
+

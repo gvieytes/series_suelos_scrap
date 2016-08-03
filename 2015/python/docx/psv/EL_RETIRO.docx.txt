@@ -1,0 +1,391 @@
+
+--------------------------------------------------------------------------------
+SERIE EL RETIRO Símbolo: Re
+
+
+Pertenece a la familia "limosa fina, mixta, térmica" de los Argiudoles ácuicos.
+Son suelos profundos, bien drenados, con un epipedón oscuro, franco-limoso, y un horizonte argílico franco-arcillo-limoso de color pardo, friable, con moteados de hierro y manganeso.
+El pedón se encuentra normalmente decalcificado hasta los 90-100 cm de profundidad.
+Son suelos desarrollados sobre loess calcáreo de textura franco-limosa.
+
+
+Perfil tipo: ER7-63C
+Fecha: 18-IV-1989
+Ubicación: Establecimiento "El Retiro" (foto H428-1) - Dpto. Diamante.
+Reconocedores: L.O. López; A.Etcheves.
+
+
+Ap: 00-22 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares médios, débiles; friáble en húmedo; barnices "humic skins" escasos, finos; concreciones de hierro-manganeso escasas, finas; límite claro, suave.
+
+B1: 22-31 cm; pardo gris a pardo muy oscuro (10YR 2.5/2) en húmedo; franco-arcillo-limoso liviano; estructura en bloques subangulares, médios, débiles que rompen en agregados granulares, finos, débiles; friable en húmedo; barnices "clay humic skins", abundantes, medios y "clay skins", escasos, finos; moteados de hierro y manganeso comunes, finos y precisos; chorreaduras de materia orgánica; pedotúbulos comunes; límite gradual, suave.
+
+B21t: 31-48 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subangulares y angulares, médios, débiles; friable en húmedo; barnices "humic skins", escasos, medios, "clay skins", abundantes, medios; moteados de hierro y manganeso comunes, finos y precisos; chorreaduras de materia orgánica; límite gradual, suave.
+
+B22t: 48-65 cm; pardo oscuro a pardo grisáceo muy oscuro (10YR 3/2.5) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares finos, débiles, que rompen en bloques subangulares y angulares medios, débiles; friable en húmedo; barnices "clay skins", abundantes, medios; moteados de hierro y manganeso comunes, finos y precisos; chorreaduras de materia orgánica; límite gradual, suave.
+
+B23t: 65-85 cm; pardo a pardo oscuro (10YR 3/3.5) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares medios, débiles; friable en húmedo; barnices "clay skins", abundantes, medios; moteados de hierro y manganeso comunes, medios y precisos; chorreaduras de materia orgánica; pedotúbulos comunes; límite claro, suave.
+
+B3: 85-105 cm; pardo (7.5YR 5/4) en húmedo; franco-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares medios, moderados; friable en húmedo; barnices "clay skins", escasos, finos; moteados de hierro y manganeso comunes, medios y precisos; límite difuso, suave.
+
+
+C: + 105 cm; pardo claro (7.5YR 6/4) en húmedo; franco-limoso; estructura masiva; muy friable en húmedo; moteados de hierro y manganeso escasos, finos y débiles; lentes de arena suelta, muy fina.
+
+
+Variabilidad de rasgos
+
+El solum varía de 90 a 110 cm. El epipedón mólico incluye los horizontes A1 y A3, o un B1. Su espesor supera normalmente los 25 cm. Su estructura varía de granular a bloques subangulares, y tiene entre 23-25 % de arcilla.
+
+El horizonte argílico, de estructura prismática débil, rompe en bloques angulares y subangulares débiles. Varía entre 30 y 65 cm de espesor, y posee entre 30 y 37 % de arcilla; comúnmente no presenta caras de fricción ("slickensides"), pero tiene moteados de hierro-manganeso desde la superficie.
+
+El calcáreo aparece normalmente a una profundidad mayor de 120 cm. El C tiene entre 17-22% de arcilla y puede contener hasta 10-12 % de arena muy fina. Su color es uniforme y varía de 7.5YR 5/4 a 6/4.
+
+
+Fases
+
+Moderadamente erosionada (símbolo: Re.h2)
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Alvear, pero ésta se encuentra en un paisaje distinto (peniplanicie disectada). El loess (que ha dado origen a ambas series) presenta, sin embargo, características morfológicas algo diferentes de las del loess de la peniplanicie alta sobre el cual se han desarrollado los Argiudoles más típicos de la provincia (series Tezanos Pinto y Costa Grande).
+
+
+Drenaje
+
+Bien drenado; escurrimiento superficial rápido. Permeabilidad moderada. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie El Retiro tiene una erosión hídrica actual leve. La susceptibilidad a la misma es leve a moderada. Un pequeño sector de la serie se encuentra moderadamente erosionado, localizándose geográficamente en los aledaños a las barrancas del Paraná.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Retiro
+
+ER7-63C
+
+
+
+
+
+
+
+N° de registro
+ 5.145
+ 5.146
+ 5.147
+ 5.148
+ 5.149
+ 5.150
+ 5.151
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B23t
+ B3
+ C
+Profundidad (cm)
+ 05-17
+ 23-30
+ 33-44
+ 50-63
+ 70-80
+ 88-100
+ 120-125
+Mat.organica (%)
+ 2.91
+ 2.12
+ 1.28
+ 0.96
+ 0.67
+ 0.51
+ 0.22
+N (%)
+ 0.13
+ 0.10
+ 0.09
+ 0.06
+ 0.04
+ 0.04
+ 0.03
+C/N
+ 13
+ 12
+ 7
+ 10
+ 8
+ 8
+ 5
+
+T < 2 u
+
+ 23.10
+
+ 34.60
+
+ 36.66
+
+ 30.02
+
+ 29.78
+
+ 25.13
+
+ 17.44
+E 2-20 u
+ 27.35
+ 22.78
+ 20.48
+ 24.93
+ 23.82
+ 26.35
+ 28.66
+X 2-50 u
+ 66.50
+ 56.47
+ 55.99
+ 59.95
+ 39.89
+ 61.32
+ 69.95
+T 50-100 u
+ 9.35
+ 8.15
+ 6.53
+ 9.14
+ 9.10
+ 12.25
+ 11.57
+U 100-500 u
+ 0.95
+ 0.73
+ 0.76
+ 0.84
+ 0.90
+ 1.21
+ 1.27
+R 500-1000 u
+ 0.10
+ 0.06
+ 0.07
+ 0.05
+ 0.11
+ 0.10
+ 0.09
+A
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+pH H2O
+ 6.4
+ 6.5
+ 6.5
+ 6.9
+ 6.9
+ 6.8
+ 6.8
+pH ClK
+ 5.3
+ 5.1
+ 5.2
+ 5.4
+ 5.4
+ 5.3
+ 5.5
+Conductividad eléctrica mmhos/cm
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+Capacidad de
+interc. catiónico
+(m.e./100 g) = valor T
+
+
+
+ 25.9
+
+
+
+ 29.3
+
+
+
+ 33.5
+
+
+
+ 30.0
+
+
+
+ 29.2
+
+
+
+ 26.1
+
+
+
+ 24.8
+
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 17.3
+ 21.8
+ 25.2
+ 24.3
+ 22.5
+ 20.0
+ 20.2
+C
+e
+
+
+
+
+
+
+
+
+a
+
+Mg++
+ 2.1
+ 3.2
+ 3.4
+ 2.1
+ 2.8
+ 2.2
+ 2.0
+t
+c
+
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.2
+ 1.2
+ 1.2
+ 0.9
+ 1.1
+ 0.9
+ 0.8
+o
+m
+
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.3
+ 0.3
+ 0.4
+ 0.3
+ 0.4
+ 0.3
+ 0.3
+e
+i
+
+
+
+
+
+
+
+
+S
+o
+H+
+ 3.6
+ 3.1
+ 3.1
+ 3.1
+ 2.8
+ 2.9
+ 1.4
+
+% Na/T
+ 1.16
+ 1.02
+ 1.19
+ 1.00
+ 1.37
+ 1.15
+ 1.21
+
+Equivalente de humedad (%)
+
+ 26.77
+
+ 31.87
+
+ 33.69
+
+ 29.49
+
+ 29.32
+
+ 26.96
+
+ 23.43
+Fósforo asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+

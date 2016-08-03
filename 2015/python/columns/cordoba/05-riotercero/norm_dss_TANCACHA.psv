@@ -1,0 +1,40 @@
+dss_TANCACHA.psv ->> ID..........................: 521
+dss_TANCACHA.psv ->> CLASIFICACION...............: Ustorthent típico
+dss_TANCACHA.psv ->> SERIE.......................: TANCACHA (Tanc)
+dss_TANCACHA.psv ->> UBICACION...................: 1,9 km de la localidad de Tancacha
+dss_TANCACHA.psv ->> PROVINCIA...................: CORDOBA
+dss_TANCACHA.psv ->> LATITUD.....................: S321400
+dss_TANCACHA.psv ->> LONGITUD....................: O635800
+dss_TANCACHA.psv ->> ALTITUD.....................: 348
+dss_TANCACHA.psv ->> PENDIENTE...................: FALTA!
+dss_TANCACHA.psv ->> DRENAJE.....................: FALTA!
+dss_TANCACHA.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_TANCACHA.psv ->> PERMEABILIDAD...............: FALTA!
+dss_TANCACHA.psv ->> TIPO DE SUELO...............: FRANCA GRUESA, MIXTA, TÉRMICA
+dss_TANCACHA.psv ->> COLOR ......................: PARDO OSCURO
+dss_TANCACHA.psv ->> HORIZONTE->NOMBRE(S)........: ap | a | ac | c | ck
+dss_TANCACHA.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-13 | 13-40 | 40-81 | 81-112 | 112a+
+dss_TANCACHA.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 0.98 | 0.88 | 0.42 | - | 
+dss_TANCACHA.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 0.58 | 0.52 | 0.25 | - | 
+dss_TANCACHA.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.08 | 0.07 | 0.05 | - | 
+dss_TANCACHA.psv ->> HORIZONTE->RELACIÓN C/N.....: 7.2 | 7.4 | 5.0 | - | 
+dss_TANCACHA.psv ->> HORIZONTE->ARCILLA 2 (%)....: 8.1 | 13.3 | 12.3 | 9.8 | 9.8
+dss_TANCACHA.psv ->> HORIZONTE->LIMO 2-50 (%)....: 29.8 | 36.7 | 40.1 | 44.2 | 42.5
+dss_TANCACHA.psv ->> HORIZONTE->AMF 50-100 (%)...: 7.6 | 6.4 | 7.8 | 8.5 | 8.6
+dss_TANCACHA.psv ->> HORIZONTE->AF 100-250 (%)...: 20.9 | 17.3 | 14.7 | 13.2 | 12.0
+dss_TANCACHA.psv ->> HORIZONTE->AM 250-500 (%)...: 16.1 | 11.8 | 8.3 | 8.0 | 8.0
+dss_TANCACHA.psv ->> HORIZONTE->AG 500-1000 (%)..: 13.0 | 12.3 | 12.4 | 12.3 | 13.5
+dss_TANCACHA.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 3.3 | 3.3 | 3.3 | 5.50 | 5.8
+dss_TANCACHA.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0 | 5.05
+dss_TANCACHA.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 15.7 | 15.4 | 15.1 | 14.7 | 12.4
+dss_TANCACHA.psv ->> HORIZONTE->PH PASTA.........: 5.4 | 6.1 | 6.6 | 7.2 | 7.9
+dss_TANCACHA.psv ->> HORIZONTE->PH H2O 1:2,5.....: 5.7 | 6.4 | 7.0 | 7.5 | 8.3
+dss_TANCACHA.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 5.5 | 7.8 | 7.8 | 7.5 | 
+dss_TANCACHA.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.9 | 1.4 | 1.3 | 0.7 | 
+dss_TANCACHA.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.2 | 0.1 | 0.1 | 0.1 | 0.2
+dss_TANCACHA.psv ->> HORIZONTE->CI ME/100G-K +...: 1.3 | 1.1 | 1.0 | 0.8 | 1.2
+dss_TANCACHA.psv ->> HORIZONTE->CI ME/100G-H +...: 1.2 | 0.9 | 0.4 | 0.3 | 
+dss_TANCACHA.psv ->> HORIZONTE->Na+ % DEL VALOR T: 2.2 | 0.9 | 1 | 1 | 2.1
+dss_TANCACHA.psv ->> HORIZONTE->SUM.B. ME/100G(S): 7.9 | 10.4 | 10.2 | 9.1 | 
+dss_TANCACHA.psv ->> HORIZONTE->CIC ME/100G(T)...: 9.2 | 11.5 | 10.8 | 9.4 | 9.1
+dss_TANCACHA.psv ->> HORIZONTE->SAT.B % (S/T)....: 86 | 90 | 94 | 97 | 

@@ -1,0 +1,264 @@
+
+--------------------------------------------------------------------------------
+SERIE MOREIRA						 	 Símbolo: Mo
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiacuoles vérticos (suelos gley-subhúmicos vertisólicos).
+
+Son suelos hidromórficos con características planosólicas y vertisólicas. Tienen horizontes superficiales lixiviados y subsuperficiales que se agrietan en épocas de sequía.
+
+Suelos desarrollados sobre sedimentos lacustres (Formación "Hernandarias").
+
+
+Perfil tipo: ER6-4C
+Fecha: 28-VII-72.
+Ubicación: Paso Gallo (foto IR177-35) - Dpto. Concordia.
+Reconocedores: H.A. Tasi; G.W. van Barneveld.
+
+
+A1: 00-15 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura granular y en bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic-skins") escasos, finos; moteados de hierro-manganeso, comunes, finos y débiles; concreciones de hierro-manganeso escasas a comunes; horizonte lixiviado; límite claro, suave.
+
+B21t: 15-45 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares con tendencia cuneiforme, medios, moderados; firme en húmedo; caras de fricción (`slickensides') comunes a abundantes, finas, intersectadas; moteados de hierro-manganeso, comunes, finos y débiles; concreciones de hierro-manganeso comunes a abundantes, de hasta 4 mm; límite gradual, suave.
+
+B22t: 45-74 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y bloques cuneiformes, medios, moderados; firme en húmedo; caras de fricción (`slickensides') comunes, finas, intersectadas; moteados de hierro-manganeso finos, débiles; concreciones de hierro-manganeso comunes a abundantes, de hasta 4 mm; límite claro a gradual, suave.
+
+B3ca: 74-95 cm; pardo muy oscuro (10YR 4/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares, medios a gruesos, débiles; firme en húmedo; caras de fricción (`slickensides') escasas, finas, no intersectadas; moteados de hierro-manganeso finos, precisos; concreciones de hierro-manganeso comunes; concreciones calcáreas comunes, de hasta 5 mm; límite gradual, suave.
+
+Cca(g): 95 cm+; pardo a pardo oscuro (7.5YR 4/4) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; concreciones de hierro-manganeso comunes, de hasta 3 mm; concreciones calcáreas comunes; horizonte semigleyzado.
+
+
+
+
+
+Variabilidad de rasgos
+
+Estos suelos presentan un epipedón generalmente lixiviado, cuyo espesor varía entre 15-20 cm; es de textura franco-limosa a franco-arcillo-limosa y estructura granular y de bloques subangulares. El horizonte argílico tiene estructura prismática compuesta que rompe en bloques angulares; la textura es arcillo-limosa; es denso y poco permeable, con moteados de hierro y manganeso.
+
+A los 70-75 cm de profundidad aparece el horizonte transicional B3 algo más claro que los suprayacentes, con estructura prismática, textura franco-arcillo-limosa y muchas concreciones calcáreas. Las concreciones ferromanganesíferas son abundantes y llegan a tener un diámetro de hasta 4 mm. Es notable en este horizonte el aumento considerable del sodio de intercambio.
+
+El material originario de estos suelos está constituido por limos calcáreos con muy poca arena, de textura franco-limosa, mezclado con materiales arcillosos negros que proviene de la superficie del suelo. Esta mezcla también es provocada por la actividad biológica, especialmente hormigas, que en algunos sectores es tan intensa que la mayoría de los perfiles se encuentran muy disturbados.
+
+
+Fases
+
+No tiene.
+
+
+Series similares y sus diferencias
+
+Se parece a la serie Garat, del departamento Feliciano (aunque con menos Na+ y el CO3Ca más profundo); también es parecida a la serie Gallo, del departamento Federal (pero la vegetación natural es diferente).
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado. Permeabilidad lenta, escurrimiento superficial muy lento a estancado. Napa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+No presenta erosión actual.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Moreira
+
+ER6-4C
+
+
+
+
+
+Nº de registro
+ 803
+ 804
+ 805
+ 806
+ 807
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca (g)
+Profundidad (cm)
+ 02-13
+ 21-28
+ 52-68
+ 79-89
+ 105-115
+Mat.organica (%)
+ 3.84
+ 1.86
+ 1.17
+ 0.40
+ 0.26
+N (%)
+ 0.22
+ 0.10
+ 0.07
+ 0.30
+ 0.03
+C/N
+ 10
+ 11
+ 10
+ 8
+ 7
+
+T <2
+ 25.20
+ 33.70
+ 41.80
+ 40.80
+ 35.60
+E 2-20
+ 36.70
+ 30.20
+ 32.00
+ 30.00
+ 31.10
+X 2-50
+ 73.90
+ 65.40
+ 57.20
+ 58.40
+ 63.70
+T 50-100
+ 0.40
+ 0.30
+ 0.30
+ 0.30
+ 0.30
+U 100-250
+ 0.30
+ 0.40
+ 0.40
+ 0.30
+ 0.30
+R 250-500
+ 0.20
+ 0.20
+ 0.30
+ 0.20
+ 0.10
+A 500-1000
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.4
+ 3.3
+ 2.0
+pH H2O
+ 5.4
+ 6.1
+ 7.4
+ 8.0
+ 7.7
+pH ClK
+ 4.8
+ 5.0
+ 6.1
+ 6.8
+ 6.4
+
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+Valor T
+
+ 23.40
+ 33.30
+ 37.20
+ 32.50
+ 31.50
+
+D
+Ca++
+ 16.00
+ 22.60
+ 0.00
+ 0.00
+ 0.00
+C
+E
+
+
+
+
+
+
+A
+
+Mg++
+ 2.30
+ 4.50
+ 0.00
+ 0.00
+ 0.00
+T
+C
+
+
+
+
+
+
+I
+A
+K+
+ 0.80
+ 0.70
+ 0.90
+ 0.70
+ 1.20
+O
+M
+
+
+
+
+
+
+N
+B
+Na+
+ 0.50
+ 1.00
+ 2.20
+ 6.00
+ 3.70
+E
+I
+
+
+
+
+
+
+S
+O
+H+
+ 5.3
+ 4.1
+ 0.00
+ 0.00
+ 0.00
+% Na/T
+ 2.14
+ 3.00
+ 5.91
+ 18.46
+ 11.75
+
+Equivalente de humedad (%)
+ 37.50
+ 41.80
+ 31.50
+ 47.20
+ 46.90
+

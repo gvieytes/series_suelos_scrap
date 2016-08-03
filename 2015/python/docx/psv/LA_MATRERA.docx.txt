@@ -1,0 +1,344 @@
+
+--------------------------------------------------------------------------------
+SERIE LA MATRERA Símbolo: LMa
+
+
+Pertenece a la familia "franca fina, mixta (?), térmica" de los Hapludoles fluvacuénticos.
+
+La serie La Matrera es un suelo aluvial fuertemente salino y sódico. Esta serie se ha desarrollado a partir de una sucesión de sedimentos marinos y continentales. La vegetación presente es arbustiva.
+
+
+Perfil tipo: 333C INTA Castelar
+Fecha: 22-III-1976
+Ubicación: 10 km al NO del Est. Forestal Mazaruca (Hoja IGM 3360-29-3) - Dpto. Islas del Ibicuy
+Reconocedores: R.G. Wermbter; D. Ramallo
+
+
+A11: 0-6 cm; pardo oscuro (10YR 3/4) en húmedo; franco; estructura granular; friable; ligeramente plástico, ligeramente adhesivo; moteados escasos, finos, débiles; raíces abundantes; límite inferior claro suave.
+
+A12: 6-23 cm; pardo oscuro (10YR 3/3) en húmedo; franco; estructura en bloques subangulares medios débiles que rompen en bloques menores; friable, ligeramente plástico; ligeramente adhesivo; microconcreciones calcáreas abundantes; moteados escasos, finos, débiles; raíces comunes; límite inferior claro ondulado.
+
+IIC1: 23-40 cm; negro (10YR 1,7/1) en húmedo; franco arcillo limoso; estructura en bloques subangulares medios moderados que rompen en bloques menores; ligeramente firme; ligeramente plástico, ligeramente adhesivo; microconcreciones calcáreas abundantes; concreciones ferromanganésicas comunes; barnices (clay -skins) escasos; moteados escasos, finos débiles; raíces escasas; límite inferior claro ondulado.
+
+IIIC2: 40-93 cm; pardo (10YR 4/4) en húmedo; franco; estructura en bloques subangulares medios moderados que rompen en bloques menores; ligeramente friable; ligeramente plástico; ligeramente adhesivo; microconcreciones calcáreas abundantes; concreciones ferromanganésicas abundantes; barnices (clay skins) escasos; moteados abundantes, medios, precisos; raíces escasas; límite inferior claro suave.
+
+IVC3: 93-110 cm; amarillo grisáceo oscuro (2,5Y 5/2) en húmedo; franco limoso; estructura en bloques subangulares medios a débiles que rompen en bloques menores; firme; plástico, adhesivo; microconcreciones calcáreas comunes; moteados escasos, medios, precisos; límite inferior abrupto suave.
+
+VC4: 110-126 cm; naranja amarillo opaco (10YR 6/4) en húmedo; arenoso; estructura laminar gruesa; muy friable; no plástico, no adhesivo; moteados escasos, medios, precisos; límite inferior abrupto suave.
+
+VIC5: 126-140 cm; pardo amarillento opaco (10YR 4/3) en húmedo; franco limoso; estructura en bloques subangulares medios moderados que rompen en bloques menores; ligeramente firme; plástico, adhesivo; microconcreciones calcáreas comunes.
+
+Variabilidad de rasgos
+
+Por su posición relativamente elevada dentro del paisaje, la unidad cartográfica donde se encuentra este suelo, se halla libre de aguas superficiales durante todo el año salvo en época de crecientes excepcionales.
+
+El horizonte superficial es de 23 cm de espesor, de color pardo oscuro, medianamente provisto de materia orgánica, franco y de estructura en bloques subangulares medios débiles. Sigue una sucesión de capas cuyas texturas oscilan entre el franco arcillo limoso y el arenoso.
+
+Las concreciones ferromanganésicas se encuentran en las dos primeras capas subsuperficiales al igual que las microconcreciones calcáreas, mientras que los moteados son precisos a partir de los 40 cm de profundidad.
+
+El perfil es salino desde la superficie, predominando los cloruros de sodio en el extracto de suelo saturado. El valor del PSI (Porcentaje de Sodio de Intercambio) supera el 30 % en todo el perfil alcanzando el 50 %. Por alcalinidad sódica fue clasificada como A1 33.
+
+
+Fases
+
+No presenta a escala 1:100.000.	
+
+
+Drenaje
+
+Es un suelo de permeabilidad moderadamente lenta y drenaje imperfecto.
+
+
+DATOS ANALITICOS DEL PERFIL TIPO
+
+Serie La Matrera
+
+333C INTA Castelar
+
+
+
+
+
+
+
+N° de registro
+
+
+
+
+
+
+
+Horizonte
+ A11
+ A12
+ IIC1
+ IIIC2
+ IVC3
+ VC4
+ VIC5
+Profundidad (cm)
+ 2-4
+ 10-20
+ 25-35
+ 50-80
+ 95-108
+ 114-122
+ 130-140
+Mat. orgánica (%)
+ 1.19
+ 1.05
+ 1.09
+ 0.17
+ -
+ -
+ -
+C (%)
+ 0.69
+ 0.61
+ 0.63
+ 0.10
+ -
+ -
+ -
+N (%)
+ 0.090
+ 0.088
+ 0.090
+ -
+ -
+ -
+ -
+C/N
+ 8
+ 7
+ 7
+ -
+ -
+ -
+ -
+
+T <2 u
+
+ 16.1
+
+ 18.6
+
+ 31.4
+
+ 16.8
+
+ 21.4
+
+ 4.7
+
+ 23.3
+E 2-20 u
+ 24.5
+ 31.8
+ 48.6
+ 22.9
+ 45.3
+ 1.5
+ 51.2
+X 2-50 u
+ 37.1
+ 46.4
+ 58.8
+ 38.0
+ 63.3
+ 2.6
+ 69.2
+T 50-74 u
+ 0.2
+ 0.6
+ 0.6
+ 0.8
+ 0.6
+ 0.1
+ 0.2
+U 74-100 u
+ 0.8
+ 0.5
+ 0.2
+ 0.3
+ 0.9
+ 0.4
+ 0.4
+R 100-250 u
+ 36.2
+ 25.3
+ 7.0
+ 31.1
+ 11.8
+ 73.8
+ 5.4
+A 250-500 u
+ 8.4
+ 8.3
+ 1.8
+ 12.8
+ 1.8
+ 18.0
+ 1.2
+ 500-1000 u
+ 1.2
+ 0.3
+ 0.1
+ 0.2
+ 0.1
+ 0.4
+ 0.1
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0
+ 0
+ 0.1
+ vest.
+ 0.1
+ vest.
+ 0.2
+Equivalente de humedad (%)
+ 20.0
+ 27.0
+ 45.5
+ 25.3
+ 29.4
+ 4.4
+ 31.3
+Resistencia de la pasta (Ohms/cm)
+ 356
+ 277
+ 185
+ 172
+ 110
+ 840
+ 113
+pH en pasta
+ 7.5
+ 7.1
+ 8.4
+ 8.4
+ 8.4
+ 8.2
+ 8.5
+pH en agua (1:2,5)
+ 8.4
+ 9.3
+ 9.1
+ 9.1
+ 9.1
+ 9.0
+ 8.9
+pH en KCl (1:2,5)
+ 6.6
+ 7.1
+ 7.2
+ 7.1
+ 6.5
+ 6.4
+ 6.4
+Conductividad (mmhos/cm)
+ 11.24
+ 14.53
+ 15.60
+ 22.78
+ 29.50
+ 6.83
+ 29.50
+
+Cationes de cambio (m.e./100 g)
+
+
+Ca[++]
+ 4.7
+ -
+ -
+ -
+ -
+ -
+ -
+
+Mg++
+ 1.8
+ -
+ -
+ -
+ -
+ -
+ -
+
+Na[+]
+ 4.0
+ -
+ -
+ -
+ -
+ 2.1
+ -
+
+K[+]
+ 0.9
+ -
+ -
+ -
+ -
+ 0.1
+ -
+
+H[+]
+ 1.0
+ -
+ -
+ -
+ -
+ -
+ -
+Na+ % del valor T
+ 34
+ -
+ -
+ -
+ -
+ 26
+ -
+Suma de bases, m.e./100 gr (S)
+ 11.4
+ -
+ -
+ -
+ -
+ 8.0
+ -
+C.I.C., m.e./100 gr (T)
+ 11.7
+ -
+ -
+ -
+ -
+ -
+ -
+Saturación con bases, (%) (S/T)
+ 97
+ -
+ -
+ -
+ -
+ -
+ -
+

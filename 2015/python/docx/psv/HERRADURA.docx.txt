@@ -1,0 +1,320 @@
+
+--------------------------------------------------------------------------------
+SERIE HERRADURA Símbolo: Her
+
+
+Pertenece a la familia "fina, montmorillonítica ligeramente alcalina, térmica" de los Argiudoles vérticos.
+Son suelos moderadamente bien drenados, con un epipedón oscuro, de textura franco-arcillo-limoso a franco-limoso y un horizonte argílico, pardo muy oscuro a pardo grisáceo muy oscuro, con moteados, caras de fricción y algunos perfiles presentan pequeños cristales de yeso (sulfato de calcio).
+Suelos desarrollados en materiales limos loessoides calcáreos, retransportados.
+
+
+Perfil tipo: ER1-48C
+Fecha: 10-IV-1973
+Ubicación: 4 km al noroeste del almacén "La Querencia". (foto IR 464-52). Dpto. La Paz.
+Reconocedores: O.A.Foti; G.W. van Barneveld.
+
+
+Ap: 00-15 cm; gris muy oscuro (10YR 3/1,5) en húmedo y pardo grisáceo (10YR 5/2) en seco; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic skins") escasos; limite claro, suave.
+
+B1: 15-28 cm; negro a gris muy oscuro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados que rompen en bloques subangulares irregulares, medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos; límite claro, suave.
+
+B21t: 28-51 cm; negro a gris muy oscuro (10YR 2,5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") comunes; caras de fricción ("slickensides") escasas, finas y poco intersectadas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+
+B22tca: 51-76 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; caras de fricción ("slickensides") escasas, medias y poco intersectadas; concreciones calcáreas escasas, menores a 1 mm; moteados de hierro-manganeso escasos, finos y precisos; límite gradual, suave.
+
+B31ca: 76-115 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles que rompen en bloques angulares irregulares, medios, moderados; friable en húmedo; caras de fricción ("slickensides") escasas, medias y poco intersectadas; concreciones calcáreas comunes, menores a 2 mm; escasos a comunes carbonatos libres en la masa; escasos cristales de yeso (sulfato de calcio); moteados de hierro-manganeso comunes, finos y precisos; materiales de horizontes superiores en las grietas; límite difuso, suave.
+
+B32ca: 115 cm +; pardo a pardo oscuro (7,5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, gruesos, débiles; friable en húmedo; concreciones calcáreas, comunes; comunes a abundantes carbonatos libres en la masa; concreciones ferromanganesíferas escasas a comunes; moteados de hierro-manganeso comunes, finos y precisos.
+
+
+Variabilidad de rasgos
+
+El solum varía entre 120 a 150 cm de profundidad. El epipedón mólico de 15-30 cm de espesor incluye un A1 y B1 (ocasionalmente un A1 y A3) es de color oscuro y de textura franco-arcillo-limoso.
+
+El horizonte argílico, con un espesor de 45-50 cm es de estructura prismática moderada, con caras de fricción ("slickensides") y con presencia de raíces aplastadas en las caras de los agregados.
+
+El calcáreo, en concreciones finas, aparece a partir de los 50-55 cm de profundidad.
+
+Algunos perfiles incluidos en ésta serie presentan pequeños cristales de yeso (sulfato de calcio) generalmente en el horizonte B3 (75-90 cm de profundidad) y también son algo alcalinos.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Herradura presenta erosión actual leve, pero tiene un grave peligro a la misma debida a la poca estabilidad de horizonte A1.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Herradura
+
+ER1-48C
+
+
+
+
+
+
+Nº de registro
+ 1046
+ 1047
+ 1048
+ 1049
+ 1050
+ 1051
+Horizonte
+ Ap
+ B1
+ B21t
+ B22tca
+ B31ca
+ B32ca
+Profundidad (cm)
+ 05-10
+ 16-26
+ 32-48
+ 56-66
+ 76-89
+ 120-150
+Mat.organica (%)
+ 4.33
+ 3.55
+ 2.60
+ 1.68
+ 0.74
+ 0.31
+N (%)
+ 0.23
+ 0.15
+ 0.11
+ 0.07
+ 0.04
+ 0.03
+C/N
+ 11
+ 14
+ 14
+ 13
+ 10
+ 7
+
+T
+
+ <2 u
+
+ 27.4
+
+ 31.7
+
+ 38.4
+
+ 40.2
+
+ 33.4
+
+ 32.3
+E
+ 2-20 u
+ 27.3
+ 29.6
+ 22.7
+ 15.8
+ 9.1
+ 10.1
+X
+ 2-50 u
+ 71.4
+ 66.8
+ 60.7
+ 58.5
+ 65.2
+ 67.1
+T
+ 50-100 u
+ 0.8
+ 1.0
+ 0.6
+ 0.9
+ 0.9
+ 0.4
+U
+ 100-500 u
+ 0.4
+ 0.5
+ 0.3
+ 0.4
+ 0.5
+ 0.2
+R
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 2.8
+ 9.3
+ 12.0
+pH H2O
+ 7.1
+ 6.9
+ 7.1
+ 7.7
+ 8.1
+ 8.2
+pH ClK
+ 6.2
+ 5.8
+ 5.9
+ 6.6
+ 6.8
+ 7.0
+
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+
+
+ 43.9
+
+
+ 39.9
+
+
+ 49.9
+
+
+ 46.9
+
+
+ 38.5
+
+
+ 35.8
+
+
+
+
+
+
+
+ d Ca ++
+ 40.1
+ 36.2
+ 43.0
+ -
+ -
+ -
+C e
+
+
+
+
+
+
+Mg++
+ 2.2
+ 1.7
+ 3.9
+ -
+ -
+ -
+t C
+
+
+
+
+
+
+i a K+
+ 1.1
+ 0.6
+ 1.0
+ 1.1
+ 1.0
+ 1.2
+o m
+
+
+
+
+
+
+n b Na+
+ 0.4
+ 0.6
+ 1.5
+ 1.9
+ 3.4
+ 3.4
+e i
+
+
+
+
+
+
+s o H+
+ -
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 0.9
+ 1.5
+ 3.0
+ 4.1
+ 8.8
+ 9.5
+
+Equivalente de humedad (%)
+
+ 40.4
+
+ 40.6
+
+ 52.4
+
+ 53.6
+
+ 50.0
+
+ 48.8
+P asimilable (ppm)
+ -
+ -
+ -
+ -
+ -
+ -
+

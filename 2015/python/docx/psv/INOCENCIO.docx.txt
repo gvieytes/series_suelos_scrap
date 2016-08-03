@@ -1,0 +1,370 @@
+
+--------------------------------------------------------------------------------
+SERIE INOCENCIO Símbolo: In
+
+
+Pertenece a la familia "fina, mixta fuertemente alcalina, térmica" de los Natracualfes típicos.
+Suelos imperfectamente drenados y moderado a fuertemente alcalinos en el subsuelo, con un epipedón somero, con colores claros, muy eluviado y degradado, franco-arcillo-limoso y un horizonte B2 arcillo-limoso, con calcáreo entre los 10-25 cm y presencia de cristales de yeso en el B2 y B3.
+
+
+Perfil tipo: ER1-28C
+Fecha: 30-VI-1971
+Ubicación: Area Muestra San Carlos (foto IR 470-36) Dpto. La Paz.
+Reconocedores: O.A.Foti; G.W. van Barneveld.
+
+
+A1: 00-15 cm; gris muy oscuro (10YR 3/1) en húmedo y gris a gris claro (10YR 6/1) en seco; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, débiles, con tendencia a masiva; friable a firme en húmedo; concreciones calcáreas, escasas, finas; horizonte muy eluviado; límite claro, suave.
+
+B21cacs: 15-34 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios y finos, moderados, que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; barnices ("clay-humic skins") escasos, finos; caras de fricción ("slickensides") muy escasas, finas; escasos a moderados carbonatos libres en la masa; concreciones calcáreas escasas, finas; cristales de yeso comunes, finos; límite gradual, suave.
+
+B22cacs: 34-55 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; friable a firme en húmedo; barnices ("clay-humic skins") muy escasos y finos; caras de fricción ("slickensides") muy escasas, finas; moderados carbonatos libres en la masa; concreciones calcáreas comunes, finas; cristales y rosetas de yeso abundantes; límite gradual, suave.
+
+B3cacs: 55-95 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, débiles; friable en húmedo; moderados carbonatos libres en la masa; concreciones calcáreas comunes, finas; cristales y rosetas de yeso abundantes; límite difuso, suave.
+
+Ccacs: 95 cm +; pardo a pardo oscuro (10YR 4/3) en húmedo; franco-arcillo-limoso; masivo; friable en húmedo; moderados carbonatos libres en la masa; concreciones calcáreas comunes; cristales de yeso comunes.
+
+
+Variabilidad de rasgos
+
+Está determinada principalmente por la actividad de las hormigas (especies Atta vollenweideri y Acromyrmex lundi), cuya influencia se observa en más del 70 % de los perfiles. Las mismas originan un microrelieve que fácilmente puede ser interpretado como gilgai irregular.
+
+El epipedón varía normalmente de 07-15 cm y en la mayoría de los casos puede ser descripto como un A1 fuertemente eluviado, pero a veces también como un A2, con algo de limo suelto en superficie y colores claros. Generalmente tiene estructura en bloques débiles con tendencia a masiva, en potreros con mucho pisoteo, y con un 2-3 % de materia orgánica, en parte dispersa y otra poco descompuesta. Tiene 35-40 % de arcilla y es leve a moderadamente alcalino.
+
+El horizonte B2 presenta pocas características vérticas (las caras de fricción son muy escasas y no se agrieta mayormente) y a pesar que los barnices no son abundantes, son suficientes para cumplir con las exigencias de un argílico. Tiene entre 45-55 % de arcilla y es fuertemente alcalino con 40-50 % de sodio de intercambio.
+
+El calcáreo, en forma de miscelios o como concreciones duras, comunes a abundantes, de hasta 3 cm, aparece a los 10-25 cm o a veces desde la superficie.
+
+Una característica común de la serie es la presencia de yeso en el B2 y B3 en forma de cristales y/o rosetas, comunes a abundantes, con un contenido de sulfato de calcio de hasta 7,7 %.
+
+El material originario varía en su color de 10YR 4/3 a 7,5YR 6/4; tiene 35-40 % de arcilla y es fuertemente alcalino con 25-40 % de sodio de intercambio.
+
+Los perfiles suelen ser, además, leve a moderadamente salinos a partir de los 10-15 cm de profundidad, con una conductibilidad eléctrica de 6-7mmohs/cm.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Imperfectamente drenado, con encharcamiento después de la mayoría de las lluvias. Escurrimiento superficial lento. Permeabilidad lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Inocencio no está erosionada, pero existe moderado a severo peligro de erosión en las pendiente largas muy suavemente onduladas.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Inocencio
+
+ER1-28C
+Nº de registro
+ 444
+ 445
+ 446
+ 447
+ 448
+Horizonte
+ A1
+ B21cacs
+ B22cacs
+ B3cacs
+ Ccacs
+Profundidad (cm)
+ 00-14
+ 17-29
+ 36-49
+ 62-77
+ 130-150
+Materia orgánica (%)
+ 2.6
+ 2.4
+ 1.4
+ 0.3
+ 0.2
+N (%)
+ 0.16
+ 0.10
+ 0.06
+ 0.03
+ ND
+C/N
+ 10
+ 14
+ 14
+ 7
+ ND
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 40.0
+ -
+ -
+ -
+ -
+E
+ 2-20 u
+ 28.0
+ -
+ -
+ -
+ -
+X
+ 2-50 u
+ 57.9
+ -
+ -
+ -
+ -
+T
+ 50-100 u
+ 0.9
+ 0.4
+ 0.7
+ 0.8
+ 0.6
+U
+ 100-250 u
+ 0.8
+ 0.4
+ 1.0
+ 0.9
+ 0.7
+R
+ 250-500 u
+ 0.4
+ 0.3
+ 1.2
+ 1.1
+ 0.4
+A
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 1.6
+ 4.1
+ 5.4
+ 8.3
+ 7.0
+Ph H2O
+ 8.2
+ 8.0
+ 8.1
+ 8.1
+ 8.3
+PH ClK
+ 7.2
+ 7.3
+ 7.2
+ 7.4
+ 7.2
+C.E.(mmhos/cm)
+ 0.9
+ 6.3
+ 7.2
+ 7.3
+ 5.4
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+Valor T
+
+
+ 38.4
+ 50.1
+ 44.6
+ 40.3
+ 41.0
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ -
+ -
+ -
+ -
+ -
+C
+e
+
+
+
+
+
+
+A
+
+Mg++
+ -
+ -
+ -
+ -
+ -
+T
+c
+
+
+
+
+
+
+I
+a
+K+
+ 1.0
+ 0.8
+ 0.7
+ 0.7
+ 0.8
+O
+m
+
+
+
+
+
+
+N
+b
+Na+
+ 5.6
+ 21.3
+ 22.7
+ 20.6
+ 13.5
+E
+i
+
+
+
+
+
+
+S
+o
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 14.6
+ 42.5
+ 50.9
+ 51.1
+ 32.9
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 45.2
+ 55.3
+ 50.7
+ 46.2
+ 55.9
+
+Fósforo asimilable (ppm)
+ -
+ 1.7
+ 7.7
+ 3.0
+ 0.2
+
+
+
+
+
+
+
+SALINIDAD DISCRIMINADA
+
+
+Nº de registro
+ 444
+ 445
+ 446
+ 447
+ 448
+Horizonte
+ A1
+ B21cacs
+ B22cacs
+ B3cacs
+ Ccacs
+Cloruros (me/l)
+ 9.4
+ 11.5
+ 12.2
+ -
+ 10.1
+Sulfatos
+ 58.4
+ 67.0
+ 69.2
+ -
+ 47.0
+Carbonatos
+ 0
+ 0
+ 0
+ -
+ 0
+Bicarbonatos
+ 3.2
+ 2.1
+ 1.7
+ -
+ 1.6
+TOTAL ANIONES
+ 71.0
+ 80.6
+ 83.1
+ -
+ 58.7
+────────────────────────────────────────────────────────
+Calcio (me/l)
+ 34.4
+ 16.0
+ 15.6
+ -
+ 10.0
+Magnesio
+ 8.8
+ 3.6
+ 4.8
+ -
+ 2.6
+Sodio
+ 28.5
+ 70.5
+ 71.5
+ -
+ 56.0
+Potasio
+ 0.2
+ 0.2
+ 0.2
+ -
+ 0.4
+TOTAL CATIONES
+ 71.9
+ 90.3
+ 92.1
+ -
+ 69.0
+────────────────────────────────────────────────────────

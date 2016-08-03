@@ -1,0 +1,40 @@
+dss_hernando.psv ->> ID..........................: 606
+dss_hernando.psv ->> CLASIFICACION...............: Argiustol típico
+dss_hernando.psv ->> SERIE.......................: HERNANDO (Hrnnd)
+dss_hernando.psv ->> UBICACION...................: 14,6 Km al NW de la localidad homónima, departamento Tercero Arriba
+dss_hernando.psv ->> PROVINCIA...................: CORDOBA
+dss_hernando.psv ->> LATITUD.....................: S330700
+dss_hernando.psv ->> LONGITUD....................: O615100
+dss_hernando.psv ->> ALTITUD.....................: 99
+dss_hernando.psv ->> PENDIENTE...................: FALTA!
+dss_hernando.psv ->> DRENAJE.....................: FALTA!
+dss_hernando.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_hernando.psv ->> PERMEABILIDAD...............: FALTA!
+dss_hernando.psv ->> TIPO DE SUELO...............: FRANCO LIMOSA
+dss_hernando.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_hernando.psv ->> HORIZONTE->NOMBRE(S)........: a1 | b2t | b3 | cca
+dss_hernando.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-27 | 27-54 | 54-82 | 82a+
+dss_hernando.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2.41 | 0.86 | 0.51 | 
+dss_hernando.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1.4 | 0.5 | 0.3 | 
+dss_hernando.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0.15 | 0.06 | - | 
+dss_hernando.psv ->> HORIZONTE->RELACIÓN C/N.....: 9.3 | 8.3 | - | 
+dss_hernando.psv ->> HORIZONTE->ARCILLA 2 (%)....: 15.2 | 21.7 | 17.7 | 14.6
+dss_hernando.psv ->> HORIZONTE->LIMO 2-50 (%)....: 71.6 | 61.5 | 61.6 | 64.3
+dss_hernando.psv ->> HORIZONTE->AMF 50-100 (%)...: 12.8 | 16.6 | 19.1 | 17.1
+dss_hernando.psv ->> HORIZONTE->AF 100-250 (%)...: 0.9 | 0.7 | 1.7 | 2.7
+dss_hernando.psv ->> HORIZONTE->AM 250-500 (%)...: 0.2 | 0.3 | 0.3 | 0.3
+dss_hernando.psv ->> HORIZONTE->AG 500-1000 (%)..: 0.3 | 0.4 | 0.6 | 0.4
+dss_hernando.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | 0.2
+dss_hernando.psv ->> HORIZONTE->CaCO 3 (%).......: 0 | 0 | 0 | 5.4
+dss_hernando.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24.4 | 19.9 | 18.3 | 18.1
+dss_hernando.psv ->> HORIZONTE->PH PASTA.........: 5.8 | 6.8 | 7.0 | 8.0
+dss_hernando.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6.0 | 7.0 | 7.3 | 8.3
+dss_hernando.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 10.2 | 13.1 | 12.9 | 
+dss_hernando.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 0.7 | 1.0 | 1.2 | 
+dss_hernando.psv ->> HORIZONTE->CI ME/100G-Na +..: 0.1 | 0.1 | 0.2 | 0.2
+dss_hernando.psv ->> HORIZONTE->CI ME/100G-K +...: 2.4 | 1.7 | 1.0 | 1.8
+dss_hernando.psv ->> HORIZONTE->CI ME/100G-H +...: 2.7 | 0.7 | 0.4 | 
+dss_hernando.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | - | - | 
+dss_hernando.psv ->> HORIZONTE->SUM.B. ME/100G(S): 13.4 | 15.7 | 15.3 | 
+dss_hernando.psv ->> HORIZONTE->CIC ME/100G(T)...: 16.0 | 16.5 | 15.6 | 12.0
+dss_hernando.psv ->> HORIZONTE->SAT.B % (S/T)....: 84 | 95 | 98 | 

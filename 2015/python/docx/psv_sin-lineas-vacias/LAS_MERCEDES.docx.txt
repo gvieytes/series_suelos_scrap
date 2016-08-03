@@ -1,0 +1,188 @@
+--------------------------------------------------------------------------------
+SERIE LAS MERCEDES Símbolo: LMc
+Pertenece a la familia "fina, montmorillonítica, levemente alcalina, térmica" de los Peludertes árgicos crómicos (Vertisol sin gilgai y con un B2 textural de colores pardo oscuros).
+Raras veces muestra microrrelieve gilgai; cuando esto ocurre el gilgai está poco desarrollado y se observa muy tenuemente en la fotografía aérea.
+Tienen un epipedón franco-arcillo-limoso, bien estructurado por el "self-mulching" y un horizonte B2 argílico, arcillo-limoso, con concreciones de calcáreo que aparecen entre los 50-60 cm.
+Son suelos poco profundos y moderadamente erosionados, desarrollados en limos calcáreos, franco-arcillo-limosos a arcillo-limosos, sobre "tosca" calcárea a poca profundidad (que, en parte, aflora algunas veces en superficie).
+Perfil tipo: ER7-71C
+Fecha: 6-VI-1989.
+Localización: Est. "Don Alfredo" (foto 434-93) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+Ap: 00-16 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares y bloques angulares irregulares, medios, moderados a fuertes; duro en seco; friable en húmedo; barnices "clay humic skins" abundantes, medios; moteados de hierro comunes, finos y precisos; limite abrupto, suave.
+B21t: 16-30 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, fuertes, que rompen en bloques subangulares irregulares y bloques cuneiformes, medios, moderados; extremadamente duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, finas, intersectadas; moteados de hierro comunes, medios y precisos; raíces aplastadas; límite gradual, suave.
+B22t: 30-53 cm; pardo grisáceo muy oscuro (10YR 2.5/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, fuertes, que rompen en prismas compuestos irregulares, medios, fuertes; extremadamente duro en seco; firme en húmedo; barnices "clay humic skins" escasos, finos; caras de fricción ("slickensides") abundantes, finas, intersectadas; raíces aplastadas; límite abrupto, suave.
+B3ca: 53-72 cm; pardo (7.5YR 5/4) en un 60 %, y pardo oscuro (7.5YR 4/2) en un 40 % en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares, medios, fuertes; duro en seco; friable en húmedo; barnices "clay skins", abundantes, medios; caras de fricción ("slickensides") abundantes, finas, intersectadas; moteados de hierro comunes, medios y precisos; abundante cantidad de carbonatos libres en la masa; abundantes concreciones calcáreas; raíces aplastadas; límite gradual, suave.
+IIC(r): 72 + cm; pardo fuerte (7.5YR 5/5) en húmedo; franco-limoso; estructura masiva; moteados de manganeso ("dendritas") abundantes; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas abundantes de hasta 6 cm; banco calcáreo, pulverulento.
+Variabilidad de rasgos
+El solum varía entre 50 y 110 cm de espesor. Tan amplia variabilidad está determinada principalmente por tres procesos: el relieve, el movimiento en masa y la erosión. En sectores plano-cóncavos (principalmente en las partes medias de las subcuencas) se han desarrollados polipedones que, por sus características, se podrían clasificar como Peludertes argiudólicos pues presentan un epipedón profundo (hasta 30 cm) y bien estructurado, y un B2 textural con caras de fricción ("slickensides") gruesas y no intersectadas. A los fines de uso y manejo estos perfiles se han englobado en la misma serie ya que su variabilidad espacial es difícil de delimitar y no se justifica por su escasa representatividad.
+El epipedón normalmente posee un espesor de 10-25 cm, con un porcentaje de arcilla que varía entre 30 y 42 %, y está compuesto por un horizonte A1 que, a veces, es seguido por un B1 somero (8 cm). Es de colores oscuros y la estructura es de bloques pequeños, o granular a migajosa (por el self-mulching o "autoestructuración").
+El argílico, cuyo espesor varía entre 35-55 cm, con un porcentaje de arcilla que oscila entre 45-50 %, está mejor expresado en el subhorizonte B21t. Su estructura generalmente es de prismas compuestos que rompen en bloques cuneiformes, aunque puede presentar bloques angulares, y posee abundantes caras de fricción ("slickensides") finas e intersectadas; cuando seco, presenta grietas que normalmente llegan hasta la base del epipedón o a la superficie cuando la erosión es más severa.
+El movimiento en masa permite que el microrrelieve gilgai se haga más evidente en las pendientes bajas en donde la erosión no es tan intensa. En las lomas altas el proceso erosivo (eminentemente natural pero acelerado por la labranza) ha decapitado muchos de los perfiles y, en algunos casos, ha dejado expuesto el material calcáreo consolidado ("tosca") el cual, afectado por el agua de escorrentía, es redisuelto y transportado pendiente abajo (rodados calcáreos de arrastre).
+El banco calcáreo aparece en el perfil a profundidades variables, según los factores arriba expuestos; la génesis de este material geológico (edad pliocena-pleistocena) parece estar asociada a la formación (elevación) de la peniplanicie entrerriana, manteniendo un nivel uniforme sobre el nivel del mar (aprox. 37 a 43 metros). Este estrato (consolidado unas veces, friable y pulvurulento otras) es de una textura muy variable entre franco-arenosa a arcillosa, fosilífero en su parte inferior -marina- y con aspecto loessiforme o tobásico en sus formaciones superiores. Este material ha sido interpretado por algunos autores como un antiguo horizonte petrocálcico que pertenecería a un antiguo perfil, truncado, sobre el cual los limos calcáreos se habrían depositado. Ante la falta de otros elementos de juicio para confirmar su génesis, se ha preferido -a los fines del levantamiento de suelos- considerar a este material como de origen geológico, hasta tanto posteriores estudios evidencien lo contrario.
+Fases
+No se han distinguido fases a la escala de reconocimiento (1:100.000).
+Series similares y sus diferencias
+Se parece a la Serie Febré (que tiene un solum más profundo y no presenta "tosca" calcárea en el perfil) y a la Serie Brasilera (pero ésta tiene un B2t de colores más claros); además, ambas series están desarrolladas en paisajes distintos.
+Drenaje
+Moderada a imperfectamente drenado; escurrimiento superficial algo rápido. Permeabilidad lenta a muy lenta. Napa freática profunda. Grupo hidrológico D.
+Erosión
+La mayoría de los suelos de la Serie Las Mercedes están moderadamente erosionados, en forma laminar y en surcos que por el laboreo han desaparecido, y poseen un moderado a peligro a la erosión severa por surcos y cárcavas. Estos suelos evidencian aún la gran dinámica de erosión del paisaje (o "geológica"), que los hace propensos a la formación de cárcavas retrogradantes profundas siguiendo el entallado de los arroyos y cañadas que drenan hacia el Río Paraná (unidades CR del mapa de suelos).
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Las Mercedes
+ER7-71C
+Nº de registro
+ 5225
+ 5226
+ 5227
+ 5228
+ 5229
+Horizonte
+ Ap
+ B21t
+ B22t
+ B3ca
+ CR
+Profundidad (cm)
+ 04-12
+ 20-30
+ 35-50
+ 60-70
+ 80-120
+Mat.organica (%)
+ 4.95
+ 3.23
+ 2.60
+ 0.91
+ 0.22
+N (%)
+ 0.03
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+C/N
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+T
+ <2 u
+ 42.24
+ 48.70
+ 47.86
+ 43.53
+ 12.04
+E
+ 2-20 u
+ 23.92
+ 20.11
+ 19.46
+ 22.64
+ 29.78
+X
+ 2-50 u
+ 52.70
+ 46.20
+ 45.60
+ 53.80
+ -
+T
+ 50-100 u
+ 4.12
+ 4.37
+ 5.80
+ 2.30
+ -
+U
+ 100-500 u
+ 0.88
+ 0.66
+ 0.77
+ 0.38
+ -
+R
+ 500-1000 u
+ 0.07
+ 0.05
+ 0.05
+ 0.03
+ -
+A
+CO3Ca (%)
+ -
+ -
+ -
+ 13.0
+ 5.4
+pH H2O
+ 6.8
+ 6.7
+ 7.1
+ 8.3
+ 8.3
+pH ClK
+ 5.5
+ 5.3
+ 5.8
+ 7.0
+ 6.8
+Capacidad de intercambio catiónico (m.e./100 g) =
+Valor T
+ 39.80
+ 43.90
+ 41.30
+ N.D.
+ N.D.
+ d Ca ++
+ 31.70
+ 37.60
+ 35.40
+ -
+ -
+C e
+Mg++
+ 3.40
+ 3.10
+ 2.80
+ -
+ -
+t C
+i a K+
+ 0.82
+ 0.65
+ 0.58
+ 0.61
+ 0.68
+o m
+n b Na+
+ 0.69
+ 0.57
+ 0.92
+ 1.03
+ 1.15
+e i
+s o H+
+ 1.40
+ 0.90
+ 0.90
+ -
+ -
+% Na/T
+ 1.73
+ 1.30
+ 2.23
+ -
+ -
+Equivalente de humedad (%)
+ -
+ -
+ -
+ -
+ -
+Fósforo asimilable ppm
+ -
+ -
+ -
+ -
+ -

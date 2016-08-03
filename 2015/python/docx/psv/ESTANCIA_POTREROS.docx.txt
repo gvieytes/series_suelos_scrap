@@ -1,0 +1,362 @@
+
+--------------------------------------------------------------------------------
+SERIE ESTANCIA POTREROS Símbolo: EPot
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes argiudólicos.
+Son suelos profundos, arcillosos, con buen epipedón, presencia de microrelieve gilgai y arena, finos y gruesos, en todo el perfil. Están moderadamente bien drenados y moderadamente erosionados.
+
+
+Perfil tipo: ER1-127C
+Fecha: 04-X-2002
+Ubicación: Ea. La Celmira. (foto IR 110-42). Dto. Costa Uruguay Norte. Dpto. Gualeguaychú
+Reconocedores: O.A. Foti, R.H. Fuentes.
+
+
+A11: 00-11 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares medios, moderados; duro en seco, firme en húmedo; barnices ("humic skins") comunes; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+A12: 11-24 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares medios, moderados; duro en seco; firme en húmedo; barnices ("humic skins") abundantes; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+B21t: 24-50 cm; negro (10YR 2,5/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques angulares irregulares medios, moderados; duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, finas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+
+B22t: 50-90 cm; gris muy oscuro (10YR 3/1) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques cuneiformes medios, fuertes; muy duro en seco, firme en húmedo; caras de fricción ("slickensides") abundantes, gruesa e intersectadas; escasos carbonatos libres en la masa; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+
+B3ca: 90-110 cm; gris muy oscuro (10YR 3/1) en húmedo; arcilloso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares y cuneiformes, medios, moderado duro en seco, firme en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") abundantes, gruesas; concreciones calcáreas escasas, finas; abundantes carbonatos libres en la masa; moteados de hierro-manganeso escasos, finos y precisos; límite difuso, suave.
+
+Cca: 110 cm +; pardo grisáceo oscuro (10YR 4/2) en húmedo; arcilloso; estructura en bloques angulares irregulares y cuneiformes, medios, débiles; duro en seco, firme en húmedo; caras de fricción ("slickensides") comunes; concreciones calcáreas abundantes; abundantes carbonatos libres en la masa; moteados de hierro-manganeso comunes, medios y precisos.
+
+
+
+
+Variabilidad de rasgos
+
+La serie tiene un buen epipedón, profundo, formado por un A11 y A12 de 25-30 cm de espesor, con buena estructuración y bien provisto de materia orgánica (5-6 %).
+
+El horizonte B2t denso, poco permeable y penetrable por las raíces y con abundantes caras de fricción, gruesas e interceptadas. El porcentaje de arcilla varía entre 47-49 %.
+
+El horizonte B3 está caracterizado por abundantes caras de fricción, concreciones calcáreas y carbonatos libres en la masa, a partir de los 90 cm de profundidad.
+
+Presencia de arena, fina y gruesa en todo el perfil, aumentando algo en profundidad.
+
+
+Fases
+
+Se determinó a nivel de reconocimiento una fase por erosión moderada. (EPot.h2).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+La serie Estancia Potreros presenta erosión moderada, especialmente en los sectores altos del relieve y tiene una moderada susceptibilidad a la misma.
+
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Estancia Potreros
+
+ER1-127C
+
+
+
+
+
+
+N° de registro
+ 10744
+ 10745
+ 10746
+ 10747
+ 10748
+ 10749
+Horizonte
+ A11
+ A12
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm
+ 02-10
+ 13-20
+ 26-45
+ 55-85
+ 94-105
+ 130-145
+Mat.organica (%)
+ 6.85
+ 4.90
+ 2.90
+ 1.74
+ 0.97
+ 0.37
+N (%)
+ 0.21
+ 0.17
+ 0.11
+ 0.07
+ 0.04
+ 0.04
+C/N
+ 13
+ 12
+ 11
+ 11
+ 10
+ 5
+
+T <2
+
+ 36.81
+
+ 37.01
+
+ 49.02
+
+ 47.02
+
+ 42.50
+
+ 41.91
+E 2-20
+ 30.58
+ 30.01
+ 25.95
+ 26.99
+ 23.51
+ 20.02
+X 2-50
+ 59.77
+ 57.00
+ 46.83
+ 48.11
+ 37.18
+ 26.49
+T 50-100
+ 0.93
+ 0.84
+ 0.70
+ 0.67
+ 4.42
+ 5.26
+U 100-250
+ 2.37
+ 4.99
+ 3.43
+ 3.48
+ 14.53
+ 23.07
+R 250-500
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.12
+ 0.16
+ 0.02
+ 0.50
+ 0.87
+ 2.12
+ 1000-2000
+ -
+ -
+ -
+ 0.22
+ 0.50
+ 1.15
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 6.16
+
+ 9.16
+PH H2O
+ 6.6
+ 7.0
+ 6.9
+ 8.2
+ 8.6
+ 8.7
+PH ClK
+ 5.8
+ 6.1
+ 5.7
+ 7.0
+ 7.2
+ 7.3
+Conductividad eléctrica (mmhos/cm)
+
+ 90.20
+
+ 214.00
+
+ 168.80
+
+ 185.20
+
+ 185.80
+
+ 195.40
+Capacidad de intercambio catiónico (cmol(c)kg-1) =
+ Valor T
+
+
+
+ 36.22
+
+
+
+ 37.88
+
+
+
+ 40.94
+
+
+
+ 44.90
+
+
+
+ 39.51
+
+
+
+ 36.37
+
+D
+Ca++
+ 22.46
+ 23.70
+ 24.45
+ 30.37
+ 25.45
+ 23.75
+C
+E
+
+
+
+
+
+
+
+A
+
+Mg++
+ 5.06
+ 5.52
+ 7.03
+ 7.42
+ 5.85
+ 4.70
+T
+C
+
+
+
+
+
+
+
+I
+A
+K+
+ 1.16
+ 0.83
+ 0.64
+ 0.59
+ 0.34
+ 0.35
+O
+M
+
+
+
+
+
+
+
+N
+B
+Na+
+ 0.38
+ 0.42
+ 0.53
+ 0.78
+ 0.33
+ 0.31
+E
+I
+
+
+
+
+
+
+
+S
+O
+H+
+ 7.17
+ 7.40
+ 8.53
+ 5.73
+ 7.53
+ 7.26
+
+% Na/T
+
+
+
+
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+
+ 35.65
+
+ 37.84
+
+ 47.62
+
+ 46.10
+
+ 44.69
+
+ 44.91
+
+P disponible (ppm)
+
+ 16.90
+
+ 9.20
+
+ 4.90
+
+ 4.60
+
+ 4.30
+
+ 3.80
+

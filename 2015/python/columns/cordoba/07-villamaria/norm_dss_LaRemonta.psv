@@ -1,0 +1,41 @@
+dss_LaRemonta.psv ->> ID..........................: 717
+dss_LaRemonta.psv ->> CLASIFICACION...............: Natralbol típico
+dss_LaRemonta.psv ->> SERIE.......................: LA REMONTA (Rmnt)
+dss_LaRemonta.psv ->> UBICACION...................: 5,5 km al este de Ordoñez
+dss_LaRemonta.psv ->> PROVINCIA...................: CORDOBA
+dss_LaRemonta.psv ->> LATITUD.....................: S325100
+dss_LaRemonta.psv ->> LONGITUD....................: O624800
+dss_LaRemonta.psv ->> ALTITUD.....................: 127,5
+dss_LaRemonta.psv ->> PENDIENTE...................: FALTA!
+dss_LaRemonta.psv ->> DRENAJE.....................: FALTA!
+dss_LaRemonta.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LaRemonta.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LaRemonta.psv ->> TIPO DE SUELO...............: FRANCA FINA A GRUESA, MIXTA, TÉRMICA
+dss_LaRemonta.psv ->> COLOR ......................: PARDO GRISÁCEO MUY OSCURO
+dss_LaRemonta.psv ->> HORIZONTE->NOMBRE(S)........: ap | e | bt | bcz1 | bck2 | ck
+dss_LaRemonta.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-14 | 14-22 | 22-46 | 46-66 | 66-100 | 100a+
+dss_LaRemonta.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,59 | 1,56 | 0,77 | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,51 | 0,91 | 0,45 | 0,19 | 0,11 | 0,07
+dss_LaRemonta.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,14 | 0,10 | 0,07 | 0,05 | 0,04 | 0,03
+dss_LaRemonta.psv ->> HORIZONTE->RELACIÓN C/N.....: 10 | 9 | 6 | 4 | 3 | 2
+dss_LaRemonta.psv ->> HORIZONTE->ARCILLA 2 (%)....: 23,4 | 20,9 | 29,6 | 21,6 | 16,2 | 14,4
+dss_LaRemonta.psv ->> HORIZONTE->LIMO 2-50 (%)....: 51,8 | 53,2 | 53,0 | 47,3 | 48,0 | 53,3
+dss_LaRemonta.psv ->> HORIZONTE->AMF 50-100 (%)...: 18,5 | 24,8 | 16,5 | 29,8 | 28,8 | 26,6
+dss_LaRemonta.psv ->> HORIZONTE->AF 100-250 (%)...: 6,3 | 1,2 | 0,9 | 1,1 | 1,4 | 2,0
+dss_LaRemonta.psv ->> HORIZONTE->AM 250-500 (%)...: - | - | - | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->AG 500-1000 (%)..: - | - | - | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->AMG 1-2 mm (%)...: - | - | - | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 0 | 0,2 | 5,6 | 3,7
+dss_LaRemonta.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 24,2 | 24,5 | 29,1 | 24,5 | 21,2 | 21,1
+dss_LaRemonta.psv ->> HORIZONTE->PH PASTA.........: 5,9 | 6,6 | 7,2 | 7,7 | 8,0 | 9,0
+dss_LaRemonta.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,6 | 7,7 | 7,5 | 8,3 | 8,7 | 9,0
+dss_LaRemonta.psv ->> HORIZONTE->CI ME/100G-Ca ++.: 9,4 | 10,2 | 12,1 | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->CI ME/100G-Mg ++.: 4,8 | 4,7 | 5,3 | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->CI ME/100G-Na +..: 0,7 | 1,5 | 3,9 | 4,2 | 6,7 | 8,4
+dss_LaRemonta.psv ->> HORIZONTE->CI ME/100G-K +...: 2,7 | 2,8 | 3,2 | 3,1 | 3,3 | 3,3
+dss_LaRemonta.psv ->> HORIZONTE->CI ME/100G-H +...: 6,0 | 4,2 | 3,0 | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->Na+ % DEL VALOR T: - | 7,6 | 15,4 | 20 | 36,6 | 56,0
+dss_LaRemonta.psv ->> HORIZONTE->CONDUCT mmhos/cm.: - | - | 5,2 | 13,0 | 9,6 | 9,9
+dss_LaRemonta.psv ->> HORIZONTE->SUM.B. ME/100G(S): 17,6 | 19,2 | 24,5 | - | - | 
+dss_LaRemonta.psv ->> HORIZONTE->CIC ME/100G(T)...: 19,0 | 19,0 | 25,3 | 21,0 | 18,3 | 15,0
+dss_LaRemonta.psv ->> HORIZONTE->SAT.B % (S/T)....: 92 | 97 | 97 | - | - | 

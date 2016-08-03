@@ -1,0 +1,30 @@
+HORIZONTE->NOMBRE(S)........:
+HORIZONTE->Profundidad:
+HORIZONTE->Mat. orgánica:
+HORIZONTE->C orgánico:
+HORIZONTE->N total:
+HORIZONTE->Relación C/N:
+HORIZONTE->Arcilla < 2µ:
+HORIZONTE->Limo 2-50µ:
+HORIZONTE->TOTAL:
+HORIZONTE->Limo 2-20µ:
+HORIZONTE->Muy fina 50-100µ:
+HORIZONTE->Fina 100-250µ:
+HORIZONTE->Media 250-500µ:
+HORIZONTE->Gruesa 500-1000µ:
+HORIZONTE->Muy gruesa 1-2mm:
+HORIZONTE->Calcáreo, CaCO3:
+HORIZONTE->Equiv. humedad:
+HORIZONTE->Resist. pasta:
+HORIZONTE->pH pasta (1:1):
+HORIZONTE->pH agua (1:2,5):
+HORIZONTE->pH 1N ClK (1:2,5):
+HORIZONTE->Ca++ intercambio:
+HORIZONTE->Mg++ intercambio:
+HORIZONTE->Na+ intercambio:
+HORIZONTE->K+ intercambio:
+HORIZONTE->H+ intercambio:
+HORIZONTE->(Na+/T):
+HORIZONTE->C.I.C., (T):
+HORIZONTE->Suma bases (S):
+HORIZONTE->Sat. bases, (S/T):

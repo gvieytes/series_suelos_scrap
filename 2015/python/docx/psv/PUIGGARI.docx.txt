@@ -1,0 +1,332 @@
+
+--------------------------------------------------------------------------------
+SERIE PUIGGARI						 Símbolo: Pgr
+
+
+Pertenece a la familia "arcillosa fina, mixta, térmica" de los Argiudoles ácuicos (Brunizems con B2t fuertemente desarrollado).
+Son suelos moderadamente bien drenados, con un epipedón franco-limoso a franco-arcillo-limoso y un horizonte argílico franco-arcillo-limoso a arcillo-limoso.
+
+Suelos desarrollados sobre loess calcáreo franco-arcillo-limoso.
+
+
+Perfil tipo: ER7-76C
+Fecha: 9-VI-1989.
+Ubicación: Aldea Camarero (foto H438-24) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+
+
+A11: 00-15 cm; gris muy oscuro a pardo grisáceo muy oscuro (10YR 3/1.5) en húmedo; franco-limoso; estructura granular y en bloques subangulares, médios, débiles; blando en seco; friable en húmedo; moteados de hierro y manganeso escasos, finos y débiles; límite gradual, ondulado.
+
+A12: 15-29 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; blando en seco; muy friable en húmedo; moteados de hierro comunes, precisos y finos; pedotúbulos comunes; límite gradual, suave.
+
+B1: 29-40 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, medios, débiles; duro en seco; friable en húmedo; barnices "clay humic skins" abundantes, medios a gruesos, y "clay skins", escasos, finos; moteados de hierro comunes, medios y precisos; límite abrupto, suave.
+
+B21t: 40-60 cm; pardo muy oscuro (10YR 2/2) en húmedo; franco-arcillo-limoso (pesado); estructura en prismas compuestos irregulares, finos, débiles, que rompen en bloques subangulares y angulares irregulares, medios, moderados; muy duro en seco; friable en húmedo; barnices "clay humic skins" y "clay skins", abundantes, medios; caras de fricción ("slickensides") escasas, gruesas, no intersectadas; moteados de hierro y manganeso comunes, medios y precisos; límite gradual, suave.
+
+B22t: 60-86 cm; pardo oscuro (7.5YR 3/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, gruesos, medios, que rompen en prismas compuestos irregulares, medios, moderados; extremadamente duro en seco; firme en húmedo; barnices "clay humic skins" y "clay skins", abundantes, finos a medios; caras de fricción ("slickensides") abundantes, gruesas, no intersectadas; moteados de hierro y manganeso abundantes, medios y precisos; límite claro, suave.
+
+B3: 86-130 cm; pardo (7.5YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares que rompen en bloques subangulares y angulares irregulares, medios, débiles; firme en húmedo; caras de fricción ("slickensides") escasas, gruesas, no intersectadas; moteados de hierro y manganeso comunes, medios y precisos; límite gradual, suave.
+
+
+Cca: + 130 cm; pardo claro (7.5YR 6/4) en húmedo; franco-arcillo-limoso; estructura masiva; suelto en seco; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas, finas.
+
+
+Variabilidad de rasgos
+
+El espesor del solum varía entre 75-130 cm, con un epipedón mólico profundo hasta 40 cm y compuesto de un horizonte A1 o un Ap + A3 + B1, y a veces un A1 + B1.
+
+La variabilidad de la serie está asociada a la erosión, y algunos perfiles presentan epipedones entre 20-40 cm, con un porcentaje de arcilla que oscila entre 24-30 %. Presenta moteados de hierro desde comunes, finos a medios y precisos. Puede presentarse un "piso de arado" a partir de los 15-20 cm.
+
+El horizonte argílico, cuyo espesor oscila entre 50-60 cm, de estructura prismática compuesta, tiene de 35-40 % de arcilla y muestra comunes a abundantes caras de fricción ("slickensides"), no intersectadas. Se observan normalmente comunes a abundantes moteados de hierro y manganeso.
+
+El calcáreo, en concreciones y libre, se encuentra a veces a partir del B22, aunque lo normal para la serie es que aparezca a mayor profundidad (85-120 cm).
+
+
+Fases
+
+No se han establecido fases a escala de reconocimiento.
+
+
+Series similares y sus diferencias
+
+La Serie Puíggari se parece a las series Costa Grande y Tezanos Pinto, pero la primera posee un horizonte argílico menos arcilloso y está desarrollada en un paisaje distinto; la segunda posee un epipedón menos profundo y se encuentra en un paisaje más suavemente ondulado.
+
+
+Drenaje
+
+Moderadamente bien drenado; escurrimiento superficial moderado. Permeabilidad moderada a moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+
+
+Erosión
+
+La Serie Puíggari tiene una erosión actual leve; su susceptibilidad a la misma (principalmente laminar) es leve a moderada, con un epipedón que -en el peor de los casos- supera los 20 cm de espesor y con una textura algo más arcillosa que el perfil modal.
+
+En sectores donde la erosión ha decapitado el horizonte superficial afloran materiales limo-calcáreos, determinando la inclusión de suelos arcillosos (Vertisoles) en las pendientes y lomas bajas alrededor de afluentes menores.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Puíggari
+
+ER7-76C
+
+
+
+
+
+
+
+Nº de registro
+ 5254
+ 5255
+ 5256
+ 5257
+ 5258
+ 5259
+ 5260
+Horizonte
+ A11
+ A12
+ B1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 03-12
+ 17-27
+ 30-40
+ 45-55
+ 65-75
+ 95-120
+ 140 +
+Mat.organica (%)
+ 3.69
+ 3.05
+ 1.91
+ 1.50
+ 1.12
+ 0.44
+ 0.22
+N (%)
+ 0.15
+ 0.14
+ 0.09
+ 0.08
+ 0.06
+ 0.03
+ 0.03
+C/N
+ 14
+ 13
+ 13
+ 12
+ 10
+ 7
+ 5
+
+T < 2 μ
+
+ 24.02
+
+ 24.79
+
+ 34.39
+
+ 39.78
+
+ 37.22
+
+ 34.88
+
+ 35.34
+E 2-20 μ
+ 29.30
+ 30.65
+ 28.61
+ 25.21
+ 27.19
+ 26.45
+ 28.18
+X 2-50 μ
+ 70.30
+ 69.87
+ 61.15
+ 56.50
+ 58.90
+ 59.90
+ 59.06
+T 50-100 μ
+ 5.35
+ 5.06
+ 4.21
+ 3.56
+ 3.69
+ 5.16
+ 5.27
+U 100-500 μ
+ 0.32
+ 0.26
+ 0.23
+ 0.16
+ 0.17
+ 0.22
+ 0.33
+R 500-1000 μ
+ 0.01
+ 0.02
+ 0.03
+ -
+ 0.01
+ 0.02
+ -
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CO3Ca (%)
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ -
+
+ 0.6
+pH H2O
+ 6.3
+ 6.3
+ 6.5
+ 6.7
+ 7.0
+ 8.0
+ 8.3
+pH ClK
+ 5.2
+ 5.2
+ 5.1
+ 5.2
+ 5.4
+ 6.3
+ 7.0
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 27.90
+ 29.30
+ 31.80
+ 35.50
+ 33.20
+
+
+ 34.00
+
+
+ 32.50
+ d Ca++
+ 22.80
+ 23.10
+ 25.90
+ 28.70
+ 27.80
+ 28.00
+ 28.30
+C e
+
+
+
+
+
+
+
+Mg++
+ 1.80
+ 2.30
+ 2.30
+ 2.50
+ 2.10
+ 4.00
+ 2.50
+t c
+
+
+
+
+
+
+
+i a K+
+ 0.62
+ 0.84
+ 0.81
+ 0.71
+ 0.74
+ 0.68
+ 0.65
+o m
+
+
+
+
+
+
+
+n b Na+
+ 0.26
+ 0.31
+ 0.34
+ 0.26
+ 0.40
+ 0.43
+ 0.47
+e i
+
+
+
+
+
+
+
+s o H+
+ 2.40
+ 2.50
+ 2.00
+ 2.10
+ 2.00
+ -
+ -
+
+
+
+
+
+
+
+
+Equivalente de humedad (%)
+ 26.16
+ 27.78
+ 30.71
+ 36.33
+ 36.10
+ 32.49
+ 30.55
+

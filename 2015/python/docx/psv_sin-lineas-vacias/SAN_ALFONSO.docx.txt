@@ -1,0 +1,169 @@
+--------------------------------------------------------------------------------
+SERIE SAN ALFONSO					 Símbolo: Afo
+Pertenece a la familia "fina, montmorillonítica (t), térmica" de los Argiudoles vérticos (Brunizems vertisólicos).
+Son suelos desarrollados en materiales limos-loessoides retransportados, franco-arcillo-limosos.
+Suelos moderadamente bien drenados y ligera a moderadamente erosionados, con un epipedón muy oscuro, franco-arcillo-limoso, y un horizonte argílico oscuro, franco-arcillo-limoso a arcillo-limoso con caras de fricción ("slickensides"). Puede presentar gley "fósil" en el B3ca.
+Perfil tipo: ER7-73C
+Fecha: 7-VI-1989.
+Ubicación: Aldea San Alfonso (foto 437-130) - Dpto. Diamante.
+Reconocedores: L.O. López; C.V. Acosta.
+Ap: 00-18 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y en bloques subangulares y angulares irregulares, medios, moderados; duro en seco; friable en húmedo; barnices "humic skins", abundantes, medios, "clay humic skins" y "clay skins", abundantes, finos; moteados de hierro comunes, medios y precisos; límite abrupto, suave.
+B21t: 18-38 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, moderados, que rompen en bloques angulares irregulares y agregados cuneiformes, medios, fuertes; extremadamente duro en seco; firme en húmedo; barnices "clay humic skins" escasos y finos y "clay skins", abundantes, medios; caras de fricción ("slickensides") escasas, finas, no intersectadas; concreciones de hierro-manganeso escasas y finas; moteados de hierro comunes, finos y precisos; límite gradual, suave.
+B22t: 38-69 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos y medios que rompen en prismas compuestos irregulares, medios, moderados; duro en seco; firme en húmedo; barnices "clay humic skins" y "clay skins", abundantes, medios; caras de fricción ("slickensides") escasas, gruesas, no intersectadas; concreciones de hierro-manganeso escasas y finas; moteados de hierro comunes, finos y precisos; límite gradual, ondulado.
+B3ca: 69-84 cm; pardo a pardo oscuro (10YR 4/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices "clay skins", escasos y finos; caras de fricción ("slickensides") escasas, finas, no intersectadas; concreciones de hierro-manganeso escasas; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas; límite gradual, suave.
+Cca: 84+ cm; pardo (10YR 4.5/4) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; abundante cantidad de carbonatos libres en la masa; concreciones calcáreas escasas.
+Variabilidad de rasgos
+El solum varía entre 80-120 cm. El epipedón mólico tiene entre 20-35 cm, y puede presentar un A1, A3 o B1 cuando tiene más de 30 cm. En algunos casos, la secuencia es A1+A3 o A1+B1 cuando el perfil presenta signos de erosión, o sólo un horizonte AB como en el caso del perfil modal (que responde al concepto central de la unidad, con erosión moderada). La variabilidad tan amplia se debe a la ubicación de la serie en un paisaje muy heterogéneo debido a la erosión y donde, en parte, el suelo recibe aportes de material de arrastre desde sectores aledaños más altos y, por otra parte, prevalece la erosión acelerada por la actividad antrópica.
+El epipedón posee aprox. 35-40 % de arcilla, con una estructura granular y de bloques subangulares, donde es común la buena porosidad y la presencia de pedotúbulos ("canales" de actividad biológica).
+El horizonte argílico tiene un espesor de aproximadamente 50-55 cm, con un porcentaje de arcilla de entre 45-50; es un horizonte denso, la mayor parte de las veces mejor expresado en su parte superior (B21t), con caras de fricción ("slickensides") poco interceptadas y presencia de raíces aplastadas entre dichas caras; cuando seco, tiene grietas de hasta 5 cm, que llegan hasta la superficie.
+Son suelos desarrollados en materiales loessoides de textura franco-arcillo-limosa, probablemente formados a partir de loess coluvial y remezclado con materiales limo-calcáreos subyacentes.
+Fases
+No posee fases a la escala de reconocimiento (1:100.000).
+Series similares y sus diferencias
+Se parece a la Serie Crespo, pero ésta tiene un B2t mejor expresado (principalmente en el B22t) con aprox. 55-60 %, un epipedón más somero, y una posición en el paisaje muy distinta (lomas altas de la peniplanicie ondulada).
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial medio a rápido. Permeabilidad moderadamente lenta a lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie San Alfonso está moderadamente erosionada, aunque un pequeño sector puede mostrar perfiles con un epipedón mólico profundo. Los suelos de la serie poseen un potencial erosivo de grado severo, denotado por la situación actual de numerosos surcos y pequeñas cárcavas muy activas y no eliminables con la labranza.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie San Alfonso
+ER7-73C
+Nº de registro
+ 5236
+ 5237
+ 5238
+ 5239
+ 5240
+Horizonte
+ Ap
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 04-16
+ 20-35
+ 44-55
+ 69-84
+ 125-140
+Mat.organica (%)
+ 2.72
+ 1.89
+ 1.52
+ 0.52
+ 0.15
+N (%)
+ 1.58
+ 1.10
+ 0.89
+ 2.26
+ 0.07
+C/N
+ 13
+ 11
+ 12
+ 11
+ -
+T < 2 μ
+ 34.83
+ 47.87
+ 45.97
+ 43.75
+ 30.91
+E 2-20 μ
+ 24.07
+ 20.82
+ 21.26
+ 22.71
+ 33.33
+X 2-50 μ
+ 58.81
+ 48.91
+ 50.29
+ 52.06
+ 64.48
+T 50-100 μ
+ 6.05
+ 3.08
+ 3.47
+ 3.97
+ 4.10
+U 100-500 μ
+ 0.28
+ 0.14
+ 0.16
+ 0.21
+ 0.50
+R 500-1000 μ
+ 0.03
+ -
+ -
+ -
+ -
+A
+CO3Ca (%)
+ -
+ -
+ -
+ 1.0
+ 1.6
+pH H2O
+ 6.9
+ 7.1
+ 7.4
+ 8.1
+ 8.5
+pH ClK
+ 5.4
+ 5.4
+ 5.8
+ 7.0
+ 7.1
+Capacidad de intercambio
+catiónico (m.e./100 g) =
+valor T
+ 31.80
+ 41.60
+ 40.30
+ -
+ -
+ d Ca++
+ 25.70
+ 33.80
+ 32.60
+ -
+ -
+C e
+Mg++
+ 2.30
+ 3.50
+ 3.80
+ -
+ -
+t c
+i a K+
+ 0.70
+ 0.70
+ 0.95
+ 0.90
+ 1.10
+o m
+n b Na+
+ 0.82
+ 0.82
+ 0.75
+ 0.82
+ 0.70
+e i
+s o H+
+ 1.50
+ 1.20
+ 0.90
+ -
+ -
+Equivalente de humedad (%)
+ 31.43
+ 44.52
+ 42.57
+ 36.61
+ 34.06

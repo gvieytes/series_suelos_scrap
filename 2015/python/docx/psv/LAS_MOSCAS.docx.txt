@@ -1,0 +1,284 @@
+
+--------------------------------------------------------------------------------
+SERIE LAS MOSCAS Símbolo: LMs
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Peludertes árgicos crómicos.
+Suelos moderadamente bien drenados, con un epipedón franco-arcillo-limoso, bien estructurado y con colores oscuros Las concreciones calcáreas aparecen entre los 75-80 cm de profundidad.
+Muestra un relieve gilgai poco visible en el terreno, y en la fotografía aérea.
+
+Suelos desarrollados en materiales arcillo-limosos (limos calcáreos).
+
+
+Perfil tipo: ER7-140C
+Fecha: 17-VIII-00
+Ubicación: Mosaico aerofotográfico 3360-6-1. (foto IR 142-1) Dpto Villaguay.
+Reconocedores: L.O. López; O.A. Foti
+
+
+A1: 00-27 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura granular y bloques subangulares, medios, débiles; friable en húmedo; barnices ("clay-humic skins") escasos ("humic skins") comunes; moteados de hierro-manganeso, escasos, finos y débiles; presencia de arena fina en caras de agregados; límite claro, suave.
+
+B21t: 27-54 cm; pardo oscuro (10YR 3/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, moderados; friable en húmedo; barnices ("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, finas e intersectadas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, ondulado.
+
+B22t: 54-78 cm; pardo oscuro (10YR 3.5/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares medios, débiles; friable en húmedo; barnices ("clay skins") comunes; caras de fricción ("slickensides") comunes, finas e intersectadas; moteados de hierro-manganeso comunes, medios, precisos; límite gradual, suave.
+
+B3ca: 78-105 cm; pardo oscuro (7,5YR 4/2) en húmedo; arcillo-limoso; estructura en bloques angulares irregulares y cuneiformes medios, débiles; friable en húmedo; barnices
+("clay skins") escasos a comunes; caras de fricción ("slickensides") comunes, gruesas; comunes carbonatos libres en la masa; concreciones calcáreas, escasas a comunes, finas; moteados de hierro-manganeso comunes medios y precisos; micelios de carbonatos; límite difuso, ondulado.
+
+Cca: 105 cm +; pardo (7,5YR 5/4.5) en húmedo; arcillo-limoso; masivo; friable en húmedo; comunes a abundantes carbonatos libres en la masa; concreciones calcáreas escasas a comunes; moteados de hierro-manganeso abundantes, medios y precisos; materiales de horizontes superiores en las grietas.
+
+
+Variabilidad de rasgos
+
+El epipedón varía entre 25-30 cm, de textura franco-arcillo-limosa, bien estructurado.
+El horizonte B2 argílico, tiene un espesor que varía entre 45-50 cm, de textura arcillo-limosa, caras de fricción ("slickensides") y escasas concreciones ferromanganesíferas.
+
+Los carbonatos se presentan en concreciones, duras y blandas, a partir de los 75-80 cm. de profundidad.
+
+Otra característica de esta serie es su posición en el paisaje, en las lomas, con presencia de gilgai irregular o en las pendientes muy suaves, con gilgai lineal.
+
+
+Fases
+
+Se ha descripto a escala de reconocimiento, una fase por erosión (LMs.h2).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Serie Las Moscas es muy susceptible a la erosión hídrica, muestra una erosión actual en cárcavas retrogradantes.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Las Moscas
+
+ER7-140C
+Nº de registro
+ 5.691
+ 5.692
+ 5.693
+ 5.694
+ 5.695
+Horizonte
+ A1
+ B21t
+ B22t
+ B3ca
+ Cca
+Profundidad (cm)
+ 05-15
+ 30-50
+ 55-70
+ 85-95
+ 100-110
+Mat.organica (%)
+ 3.9
+ 1.1
+ 1.1
+ 1.0
+ 1.0
+N (%)
+ 0.16
+ 0.09
+ 0.08
+ 0.08
+ 0.01
+C/N
+ 14
+ 13
+ 13
+ 13
+ 11
+
+T
+ < 2 u
+ 28.00
+ 43.71
+ 45.21
+ 47.15
+ 43.21
+E
+ 2-20 u
+ 35.57
+ 29.31
+ 29.99
+ 28.43
+ 30.19
+X
+ 2-50 u
+ 62.76
+ 51.63
+ 49.97
+ 46.00
+ 51.89
+T
+ 50-100 u
+ 0.80
+ 0.44
+ 0.81
+ 1.81
+ 0.16
+U
+ 100-500 u
+ 8.23
+ 4.16
+ 3.96
+ 4.94
+ 4.59
+R
+ 500-1000 u
+ 0.21
+ 0.06
+ 0.05
+ 0.10
+ 0.15
+A
+ 1000-2000 u
+ -
+ -
+ -
+ -
+ -
+
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.0
+ 1.80
+ 2.09
+pH H2O
+ 6.6
+ 7.0
+ 7.6
+ 8.1
+ 7.9
+pH ClK
+ 5.5
+ 5.9
+ 6.3
+ 6.9
+ 6.7
+C.E.(mmhos/cm)
+ 0.585
+ 0.977
+ 0.962
+ 0.954
+ 0.933
+
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 25.89
+ 39.32
+ 44.06
+ 45.07
+ 44.73
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 20.12
+ 32.40
+ 37.79
+ 38.32
+ 36.40
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 1.32
+ 2.11
+ 2.28
+ 2.30
+ 2.32
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 0.57
+ 1.63
+ 1.70
+ 1.81
+ 1.90
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 0.52
+ 1.57
+ 2.15
+ 2.23
+ 2.50
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+
+
+ 2.02
+ 3.99
+ 4.88
+ 4.95
+ 5.59
+
+Equivalente de humedad (%)
+ 27.19
+ 46.05
+ 47.61
+ 48.14
+ 43.64
+
+Fósforo asimilable ppm
+ 8.3
+ 4.5
+ 4.4
+ 3.8
+ 3.8
+

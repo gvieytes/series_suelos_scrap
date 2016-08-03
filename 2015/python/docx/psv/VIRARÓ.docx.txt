@@ -1,0 +1,299 @@
+
+--------------------------------------------------------------------------------
+SERIE VIRARÓ Símbolo: Vi
+
+
+Pertenece a la familia "fina, mixta neutra, térmica" de los Ocracualfes mólicos.
+Suelos imperfecta a moderadamente bien drenados, con un epipedón leve a moderadamente eluviado y degradado, franco-arcillo-limoso, y un horizonte argílico oscuro arcillo-limoso, con escasas caras de fricción ("slickensides") y calcáreo a partir de los 35-45 cm.
+Se han desarrollados en materiales limos-loessoides, arcillo-limosos.
+
+
+Perfil tipo: ER1-65C
+Fecha: 19-VIII-1977
+Ubicación: Colonia Viraró (foto IR 468-40)-Dpto. La Paz.
+Reconocedores: O.A.Foti; R.H. Fuentes; C. Cuatrín.
+
+
+A1: 00-18 cm; gris muy oscuro (10YR 3/1) en húmedo y gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura en bloques subangulares, medios, moderados; friable en húmedo; barnices ("humic skins") escasos; moteados de hierro-manganeso escasos, finos y precisos; límite claro, suave.
+
+B21t: 18-51 cm; pardo muy oscuro (10YR 2/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles, que rompen en bloques angulares irregulares medios, moderados; friable a firme en húmedo; caras de fricción ("slickensides") escasas; moteados de hierro-manganeso escasos, finos y precisos; límite claro y suave.
+
+B22tca: 51-77 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; concreciones de calcáreos escasas, hasta 0,5 cm de diámetro; caras de fricción ("slickensides") escasas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso escasos, finos y precisos; limite gradual, suave.
+
+B31ca: 77-100 cm; gris muy oscuro a gris oscuro (10YR 3,5/1) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios, moderados que rompen en bloques angulares irregulares medios, moderados; firme en húmedo; concreciones de calcáreo comunes, de hasta 1 cm de diámetro; escasa cantidad de carbonatos libres en la masa; caras de fricción ("slickensides") escasas; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, finos y precisos; límite difuso, suave.
+
+B32ca: 100-125 cm; pardo grisáceo oscuro (10YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares medios, moderados; friable en húmedo; concreciones de calcáreo abundantes, de hasta 2 cm de diámetro; moderada cantidad de carbonatos libres en la masa; caras de fricción ("slickensides") escasas; concreciones ferromanganesíferas comunes; límite difuso, suave.
+
+Cca: 125 cm +; pardo oscuro (7,5YR 4/4) en húmedo; gris rosado (7,5YR 6/2) en seco; franco-arcillo-limoso; masivo; concreciones de calcáreos abundantes; moderada cantidad de carbonatos libres en la masa; concreciones ferromanganesíferas comunes; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+
+El solum varía de 110 a 130 cm. El epipedón consta de un horizonte A1 de 12 a 18 cm de espesor, leve a moderadamente eluviado por las caras de los agregados, con colores que en húmedo varían de 10YR 3/1 a 3/2 y en seco no superan una relación value/chroma de 4/1; tiene estructura granular y bloques subangulares con un 30-36 % de arcilla y un 3-6 % de materia orgánica parcialmente descompuesta. Teniendo en cuenta tales características del epipedón, se incluye a la serie en el subgrupo "mólico" en vez del "típico"
+
+El horizonte B2, argílico, (43-52 % de arcilla) es poco vertisólico, con escasas caras de fricción no intersectadas, si bien tiene una estructura prismática, pero la mayoría de las veces estos prismas son débiles.
+
+El calcáreo aparece entre los 35-45 cm de profundidad (con grandes variaciones en corta distancia), en forma de concreciones duras comunes a abundantes, de hasta 2 cm de diámetro.
+
+El material originario es arcillo-limoso (40-46 % de arcilla) y neutro (con menos de 5 % de sodio de intercambio); su color varía entre 7,5YR 4/2 a 7,5YR 5/4.
+
+
+Fases
+
+No se han descripto a nivel de reconocimiento.
+
+
+Drenaje
+
+Imperfecta a moderadamente bien drenado. Escurrimiento moderado a moderadamente lento. Permeabilidad moderadamente lenta. Capa freática profunda. Grupo hidrológico D.
+
+Erosión
+
+La serie Viraró no está erosionada actualmente, pero en áreas con leve pendiente tiene moderada susceptibilidad a la misma (principalmente en forma de surcos y pequeñas cárcavas).
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie Viraró
+
+ER1-65C
+Nº de registro
+ 2.359
+ 2.360
+ 2.361
+ 2.362
+ 2.363
+ 2.364
+Horizonte
+ A1
+ B21t
+ B22tca
+ B31ca
+ B32ca
+ Cca
+Profundidad (cm)
+ 0.2-14
+ 21-45
+ 47-72
+ 77-97
+ 102-120
+ 133-151
+Mat.organica (%)
+ 2.8
+ 2.6
+ 1.2
+ 0.9
+ 0.5
+ 0.2
+N (%)
+ 0.26
+ 0.19
+ 0.13
+ 0.12
+ 0.09
+ -
+C/N
+ 13
+ 8
+ 5
+ 4
+ 3
+ -
+────────────────────────────────────────────────────────
+T
+ < 2 u
+ 29.7
+ 43.2
+ 50.2
+ 49.2
+ 43.0
+ 40.4
+E
+ 2-20 u
+ 34.1
+ 26.6
+ 23.0
+ 24.0
+ 27.3
+ 28.1
+X
+ 2-50 u
+ 69.6
+ 56.2
+ 49.3
+ 50.2
+ 56.4
+ 58.9
+T
+ 50-100 u
+ 0.4
+ 0.3
+ 0.3
+ 0.3
+ 0.3
+ 0.4
+U
+ 100-500 u
+ 0.3
+ 0.3
+ 0.2
+ 0.3
+ 0.3
+ 0.3
+R
+ 500-1000 u
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+A
+ 1000-2000 u
+ --
+ -
+ -
+ -
+ -
+ -
+────────────────────────────────────────────────────────
+CO3Ca (%)
+ 0.0
+ 0.0
+ 0.72
+ 1.82
+ 14.9
+ 13.4
+pH H2O
+ 5.8
+ 6.6
+ 7.8
+ 8.1
+ 8.3
+ 8.3
+pH ClK
+ 4.1
+ 5.0
+ 6.1
+ 6.9
+ 7.1
+ 7.1
+────────────────────────────────────────────────────────
+Capacidad de intercambio
+catiónico (meq/100 g) =
+valor T
+
+
+ 35.6
+ 48.8
+ 42.2
+ 57.9
+ ND
+ ND
+
+
+
+
+
+
+
+
+
+
+d
+Ca++
+ 21.4
+ 35.0
+ 34.8
+ 45.0
+ ND
+ ND
+C
+e
+
+
+
+
+
+
+
+a
+
+Mg++
+ 2.4
+ 2.8
+ 1.2
+ 4.6
+ ND
+ ND
+t
+c
+
+
+
+
+
+
+
+i
+a
+K+
+ 1.1
+ 1.5
+ 1.3
+ 1.2
+ ND
+ ND
+o
+m
+
+
+
+
+
+
+
+n
+b
+Na+
+ 0.4
+ 1.0
+ 1.3
+ 1.2
+ ND
+ ND
+e
+i
+
+
+
+
+
+
+
+s
+o
+H+
+ 6.5
+ 6.5
+ ND
+ ND
+ ND
+ ND
+% Na/T
+
+
+ 1.1
+ 2.0
+ 3.1
+ 2.1
+ ND
+ ND
+────────────────────────────────────────────────────────
+Equivalente de humedad (%)
+ 33.1
+ 50.2
+ 50.7
+ 49.1
+ 41.9
+ 39.9
+
+ND: No determinado
+

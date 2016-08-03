@@ -1,0 +1,183 @@
+--------------------------------------------------------------------------------
+SERIE PUERTO CONSTANZA Símbolo: PCo
+Pertenece a la familia "franca fina, silícea, no ácida, térmica" de los Udifluventes típicos.
+La serie Puerto Constanza es un suelo aluvial, no salino ni sódico. Desarrollado sobre sedimentos marinos y continentales.
+Perfil tipo: 368C INTA Castelar
+Fecha: 23-X-1976
+Ubicación: 5 km al SO de la localidad de Ibicuy (Hoja IGM 3360-35-2) - Dpto. Islas del Ibicuy
+Reconocedores: L.A. Gómez.; V. Nakama
+C1: 0-4 cm; pardo amarillento opaco (10YR 5/1) en seco y pardo oscu - ro (10YR 3/3) en húmedo; franco arcillo limoso; estructura laminar fina; friable; ligeramente plástico, ligeramente adhesivo; concreciones ferromanganésicas comunes; moteados abundantes, medios, sobresalientes de color pardo (7,5YR 4/6); raíces abundantes; límite inferior abrupto, suave.
+C2: 4-10 cm; pardo (10YR 4/6) en húmedo; franco limoso; estructura laminar fina; ligeramente firme; ligeramente plástico, ligeramente adhesivo; concreciones ferromanganésicas comunes; motea - dos abundantes, medios, sobresalientes; raíces comunes; límite inferior, abrupto, suave.
+C3: 10-13 cm; pardo oscuro (10YR 3/4) en húmedo; franco limoso; estructura laminar fina; ligeramente firme; ligeramente plásti - co, ligeramente adhesivo; concreciones ferromanganésicas comunes; moteados abundantes, medios, sobresalientes; raíces comunes; límite inferior abrupto, suave.
+C4: 13-16 cm; pardo (10YR 4/4) en húmedo; franco limoso; estructu - ra laminar fina; ligeramente firme; ligeramente plástico, li - geramente adhesivo; concreciones ferromanganésicas comunes; moteados abundantes, medios, sobresalientes; raíces comunes; límite inferior abrupto, suave.
+C5: 16-20 cm; pardo oscuro (10YR 3/4) en húmedo; franco limoso; estructura laminar fina; ligeramente firme; ligeramente plásti - co, ligeramente adhesivo; concreciones ferromanganésicas comunes; moteados abundantes, medios, sobresalientes; raíces comunes; límite inferior abrupto, suave.
+C6: 20-65 cm; pardo (7,5YR 4/3) en húmedo; franco; estructura en bloques subangulares medios débiles que rompen en bloques me - nores; firme; plástico, adhesivo; concreciones ferromanganésicas escasas; moteados abundantes, gruesos, sobresalientes de color pardo oscuro (7,5YR 3/4); raíces escasas; límite inferior abrupto, suave.
+C7: 65-71 cm; pardo (10YR 4/6) en húmedo; franco arenoso; masivo; friable; no plástico, no adhesivo; concreciones ferromangané - sicas escasas; moteados abundantes, gruesos, sobresalientes de color pardo (7,5YR 4/6); raíces escasas; límite inferior abrupto, suave.
+C8: 71-117 cm; gris amarillento (2,5Y 5/1) en húmedo; franco arci - llo limoso; estructura en bloques subangulares medios débi - les que rompen en bloques menores; firme; plástico, adhesivo; concreciones ferromanganésicas comunes; moteados abundantes, medios, sobresalientes de color pardo rojizo (5YR 4/8).
+Variabilidad de rasgos
+El perfil de este suelo oscila entre muy fuertemente ácido a muy débilmente ácido y tiene una baja saturación con bases en los primeros 20 cm.
+Los primeros 20 cm del perfil están formados por capas alternantes de color pardo y pardo oscuro, con 4,5% de materia orgánica en superficie disminuyendo a 1 %. Las texturas van de franco arcillo limosa en la primera capa a franco limosa en las restantes. Sigue una sucesión de ca - pas de textura franca, franco arenosa y franco arcillo limosa la más profunda. Se observan concreciones y moteados sobresalientes en todo el per - fil.
+Fases
+No presenta a escala 1:100.000.
+Drenaje
+Este suelo es de permeabilidad moderada y de drenaje pobre. Inundaciones por las crecidas del Paraná.
+DATOS ANALITICOS DEL PERFIL TIPO
+Serie Puerto Constanza
+368C INTA Castelar
+N° de registro
+Horizonte
+ C1
+ C2
+ C3
+ C4
+Profundidad (cm)
+ 1-3
+ 5-8
+ 10-12
+ 13-16
+Mat. orgánica (%)
+ 4.48
+ 2.07
+ 0.95
+ 0.95
+C (%)
+ 2.60
+ 1.20
+ 0.55
+ 0.55
+N (%)
+ 0.252
+ 0.160
+ 0.040
+ 0.115
+C/N
+ 10
+ 8
+ 8
+ 5
+T <2 u
+ 29.8
+ 26.5
+ 24.2
+ 23.4
+E 2-20 u
+ 33.9
+ 29.8
+ 24.4
+ 26.7
+X 2-50 u
+ 58.9
+ 58.6
+ 57.6
+ 62.7
+T 50-74 u
+ 7.7
+ 9.1
+ 9.9
+ 9.5
+U 74-100 u
+ 2.9
+ 5.3
+ 7.9
+ 3.9
+R 100-250 u
+ 0.5
+ 0.3
+ 0.2
+ 0.1
+A 250-500 u
+ 0.2
+ 0.2
+ 0.2
+ 0.4
+ 500-1000 u
+ -
+ -
+ -
+ -
+ 1000-2000 u
+ -
+ -
+ -
+ -
+CO3Ca (%)
+ 0
+ 0
+ 0
+ 0
+Equivalente de humedad (%)
+ 28.5
+ 23.2
+ 21.9
+ 23.1
+Resistencia de la pasta (Ohms/cm)
+ 2598
+ 3735
+ 6171
+ 4995
+pH en pasta
+ 5.1
+ 4.6
+ 4.7
+ 4.8
+pH en agua (1:2,5)
+ 5.8
+ 5.4
+ 5.6
+ 4.9
+pH en KCl (1:2,5)
+ 4.6
+ 3.6
+ 3.6
+ 3.7
+Conductividad (mmhos/cm)
+ -
+ -
+ -
+ -
+Cationes de cambio (m.e./100 g)
+Ca[++]
+ 9.3
+ 6.8
+ 4.0
+ 4.4
+Mg++
+ 4.3
+ 3.2
+ 3.2
+ 3.6
+Na[+]
+ 1.1
+ 1.1
+ 1.2
+ 0.6
+K[+]
+ 0.6
+ 0.3
+ 0.2
+ 0.2
+H[+]
+ 10.7
+ 8.7
+ 8.6
+ 9.0
+Na+ % del valor T
+ 5
+ 6
+ 8
+ 4
+Suma de bases, m.e./100 gr (S)
+ 15.3
+ 11.4
+ 8.8
+ 8.8
+C.I.C., m.e./100 gr (T)
+ 21.1
+ 17.1
+ 14.5
+ 16.6
+Saturación con bases, (%) (S/T)
+ 73
+ 67
+ 61
+ 53

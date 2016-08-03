@@ -1,0 +1,290 @@
+
+--------------------------------------------------------------------------------
+SERIE EL OMBU Símbolo: EOm
+
+
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+
+Suelos moderadamente bien drenados, con un epipedón oscuro franco-arcillo limoso y un horizonte argílico oscuro, con presencia de calcáreo a partir del horizonte B3, a 80-85 cm de profundidad. Están desarrollados en materiales loéssicos algo arcillosos.
+
+
+Perfil tipo: ER6-31C
+Fecha: 11-XII-86
+Ubicación: Ea. La Susana (foto IR 431-32) - dto. Algarrobitos - Dpto. Nogoyá.
+Reconocedores: D.J. Bedendo. L.O.López..
+
+
+Ap: 00-22 cm; gris muy oscuro (10YR 3/1) en húmedo; gris oscuro (10YR 4/1) en seco; franco-arcillo-limoso; estructura granular y en bloques subangulares, medios, moderados; duro en seco; firme en húmedo; presencia de concreciones calcáreas, finas, de arrastre; límite claro, suave.
+
+B1: 22-35 cm; negro (10YR 2/1) en húmedo; franco-arcillo-limoso; estructura en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices ("clay- humic skins") comunes; presencia de materiales del horizonte B3 por actividad biológica; límite gradual, suave.
+
+B21t: 35-59 cm; gris muy oscuro (10YR 3/1.5) en húmedo;arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques subangulares y angulares irregulares, medios, débiles; friable en húmedo; barnices ("clay skins") abundantes, caras de fricción ("slickensides") escasas a comunes no intersectadas; moteados de hierro-manganeso escasos, finos y débiles; límite gradual, suave.
+
+B22t: 59-83 cm; pardo grisáceo oscuro (10YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares, medios, débiles, que rompen en bloques angulares irregulares y cuneiformes, medios, débiles; friable en húmedo; caras de fricción ("slickensides") abundantes, finas, intersectadas; moteados de hierro-manganeso comunes, finos y débiles; límite gradual, difuso.
+
+B3ca: 83 cm +; pardo a pardo oscuro (10YR 4.5/3) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos, débiles que rompen en bloques angulares irregulares y cuneiformes medios, débiles; firme en húmedo; caras de fricción ("slickensides'") abundantes e intersectadas; abundantes carbonatos libres en la masa; concreciones calcáreas abundantes, finas; moteados de hierro-manganeso escasos, finos y débiles.
+
+
+Variabilidad de rasgos
+
+El solum varía de 90-110 cm. El epipedón mólico incluye horizontes A1 y B1 con espesor que varía entre 30-35 cm. El argílico, de 50-55 cm, de colores oscuros, cuando seco presenta grietas de 1-2 cm de ancho que se extienden hasta la base del epipedón. El calcáreo, en concreciones blandas, aparece en el horizonte B3, entre los 80-85 cm, aumentando en profundidad.
+
+
+Fases
+
+Severamente erosionada (símbolo: EOm.h3).
+
+
+Drenaje
+
+Moderadamente bien drenado. Escurrimiento superficial medio. Permeabilidad moderadamente lenta a lenta. Capa freática profunda. Grupo hidrológico D.
+
+
+Erosión
+
+Serie El Ombú está ligera a moderadamente erosionada. Tiene severo peligro de erosión laminar y en surcos cuando es sometida a un manejo deficiente.
+
+DATOS ANALITICOS DEL PERFIL TIPICO
+
+Serie El Ombú
+
+ER6-31C
+
+
+
+
+
+N° de registro
+ 4.866
+ 4.867
+ 4.868
+ 4.869
+ 4.870
+Horizonte
+ Ap
+ B1
+ B21t
+ B22t
+ B3ca
+Profundidad (cm
+ 10-20
+ 25-35
+ 45-55
+ 55-80
+ 88-105
+Mat.organica (%)
+ 5.45
+ 4.30
+ 2.97
+ 1.87
+ 0.74
+N (%)
+ 0.254
+ 0.185
+ 0.110
+ 0.072
+ 0.039
+C/N
+ 12.5
+ 13.5
+ 15.7
+ 15.0
+ 11.0
+
+T <2 u
+
+ 30.99
+
+ 37.72
+
+ 43.12
+
+ 48.01
+
+ 43.15
+E 2-20 u
+ 28.91
+ 27.31
+ 25.72
+ 24.91
+ 26.79
+X 2-50 u
+ 67.12
+ 60.71
+ 54.31
+ 50.30
+ 55.60
+T 50-100 u
+ 0.49
+ 0.99
+ 0.68
+ 0.25
+ 0.25
+U 100-500 u
+ 1.37
+ 1.55
+ 1.88
+ 1.41
+ 0.97
+R 500-1000 u
+ 0.03
+ 0.03
+ 0.02
+ 0.03
+ 0.03-
+A
+
+
+
+
+
+
+CO3Ca (%)
+
+ 0.0
+
+ 0.0
+
+ 0.0
+
+ 0.34
+
+ 16.10
+pH H2O
+ 7.1
+ 6.9
+ 7.0
+ 7.3
+ 8.0
+pH ClK
+ 6.3
+ 5.9
+ 6.0
+ 6.4
+ 6.9
+Conductividad eléctrica mmhos/cm
+
+ 0.209
+
+ 0.195
+
+ 0.163
+
+ 0.161
+
+ 0.110
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+
+ 32.20
+
+ 39-93
+
+ 45.76
+
+ 48.86
+
+ 44.63
+
+d
+Ca++
+ 27.32
+ 30.53
+ 36.27
+ 39.11
+ -
+C
+e
+
+
+
+
+
+
+a
+
+Mg++
+ 2.40
+ 2.91
+ 3.32
+ 4.02
+ -
+t
+c
+
+
+
+
+
+
+i
+a
+K+
+ 1.23
+ 1.69
+ 1.46
+ 1.56
+ 1.57
+o
+m
+
+
+
+
+
+
+n
+b
+Na+
+ 1.35
+ 1.63
+ 2.20
+ 2.33
+ 2.67
+e
+i
+
+
+
+
+
+
+s
+o
+H+
+ -
+ -
+ -
+ -
+ -
+% Na/T
+ 4.19
+ 4.13
+ 4.81
+ 4.76
+ 5.98
+
+Equiv. de humedad (%)
+
+ 28.23
+
+ 34.55
+
+ 39.24
+
+ 45.41
+
+ 40.56
+
+Fosforo asimilable ppm
+
+ 15.06
+
+ 11.02
+
+ 9.68
+
+ 8.70
+
+ 3.46
+

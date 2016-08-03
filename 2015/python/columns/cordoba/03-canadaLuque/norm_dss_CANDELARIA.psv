@@ -1,0 +1,39 @@
+dss_CANDELARIA.psv ->> ID..........................: 304
+dss_CANDELARIA.psv ->> CLASIFICACION...............: Haplustol típico
+dss_CANDELARIA.psv ->> SERIE.......................: CANDELARIA (Cand)
+dss_CANDELARIA.psv ->> UBICACION...................: 7 km al SO de Candelaria, departamento Totoral
+dss_CANDELARIA.psv ->> PROVINCIA...................: CORDOBA
+dss_CANDELARIA.psv ->> LATITUD.....................: S305400
+dss_CANDELARIA.psv ->> LONGITUD....................: O635100
+dss_CANDELARIA.psv ->> ALTITUD.....................: 317
+dss_CANDELARIA.psv ->> PENDIENTE...................: FALTA!
+dss_CANDELARIA.psv ->> DRENAJE.....................: FALTA!
+dss_CANDELARIA.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_CANDELARIA.psv ->> PERMEABILIDAD...............: FALTA!
+dss_CANDELARIA.psv ->> TIPO DE SUELO...............: LIMOSA FINA MIXTA TÉRMICA
+dss_CANDELARIA.psv ->> COLOR ......................: PARDO OSCURO
+dss_CANDELARIA.psv ->> HORIZONTE->NOMBRE(S)........: a | bw | bc | ck
+dss_CANDELARIA.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-22 | 22-45 | 45-76 | 76a+
+dss_CANDELARIA.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,7 | 1,6 | - | 
+dss_CANDELARIA.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,6 | 0,9 | - | 
+dss_CANDELARIA.psv ->> HORIZONTE->NITRÓGENO TOT.(%): - | - | - | 
+dss_CANDELARIA.psv ->> HORIZONTE->RELACIÓN C/N.....: - | - | - | 
+dss_CANDELARIA.psv ->> HORIZONTE->ARCILLA 2 (%)....: 26,9 | 29,7 | 29,5 | 21,4
+dss_CANDELARIA.psv ->> HORIZONTE->LIMO 2-50 (%)....: 67,2 | 63,2 | 64,8 | 70,5
+dss_CANDELARIA.psv ->> HORIZONTE->AMF 50-100 (%)...: 4,5 | 4,5 | 4,7 | 5,1
+dss_CANDELARIA.psv ->> HORIZONTE->AF 100-250 (%)...: 1,1 | 1,0 | 1,2 | 1,5
+dss_CANDELARIA.psv ->> HORIZONTE->AM 250-500 (%)...: 0,4 | 0,3 | 0,3 | 0,5
+dss_CANDELARIA.psv ->> HORIZONTE->AG 500-1000 (%)..: 0,2 | 0,2 | 0,3 | 0,2
+dss_CANDELARIA.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,0 | 0,0 | 0,0 | 0,0
+dss_CANDELARIA.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0,0 | 0,0 | 0,0 | 3,6
+dss_CANDELARIA.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 25,9 | 27,2 | 24,8 | 23,1
+dss_CANDELARIA.psv ->> HORIZONTE->PH PASTA.........: - | - | - | 
+dss_CANDELARIA.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,0 | 6,8 | 6,9 | 7,9
+dss_CANDELARIA.psv ->> HORIZONTE->CI ME/100G-Ca++..: 12,8 | 17,0 | 13,7 | 
+dss_CANDELARIA.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,5 | 0,9 | 1,4 | 
+dss_CANDELARIA.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,5 | 0,4 | 0,4 | 0,5
+dss_CANDELARIA.psv ->> HORIZONTE->CI ME/100G-K+....: 3,0 | 2,2 | 2,0 | 1,9
+dss_CANDELARIA.psv ->> HORIZONTE->CI ME/100G-H+....: - | - | - | 
+dss_CANDELARIA.psv ->> HORIZONTE->SUM.B. ME/100G(S): 17,8 | 20,5 | 17,5 | 
+dss_CANDELARIA.psv ->> HORIZONTE->CIC ME/100G(T)...: 19,0 | 21,1 | 17,8 | 17,6
+dss_CANDELARIA.psv ->> HORIZONTE->SAT.B % (S/T)....: 93,7 | 97,2 | 98,3 | 100,0

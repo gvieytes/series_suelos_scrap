@@ -1,0 +1,39 @@
+dss_LASARRIAS.psv ->> ID..........................: 312
+dss_LASARRIAS.psv ->> CLASIFICACION...............: Haplustol éntico
+dss_LASARRIAS.psv ->> SERIE.......................: LAS ARRIAS
+dss_LASARRIAS.psv ->> UBICACION...................: 7,5 km al Sur de la localidad homónima, departamento Tulumba
+dss_LASARRIAS.psv ->> PROVINCIA...................: CORDOBA
+dss_LASARRIAS.psv ->> LATITUD.....................: S300300
+dss_LASARRIAS.psv ->> LONGITUD....................: O633700
+dss_LASARRIAS.psv ->> ALTITUD.....................: 180
+dss_LASARRIAS.psv ->> PENDIENTE...................: FALTA!
+dss_LASARRIAS.psv ->> DRENAJE.....................: FALTA!
+dss_LASARRIAS.psv ->> ESCURRIMIENTO...............: FALTA!
+dss_LASARRIAS.psv ->> PERMEABILIDAD...............: FALTA!
+dss_LASARRIAS.psv ->> TIPO DE SUELO...............: FRANCA GRUESA MIXTA TÉRMICA
+dss_LASARRIAS.psv ->> COLOR ......................: PARDO OSCURO
+dss_LASARRIAS.psv ->> HORIZONTE->NOMBRE(S)........: a | ac | ck
+dss_LASARRIAS.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-20 | 20-60 | 60a+
+dss_LASARRIAS.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,24 | 1,03 | 
+dss_LASARRIAS.psv ->> HORIZONTE->CARBONO ORGÁN.(%): 1,3 | 0,60 | 
+dss_LASARRIAS.psv ->> HORIZONTE->NITRÓGENO TOT.(%): 0,12 | - | 
+dss_LASARRIAS.psv ->> HORIZONTE->RELACIÓN C/N.....: 10,8 | - | 
+dss_LASARRIAS.psv ->> HORIZONTE->ARCILLA 2 (%)....: 13,9 | 13,5 | 13,1
+dss_LASARRIAS.psv ->> HORIZONTE->LIMO 2-50 (%)....: 58,7 | 64,7 | 63,2
+dss_LASARRIAS.psv ->> HORIZONTE->AMF 50-100 (%)...: 11,1 | 9,6 | 8,4
+dss_LASARRIAS.psv ->> HORIZONTE->AF 100-250 (%)...: 12,7 | 9,5 | 12,3
+dss_LASARRIAS.psv ->> HORIZONTE->AM 250-500 (%)...: 1,5 | 1,6 | 1,2
+dss_LASARRIAS.psv ->> HORIZONTE->AG 500-1000 (%)..: 1,1 | 1,0 | 0,7
+dss_LASARRIAS.psv ->> HORIZONTE->AMG 1-2 mm (%)...: 0,1 | 0,1 | 
+dss_LASARRIAS.psv ->> HORIZONTE->CALCAREO CaCO3(%): 0 | 0 | 3,4
+dss_LASARRIAS.psv ->> HORIZONTE->EQUIV. HUMEDAD(%): 23,4 | 21,9 | 21,5
+dss_LASARRIAS.psv ->> HORIZONTE->PH PASTA.........: 6,6 | 7,0 | 7,5
+dss_LASARRIAS.psv ->> HORIZONTE->PH H2O 1:2,5.....: 6,7 | 7,2 | 7,9
+dss_LASARRIAS.psv ->> HORIZONTE->CI ME/100G-Ca++..: 12,3 | 12,3 | 
+dss_LASARRIAS.psv ->> HORIZONTE->CI ME/100G-Mg++..: 1,3 | 1,5 | 
+dss_LASARRIAS.psv ->> HORIZONTE->CI ME/100G-Na+...: 0,3 | 0,3 | 0,4
+dss_LASARRIAS.psv ->> HORIZONTE->CI ME/100G-K+....: 1,6 | 2,0 | 1,9
+dss_LASARRIAS.psv ->> HORIZONTE->CI ME/100G-H+....: 1,3 | 0,4 | 
+dss_LASARRIAS.psv ->> HORIZONTE->SUM.B. ME/100G(S): 15,5 | 16,1 | 
+dss_LASARRIAS.psv ->> HORIZONTE->CIC ME/100G(T)...: 17,0 | 16,5 | 14,1
+dss_LASARRIAS.psv ->> HORIZONTE->SAT.B % (S/T)....: 91 | 97 | 

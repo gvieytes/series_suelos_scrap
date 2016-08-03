@@ -1,0 +1,179 @@
+--------------------------------------------------------------------------------
+SERIE EMBARCADERO BERISSO Símbolo: EBso
+Pertenece a la familia "fina, mixta, térmica" de los Argiacuoles típicos.
+Son suelos poco profundos, con drenaje deficiente (muy pobremente drenado), y presencia de concreciones ferromanganesíferas en todo el perfil, con la capa freática alta en el perfil.
+Suelos desarrollados en sedimentos loessoides gleizados mezclados con materiales lacustres, recientemente retransportados.
+Perfil tipo: ER1-133C
+Fecha: 20-X-2002
+Ubicación: Km 19, ruta Nº 14 (foto IR 092-16) - Dto. Ceibas - Dpto. Gualeguaychú.
+Reconocedores: O.A. Foti, R.H. Fuentes.
+A1: 00-17 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura en bloques angulares irregulares finos, fuertes; muy duro en seco, muy firme en húmedo; concreciones ferromanganesíferas escasas; moteados de hierro-manganeso comunes, finos y precisos; límite abrupto, suave.
+B21: 17-40 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, finos, fuertes; muy duro en seco; muy firme húmedo; caras de fricción ("slickensides") escasas, finas; concreciones ferromanganesíferas comunes de hasta 2 mm; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B22: 40-70 cm; gris oscuro (10YR 4/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, finos, fuertes; muy duro en seco, firme en húmedo; barnices ("clay humic") escasos; caras de fricción ("slickensides") comunes; concreciones ferromanganesíferas escasas; concreciones calcáreas abundantes, finas; comunes carbonatos libres en la masa; moteados de hierro-manganeso, comunes, finos y precisos; límite gradual, suave.
+B3: 70-110 cm; gris (7,5YR 6/0) en húmedo; franco-arcillo-limoso; estructura en bloques angulares irregulares, finos, fuertes; muy duro en seco; firme en húmedo; caras de fricción ("slickensides") escasas; concreciones ferromanganesíferas, escasas; concreciones calcáreas, escasas, finas; moteados de hierro-manganeso comunes, finos y precisos.
+Variabilidad de rasgos
+El solum varía entre 90-100 cm, en algunos casos un poco más profundo. El epipedón tiene un espesor de 17-25 cm, compuesto de un A1 de color gris oscuro con tenores de materia orgánica de 7.21 % que aumenta en sectores donde el hidromorfismo es más pronunciado.
+El B2 tiene concreciones ferromanganesíferas de hasta 3 mm que decrecen en profundidad, tiene 34-37 % de arcilla. El calcáreo, en concreciones finas, se encuentra entre los 45-50 cm.
+El horizonte C no pudo ser descripto por el ascenso de la capa freática hasta 70 cm de profundidad.
+Otra característica de la serie es la notable cantidad de hormigueros, ("tacurues"), separados cada 5 metros aproximadamente, actividad biológica que provoca variadas alteraciones en el perfil.
+Fases
+No se describieron a nivel de reconocimiento.
+Drenaje
+Muy pobremente drenado. Escurrimiento superficial muy lento a estancado. Permeabilidad muy lenta. Capa freática poco profunda. Grupo hidrológico D.
+Erosión
+La serie Embarcadero Berisso no tiene erosión actual ni peligro a la misma.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie Embarcadero Berisso
+ER1-133C
+N° de registro
+ 10787
+ 10788
+ 10789
+ 10790
+Horizonte
+ A1
+ B21
+ B22
+ B3
+Profundidad (cm)
+ 05-15
+ 20-35
+ 45-60
+ 75-90
+Mat.organica (%)
+ 7.21
+ 2.62
+ 0.90
+ 0.74
+C (%)
+ 4.19
+ 1.53
+ 0.52
+ 0.43
+N (%)
+ 0.369
+ 0.109
+ 0.053
+ 0.038
+C/N
+ 11.36
+ 14.04
+ 9.81
+ 11.32
+T <2
+ 25 22
+ 34.28
+ 37.20
+ 36.18
+E 2-20
+ 32.12
+ 29.98
+ 27.15
+ 27.54
+X 2-50
+ 66.30
+ 55.83
+ 58.43
+ 55.04
+T 50-100
+ 2.03
+ 2.01
+ 0.99
+ 1.38
+U 100-250
+ 6.29
+ 7.43
+ 3.23
+ 7.00
+R 250-500
+ -
+ -
+ -
+ -
+A 500-1000
+ 0.16
+ 0.37
+ 0.12
+ 0.31
+ 1000-2000
+ -
+ 0.08
+ 0.03
+ 0.09
+CO3Ca (%)
+ 0.0
+ 0.0
+ 7.17
+ 0.0
+PH H2O
+ 8.2
+ 8.7
+ 8.6
+ 8.4
+PH ClK
+ 7.5
+ 7.5
+ 7.5
+ 7.1
+Capacidad de intercambio catiónico (m.e./100 g) =
+ Valor T
+ 33.10
+ 30.35
+ 36.89
+ 31.53
+D
+Ca++
+ 21.18
+ 23.03
+ 22.32
+ 20.85
+C
+E
+A
+Mg++
+ 4.60
+ 4.78
+ 4.82
+ 3.77
+T
+C
+I
+A
+K+
+ 0.76
+ 0.82
+ 0.96
+ 0.79
+O
+M
+N
+B
+Na+
+ 0.84
+ 0.84
+ 0.67
+ 0.44
+E
+I
+S
+O
+H+
+ 2.72
+ 0.87
+ 8.13
+ 5.68
+% Na/T
+ 0.025
+ 0.028
+ 0.018
+ 0.014
+Equivalente de humedad (%)
+ 27.06
+ 36.17
+ 39.49
+ 38.42
+P disponible (ppm)
+ 18.20
+ 8.20
+ 6.00
+ 4.70

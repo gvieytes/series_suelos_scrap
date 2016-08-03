@@ -1,0 +1,221 @@
+--------------------------------------------------------------------------------
+SERIE EL DIECISIETE Símbolo: EDcte
+Pertenece a la familia "fina, montmorillonítica, térmica" de los Argiudoles vérticos.
+Son suelos profundos, moderadamente bien drenados, con un epipedón oscuro, franco limoso a franco-arcillo-limoso y un horizonte argílico oscuro, arcillo-limoso, con moteados de hierro-manganeso y caras de fricción ("slickensides").
+Tiene concreciones de CO3Ca a partir de 90-100 cm en el horizonte Cca. Suelos desarrollados en materiales loessoides calcáreos retransportados, de textura franco-arcillo-limosa.
+Perfil tipo: ER7-98C
+Fecha: 08-VI-1995
+Ubicación: Estancia "El Diecisiete" (foto 426-126) - dto Hinojal - Dpto. Victoria.
+Reconocedores: L.O.López; O.A. Foti.
+A1: 00-16 cm; gris muy oscuro (10YR 3/1) en húmedo; franco-limoso; estructura en bloques subangulares y granular medios, moderados; muy duro en seco, friable en húmedo; barnices ("humic skins") comunes; concreciones de hierro-manganeso escasas; moteados de hierro-manganeso comunes, finos y precisos; límite gradual, suave.
+B1: 16-25 cm; negro (10YR 2.5/1) en húmedo; franco-arcillo-limoso; estructura en bloques angulares y subangulares irregulares medios y débiles; friable en húmedo; barnices ("clay humic skins" y "clay skins") comunes; caras de fricción ("slickensides") escasas y finas; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, finos y precisos; límite claro, suave.
+B21t: 25-44 cm; gris muy oscuro (10YR 3/1.5) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares medios, débiles que rompen en bloques subangulares y angulares irregulares medios, moderados; firme en húmedo; barnices ("clay humic skins" y "clay skins") escasos; caras de fricción ("slickensides") comunes, finas y gruesas; concreciones de hierro-manganeso escasas y finas; moteados de hierro-manganeso comunes, medios y precisos; límite gradual, ondulado.
+B22t: 44-65 cm; pardo oscuro (7.5YR 3/2) en húmedo; arcillo-limoso; estructura en prismas compuestos irregulares gruesos y moderados, que rompen en otros prismas compuestos irregulares medios y débiles; friable en húmedo; barnices ("clay skins") comunes y finos; caras de fricción ("slickensides") comunes y finas; moteados de hierro-manganeso comunes, finos y precisos; chorreaduras de materia orgánica por grietas; raíces aplastadas en las caras de los agregados; límite claro, ondulado.
+B3: 65-94 cm; pardo a pardo oscuro (7.5YR 4/2) en húmedo; franco-arcillo-limoso; estructura en prismas compuestos irregulares medios y moderados, que rompen en bloques subangulares y angulares irregulares medios, débiles; caras de fricción ("slickensides") comunes y gruesas; moteados de hierro-manganeso comunes, medios y precisos; concreciones de hierro-manganeso escasas y finas; chorreaduras de materia orgánica; raíces aplastadas en las caras de los agregados; límite gradual, suave.
+Cca: 94 cm+; pardo oscuro (7.5YR 4/3) en húmedo; franco-arcillo-limoso; estructura masiva; friable en húmedo; concreciones de hierro-manganeso escasas a comunes; moteados de hierro-manganeso abundantes, medios y precisos; abundantes carbonatos libres en la masa; concreciones calcáreas escasas a comunes.
+Variabilidad de rasgos
+La variabilidad de rasgos no se conoce.
+Fases
+No posee a nivel de reconocimiento.
+Series similares y sus diferencias
+La Serie El Diecisiete se parece a la Serie Aranguren, pero ésta es más arcillosa desde superficie y tiene un B2t potente.
+Drenaje
+Moderadamente bien drenado; escurrimiento superficial medio. Permeabilidad lenta a moderadamente lenta. Napa freática profunda. Grupo hidrológico C.
+Erosión
+La Serie El Diecisiete tiene erosión leve (principalmente en forma laminar), y la susceptibilidad a la misma es moderada.
+DATOS ANALITICOS DEL PERFIL TIPICO
+Serie El Diecisiete
+ER7-98C
+N° de registro
+ 10.338
+ 10.339
+ 10.340
+ 10.341
+ 10.342
+ 10.343
+Horizonte
+ A1
+ B1
+ B21t
+ B22t
+ B3
+ Cca
+Profundidad (cm)
+ 02-14
+ 17-24
+ 30-40
+ 50-60
+ 75-90
+ 115-130
+Mat.organica (%)
+ 4.83
+ 3.41
+ 1.60
+ 0.92
+ 0.52
+ 0.29
+C/N
+ 10
+ 8
+ 8
+ 7
+ 8
+ 7
+T < 2 u
+ 26.8
+ 35.2
+ 41.9
+ 40.2
+ 37.2
+ 33.6
+E 2-20 u
+ 28.8
+ 27.2
+ 21.4
+ 19.6
+ 25.2
+ 22.8
+X 2-50 u
+ 64.6
+ 57.2
+ 51.5
+ 52.0
+ 54.1
+ 58.7
+T 50-100 u
+ 0.6
+ 0.6
+ 0.5
+ 0.5
+ 0.3
+ 0.3
+U 100-250 u
+ 7.6
+ 6.6
+ 5.8
+ 7.0
+ 8.0
+ 7.1
+R 250-500 u
+ -
+ -
+ -
+ -
+ -
+ -
+A 500-1000 u
+ 0.3
+ 0.3
+ 0.3
+ 0.3
+ 0.3
+ 0.4
+CO3Ca (%)
+ -
+ -
+ -
+ -
+ 0.5
+ 9.6
+pH H2O
+ 6.4
+ 6.0
+ 6.0
+ 6.3
+ 6.6
+ 7.7
+pH ClK
+ 5.8
+ 5.2
+ 5.2
+ 5.3
+ 5.7
+ 6.9
+Conductividad eléctrica mmhos/cm
+ -
+ -
+ -
+ -
+ -
+ -
+Capacidad de
+interc. catiónico
+(m.e./100 g) = valor T
+ 31.40
+ 31.82
+ 43.61
+ 41.60
+ 34.20
+ N.D.
+d
+Ca++
+ 21.40
+ 21.61
+ 28.62
+ 28.00
+ 21.80
+ N.D.
+C
+e
+a
+Mg++
+ 4.41
+ 4.60
+ 7.01
+ 7.80
+ 8.20
+ N.D.
+t
+c
+i
+a
+K+
+ 2.64
+ 2.00
+ 2.20
+ 2.08
+ 1.44
+ 1.16
+o
+m
+n
+b
+Na+
+ 2.25
+ 2.25
+ 2.37
+ 2.72
+ 2.05
+ 2.16
+e
+i
+S
+o
+H+
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+ N.D.
+% Na/T
+ 7.17
+ 7.07
+ 5.43
+ 6.54
+ 5.99
+ 7.17
+Equivalente de humedad (%)
+ 29.5
+ 32.3
+ 38.8
+ 37.4
+ 36.4
+ 33.4
+Fósforo asimilable (ppm)
+ 6.1
+ 4.1
+ 2.1
+ 0.9
+ 0.3
+ 0.3

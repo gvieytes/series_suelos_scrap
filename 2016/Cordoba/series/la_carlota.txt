@@ -1,0 +1,47 @@
+Simbolo: LCt
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 43
+Capacidad de uso: IIIsc
+
+LaSerie La Carlota es un suelo algo excesivamente drenado desarrollado sobre sedimentos eolicos de textura franco arenosa a arenosa. Ocupa las lomadas y esta asociada geograficamente especialmente con sus fases erosionadas por el viento y otros suelos de lomas e intrazonales. Tiene escaso desarrollo, presentando un horizonte superficial de 30 cm de espesor (A o capa arable) de color oscuro, textura franco arenosa a franca con 7,8% de arcilla y 35% de limo, estructura en bloques moderados a debiles y esta bien provisto de materia organica. Le sigue en profundidad un horizonte de transicion (AC) de textura franco arenosa donde disminuye la materia organica que gradualmente pasa al material originario (horizonte C) que aparece a 60 cm de profundidad con 57% de arenas y 10% de arcilla. A 100 cm presenta un 3,6% de CO3Ca libre en la masa del suelo. Los perfiles de estaSerie tienen reaccion neutra o ligeramente acida hasta el Ck y pueden estar afectados por erosion eolica en diverso grado. Son moderadamente fertiles y las limitantes principales para su uso se derivan de la textura franco arenosa, que implica susceptibilidad a la erosion eolica ademas de los aspectos climaticos. Obviamente las texturas livianas con moderada a baja retencion de humedad acentuan la sequia edafica.
+
+Descripcion del perfil tipico:
+
+El perfil modal de estaSerie fue descrito a 30 Km al SO de la ciudad de La Carlota, departamento Juarez Celman, provincia de Cordoba.
+
+Ap	0-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso a franco; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; pH 6,3; raices escasas; limite inferior claro, suave.
+
+AC	27-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques debiles tendencia masivo; friable en humedo; no plastico; no adhesivo; pH 7; raices escasas; limite inferior gradual.
+
+C	60-100 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 7; limite inferior abrupto, ondulado.
+
+Ck	100 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso a arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticosSerie LA CARLOTA
+Situacion: Latitud: 33?36'44"S Longitud: 63?28'01"O Altitud: 131 m.s.n.m.
+|Horizonte                                                             |Ap      |AC      |C        |Ck        |
+|Profundidad de la muestra (cm)                                        |0-27    |27-60   |60-100   |100 a +   |
+|Materia Organica (%)                                                  |2,24    |        |         |          |
+|Carbono Organico (%)                                                  |1,30    |        |         |          |
+|Nitrogeno total (%)                                                   |0,14    |        |         |          |
+|Relacion C/N                                                          |9,3     |        |         |          |
+|Arcilla, <2 u (%)                                                     |7,8     |3,9     |3,1      |10,7      |
+|Limo, 2-50 u (%)                                                      |34,8    |42,9    |35,1     |30,5      |
+|Arena muy fina, 50-100 u (%)                                          |28,0    |32,8    |49,2     |47,5      |
+|Arena fina, 100-250 u (%)                                             |25,1    |19,0    |6,8      |10,1      |
+|Arena media, 250-500 u (%)                                            |1,3     |0,6     |3,0      |0,0       |
+|Arena gruesa, 500-1000 u (%)                                          |0,0     |0,0     |0,0      |0,0       |
+|Arena muy gruesa, 1-2 mm (%)                                          |0,0     |0,0     |0,0      |0,0       |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0      |3,6       |
+|Equivalente de humedad (%)                                            |17,3    |12,8    |11,7     |12,2      |
+|pH en pasta                                                           |5,7     |6,9     |6,8      |7,8       |
+|pH en agua (1:2,5)                                                    |6,3     |7,0     |7,0      |8,8       |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |8,6     |7,1     |7,3      |          |
+|                                                             |Mg++   |0,8     |1,5     |1,5      |          |
+|                                                             |Na+    |0,3     |0,2     |0,3      |0,9       |
+|                                                             |K+     |1,8     |1,9     |1,2      |2,4       |
+|                                                             |H+     |1,6     |0,7     |0,3      |          |
+|Sodio de intercambio, % (PSI)                                         |2,3     |1,8     |2,8      |11,2      |
+|Suma de bases, meq/100 gr (S)                                         |11,5    |10,7    |10,3     |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |13,1    |11,4    |10,6     |8,0       |
+|Saturacion con bases, % (S/T)                                         |87,8    |93,9    |97,2     |          |

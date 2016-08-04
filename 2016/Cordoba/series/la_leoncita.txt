@@ -1,0 +1,53 @@
+Simbolo: LLe
+Duracuol argico, limosa fina, mixta, termica
+Indice de Productividad: 55
+Capacidad de uso: Vw
+
+La Leoncita es un suelo de drenaje imperfecto, desarrollado a partir de materiales franco limosos con mas de 60% de limo, en areas de relieve deprimido (vias de avenamiento y hoyas de infiltracion) donde el escurrimiento es muy lento. La permeabilidad del suelo esta afectada por un subsuelo muy arcilloso y por la presencia de un horizonte cementado en profundidad. La reaccion del suelo llega a ser moderadamente alcalina en las secciones inferiores del perfil, lo cual se relaciona con la presencia de calcareo. El suelo superficial es de 25 cm de espesor promedio; oscuro y bien provisto de materia organica (horizonte A). Le sigue en profundidad un horizonte decolorado y pobre en materia organica (E) de unos 10 cm de espesor. El subsuelo esta considerablemente enriquecido en arcilla (horizonte Bt) y presenta abundantes barnices sobre la cara de los agregados; estructura prismatica y textura franco arcillo limosa. En la parte inferior del horizonte Bt aparecen concreciones blanquecinas de carbonato de calcio. A partir de los 80 o 90 cm el suelo se encuentra cementado formando un pan compacto, denso y continuo (duripan). Estos suelos presentan sintomas de hidromorfismo y de deficiente aireacion desde los 20 o 30 cm de la superficie. La limitante de uso principal de laSerie La Leoncita es el drenaje condicionado por la baja permeabilidad del horizonte Bt y del duripan. Este ultimo puede constituir un impedimento fisico para el desarrollo en profundidad del sistema radicular de las plantas.
+
+
+Descripcion del perfil tipico:
+
+A continuacion se describe el perfil tipico que representa a los suelos de estaSerie, que ha sido estudiado a 6 Km al Sur de la localidad de Camilo Aldao, departamento Marcos Juarez; provincia de Cordoba.
+
+A	0-26 cm; color en humedo pardo muy oscuro (10YR2/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+E	26-33 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; estructura masiva con tendencia a bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y precisos; limite inferior abrupto, ondulado.
+
+Bt	33-65 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso; estructura en prismas regulares medios fuertes que rompe en prismas irregulares; ligeramente firme en humedo; plastico; adhesivo; barnices "Clay Skins" muy abundantes, gruesos a medios; moteados abundantes, medios y precisos; escasos durinodulos finos; limite inferior claro, suave.
+
+B	65-86 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; estructura en prismas irregulares medios que rompe en bloques subangulares; duro en seco; firme en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes, medios; moteados abundantes, medios y gruesos, precisos; concreciones calcareas escasas y medias; sectores cementados; limite inferior claro, suave.
+
+BCm	86-115 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; fuertemente cementado; duro en seco; extremadamente firme en humedo; no plastico; no adhesivo; concreciones calcareas comunes, medias a gruesas; moteados gruesos y sobresalientes.
+
+Cm	115 cm a +; franco limoso.
+
+Datos analiticosSerie LA LEONCITA
+Situacion: Latitud: 33o10'35"S Longitud: 62o06'02"O Altitud: 100 m.s.n.m.
+
+|Horizonte                                                            |A       |E       |Bt      | B      |BCm      |Cm        |
+|Profundidad de la muestra (cm)                                       |0-26    |26-33   |33-65   |65-86   |86-115   |115 a +   |
+|Materia Organica (%)                                                 |3,68    |1,30    |0,73    |0,33    |0,22     |0,17      |
+|Carbono Organico (%)                                                 |2,14    |0,76    |0,43    |0,19    |0,13     |0,10      |
+|Nitrogeno total (%)                                                  |0,179   |0,081   |0,067   |0,045   |0,034    |0,034     |
+|Relacion C/N                                                         |11,9    |9,4     |6,4     |4,2     |3,8      |2,9       |
+|Arcilla, <2 u (%)                                                    |25,7    |19,3    |30,2    |21,2    |14,3     |11,6      |
+|Limo, 2-50 u (%)                                                     |69,2    |73,9    |65,4    |71,2    |72,4     |72,5      |
+|Arena muy fina, 50-100 u (%)                                         |5,0     |7,0     |5,1     |6,9     |7,0      |6,4       |
+|Arena fina, 100-250 u (%)                                            |0,6     |0,7     |0,2     |0,3     |2,4      |4,3       |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |1,3      |1,3       |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |0,1     |2,4      |2,6       |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |0,1      |0,2       |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |1,20    |2,45     |4,19      |
+|Equivalente de humedad (%)                                           |29,0    |23,9    |32,7    |31,8    |29,1     |26,7      |
+|pH en pasta                                                          |6,6     |6,7     |7,1     |7,9     |8,0      |8,0       |
+|pH en agua (1:2,5)                                                   |6,8     |7,1     |7,3     |8,3     |8,5      |8,6       |
+|Cationes de intercambio, meq/100 gr:                        |Ca++   |11,5    |8,6     |19,4    |        |         |          |
+|                                                            |Mg++   |2,6     |2,0     |3,8     |        |         |          |
+|                                                            |Na+    |0,6     |0,4     |1,0     |0,7     |1,7      |1,7       |
+|                                                            |K+     |2,6     |1,6     |3,6     |2,5     |3,9      |2,8       |
+|                                                            |H+     |        |        |        |        |         |          |
+|Sodio de intercambio, % (PSI)                                        |3,3     |2,9     |3,5     |2,2     |6,0      |6,4       |
+|Suma de bases, meq/100 gr (S)                                        |17,3    |12,6    |27,8    |        |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |18,4    |14,0    |28,4    |32,0    |28,4     |26,6      |
+|Saturacion con bases, % (S/T)                                        |89      |90      |98      |        |         |          |

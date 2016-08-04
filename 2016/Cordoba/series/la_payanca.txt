@@ -1,0 +1,45 @@
+Argiustol udico, franca gruesa, mixta, termica
+Indice de Productividad: 73
+
+Los suelos de laSerie La Payanca, presentan buen drenaje interno y se encuentran vinculados a amplias lomadas planas a suavemente onduladas con pendientes inferiores al 1%. Se han desarrollado a partir de materiales eolicos de textura franca. La capa arable (horizonte A) es de 27 cm de espesor, textura franca, estructura en bloques, color pardo grisaceo oscuro y buen contenido de materia organica. Luego pasa en forma muy clara, a un horizonte algo mas arcilloso (B textural), de estructura prismatica y color pardusco que se extiende hasta los 52 cm de profundidad, para pasar gradualmente al material originario que se encuentra a 70 cm de profundidad. Estos suelos son los mas productivos del area, presentando unicamente una ligera limitacion climatica. No ha sido identificada en unidades puras, sino en unidades compuestas asociadas a otros suelos libres de sales o alcalis.
+
+Descripcion del perfil tipico:
+
+El perfil que representa a los suelos de estaSerie fue descrito a 19,15 km al Oeste de la estancia La Oriental, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
+
+A	0-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios, moderados a debiles; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+Bt	27-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en prismas irregulares, moderados a debiles que rompen a bloques subangulares; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos escasos y finos; limite inferior claro, suave.
+
+BC	52-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; barnices arcillosos muy escasos y finos; limite inferior gradual, suave.
+
+C	70 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo
+
+Datos analiticosSerie LA PAYANCA
+Situacion: Latitud: 34?01'02"S Longitud: 63?13'25"O Altitud: 134 m.s.n.m.
+|Horizonte                                                             |A       |Bt      |BC      |C       |
+|Profundidad de la muestra (cm)                                        |0-27    |27-52   |52-70   |70 a +  |
+|Materia Organica (%)                                                  |2,48    |1,08    |0,53    |        |
+|Carbono Organico (%)                                                  |1,44    |0,63    |0,31    |        |
+|Nitrogeno total (%)                                                   |0,11    |0,10    |        |        |
+|Relacion C/N                                                          |13,0    |6,3     |        |        |
+|Arcilla, <2 u (%)                                                     |14,4    |17,5    |13,3    |10,0    |
+|Limo, 2-50 u (%)                                                      |38,9    |33,5    |35,1    |33,2    |
+|Arena muy fina, 50-100 u (%)                                          |37,7    |43,8    |45,7    |46,0    |
+|Arena fina, 100-250 u (%)                                             |9,4     |4,5     |6,6     |10,3    |
+|Arena media, 250-500 u (%)                                            |0,05    |0,05    |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |0,05    |0,05    |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                            |19,0    |18,6    |16,1    |12,9    |
+|pH en pasta                                                           |6,0     |6,6     |7,1     |7,3     |
+|pH en agua (1:2,5)                                                    |6,3     |7,0     |7,3     |7,5     |
+|Cationes de intercambio, meq/100 gr:                          |Ca++   |8,6     |10,1    |8,3     |7,8     |
+|                                                              |Mg++   |1,5     |0,8     |1,8     |1,6     |
+|                                                              |Na+    |0,2     |0,2     |0,2     |0,2     |
+|                                                              |K+     |2,3     |1,1     |1,2     |1,4     |
+|                                                              |H+     |2,0     |1,0     |0,7     |0,2     |
+|Sodio de intercambio, % (PSI)                                         |1,4     |1,5     |1,6     |1,8     |
+|Suma de bases, meq/100 gr (S)                                         |12,6    |12,2    |11,5    |11,0    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,4    |13,5    |12,3    |11,2    |
+|Saturacion con bases, % (S/T)                                         |87      |90      |93      |98      |

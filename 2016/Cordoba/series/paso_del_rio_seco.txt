@@ -1,0 +1,42 @@
+Simbolo: PRS
+Ustorthent tipico, franca gruesa, mixta, termica
+Indice de Productividad: 26
+
+LaSerie agrupa suelos profundos, algo excesivamente drenados, desarrollados sobre materiales fluviales franco arenosos, relacionados a terrazas altas y planicies de derrame fluvial del rio de las Barrancas. El perfil esta formado por una sucesion de capas franco arenosas, separadas mediante limites abruptos, sin estructura, teniendo la capa superior muy bajo contenido de materia organica.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de estaSerie fue descrito a 4,4 Km al SE de Paso del Rio Seco, departamento Rio Cuarto, provincia de Cordoba.
+
+Ap	0-18 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura de grano simple; no plastico; no adhesivo; limite inferior abrupto suave.
+
+2	18 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; no plastico; no adhesivo.
+
+Datos analiticosSerie PASO DEL RIO SECO
+Situacion: Latitud: 32?52'S Longitud: 64?31'O Altitud: 500 m.s.n.m.
+|Horizonte                                                             |Ap      |2       |
+|Profundidad de la muestra (cm)                                        |0-18    |18 a +  |
+|Materia Organica (%)                                                  |0,69    |-       |
+|Carbono Organico (%)                                                  |0,4     |-       |
+|Nitrogeno total (%)                                                   |0,06    |-       |
+|Relacion C/N                                                          |6,7     |-       |
+|Arcilla, <2 u (%)                                                     |5,1     |8,0     |
+|Limo, 2-50 u (%)                                                      |38,1    |25,5    |
+|Arena muy fina, 50-100 u (%)                                          |23,9    |11,8    |
+|Arena fina, 100-250 u (%)                                             |6,6     |15,4    |
+|Arena media, 250-500 u (%)                                            |4,2     |5,8     |
+|Arena gruesa, 500-1000 u (%)                                          |10,3    |15,4    |
+|Arena muy gruesa, 1-2 mm (%)                                          |11,5    |16,0    |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |
+|Equivalente de humedad (%)                                            |12,8    |10,2    |
+|pH en pasta                                                           |6,7     |6,5     |
+|pH en agua (1:2,5)                                                    |6,9     |6,6     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++    |9,5     |7,7     |
+|                                                             |Mg++    |1,0     |1,0     |
+|                                                             |Na+     |0,3     |0,3     |
+|                                                             |K+      |0,4     |0,2     |
+|                                                             |H+      |0,7     |1,1     |
+|Sodio de intercambio, % (PSI)                                         |2,5     |2,9     |
+|Suma de bases, meq/100 gr (S)                                         |11,2    |9,2     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |11,9    |10,3    |
+|Saturacion con bases, % (S/T)                                         |94,1    |89,3    |

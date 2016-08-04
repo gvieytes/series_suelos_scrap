@@ -1,0 +1,42 @@
+Calciudol petrocalcico, franca fina, mixta, termica
+Indice de Productividad: 22
+
+Se trata de un suelo imperfectamente drenado, vinculado a pendientes. El horizonte superior o capa 1, de 16 cm de espesor, con moderadamente alto contenido de materia organica (5,94%); de textura franca y estructura en bloques debiles. Continua otra capa con alto contenido de carbonato de calcio compactado. La pendiente dominante es del 1 al 3%, con escurrimiento medio y permeabilidad moderada, sin peligro de anegamiento.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de estaSerie fue descrito a 5,5 km al Sur de Villa Yacanto de Calamuchita, departamento Calamuchita, provincia de Cordoba.
+
+1	0-16 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios debiles; friable en humedo; pH 7,5; limite inferior abrupto ondulado.
+
+2km	16 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); con abundante carbonato de calcio compactado.
+
+Datos analiticosSerie YACANTO II
+Situacion: Latitud: 32o09'S Longitud: 64o45'O Altitud: 1100 m.s.n.m.
+
+|Horizonte                                                            |1       |2km        |
+|Profundidad de la muestra (cm)                                       |0-16    |16 a +     |
+|Materia Organica (%)                                                 |5,94    |           |
+|Carbono Organico (%)                                                 |3,3     |           |
+|Nitrogeno total (%)                                                  |0,3     |           |
+|Relacion C/N                                                         |10      |           |
+|Arcilla, <2 u (%)                                                    |20,3    |           |
+|Limo, 2-50 u (%)                                                     |31,5    |           |
+|Arena muy fina, 50-100 u (%)                                         |6,8     |calcarea   |
+|Arena fina, 100-250 u (%)                                            |19,1    |           |
+|Arena media, 250-500 u (%)                                           |5,2     |           |
+|Arena gruesa, 500-1000 u (%)                                         |10,1    |           |
+|Arena muy gruesa, 1-2 mm (%)                                         |6,1     |           |
+|Carbonatos, CaCO3 (%)                                                |2,1     |51,4       |
+|Equivalente de humedad (%)                                           |24,2    |           |
+|pH en pasta                                                          |7,2     |           |
+|pH en agua (1:2,5)                                                   |7,5     |           |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |        |           |
+|                                                           |Mg++    |        |           |
+|                                                           |Na+     |0,3     |           |
+|                                                           |K+      |0,6     |           |
+|                                                           |H+      |        |           |
+|Sodio de intercambio, % (PSI)                                        |1,6     |           |
+|Suma de bases, meq/100 gr (S)                                        |        |           |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,0    |           |
+|Saturacion con bases, % (S/T)                                        |        |           |

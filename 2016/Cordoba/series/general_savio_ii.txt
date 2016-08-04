@@ -1,0 +1,45 @@
+Simbolo: GSaII
+Ustipsamment tipico, arenosa, mixta, termica
+Indice de Productividad: 20
+Capacidad de uso: VIsc
+
+EstaSerie representa suelos excesivamente drenados correspondientes a las partes altas de los albardones vinculados a las terrazas altas y medias de los rios Ctalamochita (Tercero) y Soconcho, ocupando los sectores elevados longitudinales de los depositos de los rios mencionados. Las limitantes principales, ademas de las climaticas generales para toda la region, comprenden la baja retencion de capacidad de humedad, la baja fertilidad, el drenaje excesivo y la susceptibilidad a la erosion eolica e hidrica. Presenta un horizonte A de 20 cm de espesor, color pardo grisaceo oscuro a pardo amarillento, estructura en bloques muy debiles, textura arenosa franco gruesa. Continua hacia abajo una transicion de color pardo amarillenta con textura franco arenosa a areno franco gruesa que se extiende hasta 55 cm, donde tenemos el material parental del suelo con estructura masiva.
+
+Descripcion del perfil tipico:
+
+Es perfil modal de estaSerie fue descrito a 3,5 km al SE de la ciudad de Rio Tercero, departamento Tercero Arriba, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); areno franco grueso; estructura en bloques subangulares medios tendencia a suelto; muy friable en humedo; no plastico; no adhesivo; pH 6,5; raices escasas; limite inferior claro, suave.
+
+AC	20 55 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a areno franco grueso; masivo a suelto; muy friable en humedo; no plastico; no adhesivo; pH 6,9; vestigios de raices; limite inferior gradual.
+
+C	55 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso grueso; masivo a suelto; muy friable en humedo; no plastico ni adhesivo; pH 8,2.
+
+Datos analiticosSerie GENERAL SAVIO II
+Situacion: Latitud: 32o12'14"S Longitud: 64o05'47"O Altitud: 380 m.s.n.m.
+
+|Horizonte                                                             |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                        |0-20    |20-55   |55 a +  |
+|Materia Organica (%)                                                  |0,34    |0,34    |        |
+|Carbono Organico (%)                                                  |0,2     |0,2     |        |
+|Nitrogeno total (%)                                                   |0,02    |        |        |
+|Relacion C/N                                                          |9,6     |        |        |
+|Arcilla, <2 u (%)                                                     |5,0     |8,5     |2,9     |
+|Limo, 2-50 u (%)                                                      |11,6    |15,3    |10,2    |
+|Arena muy fina, 50-100 u (%)                                          |3,3     |3,0     |3,5     |
+|Arena fina, 100-250 u (%)                                             |7,1     |6,5     |7,3     |
+|Arena media, 250-500 u (%)                                            |26,6    |24,4    |27,7    |
+|Arena gruesa, 500-1000 u (%)                                          |37,4    |34,2    |39,5    |
+|Arena muy gruesa, 1-2 mm (%)                                          |7,7     |7,1     |8,2     |
+|Carbonatos, CaCO3 (%)                                                 |0       |0       |0,3     |
+|Equivalente de humedad (%)                                            |6,5     |8,5     |4,9     |
+|pH en agua (1:2,5)                                                    |6,5     |6,9     |8,2     |
+|Cationes de intercambio, meq/100 gr:                          |Ca++   |3,0     |5,1     |        |
+|                                                              |Mg++   |0,4     |0,8     |        |
+|                                                              |Na+    |0,1     |0,1     |0,1     |
+|                                                              |K+     |0,2     |0,2     |0,1     |
+|                                                              |H+     |0,5     |0,4     |        |
+|Sodio de intercambio, % (PSI)                                         |2,4     |1,5     |4,8     |
+|Suma de bases, meq/100 gr (S)                                         |3,7     |6,2     |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |4,2     |6,6     |2,1     |
+|Saturacion con bases, % (S/T)                                         |87,7    |93,6    |        |

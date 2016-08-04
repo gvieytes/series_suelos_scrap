@@ -1,0 +1,49 @@
+Simbolo: Cri
+Natracualf tipico, fina, mixta, termica
+Indice de Productividad: 16
+
+Son suelos imperfecta a pobremente drenados, desarrollados en las areas planas en los sectores mas deprimidos del microrrelieve. Superficialmente tiene un horizonte A de 15 cm sobre un Bt arcillo limoso, con signos de hidromorfismo bien manifiesto y materia organica dispersada y acumulada en las paredes de las estructuras. Este subgrupo molico se diferencia del tipico por poseer un horizonte superior menos lixiviado, en consecuencia tambien algo mas enriquecido en materia organica y por lo tanto ligeramente mas productivo. Normalmente se los encuentra con otros suelos de mayor productividad por lo que son arados y manejados de acuerdo a las posibilidades de los acompanantes, provocando en estos un deterioro que se traduce en la perdida de su capacidad original productiva y en la aparicion de los "manchones" mas deprimidos donde se encuentra este suelo y caracteristico de estos complejos donde las aptitudes son muy diferentes.
+
+Descripcion del perfil tipico:
+
+El perfil que representa este suelo, fue estudiado a 7 km al NNE de la localidad de Crispi, provincia de Santa Fe.
+
+A	0-16 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco gris pardusco claro a pardo grisaceo (10YR5,5/2); franco limoso; masivo a estructura en bloques subangulares finos; ligeramente duro y friable en humedo; ligeramente adhesivo; ligeramente plastico; moteados abundantes precisos y medios; raices abundantes; limite inferior claro, suave.
+
+Btn	16-45 cm; color en humedo pardo oscuro (7,5YR3/2); color en seco pardo a pardo oscuro (7,5YR4/2); arcillo limoso; estructura en prismas medios moderados a debiles que rompen en bloques subangulares medios y moderados; duro a muy duro; firme; muy plastico; adhesivo; barnices arcillo humico muy abundantes; moteados abundantes, precisos y medios; raices comunes; limite inferior claro, suave.
+
+Btn2	45-75 cm; color en humedo pardo (7,5YR4,5/2); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en bloques subangulares medios a moderados, debiles y finos; duro; friable en humedo; adhesivo y plastico; escasas concreciones de carbonatos medias a finas de FeMn; escasos barnices arcillosos; moteados abundantes, precisos y medios; raices escasas; limite inferior gradual.
+
+BC	75-125 cm; color en humedo pardo (7,5YR5/4); color en seco pardo claro a pardo (7,5YR5,5/4); franco arcillo limoso; estructura en bloques subangulares medios, finos y debiles; ligeramente duro; muy friable a friable en humedo; plastico; ligeramente adhesivo; moteados abundantes precisos y gruesos; concreciones de FeMn comunes; limite inferior gradual.
+
+Ck	125 cm a +; color en humedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; blando muy friable en humedo; no plastico; ligeramente adhesivo; carbonatos en la masa; moteados abundantes, precisos y gruesos; nivel freatico fluctuando en dicho horizonte.
+
+Datos analiticosSerie CRISPI
+Situacion: Latitud: 31o41'24"S Longitud: 62o00'18"O Altitud: 104 m.s.n.m.
+|Horizonte                                                            |A       |Btn     |Btn2    |BC       |Ck        |
+|Profundidad de la muestra (cm)                                       |0-16    |16-45   |45-75   |75-125   |125 a +   |
+|Materia Organica (%)                                                 |1,90    |1,21    |0,52    |0,34     |0,18      |
+|Carbono Organico (%)                                                 |1,1     |0,7     |0,3     |0,2      |0,1       |
+|Nitrogeno total (%)                                                  |0,15    |0,13    |0,11    |0,08     |0,07      |
+|Relacion C/N                                                         |7,3     |5,4     |2,7     |2,5      |1,4       |
+|Arcilla, <2 u (%)                                                    |22,5    |39,5    |34,0    |30,0     |22,0      |
+|Limo, 2-50 u (%)                                                     |74,5    |58,0    |62,5    |65,0     |71,5      |
+|Arena muy fina, 50-100 u (%)                                         |1,6     |1,1     |2,1     |1,7      |1,7       |
+|Arena fina, 100-250 u (%)                                            |0,8     |0,9     |0,8     |2,4      |3,8       |
+|Arena media, 250-500 u (%)                                           |0,3     |0,2     |0,2     |0,3      |0,4       |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
+|Arena muy gruesa., 1-2 mm (%)                                        |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0      |0,0       |
+|Equivalente de humedad (%)                                           |        |        |        |         |          |
+|pH en pasta                                                          |5,1     |7,4     |7,6     |7,6      |8,0       |
+|pH en agua (1:2,5)                                                   |5,6     |7,9     |8,3     |8,2      |8,9       |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |8,0     |14,4    |15,1    |9,7      |17,1      |
+|                                                            |Mg++    |2,2     |2,8     |2,7     |5,3      |2,9       |
+|                                                            |Na+     |1,5     |4,2     |6,2     |6,0      |5,8       |
+|                                                            |K+      |2,6     |3,7     |4,1     |3,8      |3,1       |
+|                                                            |H+      |        |        |        |         |          |
+|Sodio de intercambio, % (PSI)                                        |9,4     |16,2    |23,0    |25,0     |19,3      |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |5,7     |7,7     |3,0      |2,9       |
+|Suma de bases, meq/100 gr (S)                                        |14,3    |25,1    |28,1    |24,8     |28,9      |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,0    |26,0    |27,0    |24,0     |30,0      |
+|Saturacion con bases, % (S/T)                                        |89,4    |96,5    |100     |100      |96,3      |

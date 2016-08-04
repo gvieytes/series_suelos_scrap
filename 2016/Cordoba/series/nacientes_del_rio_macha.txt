@@ -1,0 +1,45 @@
+Simbolo: NRM
+Natracualf tipico, franca fina, mixta, termica
+Capacidad de uso: VIIws
+Indice de Productividad: 10
+
+Es un suelo fuertemente desarrollado sobre sedimentos eolicos y eolicos redepositados franco limosos dentro del valle de Avellaneda (sector oriental) en las nacientes del rio Macha y del rio Totoral en situaciones de drenaje impedido con fuerte alcalinidad sodica superficial. Es imperfectamente drenado, con susceptibilidad de anegamientos frecuentes, normalmente asociado a otros suelos de mejor aptitud. Presenta un horizonte E desde la superficie de unos 12 cm de espesor, franco limoso con 18% de arcilla y alcalinidad sodica superficial (mas de 20% del valor T). Continua hacia abajo, luego de un limite abrupto, el horizonte Bt con textura franco arcillo limosa (31% de arcilla) y estructura en prismas regulares fuertes que rompen a prismas y bloques angulares. A partir de 34 cm aparece una transicion (BC) fuertemente alcalina sodica que se extiende hasta mas de 80 cm donde el suelo se encuentra mojado por la proximidad a la capa freatica. Las limitantes estan dadas por la estructura superficial masiva y dura en seco, con baja fertilidad fisica y quimica, alcalinidad sodica desde la superficie y drenaje imperfecto con anegamientos frecuentes.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de este suelo fue descrito a 4,5 km al OSO del paraje de Macha, departamento Totoral, provincia de Cordoba.
+
+En	0-12 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; masivo tendencia a estructura en bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,1; raices escasas; limite inferior abrupto.
+
+Btn	12-34 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas regulares medios fuertes rompe a prismas y bloques angulares; duro en seco; ligeramente firme en humedo; plastico; adhesivo; pH 9,2; barnices abundantes de arcillas sodicas y materia organica; moteados comunes, medios precisos; vestigios de raices; limite inferior claro.
+
+BCn	34 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 9,3; barnices escasos arcillosos en las caras de los agregados; capa freatica aproximadamente a 100 cm.
+
+Datos analiticosSerie NACIENTES DEL RIO MACHA
+Situacion: Latitud: 30o35'35"S Longitud: 64o11'20"O Altitud: 650 m.s.n.m.
+
+|Horizonte                                                            |En      |Btn     |BCn     |
+|Profundidad de la muestra (cm)                                       |0-12    |12-34   |34 a +  |
+|Materia Organica (%)                                                 |2,93    |0,17    |        |
+|Carbono Organico (%)                                                 |1,7     |0,1     |        |
+|Nitrogeno total (%)                                                  |0,15    |0,01    |        |
+|Relacion C/N                                                         |11,3    |10,0    |        |
+|Arcilla, <2 u (%)                                                    |18,4    |31,5    |31,5    |
+|Limo, 2-50 u (%)                                                     |58,5    |50,9    |50,7    |
+|Arena muy fina, 50-100 u (%)                                         |11,2    |6,6     |7,3     |
+|Arena fina, 100-250 u (%)                                            |6,3     |5,1     |5,1     |
+|Arena media, 250-500 u (%)                                           |1,6     |1,3     |1,3     |
+|Arena gruesa, 500-1000 u (%)                                         |1,3     |1,1     |1,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,3     |0,7     |0,6     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,7     |
+|Equivalente de humedad (%)                                           |26,7    |30,9    |33,4    |
+|pH en agua (1:2,5)                                                   |8,1     |9,2     |9,3     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |10,5    |10,0    |        |
+|                                                            |Mg++    |1,1     |1,0     |        |
+|                                                            |Na+     |4,7     |4,4     |12,6    |
+|                                                            |K+      |3,0     |3,1     |2,9     |
+|                                                            |H+      |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |24,2    |23,7    |68,1    |
+|Suma de bases, meq/100 gr (S)                                        |19,3    |18,5    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,4    |18,6    |18,5    |
+|Saturacion con bases, % (S/T)                                        |100     |100     |        |

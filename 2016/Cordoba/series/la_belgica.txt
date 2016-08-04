@@ -1,0 +1,51 @@
+Simbolo: LBg
+Hapludol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 90
+Capacidad de uso: IIc
+
+Es un suelo oscuro y bien drenado de las lomas casi planas y de las lineas o vias de desague. Este suelo, desarrollado sobre materiales franco limosos, tiene una amplia aptitud para cultivos, forrajes y pasturas, aunque ya presentan alguna limitacion climatica. La capa arable de 20 cm de espesor, es de color pardo muy oscuro, de textura limosa, estructura en bloques y granular. Luego pasa a otro horizonte algo mas arcilloso (horizonte Bw, no textural) que se extiende desde 20 hasta 46 cm. Su color es pardo amarillento oscuro, estructura prismatica y presenta algunos barnices en la cara de los agregados. La transicion entre el Bw y el substrato (horizonte C) es gradual, encontrandose este a una profundidad de 85 cm, es de textura franco limosa, suelta y con abundante calcareo libre en la masa a partir de 120 cm de profundidad. Los suelos de laSerie La Belgica no tienen limitaciones fisico-quimicas para el crecimiento de las plantas, aunque presentan una limitacion de uso de orden climatico, dado el regimen de precipitaciones bajo el cual se encuentran y la capacidad de retencion de humedad de los suelos que decrece rapidamente en profundidad.
+
+Descripcion del perfil tipico:
+
+El perfil tipico fue estudiado a 16 Km al SO de la localidad de Isla Verde, departamento Marcos Juarez, provincia de Cordoba.
+
+Ap	0-20 cm; color en humedo pardo muy oscuro (10YR2/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios moderados y granular fino; friable en humedo; limite inferior claro, suave.
+
+Bw	20-46 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en prismas irregulares medios debiles a moderados; rompe a bloques; friable en humedo; ligeramente plastico; barnices "Clay Skins" escasos, finos a medios; limite inferior claro, suave.
+
+BC	46-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; barnices "Clay Skins" escasos; limite inferior difuso, suave.
+
+C	85-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; limite inferior abrupto, ondulado.
+
+Ck	120 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante calcareo libre en la masa y en concreciones.
+
+
+Datos analiticosSerie LA BELGICA
+
+Situacion: Latitud: 33?19'01"S Longitud: 62?28'25"O Altitud: 117 m.s.n.m.
+|Horizonte                                                             |Ap      |Bw      |BC      |C        |Ck        |
+|Profundidad de la muestra (cm)                                        |0-19    |19-44   |44-80   |80-123   |123 a +   |
+|Materia Organica (%)                                                  |2,73    |0,94    |0,32    |0,18     |0,18      |
+|Carbono Organico (%)                                                  |1,59    |0,55    |0,19    |0,06     |0,06      |
+|Nitrogeno total (%)                                                   |0,140   |0,076   |0,045   |         |          |
+|Relacion C/N                                                          |11,3    |7,2     |4,2     |         |          |
+|Arcilla, <2 u (%)                                                     |17,4    |18,9    |15,7    |11,9     |11,0      |
+|Limo, 2-50 u (%)                                                      |55,5    |54,5    |52,9    |54,0     |52,9      |
+|Arena muy fina, 50-100 u (%)                                          |24,1    |26,6    |28,5    |32,6     |33,4      |
+|Arena fina, 100-250 u (%)                                             |2,2     |1,9     |1,4     |1,5      |1,6       |
+|Arena media, 250-500 u (%)                                            |        |        |        |         |          |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                 |0       |0       |0       |0        |3,68      |
+|Equivalente de humedad (%)                                            |24,1    |22,6    |18      |16,4     |16        |
+|pH en pasta                                                           |6       |6,6     |7       |7,3      |8,2       |
+|pH en agua (1:2,5)                                                    |6,3     |7       |7,3     |7,8      |8,8       |
+|Cationes de intercambio, meq/100 gr:                          |Ca++    |12,6    |14,1    |11,0    |11,1     |          |
+|                                                              |Mg++    |1,6     |2,1     |1,5     |2,1      |          |
+|                                                              |Na+     |0,2     |0,2     |0,2     |0,2      |0,5       |
+|                                                              |K+      |2,5     |2,0     |1,5     |2,0      |2,6       |
+|                                                              |H+      |2,0     |1,1     |0,8     |         |          |
+|Sodio de intercambio, % (PSI)                                         |1,0     |1,0     |1,3     |1,3      |3,5       |
+|Suma de bases, meq/100 gr (S)                                         |16,9    |18,4    |14,2    |15,4     |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |19,2    |20,0    |15,4    |15,2     |14,4      |
+|Saturacion con bases, % (S/T)                                         |88      |92      |92      |100      |          |

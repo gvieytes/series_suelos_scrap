@@ -1,0 +1,45 @@
+Simbolo: LPn
+Natralbol tipico, franca fina, mixta, termica
+Indice de Productividad: 42
+
+LaSerie Los Portenos, es un suelo moderadamente bien drenado a imperfectamente drenado, vinculado a sectores bajos de relieve concavo, dentro de lomas arenosas onduladas. El horizonte Ap (capa arable) de 19 cm de espesor, es de color pardo grisaceo muy oscuro, de textura franca y estructura en bloques, luego pasa en forma abrupta a un horizonte mas claro, de textura franca y estructura masiva (E), a los 57 cm de profundidad y en forma abrupta pasa a un horizonte con mayor contenido de arcilla, estructura prismatica y mas del 20% de sodio intercambiable, que limitan el desarrollo normal de las raices. Presentan moteados desde la superficie, que senalan impedimentos en el drenaje del suelo. El clima y elevado contenido de sodio intercambiable a partir de los 57 cm son las limitaciones de estos suelos.
+
+Descripcion del perfil tipico:
+
+El perfil modal de estaSerie fue estudiado a 3 Km al SO de la estacion Pegasano del FCGSM, departamento General Roca, provincia de Cordoba.
+
+Ap	0-19 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios, debiles a moderados; friable en humedo; moteados abundantes, finos y debiles; limite inferior claro, suave.
+
+E	19-57 cm; color en humedo pardo oscuro (10YR3/3); franco; masivo; friable en humedo; muy escasos barnices arcillosos; moteados abundantes, medios y precisos; limite inferior abrupto, ondulado.
+
+Btn	57 cm a +; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en prismas irregulares medios moderados; ligeramente firme en humedo; barnices arcillosos "Clay Skins" comunes y medios; moteados abundantes, medios y precisos.
+
+Datos analiticosSerie LOS PORTENOS
+Situacion: Latitud: 34o37'50"S Longitud: 64o44'15"O Altitud: 240 m.s.n.m.
+
+|Horizonte                                                            |Ap      |E       |Btn     |
+|Profundidad de la muestra (cm)                                       |0-19    |19-57   |57 a +  |
+|Materia Organica (%)                                                 |2,15    |1,27    |0,58    |
+|Carbono Organico (%)                                                 |1,25    |0,74    |0,34    |
+|Nitrogeno total (%)                                                  |0,148   |0,095   |0,079   |
+|Relacion C/N                                                         |8,4     |7,8     |4,3     |
+|Arcilla, <2 u (%)                                                    |12,7    |15,8    |23,5    |
+|Limo, 2-50 u (%)                                                     |43,2    |52,0    |52,8    |
+|Arena muy fina, 50-100 u (%)                                         |25,5    |18,2    |14,7    |
+|Arena fina, 100-250 u (%)                                            |18,3    |13,7    |8,7     |
+|Arena media, 250-500 u (%)                                           |0,5     |0,2     |0,4     |
+|Arena gruesa, 500-1000 u (%)                                         |0,5     |0,4     |0,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |        |        |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                           |21,8    |25,5    |27,7    |
+|pH en pasta                                                          |6,4     |6,7     |7,5     |
+|pH en agua (1:2,5)                                                   |6,5     |7,0     |8,2     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |8,3     |12,0    |12,4    |
+|                                                             |Mg++   |1,3     |0,4     |1,8     |
+|                                                             |Na+    |0,3     |0,6     |4,5     |
+|                                                             |K+     |3,3     |2,8     |3,2     |
+|                                                             |H+     |1,9     |1,5     |        |
+|Sodio de intercambio, % (PSI)                                        |2,0     |3,5     |20,7    |
+|Suma de bases, meq/100 gr (S)                                        |13,2    |15,8    |21,9    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,3    |17,2    |21,7    |
+|Saturacion con bases, % (S/T)                                        |86      |92      |100     |

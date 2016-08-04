@@ -1,0 +1,44 @@
+Calciudol litico, esqueletica, arenosa, mixta, termica
+Indice de Productividad: 36
+
+Se trata de un suelo bien drenado, vinculado a lomas onduladas. La capa superior (A) presenta un contenido moderadamente alto de materia organica (5,9%), de textura franco arenosa y estructura granular. El perfil continua con otra capa arenosa que se apoya sobre caliza muy meteorizada de fuerte reaccion al acido clorhidrico, mezclada con trozos de roca. La pendiente dominante es del 1%, con escurrimiento medio, permeabilidad moderadamente rapida y sin peligro de anegamiento.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de estaSerie fue encontrado a 16,5 km al SO de la localidad de San Ignacio, departamento Calamuchita, provincia de Cordoba.
+
+A	0-7 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura granular; friable en humedo; pH 7,2; abundantes raices; limite inferior abrupto suave.
+
+2	7-27 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); arenoso; estructura en bloques subangulares debiles; muy friable en humedo; pH 8,1; abundantes raices; limite inferior abrupto ondulado.
+
+3k	27 cm a +; color en humedo pardo amarillento (10YR5/4); fuerte reaccion al acido clorhidrico; presencia de pedregosidad.
+
+Datos analiticosSerie SAN IGNACIO II
+Situacion: Latitud: 32o16'S Longitud: 64o40'O Altitud: 750 m.s.n.m.
+
+|Horizonte                                                            |A       |2       |3k         |
+|Profundidad de la muestra (cm)                                       |0-7     |7-27    |27 a +     |
+|Materia Organica (%)                                                 |5,69    |        |           |
+|Carbono Organico (%)                                                 |3,3     |        |           |
+|Nitrogeno total (%)                                                  |0,4     |        |           |
+|Relacion C/N                                                         |8       |        |           |
+|Arcilla, <2 u (%)                                                    |7,4     |4,5     |           |
+|Limo, 2-50 u (%)                                                     |21,1    |19,9    |calcarea   |
+|Arena muy fina, 50-100 u (%)                                         |7,8     |4,7     |           |
+|Arena fina, 100-250 u (%)                                            |42,8    |39,1    |           |
+|Arena media, 250-500 u (%)                                           |9,4     |12,6    |           |
+|Arena gruesa, 500-1000 u (%)                                         |7,3     |10,8    |           |
+|Arena muy gruesa, 1-2 mm (%)                                         |2,2     |6,0     |           |
+|Carbonatos, CaCO3 (%)                                                |        |6,1     |21,6       |
+|Equivalente de humedad (%)                                           |18,8    |13,1    |           |
+|pH en pasta                                                          |6,6     |        |           |
+|pH en agua (1:2,5)                                                   |7,2     |8,1     |           |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |16,2    |        |           |
+|                                                             |Mg++   |1,1     |        |           |
+|                                                             |Na+    |0,3     |0,2     |           |
+|                                                             |K+     |0,9     |0,3     |           |
+|                                                             |H+     |1,2     |        |           |
+|Sodio de intercambio, % (PSI)                                        |1,5     |1,6     |           |
+|Suma de bases, meq/100 gr (S)                                        |18,5    |        |           |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,7    |12,3    |           |
+|Saturacion con bases, % (S/T)                                        |94      |        |           |

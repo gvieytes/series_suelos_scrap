@@ -1,0 +1,50 @@
+
+Simbolo: CCz
+
+
+Duracuol natrico, fina, illitica, termica
+
+
+Indice de Productividad: 31
+
+LaSerie Canada la Cruz es un suelo imperfectamente drenado, desarrollado sobre materiales franco limosos del segundo escalon estructural de la Subregion II, en el Este de la provincia de Cordoba. Se relaciona intimamente con pozos de infiltracion, areas planas moderadamente deprimidas y lineas de escurrimiento. Esta siempre asociada a otros suelos con evidentes problemas de drenaje. Presenta una capa arable de 18 cm de espesor, de textura franco limosa con buen contenido de materia organica y estructura en bloques subangulares. Le sigue hasta los 26 cm un horizonte lixiviado con abundantes moteados y estructura masiva. Luego se pasa a un horizonte mas arcilloso con estructura semicolumnar, textura franco arcillo limosa y ligeramente alcalino; este horizonte se extiende hasta 67 cm. Le sigue a mayor profundidad un horizonte cementado en mas de 70%, con ligero aumento de la alcalinidad. Algunos perfiles pueden presentar aumentos moderados en la alcalinidad subsuperficial indicada o cementacion mas proxima a la superficie inclusive desde 50 cm (base del horizonte Bt).
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico que responde al concepto central de laSerie Canada La Cruz, fue estudiado a 15,6 Km al Oeste de la estancia La Leoncita, en el departamento Union, provincia de Cordoba.
+
+Ap	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados y granular; moteados escasos, finos y debiles; raices abundantes; limite abrupto, suave.
+
+E	18-26 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); color en seco gris pardusco claro (10YR6/2); masivo, moteados comunes, finos y precisos; friable en humedo; raices comunes; limite inferior claro, ondulado.
+
+Bt	26-67 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura semicolumnar medio, rompe a prismas; firme en humedo; plastico; adhesivo; concreciones de FeMn escasas medias; barnices muy abundantes medios y gruesos; moteados abundantes, finos y precisos; raices escasas; limite gradual, suave.
+
+Btm	67 cm a +; color en humedo pardo grisaceo oscuro (10YR4/2); franco arcillo limoso a franco arcilloso, cementado 70%; plastico; adhesivo; concreciones de Ca y Mn muy abundantes; barnices humico arcillosos abundantes medios; moteados muy abundantes.
+
+
+Datos analiticosSerie CANADA LA CRUZ
+
+Situacion: Latitud: 32?05'24"S Longitud: 62?44'19"O Altitud: 137 m.s.n.m.
+|Horizonte                                                            |Ap      |E       |Bt      |Btm     |
+|Profundidad de la muestra (cm)                                       |0-18    |18-26   |26-67   |67 a +  |
+|Materia Organica (%)                                                 |3,43    |1,45    |0,93    |0,45    |
+|Carbono Organico (%)                                                 |1,99    |0,84    |0,54    |0,26    |
+|Nitrogeno total (%)                                                  |0,188   |0,095   |0,078   |0,050   |
+|Relacion C/N                                                         |10,6    |8,8     |6,9     |5,2     |
+|Arcilla, <2 u (%)                                                    |20,5    |16,0    |39,9    |22,0    |
+|Limo, 2-50 u (%)                                                     |69,99   |76,39   |57,0    |48,0    |
+|Arena muy fina, 50-100 u (%)                                         |5,7     |5,6     |3,8     |17,5    |
+|Arena fina, 100-250 u (%)                                            |2,9     |0,7     |0,6     |0,2     |
+|Arena media, 250-500 u (%)                                           |0,5     |        |        |3,5     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |8,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |1,0     |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |0       |
+|Equivalente de humedad (%)                                           |28,4    |26,2    |30,6    |27,1    |
+|pH en pasta                                                          |5,0     |6,0     |6,7     |7,2     |
+|pH en agua (1:2,5)                                                   |5,5     |6,3     |7,2     |7,6     |
+|Cationes de intercambio, meq/100 gr:                                 |Ca++    |9,4     |9,6     |15,4    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |7,2     |
+|Suma de bases, meq/100 gr (S)                                        |14,1    |13,9    |23,7    |20,5    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,8    |15,2    |24,6    |19,8    |
+|Saturacion con bases, % (S/T)                                        |79      |91      |96      |100     |

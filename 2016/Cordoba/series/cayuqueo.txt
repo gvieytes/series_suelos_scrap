@@ -1,0 +1,56 @@
+Simbolo: Cq
+Natracuol tipico, limosa fina, mixta, termica
+Indice de Productividad: 8
+
+EstaSerie corresponde a suelos de color oscuro, imperfectamente drenados, desarrollados a partir de sedimentos loessicos de textura franco limosa. Ocupan las posiciones concavas del relieve y son susceptibles a encharcarse o anegarse. La capa arable (A) es de textura franco limosa y estructura en bloques subangulares moderados. El subsuelo presenta un notable incremento en arcilla (Bt) de textura franco arcillo limosa, estructura prismatica. Hacia abajo pasa gradualmente al material originario (horizonte Ck) que se encuentra a una profundidad de 76 cm de textura franco limosa, con abundante calcareo pulverulento en la masa del suelo. Las limitaciones que presentan estos suelos son severas. La parte superficial posee alcalinidad sodica con 25% de sodio, en el complejo de intercambio, aumentando el porcentaje en profundidad. Las condiciones fisicas del suelo se ven afectadas por la presencia de sodio que reduce la permeabilidad al agua y al aire. De acuerdo a la posicion en el relieve, algunos perfiles de estaSerie presentan sales solubles a distinta profundidad. El drenaje es muy pobre y la capa de agua freatica se encuentra cerca de la superficie durante ciertos periodos.
+
+Descripcion del perfil tipico:
+
+A continuacion se describe el perfil representativo de estaSerie, estudiado a 1,3 km al Oeste de Estacion Cayuqueo, departamento General San Martin, provincia de Cordoba.
+
+An	0-19 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+
+Btn	19-42 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; plastico; adhesivo; concreciones de carbonato comunes y finas; comunes barnices medios; moteados de Fe y Mn comunes, finos y medios; limite inferior gradual.
+
+BCn	42-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; concreciones de carbonato comunes y medias; escasos barnices finos; moteados de FeMn abundantes, finos a medios; materia organica en los poros y cristales de yeso comunes; limite inferior abrupto, ondulado.
+
+Ck	74 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al acido clorhidrico en la masa; concreciones de carbonato comunes; moteados de Fe Mn comunes, medios y precisos.
+
+Datos analiticosSerie CAYUQUEO
+Situacion: Latitud: 32o48'08"S Longitud: 63o07'52"O Altitud: 155 m.s.n.m.
+
+|Horizonte                                                             |An      |Btn     |BCn     |Ck      |
+|Profundidad de la muestra (cm)                                        |0-19    |19-42   |42-74   |74 a +  |
+|Materia Organica (%)                                                  |2,93    |0,68    |0,17    |        |
+|Carbono Organico (%)                                                  |1,7     |0,4     |0,1     |        |
+|Nitrogeno total (%)                                                   |0,20    |0,09    |        |        |
+|Relacion C/N                                                          |8,5     |4,4     |        |        |
+|Arcilla, <2 u (%)                                                     |21,5    |39,4    |23,9    |14,4    |
+|Limo, 2-50 u (%)                                                      |64,9    |50,2    |55,8    |62,5    |
+|Arena muy fina, 50-100 u (%)                                          |12,1    |11,2    |18,2    |22,4    |
+|Arena fina, 100-250 u (%)                                             |0,3     |0,3     |0,4     |0,4     |
+|Arena media, 250-500 u (%)                                            |0,2     |0,2     |0,2     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |0,3     |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0       |0,5     |0,9     |2,2     |
+|Equivalente de humedad (%)                                            |29,6    |38,2    |28,8    |20,5    |
+|pH en pasta                                                           |7,6     |8,0     |8,6     |8,4     |
+|pH en agua (1:2,5)                                                    |7,9     |8,6     |8,9     |9,0     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++     |10,7    |        |        |        |
+|                                                             |Mg++     |1,5     |        |        |        |
+|                                                             |Na+      |4,7     |3,2     |        |6,2     |
+|                                                             |K+       |1,8     |1,0     |        |1,9     |
+|                                                             |H+       |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |25,3    |15,9    |33      |56,4    |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |5,14    |9,01    |        |
+|Suma de bases, meq/100 gr (S)                                         |18,7    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |18,6    |20,1    |16,5    |11,0    |
+|Saturacion con bases, % (S/T)                                         |100     |        |        |        |
+|Composicion del extracto de saturacion, meq/l:  |Cationes   |Ca++     |        |9,2     |10,8    |        |
+|                                                |           |Mg++     |        |1,4     |2,2     |        |
+|                                                |           |Na+      |        |40      |84      |        |
+|                                                |           |K+       |        |2       |2       |        |
+|                                                |Aniones    |CO3=     |        |        |        |        |
+|                                                |           |HCO3-    |        |12,8    |4,8     |        |
+|                                                |           |SO4=     |        |27,2    |59,9    |        |
+|                                                |           |Cl-      |        |15,8    |36,8    |        |

@@ -7,11 +7,12 @@
 ##      hardcodeados en este mismo script. Falta que los reciba por parametro 
 #####
 
+import os
 
 
-
-def genNombreArchivo(linea):
-    ## Armo el nombre del archivo de salida
+# Arma el nombre del archivo de salida.
+# Recibe numero de orden y renglon que diga "Serie NOMBRE-DE-SERIE"
+def genNombreArchivo(numero,linea):
     # Saco la palabra "Serie" y el espacio del principio
     nombreArchivo = linea[6:]
     # Saco los parentesis, reemplazo fin de linea con ".txt" y espacios por guion bajo
@@ -19,32 +20,39 @@ def genNombreArchivo(linea):
     # Convierto todo a minusculas
     nombreArchivo = nombreArchivo.lower()
     
-    return(nombreArchivo)
+    return(str(numeroSerie).zfill(3) + '-' + nombreArchivo)
 
 
-
+## VARIABLES
+# Variables de ubicacion de archivos de entrada y salida
 pathEntrada = '../txt/'
 nombreEntrada = 'series_de_suelos_normalizado.txt'
-corte = 'Serie'
 pathSalida = '../series/'
+
+# String de division de series (corte entre series)
+corte = 'Serie'
+
+# Inicializacion de variables
+numeroSerie = 0
+nombreSalida = ''
+lineas = []
 
 # Abro el archivo
 with open(pathEntrada + nombreEntrada,'r') as archivoEntrada:
     # Recorro todo el archivo
-    while True:
-        linea = archivoEntrada.readline()
-        if linea == '':
-            break
-
-        # Si encuentro el comienzo de una serie, abro un archivo con el nombre de esa serie para poner la salida
+    for linea in archivoEntrada:
+        # Verifico si empieza una nueva serie
         if linea.startswith(corte):
-            # Obtengo el nombre del archivo de salida
-            nombreSalida = genNombreArchivo(linea)
-            # Creo un archivo nuevo donde poner el recorte de la serie
-            with open (pathSalida + nombreSalida, 'w') as archivoSalida:
-                # Copio todas las lineas de una serie en su archivo correspondiente 
-                while True:
-                    linea = archivoEntrada.readline()
-                    if linea.startswith(corte) or linea == '':
-                        break
-                    archivoSalida.write(linea)
+            # Guardo en un archivo si no es la primera vez que aparece el punto de corte "Serie"
+            if numeroSerie > 0:
+                with open(nombreSalida, 'wt') as archivoSalida:
+                    archivoSalida.write('\n'.join(lineas))
+            lineas = []
+            numeroSerie += 1
+            nombreSalida = os.path.join(pathSalida + genNombreArchivo(numeroSerie,linea))
+        lineas.append(linea.rstrip('\n'))
+
+    with open(nombreSalida, 'wt') as archivoSalida:
+                archivoSalida.write('\n'.join(lineas))
+        
+

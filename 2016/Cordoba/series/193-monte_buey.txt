@@ -1,0 +1,56 @@
+Serie MONTE BUEY
+Simbolo: MB
+Argiudol tipico, franca fina, mixta, termica
+Indice de Productividad: 90
+Capacidad de uso: IIc
+
+La Serie Monte Buey es un suelo oscuro y bien drenado de las lomas casi planas (altos planos del segundo escalon), de los cauces o vias de desagues poco manifiestos y de las pendientes hacia el rio Carcarana y arroyo Saladillo. Este suelo desarrollado sobre sedimentos loessicos, es un tipico representante de los buenos suelos de la zona, con una amplia aptitud para cultivos, forrajes y pasturas, aunque ya presenta alguna limitacion climatica. La capa arable hasta una profundidad de 22 a 26 cm (horizonte A), es de textura franco limosa, estructura en bloques y granular, de color pardo oscuro a pardo grisaceo muy oscuro. Hacia abajo, pasa a otro horizonte mas arcilloso (horizonte Bt) que se extiende aproximadamente desde los 25 cm hasta mas o menos 60 cm. Su color es pardo a pardo oscuro, su estructura prismatica y presenta abundantes barnices en las caras de los agregados. La transicion entre el Bt y el loess del sustrato (horizonte C) es gradual. Este ultimo se encuentra a una profundidad de 90 cm; es un material franco limoso, suelto y con moderada cantidad de calcareo libre en la masa a partir de 105 cm de profundidad. Los suelos de la Serie Monte Buey son fertiles, con alto contenido de materia organica y moderada retencion de humedad; se los usa tanto para agricultura como para ganaderia. Tambien se han reconocido fases por pendiente, cuando ocupan posiciones inclinadas del relieve; en los sectores donde presentan sintomas de hidromorfismo, ha sido cartografiada como la fase moderadamente bien drenada. Dentro de la Serie Monte Buey existen algunas variaciones en el espesor del horizonte A entre 18 a 24 cm y la profundidad del solum entre 85 a 100 cm.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipo de esta Serie ha sido estudiado a 6 Km al ESE de la localidad de Monte Buey, departamento Marcos Juarez, provincia de Cordoba.
+
+Ap	0-14 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios debiles y granular; friable en humedo; limite inferior abrupto, suave.
+
+A	14-22 cm; color en humedo pardo muy oscuro (10YR2/2); color en seco pardo grisaceo a pardo grisaceo oscuro (10YR4,5/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; limite inferior claro, suave.
+
+Bt	22-43 cm; color en humedo pardo grisaceo pardo (10YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados que rompe a bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes medios; limite inferior claro, suave.
+
+B	43-60 cm; color en humedo pardo oscuro a pardo (7,5YR4/2); franco limoso; estructura en bloques subangulares con tendencia a prismas irregulares; friable en humedo; ligeramente plastico; no adhesivo; barnices "Clay Skins" escasos finos; limite inferior gradual.
+
+BC	60-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares que rompe a masivo; friable en humedo; barnices "Clay Skins" muy escasos y finos; limite inferior gradual.
+
+C	92-104 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; limite inferior abrupto, suave.
+
+Ck	104 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; moderado contenido de calcareo libre en la masa del suelo.
+
+Datos analiticos Serie MONTE BUEY
+Situacion: Latitud: 32o58'15"S Longitud: 62o24'10"O Altitud: 105 m.s.n.m.
+
+|Horizonte                                                             |Ap + A    |Bt      |B       |BC      |C        |Ck        |
+|Profundidad de la muestra (cm)                                        |0-22      |22-43   |43-60   |60-92   |92-104   |104 a +   |
+|Materia Organica (%)                                                  |3,04      |1,22    |0,68    |0,41    |0,32     |0,22      |
+|Carbono Organico (%)                                                  |1,77      |0,71    |0,40    |0,24    |0,19     |0,13      |
+|Nitrogeno total (%)                                                   |0,16      |0,089   |0,064   |0,048   |0,045    |0,042     |
+|Relacion C/N                                                          |11        |8       |6       |5       |4        |3         |
+|Arcilla, <2 u (%)                                                     |24,1      |30,0    |25,9    |22,9    |18,7     |17,8      |
+|Limo, 2-50 u (%)                                                      |62,4      |51,8    |54,0    |57,8    |55,1     |53,6      |
+|Arena muy fina, 50-100 u (%)                                          |12,9      |17,6    |18,7    |17,5    |24,4     |24,3      |
+|Arena fina, 100-250 u (%)                                             |0,6       |0,6     |1,4     |1,8     |1,6      |1,8       |
+|Arena media, 250-500 u (%)                                            |          |        |        |        |0,2      |0,2       |
+|Arena gruesa, 500-1000 u (%)                                          |          |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                          |          |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                 |0         |0       |0       |0       |0        |2,3       |
+|Equivalente de humedad (%)                                            |29,2      |29,8    |26,5    |22,9    |21,9     |23,4      |
+|pH en pasta                                                           |5,9       |6,3     |6,6     |6,8     |6,8      |7,7       |
+|pH en agua (1:2,5)                                                    |6,4       |6,9     |7,1     |7,1     |7,0      |8,0       |
+|Cationes de intercambio, meq/100 gr:                         |Ca++    |11,8      |14,0    |13,1    |12,5    |13,9     |          |
+|                                                             |Mg++    |4,0       |5,7     |5,7     |4,1     |4,7      |          |
+|                                                             |Na+     |0,3       |0,4     |0,4     |0,3     |0,3      |0,5       |
+|                                                             |K+      |2,4       |2,5     |2,3     |2,2     |2,4      |2,6       |
+|                                                             |H+      |6,0       |4,8     |3,7     |2,5     |2,3      |          |
+|Sodio de intercambio, % (PSI)                                         |1,4       |1,5     |1,8     |1,5     |1,5      |2,9       |
+|Suma de bases, meq/100 gr (S)                                         |18,5      |22,6    |21,5    |19,1    |21,3     |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |20,8      |26,1    |22,3    |20,3    |20,0     |17,3      |
+|Saturacion con bases, % (S/T)                                         |90        |87      |96      |95      |100      |          |

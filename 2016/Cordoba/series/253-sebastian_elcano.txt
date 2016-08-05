@@ -1,0 +1,52 @@
+Serie SEBASTIAN ELCANO
+
+Simbolo: SEc
+
+
+Haplustol entico, limosa gruesa a limosa fina, mixta, termica
+
+Indice de Productividad: 63
+Capacidad de uso: IVc
+
+La Serie Sebastian Elcano es un suelo de incipiente desarrollo sobre materiales franco limosos de origen eolico (loess), propia de lomas suavemente onduladas y pendientes regionales dentro de la Planicie Fluvio Eolica. Se la incluye tambien en suaves convexidades de areas mas planas que han sido afectadas por derrames fluviales posteriores, integrando unidades cartograficas compuestas. Es bien drenado, sin limitaciones, a excepcion de la climatica moderada a severa y de algunos perfiles que pueden tener ligera alcalinidad o salinidad en profundidad proxima al metro, que no afectan el normal desarrollo de las raices. La fertilidad y retencion de humedad son buenas a moderadas. Presenta las fases por alcalinidad y/o salinidad a partir de 50 cm moderadamente inclinada. En superficie es de textura franco limosa con valores altos de limo dentro de esta clase textural, color pardo grisaceo muy oscuro en humedo y estructura en bloques subangulares medios moderados. Luego de una transicion que se extiende desde 18 cm hasta 49 cm aparece el material originario (Ck) con carbonatos libres en la masa del suelo, textura franco limosa sin sales o alcalis excepto en profundidad de caracter ligera (fases).
+
+Descripcion del perfil tipico:
+
+El perfil tipo de la Serie Sebastian Elcano fue descrito a 8,8 km al Sur de la localidad de Sebastian Elcano, departamento Tulumba, provincia de Cordoba.
+
+A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 7,1; raices muy abundantes; limite inferior claro, suave.
+
+AC	18-49 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco limoso; masivo con tendencia a estructura en bloques debiles; friable en humedo; ligeramente plastico; no adhesivo; pH 7,3; raices abundantes; limite inferior abrupto, suave.
+
+Ck	49 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; no adhesivo; pH 8,3; moderada a violenta reaccion al ClH; raices escasas.
+
+Datos analiticos Serie SEBASTIAN ELCANO
+Situacion: Latitud: 30?15'S Longitud: 63?41'O Altitud: 203 m.s.n.m.
+
+|Horizonte                                                             |A       |AC      |Ck      |
+|Profundidad de la muestra (cm)                                        |0-18    |18-49   |49 a +  |
+|Materia Organica (%)                                                  |1,87    |1,48    |        |
+|Carbono Organico (%)                                                  |1,09    |0,86    |        |
+|Nitrogeno total (%)                                                   |0,110   |0,105   |        |
+|Relacion C/N                                                          |9,9     |8,2     |        |
+|Arcilla, <2 u (%)                                                     |19,7    |17,6    |16,6    |
+|Limo, 2-50 u (%)                                                      |71,8    |72,8    |70,6    |
+|Arena muy fina, 50-100 u (%)                                          |4,9     |6,7     |5,6     |
+|Arena fina, 100-250 u (%)                                             |0,8     |3,1     |5,4     |
+|Arena media, 250-500 u (%)                                            |0,6     |0,4     |1,0     |
+|Arena gruesa, 500-1000 u (%)                                          |0,2     |0,4     |0,7     |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |0,1     |0,4     |
+|Carbonatos, CaCO3 (%)                                                 |0       |0       |3,99    |
+|Equivalente de humedad (%)                                            |25,4    |24,5    |24,8    |
+|pH en pasta                                                           |6,7     |7,6     |7,9     |
+|pH en agua (1:2,5)                                                    |7,1     |7,3     |8,3     |
+|Cationes de intercambio, meq/100 gr:                          |Ca++   |17,9    |17,4    |        |
+|                                                              |Mg++   |0,6     |0,7     |        |
+|                                                              |Na+    |0,2     |0,3     |0,6     |
+|                                                              |K+     |2,5     |2,2     |2,6     |
+|                                                              |H+     |0,4     |        |        |
+|Sodio de intercambio, % (PSI)                                         |0,9     |1,5     |3,7     |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |3,10    |        |        |
+|Suma de bases, meq/100 gr (S)                                         |21,2    |20,6    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |21,5    |19,8    |16,0    |
+|Saturacion con bases, % (S/T)                                         |99      |100     |        |

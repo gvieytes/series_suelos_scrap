@@ -1,0 +1,48 @@
+Serie ONCATIVO
+Simbolo: Ot
+Haplustol entico, limosa gruesa, mixta, termica
+Indice de Productividad: 65
+Capacidad de uso: IIIc
+
+Son suelos profundos, bien a algo excesivamente drenados, desarrollados sobre materiales franco limosos que ocupan las lomas muy extendidas, casi planas. La capa arable o suelo superficial (horizonte A) tiene 23 cm de espesor, de textura franco limosa y estructura en bloques moderados, regularmente provisto de materia organica. Luego de un horizonte transicional, se alcanza el material originario (Ck) a los 55 cm de profundidad, de textura franco limosa, masivo y abundante material calcareo pulverulento diseminado en la masa del suelo. Los suelos de esta Serie muestran una moderada limitacion climatica, derivada del regimen de precipitacion bajo el cual se encuentran. Estos suelos no presentan otros impedimentos que condicionen el crecimiento de las plantas. La reaccion en todo el perfil es de ligeramente acida a neutra.
+
+Descripcion del perfil tipico:
+
+El perfil que representa a esta Serie fue descrito a 6,4 Km al SO de la localidad de Oncativo, departamento Rio Segundo, provincia de Cordoba.
+
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; abundantes raices; limite inferior claro, suave.
+
+AC	23-53 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco limoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+Ck	53 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; fuerte reaccion al acido clorhidrico en la masa del suelo.
+
+
+Datos analiticos Serie ONCATIVO
+
+Situacion: Latitud: 31?56'45"S Longitud: 63?44'20"O Altitud: 286 m.s.n.m.
+|Horizonte                                                            |A       |AC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-23    |23-53   |53 a +  |
+|Materia Organica (%)                                                 |1,90    |0,97    |0,40    |
+|Carbono Organico (%)                                                 |1,10    |0,56    |0,23    |
+|Nitrogeno total (%)                                                  |0,122   |0,096   |        |
+|Relacion C/N                                                         |9,0     |6,2     |        |
+|Arcilla, <2 u (%)                                                    |16,7    |12,2    |10,2    |
+|Limo, 2-50 u (%)                                                     |68,7    |71,1    |71,9    |
+|Arena muy fina, 50-100 u (%)                                         |15,4    |15,0    |15,0    |
+|Arena fina, 100-250 u (%)                                            |0,8     |1,0     |0,6     |
+|Arena media, 250-500 u (%)                                           |0,1     |0,1     |0,05    |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,1     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |4,69    |
+|Equivalente de humedad (%)                                           |21,1    |19,9    |19,6    |
+|pH en pasta                                                          |6,2     |7       |8,2     |
+|pH en agua (1:2,5)                                                   |6,4     |7,1     |8,3     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |9,2     |10,4    |        |
+|                                                            |Mg++    |1,1     |1,5     |        |
+|                                                            |Na+     |0,2     |0,09    |0,4     |
+|                                                            |K+      |2,8     |1,7     |0,7     |
+|                                                            |H+      |1,5     |0,5     |        |
+|Sodio de intercambio, % (PSI)                                        |1,3     |0,6     |2,9     |
+|Suma de bases, meq/100 gr (S)                                        |13,9    |13,6    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,6    |14,2    |13,7    |
+|Saturacion con bases, % (S/T)                                        |89      |96      |        |

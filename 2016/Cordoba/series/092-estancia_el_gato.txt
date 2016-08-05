@@ -1,0 +1,44 @@
+Serie ESTANCIA EL GATO
+Haplustol entico, esqueletica, franca, mixta, termica
+Indice de Productividad: 67
+
+La Serie Estancia El Gato es un Haplustol entico, profundo, bien drenado, desarrollado sobre materiales fluviales. El perfil esta formado por una sucesion de capas; la primera comprende dos horizontes, el superior arable (Ap), con moderado tenor de materia organica, moderada estabilidad de los agregados y textura franco limosa. La capa 2 presenta abundante gravilla y una textura franco arenosa. En todo el perfil se observa la presencia de laminillas de mica.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 5,5 Km al SE de Paso del Rio Seco, departamento Rio Cuarto, provincia de Cordoba.
+
+Ap	0-18 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto suave.
+
+A	18-37 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios debiles; firme en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto ondulado.
+
+2C	37 cm a +; color en humedo pardo oscuro a pardo (10YR4/3); franco arenoso; abundante gravilla fina y gravilla; no plastico; no adhesivo.
+
+Datos Analiticos Serie ESTANCIA EL GATO
+Situacion: Latitud: 32o52'S Longitud: 64o32'O Altitud: 500 m.s.n.m.
+|Horizonte                                                            |Ap      |A       |2C      |
+|Profundidad de la muestra (cm)                                       |0-18    |18-37   |37 a +  |
+|Materia Organica (%)                                                 |3,28    |-       |-       |
+|Carbono Organico (%)                                                 |1,90    |-       |-       |
+|Nitrogeno total (%)                                                  |0,20    |-       |-       |
+|Relacion C/N                                                         |9,5     |-       |-       |
+|Arcilla, <2 u (%)                                                    |23,6    |23,8    |8,0     |
+|Limo, 2-50 u (%)                                                     |60,1    |56,3    |17,4    |
+|Arena muy fina, 50-100 u (%)                                         |8,7     |9,2     |4,8     |
+|Arena fina, 100-250 u (%)                                            |3,2     |4,0     |18,8    |
+|Arena media, 250-500 u (%)                                           |1,2     |1,4     |8,4     |
+|Arena gruesa, 500-1000 u (%)                                         |2,8     |3,2     |22,8    |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,3     |2,6     |19,3    |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                           |25,1    |24,2    |8,0     |
+|pH en pasta                                                          |6,6     |6,7     |6,6     |
+|pH en agua (1:2,5)                                                   |6,9     |7,0     |6,9     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |15,6    |14,6    |4,5     |
+|                                                            |Mg++    |0,6     |1,4     |2,2     |
+|                                                            |Na+     |0,3     |0,3     |0,3     |
+|                                                            |K+      |1,6     |1,2     |0,5     |
+|                                                            |H+      |2,5     |2,1     |1,0     |
+|Sodio de intercambio, % (PSI)                                        |1,5     |1,5     |3,5     |
+|Suma de bases, meq/100 gr (S)                                        |18,1    |17,5    |7,5     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |20,6    |19,9    |8,5     |
+|Saturacion con bases, % (S/T)                                        |87,9    |87,9    |88,2    |

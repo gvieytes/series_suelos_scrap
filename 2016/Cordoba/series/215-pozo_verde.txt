@@ -1,0 +1,56 @@
+Serie POZO VERDE
+Natracualf tipico, fina, mixta, termica
+Indice de Productividad: 5
+
+La Serie Pozo Verde es un suelo imperfectamente drenado con un horizonte superior erosionado y redepositado en forma de un pequeno enlame de pocos cm. Se ha desarrollado a partir de sedimentos finos de inundacion, de textura franco limosa a franco arcillo limosa en las microareas de inundacion de los paleocauces en la planicie aluvial de La Rinconada. Ocupa pequenos sectores mas deprimidos en un microrelieve concavo diseminados entre las areas mas altas con vegetacion de jume y cardon. Se puede identificar a esta Serie en los sectores totalmente desprovistos de vegetacion (peladales). Es un suelo fuertemente salino alcalino desde la superficie con eflorescencias de sales solubles en todo el perfil. Presenta un horizonte superior o enlame de 8 cm, franco limoso a franco arcillo limoso, extremadamente salino y alcalino con eflorescencias de sales solubles en superficie en epocas de sequia. Le sigue, luego de un limite abrupto, un horizonte mas arcilloso (Btn natrico/salico con 81% de sodio de intercambio) extremadamente alcalino y fuertemente salino (51,9 mmhos de conductividad en el extracto de saturacion), tiene textura franco arcillo limosa con estructura en prismas finos fuertes que rompen a prismas y bloques cuneiformes. A 36 cm comienza un horizonte con menor contenido de arcilla (BCn) con identicas o mayores limitaciones. Se suelen observar lentes con estructura laminar como relicto del material originario que comienza a 63 cm (horizonte C) textura franco limosa a franco arcillo limosa, estructura masiva a laminar con cristales de yeso y sintomas de gleyzacion. La capa freatica se encuentra practicamente al comienzo del material originario. Los suelos de la Serie Pozo Verde pueden tener variaciones con respecto al espesor del enlame (de 3 a 9 cm). En algunos perfiles se describen como capas los horizontes BCn o C en los casos que la edafizacion no haya modificado la estratificacion original de estos materiales fluviales. Por otra parte, las condiciones de lixiviacion, erosion parcial y redeposicion del horizonte superior se dan en la mayoria de los perfiles estudiados. La extrema salinidad, alcalinidad y drenaje deficiente es una constante para todos los casos. En este sentido las limitaciones son de tal magnitud que no permiten el crecimiento de ningun vegetal aun los mas resistentes.
+
+Descripcion del perfil tipico:
+
+El perfil tipo que representa a los suelos de esta Serie ha sido estudiado a 8 Km. al Oeste de El Zapallar, departamento Rio Seco, provincia de Cordoba.
+
+enlame	0-8 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso a franco arcillo limoso; estructura laminar media moderada; friable en humedo; plastico; ligeramente adhesivo; moteado comunes medios y precisos; raices vestigios; eflorescencias salinas en superficie; limite inferior abrupto, ondulado.
+
+Btnz	8-36 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arcillo limoso a franco arcilloso; estructura en prismas irregulares medios y finos fuertes; rompe a prismas y bloques cuneiformes; ligeramente firme en humedo; muy plastico; muy adhesivo; concreciones de CO3Ca escasas y finas; barnices humico arcillosos muy abundantes y medios; vestigios de raices; pseudomicelios salinos muy abundantes; limite inferior abrupto, suave.
+
+BCnz	36-63; color en humedo pardo a pardo oscuro (10YR4/3); al tacto franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a prismas y bloques (se observan sectores con estructura laminar fina); friable en humedo; muy plastico; adhesivo; concreciones de carbonato de calcio escasas y finas; barnices arcillosos abundantes a escasos medios; pseudomicelios salinos; nodulos cementados y cristales de yeso; limite inferior gradual.
+
+Cz	63 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco arcillo limoso; masivo con tendencia laminar; friable en humedo; plastico; ligeramente adhesivo; debil reaccion al ClH en la masa del suelo; moteados comunes medios y sobresalientes; cristales de yeso; la capa freatica se encuentra a 70 cm.
+
+Datos analiticos Serie POZO VERDE
+Situacion: Latitud: 30o11'S Longitud: 63o07'O Altitud: 75 m.s.n.m.
+
+|Horizonte                                                             |Enlame     |Btnz    |BCnz    |Cz      |
+|Profundidad de la muestra (cm)                                        |0-8        |8-36    |36-63   |63 a +  |
+|Materia Organica (%)                                                  |2,91       |        |        |        |
+|Carbono Organico (%)                                                  |1,69       |        |        |        |
+|Nitrogeno total (%)                                                   |0,14       |0,12    |0,06    |        |
+|Relacion C/N                                                          |12,0       |        |        |        |
+|Arcilla, <2 u (%)                                                     |           |        |        |        |
+|Limo, 2-50 u (%)                                                      |           |        |        |        |
+|Arena muy fina, 50-100 u (%)                                          |           |        |        |        |
+|Arena fina, 100-250 u (%)                                             |           |        |        |        |
+|Arena media, 250-500 u (%)                                            |           |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |           |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |           |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0          |0,4     |1,5     |4,5     |
+|Equivalente de humedad (%)                                            |32,6       |36,0    |36,2    |37,7    |
+|pH en pasta                                                           |7,0        |7,4     |7,9     |7,8     |
+|pH en agua (1:2,5)                                                    |7,5        |7,8     |8,3     |8,4     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++     |           |        |        |        |
+|                                                            |Mg++     |           |        |        |        |
+|                                                            |Na+      |           |        |        |        |
+|                                                            |K+       |           |        |        |        |
+|                                                            |H+       |           |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |           |        |        |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |51,9       |34,6    |34,5    |51,8    |
+|Suma de bases, meq/100 gr (S)                                         |           |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |           |        |        |        |
+|Saturacion con bases, % (S/T)                                         |           |        |        |        |
+|Composicion del extracto de saturacion, meq/l:  |Cationes    |Ca++     |           |30,4    |28,8    |        |
+|                                                |            |Mg++     |           |28,8    |24,0    |        |
+|                                                |            |Na+      |           |432,0   |416,0   |        |
+|                                                |            |K+       |           |1,2     |1,2     |        |
+|                                                |Aniones     |CO3=     |           |        |        |        |
+|                                                |            |HCO3-    |           |17,6    |4,8     |        |
+|                                                |            |SO4=     |           |124,2   |125,8   |        |
+|                                                |            |Cl-      |           |345,6   |334,4   |        |

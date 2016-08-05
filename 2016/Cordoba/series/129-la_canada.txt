@@ -1,0 +1,48 @@
+Serie LA CANADA
+Simbolo: LCn
+Haplustol acuico, franca fina, mixta, termica (calcarea)
+Capacidad de uso: IVws
+Indice de Productividad: 54
+
+Este suelo se ha desarrollado en ambientes deprimidos decididamente concavos, con drenaje deficiente con la capa freatica que puede afectar los horizontes subsuperficiales o bien, en periodos de mucha carga hidrica en las cuencas, se pueden generar inundaciones de corta duracion. Se ha desarrollado a partir de sedimentos eolicos modificados por incorporacion de sedimentos ocasionados por la actividad hidrica que han modificado al loess normal de la region con arcillas proveniente de derrames de desbordes distales. Presenta un horizonte A de textura franco arcillo limosa y estructura en bloques con material calcareo en la masa del suelo, se extiende hasta 18 cm. Hacia abajo se pasa, mediante un limite claro, a un horizonte subsuperficial (Bw) de textura franco arcillo limosa y estructura en prismas irregulares debiles. Luego de una transicion que se extiende hasta 69 cm (BCk) el material parental aparece a la profundidad indicada, es masivo, tiene textura franco limosa y violenta reaccion al ClH en la masa del suelo. El perfil es moderadamente alcalino sodico a partir de 18 cm, con tenores que son moderados a partir del horizonte Bw (6%) que aumentan ligeramente con la profundidad.
+
+Descripcion del perfil tipico:
+
+Un perfil tipico de este suelo fue descripto a 11 km al ONO de la localidad de Diego de Rojas, departamento Rio Primero, provincia de Cordoba.
+
+Ak	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2), franco arcillo limoso, estructura en bloques subangulares medios moderados, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 8,2; moderada reaccion al ClH en la masa del suelo, raices abundantes, limite inferior claro suave.
+
+Bwk	18-44 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5), franco arcillo limoso, estructura en prismas y bloques moderados a debiles plastico y adhesivo, pH 9, violenta reaccion al ClH en la masa del suelo, barnices de arcilla y humus escasos a comunes,, moteados escasos a comunes finos, raices comunes, limite inferior gradual.
+
+BCk	44-69 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco arcillo limoso a franco limoso, estructura en bloques y prismas debiles gruesos, ligeramente plastico, no adhesivo, barnices arcillosos escasos, pH 9, moderada reaccion al ClH en la masa del suelo, limite inferior gradual.
+
+Ck	69 cm a +; color en humedo pardo (7,5YR5/4), franco limoso a franco arcillo limoso, masivo, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 8,1, fuerte reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie LA CANADA
+Situacion: Latitud: 31?00'05"S Longitud: 63?27'10"O Altitud: 137 m.s.n.m.
+
+|Horizonte                                                            |Ak    |Bwk    |BCk    |Ck      |
+|Profundidad de la muestra (cm)                                       |0-18  |18-44  |44-69  |69 a +  |
+|Materia Organica (%)                                                 |5,17  |1,72   |       |        |
+|Carbono Organico (%)                                                 |3,0   |1,0    |       |        |
+|Nitrogeno total (%)                                                  |0,28  |0,11   |       |        |
+|Relacion C/N                                                         |10,5  |9,0    |       |        |
+|Arcilla, <2 u (%)                                                    |32,8  |35,2   |31,1   |29      |
+|Limo, 2-50 u (%)                                                     |60,2  |57,5   |58,9   |60,0    |
+|Arena muy fina, 50-100 u (%)                                         |4,3   |6,1    |7,0    |7,5     |
+|Arena fina, 100-250 u (%)                                            |1,2   |1,3    |1,5    |1,4     |
+|Arena media, 250-500 u (%)                                           |0,7   |0,5    |1,0    |1,0     |
+|Arena gruesa, 500-1000 u (%)                                         |0,6   |0,6    |1,1    |0,9     |
+|Arena muy gruesa., 1-2 mm (%)                                        |0,1   |0,4    |1,2    |0,8     |
+|Calcareo, CaCO3 (%)                                                  |3,1   |5,6    |5,4    |7,9     |
+|Equivalente de humedad (%)                                           |32,7  |31,4   |30,2   |29,6    |
+|pH en agua 1:2,5                                                     |8,2   |9,0    |9,0    |9,1     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |      |       |       |        |
+|                                                           |Mg++    |      |       |       |        |
+|                                                           |Na+     |0,9   |1,9    |2,1    |        |
+|                                                           |K+      |2,3   |1,8    |1,9    |        |
+|                                                           |H+      |      |       |       |        |
+|Sodio de intercambio, % (PSI)                                        |2,6   |6,0    |7,2    |        |
+|Suma de bases, meq/100 gr (S)                                        |      |       |       |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |36,0  |31,3   |28,8   |27,3    |
+|Saturacion con bases, % (S/T)                                        |      |       |       |        |

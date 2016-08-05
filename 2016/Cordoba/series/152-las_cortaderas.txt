@@ -1,0 +1,48 @@
+Serie LAS CORTADERAS
+Simbolo: LCr
+Argiustol tipico, franca fina, mixta, termica (calcarea)
+Indice de Productividad: 68
+Capacidad de uso: IIIc
+
+Esta Serie de suelos se ha desarrollado a partir de derrames distales de desbordes correspondientes a loess redepositados con influencia fluvial que se advierte por la incorporacion de un porcentaje menor de fracciones de arenas gruesas en relacion a los loess tipicos de la region. Domina en amplios sectores suavemente concavos y aplanados con complejos o asociaciones con otras Series de aptitud o capacidad de uso semejantes. El valor del gradiente raramente supera la pendiente regional menor al 0,5 %. Presenta superficialmente un horizonte A de 22 cm de espesor, franca a franco limosa, de color oscuro, franco limoso y estructura en bloques subangulares. Continua hacia abajo hasta 52 cm de profundidad un horizonte subsuperficial enriquecido moderadamente en arcillas iluviales con barnices comunes a abundantes en las caras de los agregados (Bt) de textura franca a franco arcillosa, con ligera reaccion al acido clorhidrico en la masa del suelo. El material originario del suelo se encuentra a 75 cm de profundidad con carbonatos libres no salino y no sodico.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue descripto a 15 km al NE de la localidad de Rio Primero, departamento del mismo nombre, provincia de Cordoba.
+
+A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2), franco a franco limoso, estructura en bloques subangulares medios moderados, friable en humedo, ligeramente plastico, no adhesivo, pH 6,8, raices abundantes, limite inferior claro.
+
+Bt	22-52 cm; color en humedo pardo oscuro (10YR3/3), franco a franco arcilloso, estructura en prismas irregulares medios moderados, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 8,3, ligera reaccion al ClH en la masa del suelo, escasas concreciones de carbonato de calcio finas, barnices de arcilla y humus comunes a abundantes, escasas raices, limite inferior gradual.
+
+BCk	52 a 75 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco, estructura en bloques debiles gruesos, friable en humedo, no plastico, no adhesivo, pH 8,5, escasa reaccion al ClH en la masa del suelo, barnices escasos de arcillas iluviales, raices escasas, limite inferior claro.
+
+Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR4/4), franco, masivo; muy friable en humedo, no plastico, no adhesivo, pH 8,5, moderada reaccion al ClH en la masa del suelo, vestigios de raices.
+
+Datos analiticos Serie LAS CORTADERAS
+Situacion: Latitud: 31o14'36"S Longitud: 63o32'31"O Altitud: 210 m.s.n.m.
+
+|Horizonte                                                            |A       |Bt      |BCk     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-22    |22-52   |52-75   |75 a +  |
+|Materia Organica (%)                                                 |1,72    |0,52    |        |        |
+|Carbono Organico (%)                                                 |1,0     |0,3     |        |        |
+|Nitrogeno total (%)                                                  |0,12    |0,04    |        |        |
+|Relacion C/N                                                         |8,0     |8,0     |        |        |
+|Arcilla, <2 u (%)                                                    |15,1    |25,5    |21,1    |19,9    |
+|Limo, 2-50 u (%)                                                     |42,2    |32,7    |34,4    |37,4    |
+|Arena muy fina, 50-100 u (%)                                         |7,1     |5,7     |6,8     |7,4     |
+|Arena fina, 100-250 u (%)                                            |10,6    |9,6     |10,7    |9,9     |
+|Arena media, 250-500 u (%)                                           |12,6    |10,2    |10,5    |10,5    |
+|Arena gruesa, 500-1000 u (%)                                         |9,9     |9,4     |9,3     |9,2     |
+|Arena muy gruesa, 1-2 mm (%)                                         |2,7     |6,6     |6,0     |5,5     |
+|Calcareo, CaCO3 (%)                                                  |0,0     |1,6     |1,6     |1,9     |
+|Equivalente de humedad (%)                                           |16,5    |19,8    |18,0    |19,2    |
+|pH en agua (1:2,5)                                                   |6,8     |8,3     |8,5     |8,5     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++     |8,0     |        |        |        |
+|                                                           |Mg++     |0,7     |        |        |        |
+|                                                           |Na+      |0,3     |0,4     |0,4     |0,5     |
+|                                                           |K+       |1,3     |1,4     |1,0     |1,1     |
+|                                                           |H+       |0,9     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,7     |2,2     |2,4     |3,2     |
+|Suma de bases, meq/100 gr (S)                                        |10,4    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |11,3    |15,9    |14,5    |14,8    |
+|Saturacion con bases, % (S/T)                                        |91,8    |        |        |        |

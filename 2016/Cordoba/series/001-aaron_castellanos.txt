@@ -1,0 +1,51 @@
+Serie AARON CASTELLANOS
+
+Simbolo: AC
+
+
+Natralbol tipico, limosa fina, mixta, termica
+
+Indice de Productividad: 19
+
+La Serie Aaron Castellanos es un suelo profundo de textura media y pobremente drenado, levemente acido en superficie y alcalino sodico en el subsuelo. Ocupa la periferia o aureolas de las depresiones y los planos bajos y tendidos de drenaje impedido. El suelo en superficie es de textura franca a franco arenosa, en sus primeros 18 cm es mas pardo grisaceo oscuro (horizonte A) y moderadamente estructurado, mientras que en su base y hasta los 30 cm se hace mas claro (grisaceo), masivo y menos arcilloso (horizonte E). En profundidad aumenta la cantidad de arcilla, encontrandose el horizonte mas pesado del perfil (horizonte Btn), que tiene un espesor de alrededor de 35 cm, textura franco arcillosa, con estructura semicolumnar debil. Su reaccion es alcalina por exceso de sodio en el complejo de intercambio. La transicion hacia el material originario es muy gradual. El horizonte C comienza antes de 1 m de profundidad, es franco y presenta caracteristicas de hidromorfismo. Se encuentra comunmente en todo el perfil moteados de Fe y el tenor de sodio se mantiene elevado en profundidad, donde aparecen tambien concreciones de CO3Ca y nodulos cementados. En este suelo la capa freatica puede hallarse cercana a la superficie y en general satura la parte inferior del perfil gran parte del ano. Las limitaciones de uso principales estan dadas por las malas condiciones fisicas del subsuelo determinadas por la presencia de sodio, el drenaje imperfecto condicionado por la freatica cercana, la permeabilidad restringida en el subsuelo, y el anegamiento resultante de la lentitud con que elimina el agua superficial por escurrimiento.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de este suelo ha sido estudiado en el departamento General Lopez, provincia de Santa Fe, a 18,5 km al SSE de la Estacion Sancti Spiritu del FCGBM.
+
+A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados; muy friable en humedo; ligeramente duro en seco; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, ondulado.
+
+E	18-32 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso; estructura en bloques subangulares fuertes; muy friable en humedo; duro en seco; limite inferior abrupto, ondulado.
+
+Btn	32-69 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arcilloso; estructura semicolumnar media, debil; firme en humedo; muy duro en seco; plastico; adhesivo; limite inferior claro, ondulado.
+
+BCn	69 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arcilloso; estructura en bloques angulares irregulares medios moderados; friable en humedo; duro en seco; plastico; ligeramente adhesivo; moteados de Fe abundantes, medios y precisos; ligeramente cementado.
+
+Datos analiticos Serie AARON CASTELLANOS
+Situacion: Latitud: 34?10'21"S Longitud: 61?51'00"O Altitud: 95 m.s.n.m.
+|Horizonte                                                             |A       |E       |Btn     |BCn     |
+|Profundidad de la muestra (cm)                                        |0-18    |18-32   |32-69   |69 a +  |
+|Materia Organica (%)                                                  |2,43    |0,61    |        |        |
+|Carbono Organico (%)                                                  |1,41    |0,38    |        |        |
+|Nitrogeno total (%)                                                   |0,150   |0,055   |        |        |
+|Relacion C/N                                                          |10      |7       |        |        |
+|Arcilla, <2 u (%)                                                     |15,9    |13,6    |27,5    |20,9    |
+|Limo, 2-50 u (%)                                                      |27,7    |25,5    |21,1    |25,2    |
+|Arena muy fina, 50-100 u (%)                                          |54,3    |58,5    |48,7    |50,7    |
+|Arena fina, 100-250 u (%)                                             |2,2     |2,3     |2,7     |3,2     |
+|Arena media, 250-500 u (%)                                            |0,1     |0,1     |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |Vest.   |Vest.   |
+|Equivalente de humedad (%)                                            |18,5    |12,6    |25,6    |22,9    |
+|pH en pasta                                                           |5,9     |6,9     |8,4     |8,5     |
+|pH en agua (1:2,5)                                                    |6,9     |7,9     |9,2     |9,3     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++    |7,0     |10,8    |        |        |
+|                                                             |Mg++    |2,8     |3,0     |        |        |
+|                                                             |Na+     |0,4     |0,4     |9,0     |11,0    |
+|                                                             |K+      |2,3     |2,2     |4,7     |5,1     |
+|H+ de cambio (meq/100 gr)                                             |4,4     |2,0     |        |        |
+|Sodio de intercambio, % (PSI)                                         |2,8     |2,4     |35,6    |46,4    |
+|Suma de bases, meq/100 gr (S)                                         |12,5    |16,4    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,1    |16,6    |25,3    |23,7    |
+|Saturacion con bases, % (S/T)                                         |88      |98      |        |        |

@@ -1,0 +1,50 @@
+Serie LABORDE
+Simbolo: Lb
+Haplustol udico, franca gruesa, mixta, termica
+Indice de Productividad: 73
+Capacidad de uso: IIc
+
+Es un suelo bien drenado y no inundable, desarrollado sobre materiales franco a franco arenosos. Se encuentra vinculado a las lomas muy suavemente onduladas y vias de escurrimiento poco manifiestas, dentro de la transicion hacia la pampa arenosa. Los primeros 20 cm son de color pardo grisaceo muy oscuro, de textura franca y estructura en bloques moderados y granular. Luego pasa a un horizonte ligeramente mas arcilloso (B no textural), que se extiende hasta los 37 cm, de color pardo, estructura en prismas debiles y bloques, con escasos barnices finos en las caras de los agregados. La transicion al material originario (horizonte C) es muy gradual, encontrandose este a una profundidad de 70 cm, es un material franco a franco arenoso, suelto y con calcareo diseminado en la masa a partir de los 1,30 cm. Los suelos de la Serie Laborde muestran una ligera limitacion climatica derivada del regimen de precipitaciones bajo el cual se encuentran. Aparte de la condicionante climatica, estos suelos no presentan otros impedimentos de orden fisico-quimico que condicionen el crecimiento de las plantas. La reaccion en todo el perfil es de ligeramente acida a neutra; el contenido de materia organica es moderado a bueno, aunque decrece rapidamente en profundidad.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que se describe a continuacion, fue estudiado a 5 Km al Norte de Colonia Bismark, departamento Union, provincia de Cordoba.
+
+Ap	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios, moderados y granular; friable en humedo; limite inferior abrupto, suave.
+
+Bw	20-37 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco limoso; estructura en prismas irregulares medios, debiles y bloques subangulares debiles; friable en humedo; escasos barnices humico arcillosos finos; limite inferior claro, suave.
+
+BC	37-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco limoso; estructura en bloques subangulares medios debiles tendencia a masivo; muy friable en humedo; vestigios de barnices muy finos; limite inferior difuso.
+
+C	70-130 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; masivo; muy friable en humedo; limite inferior abrupto, suave.
+
+Ck	130 cm a +; color en humedo pardo (7,5YR5/4); franco a franco arenoso; masivo; muy friable en humedo; abundante calcareo diseminado en la masa del suelo.
+
+Datos analiticos Serie LABORDE
+Situacion: Latitud: 33?16'12"S Longitud: 62?43'06"O Altitud: 110 m.s.n.m.
+|Horizonte                                                            |Ap      |Bw      |BC      |C        |Ck        |
+|Profundidad de la muestra (cm)                                       |5-20    |20-37   |37-70   |70-130   |130 a +   |
+|Materia Organica (%)                                                 |2,88    |1,38    |0,66    |0,29     |0,17      |
+|Carbono Organico (%)                                                 |1,67    |0,80    |0,38    |0,17     |0,10      |
+|Nitrogeno total (%)                                                  |0,17    |0,08    |0,06    |0,03     |0,03      |
+|Relacion C/N                                                         |9,8     |10,0    |6,3     |5,7      |3,3       |
+|Arcilla, <2 u (%)                                                    |18,8    |21,0    |16,8    |13,5     |8,1       |
+|Limo, 2-50 u (%)                                                     |48,0    |44,5    |43,4    |41,9     |46,0      |
+|Arena muy fina, 50-100 u (%)                                         |31,6    |32,8    |36,7    |41,9     |42,9      |
+|Arena fina, 100-250 u (%)                                            |1,9     |2,4     |2,8     |2,4      |2,2       |
+|Arena media, 250-500 u (%)                                           |        |        |        |         |          |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0      |2,9       |
+|Equivalente de humedad (%)                                           |20,1    |21,0    |17,6    |14,3     |14,9      |
+|pH en pasta                                                          |5,6     |6,4     |6,7     |7,2      |7,9       |
+|pH en agua (1:2,5)                                                   |6,5     |7,2     |7,5     |7,7      |8,2       |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |9,5     |12,5    |8,7     |9,8      |          |
+|                                                           |Mg++    |2,7     |1,8     |3,6     |2,2      |          |
+|                                                           |Na+     |0,3     |0,3     |0,3     |0,3      |0,4       |
+|                                                           |K+      |2,6     |1,5     |1,2     |1,3      |1,2       |
+|                                                           |H+      |2,2     |0,8     |0,5     |         |          |
+|Sodio de intercambio, % (PSI)                                        |1,7     |1,7     |2,1     |2,2      |2,4       |
+|Suma de bases, meq/100 gr (S)                                        |15,1    |16,1    |13,8    |13,6     |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,9    |17,9    |14,4    |13,5     |17,0      |
+|Saturacion con bases, % (S/T)                                        |84,4    |89,9    |95,8    |100      |          |

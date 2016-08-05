@@ -1,0 +1,67 @@
+Serie AREQUITO
+Simbolo: Aq
+Argiudol acuico, fina, illitica, termica
+Indice de Productividad: 58
+
+
+La Serie Arequito es un suelo oscuro, imperfectamente drenado, que presenta un horizonte fuertemente cementado dentro del metro de profundidad, que se ha reconocido en los ambientes vecinos a cubetas o pequenas vias de drenaje cerrado. El perfil tiene un horizonte superficial (A) de 22 cm de espesor, textura franco limosa, color pardo muy oscuro y estructura en bloques moderados, le sigue un horizonte mas arcilloso (Bt) que se extiende entre los 33 y 76 cm de profundidad, la textura es arcillosa y presenta una estructura en prismas moderados, duro en seco, con abundantes barnices arcillosos que cubren sus caras. Por debajo aparece un horizonte menos arcilloso pero fuertemente cementado, y extremadamente duro en seco, que rompe en fragmentos de forma prismatica y en bloques (duripan). En forma muy gradual se pasa a un horizonte C que se encuentra a 160 cm de profundidad, cuyo material es franco limoso, suelto, con abundante calcarea diseminado en la masa y en forma de nodulos. En el perfil aparecen moteados que son mas evidentes a partir de los 35 cm hacia abajo, y los horizontes mas profundos pueden estar mojados por influencia de la capa freatica.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 6 Km al SE de la localidad de Arequito, FCBM, departamento Caseros, provincia de Santa Fe.
+
+Ap	0-14 cm; color en humedo pardo muy oscuro (10YR2/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; moteados escasos, finos y debiles; escasas raices; limite inferior abrupto, suave.
+
+A	14-22 cm; color en humedo pardo muy oscuro (10YR2/2); color en seco pardo grisaceo (10YR5/2); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; moteados escasos, finos y debiles; escasas raices; limite inferior claro, suave.
+
+B	22-33 cm; color en humedo pardo oscuro (7,5YR3/2); color en seco pardo (7,5YR5/2); franco arcillo limoso; estructura en prismas irregulares medios moderados que rompen en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices escasos "clay skins"; moteados escasos, finos y debiles; escasas raices; limite inferior claro, suave.
+
+Bt	33-76 cm; color en humedo pardo oscuro (7,5YR3/2); color en seco pardo a pardo oscuro (7,5YR4/2); arcillo limoso; estructura en prismas irregulares y regulares medios moderados; friable en humedo; plastico; adhesivo; barnices abundantes "clay skins"; moteados comunes, finos y precisos; escasas raices; limite inferior gradual, suave.
+
+Btm	76-112 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); color en seco pardo (7,5YR5/4); franco limoso; estructura en prismas irregulares medios moderados que rompen en prismas finos y bloques angulares y subangulares; extremadamente duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices abundantes "clay skins"; moteados comunes, finos y precisos; debilmente cementado; limite inferior gradual, ondulado.
+
+BC	112-133 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco rosa (7,5YR7/4); franco limoso; estructura en prismas medios debiles que rompen en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; moteados escasos, finos y precisos; moderadamente cementado en nodulos; limite inferior abrupto, ondulado.
+
+BCk	133-162 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco rosa (7,5YR7/4); franco limoso; estructura en prismas medios debiles que rompen en bloques subangulares medios moderados; muy friable en humedo; ligeramente plastico; abundantes carbonatos libres en la masa; escasas concreciones calcareas; moteados escasos, finos y precisos; moderadamente cementado en nodulos; limite inferior difuso, suave.
+
+Ck	162 cm a +; color en humedo pardo (7,5YR5/4); color en seco gris rosado (7,5YR7/2); franco limoso; estructura en grano simple; muy friable en humedo; ligeramente plastico; moderada cantidad de carbonatos libres en la masa; escasas concreciones calcareas.
+
+Datos analiticos Serie AREQUITO
+Situacion: Latitud: 33?11'44"S Longitud: 61?26'15"O Altitud: 90 m.s.n.m.
+
+|Horizonte                                                             |Ap      |A       |B       |Bt      |Btm     |
+|Profundidad de la muestra (cm)                                        |0-13    |13-35   |35-53   |53-80   |80 a +  |
+|Materia Organica (%)                                                  |2,44    |1,12    |1,02    |        |        |
+|Carbono Organico (%)                                                  |1,42    |0,65    |0,59    |        |        |
+|Nitrogeno total (%)                                                   |0,142   |0,075   |0,056   |        |        |
+|Relacion C/N                                                          |10,0    |8,7     |10,5    |        |        |
+|Arcilla, <2 u (%)                                                     |22,8    |38,9    |36,5    |26,3    |26,1    |
+|Limo, 2-50 u (%)                                                      |73,8    |59,2    |62,0    |68,9    |70,8    |
+|Arena muy fina, 50-100 u (%)                                          |2,8     |1,3     |1,6     |2,9     |2,6     |
+|Arena fina, 100-250 u (%)                                             |0,6     |0,6     |0,6     |1,1     |1,0     |
+|Arena media, 250-500 u (%)                                            |        |        |0,2     |0,2     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |0,4     |0,7     |0,7     |
+|Arena muy gruesa., 1-2 mm (%)                                         |        |        |        |0,4     |0,2     |
+|Carbonatos, CaCO3 (%)                                                 |0       |0       |0       |0       |1,61    |
+|Equivalente de humedad (%)                                            |23,8    |29,3    |31,3    |26,3    |25,1    |
+|pH en pasta                                                           |6,1     |7,0     |7,6     |8,5     |8,6     |
+|pH en agua (1:2,5)                                                    |6,3     |7,8     |8,5     |9,2     |9,1     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++     |9,1     |15,4    |13,3    |12,8    |        |
+|                                                            |Mg++     |1,1     |2,1     |1,9     |1,9     |        |
+|                                                            |Na+      |0,3     |2,1     |4,0     |2,6     |1,6     |
+|                                                            |K+       |2,2     |2,5     |2,4     |2,5     |2,6     |
+|H+ de cambio (meq/100 gr)                                             |2,2     |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |2,0     |9,5     |18,7    |13,2    |9,1     |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |        |        |4,13    |
+|Suma de bases, meq/100 gr (S)                                         |12,7    |22,2    |21,6    |19,8    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |15,3    |22,1    |21,4    |19,7    |17,6    |
+|Saturacion con bases, % (S/T)                                         |83      |100     |100     |100     |        |
+|Composicion del extracto de saturacion, meq/l: |Cationes    |Ca++     |        |        |        |        |13,28   |
+|                                               |            |Mg++     |        |        |        |        |0,80    |
+|                                               |            |Na+      |        |        |        |        |30,40   |
+|                                               |            |K+       |        |        |        |        |0,80    |
+|                                               |Aniones     |CO3=     |        |        |        |        |        |
+|                                               |            |HCO3-    |        |        |        |        |4,80    |
+|                                               |            |SO4=     |        |        |        |        |36,99   |
+|                                               |            |Cl-      |        |        |        |        |4,62    |

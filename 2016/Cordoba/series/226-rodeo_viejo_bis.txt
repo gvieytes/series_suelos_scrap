@@ -1,0 +1,43 @@
+Serie RODEO VIEJO (bis)
+Haplustol litico paralitico, franca gruesa, mixta, termica
+Capacidad de uso: VIIes
+Indice de Productividad: 6
+
+Este suelo se ha desarrollado debilmente sobre esquistos metamorficos en las sierras bajas de la vertiente oriental de la Sierra Chica de Cordoba. La pendiente oscila entre 10 a 25% en laderas muy inclinadas con vegetacion del bosque serrano. Es un suelo corto, tiene un horizonte superficial de 20 cm solamente, de color muy oscuro con gravas que no superan el 15% y estructura en bloques subangulares moderados a debiles. Por debajo de la profundidad indicada aparece el material parental del suelo que son rocas de origen metamorfico parcialmente alteradas (contacto litico-paralitico). Las limitantes son profundidad efectiva, fuertes pendientes, pedregosidad, drenaje excesivo, susceptibilidad a la erosion hidrica, baja retencion de humedad.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de los suelos de esta Serie fue descrito a 3 km al Oeste de Villa del Totoral, departamento Totoral, provincia de Cordoba.
+
+A	0-20 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso grueso (con aproximadamente 10% de gravilla); estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; pH 6,8; raices abundantes; limite inferior claro.
+
+R	20 cm a +; roca esquistosa alterada parcialmente (contacto paralitico).
+
+Datos analiticos Serie RODEO VIEJO
+Situacion: Latitud: 30o43'00"S Longitud: 64o06'15"O Altitud: 550 m.s.n.m.
+
+|Horizonte                                                            |A       |
+|Profundidad de la muestra (cm)                                       |0-20    |
+|Materia Organica (%)                                                 |3,10    |
+|Carbono Organico (%)                                                 |1,8     |
+|Nitrogeno total (%)                                                  |0,16    |
+|Relacion C/N                                                         |11,3    |
+|Arcilla, <2 u (%)                                                    |9,5     |
+|Limo, 2-50 u (%)                                                     |21,6    |
+|Arena muy fina, 50-100 u (%)                                         |10,9    |
+|Arena fina, 100-250 u (%)                                            |27,2    |
+|Arena media, 250-500 u (%)                                           |13,5    |
+|Arena gruesa, 500-1000 u (%)                                         |11,1    |
+|Arena muy gruesa, 1-2 mm (%)                                         |4,1     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |
+|Equivalente de humedad (%)                                           |13,5    |
+|pH en agua (1:2,5)                                                   |6,8     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |11,4    |
+|                                                           |Mg++    |0,3     |
+|                                                           |Na+     |0,2     |
+|                                                           |K+      |0,4     |
+|                                                           |H+      |1,5     |
+|Sodio de intercambio, % (PSI)                                        |1,4     |
+|Suma de bases, meq/100 gr (S)                                        |12,3    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |13,8    |
+|Saturacion con bases, % (S/T)                                        |89,1    |

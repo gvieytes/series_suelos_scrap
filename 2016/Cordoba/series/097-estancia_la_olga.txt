@@ -1,0 +1,48 @@
+Serie ESTANCIA LA OLGA
+Natrustalf tipico, limosa fina a fina, mixta, termica (calcarea)
+Indice de Productividad: 8
+Capacidad de uso: VIsc
+
+Es un suelo imperfectamente drenado desarrollado sobre sedimentos eolicos puros en planos extendidos con escurrimiento lento en superficies muy estables. Se encuentra severamente limitado por alcalinidad sodica fuerte, baja fertilidad y drenaje deficiente Normalmente se encuentra asociado a otros suelos de mejor aptitud conformando complejos de suelos con una distribucion cambiante en pocas decenas de metros de distancia. Presenta un horizonte superficial E de 17 cm de espesor, con estructura en bloques tendencia masiva. Continua hacia abajo un horizonte enriquecido en arcillas iluviales sodicas (36%), fuertemente alcalino sodicas con textura franco arcillo limosa y estructura en prismas fuertes. Y muy abundantes barnices en las caras de los agregados, tiene moderada a debil reaccion al ClH en la masa del suelo. Se extiende hasta 43 cm de profundidad. El material originario del suelo se encuentra a 66 cm de profundidad con carbonatos libres y fuertemente alcalino sodico.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de este suelo fue descripto a 9 km al Este de El Alcalde, departamento Rio Primero, provincia de Cordoba.
+
+En	0-16 cm; color en humedo pardo oscuro (10YR3,5/3), franco limoso a franco arcillo limoso, estructura en bloques subangulares tendencia masiva, friable en humedo, ligeramente plastico, no adhesivo, pH 7,5, raices comunes a escasas, limite inferior abrupto.
+
+Btnk	16-43 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco arcillo limoso, estructura en prismas irregulares medios moderados, friable en humedo, plastico; adhesivo, pH 9,1, moderada reaccion al ClH en la masa del suelo, barnices humico arcillosos muy abundante medios, vestigios de raices, limite inferior claro suave.
+
+BCkn	43-66 cm; color en humedo pardo amarillento oscuro (10YR4/4), franco arcillo limoso, estructura en bloques gruesos tendencia a prismas debiles, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 9,4, moderada reaccion al ClH en la masa del suelo, barnices arcillosos comunes a escasos; limite inferior gradual.
+
+Ckn	66 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4), masivo, muy friable en humedo, no plastico, no adhesivo, pH 9,6, violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie ESTANCIA LA OLGA
+Situacion: Latitud: 31o02'22"S Longitud: 63o16'19"O Altitud: 172 m.s.n.m.
+
+|Horizonte                                                            |En      |Btnk    |BCkn    |Ckn     |
+|Profundidad de la muestra (cm)                                       |0-16    |16-43   |43-66   |66 a +  |
+|Materia Organica (%)                                                 |1,21    |0,34    |        |        |
+|Carbono Organico (%)                                                 |0,7     |0,2     |        |        |
+|Nitrogeno total (%)                                                  |0,1     |        |        |        |
+|Relacion C/N                                                         |7,0     |        |        |        |
+|Arcilla, <2 u (%)                                                    |27,3    |36,7    |34,1    |17,2    |
+|Limo, 2-50 u (%)                                                     |65,9    |58,5    |61,9    |77,6    |
+|Arena muy fina, 50-100 u (%)                                         |3,3     |2,5     |2,9     |2,9     |
+|Arena fina, 100-250 u (%)                                            |1,2     |1,2     |0,6     |0,9     |
+|Arena media, 250-500 u (%)                                           |0,1     |0,2     |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,3     |0,3     |0,3     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |0,3     |        |
+|Calcareo, CaCO3 (%)                                                  |0,5     |2,1     |7,3     |6,0     |
+|Equivalente de humedad (%)                                           |28,9    |36,9    |33,8    |32,8    |
+|pH en pasta                                                          |7,9     |8,4     |8,8     |8,9     |
+|pH en agua (1:2,5)                                                   |8,5     |9,1     |9,4     |9,6     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++     |        |        |        |        |
+|                                                           |Mg++     |        |        |        |        |
+|                                                           |Na+      |3,1     |8,8     |9,4     |6,1     |
+|                                                           |K+       |2,0     |2,8     |2,5     |0,8     |
+|                                                           |H+       |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |18,9    |49,7    |61,4    |65,0    |
+|Suma de bases, meq/100 gr (S)                                        |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,4    |17,7    |15,3    |9,4     |
+|Saturacion con bases, % (S/T)                                        |        |        |        |        |

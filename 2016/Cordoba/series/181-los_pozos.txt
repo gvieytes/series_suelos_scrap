@@ -1,0 +1,46 @@
+Serie LOS POZOS
+Simbolo: LPo
+Haplustol entico, franca fina, mixta, termica
+Capacidad de uso: IVec
+Indice de Productividad: 70
+
+Este suelo se ha desarrollado sobre lomas suavemente onduladas y onduladas a partir de sedimentos eolicos franco limosos con pendientes que oscilan entre 1 a 3%. Tiene un horizonte A de 20 cm de profundidad franco limoso con 17% de arcilla y rico en materia organica. Continua hacia abajo un horizonte de transicion (AC) de textura semejante con estructura en bloques debiles a masivo con 0,3% de material calcareo en la masa del suelo. El material originario es franco limoso, masivo, con 5% de CaCO3 libre (loess); se extiende hacia abajo desde los 40 cm de profundidad.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de este suelo fue descrito a 7 km al NNO de Avellaneda, departamento Ischilin, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,1; raices abundantes; limite inferior claro, suave.
+
+ACk	20-40 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques debiles a masivo; no plastico; no adhesivo; pH 7,7; raices escasas; leve reaccion al ClH en la masa del suelo; limite inferior claro, suave.
+
+Ck	40 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,2; violenta reaccion al ClH.
+
+Datos analiticos Serie LOS POZOS
+Situacion: Latitud: 30o37'36"S Longitud: 64o07'41"O Altitud: 750 m.s.n.m.
+
+|Horizonte                                                            |A       |ACk     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-40   |40 a +  |
+|Materia Organica (%)                                                 |2,93    |1,21    |        |
+|Carbono Organico (%)                                                 |1,7     |0,7     |        |
+|Nitrogeno total (%)                                                  |0,16    |0,05    |        |
+|Relacion C/N                                                         |10,6    |14,0    |        |
+|Arcilla, <2 u (%)                                                    |17,6    |24,8    |19,2    |
+|Limo, 2-50 u (%)                                                     |67,0    |63,0    |68,4    |
+|Arena muy fina, 50-100 u (%)                                         |7,7     |5,6     |12,4    |
+|Arena fina, 100-250 u (%)                                            |2,1     |1,2     |1,4     |
+|Arena media, 250-500 u (%)                                           |1,3     |0,9     |1,1     |
+|Arena gruesa, 500-1000 u (%)                                         |1,6     |1,2     |1,4     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,6     |1,1     |1,0     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,3     |5,5     |
+|Equivalente de humedad (%)                                           |24,6    |23,9    |23,2    |
+|pH en agua (1:2,5)                                                   |7,1     |7,7     |8,2     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |18,8    |        |        |
+|                                                           |Mg++    |0,4     |        |        |
+|                                                           |Na+     |0,5     |0,4     |0,4     |
+|                                                           |K+      |2,2     |1,6     |1,1     |
+|                                                           |H+      |1,0     |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,2     |1,9     |2,0     |
+|Suma de bases, meq/100 gr (S)                                        |21,9    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,9    |20,8    |20,1    |
+|Saturacion con bases, % (S/T)                                        |95,6    |        |        |

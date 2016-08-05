@@ -1,0 +1,45 @@
+Serie PUESTO JACINTO
+Haplustol paquico, franca gruesa, mixta, termica
+Capacidad de uso: VIes
+Indice de Productividad: 35
+
+Es un suelo algo excesivamente drenado desarrollado sobre sedimentos aluviales en capas de texturas gruesas en los vallecitos longitudinales interserranos de las sierras bajas de rocas conglomeradicas (posiblemente de edad Cretacica). El escurrimiento es medio a rapido con pendientes que oscilan entre 3 al 10%. Tiene susceptibilidad severa a la erosion hidrica normalmente con la formacion de pequenas carcavas o surcos en la parte central de los pequenos valles. Presenta un horizonte A superficial de 52 cm de profundidad de textura franco arenosa con 10% de arcilla y estructura en bloques moderados a debiles. La parte superior de unos 12 cm de profundidad ha sido arada, mostrando diferencias con el resto del horizonte poco significativas. Desde la profundidad indicada, hasta mas de 1 m se encuentra una capa donde el porcentaje de arenas muy gruesas se duplica (inclusive se observan gravillas) de textura franco arenosa gruesa y 8% de arcilla. Las limitantes estan dadas por la baja a moderada retencion de humedad, pendiente y climatica de caracter moderada.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie fue descrito a 7 km al SSE de Macha, departamento Totoral, provincia de Cordoba.
+
+Ap	0-12 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; pH 6,4; raices muy abundantes limite inferior abrupto, suave.
+
+A	12-52 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso; estructura en bloques subangulares medios debiles a moderados; friable en humedo; no plastico; no adhesivo; pH 6,3; raices escasas; limite inferior claro, suave.
+
+2	52 cm a +; color en humedo pardo oscuro (10YR3/3); franco arenoso a areno franco (con gravillas); masivo tendencia a grano simple; friable a suelto; no plastico; no adhesivo; pH 6,6.
+
+Datos analiticos Serie PUESTO JACINTO
+Situacion: Latitud: 30o35'51"S Longitud: 64o10'35"O Altitud: 600 m.s.n.m.
+
+|Horizonte                                                            |Ap      |A       |2       |
+|Profundidad de la muestra (cm)                                       |0-12    |12-52   |52 a +  |
+|Materia Organica (%)                                                 |2,24    |1,03    |        |
+|Carbono Organico (%)                                                 |1,3     |0,6     |        |
+|Nitrogeno total (%)                                                  |0,11    |0,04    |        |
+|Relacion C/N                                                         |11,8    |12,5    |        |
+|Arcilla, <2 u (%)                                                    |10,1    |9,9     |8,7     |
+|Limo, 2-50 u (%)                                                     |16,4    |18,6    |21,0    |
+|Arena muy fina, 50-100 u (%)                                         |5,2     |6,0     |5,7     |
+|Arena fina, 100-250 u (%)                                            |12,8    |14,8    |11,3    |
+|Arena media, 250-500 u (%)                                           |16,6    |17,8    |12,6    |
+|Arena gruesa, 500-1000 u (%)                                         |24,4    |21,6    |19,3    |
+|Arena muy gruesa, 1-2 mm (%)                                         |13,7    |11,0    |20,1    |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                           |11,2    |9,9     |12,4    |
+|pH en agua (1:2,5)                                                   |6,4     |6,3     |6,6     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |6,7     |4,4     |7,3     |
+|                                                           |Mg++    |1,4     |2,7     |0,9     |
+|                                                           |Na+     |0,3     |0,3     |0,3     |
+|                                                           |K+      |0,9     |0,7     |0,6     |
+|                                                           |H+      |1,4     |1,4     |1,0     |
+|Sodio de intercambio, % (PSI)                                        |2,8     |3,2     |3,0     |
+|Suma de bases, meq/100 gr (S)                                        |9,3     |8,1     |9,1     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |10,7    |9,5     |10,1    |
+|Saturacion con bases, % (S/T)                                        |86,9    |85,3    |90,1    |

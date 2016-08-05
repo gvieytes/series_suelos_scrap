@@ -1,0 +1,58 @@
+Serie CANAL SAN ANTONIO
+Simbolo: CSA
+Natracualf tipico, fina, mixta, termica
+Indice de Productividad: 8
+
+Son suelos desarrollados en la planicie baja del arroyo Tortugas, pobremente drenados, superficiales con serias limitaciones para los cultivos, siendo su destino mas aceptable la ganaderia. Presentan moteados en todo el perfil y contenidos variables de sales y sodio que los hace poco productivos. Generalmente en las areas de canadas la capa freatica se encuentra cerca de la superficie lo que dificulta aun mas su drenaje y los hace muy hidromorficos. Tienen en superficie un horizonte E de 15 cm sobre el Bt franco arcillo limoso. Se encuentran en los sectores mas bajos y peor drenados de las areas vecinas al canal de San Antonio.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie fue descrito a 25 km al NE de Alicia, departamento San Justo, provincia de Cordoba.
+
+E	0-15 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco gris pardusco claro (10YR6/2); franco limoso; masivo a estructura en bloques subangulares finos y debiles; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados abundantes, medios y precisos; raices comunes; limite abrupto, suave.
+
+Btn	15-40 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en prismas medios y debiles a moderados que rompen en bloques subangulares medios debiles a moderados; muy duro en seco y friable a firme en humedo; plastico a muy plastico; muy adhesivo; muy abundantes barnices arcillosos y abundantes humicos; moteados abundantes, medios y precisos; raices comunes; limite gradual y suave.
+
+Btn2	40-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo claro a pardo (7,5YR5,5/4); franco limoso; estructura en bloques subangulares medios a finos y debiles; ligeramente duro a duro en seco; friable en humedo; plastico; adhesivo; escasas y finas concreciones de carbonatos; escasos barnices arcillosos; moteados abundantes, medios y precisos; raices comunes; limite inferior gradual, suave.
+
+BCn	 72-95 cm; color en humedo pardo fuerte (7,5YR4/6); color en seco pardo fuerte (7,5YR5/6); franco limoso; estructura en bloques subangulares finos y debiles; ligeramente duro en seco; muy friable en humedo; plastico; ligeramente adhesivo; moteados abundantes, medios y precisos; raices escasas; limite abrupto, suave.
+
+Ck	95 cm a +; color en humedo pardo fuerte (7,5YR5/6); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; blando a ligeramente duro en seco; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas y finas concreciones de carbonatos y de FeMn; moteados abundantes medios y precisos, con la napa de agua.
+
+Datos analiticos Serie CANAL SAN ANTONIO
+Situacion: Latitud: 31o47'42"S Longitud: 62o13'42"O Altitud: 100 m.s.n.m.
+|Horizonte                                                             |E       |Btn     |Btn2    |BCn     |Ck      |
+|Profundidad de la muestra (cm)                                        |0-15    |15-40   |40-72   |72-95   |95 a +  |
+|Materia Organica (%)                                                  |2,72    |1,21    |0,50    |0,24    |0,14    |
+|Carbono Organico (%)                                                  |1,58    |0,70    |0,29    |0,14    |0,08    |
+|Nitrogeno total (%)                                                   |0,15    |0,07    |0,03    |0,01    |        |
+|Relacion C/N                                                          |10,5    |10,0    |9,7     |14,0    |        |
+|Arcilla, <2 u (%)                                                     |24,1    |36,9    |26,4    |25,8    |21,5    |
+|Limo, 2-50 u (%)                                                      |70,1    |59,3    |67,0    |68,5    |69,4    |
+|Arena muy fina, 50-100 u (%)                                          |5,3     |3,5     |5,3     |4,7     |7,1     |
+|Arena fina, 100-250 u (%)                                             |0,4     |0,3     |0,7     |0,8     |1,6     |
+|Arena media, 250-500 u (%)                                            |0,1     |0,1     |0,6     |0,2     |0,4     |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |        |
+|Arena muy gruesa., 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                            |0,0     |0,0     |0,0     |0,0     |0,0     |
+|pH en pasta                                                           |7,2     |7,4     |7,8     |7,9     |8,0     |
+|pH en agua (1:2,5)                                                    |7,4     |7,8     |8,1     |8,2     |8,7     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++     |11,0    |18,5    |17,3    |11,0    |16,4    |
+|                                                            |Mg++     |2,0     |2,4     |2,6     |2,8     |3,0     |
+|                                                            |Na+      |2,3     |5,1     |5,7     |5,6     |5,1     |
+|                                                            |K+       |1,6     |1,1     |2,9     |1,1     |2,6     |
+|                                                            |H+       |        |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |13,4    |18,6    |19,1    |26,0    |18,3    |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |6,8     |12,4    |12,2    |10,8    |
+|Suma de bases, meq/100 gr (S)                                         |16,9    |27,1    |28,5    |20,5    |27,1    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |17,2    |27,4    |29,9    |21,5    |27,8    |
+|Saturacion con bases, % (S/T)                                         |98,3    |98,9    |95,3    |95,3    |97,5    |
+|Composicion del extracto de saturacion, meq/l:  |Cationes    |Ca++     |        |7,8     |13,0    |9,4     |7,2     |
+|                                                |            |Mg++     |        |2,6     |6,2     |8,2     |3,6     |
+|                                                |            |Na+      |        |56      |108     |104     |92      |
+|                                                |            |K+       |        |        |        |        |        |
+|                                                |Aniones     |CO3=     |        |        |        |        |        |
+|                                                |            |HCO3-    |        |4,1     |2,4     |2,2     |2,3     |
+|                                                |            |SO4=     |        |48,4    |91,2    |93,2    |68,0    |
+|                                                |            |Cl-      |        |18,2    |33,0    |44,2    |45,0    |

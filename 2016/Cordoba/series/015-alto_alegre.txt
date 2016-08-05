@@ -1,0 +1,77 @@
+Serie ALTO ALEGRE
+Simbolo: AA
+Natracualf albico, franca fina, mixta, termica
+Indice de Productividad: 7
+
+La Serie Alto Alegre es un suelo fuertemente alcalino sodico e imperfectamente drenado, desarrollado sobre materiales redepositados de origen fluvial y textura franca, encontrandose en los sectores deprimidos. Los primeros 17 cm (horizonte E) son de color pardo grisaceo, de textura franca, estructura en bloques y moderado a fuertemente alcalino sodico que limita el desarrollo normal de las raices; luego pasa a un horizonte algo mas arcilloso (horizonte Bt) de 24 a 30 cm de espesor, de color pardo oscuro, estructura prismatica con abundantes barnices y moteados de Fe. En forma gradual se pasa al sustrato (horizonte C) que aparece a 60 cm; es friable, de color pardo a pardo oscuro, de textura franca con 40 a 50% de arenas. Por lo general a 100 cm aproximadamente aparece en discontinuidad un material de textura franco limosa con 30% de arenas y con abundante calcareo diseminado en la masa. Con excepcion de los primeros 4 a 5 cm en que el porcentaje de sodio intercambiable es del 11%, en el resto del perfil los valores superan el 50%.
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie, fue estudiado a 10,6 km al Este de Alto Alegre, departamento Union, provincia de Cordoba.
+
+En	0-17 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco; estructura en bloques subangulares medios moderados; friable en humedo; moteados escasos, finos y debiles; limite inferior abrupto, suave.
+
+Btn	17-41 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en prismas irregulares medios moderados que rompen en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados escasos, finos y debiles; concreciones calcareas comunes y finas; barnices humico arcillosos abundantes; limite inferior gradual, suave.
+
+BCn	41-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; estructura en prismas irregulares medios debiles y bloques subangulares medios debiles; friable en humedo; concreciones calcareas comunes y finas; moteados comunes, finos y precisos; barnices arcillosos comunes; limite inferior gradual, suave.
+
+Cn	60-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; moteados comunes, finos y precisos; concreciones calcareas escasas y finas; limite inferior abrupto, ondulado.
+
+2Ck	97 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; abundante calcareo diseminado en la masa del suelo; escasas concreciones; moteados abundantes, medios y debiles; escasos durinodulos.
+
+Datos analiticos Serie ALTO ALEGRE
+Situacion: Latitud: 32o21'47"S Longitud: 62o46'13"O Altitud: 137 m.s.n.m.
+
+|Horizonte                                                            |En      |Btn     |BCn     |Cn      |2Ck     |
+|Profundidad de la muestra (cm)                                       |0-17    |17-41   |41-60   |60-97   |97 a +  |
+|Materia Organica (%)                                                 |0,73    |0,48    |0,17    |0,17    |0,10    |
+|Carbono Organico (%)                                                 |0,43    |0,28    |0,10    |0,10    |0,06    |
+|Nitrogeno total (%)                                                  |0,060   |0,043   |0,031   |0,031   |        |
+|Relacion C/N                                                         |7,1     |6,5     |3,2     |3,2     |        |
+|Arcilla, <2 u (%)                                                    |17,5    |19,5    |17,8    |17,7    |11,8    |
+|Limo, 2-50 u (%)                                                     |41,5    |45,2    |40,7    |37,3    |58,0    |
+|Arena muy fina, 50-100 u (%)                                         |7,2     |7,0     |7,1     |8,0     |17,3    |
+|Arena fina, 100-250 u (%)                                            |26,6    |22,7    |25,2    |30,0    |9,0     |
+|Arena media, 250-500 u (%)                                           |4,6     |3,7     |7,0     |5,4     |0,9     |
+|Arena gruesa, 500-1000 u (%)                                         |2,4     |2,1     |2,8     |2,1     |0,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |        |0,2     |        |        |
+|Carbonatos, CaCO3 (%)                                                |0,16    |0,73    |0,51    |0,09    |2,70    |
+|Equivalente de humedad (%)                                           |21,6    |29,8    |25,6    |21,2    |22,1    |
+|pH en pasta                                                          |8,6     |8,9     |8,9     |8,6     |8,6     |
+|pH en agua (1:2,5)                                                   |9,6     |9,8     |9,7     |9,5     |9,5     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++     |        |        |        |6,1     |        |
+|                                                           |Mg++     |        |        |        |1,1     |        |
+|                                                           |Na+      |7,2     |16,4    |11,4    |7,6     |7,9     |
+|                                                           |K+       |1,6     |2,4     |2,3     |1,8     |2,4     |
+|H+ de cambio (meq/100 gr)                                            |        |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |57,1    |83,7    |68,7    |48,7    |56,4    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |4,54    |        |        |        |
+|Suma de bases, meq/100 gr (S)                                        |        |        |        |16,6    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,6    |19,6    |16,6    |15,6    |14      |
+|Saturacion con bases, % (S/T)                                        |        |        |        |100     |        |
+|Composicion del extracto de saturacion, meq/1:                       |Cationes|Ca++    |        |3,0     |
+|Profundidad de la muestra (cm)                                       |0-20    |20-38   |38-65   |65 a +  |
+|Materia Organica (%)                                                 |3,28    |1,72    |        |        |
+|Carbono Organico (%)                                                 |1,9     |1,0     |        |        |
+|Nitrogeno total (%)                                                  |0,19    |0,10    |        |        |
+|Relacion C/N                                                         |10,0    |10,0    |        |        |
+|Arcilla, <2 u (%)                                                    |19,0    |21,4    |17,0    |20,4    |
+|Limo, 2-50 u (%)                                                     |56,5    |58,1    |61,2    |59,1    |
+|Arena muy fina, 50-100 u (%)                                         |7,3     |6,7     |6,6     |5,7     |
+|Arena fina, 100-250 u (%)                                            |4,0     |3,4     |2,9     |2,7     |
+|Arena media, 250-500 u (%)                                           |4,5     |2,7     |3,2     |2,9     |
+|Arena gruesa, 500-1000 u (%)                                         |6,9     |5,6     |4,6     |4,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |2,1     |2,6     |2,2     |2,6     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |3,6     |7,8     |
+|Equivalente de humedad (%)                                           |21,7    |22,0    |22,4    |22,4    |
+|pH en pasta                                                          |6,9     |7,1     |7,3     |7,3     |
+|pH en agua (1:2,5)                                                   |7,3     |7,4     |7,6     |7,7     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |18,5    |22,7    |        |        |
+|                                                            |Mg++    |0,4     |0,7     |        |        |
+|                                                            |Na+     |0,4     |0,3     |0,3     |0,3     |
+|                                                            |K+      |1,5     |1,1     |1,0     |1,1     |
+|H+ de cambio (meq/100 gr)                                            |0,4     |0,2     |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |1,2     |1,2     |1,2     |
+|Suma de bases, meq/100 gr (S)                                        |20,8    |24,8    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,2    |25,0    |24,8    |24,9    |
+|Saturacion con bases, % (S/T)                                        |98,1    |99,2    |        |        |

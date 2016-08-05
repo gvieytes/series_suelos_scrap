@@ -1,0 +1,49 @@
+Serie LAS PLAYAS
+Simbolo: LPy
+Haplustol udorthentico, franca gruesa, mixta, termica
+Indice de Productividad: 73
+Capacidad de uso: IIIsc
+
+La Serie Las Playas es un suelo oscuro, algo excesivamente drenado, desarrollado sobre materiales francos de las areas de derrame, antiguos cauces sepultados y albardones. La capa arable, hasta una profundidad de 25 a 29 cm (horizonte Ap) es de color pardo muy oscuro, de textura franco a franco limosa y estructura en bloques. Hacia abajo pasa gradualmente (horizonte transicional AC) al substrato u horizonte C que se encuentra a una profundidad promedio de 60 cm.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Las Playas, que se describe a continuacion, fue estudiado a 8,3 km al NNO de Ordonez, departamento Union, provincia de Cordoba.
+
+Ap	0-20 cm; color en humedo pardo muy oscuro (10YR2/2); franco a franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; limite inferior abrupto, suave.
+
+A	20-29 cm; color en humedo pardo muy oscuro (10YR2/2); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; limite inferior claro, suave.
+
+AC	29-62 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en bloques subangulares medios debiles; friable en humedo; limite inferior difuso.
+
+C	62 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable.
+
+Datos analiticos Serie LAS PLAYAS
+Situacion: Latitud: 32o46'S Longitud: 62o54'O Altitud: 142 m.s.n.m.
+
+|Horizonte                                                            |Ap      |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                       |0-20    |20-29   |29-62   |62 a +  |
+|Materia Organica (%)                                                 |2,45    |2,42    |0,87    |        |
+|Carbono Organico (%)                                                 |1,43    |1,41    |0,51    |        |
+|Nitrogeno total (%)                                                  |0,12    |0,11    |0,06    |0,04    |
+|Relacion C/N                                                         |11,81   |11,8    |7,39    |4,77    |
+|Arcilla, <2 u (%)                                                    |18,4    |21,2    |16,2    |14,7    |
+|Limo, 2-50 u (%)                                                     |49,0    |49,1    |44,8    |44,6    |
+|Arena muy fina, 50-100 u (%)                                         |19,3    |16,9    |22,7    |23,8    |
+|Arena fina, 100-250 u (%)                                            |12,1    |10,2    |15,0    |13,4    |
+|Arena media, 250-500 u (%)                                           |1,2     |2,6     |1,3     |3,5     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |0       |
+|Equivalente de humedad (%)                                           |24,2    |25,2    |19,7    |18,7    |
+|pH en pasta                                                          |5,8     |6,2     |6,6     |7,0     |
+|pH en agua (1:2,5)                                                   |6,6     |7,0     |7,4     |7,6     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |10,1    |12,0    |8,6     |8,0     |
+|                                                            |Mg++    |2,9     |2,8     |4,1     |4,8     |
+|                                                            |Na+     |0,5     |0,6     |0,3     |0,4     |
+|                                                            |K+      |2,6     |1,8     |1,4     |1,0     |
+|                                                            |H+      |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,6     |3,2     |2,0     |2,9     |
+|Suma de bases, meq/100 gr (S)                                        |16,1    |17,2    |14,4    |14,2    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,5    |19,0    |15,3    |13,7    |
+|Saturacion con bases, % (S/T)                                        |82      |90      |94      |100     |

@@ -1,0 +1,51 @@
+Serie EL SARMIENTO
+Simbolo: ESm
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 67
+
+La Serie El Sarmiento es un suelo bien drenado, desarrollado sobre materiales fluvio-eolicos franco arenosos finos y vinculados a terrazas altas e intermedias, con pendientes que no superan el 1%. Presentan un horizonte A (capa arable) de 14 cm de espesor, textura franca, buen contenido de materia organica y de color pardo grisaceo oscuro. Luego pasa en forma clara a un horizonte B incipiente, de color pardo oscuro, y con escasos barnices arcillosos muy finos. El material originario se encuentra a 38 cm de profundidad, es de estructura masiva y textura franco arenosa fina. Luego pasa en forma abrupta a una capa de materiales mas finos (franco limosos) constituyendo una discontinuidad litologica. Erosion y clima son las limitaciones principales de estos suelos.
+
+
+Descripcion del perfil tipico:
+
+El perfil modal de esta Serie fue descrito a 9 km al SSE de Villa Sarmiento, departamento General Roca, provincia de Cordoba.
+
+A	0-14 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+Bw	14-38 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en bloques y prismas finos debiles; friable en humedo; no plastico; no adhesivo; escasos barnices arcillosos muy finos "Clay Skins"; limite inferior claro, suave.
+
+C	38-64 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso; masivo; friable en humedo; limite inferior abrupto, suave.
+
+2	64-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares finos; friable en humedo; plastico; adhesivo; moteados comunes, medios y precisos; limite inferior abrupto, suave.
+
+3	86 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; masivo; friable en humedo; moteados comunes, medios, debiles; abundante calcareo pulverulento en la masa del suelo.
+
+Datos analiticos Serie EL SARMIENTO
+Situacion: Latitud: 34o11'28"S Longitud: 64o49'14"O Altitud: 291 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |C       |2       |3       |
+|Profundidad de la muestra (cm)                                       |0-14    |14-38   |38-64   |64-86   |86 a +  |
+|Materia Organica (%)                                                 |2,31    |1,45    |        |        |        |
+|Carbono Organico (%)                                                 |1,34    |0,84    |        |        |        |
+|Nitrogeno total (%)                                                  |0,122   |0,087   |        |0,082   |0,053   |
+|Relacion C/N                                                         |11,0    |9,6     |        |        |        |
+|Arcilla, <2 u (%)                                                    |12,2    |13,9    |7,9     |22,0    |16,0    |
+|Limo, 2-50 u (%)                                                     |37,8    |40,0    |35,1    |57,9    |40,9    |
+|Arena muy fina, 50-100 u (%)                                         |39,4    |42,6    |50      |14,3    |30,4    |
+|Arena fina, 100-250 u (%)                                            |9,5     |6,3     |6,4     |4,4     |12,5    |
+|Arena media, 250-500 u (%)                                           |0,2     |0,1     |0,1     |0,2     |0,5     |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,1     |0,1     |0,1     |0,4     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |0,1     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,65    |1,13    |
+|Equivalente de humedad (%)                                           |12,3    |16,2    |11,9    |32,4    |19,2    |
+|pH en pasta                                                          |5,7     |5,8     |6,6     |7,2     |7,3     |
+|pH en agua (1:2,5)                                                   |5,9     |6,0     |6,7     |7,5     |7,6     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |6,7     |8,0     |7,1     |        |        |
+|                                                           |Mg++    |0,7     |0,8     |0,9     |        |        |
+|                                                           |Na+     |0,3     |0,1     |0,1     |0,7     |0,5     |
+|                                                           |K+      |3,3     |2,4     |1,6     |1,6     |1,3     |
+|                                                           |H+      |1,4     |1,2     |0,5     |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,4     |0,8     |1,0     |3,4     |3,1     |
+|Suma de bases, meq/100 gr (S)                                        |11,0    |11,3    |9,7     |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,6    |12,8    |10,3    |20,4    |16,0    |
+|Saturacion con bases, % (S/T)                                        |87      |88      |94      |        |        |

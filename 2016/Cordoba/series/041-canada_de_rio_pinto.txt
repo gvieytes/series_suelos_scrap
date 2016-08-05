@@ -1,0 +1,45 @@
+Serie CANADA DE RIO PINTO
+Haplustol entico, franca fina, calcarea, mixta, termica
+Indice de Productividad: 70
+Capacidad de uso: IVsc
+
+Es un suelo bien drenado, desarrollado sobre sedimentos fluviales en el piedemonte de los sistemas hidricos dispersos de la margen oriental de la Sierra Chica y valle de Avellaneda. Se caracteriza por una frecuencia irregular de capas de diferentes texturas, aunque no extremas y presencia de carbonatos libres desde la superficie. Las limitantes son climatica moderada y alcalinidad moderada superficial que aumenta en profundidad por la presencia de carbonato de calcio libre. Presenta un horizonte Apk o capa arable de 18 cm de profundidad de textura franca con 21% de arcilla y estructura en bloques moderados. Continua hacia abajo el subhorizonte Ak con textura franca, concreciones y estructura en bloques. A 40 cm aparece una capa algo mas pesada de textura franco arcillo limosa, masiva, de color pardo amarillento con 31% de arcilla y con 13% de carbonato de calcio libre que se extiende hasta mas de 80 cm de profundidad.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de la Serie Canada de rio Pinto fue descrito a 5 km al NNE del paraje Canada de Rio Pinto, departamento Ischilin, provincia de Cordoba.
+
+Apk	0-18 cm; color en humedo gris muy oscuro (10YR3/1); franco; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,4; ligera reaccion al ClH en la masa del suelo; raices comunes a abundantes.
+
+Ak	18-40 cm; color en humedo gris muy oscuro (10YR3/1); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,7; moderada reaccion al ClH en la masa del suelo; raices escasas; limite inferior abrupto.
+
+2k	40 cm a +; color en humedo pardo (7,5YR5/4); franco arcillo limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,8; moderada a violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie CANADA DE RIO PINTO
+Situacion: Latitud: 30o47'11"S Longitud: 64o10'29"O Altitud: 675 m.s.n.m.
+
+|Horizonte                                                            |Apk     |Ak      |2k      |
+|Profundidad de la muestra (cm)                                       |0-18    |18-40   |40 a +  |
+|Materia Organica (%)                                                 |3,97    |2,76    |        |
+|Carbono Organico (%)                                                 |2,3     |1,6     |        |
+|Nitrogeno total (%)                                                  |0,22    |0,16    |        |
+|Relacion C/N                                                         |10,5    |10,0    |        |
+|Arcilla, <2 u (%)                                                    |21,2    |24,8    |30,9    |
+|Limo, 2-50 u (%)                                                     |41,6    |40,2    |47,8    |
+|Arena muy fina, 50-100 u (%)                                         |5,9     |5,0     |5,0     |
+|Arena fina, 100-250 u (%)                                            |5,9     |5,4     |4,3     |
+|Arena media, 250-500 u (%)                                           |7,0     |7,4     |4,2     |
+|Arena gruesa, 500-1000 u (%)                                         |10,4    |10,6    |5,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |5,1     |4,2     |3,9     |
+|Carbonatos, CaCO3 (%)                                                |0,7     |0,3     |13,6    |
+|Equivalente de humedad (%)                                           |23,0    |22,3    |24,9    |
+|pH en agua (1:2,5)                                                   |7,4     |7,7     |7,8     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |18,3    |20,0    |        |
+|                                                           |Mg++    |0,5     |1,3     |        |
+|                                                           |Na+     |0,3     |0,3     |0,2     |
+|                                                           |K+      |1,0     |0,9     |0,6     |
+|                                                           |H+      |0,1     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                        |1,5     |1,3     |        |
+|Suma de bases, meq/100 gr (S)                                        |20,1    |22,5    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |20,2    |22,8    |        |
+|Saturacion con bases, % (S/T)                                        |99,5    |98,7    |        |

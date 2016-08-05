@@ -1,0 +1,74 @@
+Serie TICINO
+Simbolo: Tc
+Natracualf tipico, limosa fina a limosa gruesa, mixta, termica
+Indice de Productividad: 15
+
+La Serie Ticino es un suelo imperfectamente drenado, desarrollado a partir de sedimentos de textura franco limosa, vinculados a lineas de escurrimiento bien manifiestos y sectores deprimidos anegables. El horizonte superficial decolorado y lavado (E), presenta evidencias de falta de aireacion periodica por saturacion del suelo con agua. La estructura es debil y los agregados inestables. A partir de 10 cm de profundidad se encuentra un horizonte enriquecido en arcilla (Btk) de textura franco limosa y estructura columnar gruesa moderada con abundantes barnices en la cara de los agregados. Esta capa es muy poco permeable, constituyendose en un impedimento para el pasaje del agua a traves del perfil. Gradualmente se pasa al material originario (horizonte Ck) que se encuentra a 70 cm de profundidad. El perfil presenta fuerte alcalinidad sodica a los 10 cm de la superficie, el tenor de sodio supera el 50% de los cationes de intercambio. La salinidad es debil por debajo de los 35 cm de profundidad. Estos suelos estan sujetos a anegamientos frecuentes y el agua es eliminada del perfil muy lentamente por percolacion o evapotranspiracion ya que, por la posicion que ocupan en el paisaje, el escurrimiento superficial es inadecuado. Por lo general, estos suelos son dedicados a pasturas (normalmente pastos naturales) ya que no son aptos para ninguno de los cultivos comunes de la zona.
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie Ticino fue descrito a 9 km al NE de la localidad de Etruria, departamento General San Martin, provincia de Cordoba.
+
+E	0-10 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloque subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; manchas de materia organica; limite inferior abrupto, suave.
+
+Btnk	10-35 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura columnar gruesa, moderada; friable en humedo; plastico; adhesivo; escasas concreciones de carbonato de calcio; barnices medios abundantes; moteados de Fe comunes, medios y precisos; limite inferior claro, suave.
+
+BCnk	35-75 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; abundantes concreciones de carbonato de calcio; escasos barnices finos; moteados de Fe comunes, medios y precisos; limite inferior abrupto, suave.
+
+Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante carbonato pulverulento en la masa del suelo.
+
+Datos analiticos Serie TICINO
+Situacion: Latitud: 32o53'27"S Longitud: 63o10'08"O Altitud: 198 m.s.n.m
+
+|Horizonte                                                             |E       |Btnk    |BCnk    |Ck      |
+|Profundidad de la muestra (cm)                                        |0-10    |10-35   |35-75   |75 a +  |
+|Materia Organica (%)                                                  |3,06    |1,03    |0,68    |        |
+|Carbono Organico (%)                                                  |1,78    |0,60    |0,4     |        |
+|Nitrogeno total (%)                                                   |0,20    |0,07    |        |        |
+|Relacion C/N                                                          |8,9     |8,6     |        |        |
+|Arcilla, <2 u (%)                                                     |18,2    |25,4    |16,4    |14,5    |
+|Limo, 2-50 u (%)                                                      |58,7    |51,3    |58,3    |58,9    |
+|Arena muy fina, 50-100 u (%)                                          |21,1    |21,3    |24,6    |25,4    |
+|Arena fina, 100-250 u (%)                                             |0,6     |0,4     |0,2     |0,3     |
+|Arena media, 250-500 u (%)                                            |0,1     |0,2     |0,1     |0,1     |
+|Arena gruesa, 500-1000 u (%)                                          |0,1     |0,3     |0,1     |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |0,1     |0,2     |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0       |1,6     |3,1     |2,7     |
+|Equivalente de humedad (%)                                            |22,8    |27,4    |22,5    |20,4    |
+|pH en pasta                                                           |6,0     |8,2     |8,7     |8,9     |
+|pH en agua (1:2,5)                                                    |6,4     |8,8     |9,5     |9,3     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++     |8,5     |        |        |        |
+|                                                            |Mg++     |1,0     |        |        |        |
+|                                                            |Na+      |0,7     |10,0    |7,4     |7,1     |
+|                                                            |K+       |2,9     |3,4     |2,7     |2,4     |
+|                                                            |H+       |1,4     |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |4,8     |52,6    |47,1    |49,0    |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |4,91    |4,32    |
+|Suma de bases, meq/100 gr (S)                                         |13,2    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,7    |19,0    |15,7    |14,5    |
+|Saturacion con bases, % (S/T)                                         |90      |        |        |        |
+|Composicion del extracto de saturacion, meq/l:                       |Cationes|Ca++    |        |        |
+|Profundidad de la muestra (cm)                                       |0-23    |23-56   |56-75   |75 a +  |
+|Materia Organica (%)                                                 |2,59    |1,21    |        |        |
+|Carbono Organico (%)                                                 |1,5     |0,7     |        |        |
+|Nitrogeno total (%)                                                  |0,12    |0,06    |        |        |
+|Relacion C/N                                                         |12,5    |11,7    |        |        |
+|Arcilla, <2 u (%)                                                    |24,8    |33,1    |30,5    |28,5    |
+|Limo, 2-50 u (%)                                                     |50,9    |46,4    |49,9    |52,9    |
+|Arena muy fina, 50-100 u (%)                                         |4,9     |4,7     |4,5     |4,6     |
+|Arena fina, 100-250 u (%)                                            |4,1     |3,6     |6,5     |6,4     |
+|Arena media, 250-500 u (%)                                           |5,3     |4,2     |4,7     |6,7     |
+|Arena gruesa, 500-1000 u (%)                                         |6,0     |4,6     |3,9     |3,4     |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,4     |1,1     |0,9     |0,9     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                           |25,7    |26,8    |25,9    |25,6    |
+|pH en agua (1:2,5)                                                   |7,2     |7,2     |7,3     |7,6     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |16,8    |17,4    |17,3    |16,6    |
+|                                                           |Mg++    |0,4     |2,2     |1,3     |1,8     |
+|                                                           |Na+     |0,4     |0,4     |0,3     |0,3     |
+|                                                           |K+      |1,9     |1,4     |1,1     |1,0     |
+|                                                           |H+      |1,3     |1,1     |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |1,8     |1,5     |1,5     |
+|Suma de bases, meq/100 gr (S)                                        |19,5    |21,4    |20,0    |19,7    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |20,8    |22,5    |20,0    |19,7    |
+|Saturacion con bases, % (S/T)                                        |93,8    |95,1    |100     |100     |

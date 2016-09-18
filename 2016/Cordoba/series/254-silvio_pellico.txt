@@ -55,7 +55,7 @@ Situacion: Latitud: 32?12'52"S Longitud: 62?57'50"O Altitud: 164 m.s.n.m.
 |Relacion C/N                                                         |10,9    |6,7     |         |          |
 |Arcilla, <2 u (%)                                                    |34      |40      |20,3     |26,4      |
 |Limo, 2-50 u (%)                                                     |56,7    |50,1    |60,8     |61,2      |
-|Arena muy fina 50-100 u (%)                                          |2,8     |3,1     |4,2      |5,5       |
+|Arena muy fina, 50-100 u (%)                                         |2,8     |3,1     |4,2      |5,5       |
 |Arena fina, 100-250 u (%)                                            |1,0     |1,3     |1,9      |1,8       |
 |Arena media, 250-500 u (%)                                           |0,7     |1,2     |1,4      |1,4       |
 |Arena gruesa, 500-1000 u (%)                                         |0,8     |2,1     |1,6      |1,9       |

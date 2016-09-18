@@ -42,7 +42,7 @@ Situacion: Latitud: 32?42'00"S - Longitud: 62?23'22"O - Altitud: 107 m.s.n.m.
 |Equivalente de humedad (%)                                           |24,3    |37,8    |32,8    |28,0     |25,4      |
 |pH en pasta                                                          |6,5     |7,0     |8,1     |8,5      |8,7       |
 |pH en agua (1:2,5)                                                   |7,5     |7,5     |8,8     |9,4      |9,5       |
-|Cationes de intercambio, meq/100g:                           |Ca++   |5,8     |10,5    |        |         |          |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |5,8     |10,5    |        |         |          |
 |                                                             |Mg++   |4,6     |6,0     |        |         |          |
 |                                                             |Na+    |3,7     |8,3     |12,2    |10,7     |9,6       |
 |                                                             |K+     |2,4     |2,9     |3,1     |3,1      |3,0       |

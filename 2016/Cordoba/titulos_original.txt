@@ -1,0 +1,50 @@
+Agua de la pasta (%)
+Arcilla, < 2 u (%)
+Arcilla, <2 u (%)
+Arena (%)
+Arena fina, 100-250 u (%)
+Arena g., 500-1000 u (%)
+Arena gruesa, 500-1000 u (%)
+Arena gruesa, 500-1000 u, (%)
+Arena media, 250-500 u (%)
+Arena muy fina 50-100 u (%)
+Arena muy fina, 50-100 u (%)
+Arena muy gruesa 1-2 mm (%)
+Arena muy gruesa, 1-2 mm (%)
+Arena muy gruesa., 1-2 mm (%)
+Arena muy gruesa, 1-2 mm (%)0
+Arenas (%)
+Arena total
+Calcareo, CaCO3 (%)
+Capacidad de intercambio cationico, meq/100 gr (T)
+Carbonatos, CaCO3 (%)
+Carbono Organico (%)
+Cationes de intercambio, meq/100g:
+Cationes de intercambio, meq/100 gr:
+Composicion del extracto de saturacion,
+Composicion del extracto de saturacion, meq/1:
+Composicion del extracto de saturacion (meq/l)
+Composicion del extracto de saturacion, meq/l:
+Conductividad, mmhos/cm (extracto de saturacion)
+Equivalente de humedad (%)
+Factor de humedad
+Gravas, (%)
+Gravilla, > 2 mm (%)
+H+ de cambio (meq/100 gr)
+Horizonte
+Horizontes
+Limo, 2-50 u (%)
+Materia Organica (%)
+meq/l:
+Nitrogeno total (%)
+pH en agua (1:2,5)
+pH en agua 1:2,5
+pH en KCl (1:2,5)
+pH en KCl 1N (1:2,5)
+pH en pasta
+Profundidad de la muestra (cm)
+Relacion C/N
+Resistencia electrica (ohms)
+Saturacion con bases, % (S/T)
+Sodio de intercambio, % (PSI)
+Suma de bases, meq/100 gr (S)

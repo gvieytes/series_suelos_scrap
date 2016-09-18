@@ -27,7 +27,7 @@ Situacion: Latitud: 30o58'45"S Longitud: 64o08'00"O Altitud: 550 m.s.n.m.
 |Relacion C/N                                                         |        |        |        |
 |Arcilla, <2 u (%)                                                    |15,3    |19,2    |15,3    |
 |Limo, 2-50 u (%)                                                     |54,7    |56,3    |55,5    |
-|Arenas (%)                                                           |27,8    |22,1    |27,5    |
+|Arena (%)                                                            |27,8    |22,1    |27,5    |
 |Carbonatos, CaCO3 (%)                                                |0,0     |9,4     |9,3     |
 |Equivalente de humedad (%)                                           |        |        |        |
 |pH en agua (1:2,5)                                                   |7,5     |8,0     |8,1     |

@@ -49,7 +49,7 @@ Situacion: Latitud: 32o21'47"S Longitud: 62o46'13"O Altitud: 137 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                        |        |        |        |16,6    |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |12,6    |19,6    |16,6    |15,6    |14      |
 |Saturacion con bases, % (S/T)                                        |        |        |        |100     |        |
-|Composicion del extracto de saturacion, meq/1:                       |Cationes|Ca++    |        |3,0     |
+|Composicion del extracto de saturacion, meq/l:                       |Cationes|Ca++    |        |3,0     |
 |Profundidad de la muestra (cm)                                       |0-20    |20-38   |38-65   |65 a +  |
 |Materia Organica (%)                                                 |3,28    |1,72    |        |        |
 |Carbono Organico (%)                                                 |1,9     |1,0     |        |        |

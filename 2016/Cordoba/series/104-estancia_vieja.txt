@@ -59,10 +59,10 @@ Situacion: Latitud: 33o03'05"S Longitud: 62o42'17"O Altitud: 112 m.s.n.m.
 |Arena fina, 100-250 u (%)                                            |14,0  |14,7   |17,5   |14,1    |
 |Arena media, 250-500 u (%)                                           |8,5   |9,0    |11,4   |7,9     |
 |Arena gruesa, 500-1000 u (%)                                         |2,0   |2,4    |2,8    |0,8     |
-|Arena muy gruesa., 1-2 mm (%)                                        |0,3   |0,2    |0,2    |0,2     |
-|Calcareo, CaCO3 (%)                                                  |      |0,3    |       |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,3   |0,2    |0,2    |0,2     |
+|Carbonatos, CaCO3 (%)                                                |      |0,3    |       |        |
 |Equivalente de humedad (%)                                           |19,1  |19,3   |15,3   |17,9    |
-|pH en agua 1:2,5                                                     |7,5   |7,6    |7,3    |7,5     |
+|pH en agua (1:2,5)                                                   |7,5   |7,6    |7,3    |7,5     |
 |Cationes de intercambio, meq/100 gr:                       |Ca++    |11,8  |12,5   |8,4    |10,8    |
 |                                                           |Mg++    |1,7   |1,4    |1,0    |1,9     |
 |                                                           |Na+     |0,2   |0,2    |0,2    |0,2     |

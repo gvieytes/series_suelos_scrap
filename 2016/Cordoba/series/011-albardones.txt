@@ -30,7 +30,7 @@ Situacion: Latitud: 30?06'S Longitud: 63?07'O Altitud: 70 m.s.n.m.
 |Arena fina, 100-250 u (%)                                            |26,8    |37,4    |26,5    |38,0    |
 |Arena media, 250-500 u (%)                                           |        |        |        |        |
 |Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
-|Arena muy gruesa., 1-2 mm (%)                                        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
 |Carbonatos, CaCO3 (%)                                                |0       |0       |0       |0       |
 |Equivalente de humedad (%)                                           |14,7    |12,7    |15,7    |11,3    |
 |pH en pasta                                                          |6,0     |6,5     |7,0     |7,2     |

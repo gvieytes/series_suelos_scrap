@@ -48,7 +48,7 @@ Situacion: Latitud: 34o13'20"S Longitud: 63o25'48"O Altitud: 135 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |10,5    |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |13,2    |20,1    |        |13,0    |
 |Saturacion con bases, % (S/T)                                         |79,5    |        |        |        |
-|Composicion del extracto de saturacion (meq/l)                       |Cation|Ca++   |24,9   |30,4    |
+|Composicion del extracto de saturacion, meq/l:                       |Cation|Ca++   |24,9   |30,4    |
 |                                                                     |es    |       |       |        |
 |Profundidad de la muestra (cm)                                       |0-19  |19-41  |41-60  |60 a +  |
 |Materia Organica (%)                                                 |2,93  |1,03   |       |        |
@@ -61,10 +61,10 @@ Situacion: Latitud: 34o13'20"S Longitud: 63o25'48"O Altitud: 135 m.s.n.m.
 |Arena fina, 100-250 u (%)                                            |3,6   |3,8    |4,3    |4,8     |
 |Arena media, 250-500 u (%)                                           |12,0  |13,1   |14,9   |15,3    |
 |Arena gruesa, 500-1000 u (%)                                         |18,7  |20,6   |23,2   |23,3    |
-|Arena muy gruesa., 1-2 mm (%)                                        |6,5   |7,1    |8,0    |11,2    |
-|Calcareo, CaCO3 (%)                                                  |0,1   |0,2    |0,4    |1,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |6,5   |7,1    |8,0    |11,2    |
+|Carbonatos, CaCO3 (%)                                                |0,1   |0,2    |0,4    |1,1     |
 |Equivalente de humedad (%)                                           |22,6  |21,2   |19,1   |18,6    |
-|pH en agua 1:2,5                                                     |7,1   |7,7    |7,8    |7,9     |
+|pH en agua (1:2,5)                                                   |7,1   |7,7    |7,8    |7,9     |
 |Cationes de intercambio, meq/100 gr:                       |Ca++    |10,8  |14,9   |       |        |
 |                                                           |Mg++    |1,3   |1,7    |       |        |
 |                                                           |Na+     |0,2   |0,2    |0,2    |0,2     |

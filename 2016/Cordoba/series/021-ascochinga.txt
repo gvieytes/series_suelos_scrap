@@ -33,7 +33,7 @@ Situacion: Latitud: 30o55'S Longitud: 64o14'O Altitud: 600 m.s.n.m.
 |Relacion C/N                                                         |11      |9       |        |        |        |        |
 |Arcilla, <2 u (%)                                                    |14,3    |15,3    |19,4    |16,4    |16      |10,5    |
 |Limo, 2-50 u (%)                                                     |36,5    |39,8    |31,3    |33,7    |34,5    |37,1    |
-|Arena total                                                          |46,4    |41,9    |46,9    |47,4    |48      |50      |
+|Arena (%)                                                            |46,4    |41,9    |46,9    |47,4    |48      |50      |
 |Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0     |0,0     |5,9     |
 |Equivalente de humedad (%)                                           |        |        |        |        |        |        |
 |pH en agua (1:2,5)                                                   |7,1     |6,5     |6,9     |7,1     |7,7     |8,1     |

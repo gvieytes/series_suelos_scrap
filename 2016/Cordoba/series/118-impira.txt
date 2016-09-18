@@ -21,7 +21,7 @@ Ck	92 cm a +; color en humedo pardo claro (7,5YR6/4); franco limoso; masivo; muy
 
 Datos analiticos Serie IMPIRA
 Situacion: Latitud: 31?48'58"S Longitud: 63o35'03"O Altitud: 255 m.s.n.m.
-|Horizontes                                                           |Ek      |Btnk    |BCnk    |Ck      |
+|Horizonte                                                            |Ek      |Btnk    |BCnk    |Ck      |
 |Profundidad de la muestra (cm)                                       |0-21    |21-59   |59-92   |92 a +  |
 |Materia Organica (%)                                                 |2,51    |0,75    |0,30    |0,24    |
 |Carbono Organico (%)                                                 |1,46    |0,44    |0,18    |0,14    |

@@ -1,0 +1,46 @@
+Serie SAN PEDRO
+Simbolo: SPd
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 67
+
+Es un suelo debilmente desarrollado sobre materiales franco limosos de origen fluvial, tipico de las unidades de pie de monte en el plano oriental de la Sierra Norte de Cordoba (abanicos aluviales, conos y planicies de derrames). El primer horizonte, de 23 cm, tiene textura franco limosa con estructura en bloques subangulares medios debiles. Luego de una transicion (AC) el sustrato (horizonte C) se encuentra a 59 cm, es franco limoso, sin estructura, tiene arena gruesa en todo el perfil pero no dominante. No tiene alcalinidad ni salinidad en ningun horizonte. Es un suelo profundo, bien drenado y sin peligro de anegamiento. Dentro de la Serie San Pedro, existen pequenas variaciones en cuanto al espesor de horizontes, de no mas de 6 cm, y ligeras variaciones en el tenor de las arenas medias y gruesas.
+
+Descripcion del perfil tipico:
+
+El perfil caracteristico de los suelos de la Serie San Pedro ha sido estudiado a 8,5 Km. al SO de la localidad de Gutemberg, departamento Rio Seco, provincia de Cordoba.
+
+A	0 - 23 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; pH 6,7; raices abundantes; limite inferior claro, suave.
+
+AC	23 - 59 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; estructura en bloques subangulares medios debiles, tendencia masivo; friable en humedo; pH 7,4; raices comunes; limite inferior abrupto, suave.
+
+Ck	59 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; friable en humedo; pH 8,3; violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie SAN PEDRO
+Situacion: Latitud: 29o45'S Longitud: 63o35'O Altitud: 300 m.s.n.m.
+
+|Horizonte                                                            |A       |AC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-23    |23-59   |59 a +  |
+|Materia Organica (%)                                                 |2,27    |1,13    |        |
+|Carbono Organico (%)                                                 |1,32    |0,66    |        |
+|Nitrogeno total (%)                                                  |0,14    |0,09    |        |
+|Relacion C/N                                                         |9,4     |7,3     |        |
+|Arcilla, <2 u (%)                                                    |12,1    |11,9    |6,2     |
+|Limo, 2-50 u (%)                                                     |58,3    |61,6    |59,3    |
+|Arena muy fina, 50-100 u (%)                                         |6,9     |7,3     |8,8     |
+|Arena fina, 100-250 u (%)                                            |9,8     |9,0     |11,2    |
+|Arena media, 250-500 u (%)                                           |3,1     |2,2     |2,6     |
+|Arena gruesa, 500-1000 u (%)                                         |6,4     |5,5     |6,6     |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,8     |2,8     |3,4     |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |3,6     |
+|Equivalente de humedad (%)                                           |23,0    |22,0    |22,1    |
+|pH en pasta                                                          |6,5     |7,2     |8,1     |
+|pH en agua (1:2,5)                                                   |6,7     |7,4     |8,3     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++    |14,6    |13,8    |        |
+|                                                             |Mg++    |0,1     |0,9     |        |
+|                                                             |Na+     |0,1     |0,1     |0,3     |
+|                                                             |K+      |1,4     |1,2     |1,4     |
+|                                                             |H+      |1,1     |0,6     |        |
+|Sodio de intercambio, % (PSI)                                        |0,6     |0,6     |2,3     |
+|Suma de bases, meq/100 gr (S)                                        |16,2    |16,0    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,3    |16,1    |13,0    |
+|Saturacion con bases, % (S/T)                                        |94      |99      |        |

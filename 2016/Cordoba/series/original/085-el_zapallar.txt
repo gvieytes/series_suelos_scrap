@@ -1,0 +1,75 @@
+Serie EL ZAPALLAR
+Natracualf molico, limosa fina, mixta, termica
+Indice de Productividad: 5
+
+La Serie El Zapallar es un suelo oscuro e imperfectamente drenado que ocupa sectores mas altos dentro de la planicie aluvial de La Rinconada. Tiene vegetacion de monte y halofitas asociadas (jume blanco, cachiyuyo, palo azul, etc.). Puede ocupar sectores pequenos (isletas o micro albardones) o bien en unidades mayores siempre mas altos y no inundables. Se ha desarrollado a partir de un sedimento franco limoso de origen fluvial (incluye loess redepositado). Es un suelo muy tipico y de amplia difusion identificable por la vegetacion y su posicion en el relieve. La parte superficial del suelo (horizonte A) tiene 11 cm de espesor con estructura en bloques debiles tendencia laminar, esta bien provisto de materia organica, tiene color pardo grisaceo oscuro, es moderadamente salino y ligera a moderadamente alcalino. Le sigue hasta 55 cm un horizonte mas arcilloso (Bt) franco limoso a franco arcillo limoso, con estructura en prismas, moderadamente salino alcalino con 27% de sodio de intercambio. En la parte inferior (horizonte Bn) es fuertemente salino alcalino. El sustrato (horizonte C) se encuentra a 80 cm, esta generalmente afectado por la capa freatica. No presenta peligro de inundacion o es muy eventual y de corta duracion y el drenaje es imperfecto a moderado. Dentro de la Serie El Zapallar existen algunas variaciones con respecto al espesor del horizonte A (10 a 17 cm) y puede tener evidentes sintomas de lavado. El nivel freatico puede estar entre 70 a 140 cm. El horizonte B textural varia entre 35 y 55 cm de espesor, con la parte superior a veces solo ligeramente afectada por sales y alcalis. Las limitaciones que presenta esta Serie se refieren a la alcalinidad y salinidad moderada subsuperficial y mas alta a mayores profundidades; no esta afectada mayormente por anegamientos como la mayoria de los suelos con los cuales se encuentran vinculados. Los suelos de esta Serie pertenecen a los Natracualf molicos (salino sodico subsuperficial con horizonte A corto, lixiviado e hidromorfico).
+
+Descripcion del perfil tipico:
+
+El perfil tipico de los suelos de esta Serie fue estudiado a 6 Km. al SO del paraje El Zapallar, departamento Rio Seco, en la provincia de Cordoba.
+
+A	0 - 11 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares y laminar media moderada; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados comunes, finos y sobresalientes de Fe y Mn; raices comunes; limite inferior claro suave.
+
+Btn	11 - 34 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco arcillo limoso; estructura en prismas regulares medios fuertes rompe a prismas y bloques; friable en humedo; muy plastico; adhesivo; barnices abundantes a muy abundantes; moteados abundantes; finos y precisos; raices escasas a comunes; limite inferior claro, suave.
+
+Btnz	34 - 55 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a prismas y bloques; friable en humedo; plastico; adhesivo; concreciones de CO3Ca abundantes y medias; barnices arcillosos abundantes; moteados comunes medios y precisos; raices escasas; poros comunes; pseudomicelios salinos comunes; limite inferior abrupto, suave.
+
+BCkz	55 - 90 cm; color en humedo pardo oscuro a pardo (10YR3,5/3); franco limoso; estructura en prismas irregulares medios moderados rompe a bloques; friable en humedo; plastico; ligeramente adhesivo; violenta reaccion al ClH en la masa del suelo; barnices arcillosos escasos a comunes finos; moteados de FeMn comunes medios y sobresalientes; vestigios de raices; limite claro.
+
+Ckz	90 cm a +; color en humedo pardo (10YR5/3); franco limoso; ligeramente plastico; ligeramente adhesivo; violenta reaccion al ClH en la masa del suelo; moteados comunes medios y sobresalientes; capa freatica afectando el horizonte; se observan caracoles finos en todo el perfil.
+
+Datos analiticos Serie EL ZAPALLAR
+Situacion: Latitud: 30o13'S Longitud: 63o04'O Altitud: 70 m.s.n.m.
+
+|Horizonte                                                             |A       |Btn     |Btnz    |BCkz    |Ckz     |
+|Profundidad de la muestra (cm)                                        |0-11    |11-34   |34-55   |55-90   |90 a +  |
+|Materia Organica (%)                                                  |6,27    |        |        |        |        |
+|Carbono Organico (%)                                                  |3,64    |        |        |        |        |
+|Nitrogeno total (%)                                                   |0,32    |0,11    |0,09    |        |        |
+|Relacion C/N                                                          |11,3    |        |        |        |        |
+|Arcilla, <2 u (%)                                                     |11,9    |23,8    |        |        |        |
+|Limo, 2-50 u (%)                                                      |77,1    |64,2    |        |        |        |
+|Arena muy fina, 50-100 u (%)                                          |11,0    |9,6     |        |        |        |
+|Arena fina, 100-250 u (%)                                             |1,4     |1,6     |        |        |        |
+|Arena media, 250-500 u (%)                                            |        |0,1     |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |        |0,1     |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0       |0,7     |1,1     |0,9     |4,9     |
+|Equivalente de humedad (%)                                            |33,5    |30,0    |31,2    |30,9    |28,9    |
+|pH en pasta                                                           |6,4     |7,5     |7,7     |7,9     |7,9     |
+|pH en agua (1:2,5)                                                    |6,6     |7,7     |8,1     |8,3     |8,3     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++     |        |        |        |        |        |
+|                                                           |Mg++     |        |        |        |        |        |
+|                                                           |Na+      |        |        |        |        |        |
+|                                                           |K+       |        |        |        |        |        |
+|                                                           |H+       |1,6     |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |        |        |        |        |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |13,5    |12,0    |21,6    |36,0    |54,0    |
+|Suma de bases, meq/100 gr (S)                                         |        |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |24,3    |25,0    |        |        |        |
+|Saturacion con bases, % (S/T)                                         |        |        |        |        |        |
+|Composicion del extracto de saturacion, meq/l:                       |Cationes|
+|Profundidad de la muestra (cm)                                       |0-15    |
+|Materia Organica (%)                                                 |1,72    |
+|Carbono Organico (%)                                                 |1,0     |
+|Nitrogeno total (%)                                                  |0,09    |
+|Relacion C/N                                                         |11,1    |
+|Arcilla, <2 u (%)                                                    |7,3     |
+|Limo, 2-50 u (%)                                                     |15,7    |
+|Arena muy fina, 50-100 u (%)                                         |5,5     |
+|Arena fina, 100-250 u (%)                                            |13,7    |
+|Arena media, 250-500 u (%)                                           |15,6    |
+|Arena gruesa, 500-1000 u (%)                                         |21,9    |
+|Arena muy gruesa, 1-2 mm (%)                                         |18,8    |
+|Carbonatos, CaCO3 (%)                                                |0,0     |
+|Equivalente de humedad (%)                                           |11,6    |
+|pH en agua (1:2,5)                                                   |7,7     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |13,6    |
+|                                                           |Mg++    |1,4     |
+|                                                           |Na+     |0,3     |
+|                                                           |K+      |0,8     |
+|                                                           |H+      |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |
+|Suma de bases, meq/100 gr (S)                                        |16,1    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,2    |
+|Saturacion con bases, % (S/T)                                        |100     |

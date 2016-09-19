@@ -1,0 +1,48 @@
+Serie EL ONCE
+Simbolo: EOn
+Endoacuol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 27
+
+Es un suelo imperfectamente drenado con alcalinidad sodica a partir de 20 cm de profundidad. Se ha desarrollado sobre sedimentos aluviales de derrames provenientes del rio Chocancharaua (Cuarto) en ambientes deprimidos. La textura de la mayor parte del perfil es franco arenosa y presenta la particularidad de poseer una capa fina (franco arcillosa) sobre el suelo debilmente desarrollado (A-2A-2AC-2C). La parte superior del perfil o capa arable tiene 19 cm de espesor, corresponde a la capa I, franco arcillosa con estructura en bloques y moderadamente alcalina. Le sigue el horizonte 2A (enterrado) que se extiende hasta 40 cm de profundidad con textura franco arenosa, estructura en bloques debiles con alcalinidad sodica que aumenta en profundidad. Luego de una transicion (horizonte 2AC) el material originario se encuentra a partir de 60 cm de profundidad, tiene textura franco arenosa es masivo y alcalino sodico. Normalmente la capa freatica se encuentra proxima a la superficie afectando parte del perfil.
+
+Descripcion del perfil tipico:
+
+El perfil modal de esta Serie fue descrito a 16,5 Km al NE de La Carlota, departamento Juarez Celman, provincia de Cordoba.
+
+A	0-19 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcilloso; estructura en bloques subangulares medios moderados y granular; friable en humedo; plastico; ligeramente adhesivo; pH 7,9; ligera reaccion al ClH en la masa del suelo; moteados de FeMn escasos finos y debiles; raices muy abundantes; limite inferior abrupto, suave.
+
+2A	19-40 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 8,2; escasa reaccion al ClH en la masa del suelo; moteados de FeMn comunes finos y precisos; raices abundantes; limite inferior claro, suave.
+
+2ACn	40-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 8,3; moderada reaccion al ClH en la masa del suelo; moteados de FeMn abundantes medios y precisos; raices escasas, limite inferior gradual.
+
+2Cn	60 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,2; moderada reaccion al ClH en la masa del suelo; moteados de FeMn abundantes medios y precisos.
+
+Datos analiticos Serie EL ONCE
+Situacion: Latitud: 33o21'15"S Longitud: 63o09'28"O Altitud: 126 m.s.n.m.
+
+|Horizonte                                                            |A       |2A      |2ACn    |2Cn     |
+|Profundidad de la muestra (cm)                                       |0-19    |19-40   |40-60   |60 a +  |
+|Materia Organica (%)                                                 |2,59    |        |        |        |
+|Carbono Organico (%)                                                 |1,5     |        |        |        |
+|Nitrogeno total (%)                                                  |0,2     |0,08    |        |        |
+|Relacion C/N                                                         |7,5     |        |        |        |
+|Arcilla, <2 u (%)                                                    |29,1    |9,2     |12,7    |9,9     |
+|Limo, 2-50 u (%)                                                     |42,4    |32,9    |28,6    |32,6    |
+|Arena muy fina, 50-100 u (%)                                         |19,5    |48,3    |51,1    |45,4    |
+|Arena fina, 100-250 u (%)                                            |5,6     |8,2     |69      |8,9     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |0       |0,8     |0,6     |0,5     |
+|Equivalente de humedad (%)                                           |32,9    |19,3    |12,7    |17,5    |
+|pH en pasta                                                          |7,4     |7,9     |7,9     |8,5     |
+|pH en agua (1:2,5)                                                   |7,9     |8,2     |8,3     |8,2     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |24,6    |        |        |        |
+|                                                           |Mg++    |1,3     |        |        |        |
+|                                                           |Na+     |1,3     |1,3     |2,2     |3,6     |
+|                                                           |K+      |0,9     |2,8     |1,8     |1,6     |
+|                                                           |H+      |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |4,6     |12,3    |24,4    |35,0    |
+|Suma de bases, meq/100 gr (S)                                        |28,1    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |28,1    |10,6    |9,0     |10,3    |
+|Saturacion con bases, % (S/T)                                        |100     |        |        |        |

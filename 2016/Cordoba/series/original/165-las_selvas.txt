@@ -1,0 +1,47 @@
+Serie LAS SELVAS
+
+Argiustol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 72
+
+Los suelos que responden a esta Serie son profundos, bien drenados, desarrollados a partir de sedimentos loessicos de textura franca limosa, vinculados a lineas de escurrimiento o vias de desagues bien manifiestas que bisectan los planos altos o lomadas. En superficie el suelo es de textura franco limosa, de color pardo grisaceo oscuro, con escaso a moderado contenido de materia organica y bien estructurado. A la profundidad de 18 cm pasa a un horizonte mas arcilloso (Bt), de estructura prismatica y barnices en la cara de los agregados. La transicion al material originario es gradual, encontrandose este (horizonte Ck) a 62 cm de profundidad, es un material de textura franca limosa y masiva con abundante carbonato en la masa del suelo.
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie, fue descrito a 1,5 Km al Norte de la localidad de Las Isletillas, departamento Tercero Arriba, provincia de Cordoba.
+
+Ap	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+
+Bt	18-38 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco limoso; estructura en prismas irregulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices humico arcillosos comunes y medios; limite inferior claro, suave.
+
+BC	38-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; limite inferior abrupto, suave.
+
+Ck	62 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante contenido de carbonato pulverulento en la masa del suelo.
+
+Datos Analiticos Serie LAS SELVAS
+Situacion: Latitud: 32o29'28"S Longitud: 63o55'23"O Altitud: 330 m.s.n.m.
+|Horizonte                                                            |Ap      |Bt      |BC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-18    |18-38   |38-62   |62 a +  |
+|Materia Organica (%)                                                 |1,90    |1,03    |0,34    |        |
+|Carbono Organico (%)                                                 |1,1     |0,6     |0,2     |        |
+|Nitrogeno total (%)                                                  |0,13    |0,09    |        |        |
+|Relacion C/N                                                         |8,5     |6,7     |        |        |
+|Arcilla, <2 u (%)                                                    |13,5    |21,9    |16,3    |13,5    |
+|Limo, 2-50 u (%)                                                     |50,3    |44,1    |48,1    |50,8    |
+|Arena muy fina, 50-100 u (%)                                         |28,9    |29,9    |32,7    |32,6    |
+|Arena fina, 100-250 u (%)                                            |1,8     |3,1     |2,5     |2,3     |
+|Arena media, 250-500 u (%)                                           |0,2     |0,2     |        |0,1     |
+|Arena gruesa, 500-1000 u (%)                                         |0,3     |0,3     |0,3     |0,2     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |0,3     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |3,9     |
+|Equivalente de humedad (%)                                           |21,1    |23,7    |18,6    |17,3    |
+|pH en pasta                                                          |5,9     |6,4     |6,8     |7,5     |
+|pH en agua (1:2,5)                                                   |6,1     |6,7     |7,1     |7,9     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++    |10,2    |11,0    |11,2    |        |
+|                                                             |Mg++    |0,4     |0,6     |0,9     |        |
+|                                                             |Na+     |0,2     |0,2     |0,1     |0,2     |
+|                                                             |K+      |2,8     |1,9     |1,3     |2,7     |
+|                                                             |H+      |1,6     |0,7     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                        |1,3     |1,4     |0,7     |1,6     |
+|Suma de bases, meq/100 gr (S)                                        |13,6    |13,7    |13,5    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,0    |14,5    |13,8    |12,3    |
+|Saturacion con bases, % (S/T)                                        |90,7    |94,5    |97,8    |        |

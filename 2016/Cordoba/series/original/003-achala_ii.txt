@@ -1,0 +1,47 @@
+Serie ACHALA II
+Argiudol litico, esqueletica, franca, mixta, termica
+Indice de Productividad: 34
+
+La Serie Achala II es un suelo moderadamente bien drenado desarrollado sobre materiales de alteracion de rocas graniticas en laderas altas escarpadas. El horizonte superior (A) es de 28 cm muy rico en materia organica, textura franco limosa a franco arcillo limosa y muy bien estructurado. Le sigue a continuacion un horizonte enriquecido en arcilla con barnices escasos en las caras de los agregados y textura franco arcillo limosa. A los 56 cm, hay una discontinuidad litologica compuesta por roca alterada cada vez mas endurecida en profundidad con algunos vestigios de barnices arcillosos. La pendiente predominante es del 10 al 25% con relieve pronunciado, escurrimiento rapido y permeabilidad moderada. A pesar de estas condiciones no se observan evidencias de erosion severa, merced a la alta estabilidad estructural.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue estudiado en la parte alta de la cuenca de la estancia San Miguel, departamento San Alberto, provincia de Cordoba.
+
+A	0-28 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 4,9; raices muy abundantes; limite inferior claro suave.
+
+Bt	28-56 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en prismas irregulares; gruesos moteados; friable en humedo; plastico; ligeramente adhesivo; pH 5,1; barnices humico arcillosos escasos medios; raices comunes; limite inferior claro suave.
+
+2BC	56 cm a +; franco; masivo, no plastico; no adhesivo; moteados comunes medios y debiles.
+
+
+Datos analiticos Serie ACHALA II
+
+Situacion: Latitud: 31o43'S Longitud: 64o47'O Altitud: 1920 m.s.n.m.
+
+|Horizonte                                                            |A       |Bt      |2BC     |
+|Profundidad de la muestra (cm)                                       |0-38    |38-56   |56 a +  |
+|Materia Organica (%)                                                 |12,41   |7,93    |        |
+|Carbono Organico (%)                                                 |7,2     |4,6     |        |
+|Nitrogeno total (%)                                                  |0,53    |0,45    |        |
+|Relacion C/N                                                         |13,58   |10,22   |        |
+|Arcilla, <2 u (%)                                                    |29,6    |35,6    |15,2    |
+|Limo, 2-50 u (%)                                                     |46,5    |36,1    |37,7    |
+|Arena muy fina, 50-100 u (%)                                         |1,40    |2,65    |4,80    |
+|Arena fina, 100-250 u (%)                                            |6,4     |7,9     |14,15   |
+|Arena media, 250-500 u (%)                                           |2,75    |2,90    |5,65    |
+|Arena gruesa, 500-1000 u (%)                                         |7,10    |7,55    |14,40   |
+|Arena muy gruesa, 1-2 mm (%)                                         |4,35    |5,50    |9,20    |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                           |36,8    |30,2    |19,0    |
+|pH en pasta                                                          |4,9     |5,2     |5,1     |
+|pH en agua (1:2,5)                                                   |4,8     |5,1     |5,1     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |14,0    |10,9    |5,0     |
+|                                                             |Mg++   |0,8     |0,4     |0,4     |
+|                                                             |Na+    |0,3     |0,3     |0,1     |
+|                                                             |K+     |0,4     |0,1     |0,1     |
+|H+ de cambio (meq/100 gr)                                            |10,9    |9,3     |4,4     |
+|Sodio de intercambio, % (PSI)                                        |1,1     |1,4     |1,1     |
+|Suma de bases, meq/100 gr (S)                                        |15,5    |11,7    |5,6     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |26,4    |21,0    |9,0     |
+|Saturacion con bases, % (S/T)                                        |59      |56      |62      |

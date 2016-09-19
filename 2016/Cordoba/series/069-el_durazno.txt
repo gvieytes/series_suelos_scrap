@@ -36,11 +36,11 @@ Situacion: Latitud: 30o34'03"S Longitud: 64o15'35"O Altitud: 750 m.s.n.m.
 |Equivalente de humedad (%)                                           |23,3    |25,2    |25,6    |
 |pH en pasta                                                          |7,2     |7,3     |7,4     |
 |pH en agua (1:2,5)                                                   |7,6     |7,9     |8,1     |
-|Cationes de intercambio, meq/100 gr:                       |Ca++    |        |        |        |
-|                                                           |Mg++    |        |        |        |
-|                                                           |Na+     |0,4     |0,4     |0,4     |
-|                                                           |K+      |1,4     |1,1     |1,1     |
-|                                                           |H+      |        |        |        |
+|Cationes de intercambio, meq/100 gr (Ca++)                          |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                          |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                           |0,4     |0,4     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                            |1,4     |1,1     |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                            |        |        |        |
 |Sodio de intercambio, % (PSI)                                        |1,6     |1,9     |        |
 |Suma de bases, meq/100 gr (S)                                        |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |25,7    |21,6    |        |

@@ -39,11 +39,11 @@ Situacion: Latitud: 32o08'20"S Longitud: 62o58'11"O Altitud: 163 m.s.n.m.
 |Equivalente de humedad (%)                                           |24,8    |25,0    |26,1    |25,7    |25,0    |
 |pH en pasta                                                          |5,3     |5,4     |6,1     |6,6     |8,0     |
 |pH en agua (1:2,5)                                                   |5,6     |5,6     |6,5     |7,0     |8,4     |
-|Cationes de intercambio, meq/100 gr:                       |Ca++     |8,5     |10,5    |        |        |        |
-|                                                           |Mg++     |1,5     |2,1     |        |        |        |
-|                                                           |Na+      |0,2     |0,3     |        |        |        |
-|                                                           |K+       |2,8     |1,7     |        |        |        |
-|                                                           |H+       |2,7     |2,5     |0,9     |0,3     |        |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,5     |10,5    |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,5     |2,1     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,3     |        |        |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,8     |1,7     |        |        |        |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,7     |2,5     |0,9     |0,3     |        |
 |Sodio de intercambio, % (PSI)                                        |1,2     |1,7     |14      |38      |40      |
 |Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |9,12    |25,5    |25,5    |
 |Suma de bases, meq/100 gr (S)                                        |13,0    |14,6    |        |        |        |
@@ -66,11 +66,11 @@ Situacion: Latitud: 32o08'20"S Longitud: 62o58'11"O Altitud: 163 m.s.n.m.
 |Equivalente de humedad (%)                                           |18,5    |17,7    |28,9    |24,2    |27,3     |21,1      |
 |pH en pasta                                                          |5,3     |6,5     |8,0     |9,0     |9,0      |9,3       |
 |pH en agua (1:2,5)                                                   |5,4     |6,7     |8,3     |9,5     |9,4      |9,5       |
-|Cationes de intercambio, meq/100 gr:                       |Ca++    |5,5     |4,7     |6,3     |        |         |          |
-|                                                           |Mg++    |1,1     |1,0     |2,5     |        |         |          |
-|                                                           |Na+     |0,2     |1,3     |8,9     |10,4    |14,2     |11,4      |
-|                                                           |K+      |2,6     |1,8     |3,7     |4,0     |4,4      |3,5       |
-|                                                           |H+      |2,6     |1,5     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Ca++)                          |5,5     |4,7     |6,3     |        |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                          |1,1     |1,0     |2,5     |        |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)                           |0,2     |1,3     |8,9     |10,4    |14,2     |11,4      |
+|Cationes de intercambio, meq/100 gr (K+)                            |2,6     |1,8     |3,7     |4,0     |4,4      |3,5       |
+|Cationes de intercambio, meq/100 gr (H+)                            |2,6     |1,5     |        |        |         |          |
 |Sodio de intercambio, % (PSI)                                        |1,6     |11,6    |42,4    |57,8    |56,8     |69,1      |
 |Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |4,56    |3,76     |          |
 |Suma de bases, meq/100 gr (S)                                        |9,4     |8,8     |21,4    |        |         |          |

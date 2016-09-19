@@ -1,0 +1,51 @@
+Serie MONTE GRANDE
+Duracuol argico, limosa fina a franca fina, mixta, termica
+Indice de Productividad: 39
+
+La Serie Monte Grande es un suelo oscuro, imperfecta a moderadamente bien drenado, que ocupa los bajos alargados y bien manifiestos del pie de los escalones estructurales. Se ha desarrollado a partir de un sedimento loessico de textura franco limosa. La parte superficial del suelo (horizonte A) es de color pardo muy oscuro. A los 20 cm se encuentra un nivel mas arcilloso que corresponde con un horizonte B de color pardo oscuro y estructura prismatica fuerte, que se extiende hasta los 70 cm de profundidad. El sustrato u horizonte C consiste en un material loessico, franco limoso con 10% de arcilla, de color pardo y parcialmente cementado en "bochas". Este suelo es ligeramente acido, algo lavado y presenta moteados desde la superficie, lo que indica deficiencia estacional de oxigeno para las raices. A partir de los 70 cm se encuentra moderadamente cementado. Dentro de la Serie Monte Grande existen variaciones en cuanto al espesor del horizonte A (oscila entre 18 a 24 cm), del horizonte B (entre 45 a 70 cm) y el espesor del solum entre 100 y 120 cm.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico de los suelos de esta Serie fue estudiado a 8,5 Km al NNE de San Marcos Sud, departamento Union, provincia de Cordoba.
+
+Ap	0-18 cm; color en humedo pardo muy oscuro (10YR2/2); franco arcillo limoso a franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+
+Bt	18-44 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas regulares e irregulares medios fuertes, rompen a prismas finos y bloques subangulares medios; ligeramente firme; plastico; adhesivo; barnices "Clay Skins" abundantes y gruesos; moteados comunes, finos y precisos; parte superior algo lixiviada; limite inferior claro, suave.
+
+Bw	44-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en prismas irregulares medios moderados, rompen a bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" comunes, medios; moteados comunes, finos, medios y precisos; limite inferior gradual, suave.
+
+BCqm	70-102 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares medios debiles y bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos, finos; moteados comunes, finos y medios precisos; abundantes durinodulos gruesos; escasas concreciones calcareas finas y gruesas; limite inferior gradual.
+
+Cm	102-130 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos, precisos; bochas cementadas; concreciones comunes de calcareo finas y gruesas y debil contenido de carbonatos libres en la masa; limite inferior abrupto, ondulado.
+
+Ckm	130 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y precisos; abundantes durinodulos gruesos; concreciones calcareas comunes y gruesas; abundante contenido de carbonatos libres en la masa.
+
+Datos analiticos Serie MONTE GRANDE
+Situacion: Latitud: 32o33'47"S Longitud: 62o27'27"O Altitud: 114 m.s.n.m.
+|Horizonte                                                            |Ap      |Bt      |Bw      |BCqm    |
+|Profundidad de la muestra (cm)                                       |0-21    |21-50   |50-70   |70 a +  |
+|Materia Organica (%)                                                 |3,10    |2,93    |2,24    |1,72    |
+|Carbono Organico (%)                                                 |1,8     |1,7     |1,3     |1,0     |
+|Nitrogeno total (%)                                                  |        |        |        |        |
+|Relacion C/N                                                         |        |        |        |        |
+|Arcilla, <2 u (%)                                                    |26,8    |40,0    |43,8    |37,2    |
+|Limo, 2-50 u (%)                                                     |70,1    |57,9    |54,0    |57,7    |
+|Arena muy fina, 50-100 u (%)                                         |3,0     |2,1     |2,1     |5,0     |
+|Arena fina, 100-250 u (%)                                            |0,7     |0,3     |0,4     |0,6     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |0,2     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |0       |
+|Equivalente de humedad (%)                                           |30,5    |35,9    |36,5    |34,5    |
+|pH en pasta                                                          |6,2     |6,3     |6,9     |7,0     |
+|pH en agua (1:2,5)                                                   |6,6     |6,6     |7,3     |7,4     |
+|Cationes de intercambio, meq/100 gr:                          |Ca++   |15,3    |16,2    |17,2    |15,7    |
+|                                                              |Mg++   |3,0     |3,5     |5,7     |3,7     |
+|                                                              |Na+    |0,4     |0,4     |0,4     |0,4     |
+|                                                              |K+     |1,6     |1,4     |1,9     |1,8     |
+|                                                              |H+     |1,2     |1,2     |0,4     |0,2     |
+|Sodio de intercambio, % (PSI)                                        |1,8     |1,7     |1,6     |1,8     |
+|Suma de bases, meq/100 gr (S)                                        |20,3    |21,5    |25,2    |21,6    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,7    |22,9    |25,8    |21,7    |
+|Saturacion con bases, % (S/T)                                        |94      |94      |98      |99      |

@@ -1,0 +1,49 @@
+Serie LOS MEDANITOS
+Simbolo: LMd
+Natralbol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 31
+
+La Serie Los Medanitos es un suelo moderadamente bien drenado, con fuerte alcalinidad sodica a partir de los 40 cm, desarrollado sobre materiales franco arenosos vinculados a sectores deprimidos o planos y a aureolas externas de cubetas y lagunas. La parte superficial del suelo de 19 cm de espesor, que constituye la capa arable (horizonte A) es de textura franco arenosa, con regular contenido de materia organica, de color pardo oscuro y estructura en bloques; en su base y hasta los 38 cm se hace mas claro (horizonte E), con escaso contenido de materia organica, masiva, franco arenosa y con moteados comunes de Fe. Luego pasa en forma abrupta a un horizonte con mayor contenido de arcilla (horizonte Bt), que se extiende hasta los 61 cm de profundidad, de color pardo a pardo oscuro y estructura columnar con moderada cantidad de barnices humico-arcillosos. El material originario (horizonte C) aparece a los 87 cm de profundidad, es de textura franco arenosa, masiva, friable, con aumento muy notable de la alcalinidad y con abundante material calcareo diseminado en la masa. Solo los primeros 20 cm de suelo presentan condiciones favorables para el desarrollo de las plantas. La materia organica decrece rapidamente a partir de dicha profundidad; las condiciones fisicas empeoran a partir de los 40 cm por la presencia del sodio, haciendose el suelo impermeable al aire y al agua; la capa de agua freatica se encuentra temporariamente cercana a la superficie y el suelo es susceptible a encharcamientos y/o inundaciones. Las limitaciones principales estan dadas por el drenaje moderado (que incluye anegamientos y escurrimiento lento a muy lento), horizonte subsuperficial muy pobre en materia organica (E) y alcalinidad sodica a partir de los 38 cm, que aumenta con la profundidad. Se han reconocido fases por alcalinidad superficial, donde el sodio puede ascender a la superficie, agravando aun mas su limitacion.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Los Medanitos fue estudiado a 11,7 km al ONO de la localidad de Alejo Ledesma, departamento Union, provincia de Cordoba
+
+A	0-19 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+E	19-38 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; moteados comunes, medios, precisos; limite inferior abrupto, suave.
+
+Btn	38-61 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco; estructura semicolumnar rompe a prismas irregulares medios; ligeramente firme en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos escasos medios; moteados comunes, medios, precisos; limite inferior gradual, suave.
+
+BCn	61-87 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; escasos barnices arcillosos; moteados abundantes, medios, precisos; limite inferior abrupto, ondulado.
+
+Ck	87 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, medios, precisos; abundante calcareo libre en la masa.
+
+Datos analiticos Serie LOS MEDANITOS
+Situacion: Latitud: 33?33'06"S Longitud: 62?43'58"O Altitud: 118 m.s.n.m.
+|Horizonte                                                            |A       |E       |Btn     |BCn     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-19    |19-38   |38-61   |61-87   |87 a +  |
+|Materia Organica (%)                                                 |1,96    |0,53    |0,53    |0,24    |0,21    |
+|Carbono Organico (%)                                                 |1,14    |0,31    |0,31    |0,14    |0,12    |
+|Nitrogeno total (%)                                                  |0,111   |0,038   |0,038   |0,024   |0,019   |
+|Relacion C/N                                                         |10,3    |8,1     |8,1     |5,8     |6,3     |
+|Arcilla, <2 u (%)                                                    |7,2     |3,4     |14,6    |7,4     |6,6     |
+|Limo, 2-50 u (%)                                                     |37,6    |33,3    |32,8    |31,5    |30,9    |
+|Arena muy fina, 50-100 u (%)                                         |52,6    |60,5    |47,0    |54,2    |54,0    |
+|Arena fina, 100-250 u (%)                                            |1,2     |1,0     |4,0     |5,6     |7,9     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,325   |3,14    |
+|Equivalente de humedad (%)                                           |14,6    |9,8     |20,2    |14,3    |12,5    |
+|pH en pasta                                                          |5,1     |6,5     |7,6     |8,2     |8,9     |
+|pH en agua (1:2,5)                                                   |5,6     |6,7     |8,4     |8,7     |9,2     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |7,1     |5,3     |9,5     |        |        |
+|                                                            |Mg++    |1,9     |2,4     |2,5     |        |        |
+|                                                            |Na+     |0,3     |0,7     |6,4     |9,0     |9,0     |
+|                                                            |K+      |1,5     |1,0     |2,3     |2,2     |1,9     |
+|                                                            |H+      |3,2     |1,3     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,1     |6,7     |31,7    |48,9    |78,3    |
+|Suma de bases, meq/100 gr (S)                                        |10,8    |9,4     |20,7    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,2    |10,4    |20,2    |18,4    |11,5    |
+|Saturacion con bases, % (S/T)                                        |76,1    |90,4    |100     |        |        |

@@ -1,0 +1,48 @@
+Serie BUENA ESPERANZA
+Simbolo: BE
+Ustipsamment tipico, arenosa, mixta, termica
+
+Indice de Productividad: 7
+
+Capacidad de uso: VIes
+
+Los suelos de esta Serie se desarrollan en el sector semiarido, en areas medanosas de formas rebajadas, estabilizadas naturalmente. Se distribuyen en el SO de la provincia de Cordoba. Son excesivamente drenados, de permeabilidad muy rapida y baja capacidad de retencion de la humedad. Tienen gran susceptibilidad a la erosion eolica, encontrandose erosionados en parte y con la capa de agua freatica profunda. Los suelos de la Serie Buena Esperanza son geneticamente muy poco desarrollados, de perfil sencillo del tipo A-AC-C y a veces solamente AC-C. El horizonte superficial (A o Ap) de hasta 20 cm de espesor, esta poco provisto de materia organica, debilmente estructurado y ya no se observa ceniza volcanica. Sigue el horizonte de transicion AC, muy poco expresado, solamente distinguible por cambios en la coloracion y debil estructuracion. Finalmente aparece el horizonte C, sin estructura y sin carbonato de calcio antes del metro de profundidad. Todo el espesor del suelo es de textura arenosa fina, exceptuando los primeros 20 cm que es arenosa franca fina. Las fracciones mecanicas son: arcilla 4%, limo total 8% y el resto arenas, de las cuales la arena fina alcanza valores entre 60 y 70%. Se dedican preferentemente al pastoreo en campos naturales. El uso agricola para cultivos anuales es marginal y la implantacion de pasturas perennes tiene respuesta con buen resultado.
+
+Descripcion del perfil tipico:
+
+A continuacion se presenta el perfil tipico de la Serie Buena Esperanza, descripta y muestreada a 10,5 Km al NO de la localidad de Buena Esperanza, en el departamento Gobernador Vicente Dupuy muy proximo al limite con el departamento General Pedernera, provincia de San Luis.
+
+Ap	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); areno franco; estructura en bloques subangulares muy debiles que rompen a grano suelto; muy friable en humedo; no plastico; no adhesivo; reaccion debilmente acida; pH 6,5; raices comunes; limite inferior abrupto.
+
+AC	20-45 cm; color en humedo pardo oscuro (10YR3/3); arenoso; debilmente estructurado en bloques subangulares, rompe a grano suelto; muy friable en humedo; no plastico; no adhesivo; reaccion neutra; pH 7; raices comunes; limite inferior difuso.
+
+C	45 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); arenoso; sin estructura, a grano suelto; muy friable en humedo; no plastico; no adhesivo; reaccion ligeramente alcalina; pH 7,5; raices escasas.
+
+Datos analiticos Serie BUENA ESPERANZA
+Situacion: Latitud: 34o39'S Longitud: 65o18'O Altitud: 320 m.s.n.m.
+
+|Horizonte                                                            |Ap      |AC      |C       |
+|Profundidad de la muestra (cm)                                       |0-20    |20-45   |45 a +  |
+|Materia Organica (%)                                                 |0,90    |0,61    |0,41    |
+|Carbono Organico (%)                                                 |0,50    |0,34    |0,23    |
+|Nitrogeno total (%)                                                  |0,07    |0,06    |0,07    |
+|Relacion C/N                                                         |6,0     |5,0     |3,0     |
+|Arcilla, <2 u (%)                                                    |5,41    |4,43    |2,79    |
+|Limo, 2-50 u (%)                                                     |11,21   |9,12    |9,45    |
+|Arena muy fina, 50-100 u (%)                                         |4,37    |5,59    |3,26    |
+|Arena fina, 100-250 u (%)                                            |63,87   |65,37   |68,01   |
+|Arena media, 250-500 u (%)                                           |7,91    |8,72    |9,26    |
+|Arena gruesa, 500-1000 u (%)                                         |1,52    |1,48    |1,76    |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |0,14    |0,14    |0,14    |
+|pH en pasta                                                          |6,0     |6,50    |7,0     |
+|pH en agua (1:2,5)                                                   |6,50    |7,0     |7,50    |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |3,79    |4,09    |4,40    |
+|                                                             |Mg++   |1,44    |1,57    |1,44    |
+|                                                             |Na+    |0,30    |0,40    |0,48    |
+|                                                             |K+     |1,16    |2,26    |2,06    |
+|H+ de cambio (meq/100 gr)                                            |1,0     |0,6     |        |
+|Sodio de intercambio, % (PSI)                                        |5,4     |4,5     |5,5     |
+|Suma de bases, meq/100 gr (S)                                        |5,23    |8,32    |8,38    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |5,60    |8,80    |8,80    |
+|Saturacion con bases, % (S/T)                                        |93      |95      |95      |

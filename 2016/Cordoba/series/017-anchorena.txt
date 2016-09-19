@@ -36,10 +36,10 @@ Situacion: Latitud: 35o49'S Longitud: 65o24'O Altitud: 300 m.s.n.m.
 |Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,23    |
 |pH en pasta                                                          |6,30    |7,00    |7,40    |8,00    |
 |pH en agua (1:2,5)                                                   |6,60    |7,60    |8,20    |8,30    |
-|Cationes de intercambio, meq/100 gr:                        |Ca++    |3,09    |4,31    |4,88    |6,84    |
-|                                                            |Mg++    |1,44    |1,44    |1,57    |1,57    |
-|                                                            |Na+     |0,20    |0,20    |0,26    |0,36    |
-|                                                            |K+      |0,38    |0,54    |0,54    |0,54    |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |3,09    |4,31    |4,88    |6,84    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,44    |1,44    |1,57    |1,57    |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,20    |0,20    |0,26    |0,36    |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,38    |0,54    |0,54    |0,54    |
 |H+ de cambio (meq/100 gr)                                            |0,8     |        |        |        |
 |Sodio de intercambio, % (PSI)                                        |3,3     |2,8     |3,3     |3,6     |
 |Suma de bases, meq/100 gr (S)                                        |5,11    |6,49    |7,25    |9,31    |

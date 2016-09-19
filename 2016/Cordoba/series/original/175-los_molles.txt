@@ -1,0 +1,45 @@
+Serie LOS MOLLES
+Ustorthent litico paralitico, esqueletica, franca, mixta, termica
+Capacidad de uso: VIIes
+Indice de Productividad: 6
+
+Es un suelo excesivamente drenado desarrollado incipientemente sobre las laderas altas graniticas de las sierras de Las Penas, con gradientes muy variables que oscilan entre 10 al 40% encontrandose normalmente por encima de la cota de 650 hasta lo mas alto de la sierra en este sector (unos 780 m). Presenta una capa u horizonte unico (A) de 18 cm de espesor (muy variable) de textura esqueletica franco arenosa gruesa, con 5% de materia organica y estructura en bloques muy debiles, continua hacia abajo la roca granitica normalmente alterada en diverso grado.
+
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie fue descrito a 18 Km al NO de Almafuerte, departamento Calamuchita, provincia de Cordoba.
+
+A	0-18 cm; color en humedo pardo oscuro (10YR3/3); textura de la tierra fina franco arenoso (tiene mas de 30% de gravillas o de fracciones mayores a 2 mm); estructura en bloques debiles; no plastico; no adhesivo; raices abundantes; limite inferior gradual.
+
+R	18 cm a +; Roca alterada.
+
+Datos analiticos Serie LOS MOLLES
+Situacion: Latitud: 32?03'51"S Longitud: 64?23'32"O Altitud: 650 m.s.n.m.
+
+|Horizonte                                                            |A       |
+|Profundidad de la muestra (cm)                                       |0-18    |
+|Materia Organica (%)                                                 |14,8    |
+|Carbono Organico (%)                                                 |8,6     |
+|Nitrogeno total (%)                                                  |0,76    |
+|Relacion C/N                                                         |11,3    |
+|Arcilla, <2 u (%)                                                    |8,5     |
+|Limo, 2-50 u (%)                                                     |29,3    |
+|Arena muy fina, 50-100 u (%)                                         |14,9    |
+|Arena fina, 100-250 u (%)                                            |17,6    |
+|Arena media, 250-500 u (%)                                           |12,7    |
+|Arena gruesa, 500-1000 u (%)                                         |10,4    |
+|Arena muy gruesa, 1-2 mm (%)                                         |4,5     |
+|Carbonatos, CaCO3 (%)                                                |0       |
+|Equivalente de humedad (%)                                           |29,7    |
+|pH en pasta                                                          |6,5     |
+|pH en agua (1:2,5)                                                   |6,9     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |12,3    |
+|                                                           |Mg++    |0,9     |
+|                                                           |Na+     |0,4     |
+|                                                           |K+      |0,8     |
+|                                                           |H+      |0,5     |
+|Sodio de intercambio, % (PSI)                                        |2,7     |
+|Suma de bases, meq/100 gr (S)                                        |14,4    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,9    |
+|Saturacion con bases, % (S/T)                                        |96,6    |

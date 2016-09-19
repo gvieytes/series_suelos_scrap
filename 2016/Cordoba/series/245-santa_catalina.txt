@@ -39,7 +39,7 @@ Situacion: Latitud: 30o55'43"S Longitud: 64o05'14"O Altitud: 500 m.s.n.m.
 |Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0     |6,8     |
 |pH en pasta                                                          |6,7     |7,0     |7,1     |7,2     |        |
 |pH en agua (1:2,5)                                                   |7,0     |7,2     |7,3     |7,4     |8,1     |
-|Cationes de intercambio, meq/100 gr:                                 |Ca++    |15,2    |18,3    |18,7    |18,2    |
+|Cationes de intercambio, meq/100 gr (Ca++)                             |15,2    |18,3    |18,7    |18,2    |
 |Suma de bases, meq/100 gr (S)                                        |18,5    |20,5    |20,5    |19,7    |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |19,7    |21,1    |21,2    |19,9    |        |
 |Saturacion con bases, % (S/T)                                        |93,9    |97,1    |96,6    |99,0    |        |

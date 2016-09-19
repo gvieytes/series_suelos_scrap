@@ -1,0 +1,53 @@
+Serie ASSUNTA
+Simbolo: As
+Natralbol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 12
+
+Es moderadamente bien drenada, levemente acida en superficie y alcalino sodica en el subsuelo. Ocupa sectores aplanados y suavemente deprimidos dentro de los derrames del abanico aluvial del rio Chocancharaua (Cuarto) en la provincia de Cordoba. La parte superficial o capa arable (horizonte A) posee textura franco arenosa a franca, color pardo grisaceo muy oscuro, estructura en bloques moderados y se extiende hasta 27 cm de profundidad, de los cuales los primeros 17 cm han sido arados. Hacia abajo se extiende otro horizonte decolorado (E) con baja fertilidad natural y alcalinidad sodica. El subsuelo esta representado por un horizonte de acumulacion de arcilla en forma de barnices en las caras de los agregados, posee textura franca, es fuertemente alcalino sodico y tiene estructura columnar moderada a fuerte, este horizonte se extiende desde 33 a 61 cm. Hacia abajo, luego de un cambio gradual, continua un horizonte de transicion (BC). El material originario (horizonte C) con carbonatos libres en la masa del suelo tiene textura franca y el contenido de sodio en el complejo de intercambio se mantiene constante o aumenta en profundidad. Este suelo, a pesar de tener buenas condiciones superficiales se encuentra limitado por las subsuperficiales en sus aspectos tanto fisicos como quimicos por la presencia del sodio, drenaje moderado a imperfecto, con la capa freatica proxima a la superficie que incluyen anegamientos.
+
+Descripcion del perfil tipico:
+
+El perfil modal de este suelo fue descrito a 19,5 Km al Sur de la ciudad de La Carlota, departamento Juarez Celman, provincia de Cordoba.
+
+Ap	0-17 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 5,8; raices abundantes; limite inferior abrupto, suave.
+
+A	17-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 6; raices escasas; limite inferior claro suave.
+
+En	27-33 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso a franco; masivo; friable en humedo; no plastico; no adhesivo; pH 6,9; moteados de FeMn escasos finos y debiles; vestigios de raices; limite inferior abrupto, ondulado.
+
+Btn	33-61 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco; estructura columnar media moderada; duro en seco; ligeramente firme en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,8; concreciones de Carbonato de Calcio comunes y finas; barnices (clhm) abundantes finos y medios; moteados abundantes finos y precisos; limite inferior gradual
+
+BC	61-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios debiles; muy friable en humedo; ligeramente plastico; no adhesivo; pH 8,6; concreciones de carbonato de Calcio comunes gruesas; barnices escasos de arcilla (ClSk); moteados escasos finos y debiles; se observan pequenos nucleos cementados; limite inferior abrupto.
+
+Ck	90 cm a +; color en humedo pardo (7,5YR4,5/4); franco; masivo; muy friable en humedo; ligeramente plastico; no adhesivo; pH 9,2; moderada reaccion al ClH en la masa del suelo; concreciones de Carbonato de Calcio comunes gruesas; moteados comunes finos y debiles.
+
+Datos analiticos Serie ASSUNTA
+Situacion: Latitud: 33o32'24"S Longitud: 63o14'44"O Altitud: 127,5 m.s.n.m.
+
+|Horizonte                                                            |Ap      |A       |En      |Btn     |BC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-17    |17-27   |27-33   |33-61   |61-90   |90 a +  |
+|Materia Organica (%)                                                 |1,72    |1,72    |        |        |        |        |
+|Carbono Organico (%)                                                 |1,0     |1,0     |        |        |        |        |
+|Nitrogeno total (%)                                                  |0,19    |        |        |        |        |        |
+|Relacion C/N                                                         |5,3     |        |        |        |        |        |
+|Arcilla, <2 u (%)                                                    |4,5     |11,0    |8,0     |16,2    |20,5    |12,7    |
+|Limo, 2-50 u (%)                                                     |37,2    |47,8    |50,3    |40,9    |45,8    |46,2    |
+|Arena muy fina, 50-100 u (%)                                         |48,3    |34,9    |36,2    |39,7    |31,0    |34,4    |
+|Arena fina, 100-250 u (%)                                            |8,2     |4,0     |3,9     |3,9     |2,5     |2,1     |
+|Arena media, 250-500 u (%)                                           |0,3     |0,6     |        |        |        |0,6     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |0       |0       |1,9     |
+|Equivalente de humedad (%)                                           |15,1    |18,0    |14,0    |22,5    |27,0    |22,8    |
+|pH en pasta                                                          |5,1     |5,2     |6,4     |7,0     |7,8     |7,9     |
+|pH en agua (1:2,5)                                                   |5,8     |6,0     |6,9     |7,8     |8,9     |9,2     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |7,0     |5,7     |3,3     |        |        |        |
+|                                                           |Mg++    |2,0     |1,1     |2,7     |        |        |        |
+|                                                           |Na+     |0,4     |1,8     |1,8     |        |        |        |
+|                                                           |K+      |2,0     |1,5     |1,5     |        |        |        |
+|H+ de cambio (meq/100 gr)                                            |1,6     |2,1     |0,5     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |3,1     |14,8    |18,4    |        |        |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |6,6     |11,8    |15,2    |13,3    |
+|Suma de bases, meq/100 gr (S)                                        |11,4    |10,1    |9,3     |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |13      |12,2    |9,8     |17,3    |19,9    |12,0    |
+|Saturacion con bases, % (S/T)                                        |94,2    |82,8    |94,9    |        |        |        |

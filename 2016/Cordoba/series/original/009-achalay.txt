@@ -1,0 +1,54 @@
+Serie ACHALAY
+
+Simbolo: Achy
+
+
+Natracualf tipico, limosa fina, mixta, termica
+
+Indice de Productividad: 8
+
+Es un suelo fuertemente alcalino sodico, moderadamente salino y con drenaje imperfecto, que se ha desarrollado sobre materiales franco limosos finos. Se ubica en sectores planos ligeramente deprimidos y bajos. Los primeros 13 cm son de color pardo grisaceo oscuro, de textura franco limosa y estructura en bloques moderados. Luego, en forma abrupta, se pasa a un horizonte franco arcillo limoso (Bt) pardo a pardo oscuro en humedo, estructura prismatica con abundantes barnices arcillosos y moteados de Fe. Este horizonte pasa gradualmente (hay un horizonte transicional BC) al material originario que se encuentra aproximadamente a 125 cm de profundidad, y es de textura franco limosa y con abundante calcareo libre en la masa. Los suelos pertenecientes a esta Serie estan muy limitados en su aptitud de uso por la fuerte alcalinidad (exceso de sodio intercambiable) y el drenaje impedido. Por lo general estan dedicados a pasturas, ya que no son aptos para los cultivos que son comunes de la zona. Esta Serie no ha sido mapeada como entidad separada ya que siempre aparece geograficamente asociada con otros suelos en un patron intrincado, ocupando las partes que desde la superficie se identifican como manchones en cultivos o "peladales" de la vegetacion natural o pasturas, de tamano variable. Ademas, la Serie se ha reconocido como suelo menor o "inclusion" en otras unidades cartograficas.
+
+Descripcion del perfil tipico:
+
+A continuacion se da la descripcion de un perfil representativo, obtenido a 9,3 km al SSO de la localidad de Leones, departamento Marcos Juarez, provincia de Cordoba.
+
+A	0-13 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; duro en seco; no plastico; no adhesivo; moteados escasos, finos y debiles; limite inferior abrupto, suave.
+
+Btn	13-36 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados a debiles que rompe a bloques medios moderados; friable en humedo; plastico; adhesivo; barnices clayskins medios, comunes; moteados escasos, finos y debiles; presencia de pseudomicelios salinos; limite inferior claro, suave.
+
+Btn2	36-78 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; estructura en prismas irregulares medios y bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices clayskins escasos y finos; moteados comunes, medios y precisos; concreciones calcareas comunes, medias; limite inferior gradual, suave.
+
+BC	78-125 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; concreciones calcareas comunes y medias; barnices clayskins escasos y finos; moteados comunes, gruesos y precisos; escasos nodulos cementados; limite inferior claro, ondulado.
+
+Ck	125 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundantes carbonatos libres en la masa.
+
+Datos analiticos Serie ACHALAY
+Situacion: Latitud: 32?42'00"S - Longitud: 62?23'22"O - Altitud: 107 m.s.n.m.
+|Horizonte                                                            |A       |Btn     |Btn2    |BC       |Ck        |
+|Profundidad de la muestra (cm)                                       |0-13    |13-36   |36-78   |78-125   |125 a +   |
+|Materia Organica (%)                                                 |1,71    |1,39    |0,33    |0,14     |0,07      |
+|Carbono Organico (%)                                                 |0,99    |0,81    |0,195   |0,085    |0,042     |
+|Nitrogeno total (%)                                                  |0,10    |0,09    |0,055   |0,051    |0,042     |
+|Relacion C/N                                                         |10      |9       |4       |2        |1,0       |
+|Arcilla, <2 u (%)                                                    |22,1    |33,6    |27,1    |23,5     |19,5      |
+|Limo, 2-50 u (%)                                                     |67,8    |52,2    |61,1    |61,7     |66,7      |
+|Arena muy fina, 50-100 u (%)                                         |9,4     |13,8    |10,8    |13,4     |10,9      |
+|Arena fina, 100-250 u (%)                                            |0,7     |0,4     |0,8     |1,3      |0,8       |
+|Arena media, 250-500 u (%)                                           |        |        |        |         |0,4       |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,2     |0,1      |1,7       |
+|Equivalente de humedad (%)                                           |24,3    |37,8    |32,8    |28,0     |25,4      |
+|pH en pasta                                                          |6,5     |7,0     |8,1     |8,5      |8,7       |
+|pH en agua (1:2,5)                                                   |7,5     |7,5     |8,8     |9,4      |9,5       |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |5,8     |10,5    |        |         |          |
+|                                                             |Mg++   |4,6     |6,0     |        |         |          |
+|                                                             |Na+    |3,7     |8,3     |12,2    |10,7     |9,6       |
+|                                                             |K+     |2,4     |2,9     |3,1     |3,1      |3,0       |
+|H+ de cambio (meq/100 gr)                                            |3,3     |3,1     |        |         |          |
+|Sodio de intercambio, % (PSI)                                        |22,4    |32,0    |48,0    |48,8     |50,0      |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |3,19    |12,2    |7,6     |         |          |
+|Suma de bases, meq/100 gr (S)                                        |16,5    |27,7    |        |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,3    |27,6    |25,4    |21,9     |19,2      |
+|Saturacion con bases, % (S/T)                                        |96      |100     |        |         |          |

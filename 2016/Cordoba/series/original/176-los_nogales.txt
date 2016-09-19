@@ -1,0 +1,45 @@
+Serie LOS NOGALES
+Haplustol litico paralitico, esqueletica, arenosa, mixta, termica
+Indice de Productividad: 15
+
+Es un suelo algo excesivamente drenado, vinculado a pendientes alargadas, desarrollado sobre materiales franco arenosos. El horizonte A o capa superior, franco arenoso, de estructura granular, presenta un contenido moderadamente alto de materia organica (4,5%). A este horizonte le sigue otra capa, tambien franco arenosa, que se apoya sobre la roca alterada.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito en la mitad Sur del predio del Centro Tecnologico Forestal, departamento Santa Maria, provincia de Cordoba.
+
+A	0-16 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura granular; friable en humedo; pH 5,6; raices muy abundantes; limite inferior abrupto, suave.
+
+2A	16-37 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; estructura granular; friable en humedo; pH 5,7; raices abundantes; limite inferior abrupto, suave.
+
+3Rr	37 cm a +; roca alterada, suelta; franco arenoso a areno franco (al tacto); friable en humedo; pH 6,2.
+
+Datos analiticos Serie LOS NOGALES
+Situacion: Latitud: 31?48'S Longitud: 64?38'O Altitud: 1060 m.s.n.m.
+
+|Horizonte                                                            |A       |2A      |3Rr     |
+|Profundidad de la muestra (cm)                                       |0-16    |16-37   |37 a +  |
+|Materia Organica (%)                                                 |4,31    |3,28    |        |
+|Carbono Organico (%)                                                 |2,5     |1,9     |        |
+|Nitrogeno total (%)                                                  |0,27    |        |        |
+|Relacion C/N                                                         |9       |        |        |
+|Arcilla, <2 u (%)                                                    |13,9    |14,3    |0       |
+|Limo, 2-50 u (%)                                                     |27,5    |23,5    |12,5    |
+|Arena muy fina, 50-100 u (%)                                         |3,8     |8,7     |19,8    |
+|Arena fina, 100-250 u (%)                                            |19,9    |24,4    |25,1    |
+|Arena media, 250-500 u (%)                                           |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |24,5    |17,9    |19,6    |
+|Arena muy gruesa, 1-2 mm (%)                                         |13,4    |10,6    |12,6    |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |
+|Equivalente de humedad (%)                                           |17,3    |13,3    |10,4    |
+|pH en pasta                                                          |5,2     |5,3     |5,8     |
+|pH en agua (1:2,5)                                                   |5,6     |5,7     |6,2     |
+|Cationes de intercambio, meq/100 gr:                       |Ca++    |10,2    |9,5     |10,1    |
+|                                                           |Mg++    |1,2     |0,3     |0,5     |
+|                                                           |Na+     |0,2     |0,2     |0,2     |
+|                                                           |K+      |0,8     |0,5     |0,4     |
+|                                                           |H+      |3,2     |3,2     |1,7     |
+|Sodio de intercambio, % (PSI)                                        |1,3     |1,5     |1,6     |
+|Suma de bases, meq/100 gr (S)                                        |12,2    |10,5    |11,2    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,4    |13,7    |12,9    |
+|Saturacion con bases, % (S/T)                                        |79      |77      |87      |

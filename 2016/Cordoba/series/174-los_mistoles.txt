@@ -39,11 +39,11 @@ Situacion: Latitud: 30?41'00"S Longitud: 63?46'08"O Altitud: 280 m.s.n.m.
 |Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0     |0,4       |
 |Equivalente de humedad (%)                                            |29,2    |25,6    |25,0    |24,8      |
 |pH en agua (1:2,5)                                                    |6,3     |7,3     |7,7     |8,3       |
-|Cationes de intercambio, meq/100 gr:                        |Ca++     |13,8    |14,9    |14,5    |          |
-|                                                            |Mg++     |1,2     |1,5     |2,3     |          |
-|                                                            |Na+      |0,8     |0,7     |0,7     |0,9       |
-|                                                            |K+       |4,7     |2,6     |1,7     |2,1       |
-|                                                            |H+       |3,4     |0,6     |        |          |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |13,8    |14,9    |14,5    |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |1,2     |1,5     |2,3     |          |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,8     |0,7     |0,7     |0,9       |
+|Cationes de intercambio, meq/100 gr (K+)                              |4,7     |2,6     |1,7     |2,1       |
+|Cationes de intercambio, meq/100 gr (H+)                              |3,4     |0,6     |        |          |
 |Sodio de intercambio, % (PSI)                                         |3,3     |3,4     |3,6     |4,5       |
 |Conductividad, mmhos/cm (extracto de saturacion)                      |4,61    |        |        |          |
 |Suma de bases, meq/100 gr (S)                                         |20,5    |19,7    |19,2    |          |

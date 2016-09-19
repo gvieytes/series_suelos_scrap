@@ -1,0 +1,42 @@
+Serie LA LONJA
+Simbolo: LLo
+Haplustol udorthentico, franca gruesa, mixta, termica
+Capacidad de uso: IVes
+Indice de Productividad: 49
+
+La Serie La Lonja es un suelo algo excesivamente drenado desarrollado incipientemente sobre sedimentos loessicos poco modificados que cubren total o parcialmente afloramientos de antiguos abanicos aluviales (conglomerados de edad terciaria posiblemente) con pendientes mayores a 1,5%. El escurrimiento es medio y son suelos algo excesivamente drenados y con susceptibilidad a la erosion hidrica. Presenta un horizonte A o capa arable de 22 cm de espesor, con textura franco limosa, 19% de arcilla y estructura en bloques. Continua hacia abajo un horizonte de transicion ACk que se extiende hasta los 46 cm de profundidad, es franco limoso, con 19% de arcilla y 9% de carbonatos libres. A partir de la profundidad indicada continua hacia abajo el material originario que es un loess poco modificado (se observan algunas gravillas), franco limoso, masivo con 15% de arcillas y 9% de carbonatos libres. La limitante de este suelo es el drenaje algo excesivo, la susceptibilidad a la erosion hidrica y la climatica de caracter ligera (regimen de humedad ustico en transicion al udico).
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue descrito a 2,5 km al Oeste de Jesus Maria, departamento Colon, provincia de Cordoba.
+
+Ap	0-22 cm; color en humedo pardo muy oscuro (10YR2/2); franco limoso; estructura en bloques subangulares medios y gruesos moderados; pH 7,5; raices abundantes; limite inferior abrupto, suave.
+
+ACk	22-46 cm; color en humedo pardo oscuro (7,5YR3/4); franco limoso; estructura en bloques subangulares finos debiles a moderados; violenta reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; escasos durinodulos; pH 8; raices escasas; limite inferior claro, suave.
+
+Ck	46 cm a +; color en humedo pardo fuerte (7,5YR4/6); franco limoso; masivo; violenta reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; escasos durinodulos; pH 8,1.
+
+Datos analiticos Serie LA LONJA
+Situacion: Latitud: 30o58'45"S Longitud: 64o08'00"O Altitud: 550 m.s.n.m.
+
+|Horizonte                                                            |Ap      |ACk     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-22    |22-46   |46 a +  |
+|Materia Organica (%)                                                 |4,48    |        |        |
+|Carbono Organico (%)                                                 |        |        |        |
+|Nitrogeno total (%)                                                  |0,28    |        |        |
+|Relacion C/N                                                         |        |        |        |
+|Arcilla, <2 u (%)                                                    |15,3    |19,2    |15,3    |
+|Limo, 2-50 u (%)                                                     |54,7    |56,3    |55,5    |
+|Arena (%)                                                            |27,8    |22,1    |27,5    |
+|Carbonatos, CaCO3 (%)                                                |0,0     |9,4     |9,3     |
+|Equivalente de humedad (%)                                           |        |        |        |
+|pH en agua (1:2,5)                                                   |7,5     |8,0     |8,1     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |13,8    |        |        |
+|                                                            |Mg++    |3,9     |        |        |
+|                                                            |Na+     |0,3     |0,3     |0,3     |
+|                                                            |K+      |0,5     |0,2     |0,4     |
+|                                                            |H+      |0,6     |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,6     |1,4     |1,9     |
+|Suma de bases, meq/100 gr (S)                                        |18,5    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,1    |22,0    |16,1    |
+|Saturacion con bases, % (S/T)                                        |97      |        |        |

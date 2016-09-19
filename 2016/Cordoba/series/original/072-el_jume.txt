@@ -1,0 +1,53 @@
+Serie EL JUME
+Simbolo: Eju
+Endoacuent tipico, franca fina, mixta, termica
+Indice de Productividad: 2
+
+La Serie El Jume es un suelo pobremente drenado, sin desarrollo de horizontes geneticos, formado por capas aluviales con dominio de texturas pesadas; generalmente tiene la capa freatica afectando el perfil muy proxima a la superficie. Es sodico, fuertemente salino desde la superficie y susceptible a sufrir inundaciones y/o anegamientos. Ocupa un area alargada en sentido Norte-Sur correspondiente a la parte mas baja dentro del primer Saladillo. La vegetacion natural consiste exclusivamente en halofitas muy resistentes a las limitaciones extremas indicadas, en especial jume colorado y salicornia. La capa 1 superficial se extiende hasta 22 cm, es franco arcillo limosa con mas del 15% de sodio de intercambio y 88,6 mmhos de conductividad. La capa siguiente se extiende hasta la capa freatica (30 cm) con texturas similares aumentando el sodio de intercambio y el material calcareo diseminado en la masa. Es normal la presencia en todo el perfil de pseudomicelios salinos. Dentro de la Serie El Jume existen algunas variaciones en cuanto a los espesores de las capas pero las condiciones de drenaje pobre, anegamientos muy frecuentes, alcalinidad y salinidad muy alta son un denominador comun para todos los perfiles de la Serie.
+
+Descripcion del perfil tipico:
+
+El perfil tipo de esta Serie ha sido estudiado a 6 Km al Este de El Guanaco, departamento Rio Seco, provincia de Cordoba.
+
+1zn	0 - 22 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; masivo tendencia laminar; plastico; ligeramente adhesivo; raices escasas; presencia de caracoles y pseudomicelios salinos superficiales; limite inferior abrupto, suave.
+
+2zn	22 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; masivo; violenta reaccion de larga duracion al ClH en la masa del suelo; vestigios de raices; capa freatica a 40 cm; abundantes pseudomicelios salinos y caracoles.
+
+Datos analiticos Serie El JUME
+Situacion: Latitud: 29o58'00"S Longitud: 63o16'40"O Altitud: 75 m.s.n.m.
+
+|Horizonte                                                             |1zn      |2zn     |
+|Profundidad de la muestra (cm)                                        |0-22     |22 a +  |
+|Materia Organica (%)                                                  |1,21     |        |
+|Carbono Organico (%)                                                  |0,70     |        |
+|Nitrogeno total (%)                                                   |0,08     |        |
+|Relacion C/N                                                          |8,7      |        |
+|Arcilla, <2 u (%)                                                     |         |        |
+|Limo, 2-50 u (%)                                                      |         |        |
+|Arena muy fina, 50-100 u (%)                                          |         |        |
+|Arena fina, 100-250 u (%)                                             |         |        |
+|Arena media, 250-500 u (%)                                            |         |        |
+|Arena gruesa, 500-1000 u (%)                                          |         |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |         |        |
+|Carbonatos, CaCO3 (%)                                                 |1,1      |11,2    |
+|Equivalente de humedad (%)                                            |32,2     |31,9    |
+|pH en pasta                                                           |7,1      |7,2     |
+|pH en agua (1:2,5)                                                    |7,6      |7,7     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++     |         |        |
+|                                                            |Mg++     |         |        |
+|                                                            |Na+      |         |        |
+|                                                            |K+       |         |        |
+|                                                            |H+       |         |        |
+|Sodio de intercambio, % (PSI)                                         |         |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |88,6     |38,4    |
+|Suma de bases, meq/100 gr (S)                                         |         |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |         |        |
+|Saturacion con bases, % (S/T)                                         |         |        |
+|Composicion del extracto de saturacion, meq/l:|Cationes     |Ca++     |237,3    |58,18   |
+|                                              |             |Mg++     |99,4     |30,6    |
+|                                              |             |Na+      |784,0    |346,0   |
+|                                              |             |K+       |4,0      |2,4     |
+|                                              |Aniones      |CO3=     |         |        |
+|                                              |             |HCO3-    |4,8      |11,2    |
+|                                              |             |SO4=     |42,1     |93,4    |
+|                                              |             |Cl-      |1119,8   |335,9   |

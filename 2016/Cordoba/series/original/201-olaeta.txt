@@ -1,0 +1,48 @@
+Serie OLAETA
+Simbolo: Ota
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 38
+Capacidad de Uso: IIIsc
+
+Se trata de suelos algo excesivamente drenados, desarrollados sobre materiales franco arenosos y que se encuentran vinculados con lomas arenosas con distintos porcentajes de hoyas medanosas estabilizadas dentro de la llanura eolica cordobesa. La capa arable, horizonte A, es de 26 cm de espesor, pardo a pardo oscuro, de textura franco arenosa, continua el horizonte AC, franco arenoso transicional al material originario, el que se encuentra a 53 cm de profundidad, de textura arenosa franca. La capacidad de uso de estos suelos, se encuentra limitada por la baja retencion de humedad y el clima.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa a estos suelos fue estudiado a 6 Km al NNO de la localidad de Olaeta, departamento Juarez Celman, provincia de Cordoba.
+
+A	0-26 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+AC	26-53 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios debiles con tendencia masivo; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
+
+C	53 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso a areno franco; masivo; muy friable en humedo; no plastico; no adhesivo.
+
+
+Datos analiticos Serie OLAETA
+
+Situacion: Latitud: 33?00'39"S Longitud: 63?57'16"O Altitud: 311 m.s.n.m.
+|Horizonte                                                             |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                        |0-26    |26-53   |53 a +  |
+|Materia Organica (%)                                                  |1,55    |0,69    |        |
+|Carbono Organico (%)                                                  |0,9     |0,4     |        |
+|Nitrogeno total (%)                                                   |0,08    |        |        |
+|Relacion C/N                                                          |11,3    |        |        |
+|Arcilla, <2 u (%)                                                     |9,4     |9,0     |6,4     |
+|Limo, 2-50 u (%)                                                      |22,2    |20,6    |20,3    |
+|Arena muy fina, 50-100 u (%)                                          |65,0    |65,0    |68,5    |
+|Arena fina, 100-250 u (%)                                             |3,0     |4,5     |4,0     |
+|Arena media, 250-500 u (%)                                            |0,5     |0,5     |0,5     |
+|Arena gruesa, 500-1000 u (%)                                          |0,0     |0,0     |0,5     |
+|Arena muy gruesa, 1-2 mm (%)                                          |0,0     |0,0     |0,0     |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                            |12,2    |11,1    |9,4     |
+|pH en pasta                                                           |6,0     |6,7     |7,3     |
+|pH en agua (1:2,5)                                                    |6,4     |6,9     |7,6     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++    |6,1     |6,5     |7,0     |
+|                                                             |Mg++    |0,8     |1,5     |1,6     |
+|                                                             |Na+     |0,2     |0,1     |0,1     |
+|                                                             |K+      |1,7     |1,2     |0,7     |
+|                                                             |H+      |0,9     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                         |2,0     |1,0     |1,1     |
+|Suma de bases, meq/100 gr (S)                                         |8,8     |9,3     |9,4     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |9,8     |9,6     |9,4     |
+|Saturacion con bases, % (S/T)                                         |89,8    |96,9    |100     |

@@ -1,0 +1,46 @@
+Serie ESTANCIA LA TORRE
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 47
+
+La Serie Estancia La Torre es un suelo profundo, algo excesivamente drenado, desarrollado sobre materiales de origen eolico, vinculado a sectores ondulados. Es un suelo de incipiente desarrollo, posee un horizonte A de 20 cm con moderadamente bajo tenor de materia organica, debilmente acido, y textura franco limosa. Pasa transicionalmente (AC) a un horizonte C a los 48 cm de textura franco arenosa, con carbonatos libres a partir de los 70 cm de profundidad.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 7,5 Km al NO de Paso del Rio Seco, departamento Rio Cuarto, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios debiles; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto.
+
+AC	20-48 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior claro.
+
+C	48-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
+
+Ck	70 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo.
+
+Datos Analiticos Serie ESTANCIA LA TORRE
+Situacion: Latitud: 32o45'29"S Longitud: 64o35'46"O Altitud: 500 m.s.n.m.
+|Horizonte                                                             |A       |AC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                        |0-20    |20-48   |48-70   |70 a +  |
+|Materia Organica (%)                                                  |2,24    |1,21    |        |        |
+|Carbono Organico (%)                                                  |1,3     |0,7     |        |        |
+|Nitrogeno total (%)                                                   |0,14    |        |        |        |
+|Relacion C/N                                                          |9,3     |        |        |        |
+|Arcilla, <2 u (%)                                                     |11,7    |8,0     |6,2     |7,8     |
+|Limo, 2-50 u (%)                                                      |55,3    |48,1    |48,0    |48,3    |
+|Arena muy fina, 50-100 u (%)                                          |31,0    |41,0    |40,5    |42,5    |
+|Arena fina, 100-250 u (%)                                             |1,0     |3,0     |3,0     |0,5     |
+|Arena media, 250-500 u (%)                                            |0,5     |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |0,5     |0,5     |0,5     |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0     |3,4     |
+|Equivalente de humedad (%)                                            |16,8    |14,5    |14,1    |13,5    |
+|pH en pasta                                                           |5,9     |6,4     |7,3     |8,0     |
+|pH en agua (1:2,5)                                                    |6,3     |6,7     |7,7     |8,3     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |9,3     |10,2    |10,2    |        |
+|                                                            |Mg++    |1,3     |1,1     |1,1     |        |
+|                                                            |Na+     |0,2     |0,1     |0,1     |0,4     |
+|                                                            |K+      |2,1     |1,6     |1,2     |1,0     |
+|                                                            |H+      |1,9     |0,9     |        |        |
+|Sodio de intercambio, % (PSI)                                         |1,4     |0,7     |0,8     |3,5     |
+|Suma de bases, meq/100 gr (S)                                         |12,9    |13,0    |12,6    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,8    |13,9    |12,6    |11,4    |
+|Saturacion con bases, % (S/T)                                         |87,2    |93,5    |100     |        |

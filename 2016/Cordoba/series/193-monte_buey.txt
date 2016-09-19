@@ -45,11 +45,11 @@ Situacion: Latitud: 32o58'15"S Longitud: 62o24'10"O Altitud: 105 m.s.n.m.
 |Equivalente de humedad (%)                                            |29,2      |29,8    |26,5    |22,9    |21,9     |23,4      |
 |pH en pasta                                                           |5,9       |6,3     |6,6     |6,8     |6,8      |7,7       |
 |pH en agua (1:2,5)                                                    |6,4       |6,9     |7,1     |7,1     |7,0      |8,0       |
-|Cationes de intercambio, meq/100 gr:                         |Ca++    |11,8      |14,0    |13,1    |12,5    |13,9     |          |
-|                                                             |Mg++    |4,0       |5,7     |5,7     |4,1     |4,7      |          |
-|                                                             |Na+     |0,3       |0,4     |0,4     |0,3     |0,3      |0,5       |
-|                                                             |K+      |2,4       |2,5     |2,3     |2,2     |2,4      |2,6       |
-|                                                             |H+      |6,0       |4,8     |3,7     |2,5     |2,3      |          |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |11,8      |14,0    |13,1    |12,5    |13,9     |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |4,0       |5,7     |5,7     |4,1     |4,7      |          |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,3       |0,4     |0,4     |0,3     |0,3      |0,5       |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,4       |2,5     |2,3     |2,2     |2,4      |2,6       |
+|Cationes de intercambio, meq/100 gr (H+)                              |6,0       |4,8     |3,7     |2,5     |2,3      |          |
 |Sodio de intercambio, % (PSI)                                         |1,4       |1,5     |1,8     |1,5     |1,5      |2,9       |
 |Suma de bases, meq/100 gr (S)                                         |18,5      |22,6    |21,5    |19,1    |21,3     |          |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |20,8      |26,1    |22,3    |20,3    |20,0     |17,3      |

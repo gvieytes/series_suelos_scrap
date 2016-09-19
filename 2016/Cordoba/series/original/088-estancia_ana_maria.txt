@@ -1,0 +1,51 @@
+Serie ESTANCIA ANA MARIA
+Simbolo: EAM
+Haplustol tipico, franca fina a franca gruesa, mixta, termica
+Indice de Productividad: 64
+Capacidad de uso: IIIec
+
+La Serie Estancia Ana Maria se ha desarrollado sobre sedimentos fluviales en areas de derrames de desbordes y en colectores principales; normalmente se encuentra en fases acumuladas. Tiene texturas medias que incluyen loess redepositados, relieve suavemente ondulado o concavo en los colectores y ocupa sectores importantes siempre vinculados a desagues importantes en la Pampa Alta Loessica o Plataforma Basculada de la provincia de Cordoba. Es un suelo bien drenado, presentando fases erosionadas y acumuladas, inclusive con erosion lineal grave (carcavas) que afectan tanto al suelo original como a la acumulacion posterior. Presenta un horizonte A de 30 cm de espesor (variable), muy rico en materia organica, estructura en bloques y textura franco limosa a franco arcillo limosa. Continua hacia abajo un horizonte Bw con vestigios de barnices en las caras de los agregados, de textura franca y estructura en bloques debiles que se extiende hasta 52 cm. Luego aparece el material originario del suelo, masivo, franco limoso, de color pardo amarillento con carbonato de calcio libre en la masa del suelo a partir de 92 cm.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de este suelo fue descrito a 8 Km al Oeste del paraje Las Gamas, departamento Rio Cuarto, provincia de Cordoba.
+
+A	0-30 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios fuertes; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,4; raices abundantes; limite inferior claro suave.
+
+Bw	30-52 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; ligeramente plastico; ligeramente adhesivo; pH 7,7; vestigios de barnices arcillosos; raices escasas; limite inferior gradual.
+
+C	52-92 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; no plastico; no adhesivo; pH 7,7; vestigios de raices; limite inferior abrupto.
+
+Ck	92 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,4; moderada a violenta reaccion al ClH en la masa del suelo.
+
+
+Datos analiticos Serie ESTANCIA ANA MARIA
+
+Situacion: Latitud: 32o29'57"S Longitud: 64o11'55"O Altitud: 510 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-30    |30-52   |52-92   |92 a +  |
+|Materia Organica (%)                                                 |5,3     |1,55    |        |        |
+|Carbono Organico (%)                                                 |3,1     |0,9     |        |        |
+|Nitrogeno total (%)                                                  |0,25    |        |        |        |
+|Relacion C/N                                                         |12,4    |        |        |        |
+|Arcilla, <2 u (%)                                                    |28,3    |21,1    |17,4    |15,4    |
+|Limo, 2-50 u (%)                                                     |65,3    |71,9    |70,7    |70,8    |
+|Arena muy fina, 50-100 u (%)                                         |4,8     |4,9     |6,9     |6,8     |
+|Arena fina, 100-250 u (%)                                            |2,7     |2,8     |3,6     |4,7     |
+|Arena media, 250-500 u (%)                                           |0,7     |0,5     |0,7     |0,4     |
+|Arena gruesa, 500-1000 u (%)                                         |1,1     |1,1     |1,4     |1,0     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,2     |0,2     |0,4     |0,2     |
+|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |4,9     |
+|Equivalente de humedad (%)                                           |29,9    |28,3    |26,7    |23,9    |
+|pH en pasta                                                          |6,1     |7,1     |7,3     |8,0     |
+|pH en agua (1:2,5)                                                   |6,4     |7,4     |7,7     |8,4     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++   |12,7    |14,4    |14,0    |        |
+|                                                            |Mg++   |1,1     |1,7     |1,3     |        |
+|                                                            |Na+    |1,3     |0,8     |1,5     |0,3     |
+|                                                            |K+     |1,3     |0,5     |0,6     |1,7     |
+|                                                            |H+     |1,4     |0,2     |        |        |
+|Sodio de intercambio, % (PSI)                                        |7,3     |4,5     |8,6     |2,2     |
+|Suma de bases, meq/100 gr (S)                                        |16,4    |17,4    |17,4    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,8    |17,6    |17,4    |13,7    |
+|Saturacion con bases, % (S/T)                                        |92,1    |98,9    |100     |        |

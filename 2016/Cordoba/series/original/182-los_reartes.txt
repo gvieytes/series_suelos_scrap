@@ -1,0 +1,45 @@
+Serie LOS REARTES
+Udifluvent tipico, esqueletica, franca, mixta, termica
+Indice de Productividad: 40
+
+Es un suelo sin desarrollo de perfil genetico, de origen fluvial y relacionado a sectores bajos. Se trata de una sucesion de capas calcicas de texturas variadas, siendo la primera rica en materia organica (4,9%) teniendo una potencia de 16 cm.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de este suelo fue descrito a 6 km al NO de la localidad de Los Reartes, departamento Santa Maria, provincia de Cordoba.
+
+1k	0-16 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios debiles; blando en seco; pH 8,2; fuerte reaccion al ClH en la masa del suelo; limite inferior abrupto, suave.
+
+2k	16-33 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios debiles; presencia de gravilla; ligeramente firme en humedo; pH 8,5; fuerte reaccion al ClH en la masa del suelo; limite inferior abrupto, suave.
+
+3k	33 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; presencia de roca alterada; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,5; fuerte reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie LOS REARTES
+Situacion: Latitud: 31o53'S Longitud: 64o37'O Altitud: 900 m.s.n.m.
+
+|Horizonte                                                            |1k      |2k      |3k      |
+|Profundidad de la muestra (cm)                                       |0-16    |16-33   |33 a +  |
+|Materia Organica (%)                                                 |4,99    |        |        |
+|Carbono Organico (%)                                                 |2,9     |        |        |
+|Nitrogeno total (%)                                                  |0,3     |        |        |
+|Relacion C/N                                                         |9,6     |        |        |
+|Arcilla, <2 u (%)                                                    |10,8    |17,6    |13,5    |
+|Limo, 2-50 u (%)                                                     |31,2    |42,3    |62,3    |
+|Arena muy fina, 50-100 u (%)                                         |7,7     |7,8     |4,2     |
+|Arena fina, 100-250 u (%)                                            |22,6    |12,1    |7,8     |
+|Arena media, 250-500 u (%)                                           |7,2     |3,4     |2,4     |
+|Arena gruesa, 500-1000 u (%)                                         |11,4    |8,6     |6,3     |
+|Arena muy gruesa, 1-2 mm (%)                                         |9,6     |5,9     |3,4     |
+|Carbonatos, CaCO3 (%)                                                |4,5     |18,1    |15,3    |
+|Equivalente de humedad (%)                                           |26,2    |25,5    |22,3    |
+|pH en pasta                                                          |7,9     |8,2     |8,3     |
+|pH en agua (1:2,5)                                                   |8,2     |8,5     |8,5     |
+|Cationes de intercambio, meq/100 gr:                        |Ca++    |        |        |        |
+|                                                            |Mg++    |        |        |        |
+|                                                            |Na+     |0,4     |0,4     |0,4     |
+|                                                            |K+      |1,3     |0,8     |0,7     |
+|                                                            |H+      |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |4,3     |4,4     |5,1     |
+|Suma de bases, meq/100 gr (S)                                        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |9,4     |9,0     |7,9     |
+|Saturacion con bases, % (S/T)                                        |        |        |        |

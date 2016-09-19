@@ -1,0 +1,44 @@
+Serie ONGAMIRA I
+Simbolo: OngI
+Ustorthent litico paralitico, esqueletica, arenosa, calcarea, mixta, termica
+Capacidad de uso: VIIes
+Indice de Productividad: 6
+
+Los suelos de esta Serie se han desarrollado debilmente sobre los estratos sedimentarios rojizos de la formacion Ongamira (sedimentitas de edad posiblemente Cretacica). Se caracterizan por tener una vegetacion arbustal (predomina el romerillo) y algo de pastizal subordinado con pendientes que superan el 20%. El perfil del suelo tiene mas de 40% de gravas, con una matriz arenosa franca y con la roca estratificada a no mas de 20 cm de profundidad; esta descrito sobre una facie de areniscas semiconsolidadas. Las limitantes son profundidad efectiva, susceptibilidad a la erosion hidrica, clima, rocosidad, pedregosidad y pH.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de este suelo fue descrito a 7 km al Norte de Ongamira, departamento Ischilin, provincia de Cordoba.
+
+Ak	0-20 cm; color en humedo pardo rojizo oscuro (5YR3/3); areno franco gravillosa; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; pH 6,9; violenta reaccion al ClH en la masa del suelo; raices comunes; limite inferior abrupto, suave.
+
+2Rk	20 cm a +; color en humedo rojo amarillento (5YR5/6); areno franco; estructura laminar fina; firme en humedo; no plastico; no adhesivo; pH 8,4; muy fuerte reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie ONGAMIRA I
+Situacion: Latitud: 30o44'41"S Longitud: 64o25'25"O Altitud: 1150 m.s.n.m.
+
+|Horizonte                                                            |Ak      |2Rk     |
+|Profundidad de la muestra (cm)                                       |0-20    |20 a +  |
+|Materia Organica (%)                                                 |5,86    |        |
+|Carbono Organico (%)                                                 |3,4     |        |
+|Nitrogeno total (%)                                                  |0,29    |        |
+|Relacion C/N                                                         |11,7    |        |
+|Arcilla, <2 u (%)                                                    |6,5     |4,6     |
+|Limo, 2-50 u (%)                                                     |10,1    |11,1    |
+|Arena muy fina, 50-100 u (%)                                         |6,3     |4,3     |
+|Arena fina, 100-250 u (%)                                            |20,0    |13,0    |
+|Arena media, 250-500 u (%)                                           |18,0    |16,0    |
+|Arena gruesa, 500-1000 u (%)                                         |24,6    |33,1    |
+|Arena muy gruesa, 1-2 mm (%)                                         |12,7    |18,4    |
+|Carbonatos, CaCO3 (%)                                                |2,0     |15,1    |
+|Equivalente de humedad (%)                                           |17,9    |11,6    |
+|pH en agua (1:2,5)                                                   |6,9     |8,4     |
+|Cationes de intercambio, meq/100 gr:                         |Ca++   |20,5    |        |
+|                                                             |Mg++   |0,6     |        |
+|                                                             |Na+    |0,1     |        |
+|                                                             |K+     |0,2     |        |
+|                                                             |H+     |0,8     |        |
+|Sodio de intercambio, % (PSI)                                        |0,5     |        |
+|Suma de bases, meq/100 gr (S)                                        |21,4    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,2    |        |
+|Saturacion con bases, % (S/T)                                        |96,4    |        |

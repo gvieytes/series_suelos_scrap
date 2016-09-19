@@ -1,0 +1,41 @@
+Serie SAN PABLO
+Simbolo: SPb
+Haplustol udico, franca gruesa, mixta, termica
+Capacidad de uso: IVsc
+Indice de Productividad: 60
+
+La Serie San Pablo es un suelo bien a algo excesivamente drenado, ubicado en los derrames del rio Santa Catalina y otros con pendientes entre 0,5 a 1% y escurrimiento lento a medio. Es un suelo profundo pero con escasa iluviacion de arcilla con el carbonato de calcio libre a mas del metro de profundidad. Este suelo presenta las siguientes limitaciones: moderada retencion de humedad, factibilidad de endurecimientos superficiales en seco y climatica moderada a ligera. La Serie San Pablo tiene un horizonte A de 26 cm de profundidad. Continua hacia abajo un horizonte levemente enriquecido en arcillas iluviales coincidente con una capa fluvial (2); es el horizonte B, divisible en Bw y Bw2, con texturas franco arenosas y barnices humico arcillosos escasos. El horizonte BC se extiende desde los 74 a 96 cm, es franco arenoso. A partir de la profundidad indicada, fuera del solum, se encuentra una tercera capa (3), arenosa con 73% de arena.
+
+Descripcion del perfil tipico:
+
+El perfil modal de la Serie San Pablo fue descrito a 8 km al NO de la ciudad de Jesus Maria, departamento Totoral, provincia de Cordoba.
+
+Ap	0-26 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios moderados; duro en seco; limite inferior abrupto, suave.
+
+2Bw	26-38 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en prismas a bloques subangulares medios moderados; duro en seco; no plastico; no adhesivo; barnices escasos finos; limite inferior gradual suave.
+
+2Bw2	38-74 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en prismas irregulares gruesos moderados a bloques; duro en seco; ligeramente plastico; ligeramente adhesivo; barnices comunes finos; limite inferior gradual, suave.
+
+2BC	74-96 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso a franco arcillo arenoso; estructura en prismas irregulares gruesos moderados a masivo; duro en seco; barnices escasos finos; ligeramente plastico; ligeramente adhesivo; limite inferior gradual, suave.
+
+3	96 cm a +; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso a arenoso franco; masivo; duro en seco; no plastico; no adhesivo.
+
+Datos analiticos Serie SAN PABLO
+Situacion: Latitud: 30o55'50"S Longitud: 64o10'00"O Altitud: 550 m.s.n.m.
+
+|Horizonte                                                            |Ap      |2Bw     |2Bw2    |2BC     |3       |
+|Profundidad de la muestra (cm)                                       |0-26    |26-38   |38-74   |74-96   |96 a +  |
+|Materia Organica (%)                                                 |3,0     |0,7     |1,0     |0,5     |0,5     |
+|Carbono Organico (%)                                                 |        |        |        |        |        |
+|Nitrogeno total (%)                                                  |0,14    |0,01    |0,04    |0,03    |0,01    |
+|Relacion C/N                                                         |        |        |        |        |        |
+|Arcilla, <2 u (%)                                                    |18,4    |15,1    |18,4    |19,6    |12,3    |
+|Limo, 2-50 u (%)                                                     |31,5    |20,2    |20,4    |21,2    |12,5    |
+|Arena (%)                                                            |47,4    |64,3    |60,5    |56,6    |73,7    |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0     |0,0     |
+|Equivalente de humedad (%)                                           |        |        |        |        |        |
+|pH en agua (1:2,5)                                                   |7,3     |7,3     |7,8     |7,3     |7,7     |
+|Cationes de intercambio, meq/100 gr:                                 |Ca++    |12,7    |9,1     |11,0    |9,1     |
+|Suma de bases, meq/100 gr (S)                                        |14,4    |10,9    |12,2    |11,5    |8,4     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,6    |12,4    |12,2    |11,9    |8,6     |
+|Saturacion con bases, % (S/T)                                        |92      |96      |100     |97      |100     |

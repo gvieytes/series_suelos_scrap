@@ -39,10 +39,10 @@ Situacion: Latitud: 32o21'47"S Longitud: 62o46'13"O Altitud: 137 m.s.n.m.
 |Equivalente de humedad (%)                                           |21,6    |29,8    |25,6    |21,2    |22,1    |
 |pH en pasta                                                          |8,6     |8,9     |8,9     |8,6     |8,6     |
 |pH en agua (1:2,5)                                                   |9,6     |9,8     |9,7     |9,5     |9,5     |
-|Cationes de intercambio, meq/100 gr:                       |Ca++     |        |        |        |6,1     |        |
-|                                                           |Mg++     |        |        |        |1,1     |        |
-|                                                           |Na+      |7,2     |16,4    |11,4    |7,6     |7,9     |
-|                                                           |K+       |1,6     |2,4     |2,3     |1,8     |2,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |        |        |6,1     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |        |        |        |1,1     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |7,2     |16,4    |11,4    |7,6     |7,9     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,6     |2,4     |2,3     |1,8     |2,4     |
 |H+ de cambio (meq/100 gr)                                            |        |        |        |        |        |
 |Sodio de intercambio, % (PSI)                                        |57,1    |83,7    |68,7    |48,7    |56,4    |
 |Conductividad, mmhos/cm (extracto de saturacion)                     |        |4,54    |        |        |        |
@@ -66,10 +66,10 @@ Situacion: Latitud: 32o21'47"S Longitud: 62o46'13"O Altitud: 137 m.s.n.m.
 |Equivalente de humedad (%)                                           |21,7    |22,0    |22,4    |22,4    |
 |pH en pasta                                                          |6,9     |7,1     |7,3     |7,3     |
 |pH en agua (1:2,5)                                                   |7,3     |7,4     |7,6     |7,7     |
-|Cationes de intercambio, meq/100 gr:                        |Ca++    |18,5    |22,7    |        |        |
-|                                                            |Mg++    |0,4     |0,7     |        |        |
-|                                                            |Na+     |0,4     |0,3     |0,3     |0,3     |
-|                                                            |K+      |1,5     |1,1     |1,0     |1,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |18,5    |22,7    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,4     |0,7     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,3     |0,3     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,1     |1,0     |1,1     |
 |H+ de cambio (meq/100 gr)                                            |0,4     |0,2     |        |        |
 |Sodio de intercambio, % (PSI)                                        |1,9     |1,2     |1,2     |1,2     |
 |Suma de bases, meq/100 gr (S)                                        |20,8    |24,8    |        |        |

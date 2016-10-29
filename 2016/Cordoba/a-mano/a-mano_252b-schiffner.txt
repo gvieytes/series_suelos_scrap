@@ -1,0 +1,61 @@
+Serie SCHIFFNER
+Símbolo: Sch
+Natracuol típico, fina, mixta, térmica
+Índice de Productividad: 7
+
+Es un suelo pobremente drenado, desarrollado en las planicies bajas del arroyo Tortugas con alcalinidad sódica pero no muy elevada. Son aptos para pasturas por sus características y por los suelos con que se encuentran asociados. Ocupa “manchones” de tamaños variables, tienen un horizonte A de 19 cm, seguido de un E/B hasta los 26 cm, ambos hidromórficos con moteados comunes, sobre un Bt con límite abrupto y colores oscuros por la materia orgánica dispersada y acumulada en finas películas sobre las estructuras. Es importante determinar su distribución, como así también el porcentaje de otros suelos inferiores asociados, para poder ajustar los manejos más adecuados y lograr rendimientos satisfactorios.
+
+Descripción del perfil típico:
+
+El perfil típico fue estudiado a 20 Km al SE de Colonia Prosperidad, departamento San Justo, provincia de Córdoba.
+
+A	0-19 cm; color en húmedo pardo grisáceo oscuro a pardo grisáceo muy oscuro (10YR3,5/2); color en seco pardo grisáceo a pardo grisáceo oscuro (10YR4,5/2); franco limoso; estructura granular a bloques subangulares finos y débiles; duro en seco; friable en húmedo; ligeramente plástico; ligeramente adhesivo; moteados comunes, medios y precisos; raíces comunes; límite inferior claro, suave.
+
+E/Bn	19-26 cm; color en húmedo pardo grisáceo oscuro (10YR4/2); color en seco gris pardusco claro a pardo grisáceo (10YR5,5/2); franco limoso; estructura en bloques subangulares, finos y débiles; ligeramente duro a duro en seco; friable en húmedo; ligeramente plástico; ligeramente adhesivo; moteados abundantes, medios y precisos; raíces comunes; abundante actividad biológica; límite abrupto, suave.
+
+Btn	26-52 cm; color en húmedo pardo oscuro (7,5YR3,5/4); color en seco pardo claro a pardo (7,5YR5,5/4); franco arcillo limoso; estructura en prismas irregulares medios y moderados que rompen en bloques angulares medios moderados; duro en seco; firme en húmedo; plástico; adhesivo; abundantes barnices arcillo-húmicos; moteados abundantes medios y precisos; raíces comunes; límite inferior gradual, suave.
+
+Btn2	52-86 cm; color en húmedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo claro (7,5YR6/4); franco arcillo limoso; estructura en bloques angulares, medios y moderados; ligeramente duro a duro en seco; friable en húmedo; plástico; adhesivo; escasos barnices arcillo húmicos; moteados abundantes medios y precisos; raíces comunes; límite inferior gradual, suave.
+
+BC	86-115 cm; color en húmedo pardo fuerte (7,5YR4/6); color en seco pardo claro (7,5YR6/4); franco limoso; estructura en bloques subangulares, finos y medios, moderados; ligeramente duro en seco; friable a muy friable en húmedo; ligeramente plástico; adhesivo; moteados abundantes gruesos y sobresalientes; raíces escasas, cementaciones.
+
+C	115 cm a +; color en húmedo pardo fuerte (7,5YR4,5/6); color en seco rosa a pardo claro (7,5YR6,5/4); franco limoso; masivo; ligeramente duro en seco; muy friable en húmedo; no plástico; ligeramente adhesivo; moteados abundantes gruesos y sobresalientes; cementaciones; presencia de la capa de agua.
+
+Datos analíticos Serie SCHIFFNER
+Situación: Latitud: 31°47’42”S Longitud: 62°13’42”O Altitud: 100 m.s.n.m.
+|Horizonte                                                            |A       |E/Bn    |Btn     |Btn2    |BC       |C        |
+|Profundidad de la muestra (cm)                                       |0-19    |19-26   |26-52   |52-86   |86-115   |115 a +  |
+|Materia Organica (%)                                                 |2,59    |1,20    |0,86    |0,34    |0,17     |0,17     |
+|Carbono Organico (%)                                                 |1,5     |0,7     |0,5     |0,2     |0,1      |0,1      |
+|Nitrogeno total (%)                                                  |0,18    |0,07    |0,05    |0,06    |0,04     |0,03     |
+|Relacion C/N                                                         |8,3     |10,0    |10,0    |3,3     |2,5      |3,3      |
+|Arcilla, <2 u (%)                                                    |19,0    |22,0    |28,5    |27,5    |19,0     |14,5     |
+|Limo, 2-50 u (%)                                                     |77,0    |74,0    |68,0    |69,0    |78,5     |73,0     |
+|Arena muy fina, 50-100 u (%)                                         |2,0     |2,9     |2,0     |1,7     |2,0      |1,8      |
+|Arena fina, 100-250 u (%)                                            |1,6     |0,9     |1,1     |0,6     |0,5      |0,3      |
+|Arena media, 250-500 u (%)                                           |0,2     |0,1     |0,1     |0,1     |0,1      |         |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |         |         |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |         |         |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |         |         |
+|Equivalente de humedad (%)                                           |        |        |        |        |         |         |
+|pH en pasta                                                          |7,3     |7,7     |7,2     |7,6     |7,7      |7,5      |
+|pH en agua (1:2,5)                                                   |7,6     |7,9     |7,9     |8,0     |7,9      |8,1      |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,6     |8,0     |12,6    |15,8    |16,0     |9,4      |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,0     |3,1     |2,0     |2,7     |1,8      |2,0      |
+|Cationes de intercambio, meq/100 gr (Na+)                            |1,6     |2,3     |2,6     |3,8     |2,6      |3,4      |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,6     |1,7     |1,8     |1,9      |1,9      |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |        |         |         |
+|Sodio de intercambio, % (PSI)                                        |12,6    |15,3    |13,8    |15,8    |11,7     |20,4     |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |5,8     |10,1    |10,0     |10,7     |
+|Suma de bases, meq/100 gr (S)                                        |12,7    |15,0    |18,9    |24,1    |22,3     |16,7     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,7    |15,0    |18,9    |24,1    |22,3     |16,7     |
+|Saturacion con bases, % (S/T)                                        |100     |100     |100     |100     |100      |100      |
+|C.EXT.S ME/1-Ca++                                                    |        |        |6,6     |14,8    |8,6      |8,8      |
+|C.EXT.S ME/1-Mg++                                                    |        |        |1,4     |6,4     |4,4      |4,0      |
+|C.EXT.S ME/1-Na+                                                     |        |        |49,0    |80,0    |79,0     |88,0     |
+|C.EXT.S ME/1-K+                                                      |        |        |        |1,5     |0,5      |1,0      |
+|C.EXT.S ME/1-CO3=                                                    |        |        |        |        |         |         |
+|C.EXT.S ME/1-HCO3-                                                   |        |        |3,0     |1,8     |1,3      |2,2      |
+|C.EXT.S ME/1-SO4=                                                    |        |        |54,0    |80,8    |57,4     |65,0     |
+|C.EXT.S ME/1-Cl-                                                     |        |        |7,0     |10,1    |10,1     |43,6     |
+

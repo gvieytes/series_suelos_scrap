@@ -1,0 +1,50 @@
+Serie ESTANCIA SANTA ANA
+
+Símbolo: SA
+
+Hapludol éntico, franca gruesa, mixta, térmica
+
+Índice de Productividad: 54
+
+Capacidad de uso: IIs
+
+La Serie Estancia Santa Ana es un suelo liviano, profundo, y algo excesivamente drenado, que se ha desarrollado en los sedimentos eólicos franco arenosos de origen medanoso que cruzan en forma de cordones con dirección NE-SO. Esta Serie ocupa las crestas y medias lomas del relieve ondulado y participa en algunos complejos ubicados en áreas planas e intermedias. Es un suelo de escaso desarrollo que presenta un horizonte superficial de unos 25 cm, oscuro, textura franca, 23% de arcilla y 48% de arenas, estructura en bloques, débil, y con alrededor de 2,5% de materia orgánica. Al estrato superficial le sigue uno transicional AC franco a franco arenoso, a los 60 cm se alcanza el sustrato u horizonte C con 60% de arena, de la cual el 50% corresponde a las muy finas. Los suelos de esta Serie son de reacción ligeramente ácida y pueden estar levemente afectados por la erosión. Son moderadamente fértiles y las limitaciones de uso que presentan se derivan de su naturaleza arenosa, a bien la capa arable posee un buen contenido de materia orgánica, la misma decrece muy rápidamente en profundidad dejando al suelo con muy escasos recursos energéticos a partir de los 25 o 30 cm. Una baja capacidad de retención de la humedad hace a estos suelos susceptibles a la falta de agua, mientras que la pobre estabilidad estructural los hace propensos a la erosión y a las voladuras. Este suelo puede encontrarse integrando unidades complejas en áreas de menor escurrimiento, y se han descripto perfiles que presentan moteados de Fe en el horizonte C debido a que son afectados temporariamente por el agua freática.
+
+Descripción del perfil típico:
+
+El perfil que representa el concepto central de esta Serie fue estudiado a 13 Km al NNO de la Estación del FCGBM San Gregorio, en el departamento General López de la provincia de Santa Fe.
+
+A	0-28 cm; color en húmedo pardo grisáceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados a grano simple; friable en húmedo; ligeramente plástico; ligeramente adhesivo; límite inferior claro, ondulado.
+
+AC	28-61 cm; color en húmedo pardo grisáceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares finos débiles; friable en húmedo; ligeramente plástico; ligeramente adhesivo; límite inferior gradual, ondulado.
+
+C	61 cm a +; color en húmedo pardo a pardo fuerte (7,5YR5/5); franco; masivo; muy friable en húmedo.
+
+Datos analíticos de la Serie ESTANCIA SANTA ANA
+Situación: Latitud: 34º13’21”S Longitud: 62º07’20”O Altitud: 121 m.s.n.m
+|Horizonte                                                            |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                       |0-28    |28-61   |61 a +  |
+|Materia Organica (%)                                                 |2,81    |0,36    |0,07    |
+|Carbono Organico (%)                                                 |1,63    |0,21    |0,04    |
+|Nitrogeno total (%)                                                  |0,187   |0,07    |        |
+|Relacion C/N                                                         |9       |3       |        |
+|Arcilla, <2 u (%)                                                    |23,9    |20,2    |14,3    |
+|Limo, 2-50 u (%)                                                     |26,0    |25,1    |22,0    |
+|Arena muy fina, 50-100 u (%)                                         |44,5    |48,8    |56,0    |
+|Arena fina, 100-250 u (%)                                            |5,5     |5,9     |7,7     |
+|Arena media, 250-500 u (%)                                           |0,1     |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |
+|Equivalente de humedad (%)                                           |20,3    |16,8    |13,3    |
+|pH en pasta                                                          |6,2     |6,4     |6,9     |
+|pH en agua (1:2,5)                                                   |6,7     |7,2     |7,5     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,5    |7,7     |7,3     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,3     |3,4     |3,5     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,5     |0,3     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |3,5     |2,5     |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |6,9     |3,9     |2,4     |
+|Sodio de intercambio, % (PSI)                                        |2,7     |2,1     |2,5     |
+|Suma de bases, meq/100 gr (S)                                        |16,8    |13,9    |12,2    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |18,4    |14,4    |11,8    |
+|Saturacion con bases, % (S/T)                                        |91      |95      |100     |

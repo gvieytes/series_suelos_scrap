@@ -1,0 +1,65 @@
+Serie CASILDA
+Símbolo: Ca
+Argiudol típico, fina, illítica, térmica
+Índice de Productividad: 90
+
+La Serie Casilda es un suelo oscuro, profundo y bien drenado, que ocupa los planos altos muy suavemente ondulados. El perfil de este suelo presenta un horizonte superficial (Ap) de 18 cm de espesor y textura franco limosa con 20% de arcilla. Le sigue un horizonte transicional (B) algo mas arcilloso y bien estructurado. A los 27 cm de profundidad se encuentra el Bt de 77 cm de espesor, textura franco arcillo limosa a arcillo limosa y estructura en prismas fuertes. El mayor contenido de arcilla del perfil se encuentra en este horizonte y es del 46%. El horizonte C (material originario) aparece entre los 125 y 135 cm de profundidad, con 20% de arcilla y 68% de limo. La capa freática siempre se encuentra a varios metros de profundidad. Las variaciones se observan principalmente en el espesor y el contenido de arcilla del Bt. Este horizonte puede tener entre 60 y 80 cm, con 42 a 47% de arcilla.
+
+Descripción del perfil típico:
+
+El perfil representativo del concepto central de esa Serie fue estudiado a 3,5 Km al NO de la localidad de Casilda, departamento Caseros, provincia de Santa Fe.
+
+Ap      0-18 cm; color en húmedo pardo muy oscuro (10YR2/2); color en seco pardo grisáceo oscuro (10YR4/2); franco limoso; estructura en bloques subangulares medios moderados; friable en húmedo; abundantes raíces; límite abrupto, suave.
+
+B       18-27 cm; color en húmedo pardo oscuro (10YR3/3); color en seco pardo (10YR5/3); franco arcillo limoso; estructura en prismas irregulares medios fuertes que rompen en bloques subangulares medios moderados; friable en húmedo; plástico; ligeramente adhesivo; barnices “clay skins” abundantes; escasas raíces; límite inferior claro, suave.
+
+Bt      27-48 cm; color en húmedo pardo oscuro (7,5YR3/2); color en seco pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados que rompen en bloques angulares medios moderados; friable en húmedo; plástico; adhesivo; barnices “clay skins” abundantes; raíces escasas; límite inferior claro, suave.
+
+Bt2     48-76 cm; color en húmedo pardo a pardo oscuro (7,5YR4/2); color en seco pardo (7,5YR5/2); arcillo limoso; estructura en prismas regulares medios gruesos fuertes que rompen en bloques angulares medios moderados; firme en húmedo; muy plástico; muy adhesivo; barnices “clay skins” abundantes; raíces escasas; límite inferior gradual, suave.
+
+Bt3     76-104 cm; color en húmedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en prismas irregulares medios y moderados que rompen en bloques angulares medios moderados; friable en húmedo; plástico; adhesivo; barnices “clay skins” abundantes; débilmente cementado; límite inferior gradual, suave.
+
+BC      104-128 cm; color en húmedo pardo (7,5YR4,5/4); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en prismas regulares medios y débiles que rompen en bloques angulares medios moderados; friable en húmedo; ligeramente plástico; ligeramente adhesivo; límite inferior gradual, suave.
+
+C       128-180 cm; color en húmedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; friable en húmedo; débilmente cementado en nódulos; límite inferior abrupto, suave.
+
+Ck      180 cm a +; color en húmedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; moderada cantidad de carbonatos libres en la masa; concreciones calcáreas escasas.
+
+Datos analíticos Serie CASILDA
+Situación: Latitud: 33º01’00”S Longitud: 61º12’45”O Altitud: 101 m.s.n.m.
+|Horizonte                                                             |En      |En2     |Btn     |BCn     |Ckn     |
+|Profundidad de la muestra (cm)                                        |0-16    |16-25   |25-46   |46-63   |63 a +  |
+|Materia Organica (%)                                                  |1,08    |0,36    |0,36    |0,17    |        |
+|Carbono Organico (%)                                                  |0,6     |0,2     |0,2     |0,1     |        |
+|Nitrogeno total (%)                                                   |0,10    |0,06    |0,06    |        |        |
+|Relacion C/N                                                          |6       |3       |3       |        |        |
+|Arcilla, <2 u (%)                                                     |10,2    |10,0    |17,0    |13,5    |10,4    |
+|Limo, 2-50 u (%)                                                      |32,7    |34,2    |32,0    |33,3    |32,5    |
+|Arena muy fina, 50-100 u (%)                                          |52,9    |54,0    |49,0    |53,1    |56,3    |
+|Arena fina, 100-250 u (%)                                             |3,3     |0,4     |1,0     |0,3     |0,6     |
+|Arena media, 250-500 u (%)                                            |0,3     |        |0,2     |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0,0     |0,2     |1,2     |2,2     |2,8     |
+|Equivalente de humedad (%)                                            |14,8    |13,4    |18,4    |16,1    |13,7    |
+|pH en pasta                                                           |8,7     |8,6     |8,5     |9,2     |9,2     |
+|pH en agua (1:2,5)                                                    |9,4     |9,3     |9,6     |10,0    |9,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |7,7     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,3     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |3,0     |2,8     |6,0     |8,4     |4,2     |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,7     |2,1     |2,7     |2,4     |2,0     |
+|Cationes de intercambio, meq/100 gr (H+)                              |        |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |21,9    |35,4    |47,6    |88,4    |59,2    |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |3,69    |        |        |        |7,98    |
+|Suma de bases, meq/100 gr (S)                                         |13,7    |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |13,7    |7,9     |12,6    |9,5     |7,1     |
+|Saturacion con bases, % (S/T)                                         |100     |        |        |        |        |
+|C.EXT.S ME/l-Ca++                                                     |        |        |        |        |2,2     |
+|C.EXT.S ME/l-Mg++                                                     |        |        |        |        |6,2     |
+|C.EXT.S ME/l-Na+                                                      |        |        |        |        |77,3    |
+|C.EXT.S ME/l-K+                                                       |        |        |        |        |1,6     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |        |        |9,6     |
+|C.EXT.S ME/l-SO4=                                                     |        |        |        |        |42,9    |
+|C.EXT.S ME/l-Cl-                                                      |        |        |        |        |32,0    |
+

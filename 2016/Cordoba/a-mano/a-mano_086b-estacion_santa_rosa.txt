@@ -1,0 +1,49 @@
+Serie ESTACIÓN SANTA ROSA
+
+Argiustol típico, franca fina, mixta, térmica
+
+Capacidad de uso individual: IIIc
+
+Índice de Productividad: 71
+
+Este suelo se ha desarrollado a partir de derrames de desbordes de paleocauces o cauces actuales pertenecientes al sistema del río Suquía (Primero), de textura franco arcillo arenosa a franca. El relieve corresponde a planos suavemente inclinados hacia el NE en sentido de la pendiente regional. Presenta un horizonte superior A de 19 cm de textura franca a franco arcillosa con estructura en bloques, continúa hacia abajo un horizonte enriquecido en arcillas (Bt) con estructura en prismas irregulares medios moderados, barnices comunes a abundantes en las caras de los agregados, textura franco arcillosa, que se extiende hasta 41 cm de profundidad. Luego de una transición, aparece el material parental Ck de textura franco arcillo arenosa con violenta reacción al ácido clorhídrico en la masa del suelo. Este suelo, prácticamente no tiene limitantes excepto las derivadas de los aspectos climáticos.
+
+Descripción del perfil típico:
+
+Un perfil representativo de esta Serie fue descripta a 1 km al Oeste de la Estación del antiguo ferrocarril de Santa Rosa de Río Primero, departamento Río Primero, provincia de Córdoba.
+
+A	0-19 cm; color en húmedo pardo grisáceo muy oscuro (10YR3/2), franco a franco arcilloso, estructura en bloques subangulares medios moderados, friable en húmedo, ligeramente plástico, no adhesivo, pH 7,5, raíces abundantes, límite inferior claro suave.
+
+Bt	19-41 cm; color en húmedo pardo oscuro (10YR3/3), franco arcilloso, estructura en bloques y prismas irregulares medios moderados, friable en húmedo, plástico, ligeramente adhesivo, pH 7,3, barnices de arcilla y humus comunes a abundantes, raíces comunes a escasas, límite inferior gradual.
+
+BC	41-60 cm; color en húmedo pardo amarillento oscuro (10YR3/4), franco arcillo arenoso, estructura en prismas y bloques débiles, ligeramente plástico, ligeramente adhesivo, pH 7,4, barnices arcillosos escasos, raíces escasas a vestigios, límite inferior abrupto ondulado.
+
+Ck	60 cm a +; color en húmedo pardo amarillento oscuro (10YR3/4), franco arcillo arenoso, masivo, ligeramente plástico, no adhesivo, pH 7,9, moderada reacción al ClH en la masa del suelo.
+
+Datos analíticos Serie ESTACIÓN SANTA ROSA
+Situación: Latitud: 31°08'53”S Longitud: 63°25'04”O Altitud: 169 m.s.n.m.
+|Horizonte                                                            |A     |Bt     |BC     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-19  |19-41  |41-60  |60 a +  |
+|Materia Organica (%)                                                 |2,93  |1,03   |       |        |
+|Carbono Organico (%)                                                 |1,7   |0,6    |       |        |
+|Nitrogeno total (%)                                                  |0,14  |0,03   |       |        |
+|Relacion C/N                                                         |11,5  |17,8   |       |        |
+|Arcilla, <2 u (%)                                                    |25,1  |32,6   |27,2   |27,0    |
+|Limo, 2-50 u (%)                                                     |33,0  |23,1   |21,4   |17,3    |
+|Arena muy fina, 50-100 u (%)                                         |1,1   |1,4    |1,5    |1,4     |
+|Arena fina, 100-250 u (%)                                            |3,6   |3,8    |4,3    |4,8     |
+|Arena media, 250-500 u (%)                                           |12,0  |13,1   |14,9   |15,3    |
+|Arena gruesa, 500-1000 u (%)                                         |18,7  |20,6   |23,2   |23,3    |
+|Arena muy gruesa, 1-2 mm (%)                                         |6,5   |7,1    |8,0    |11,2    |
+|Carbonatos, CaCO3 (%)                                                |0,1   |0,2    |0,4    |1,1     |
+|Equivalente de humedad (%)                                           |22,6  |21,2   |19,1   |18,6    |
+|pH en agua (1:2,5)                                                   |7,1   |7,7    |7,8    |7,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,8  |14,9   |       |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,3   |1,7    |       |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2   |0,2    |0,2    |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,3   |1,1    |1,0    |0,9     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,5   |       |       |        |
+|Sodio de intercambio, % (PSI)                                        |1,3   |1,1    |1,1    |1,4     |
+|Suma de bases, meq/100 gr (S)                                        |13,6  |18,0   |       |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,1  |18,0   |17,7   |14,8    |
+|Saturacion con bases, % (S/T)                                        |96,5  |100    |       |        |

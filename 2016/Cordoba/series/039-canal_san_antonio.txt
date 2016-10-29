@@ -48,11 +48,11 @@ Situacion: Latitud: 31o47'42"S Longitud: 62o13'42"O Altitud: 100 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |16,9    |27,1    |28,5    |20,5    |27,1    |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |17,2    |27,4    |29,9    |21,5    |27,8    |
 |Saturacion con bases, % (S/T)                                         |98,3    |98,9    |95,3    |95,3    |97,5    |
-|Composicion del extracto de saturacion, meq/l:  |Cationes    |Ca++     |        |7,8     |13,0    |9,4     |7,2     |
-|                                                |            |Mg++     |        |2,6     |6,2     |8,2     |3,6     |
-|                                                |            |Na+      |        |56      |108     |104     |92      |
-|                                                |            |K+       |        |        |        |        |        |
-|                                                |Aniones     |CO3=     |        |        |        |        |        |
-|                                                |            |HCO3-    |        |4,1     |2,4     |2,2     |2,3     |
-|                                                |            |SO4=     |        |48,4    |91,2    |93,2    |68,0    |
-|                                                |            |Cl-      |        |18,2    |33,0    |44,2    |45,0    |
+|C.EXT.S ME/1-Ca++                                                     |        |7,8     |13,0    |9,4     |7,2     |
+|C.EXT.S ME/1-Mg++                                                     |        |2,6     |6,2     |8,2     |3,6     |
+|C.EXT.S ME/1-Na+                                                      |        |56      |108     |104     |92      |
+|C.EXT.S ME/1-K+                                                       |        |        |        |        |        |
+|C.EXT.S ME/1-CO3=                                                     |        |        |        |        |        |
+|C.EXT.S ME/1-HCO3-                                                    |        |4,1     |2,4     |2,2     |2,3     |
+|C.EXT.S ME/1-SO4=                                                     |        |48,4    |91,2    |93,2    |68,0    |
+|C.EXT.S ME/1-Cl-                                                      |        |18,2    |33,0    |44,2    |45,0    |

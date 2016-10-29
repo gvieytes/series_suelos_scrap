@@ -46,11 +46,11 @@ Situacion: Latitud: 30o16'S Longitud: 63o23'O Altitud: 80 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |22,0    |19,7    |17,9    |
 |Saturacion con bases, % (S/T)                                         |        |        |        |
-|Composicion del extracto de saturacion, meq/l:  |Cationes    |Ca++     |        |26,7    |27,2    |
-|                                                |            |Mg++     |        |12,0    |16,0    |
-|                                                |            |Na+      |        |508,0   |660,0   |
-|                                                |            |K+       |        |7,2     |9,8     |
-|                                                |Aniones     |CO3=     |        |        |        |
-|                                                |            |HCO3-    |        |8,0     |9,6     |
-|                                                |            |SO4=     |        |349,0   |442,8   |
-|                                                |            |Cl-      |        |190,0   |256,0   |
+|C.EXT.S ME/1-Ca++                                                     |        |26,7    |27,2    |
+|C.EXT.S ME/1-Mg++                                                     |        |12,0    |16,0    |
+|C.EXT.S ME/1-Na+                                                      |        |508,0   |660,0   |
+|C.EXT.S ME/1-K+                                                       |        |7,2     |9,8     |
+|C.EXT.S ME/1-CO3=                                                     |        |        |        |
+|C.EXT.S ME/1-HCO3-                                                    |        |8,0     |9,6     |
+|C.EXT.S ME/1-SO4=                                                     |        |349,0   |442,8   |
+|C.EXT.S ME/1-Cl-                                                      |        |190,0   |256,0   |

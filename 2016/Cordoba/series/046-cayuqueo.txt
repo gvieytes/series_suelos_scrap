@@ -37,21 +37,21 @@ Situacion: Latitud: 32o48'08"S Longitud: 63o07'52"O Altitud: 155 m.s.n.m.
 |Equivalente de humedad (%)                                            |29,6    |38,2    |28,8    |20,5    |
 |pH en pasta                                                           |7,6     |8,0     |8,6     |8,4     |
 |pH en agua (1:2,5)                                                    |7,9     |8,6     |8,9     |9,0     |
-|Cationes de intercambio, meq/100 gr (Ca++)                             |10,7    |        |        |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                             |1,5     |        |        |        |
-|Cationes de intercambio, meq/100 gr (Na+)                              |4,7     |3,2     |        |6,2     |
-|Cationes de intercambio, meq/100 gr (K+)                               |1,8     |1,0     |        |1,9     |
-|Cationes de intercambio, meq/100 gr (H+)                               |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |10,7    |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |1,5     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |4,7     |3,2     |        |6,2     |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,8     |1,0     |        |1,9     |
+|Cationes de intercambio, meq/100 gr (H+)                              |        |        |        |        |
 |Sodio de intercambio, % (PSI)                                         |25,3    |15,9    |33      |56,4    |
 |Conductividad, mmhos/cm (extracto de saturacion)                      |        |5,14    |9,01    |        |
 |Suma de bases, meq/100 gr (S)                                         |18,7    |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |18,6    |20,1    |16,5    |11,0    |
 |Saturacion con bases, % (S/T)                                         |100     |        |        |        |
-|Composicion del extracto de saturacion, meq/l:  |Cationes   |Ca++     |        |9,2     |10,8    |        |
-|                                                |           |Mg++     |        |1,4     |2,2     |        |
-|                                                |           |Na+      |        |40      |84      |        |
-|                                                |           |K+       |        |2       |2       |        |
-|                                                |Aniones    |CO3=     |        |        |        |        |
-|                                                |           |HCO3-    |        |12,8    |4,8     |        |
-|                                                |           |SO4=     |        |27,2    |59,9    |        |
-|                                                |           |Cl-      |        |15,8    |36,8    |        |
+|C.EXT.S ME/1-Ca++                                                     |        |9,2     |10,8    |        |
+|C.EXT.S ME/1-Mg++                                                     |        |1,4     |2,2     |        |
+|C.EXT.S ME/1-Na+                                                      |        |40      |84      |        |
+|C.EXT.S ME/1-K+                                                       |        |2       |2       |        |
+|C.EXT.S ME/1-CO3=                                                     |        |        |        |        |
+|C.EXT.S ME/1-HCO3-                                                    |        |12,8    |4,8     |        |
+|C.EXT.S ME/1-SO4=                                                     |        |27,2    |59,9    |        |
+|C.EXT.S ME/1-Cl-                                                      |        |15,8    |36,8    |        |

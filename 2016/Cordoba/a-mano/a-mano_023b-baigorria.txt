@@ -1,0 +1,48 @@
+Serie BAIGORRIA
+Símbolo: Bag
+Haplustol udorthéntico franca gruesa, mixta, térmica
+Índice de Productividad: 50
+Capacidad de uso: IIIsc
+
+Los suelos que corresponden a esta Serie son algo excesivamente drenados desarrollados a partir de sedimentos eólicos muy homogéneos de textura franco arenosa a areno franca fina en lomas suavemente onduladas en las proximidades de la localidad homónima. Presenta un horizonte A o capa arable de 25 cm de profundidad con estructura en bloques moderados a débiles, textura franco arenosa. Sigue en profundidad una transición (AC) que se extiende hasta 40 cm con estructura masiva tendencia a bloques. Continúa hacia abajo el material originario del suelo, con material calcáreo a 90 cm de profundidad. Los suelos de la Serie Baigorria presentan limitaciones moderadas derivadas esencialmente de su capacidad de retención de humedad y susceptibilidad a la erosión eólica y en menor medida climáticas generales para toda la región.
+
+Descripción del perfil típico:
+
+El perfil típico de esta Serie fue descripto a 4,2 Km al SO de la localidad de Coronel Baigorria, departamento Río Cuarto, provincia de Córdoba.
+
+A	0-25 cm; color en húmedo pardo grisáceo muy oscuro a pardo oscuro (10YR3/2,5); franco a franco arenoso; estructura en bloques subangulares medios moderados a débiles; friable en húmedo; no plástico; no adhesivo; pH 6,7; raíces muy abundantes; límite inferior claro suave.
+
+AC	25-40 cm; color en húmedo pardo amarillento oscuro (10YR3/4); franco arenoso a franco; masivo tendencia a bloques; muy friable en húmedo; no plástico; no adhesivo; pH 7; raíces comunes; límite inferior gradual suave.
+
+C	40-92 cm; color en húmedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en húmedo; no plástico; no adhesivo; pH 7,4; vestigios de raíces; límite inferior abrupto, ondulado.
+
+Ck	92 cm a +; color en húmedo pardo (7,5YR4,5/4); franco arenoso; masivo; muy friable en húmedo; no plástico; no adhesivo; pH 8,6; moderada a violenta reacción al ClH en la masa del suelo.
+
+Datos analíticos Serie BAIGORRIA
+Situación: Latitud: 32º52’34”S Longitud: 64º23’34”O Altitud: 583 m.s.n.m.
+|Horizonte                                                            |A       |AC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-25    |25-40   |40-92   |92 a +  |
+|Materia Organica (%)                                                 |2,06    |0,86    |        |        |
+|Carbono Organico (%)                                                 |1,2     |0,5     |        |        |
+|Nitrogeno total (%)                                                  |0,08    |        |        |        |
+|Relacion C/N                                                         |12,5    |        |        |        |
+|Arcilla, <2 u (%)                                                    |9,0     |7,8     |5,1     |4,0     |
+|Limo, 2-50 u (%)                                                     |51,9    |51,7    |50,2    |50,9    |
+|Arena muy fina, 50-100 u (%)                                         |38,0    |38,3    |43,5    |35,7    |
+|Arena fina, 100-250 u (%)                                            |3,2     |3,3     |2,1     |7,8     |
+|Arena media, 250-500 u (%)                                           |0,1     |0,0     |0,0     |0,0     |
+|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,1     |0,0     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,0     |0,0     |0,0     |0,0     |
+|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |3,8     |
+|Equivalente de humedad (%)                                           |15,2    |12,7    |12,4    |6,6     |
+|pH en pasta                                                          |6,4     |6,8     |7,2     |8,4     |
+|pH en agua (1:2,5)                                                   |6,7     |7,0     |7,4     |8,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,2     |8,5     |8,8     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,2     |0,9     |1,7     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,2     |0,2     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,1     |1,8     |1,4     |0,9     |
+|H+ de cambio (meq/100 gr)                                            |1,4     |1,1     |0,7     |        |
+|Sodio de intercambio, % (PSI)                                        |2,3     |1,6     |1,6     |2,5     |
+|Suma de bases, meq/100 gr (S)                                        |11,8    |11,4    |12,1    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |13,2    |12,5    |12,8    |7,9     |
+|Saturacion con bases, % (S/T)                                        |89,4    |91,2    |94,5    |        |

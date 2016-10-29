@@ -47,11 +47,11 @@ Situacion: Latitud: 32o45'09"S Longitud: 62o52'30"O Altitud: 139 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |16,6     |24,3    |29,8    |          |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |20,9     |24,4    |28,5    |23,7      |
 |Saturacion con bases, % (S/T)                                         |79       |99      |100     |          |
-|Composicion del extracto de saturacion, meq/l: |Cationes    |Ca++      |         |        |18,0    |13,7      |
-|                                               |            |Mg++      |         |        |1,0     |1,1       |
-|                                               |            |Na+       |         |        |46,1    |88,0      |
-|                                               |            |K+        |         |        |1,1     |1,2       |
-|                                               |Aniones     |CO3=      |         |        |        |          |
-|                                               |            |HCO3-     |         |        |1,4     |2,0       |
-|                                               |            |SO4=      |         |        |38,5    |83,5      |
-|                                               |            |Cl-       |         |        |22,8    |20,0      |
+|C.EXT.S ME/1-Ca++                                                     |         |        |18,0    |13,7      |
+|C.EXT.S ME/1-Mg++                                                     |         |        |1,0     |1,1       |
+|C.EXT.S ME/1-Na+                                                      |         |        |46,1    |88,0      |
+|C.EXT.S ME/1-K+                                                       |         |        |1,1     |1,2       |
+|C.EXT.S ME/1-CO3=                                                     |         |        |        |          |
+|C.EXT.S ME/1-HCO3-                                                    |         |        |1,4     |2,0       |
+|C.EXT.S ME/1-SO4=                                                     |         |        |38,5    |83,5      |
+|C.EXT.S ME/1-Cl-                                                      |         |        |22,8    |20,0      |

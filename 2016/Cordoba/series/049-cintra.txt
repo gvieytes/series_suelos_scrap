@@ -24,68 +24,38 @@ Ck	93 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, ma
 Datos analiticos Serie CINTRA
 
 Situacion: Latitud: 32?20'29"S Longitud: 62?43'14"O Altitud: 134 m.s.n.m.
-|Horizonte                                                             |A       |Bt      |BCn     |C       |Ck       |          |
-|Profundidad de la muestra (cm)                                        |0-14    |14-33   |33-50   |50-76   |76-106   |106 a +   |
-|Materia Organica (%)                                                  |2,25    |0,96    |0,36    |0,24    |0,10     |0,07      |
-|Carbono Organico (%)                                                  |1,31    |0,56    |0,21    |0,14    |0,06     |0,04      |
-|Nitrogeno total (%)                                                   |0,123   |0,080   |0,043   |0,037   |         |          |
-|Relacion C/N                                                          |10,6    |7,0     |4,8     |3,7     |         |          |
-|Arcilla, <2 u (%)                                                     |19,5    |40,4    |37,1    |30,2    |26,7     |16,5      |
-|Limo, 2-50 u (%)                                                      |74,9    |54,6    |57,7    |66,9    |67,7     |77,4      |
-|Arena muy fina, 50-100 u (%)                                          |6,1     |3,0     |3,4     |4,2     |5,5      |4,8       |
-|Arena fina, 100-250 u (%)                                             |0,2     |0,1     |0,1     |0,3     |0,5      |0,7       |
-|Arena media, 250-500 u (%)                                            |        |        |        |        |         |          |
-|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |         |          |
-|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0     |0,0     |0,0      |1,43      |
-|Equivalente de humedad (%)                                            |30,8    |39,2    |37,8    |34,5    |33,3     |27,2      |
-|pH en pasta                                                           |7,2     |7,5     |7,6     |7,9     |8,0      |8,2       |
-|pH en agua (1:2,5)                                                    |7,7     |8,1     |8,2     |8,6     |8,8      |9,2       |
-|Cationes de intercambio, meq/100 gr (Ca++)                            |        |7,9     |13,8    |        |12,5     |11,8      |
-|Conductividad, mmhos/cm (extracto de saturacion)                      |        |7,2     |8,2     |6,5     |5,1      |5,3       |
-|Suma de bases, meq/100 gr (S)                                         |15,9    |26,5    |        |24,2    |23,2     |          |
-|Capacidad de intercambio cationico, meq/100 gr (T)                    |15,6    |26,2    |25,2    |24,1    |23,0     |17,2      |
-|Saturacion con bases, % (S/T)                                         |100     |100     |        |100     |100      |          |
-|Composicion del extracto de saturacion, meq/l:                       |Cationes|Ca++    |        |9,4     |6,3     |9,4     |
-|Profundidad de la muestra (cm)                                       |0-14    |14-22   |22-46   |46-70   |70-97   |97 a +  |
-|Materia Organica (%)                                                 |2,97    |2,91    |1,31    |0,45    |0,28    |0,21    |
-|Carbono Organico (%)                                                 |1,72    |1,69    |0,76    |0,26    |0,16    |0,12    |
-|Nitrogeno total (%)                                                  |0,165   |0,154   |0,085   |0,058   |0,040   |0,032   |
-|Relacion C/N                                                         |10,4    |10,9    |8,9     |4,5     |4,0     |3,7     |
-|Arcilla, <2 u (%)                                                    |23,7    |20,2    |33,2    |28,5    |18,4    |12,2    |
-|Limo, 2-50 u (%)                                                     |70,4    |74,4    |63,3    |66,6    |72,5    |74,5    |
-|Arena muy fina, 50-100 u (%)                                         |4,9     |5,6     |3,6     |5,0     |7,2     |9,1     |
-|Arena fina, 100-250 u (%)                                            |1,2     |0,5     |0,8     |0,6     |2,1     |2,3     |
-|Arena media, 250-500 u (%)                                           |        |        |        |        |0,2     |0,3     |
-|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |0,1     |0,4     |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0     |0,0     |4,31    |
-|Equivalente de humedad (%)                                           |26,9    |27,1    |34,3    |32,7    |31,8    |26,1    |
-|pH en pasta                                                          |5,0     |5,3     |6,8     |7,3     |8,2     |8,1     |
-|pH en agua (1:2,5)                                                   |5,3     |5,8     |7,7     |8,9     |9,1     |9,4     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |7,6     |7,9     |        |        |        |
-|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |1,79    |8,5     |21,3    |24,7    |
-|Suma de bases, meq/100 gr (S)                                        |13,2    |13,7    |        |        |        |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,4    |16,8    |24,8    |24,8    |24,0    |22,5    |
-|Saturacion con bases, % (S/T)                                        |76      |81      |        |        |        |        |
-|Composicion del extracto de saturacion, meq/l:                       |Cationes|Ca++    |        |        |        |
-|Profundidad de la muestra (cm)                                       |0-16    |16-24   |24-46   |46-84   |84 a +  |
-|Materia Organica (%)                                                 |3,73    |3,69    |1,30    |0,17    |0,06    |
-|Carbono Organico (%)                                                 |2,17    |2,15    |0,76    |0,10    |0,04    |
-|Nitrogeno total (%)                                                  |0,233   |0,204   |0,116   |0,075   |        |
-|Relacion C/N                                                         |9,3     |10,5    |6,6     |1,3     |        |
-|Arcilla, <2 u (%)                                                    |42,4    |43,5    |41,8    |40,2    |34,5    |
-|Limo, 2-50 u (%)                                                     |55,0    |54,2    |54,0    |53,4    |58,9    |
-|Arena muy fina, 50-100 u (%)                                         |2,1     |2,5     |4,9     |6,8     |6,8     |
-|Arena fina, 100-250 u (%)                                            |0,4     |0,2     |0,2     |0,4     |0,5     |
-|Arena media, 250-500 u (%)                                           |        |        |        |        |        |
-|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |0       |0       |
-|Equivalente de humedad (%)                                           |35,1    |38,6    |30,9    |29,7    |29,0    |
-|pH en pasta                                                          |4,9     |4,9     |5,6     |5,9     |5,9     |
-|pH en agua (1:2,5)                                                   |5,3     |5,3     |5,8     |6,3     |6,4     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |14,3    |13,8    |13,9    |14,4    |
-|Suma de bases, meq/100 gr (S)                                        |20,2    |19,4    |18,4    |18,4    |18,3    |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |24,2    |23,9    |21,0    |20,2    |19,7    |
-|Saturacion con bases, % (S/T)                                        |83      |81      |88      |91      |93      |
+|Horizonte                                                             |A       |Bt      |BCn     |C       |Ck       |
+|Profundidad de la muestra (cm)                                        |0-12    |12-42   |42-75   |75-93   |93 a +   |
+|Materia Organica (%)                                                  |2,59    |0,89    |0,28    |0,14    |0,14     |
+|Carbono Organico (%)                                                  |1,51    |0,52    |0,16    |0,08    |0,08     |
+|Nitrogeno total (%)                                                   |0,134   |0,073   |0,043   |        |         |
+|Relacion C/N                                                          |11,2    |7,1     |3,7     |        |         |
+|Arcilla, <2 u (%)                                                     |18,2    |22,3    |17,5    |14,0    |13,9     |
+|Limo, 2-50 u (%)                                                      |62,8    |59,9    |62,1    |63,2    |67,8     |
+|Arena muy fina, 50-100 u (%)                                          |5,6     |12,7    |20,8    |17,2    |13,2     |
+|Arena fina, 100-250 u (%)                                             |8,5     |4,9     |0,3     |4,5     |3,4      |
+|Arena media, 250-500 u (%)                                            |        |        |        |        |         |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |         |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |         |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |1,06    |8,57     |
+|Equivalente de humedad (%)                                            |28,3    |31      |29,7    |25,8    |25,2     |
+|pH en pasta                                                           |6,2     |7,3     |7,5     |8,3     |8,9      |
+|pH en agua (1:2,5)                                                    |6,2     |6,5     |8       |9       |9,5      |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |9       |12,7    |11,3    |        |         |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |4,8     |4,5     |2,8     |        |         |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,5     |2,5     |3,2     |6,1     |8        |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,6     |2,8     |2,8     |3,2     |3,5      |
+|Cationes de intercambio, meq/100 gr (H+)                              |2,5     |0,9     |        |        |         |
+|Sodio de intercambio, % (PSI) A                                       |2,7     |10,6    |17,2    |36,1    |48,8     |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |5,8     |4,7     |         |
+|Suma de bases, meq/100 gr (S)                                         |15,9    |22,5    |20,1    |        |         |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |18,4    |23,6    |18,6    |16,9    |16,4     |
+|Saturacion con bases, % (S/T)                                         |86,4    |95,3    |100     |        |         |
+|C.EXT.S ME/l-Ca++                                                     |        |        |15,7    |5,3     |         |
+|C.EXT.S ME/l-Mg++                                                     |        |        |9,2     |1,4     |         |
+|C.EXT.S ME/l-Na+                                                      |        |        |47      |44      |         |
+|C.EXT.S ME/l-K+                                                       |        |        |0,8     |0,5     |         |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |0,8     |         |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |4,4     |4,4     |         |
+|C.EXT.S ME/l-SO4=                                                     |        |        |62      |42      |         |
+|C.EXT.S ME/l-Cl-                                                      |        |        |4,4     |3       |         |

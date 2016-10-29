@@ -21,7 +21,6 @@ Ck	72 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; ma
 
 Datos analiticos Serie AUSONIA
 Situacion: Latitud: 32o32'21"S Longitud: 63o19'12"O Altitud: 200 m.s.n.m.
-
 |Horizonte                                                             |A       |E       |Btn     |BCkn    |Ck      |
 |Profundidad de la muestra (cm)                                        |0-20    |20-26   |26-48   |48-72   |72 a +  |
 |Materia Organica (%)                                                  |2,24    |1,20    |0,51    |0,17    |        |
@@ -49,29 +48,11 @@ Situacion: Latitud: 32o32'21"S Longitud: 63o19'12"O Altitud: 200 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |12,5    |10,8    |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |14,6    |12,5    |19,0    |17,9    |15,7    |
 |Saturacion con bases, % (S/T)                                         |86      |86      |        |        |        |
-|Composicion del extracto de saturacion, meq/l:                       |Cationes|Ca++    |        |        |
-|Profundidad de la muestra (cm)                                       |0-25    |25-40   |40-92   |92 a +  |
-|Materia Organica (%)                                                 |2,06    |0,86    |        |        |
-|Carbono Organico (%)                                                 |1,2     |0,5     |        |        |
-|Nitrogeno total (%)                                                  |0,08    |        |        |        |
-|Relacion C/N                                                         |12,5    |        |        |        |
-|Arcilla, <2 u (%)                                                    |9,0     |7,8     |5,1     |4,0     |
-|Limo, 2-50 u (%)                                                     |51,9    |51,7    |50,2    |50,9    |
-|Arena muy fina, 50-100 u (%)                                         |38,0    |38,3    |43,5    |35,7    |
-|Arena fina, 100-250 u (%)                                            |3,2     |3,3     |2,1     |7,8     |
-|Arena media, 250-500 u (%)                                           |0,1     |0,0     |0,0     |0,0     |
-|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,1     |0,0     |0,1     |
-|Arena muy gruesa, 1-2 mm (%)                                         |0,0     |0,0     |0,0     |0,0     |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |3,8     |
-|Equivalente de humedad (%)                                           |15,2    |12,7    |12,4    |6,6     |
-|pH en pasta                                                          |6,4     |6,8     |7,2     |8,4     |
-|pH en agua (1:2,5)                                                   |6,7     |7,0     |7,4     |8,6     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |8,2     |8,5     |8,8     |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |1,2     |0,9     |1,7     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,2     |0,2     |0,2     |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,1     |1,8     |1,4     |0,9     |
-|H+ de cambio (meq/100 gr)                                            |1,4     |1,1     |0,7     |        |
-|Sodio de intercambio, % (PSI)                                        |2,3     |1,6     |1,6     |2,5     |
-|Suma de bases, meq/100 gr (S)                                        |11,8    |11,4    |12,1    |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |13,2    |12,5    |12,8    |7,9     |
-|Saturacion con bases, % (S/T)                                        |89,4    |91,2    |94,5    |        |
+|C.EXT.S ME/l-Ca++                                                     |        |        |        |3,3     |4,9     |
+|C.EXT.S ME/l-Mg++                                                     |        |        |        |1,6     |1,7     |
+|C.EXT.S ME/l-Na+                                                      |        |        |        |39,9    |76,8    |
+|C.EXT.S ME/l-K+                                                       |        |        |        |1,8     |0,8     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |        |12,4    |14,4    |
+|C.EXT.S ME/l-SO4=                                                     |        |        |        |12,3    |27,4    |
+|C.EXT.S ME/l-Cl-                                                      |        |        |        |22,4    |44,8    |

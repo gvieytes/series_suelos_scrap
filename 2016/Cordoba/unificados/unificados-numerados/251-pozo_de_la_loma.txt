@@ -1,0 +1,51 @@
+Serie POZO DE LA LOMA
+Simbolo: PzL
+Haplustol tipico, limosa fina, mixta, termica
+Capacidad de uso individual: IIIc
+Indice de Productividad: 64
+
+Este suelo tiene una amplia difusion en las lomas suavemente onduladas de origen eolico (loess), en las proximidades del paraje homonimo, extendiendose ampliamente en el centro Este del departamento Rio Primero y centro Oeste del departamento San Justo. Presenta un horizonte A o capa arable de 18 cm de espesor con textura franco limosa a franco arcillo limosa con estructura en bloques. Continua hacia abajo un horizonte subsuperficial (Bw) con estructura de suelo (bloques y prismas debiles) con la presencia de escasos barnices en las caras de los agregados y textura franco limosa a franco arcillo limosa. Luego de una transicion, el material originario del suelo se encuentra a 58 cm de profundidad y con carbonatos libres (Ck) a partir de 74 cm de profundidad. Es masivo de textura franco limosa. Este suelo practicamente no tiene limitantes en el perfil, solamente tiene las climaticas regionales.
+
+Descripcion del perfil tipico:
+
+El perfil fue descripto a 13 km al ESE del paraje La Quinta, en el departamento San Justo, provincia de Cordoba.
+
+A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2), franco limoso a franco arcillo limoso, estructura en bloques subangulares medios moderados, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 6,8, raices comunes, limite inferior claro suave.
+
+Bw	18-38 cm; color en humedo pardo oscuro (10YR3/3), franco limoso a franco arcillo limoso, estructura en prismas irregulares medios debiles y bloques, friable en humedo, plastico, ligeramente adhesivo, pH 7,4, barnices de arcilla y humus comunes y finos, raices escasas, limite inferior claro suave.
+
+BC	38-58 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco limoso a franco arcillo limoso, prismas y bloques debiles, friable en humedo, ligeramente plastico, no adhesivo, pH 6,7, escasos barnices arcillosos finos, vestigios de raices, limite inferior gradual.
+
+C	58-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4), franco limoso, masivo., muy friable en humedo, no plastico, no adhesivo, pH 6,7, limite inferior abrupto ondulado.
+
+Ck	74 cm a +; color en humedo pardo (7,5YR5/4), franco limoso, masivo, muy friable en humedo, pH 7,9, moderada a violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie POZO DE LA LOMA
+Situacion: Latitud: 31?06'06"S Longitud: 63?01'32"O Altitud: 117 m.s.n.m.
+
+|Horizonte                                                            |A     |Bw     |BC     |C      |
+|Profundidad de la muestra (cm)                                       |0-18  |18-38  |38-58  |58-74  |
+|Materia Organica (%)                                                 |2,93  |0,51   |       |       |
+|Carbono Organico (%)                                                 |1,7   |0,3    |       |       |
+|Nitrogeno total (%)                                                  |0,18  |0,05   |       |       |
+|Relacion C/N                                                         |9,7   |5,5    |       |       |
+|Arcilla, <2 u (%)                                                    |27,4  |28,4   |26,5   |25,5   |
+|Limo, 2-50 u (%)                                                     |64,4  |66,4   |66,7   |65,6   |
+|Arena muy fina, 50-100 u (%)                                         |4,8   |4,9    |4,7    |5,6    |
+|Arena fina, 100-250 u (%)                                            |2,0   |1,4    |1,3    |1,8    |
+|Arena media, 250-500 u (%)                                           |0,3   |0,1    |0,1    |0,2    |
+|Arena gruesa, 500-1000 u (%)                                         |0,1   |       |0,1    |0,1    |
+|Arena muy gruesa, 1-2 mm (%)                                         |      |       |       |       |
+|Carbonatos, CaCO3 (%)                                                |0,2   |0,2    |0,2    |0,2    |
+|Equivalente de humedad (%)                                           |24,2  |24,0   |24,7   |22,5   |
+|pH en pasta                                                          |      |       |       |       |
+|pH en agua (1:2,5)                                                   |6,8   |7,4    |6,7    |6,7    |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,6  |14,0   |13,4   |14,2   |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,0   |2,8    |2,4    |2,3    |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4   |0,3    |0,3    |0,3    |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,4   |1,7    |1,7    |1,3    |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2   |0,7    |0,9    |0,6    |
+|Sodio de intercambio, % (PSI)                                        |1,9   |1,4    |1,5    |1,5    |
+|Suma de bases, meq/100 gr (S)                                        |17,4  |18,7   |17,7   |18,1   |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |18,6  |19,4   |18,6   |18,7   |
+|Saturacion con bases, % (S/T)                                        |93,5  |96,3   |95,4   |96,8   |

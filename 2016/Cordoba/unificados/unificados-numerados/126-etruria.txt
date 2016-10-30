@@ -1,0 +1,51 @@
+Serie ETRURIA
+
+Simbolo: Et
+Endoacuol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 21
+Capacidad de uso: IVws
+
+La Serie Etruria es un suelo moderadamente bien drenado desarrollado sobre materiales eolicos de textura franca a franco limosa. Esta vinculada a lomas aplanadas, areas intermedias y lineas de escurrimiento poco manifiestas dentro de la transicion entre la Pampa Limosa y la Pampa Arenosa Cordobesa. Los primeros 23 cm son de color pardo grisaceo muy oscuro, de textura franco limosa a franca y estructura en bloques moderados. Luego pasa a un horizonte de transicion (AC) que se extiende hasta 53 cm con estructura debil, 14,5% de arcilla y 17% de sodio de intercambio que se mantiene en profundidad aproximadamente constante hasta 78 cm donde comienza el Ck con carbonato de calcio libre en la masa del suelo. A partir de esta profundidad disminuye levemente el sodio; este horizonte tiene textura franca a franco limosa con 13% de arcilla y 52% de limo. La capa freatica se encuentra afectando al perfil aproximadamente a 120 cm.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Etruria que se describe a continuacion, fue estudiado a 11,5 km al Oeste de Etruria, departamento Juarez Celman, provincia de Cordoba.
+
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso a franco; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 6,2; raices muy abundantes; limite inferior claro, suave.
+
+ACn	23-50 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco; estructura en bloques subangulares medios debiles; muy friable en humedo; no plastico; no adhesivo; pH 8,1; raices comunes; limite inferior gradual.
+
+Cn	50-78 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,2; moteados escasos, finos y debiles; raices escasas a vestigios; limite inferior abrupto, ondulado.
+
+Ck	78 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,4; violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie ETRURIA
+Situacion: Latitud: 32o55'08"S Longitud: 63o22'01"O Altitud: 170 m.s.n.m.
+
+|Horizonte                                                            |A       |ACn     |Cn      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-23    |23-50   |50-78   |78 a +  |
+|Materia Organica (%)                                                 |2,93    |1,55    |        |        |
+|Carbono Organico (%)                                                 |1,7     |0,9     |        |        |
+|Nitrogeno total (%)                                                  |0,18    |0,09    |        |        |
+|Relacion C/N                                                         |9,4     |10      |        |        |
+|Arcilla, <2 u (%)                                                    |18,2    |14,5    |13,9    |13,1    |
+|Limo, 2-50 u (%)                                                     |53,4    |52,5    |51,7    |52,1    |
+|Arena muy fina, 50-100 u (%)                                         |25,4    |31,2    |31,5    |32,6    |
+|Arena fina, 100-250 u (%)                                            |1,2     |1,1     |1,8     |2,3     |
+|Arena media, 250-500 u (%)                                           |0,3     |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |0,8     |3,2     |
+|Equivalente de humedad (%)                                           |21,2    |19,7    |18,2    |18,2    |
+|pH en pasta                                                          |6,0     |7,7     |8,4     |8,6     |
+|pH en agua (1:2,5)                                                   |6,2     |8,1     |9,2     |9,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,9     |7,9     |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,7     |0,9     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |1,5     |2,4     |2,5     |1,9     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,9     |2,4     |1,9     |2,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,9     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |10,1    |18,0    |19,5    |16,4    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |3,78    |8,15    |
+|Suma de bases, meq/100 gr (S)                                        |13,0    |13,6    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,9    |13,3    |12,8    |11,6    |
+|Saturacion con bases, % (S/T)                                        |87      |100     |        |        |

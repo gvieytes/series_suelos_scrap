@@ -1,0 +1,53 @@
+Serie LAZZARINO
+Símbolo: Lz
+Hapludol thapto-nátrico, limosa fina, mixta, térmica
+Índice de Productividad: 32
+
+Los suelos de la Serie Lazzarino presentan un perfil con dos secciones contrastantes entre sí, y que son el resultado de un proceso de deposición de materiales en dos etapas. La sección superior, de unos 50 cm de espesor promedio, se ha desarrollado sobre un material eólico de deposición más reciente, de textura franca, el cual se sobrepone a un material franco a franco arcilloso y con alto contenido de sodio en el complejo de intercambio. La Serie Lazzarino es un suelo que corresponde a aquellos desarrollados en un proceso eólico de acumulación-deflación. Aparece principalmente en los sectores planos extendidos de escaso desagüe, vinculados a los sistemas de lagunas importantes (La Picaza, Martín García, etc.) o en ciertos bajos elongados que se alternan con cordones medanosos. Allí integra las unidades, por lo general complejos, ocupando las posiciones relativas más altas. El horizonte superficial es de color pardo grisáceo oscuro en húmedo, con una provisión de materia orgánica algo superior a 2%, que decrece rápidamente al 1% a partir de los 20 cm de profundidad. La textura es franca a franca arenosa (con 15% de arcilla), la consistencia es friable y su reacción neutra. A los 30 cm de profundidad se encuentra un horizonte AC, considerado el depósito más reciente, que ha dado origen a la capa superficial. Se extiende unos 15 cm, es de textura franca (con un 11% de arcilla y 50% de arenas), siendo la estructura casi masiva, la reacción es alcalina y el % de sodio en el complejo de cambio es superior al 20%. Abruptamente, a partir de los 45 cm, se produce un cambio textural y se encuentra un horizonte 2Bt, con 23% de arcilla, que representa el comienzo de un perfil desarrollado mas antiguamente. Este horizonte presenta una estructura prismática fuerte, con abundantes moteados de Fe y altos valores de sodio en el complejo de intercambio (nátrico). En forma gradual va disminuyendo el contenido de arcilla mientras que se produce una ganancia en arenas muy finas, se encuentran concreciones de CO3Ca y el sodio llega a 30% en el complejo de cambio. A los 100 cm aparece el sustrato (horizonte C) de color pardo en húmedo, muy friable, de textura franco arenosa y fuerte reacción alcalina. Los perfiles de la Serie Lazzarino están en general afectados por excesos de agua provenientes de los sitios vecinos más altos y por ascenso de la capa freática, que comúnmente no se encuentra muy profunda, en los períodos lluviosos. Los suelos de la Serie Lazzarino muestran síntomas de hidromorfismo a partir del horizonte 2Bt; el calcáreo aparece como vestigios de carbonato de calcio a partir de ese mismo nivel. Estos suelos siempre se encuentran geográficamente mezclados con otros constituyendo los “campos overos” en los cuales, suelos de calidad contrastante forman un patrón de distribución complejo. Las limitaciones mas importantes son el drenaje y el sodio que es alto en el subsuelo y que continúa aumentando con la profundidad.
+
+Descripción del perfil típico:
+
+El perfil tipo de esta Serie, fue estudiado a 11,5 km al SO de la ciudad de Venado Tuerto, provincia de Santa Fe.
+
+A	0-19 cm; color en húmedo pardo grisáceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados; friable en húmedo; ligeramente plástico; ligeramente adhesivo; límite inferior claro, suave.
+
+A2	19-32 cm; color en húmedo pardo grisáceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados; friable en húmedo; ligeramente plástico; ligeramente adhesivo; límite inferior claro, ondulado.
+
+ACn	32-44 cm; color en húmedo pardo a pardo oscuro (10YR4/3); franco; masivo; muy friable en húmedo; límite inferior abrupto, suave.
+
+2Btn	44-80 cm; color en húmedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en prismas compuestos medios fuertes rompe a bloques angulares irregulares medios; firme en húmedo; plástico; adhesivo; moteados abundantes medios y precisos; límite inferior claro, ondulado.
+
+2BC	80-103 cm; color en húmedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques angulares irregulares medios y moderados; friable en húmedo; plástico; adhesivo; concreciones calcáreas comunes; límite inferior gradual, ondulado.
+
+2C	103 cm a +; color en húmedo pardo (7,5YR5/4); franco; estructura en bloques angulares irregulares débiles y finos; friable en húmedo; ligeramente plástico; ligeramente adhesivo; moteados comunes finos y débiles.
+
+Datos analíticos Serie LAZZARINO
+Situación: Latitud: 33°49’16”S Longitud: 62°03’00”O Altitud: 110 m.s.n.m.
+|Horizonte                                                            |A       |A2      |ACn     |2Btn    |2BC      |2C       |
+|Profundidad de la muestra (cm)                                       |0-19    |19-32   |32-44   |44-80   |80-103   |103 a +  |
+|Materia Organica (%)                                                 |2,12    |1,05    |0,51    |0,10    |         |         |
+|Carbono Organico (%)                                                 |1,23    |0,61    |0,30    |0,06    |         |         |
+|Nitrogeno total (%)                                                  |0,118   |0,076   |0,053   |        |         |         |
+|Relacion C/N                                                         |10      |8       |6       |        |         |         |
+|Arcilla, <2 u (%)                                                    |17,8    |14,6    |11,5    |22,9    |18,4     |16,8     |
+|Limo, 2-50 u (%)                                                     |35,9    |34,9    |38,5    |33,5    |33,8     |31,9     |
+|Arena muy fina, 50-100 u (%)                                         |45,2    |48,9    |47,2    |42,0    |46,3     |49,0     |
+|Arena fina, 100-250 u (%)                                            |1,1     |1,6     |2,8     |1,6     |1,5      |2,3      |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |         |         |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |         |         |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |         |         |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |         |         |
+|Equivalente de humedad (%)                                           |18,1    |15,3    |12,3    |25,4    |18,9     |16,3     |
+|pH en pasta                                                          |6,5     |6,9     |7,6     |8,1     |8,5      |9,0      |
+|pH en agua (1:2,5)                                                   |7,4     |7,3     |8,4     |9,1     |9,5      |9,8      |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |5,2     |5,9     |5,2     |        |         |         |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,3     |1,6     |3,8     |        |         |         |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,6     |1,7     |5,4     |3,3      |8,6      |
+|Cationes de intercambio, meq/100 gr (K+)                             |3,1     |2,8     |2,5     |5,8     |4,5      |3,2      |
+|Cationes de intercambio, meq/100 gr (H+)                             |4,9     |3,5     |        |        |         |         |
+|Sodio de intercambio, % (PSI)                                        |3,3     |5,3     |23,3    |27,0    |28,9     |87,8     |
+|Suma de bases, meq/100 gr (S)                                        |12,0    |10,9    |13,2    |        |         |         |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,2    |11,3    |7,3     |20,0    |11,4     |9,8      |
+|Saturacion con bases, % (S/T)                                        |98      |97      |100     |        |         |         |
+
+

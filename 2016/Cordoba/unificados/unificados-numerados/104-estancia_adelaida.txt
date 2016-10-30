@@ -1,0 +1,59 @@
+Serie ESTANCIA ADELAIDA
+Argiustol acuico, limosa fina, mixta, termica
+Indice de Productividad: 23
+
+La Serie Estancia Adelaida es un suelo bien drenado a algo excesivamente, desarrollado sobre materiales franco limosos de derrames en albardones y areas proximas a paleocauces. El horizonte superficial tiene 21 cm de espesor, es oscuro, de textura franco limosa y estructura en bloques subangulares. Le sigue un horizonte mas arcilloso (Bt ligeramente textural), franco limoso con estructura en prismas y barnices humico arcilloso escasos a abundantes en las caras de los agregados y ligeramente alcalino. A 39 cm, comienza un horizonte de transicion con textura franco limosa y calcareo diseminado en la masa del suelo (BCn), presenta 29% de sodio de intercambio (moderadamente alcalino) y 7,4 mmhos de conductividad (debilmente salino). El horizonte C (material originario) se extiende desde 70 cm hasta aproximadamente 100 cm con textura franco limosa y moderadamente salino/alcalino. A continuacion existen discontinuidades con capas fluviales de texturas francas. Este suelo no presenta sintomas de hidromorfismo ni peligro de anegamiento y/o inundacion.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipo que ilustra el concepto central de esta Serie fue estudiado a 7,6 km al NE de Silvio Pellico, departamento General San Martin, provincia de Cordoba.
+
+A	0-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios y finos debiles; raices escasas, limite inferior abrupto, suave.
+
+Bt	21-39 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso a franco arcillo limoso; estructura en prismas irregulares, rompen a bloques subangulares finos; barnices humico arcillosos abundantes y finos; moteados de FeMn escasos, finos y debiles; poroso con evidencias muy notables de actividad biologica (krotovinas); raices escasas; limite inferior abrupto, suave.
+
+BCn	39-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios moderados tendencia masivo; violenta reaccion al acido clorhidrico en la masa del suelo; barnices humico arcillosos escasos y finos; moteados escasos finos y debiles; poroso; vestigios de raices; restos de actividad biologica; limite gradual, suave.
+
+C	70-103 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; masivo; violenta reaccion al acido clorhidrico en la masa del suelo; moteados de Fe escasos; limite abrupto suave.
+
+2kn	103 cm a +; franco limoso a franco; masivo; violenta reaccion al acido clorhidrico en la masa del suelo; moteados escasos finos y debiles.
+
+Datos analiticos Serie ESTANCIA ADELAIDA
+Situacion: Latitud: 32o12'09"S Longitud: 62o52'34"O Altitud: 149 m.s.n.m.
+
+|Horizonte                                                             |A       |Bt      |BCn     |C        |2kn       |
+|Profundidad de la muestra (cm)                                        |0-21    |21-39   |39-70   |70-103   |103 a +   |
+|Materia Organica (%)                                                  |5,47    |2,57    |0,79    |0,62     |0,19      |
+|Carbono Organico (%)                                                  |3,17    |1,49    |0,46    |0,36     |0,11      |
+|Nitrogeno total (%)                                                   |0,26    |0,13    |        |         |0,03      |
+|Relacion C/N                                                          |12,2    |11,4    |        |         |3,7       |
+|Arcilla, <2 u (%)                                                     |20,1    |26,5    |24,9    |24,8     |13,1      |
+|Limo, 2-50 u (%)                                                      |76,2    |71,6    |70,2    |69,2     |61,0      |
+|Arena muy fina, 50-100 u (%)                                          |4,2     |3,3     |2,7     |3,4      |20,7      |
+|Arena fina, 100-250 u (%)                                             |1,5     |0,5     |0,4     |0,6      |4,7       |
+|Arena media, 250-500 u (%)                                            |        |        |        |         |          |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                 |        |0,19    |1,41    |1,72     |2,71      |
+|Equivalente de humedad (%)                                            |33,0    |32,9    |27,7    |23,3     |20,6      |
+|pH en pasta                                                           |6,4     |7,5     |8,1     |8,6      |8,8       |
+|pH en agua (1:2,5)                                                    |6,8     |8,1     |8,6     |9,2      |9,6       |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |13,7    |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |2,3     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,4     |1,2     |6,4     |         |7,3       |
+|Cationes de intercambio, meq/100 gr (K+)                              |4,0     |2,5     |3,8     |         |2,5       |
+|Cationes de intercambio, meq/100 gr (H+)                              |0,8     |        |        |         |          |
+|Sodio de intercambio, % (PSI)                                         |1,9     |5,2     |28,4    |         |51,4      |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |3,75    |        |7,41    |8,55     |5,56      |
+|Suma de bases, meq/100 gr (S)                                         |20,4    |        |        |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |21,2    |23      |22,5    |21,4     |14,2      |
+|Saturacion con bases, % (S/T)                                         |96      |        |        |         |          |
+|C.EXT.S ME/l-Ca++                                                     |        |        |16,16   |7,04     |3,2       |
+|C.EXT.S ME/l-Mg++                                                     |        |        |5,76    |6,88     |5,6       |
+|C.EXT.S ME/l-Na+                                                      |        |        |54,8    |80,0     |47,8      |
+|C.EXT.S ME/l-K+                                                       |        |        |1,6     |1,4      |4,4       |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |         |          |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |3,04    |3,2      |7,68      |
+|C.EXT.S ME/l-SO4=                                                     |        |        |57,46   |59,1     |43,17     |
+|C.EXT.S ME/l-Cl-                                                      |        |        |22,16   |29,12    |13,76     |

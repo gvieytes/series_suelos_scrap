@@ -1,0 +1,50 @@
+Serie OLIVA
+
+Simbolo: Olv
+Haplustol acuico, franca fina, mixta, termica
+Indice de Productividad: 64
+
+La Serie Oliva, es un suelo imperfectamente drenado y vinculado a planos deprimidos y bajos extendidos, desarrollados a partir de materiales loessicos franco limosos. Presentan alcalinidad sodica en profundidad. La capa arable de 22 cm de espesor, es de color pardo grisaceo oscuro, franco limosa, estructura en bloques y buen contenido de materia organica. Luego pasa en forma clara a un horizonte algo mas arcilloso (Bw y Bwk) que se extiende hasta los 80 cm de profundidad, presentando calcareo pulverulento a partir de los 52 cm. El material originario aparece a los 120 cm, es de color pardo, textura franco limosa, con abundante calcareo y elevada alcalinidad sodica. Son suelos agricolas, aunque presentan limitaciones por su drenaje imperfecto.
+
+Descripcion del perfil tipico:
+
+El perfil que representa a los suelos de la Serie Oliva, fue descrito a 2,8 Km OSO de la localidad de Oliva, departamento Tercero Arriba, provincia de Cordoba.
+
+Ap	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+
+Bw	22-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; adhesivo; barnices arcillosos (ClSk) comunes y medios; moteados comunes, finos y medios precisos; limite inferior abrupto, suave.
+
+Bwk	52-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en prismas irregulares medios, debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos (ClSk) comunes y finos; moteados comunes, medios y precisos; abundante calcareo en la masa del suelo.
+
+BCk	80-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos (ClSk) escasos y finos; moteados comunes, medios y precisos; limite inferior gradual.
+
+Ck	120 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo y en concreciones; moteados comunes, medios y precisos.
+
+Datos Analiticos Serie OLIVA
+Situacion: Latitud: 32o03'06"S Longitud: 63o35'52"O Altitud: 265 m.s.n.m.
+|Horizonte                                                            |Ap      |Bw      |Bwk     |BCk      |Ck        |
+|Profundidad de la muestra (cm)                                       |0-22    |22-52   |52-80   |80-120   |120 a +   |
+|Materia Organica (%)                                                 |2,89    |1,72    |0,34    |         |          |
+|Carbono Organico (%)                                                 |1,7     |1,0     |0,2     |         |          |
+|Nitrogeno total (%)                                                  |0,18    |0,11    |0,06    |         |          |
+|Relacion C/N                                                         |9,4     |9,1     |3,3     |         |          |
+|Arcilla, <2 u (%)                                                    |19,6    |19,2    |19,8    |16,0     |12,6      |
+|Limo, 2-50 u (%)                                                     |63,2    |65,6    |62,1    |63,7     |64,7      |
+|Arena muy fina, 50-100 u (%)                                         |9,2     |11,8    |13,8    |14,3     |16,7      |
+|Arena fina, 100-250 u (%)                                            |2,5     |2,9     |2,9     |4,0      |4,8       |
+|Arena media, 250-500 u (%)                                           |0,1     |0,5     |0,4     |0,1      |0,5       |
+|Arena gruesa, 500-1000 u (%)                                         |0,3     |0,1     |0,1     |0,2      |0,2       |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |        |0,2     |6,4     |6,9      |7,2       |
+|Equivalente de humedad (%)                                           |19,2    |24,0    |26,3    |21,9     |20,2      |
+|pH en pasta                                                          |6,4     |7,6     |7,7     |8,0      |8,3       |
+|pH en agua (1:2,5)                                                   |6,5     |7,8     |8,0     |8,5      |8,7       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |14,6    |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,5     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,1     |0,2     |0,9      |1,5       |
+|Cationes de intercambio, meq/100 gr (K+)                             |3,2     |2,5     |2,1     |3,5      |3,4       |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,6     |        |        |         |          |
+|Sodio de intercambio, % (PSI)                                        |1,0     |0,5     |1,3     |6,5      |13,3      |
+|Suma de bases, meq/100 gr (S)                                        |18,7    |        |        |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |20,5    |21,3    |15,7    |13,9     |11,3      |
+|Saturacion con bases, % (S/T)                                        |91      |        |        |         |          |

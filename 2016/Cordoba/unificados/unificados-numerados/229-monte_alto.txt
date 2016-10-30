@@ -1,0 +1,49 @@
+Serie MONTE ALTO
+Simbolo: MA
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 68
+Capacidad de uso: IIIc
+
+Los suelos de la Serie Monte Alto, son profundos, oscuros, bien a algo excesivamente drenados, vinculados a lomas planas o ligeramente onduladas. Se han desarrollado a partir de materiales loessicos franco limosos. Presentan una capa arable (horizonte A) de 22 cm de espesor, de color pardo grisaceo muy oscuro, estructura en bloques moderados y buen contenido de materia organica. Luego pasa transicionalmente (horizonte AC) al material originario (horizonte C) que aparece a 50 cm de profundidad y con material calcareo pulverulento en la masa del suelo a partir de 75 cm, es un material de color pardo y textura franco limosa. Son suelos agricolas, cuya unica limitante es la climatica.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de la Serie Monte Alto, fue estudiado a 5,9 Km al SSE de la localidad de Etruria, departamento General San martin, provincia de Cordoba.
+
+A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+
+AC	22-50 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares debiles; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
+
+C	50-75 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; muy friable en humedo; no adhesivo; no plastico; limite inferior abrupto, suave.
+
+Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante material calcareo pulverulento en la masa del suelo.
+
+Datos analiticos Serie MONTE ALTO
+Situacion: Latitud: 32o58'19"S Longitud: 63o11'48"O Altitud: 145 m.s.n.m.
+
+|Horizonte                                                            |A       |AC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-22    |22-50   |50-75   |75 a +  |
+|Materia Organica (%)                                                 |2,76    |0,17    |        |        |
+|Carbono Organico (%)                                                 |1,6     |0,1     |        |        |
+|Nitrogeno total (%)                                                  |0,17    |0,01    |        |        |
+|Relacion C/N                                                         |9,4     |10      |        |        |
+|Arcilla, <2 u (%)                                                    |18,0    |15,8    |12,9    |12,3    |
+|Limo, 2-50 u (%)                                                     |55,2    |55,9    |54,7    |54,3    |
+|Arena muy fina, 50-100 u (%)                                         |24,1    |27,9    |30,4    |31,0    |
+|Arena fina, 100-250 u (%)                                            |0,4     |0,3     |0,4     |0,3     |
+|Arena media, 250-500 u (%)                                           |        |        |0,3     |        |
+|Arena gruesa, 500-1000 u (%)                                         |0,1     |        |0,1     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |3,1     |
+|Equivalente de humedad (%)                                           |20,9    |18,1    |16,0    |14,9    |
+|pH en pasta                                                          |5,9     |6,4     |7,0     |7,9     |
+|pH en agua (1:2,5)                                                   |6,1     |6,9     |7,3     |8,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,5     |9,9     |10,4    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,0     |1,0     |0,7     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,2     |0,5     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,1     |1,7     |1,2     |1,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,4     |0,9     |0,5     |        |
+|Sodio de intercambio, % (PSI)                                        |1,4     |1,4     |1,5     |4,3     |
+|Suma de bases, meq/100 gr (S)                                        |11,8    |12,8    |12,5    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,5    |13,8    |13,0    |11,6    |
+|Saturacion con bases, % (S/T)                                        |81,4    |92,8    |96,2    |        |

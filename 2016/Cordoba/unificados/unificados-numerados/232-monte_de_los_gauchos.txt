@@ -1,0 +1,45 @@
+Serie MONTE DE LOS GAUCHOS
+Simbolo: MGa
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 65
+
+La Serie Monte de los Gauchos es un suelo bien a algo excesivamente drenado, desarrollado sobre sedimentos eolicos franco a franco arenosos en lomas extendidas suavemente onduladas de la Pampa arenosa en la provincia de Cordoba. Presenta un horizonte A o capa arable de 25 cm de espesor, color pardo grisaceo muy oscuro, textura franca, estructura en bloques moderados. Hacia abajo continua una transicion (AC) que se extiende hasta 53 cm de profundidad de similar textura y estructura masiva con tendencia a bloques debiles. El material originario del suelo es franco arenoso, masivo y se extiende hasta 110 cm sin la presencia de material calcareo.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue descrito a 4,1 km al SO de Monte de los Gauchos, departamento Juarez Celman, provincia de Cordoba.
+
+A	0-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados y granular; friable en humedo; no plastico; no adhesivo; pH 5,6; raices comunes; limite inferior claro, suave.
+
+AC	25-53 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 6,1; raices escasas; limite inferior gradual.
+
+C	53-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 7.
+
+Datos analiticos Serie MONTE DE LOS GAUCHOS
+Situacion: Latitud: 33?39'30"S Longitud: 63?55'20"O Altitud: 225 m.s.n.m.
+|Horizonte                                                             |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                        |0-25    |25-53   |53 a +  |
+|Materia Organica (%)                                                  |1,55    |        |        |
+|Carbono Organico (%)                                                  |0,9     |        |        |
+|Nitrogeno total (%)                                                   |0,06    |        |        |
+|Relacion C/N                                                          |15,0    |        |        |
+|Arcilla, <2 u (%)                                                     |16,2    |15,6    |8,6     |
+|Limo, 2-50 u (%)                                                      |37,3    |34,5    |35,8    |
+|Arena muy fina, 50-100 u (%)                                          |42,9    |46,8    |49,6    |
+|Arena fina, 100-250 u (%)                                             |3,3     |1,6     |3,6     |
+|Arena media, 250-500 u (%)                                            |0,1     |0,2     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |
+|Equivalente de humedad (%)                                            |16,2    |15,0    |11,2    |
+|pH en pasta                                                           |5,3     |6,1     |6,7     |
+|pH en agua (1:2,5)                                                    |5,6     |6,1     |7,0     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |8,1     |9,0     |8,7     |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,8     |0,7     |0,7     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,5     |0,3     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,1     |1,6     |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                              |1,3     |1,0     |0,4     |
+|Sodio de intercambio, % (PSI)                                         |3,9     |2,4     |3,5     |
+|Suma de bases, meq/100 gr (S)                                         |11,5    |11,6    |10,9    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |12,8    |12,6    |11,3    |
+|Saturacion con bases, % (S/T)                                         |89,8    |92,1    |96,5    |

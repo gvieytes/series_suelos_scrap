@@ -1,0 +1,45 @@
+Serie CALAMUCHITA III
+Udorthent litico, esqueletica, franca, mixta, termica
+Indice de Productividad: 39
+
+Es un suelo moderadamente bien drenado a bien drenado, desarrollado sobre materiales autoctonos, como consecuencia de la alteracion de rocas metamorficas. Ubicado sobre relieves muy pronunciados. El horizonte A de 60 cm de potencia, con moderadamente bajo contenido de materia organica (1,8%), de textura franca arenosa (al tacto) y estructura en bloques subangulares moderados y debiles. Le continua un horizonte de transicion (AC), franco arenoso, masivo, que se apoya directamente sobre roca alterada. La pendiente dominante es del 25 al 45%, con escurrimiento rapido, con permeabilidad moderada a moderadamente rapida, sin peligro de anegamiento.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 13,5 km al Sur de Villa Yacanto de Calamuchita, departamento Calamuchita, provincia de Cordoba.
+
+A	0-60 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso (al tacto); estructura en bloques subangulares medios moderados y debiles; friable en humedo; 56% de gravilla; pH 5,5; raices muy abundantes; limite inferior claro suave.
+
+AC	60-100 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; masivo; friable en humedo; pH 5,9; limite inferior claro suave.
+
+R	100 cm a +; roca alterada; ligeramente firme.
+
+Datos analiticos Serie CALAMUCHITA III
+Situacion: Latitud: 32o14'S Longitud: 64o46'O Altitud: 1100 m.s.n.m.
+
+|Horizonte                                                            |A       |AC       |
+|Profundidad de la muestra (cm)                                       |0-60    |60-100   |
+|Materia Organica (%)                                                 |1,72    |         |
+|Carbono Organico (%)                                                 |1,0     |         |
+|Nitrogeno total (%)                                                  |0,09    |         |
+|Relacion C/N                                                         |11      |         |
+|Arcilla, <2 u (%)                                                    |        |12,1     |
+|Limo, 2-50 u (%)                                                     |        |25,6     |
+|Arena muy fina, 50-100 u (%)                                         |        |8,7      |
+|Arena fina, 100-250 u (%)                                            |        |26,5     |
+|Arena media, 250-500 u (%)                                           |        |6,1      |
+|Arena gruesa, 500-1000 u (%)                                         |        |13,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |6,1      |
+|Carbonatos, CaCO3 (%)                                                |        |         |
+|Equivalente de humedad (%)                                           |        |28,7     |
+|pH en pasta                                                          |5,1     |5,5      |
+|pH en agua (1:2,5)                                                   |5,5     |5,9      |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |1,8     |2,5      |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,2     |1,5      |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,1      |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,2     |0,3      |
+|Cationes de intercambio, meq/100 gr (H+)                             |3,5     |3,2      |
+|Sodio de intercambio, % (PSI)                                        |5,1     |1,3      |
+|Suma de bases, meq/100 gr (S)                                        |2,5     |4,4      |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |5,9     |7,6      |
+|Saturacion con bases, % (S/T)                                        |59      |58       |

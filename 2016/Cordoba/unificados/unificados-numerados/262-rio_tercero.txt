@@ -1,0 +1,54 @@
+Serie RIO TERCERO
+Simbolo: RT
+Natralbol tipico, franca fina, mixta, termica
+Indice de Productividad: 22
+
+La Serie Rio Tercero es un suelo oscuro, profundo, acido en superficie, pero alcalino-sodico en las capas mas arcillosas, su drenaje natural es moderado y ocupa las pendientes largas y suaves hacia los rios Ctalamochita (Tercero) y Carcarana. Su perfil se ha desarrollado a partir de un sedimento loessico franco limoso. La parte superficial del suelo se divide en dos horizontes: uno superior (horizonte A) hasta los 23 cm de color pardo grisaceo muy oscuro y estructura en bloques medios y otro inferior (horizonte E) mas claro y lixiviado, de unos 10 cm de espesor. Ambos horizontes tienen textura franco limosa. A los 32 cm se pasa abruptamente a un material mas arcilloso (Bt); de estructura prismatica; de color pardo oscuro y que se extiende hasta los 80 cm. La parte superior de esta zona del perfil (horizonte Btn) es algo alcalino y con debil contenido de sodio intercambiable (11% de la capacidad de intercambio cationico); en cambio la parte inferior a partir de los 54 cm (horizonte Btn2), es alcalino, con alto contenido de sodio intercambiable (36 a 40% de la capacidad de intercambio cationico) y alto contenido de sales que limitan el desarrollo normal de las raices. Dentro de esta Serie, existen algunas variaciones en cuanto al espesor del horizonte A, debido al estado de erosion del suelo, al espesor y grado de desarrollo del horizonte E; al espesor del Bt y al tenor de sodio intercambiable. Se han reconocido fases moderada a gravemente erosionada y fase engrosada.
+
+Descripcion del perfil tipico:
+
+Un perfil tipico se describe a continuacion, fue estudiado a 20,5 km al OSO de la localidad de Leones, departamento Union, provincia de Cordoba.
+
+Ap	0-14 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; limite inferior abrupto, suave.
+
+A	14-23 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; limite inferior claro, suave.
+
+E	23-32 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares debiles tendencia a masivo; friable en humedo; moteados escasos, finos, debiles; limite inferior abrupto, ondulado.
+
+Btn	32-54 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura columnar gruesa fuerte, rompe a prismas irregulares medios fuertes; firme; plastico; adhesivo; barnices "Clay skins" abundantes medios; moteados escasos, finos, debiles; limite inferior claro, suave.
+
+Btnz	54-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso a franco arcillo limoso; estructura en prismas irregulares medios; ligeramente plastico; ligeramente adhesivo; barnices "Clay skins" comunes, finos; moteados escasos, finos, debiles; limite inferior gradual, suave.
+
+BCkz	80-110 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay skins" escasos muy finos; escasos nodulos cementados; moderada cantidad de concreciones calcareas y carbonatos libres en la masa; limite inferior difuso.
+
+Ck	110-140 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; escasa cantidad de concreciones calcareas y alto contenido de carbonatos libres en la masa.
+
+Datos Analiticos Serie RIO TERCERO
+Situacion: Latitud: 32o44'28"S Longitud: 62o29'41"O Altitud: 110 m.s.n.m.
+|Horizonte                                                  |Ap      |A       |E       |Btn     |Btnz    |BCkz    |Ck      |
+|Profundidad de la muestra (cm)                             |0-14    |14-23   |23-32   |32-54   |54-80   |80-110  |110 a + |
+|Materia Organica (%)                                       |2,87    |1,95    |1,18    |0,73    |0,40    |0,18    |0,10    |
+|Carbono Organico (%)                                       |1,677   |1,143   |0,698   |0,431   |0,240   |0,112   |0,060   |
+|Nitrogeno total (%)                                        |0,150   |0,115   |0,0856  |0,0789  |0,060   |0,036   |0,039   |
+|Relacion C/N                                               |11      |10      |8       |5       |4       |3       |1       |
+|Arcilla, <2 u (%)                                          |18,2    |19,5    |20,1    |30,2    |25,1    |20,7    |16,9    |
+|Limo, 2-50 u (%)                                           |61,6    |60,1    |56,6    |54,0    |52,6    |53,3    |53,6    |
+|Arena muy fina, 50-100 u (%)                               |19,6    |19,9    |22,2    |15,2    |21,1    |22,8    |23,2    |
+|Arena fina, 100-250 u (%)                                  |0,6     |0,5     |1,1     |0,6     |0,9     |1,0     |2,3     |
+|Arena media, 250-500 u (%)                                 |        |        |        |        |0,3     |0,3     |0,4     |
+|Arena gruesa, 500-1000 u (%)                               |        |        |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                               |        |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                      |        |        |        |        |        |1,9     |3,6     |
+|Equivalente de humedad (%)                                 |24,2    |25,4    |23,7    |2 7,5   |26,0    |24,4    |23,3    |
+|pH en pasta                                                |5,5     |5,7     |5,9     |6,3     |7,7     |7,8     |6,6     |
+|pH en agua (1:2,5)                                         |6,5     |6,4     |7,1     |7,3     |8,2     |8,6     |7,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                 |8,8     |8,8     |6,8     |9,3     |6,9     |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                 |2,8     |4,4     |3,9     |7,3     |5,5     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                  |0,3     |0,5     |0,8     |2,6     |7,4     |11,3    |4,1     |
+|Cationes de intercambio, meq/100 gr (K+)                   |2,8     |2,3     |2,1     |3,0     |3,0     |3,1     |3,0     |
+|Cationes de intercambio, meq/100 gr (H+)                   |7,3     |6,0     |4,5     |3,9     |        |        |        |
+|Sodio de intercambio, % (PSI)                              |1,7     |2,8     |5,2     |10,8    |35,5    |59,0    |26,5    |
+|Conductividad, mmhos/cm (extracto de saturacion)           |        |        |        |        |25,9    |20,4    |11,5    |
+|Suma de bases, meq/100 gr (S)                              |14,7    |16,0    |13,6    |21,2    |22,8    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)         |17,5    |18,0    |15,2    |23,9    |20,9    |19,2    |17,4    |
+|Saturacion con bases, % (S/T)                              |84      |89      |90      |89      |100     |        |        |

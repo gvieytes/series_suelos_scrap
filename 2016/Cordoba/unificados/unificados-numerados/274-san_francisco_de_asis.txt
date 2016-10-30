@@ -1,0 +1,58 @@
+Serie SAN FRANCISCO DE ASIS
+Natracualf molico, limosa fina, mixta, termica
+Indice de Productividad: 26
+
+La Serie San Francisco de Asis es un suelo imperfectamente drenado, fuertemente alcalino a partir de los 17 cm de profundidad y debilmente salino, vinculado a planos levemente deprimidos y los cauces alargados o vias de escurrimiento dentro de dichos planos. Se ha desarrollado a partir de sedimentos franco limosos. La capa arable (horizonte Ap) de 17 cm de espesor, es de color pardo oscuro, franco limoso y estructura en bloques. Luego pasa en forma abrupta a un horizonte Bt algo mas arcilloso, de estructura prismatica y con abundantes barnices humico-arcillosos que recubren las caras de los agregados y que llega hasta los 38 cm de profundidad. El pasaje hacia el material madre (horizonte Ck) es gradual, encontrandose este a una profundidad de 86 cm, es de textura franco limosa, masivo y con abundante calcareo libre diseminado en la masa del suelo. Estos suelos estan muy limitados en su aptitud, por la fuerte alcalinidad sodica y el drenaje imperfecto. Presentan ciertas variaciones en el espesor del horizonte superficial y del horizonte Bt. En muchos casos la estructura del horizonte Bt es semicolumnar. El solum varia entre 62 y 95 cm de espesor.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa el concepto modal de la Serie San Francisco de Asis, ha sido estudiado a 11,3 km al SSO de la localidad de Alto Alegre, departamento Union, provincia de Cordoba.
+
+Ap	0-17 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares medios y finos moderados; friable en humedo; limite inferior abrupto y suave.
+
+Btn	17-38 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura en prismas irregulares medios moderados rompe en bloques subangulares medios moderados; friable a firme en humedo; ligeramente plastico; ligeramente adhesivo; abundantes barnices humico-arcillosos; moteados comunes, finos y debiles; concreciones calcareas comunes y finas; limite inferior claro y suave.
+
+Bn	38-53 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares medios debiles rompen en bloques subangulares medios debiles; friable en humedo; abundantes barnices humico-arcillosos finos; escasos durinodulos finos; concreciones calcareas finas; limite inferior gradual y suave.
+
+BCn	53-86 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; escasos barnices arcillosos; abundantes concreciones calcareas finas y medias; limite inferior abrupto y suave.
+
+Ck	86 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; escasos durinodulos finos; abundante calcareo diseminado en la masa del suelo y en concreciones finas.
+
+Datos analiticos Serie SAN FRANCISCO DE ASIS
+Situacion: Latitud: 32o25'31"S Longitud: 62o57'24"O Altitud: 158 m.s.n.m.
+|Horizonte                                                            |Ap      |Btn     |Bn      |BCn     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-17    |17-38   |38-53   |53-86   |86 a +  |
+|Materia Organica (%)                                                 |1,85    |0,72    |0,36    |0,26    |0,17    |
+|Carbono Organico (%)                                                 |1,08    |0,42    |0,21    |0,15    |0,10    |
+|Nitrogeno total (%)                                                  |0,126   |0,063   |0,046   |0,037   |0,029   |
+|Relacion C/N                                                         |8,6     |6,7     |4,6     |4,0     |3,4     |
+|Arcilla, <2 u (%)                                                    |14,6    |19,9    |15,7    |13,6    |11,5    |
+|Limo, 2-50 u (%)                                                     |72,6    |67,7    |68,9    |69,8    |71,6    |
+|Arena muy fina, 50-100 u (%)                                         |11,9    |10,9    |12,4    |14,8    |15,6    |
+|Arena fina, 100-250 u (%)                                            |0,9     |1,5     |1,7     |1,3     |1,4     |
+|Arena media, 250-500 u (%)                                           |        |        |1,6     |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |0,7     |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |0,44    |1,28    |0,70    |3,52    |
+|Equivalente de humedad (%)                                           |26,3    |32,5    |28      |23,3    |22,7    |
+|pH en pasta                                                          |5,5     |8,3     |8,5     |8,5     |8,8     |
+|pH en agua (1:2,5)                                                   |6,0     |9,3     |9,5     |9,5     |9,7     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,8     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,4     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |12,0    |12,4    |10,8    |10,4    |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,9     |4,0     |4,0     |5,0     |4,0     |
+|Cationes de intercambio, meq/100 gr (H+)                             |3,1     |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,2     |48,4    |54,4    |54,8    |52,8    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |3,36    |5,4     |4,82    |5,29    |6,94    |
+|Suma de bases, meq/100 gr (S)                                        |13,3    |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,8    |24,8    |22,8    |19,7    |19,7    |
+|Saturacion con bases, % (S/T)                                        |79,1    |        |        |        |        |
+|C.EXT.S ME/l-Ca++                                                    |        |5,2     |5,9     |5,2     |5,7     |
+|C.EXT.S ME/l-Mg++                                                    |        |        |0,1     |        |0,08    |
+|C.EXT.S ME/l-Na+                                                     |        |45,0    |50,0    |53,0    |69,0    |
+|C.EXT.S ME/l-K+                                                      |        |0,75    |0,8     |0,9     |1,0     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |9,3     |7,6     |6,8     |10,0    |
+|C.EXT.S ME/l-SO4=                                                    |        |20,5    |35,6    |34,6    |47,9    |
+|C.EXT.S ME/l-Cl-                                                     |        |22,6    |12,8    |16,0    |16,0    |
+

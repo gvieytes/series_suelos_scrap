@@ -1,0 +1,61 @@
+Serie ESTANCIA DONA LUCIA
+Natralbol tipico, fina, mixta, termica
+Indice de Productividad: 18
+
+Son suelos imperfectamente drenados, desarrollados sobre materiales franco limosos, asociados a un relieve de lomas aplanadas a ligeramente deprimidas. La capa arable, de 15 cm de espesor, es de textura franco limosa y estructura en bloques subangulares, presenta algunos sintomas de lixiviacion y fuerte reaccion acida. Le sigue hacia abajo un horizonte decolorado (E) de textura franco limosa y estructura masiva. Desde los 22 cm de profundidad y hasta los 60 cm se extiende un horizonte enriquecido en arcilla, de textura arcillo limosa y estructura columnar gruesa muy fuerte. Esta porcion del perfil es moderadamente alcalina, lo que representa una limitacion para el normal desarrollo de las raices. El sustrato (horizonte C) es de textura franco limosa y a partir de los 139 cm de profundidad, presenta abundante calcareo pulverulento en la masa del suelo. El drenaje imperfecto, la alcalinidad sodica desde los 22 cm y la fuerte salinidad desde los 60 cm de profundidad, limitan la capacidad de uso de esta tierra.
+
+Descripcion del perfil tipico:
+
+El perfil que representa a los suelos de esta Serie fue estudiado a 3,7 Km al SSE de la localidad de Quebracho Herrado, departamento San Justo, provincia de Cordoba.
+
+Ap	0-15 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados y granular; duro en seco; friable en humedo; ligeramente plastico; no adhesivo; moteados de FeMn comunes, finos y precisos; raices abundantes; limite inferior abrupto, suave.
+
+E	15-22 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; masivo con tendencia a estructura en bloques; duro en seco; friable en humedo; no plastico; no adhesivo; moteados de FeMn abundantes, finos y precisos; raices comunes; limite inferior abrupto, ondulado.
+
+Btn	22-47 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso; estructura columnar gruesa fuerte que rompe en prismas regulares; firme en humedo; plastico; adhesivo; barnices abundantes; moteados abundantes, medios y precisos; escasas raices; limite inferior claro, suave.
+
+Bt	47-60 cm; color en humedo pardo oscuro (7,5YR3,5/2); arcillo limoso; estructura en prismas regulares medios moderados; ligeramente firme en humedo; plastico; adhesivo; escasas concreciones de FeMn finas; barnices comunes y finos; moteados de FeMn comunes, gruesos y precisos; limite inferior gradual, suave.
+
+BC	60-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; concreciones escasas y finas de FeMn; escasos barnices finos; moteados comunes, gruesos y precisos; abundantes pseudomicelios salinos; limite inferior gradual, suave.
+
+C	100-139 cm; color en humedo pardo (7,5YR5/4); franco arcillo limoso; masivo; muy friable en humedo; ligeramente plastico; no adhesivo; concreciones de calcio escasas y finas; moteados de FeMn comunes, gruesos y precisos; limite inferior abrupto, ondulado.
+
+Ck	139 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante carbonato de calcio diseminado en la masa del suelo; moteados comunes, gruesos y precisos.
+
+Datos Analiticos Serie ESTANCIA DONA LUCIA
+Situacion: Latitud: 31o34'43"S Longitud: 62o12'25"O Altitud: 106 m.s.n.m.
+|Horizonte                                              |Ap      |E       |Btn     |Bt      |BC       |C         |Ck        |
+|Profundidad de la muestra (cm)                         |0-15    |15-22   |22-47   |47-60   |60-100   |100-139   |139 a +   |
+|Materia Organica (%)                                   |4,15    |1,86    |1,21    |0,48    |         |          |          |
+|Carbono Organico (%)                                   |2,41    |1,08    |0,70    |0,28    |         |          |          |
+|Nitrogeno total (%)                                    |0,238   |0,103   |0,092   |0,072   |         |          |          |
+|Relacion C/N                                           |10,1    |10,5    |7,6     |3,9     |         |          |          |
+|Arcilla, <2 u (%)                                      |27,5    |25,5    |46,9    |42,1    |34,7     |29,4      |26,5      |
+|Limo, 2-50 u (%)                                       |70,7    |72,0    |53,1    |57,0    |62,9     |69,0      |71,5      |
+|Arena muy fina, 50-100 u (%)                           |1,3     |1,5     |0,8     |1,1     |1,6      |1,8       |1,9       |
+|Arena fina, 100-250 u (%)                              |0,3     |0,6     |        |0,1     |0,9      |0,4       |0,5       |
+|Arena media, 250-500 u (%)                             |        |        |        |        |0,1      |0,1       |          |
+|Arena gruesa, 500-1000 u (%)                           |        |        |        |        |0,1      |0,1       |          |
+|Arena muy gruesa, 1-2 mm (%)                           |        |        |        |        |         |0,1       |          |
+|Carbonatos, CaCO3 (%)                                  |        |        |        |        |         |1,17      |5,09      |
+|Equivalente de humedad (%)                             |30,4    |25,7    |33,4    |32,3    |28,1     |27,3      |26,7      |
+|pH en pasta                                            |5,0     |6,0     |6,9     |7,2     |7,4      |7,9       |8         |
+|pH en agua (1:2,5)                                     |5,4     |6,5     |7,4     |7,8     |7,9      |8,4       |8,7       |
+|Cationes de intercambio, meq/100 gr (Ca++)             |8,3     |7,1     |12,2    |13,3    |         |          |          |
+|Cationes de intercambio, meq/100 gr (Mg++)             |1,5     |0,7     |3,6     |2,6     |         |          |          |
+|Cationes de intercambio, meq/100 gr (Na+)              |0,2     |0,8     |3,7     |3,1     |         |          |6,8       |
+|Cationes de intercambio, meq/100 gr (K+)               |2,6     |1,7     |3,5     |3,7     |         |          |4,9       |
+|Cationes de intercambio, meq/100 gr (H+)               |4,2     |1,5     |0,8     |        |         |          |          |
+|Sodio de intercambio, % (PSI)                          |1,2     |6,7     |15,4    |13,7    |         |          |30,9      |
+|Conductividad, mmhos/cm (extracto de saturacion)       |        |        |        |        |10,4     |12,8      |5,7       |
+|Suma de bases, meq/100 gr (S)                          |12,6    |10,3    |22,4    |22,7    |         |          |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)     |17,1    |12,0    |24,0    |22,7    |21,0     |20,1      |22,0      |
+|Saturacion con bases, % (S/T)                          |74      |86      |96      |100     |         |          |          |
+|C.EXT.S ME/l-Ca++                                      |        |        |        |        |10,8     |22,7      |24,0      |
+|C.EXT.S ME/l-Mg++                                      |        |        |        |        |15,8     |21,6      |11,0      |
+|C.EXT.S ME/l-Na+                                       |        |        |        |        |96,0     |34,0      |34,0      |
+|C.EXT.S ME/l-K+                                        |        |        |        |        |2,8      |2,5       |2,5       |
+|C.EXT.S ME/l-CO3=                                      |        |        |        |        |         |          |          |
+|C.EXT.S ME/l-HCO3-                                     |        |        |        |        |6,4      |3,2       |3,2       |
+|C.EXT.S ME/l-SO4=                                      |        |        |        |        |101,4    |123,1     |68,5      |
+|C.EXT.S ME/l-Cl-                                       |        |        |        |        |15,36    |13,7      |3,0       |

@@ -1,0 +1,51 @@
+Serie EL PUMA
+Simbolo: EPm
+Argiustol udico, limosa fina, mixta, termica
+Indice de Productividad: 73
+
+La Serie El Puma es un suelo profundo y moderadamente bien drenado. Se ha desarrollado sobre materiales franco limosos y se encuentra vinculado a relieves planos ligeramente deprimidos y lineas de escurrimiento. La capa arable, de 16 cm de espesor es de color pardo grisaceo muy oscuro, con buen contenido de materia organica, de textura franca limosa y estructura en bloques subangulares medios moderados y granular. Luego pasa en forma abrupta a un horizonte mas arcilloso (horizonte Bt) que se extiende hasta 62 cm, es de color pardo a pardo oscuro, de estructura prismatica y con abundantes barnices. El horizonte C se encuentra a 100 cm de profundidad, es de color pardo, de textura limosa, suelto, con abundante calcareo diseminado en la masa.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico correspondiente al concepto central de la Serie El Puma, fue estudiado a 6 Km al OSO de la localidad de Chilibroste, departamento Union, provincia de Cordoba.
+
+A	0-10 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; no plastico; no adhesivo; raices comunes; limite inferior abrupto, suave.
+
+Bt	16-42 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; plastico; adhesivo; abundantes barnices humico arcillosos; moteados escasos, finos y debiles; raices comunes; limite claro, suave.
+
+Bt2	42-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; plastico; adhesivo; escasos barnices arcillosos; moteados escasos, finos y debiles; abundantes poros; limite inferior gradual, suave.
+
+BC	62-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; escasos barnices arcillosos; moteados escasos, finos y debiles; limite inferior gradual, suave.
+
+Ck	100 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados escasos, finos y debiles; abundante calcareo libre en la masa y en concreciones.
+
+Datos analiticos Serie EL PUMA
+Situacion: Latitud: 32o20'44"S Longitud: 62o34'11"O Altitud: 120 m.s.n.m.
+
+|Horizonte                                                             |A       |Bt      |Bt2     |BC      |
+|Profundidad de la muestra (cm)                                        |0-18    |18-50   |50-86   |86 a +  |
+|Materia Organica (%)                                                  |3,69    |1,55    |0,68    |        |
+|Carbono Organico (%)                                                  |2,2     |0,9     |0,4     |        |
+|Nitrogeno total (%)                                                   |0,22    |0,10    |        |        |
+|Relacion C/N                                                          |10      |9,0     |        |        |
+|Arcilla, <2 u (%)                                                     |21,4    |27,9    |25,0    |21,0    |
+|Limo, 2-50 u (%)                                                      |71,7    |66,1    |68,2    |73,8    |
+|Arena muy fina, 50-100 u (%)                                          |4,9     |4,8     |3,9     |3,9     |
+|Arena fina, 100-250 u (%)                                             |1,8     |0,8     |2,6     |2,3     |
+|Arena media, 250-500 u (%)                                            |0,3     |0,4     |0,2     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |0,8     |0,5     |0,4     |0,4     |
+|Arena muy gruesa, 1-2 mm (%)                                          |0,1     |0,1     |        |0,1     |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |
+|Equivalente de humedad (%)                                            |27,2    |29,3    |28,6    |24,8    |
+|pH en pasta                                                           |6,3     |6,5     |6,8     |7,0     |
+|pH en agua (1:2,5)                                                    |6,5     |6,7     |7,0     |7,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |15,5    |16,8    |15,3    |15,5    |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |1,5     |1,4     |2,2     |1,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,3     |0,1     |0,2     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,7     |1,6     |1,9     |1,6     |
+|Cationes de intercambio, meq/100 gr (H+)                              |1,7     |1,2     |0,8     |0,5     |
+|Sodio de intercambio, % (PSI)                                         |1,4     |0,5     |1,0     |0,5     |
+|Suma de bases, meq/100 gr (S)                                         |20,0    |19,9    |19,6    |18,6    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |21,7    |21,3    |20,5    |19,0    |
+|Saturacion con bases, % (S/T)                                         |92      |93      |96      |98      |

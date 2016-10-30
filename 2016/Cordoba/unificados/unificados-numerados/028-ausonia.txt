@@ -1,0 +1,58 @@
+Serie AUSONIA
+Simbolo: Au
+Natralbol tipico, limosa gruesa, mixta, termica
+Indice de Productividad: 27
+
+Los suelos de esta Serie son profundos, moderadamente bien drenados, desarrollados sobre sedimentos loessicos de textura franco limosa, que ocupan los planos chatos, ligeramente deprimidos. El horizonte superficial o capa arable, tiene aproximadamente 20 cm de espesor, esta parcialmente degradado y escasamente provisto de materia organica, de textura franco limosa y estructura en bloques subangulares medios moderados a debiles. Hacia abajo continua un horizonte lavado y decolorado (E), con baja fertilidad natural y poca capacidad de retencion de humedad. El subsuelo esta representado por un horizonte de acumulacion de arcilla (Bt), de textura franco limosa y estructura prismatica media moderada, que se extiende hasta 48 cm de profundidad. Esta parte del perfil es moderadamente alcalino sodico, limitando el desarrollo normal de las raices. El material originario del suelo (horizonte Ck), se encuentra a 72 cm de profundidad, es un sedimento friable de textura franco limosa y con fuerte alcalinidad sodica y moderada a fuerte salinidad.
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie, fue descrito a 12 km al NE de Colonia La Palestina, departamento General San Martin, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; limite inferior claro, suave.
+
+E	20-26 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; limite inferior abrupto, suave.
+
+Btn	26-48 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco limoso; estructura en prismas irregulares medios moderados, tendencia semicolumnar; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundantes concreciones de carbonato de calcio finas; barnices humico arcillosos comunes y medios; limite inferior abrupto, suave.
+
+BCkn	48-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; abundante contenido de carbonato pulverulento en la masa del suelo; escasos barnices finos; limite inferior gradual.
+
+Ck	72 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; abundante carbonato pulverulento en la masa del suelo.
+
+Datos analiticos Serie AUSONIA
+Situacion: Latitud: 32o32'21"S Longitud: 63o19'12"O Altitud: 200 m.s.n.m.
+|Horizonte                                                             |A       |E       |Btn     |BCkn    |Ck      |
+|Profundidad de la muestra (cm)                                        |0-20    |20-26   |26-48   |48-72   |72 a +  |
+|Materia Organica (%)                                                  |2,24    |1,20    |0,51    |0,17    |        |
+|Carbono Organico (%)                                                  |1,3     |0,7     |0,3     |0,1     |        |
+|Nitrogeno total (%)                                                   |0,15    |0,11    |0,08    |        |        |
+|Relacion C/N                                                          |8,7     |6,4     |3,7     |        |        |
+|Arcilla, <2 u (%)                                                     |12,3    |11,2    |14,6    |11,7    |8,1     |
+|Limo, 2-50 u (%)                                                      |68,0    |69,9    |64,9    |64,2    |64,9    |
+|Arena muy fina, 50-100 u (%)                                          |16,3    |17,9    |14,6    |20,4    |23,6    |
+|Arena fina, 100-250 u (%)                                             |1,5     |1,6     |2,8     |1,4     |1,2     |
+|Arena media, 250-500 u (%)                                            |0,2     |        |0,4     |0,2     |        |
+|Arena gruesa, 500-1000 u (%)                                          |0,3     |        |1,1     |0,2     |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |0,2     |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |1,3     |3,1     |4,3     |
+|Equivalente de humedad (%)                                            |15,1    |19,3    |25,1    |24,8    |22,6    |
+|pH en pasta                                                           |5,6     |6,3     |8,2     |8,9     |8,9     |
+|pH en agua (1:2,5)                                                    |5,8     |6,5     |8,8     |9,5     |9,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |8,6     |6,7     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,5     |1,5     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |0,6     |5,8     |7,6     |        |
+|Cationes de intercambio, meq/100 gr (K+)                              |3,1     |2,0     |4,0     |4,5     |        |
+|H+ de cambio (meq/100 gr)                                             |2,3     |1,6     |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |1,4     |4,8     |30,5    |42,5    |37,5    |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |        |4,41    |8,23    |
+|Suma de bases, meq/100 gr (S)                                         |12,5    |10,8    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,6    |12,5    |19,0    |17,9    |15,7    |
+|Saturacion con bases, % (S/T)                                         |86      |86      |        |        |        |
+|C.EXT.S ME/l-Ca++                                                     |        |        |        |3,3     |4,9     |
+|C.EXT.S ME/l-Mg++                                                     |        |        |        |1,6     |1,7     |
+|C.EXT.S ME/l-Na+                                                      |        |        |        |39,9    |76,8    |
+|C.EXT.S ME/l-K+                                                       |        |        |        |1,8     |0,8     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |        |12,4    |14,4    |
+|C.EXT.S ME/l-SO4=                                                     |        |        |        |12,3    |27,4    |
+|C.EXT.S ME/l-Cl-                                                      |        |        |        |22,4    |44,8    |

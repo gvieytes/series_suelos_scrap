@@ -1,0 +1,48 @@
+Serie ASCOCHINGA
+Simbolo: Asc
+Argiustol udico, franca fina a franca gruesa, mixta, termica
+Indice de Productividad: 67
+Capacidad de uso: IIIec
+
+La Serie Ascochinga es un suelo bien drenado, desarrollado sobre derrames suavemente ondulados periserranos de textura franca con relieve normal y gradientes que normalmente oscilan entre 1 a 2%. Ocupa generalmente situaciones de media loma alta, tiene escurrimiento medio sin peligro de anegamiento. Presenta un horizonte A de 21 cm de espesor, de color oscuro, textura franca y estructura en bloques. Continua hacia abajo un horizonte enriquecido en arcillas iluviales B divisible en Bt y B de color mas claro con barnices abundantes y finos y textura franca que se extiende hasta 79 cm. Luego de una transicion (horizonte BC), el material originario del suelo comienza a 98 cm con carbonatos libres en la masa del suelo. Se encuentra limitado esencialmente por la tendencia natural de endurecerse superficialmente en seco y por la susceptibilidad a la erosion hidrica.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de la Serie fue descrito a 14 km al Oeste de Jesus Maria, departamento Totoral, provincia de Cordoba.
+
+Ap	0-11 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares finos medios moderados a debiles; friable en humedo; pH 7,1; limite inferior abrupto, suave.
+
+A	11-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares finos medios moderados a debiles; friable en humedo; pH 6,5; limite inferior claro, suave.
+
+Bt	21-54 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios gruesos moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices abundantes y finos; pH 6,9; limite inferior claro, suave.
+
+B	54-79 cm; color en humedo pardo oscuro (7,5YR3/3); franco; estructura en bloques subangulares medios gruesos moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices abundantes a escasos finos; pH 7,1; limite inferior abrupto, ondulado.
+
+2BC	79-98 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares gruesos moderados; friable en humedo; barnices humico arcillosos escasos; pH 7,7; limite inferior abrupto, suave.
+
+2Ck	98 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; friable en humedo; pH 8,1; violenta reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo.
+
+Datos analiticos Serie ASCOCHINGA
+Situacion: Latitud: 30o55'S Longitud: 64o14'O Altitud: 600 m.s.n.m.
+
+|Horizonte                                                            |Ap      |A       |Bt      |B       |2BC     |2Ck     |
+|Profundidad de la muestra (cm)                                       |0-11    |11-21   |21-54   |54-79   |79-98   |98 a +  |
+|Materia Organica (%)                                                 |2,59    |2,24    |        |        |        |        |
+|Carbono Organico (%)                                                 |1,5     |1,3     |        |        |        |        |
+|Nitrogeno total (%)                                                  |0,14    |0,14    |        |        |        |        |
+|Relacion C/N                                                         |11      |9       |        |        |        |        |
+|Arcilla, <2 u (%)                                                    |14,3    |15,3    |19,4    |16,4    |16      |10,5    |
+|Limo, 2-50 u (%)                                                     |36,5    |39,8    |31,3    |33,7    |34,5    |37,1    |
+|Arena (%)                                                            |46,4    |41,9    |46,9    |47,4    |48      |50      |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |5,9     |
+|Equivalente de humedad (%)                                           |        |        |        |        |        |        |
+|pH en agua (1:2,5)                                                   |7,1     |6,5     |6,9     |7,1     |7,7     |8,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,7     |7,6     |12      |8,9     |8,9     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7     |2,6     |0,9     |1,9     |1,3     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,2     |0,2     |0,1     |0,15    |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,2     |0,5     |0,4     |0,4     |0,2     |0,3     |
+|H+ de cambio (meq/100 gr)                                            |0,5     |0,9     |0,5     |0,3     |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,6     |2,5     |1,4     |1,6     |0,9     |1,5     |
+|Suma de bases, meq/100 gr (S)                                        |10,9    |11,0    |13,5    |11,4    |10,5    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |11,4    |11,9    |14      |12,7    |10,6    |9,8     |
+|Saturacion con bases, % (S/T)                                        |96      |92      |96      |98      |99      |        |

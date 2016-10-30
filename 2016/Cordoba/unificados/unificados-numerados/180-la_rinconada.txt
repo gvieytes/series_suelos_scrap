@@ -1,0 +1,51 @@
+Serie LA RINCONADA
+Simbolo: LRi
+Natracualf tipico, limosa fina, mixta, termica
+Indice de Productividad: 16
+
+La Serie La Rinconada es un suelo lixiviado superficialmente, imperfectamente drenado, moderadamente salino y debilmente alcalino desde la superficie. Se ha desarrollado sobre materiales franco limosos a franco arcillo limosos en la planicie aluvial de La Rinconada y areas de transicion. Se la encuentra generalmente en manchones (micro planicies) cerca de los paleocauces (canadas de aibe) y los albardones (isletas de monte). Suele ocupar las partes mas altas de un microrelieve muy tipico rodeado de pequenas areas plano concavas sin vegetacion alguna (Serie Pozo Verde). La vegetacion dominante es la de jume blanco con cardon con otras especies subordinadas como palo azul, grama criolla, chanar, cebadilla, etc. Superficialmente tiene un horizonte lixiviado (E) hasta 17 cm con 19,3% de arcilla, moderadamente salino (10,8 mmhos/cm de conductividad), moderado a ligeramente alcalino, textura franco limosa con estructura en bloques subangulares moderados tendencia laminar. Le sigue hasta 42 cm un horizonte mas arcilloso (Bkn) con calcareo diseminado en la masa moderadamente salino alcalino con 35% de arcilla y textura franco arcillosa. Hasta 66 cm se extiende un horizonte de transicion (BCkn) franco arcillo limoso a franco limoso moderadamente salino alcalino con 3,3% de CO3Ca diseminado. El sustrato (horizonte Ck) es franco limoso a franco arcillo limoso con fuerte salinidad y alcalinidad. Un dato de interes en esta Serie es la alcalinidad y salinidad que practicamente permanecen constantes con caracter moderado hasta el horizonte C. Dentro de la Serie La Rinconada existen variaciones en cuanto al espesor del horizonte E (entre 15 a 20 cm). Puede tener estructura en bloques subangulares debiles sin tendencia laminar. La capa freatica se encuentra a 90 cm fluctuando entre 100 y 120 cm. Los suelos de esta Serie estan limitados por alcalinidad y salinidad moderada a ligera superficial continuando con caracter moderado hasta 66 cm de profundidad.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de los suelos de esta Serie fue descrito a 15 Km. al SO de El Zapallar, departamento Rio Seco, provincia de Cordoba.
+
+E	0 - 17 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares medios moderados tendencia laminar; friable en humedo; ligeramente plastico; no adhesivo; moteados comunes medios y precisos; raices comunes; limite inferior abrupto, suave.
+
+Bkn	 17 - 42 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco arcilloso; estructura en prismas irregulares medios fuertes rompe a prismas y bloques; friable en humedo; plastico; adhesivo; moderada reaccion al ClH en la masa del suelo; barnices humico arcillosos muy abundantes y medios; se observan cristales de yeso; raices comunes; limite inferior claro, suave.
+
+BCkn	42 - 66 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arcillo limoso a franco limoso; estructura en prismas y bloques irregulares; friable en humedo; plastico; adhesivo; moderada reaccion al ClH en la masa del suelo; barnices humico arcillosos abundantes a escasos finos; raices escasas; cristales de yeso comunes; limite inferior gradual suave.
+
+Ckz	66 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso a franco limoso; masivo; plastico; ligeramente adhesivo; violenta reaccion la ClH en la masa en el suelo.
+
+
+Datos analiticos Serie LA RINCONADA
+
+Situacion: Latitud: 30o16'S Longitud: 63o09'O Altitud: 70 m.s.n.m.
+
+|Horizonte                                                            |E       |Bkn     |BCkn    |Ckz     |
+|Profundidad de la muestra (cm)                                       |0-17    |17-42   |42-66   |66 a +  |
+|Materia Organica (%)                                                 |3,74    |        |        |        |
+|Carbono Organico (%)                                                 |2,08    |        |        |        |
+|Nitrogeno total (%)                                                  |0,21    |0,32    |        |        |
+|Relacion C/N                                                         |9,9     |        |        |        |
+|Arcilla, <2 u (%)                                                    |19,3    |35,8    |28,8    |        |
+|Limo, 2-50 u (%)                                                     |64,3    |53,3    |59,6    |        |
+|Arena muy fina, 50-100 u (%)                                         |16,9    |10,7    |12,3    |        |
+|Arena fina, 100-250 u (%)                                            |0,7     |1,3     |0,2     |        |
+|Arena media, 250-500 u (%)                                           |0,2     |0,1     |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |1,5     |3,3     |4,6     |
+|Equivalente de humedad (%)                                           |34,2    |32,0    |28,3    |25,7    |
+|pH en pasta                                                          |7,1     |8,0     |8,2     |8,3     |
+|pH en agua (1:2,5)                                                   |7,5     |8,3     |8,5     |8,7     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,2     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |        |        |        |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |10,8    |11,5    |12,9    |20,7    |
+|Suma de bases, meq/100 gr (S)                                        |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,4    |25,0    |21,3    |19,9    |
+|Saturacion con bases, % (S/T)                                        |        |        |        |        |

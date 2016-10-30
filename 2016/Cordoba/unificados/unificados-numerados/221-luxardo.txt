@@ -1,0 +1,52 @@
+Serie LUXARDO
+Simbolo: Lx
+Argiudol acuico, fina, mixta, termica
+Indice de Productividad: 58
+
+Es un suelo profundo, moderadamente a imperfectamente drenado, desarrollado sobre sedimentos loessicos de textura franco limosa, vinculado a un paisaje de lomas muy planas y areas ligeramente deprimidas. Esta Serie, no ha sido cartografiada como unidad pura, sino asociada a otros suelos, en unidades compuestas. El horizonte superficial, de aproximadamente 16 cm de espesor, es de textura franco arcillo limosa, estructura en bloques, bien provisto de materia organica y fuertemente acido. Continua un horizonte algo degradado, de textura franco arcillo limosa, escasos barnices y moteados de Fe que indican condiciones de hidromorfismo o condiciones reductoras en algunas epocas. A partir de los 24 cm se pasa a un horizonte enriquecido en arcilla (Bt), de textura franco arcillo limosa en la parte superior y arcillo limosa la inferior, estructura en prismas irregulares medios y fuertes. Presenta moteados de Fe y Mn abundantes. El material originario aparece a los 140 cm de profundidad, es de textura franco limosa y sin estructura.
+
+Descripcion del perfil tipico:
+
+El suelo representativo ha sido estudiado a 11,2 Km al ESE de la localidad de Quebracho Herrado, departamento San Justo, provincia de Cordoba.
+
+Ap	0-16 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; no adhesivo; moteados comunes, finos y precisos; raices abundantes; algo lixiviado; limite inferior abrupto, suave.
+
+A/B	16-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos finos; moteados abundantes finos y precisos; raices comunes; limite inferior claro, suave.
+
+Bt	24-49 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso a arcillo limoso; estructura en prismas irregulares medios fuertes, rompe en bloques subangulares; friable en humedo; plastico; adhesivo; abundantes barnices medios; moteados abundantes finos y precisos; escasas raices; limite inferior gradual, suave.
+
+Bt2	49-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); arcillo limoso; estructura en prismas regulares fuertes que rompe en prismas menores y bloques irregulares; friable en humedo; plastico; adhesivo; abundantes barnices gruesos; moteados comunes, finos y precisos; escasas raices; limite inferior gradual, suave.
+
+BC 	105-140 cm; color en humedo pardo (7,5YR4,5/4); franco limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; concreciones finas de FeMn; comunes barnices medios; moteados comunes finos y precisos; limite inferior gradual, suave.
+
+C	140 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; concreciones abundantes y finas de FeMn; moteados abundantes, gruesos y sobresalientes.
+
+Datos Analiticos Serie LUXARDO
+Situacion: Latitud: 31o35'24"S Longitud: 62o07'07"O Altitud: 104,3 m.s.n.m.
+|Horizonte                                                         |Ap      |A/B     |Bt      |Bt2     |BC      |C       |
+|Profundidad de la muestra (cm)                                    |0-16    |16-24   |24-49   |49-105  |105-140 |140 a + |
+|Materia Organica (%)                                              |3,55    |2,55    |1,19    |0,33    |0,10    |        |
+|Carbono Organico (%)                                              |2,06    |1,48    |0,69    |0,19    |0,06    |        |
+|Nitrogeno total (%)                                               |0,207   |0,128   |0,084   |0,056   |        |        |
+|Relacion C/N                                                      |9,9     |11,6    |8,2     |3,4     |        |        |
+|Arcilla, <2 u (%)                                                 |32,4    |35,5    |39,4    |46,1    |25,1    |27,5    |
+|Limo, 2-50 u (%)                                                  |66,8    |62,1    |58,4    |52,7    |7,13    |70,1    |
+|Arena muy fina, 50-100 u (%)                                      |0,8     |1,1     |1,2     |1,2     |1,9     |1,2     |
+|Arena fina, 100-250 u (%)                                         |0,2     |0,3     |0,5     |0,6     |1,6     |1,1     |
+|Arena media, 250-500 u (%)                                        |        |        |        |        |0,4     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                      |        |        |        |        |0,2     |0,2     |
+|Arena muy gruesa, 1-2 mm (%)                                      |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                             |        |        |        |        |7,59    |        |
+|Equivalente de humedad (%)                                        |34,3    |32,4    |30,5    |36,0    |28,2    |30,3    |
+|pH en pasta                                                       |4,9     |5,3     |5,8     |6,0     |7,7     |6,9     |
+|pH en agua (1:2,5)                                                |5,2     |5,8     |6,2     |6,3     |8,3     |7,0     |
+|Cationes de intercambio, meq/100 gr (Ca++)                        |8,5     |12,5    |12,6    |16,0    |        |16,8    |
+|Cationes de intercambio, meq/100 gr (Mg++)                        |1,4     |1,3     |1,2     |2,1     |        |1,8     |
+|Cationes de intercambio, meq/100 gr (Na+)                         |0,2     |0,2     |0,1     |0,4     |1,4     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                          |3,6     |2,6     |2,5     |3,5     |2,5     |2,7     |
+|Cationes de intercambio, meq/100 gr (H+)                          |4,1     |2,5     |1,7     |1,3     |        |0,6     |
+|Sodio de intercambio, % (PSI)                                     |1,1     |1,0     |0,5     |1,7     |7,0     |0,9     |
+|Conductividad, mmhos/cm (extracto de saturacion)                  |        |        |        |1,6     |        |        |
+|Suma de bases, meq/100 gr (S)                                     |13,7    |16,6    |16,4    |22,0    |        |21,5    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                |17,9    |19,1    |18,3    |23,5    |20,0    |22,1    |
+|Saturacion con bases, % (S/T)                                     |76      |87      |90      |94      |        |97      |

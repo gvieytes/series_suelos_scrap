@@ -1,0 +1,65 @@
+Serie LAGUNA ISLETA
+Símbolo: LIs
+Duracuol nátrico, franca fina, mixta, térmica
+Índice de Productividad: 4
+Capacidad de uso: VIIws
+
+Es un suelo pobremente drenado, con fuerte alcalinidad sódica y moderado contenido de sales. Se ha desarrollado a partir de materiales francos y se vincula a pozos o charcas de infiltración y lagunas. Presenta bloques subangulares débiles con tendencia a masiva. Luego se pasa a un horizonte más claro y lixiviado (E) de 13 cm de espesor. A partir de los 40 cm pasa en forma abrupta a un material algo más arcilloso (horizonte Bt), de color pardo a pardo oscuro y estructura prismática extendiéndose hasta los 70 cm y con abundantes moteados. Estos suelos están muy limitados en su aptitud por la fuerte alcalinidad sódica desde la superficie y el drenaje pobre. Por lo general son dedicados exclusivamente a pasturas naturales.
+
+Descripción del perfil típico:
+
+Un perfil típico fue estudiado a 15,5 Km al SSO de Ordóñez, departamento Unión, provincia de Córdoba.
+
+An	0-13 cm; color en húmedo gris muy oscuro (10YR3/1); franco; estructura en bloques subangulares medios débiles tendencia masivo; friable en húmedo; moteados comunes, finos y precisos; escasas concreciones calcáreas muy finas; límite inferior claro, ondulado.
+
+An2	13-26 cm; color en húmedo gris muy oscuro (10YR3/1); franco limoso; estructura en bloques subangulares moderados a débiles con tendencia masivo; friable en húmedo; escasos moteados finos y precisos; límite inferior claro, ondulado.
+
+En	26-40 cm; color en húmedo pardo grisáceo oscuro (10YR4/2); franco a franco limoso; estructura en bloques subangulares medios moderados rompe a masivo; friable en húmedo; ligeramente plástico; moteados comunes, finos y precisos; abundante material decolorado; concreciones calcáreas comunes y finas; límite inferior claro, ondulado.
+
+Btn	40-70 cm; color en húmedo pardo a pardo oscuro (7,5YR4/2); franco a franco arcilloso; estructura en prismas irregulares medios moderados, rompen a bloques subangulares débiles; friable en húmedo; ligeramente plástico; ligeramente adhesivo; barnices “Clay Skins” comunes y medios; moteados abundantes, medios y finos; escasas concreciones calcáreas muy finas; límite inferior gradual, ondulado.
+
+BCn	70-95 cm; color en húmedo pardo amarillento oscuro (10YR4/4); franco limoso; estructura en bloques débiles con tendencia masivo; friable en húmedo; ligeramente plástico; ligeramente adhesivo; barnices “Clay Skins” escasos y finos; moteados comunes, finos y débiles; escasas concreciones calcáreas finas; límite inferior abrupto, ondulado.
+
+Ckm	95-107 cm; color pardo amarillento oscuro (10YR4/4) en húmedo; franco; fuertemente cementado; moteados comunes, medios y precisos; abundantes concreciones calcáreas muy finas y moderado contenido diseminado en la masa; límite inferior abrupto, ondulado.
+
+Ckz	107 cm a +; color en húmedo pardo (7,5YR5/4); franco; masivo; friable en húmedo; moteados comunes, medios y precisos; abundante contenido de calcáreo libre en la masa.
+
+Datos analíticos Serie LAGUNA ISLETA
+Situación: Latitud: 32°58’26”S Longitud: 62°55’20”O Altitud: 127 m.s.n.m.
+
+|Horizonte                                                    |An      |An2     |En      |Btn     |BCn     |Ckm       |Ckz       |
+|Profundidad de la muestra (cm)                               |0-13    |13-26   |26-40   |40-70   |70-95   |95-107    |107 a +   |
+|Materia Organica (%)                                         |2,21    |1,11    |0,53    |0,25    |0,12    |0,09      |          |
+|Carbono Organico (%)                                         |1,292   |0,659   |0,318   |0,152   |0,072   |0,053     |          |
+|Nitrogeno total (%)                                          |0,146   |0,078   |0,056   |0,048   |0,039   |0,037     |          |
+|Relacion C/N                                                 |8,6     |8,3     |5,3     |3,0     |1,8     |1,3       |          |
+|Arcilla, <2 u (%)                                            |15,8    |18,2    |19,2    |25,5    |21,0    |15,3      |10,5      |
+|Limo, 2-50 u (%)                                             |37,4    |55,9    |53,0    |41,6    |43,2    |41,6      |39,9      |
+|Arena muy fina, 50-100 u (%)                                 |45,2    |24,8    |26,7    |30,7    |34,5    |37,3      |44,1      |
+|Arena fina, 100-250 u (%)                                    |0,9     |1,1     |1,1     |2,2     |1,3     |3,0       |4,4       |
+|Arena media, 250-500 u (%)                                   |        |        |        |        |        |          |          |
+|Arena gruesa, 500-1000 u (%)                                 |        |        |        |        |        |          |          |
+|Arena muy gruesa, 1-2 mm (%)                                 |        |        |        |        |        |          |          |
+|Carbonatos, CaCO3 (%)                                        |0,7     |        |        |        |        |2,8       |1,1       |
+|Equivalente de humedad (%)                                   |24,6    |35,9    |38,9    |45,6    |26,9    |22,3      |16,5      |
+|pH en pasta                                                  |7,9     |8,5     |8,5     |8,2     |8,1     |8,1       |7,7       |
+|pH en agua (1:2,5)                                           |8,8     |9,2     |9,1     |8,7     |8,8     |9,0       |8,8       |
+|Cationes de intercambio, meq/100 gr (Ca++)                   |        |5,0     |2,7     |3,3     |4,0     |          |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                   |        |2,7     |3,4     |5,3     |5,4     |          |          |
+|Cationes de intercambio, meq/100 gr (Na+)                    |2,9     |12,6    |13,4    |14,1    |12,6    |10,6      |7,8       |
+|Cationes de intercambio, meq/100 gr (K+)                     |2,3     |2,5     |2,5     |2,8     |2,8     |2,5       |2,3       |
+|Cationes de intercambio, meq/100 gr (H+)                     |        |        |        |        |        |          |          |
+|Sodio de intercambio, % (PSI)                                |16,5    |63,3    |63,4    |56,6    |55,0    |62,7      |67,8      |
+|Conductividad, mmhos/cm (extracto de saturacion)             |        |        |8,5     |10,5    |12,3    |14,3      |26,0      |
+|Suma de bases, meq/100 gr (S)                                |        |22,8    |22,3    |25,5    |24,8    |          |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)           |17,5    |19,9    |21,6    |24,9    |22,9    |16,9      |11,5      |
+|Saturacion con bases, % (S/T)                                |        |100     |100     |100     |100     |          |          |
+|C.EXT.S ME/l-Ca++                                            |        |        |2,8     |6,2     |6,8     |5,4       |10,6      |
+|C.EXT.S ME/l-Mg++                                            |        |        |2,6     |0,6     |3,4     |3,2       |13,2      |
+|C.EXT.S ME/l-Na+                                             |        |        |83,0    |96,0    |108,0   |128,0     |224,0     |
+|C.EXT.S ME/l-K+                                              |        |        |        |        |        |          |          |
+|C.EXT.S ME/l-CO3=                                            |        |        |        |        |        |          |          |
+|C.EXT.S ME/l-HCO3-                                           |        |        |5,2     |3,2     |3,2     |3,2       |3,6       |
+|C.EXT.S ME/l-SO4=                                            |        |        |35,5    |53,0    |55,0    |63.0      |108,0     |
+|C.EXT.S ME/l-Cl-                                             |        |        |40,0    |42,0    |64,0    |68,0      |128,0     |
+

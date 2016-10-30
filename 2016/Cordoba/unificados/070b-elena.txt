@@ -1,0 +1,53 @@
+Serie ELENA
+Símbolo: El
+Haplustol éntico thapto mólico, franca gruesa, mixta, térmica
+Capacidad de uso: IIIc
+Índice de Productividad: 71
+
+El material originario de esta Serie de suelos corresponde a sedimentos eólicos franco limosos a francos, con una acumulación de unos 40 cm de espesor de materiales de textura semejante con influencia fluvial que cubren el suelo original sepultado o enterrado. Ocupa las vías de desagüe moderadamente manifiestas de fondo plano o suavemente inclinado, entre las lomas onduladas. Es un suelo bien drenado y bien provisto de materia orgánica; superficialmente tiene la particularidad de presentar un horizonte A enterrado entre 40 a 59 cm de un antiguo suelo con estructura en bloques, rico en materia orgánica. Presenta un horizonte A de 21 cm con textura franco limosa, estructura en bloques. Continúa hacia abajo una capa (2) que forma parte de la acumulación de color mas claro, textura franco limosa, estructura más débil que se extiende hasta 40 cm. A partir de la profundidad indicada, aparece un horizonte (3A) enterrado, rico en materia orgánica con estructura en bloques fuertes que se extiende hasta 59 cm, luego de una transición (3AC), el material madre del suelo enterrado se extiende desde 78 cm a más.
+
+
+1 Descripción del perfil típico:
+
+Un perfil representativo de la Serie Elena fue descrito a 5,5 Km al Oeste de la localidad de Elena, departamento Río Cuarto, provincia de Córdoba.
+
+A	0-21 cm; color en húmedo pardo grisáceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso, estructura en bloques subangulares medios moderados a débiles, friable en húmedo; ligeramente plástico, no adhesivo, pH 6,9, raíces abundantes, límite inferior abrupto suave
+
+2	21-40 cm; color en húmedo pardo a pardo oscuro (7,5YR4/4), franco limoso, masivo con tendencia a bloques, muy friable en húmedo, no plástico, no adhesivo, pH 7,9, raíces abundantes, límite inferior abrupto.
+
+3A	40-59 cm; color en húmedo pardo grisáceo muy oscuro (10YR3/2), franco limoso, estructura en bloques subangulares medios fuertes a moderados, friable en húmedo, ligeramente plástico, no adhesivo, pH 8,1, raíces abundantes, límite inferior claro suave.
+
+3AC	59-78 cm; color en húmedo pardo amarillento oscuro (10YR3/4), franco limoso, estructura en bloques subangulares débiles a masivo, muy friable en húmedo, no plástico, no adhesivo, pH 8,1, raíces escasas, límite inferior gradual, leve reacción al ClH en la masa del suelo.
+
+3C	78 cm a +; color en húmedo pardo amarillento oscuro (10YR4/4); franco limoso, masivo, pH 8,2, moderada reacción al ClH en la masa del suelo.
+
+Datos analíticos Serie ELENA
+Situación: Latitud: 32º33’19”S Longitud: 64º27’03”O Altitud: 675 m.s.n.m.
+
+|Horizonte                                                            |A       |2       |3A      |3AC     |3C      |
+|Profundidad de la muestra (cm)                                       |0-21    |21-40   |40-59   |59-78   |78 a +  |
+|Materia Orgánica (%)                                                 |2,07    |1,38    |        |        |        |
+|Carbono Orgánico (%)                                                 |1,2     |0,8     |        |        |        |
+|Nitrógeno total (%)                                                  |0,16    |        |        |        |        |
+|Relación C/N                                                         |7,5     |        |        |        |        |
+|Arcilla, <2 μ (%)                                                    |13,5    |12,5    |15,6    |12,9    |10,0    |
+|Limo, 2-50 μ (%)                                                     |57,9    |57,5    |59,9    |54,7    |57,3    |
+|Arena muy fina, 50-100 μ (%)                                         |26,7    |25,4    |23,8    |27,7    |31,1    |
+|Arena fina, 100-250 μ (%)                                            |1,3     |1,2     |2,4     |1,6     |1,4     |
+|Arena media, 250-500 μ (%)                                           |0,1     |0,1     |0,4     |0,2     |0,1     |
+|Arena gruesa, 500-1000 μ (%)                                         |0,2     |0,1     |0,7     |0,2     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |        |0,2     |0,1     |0,1     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |
+|Equivalente de humedad (%)                                           |16,5    |17,1    |20,3    |18,3    |16,8    |
+|pH en pasta                                                          |6,6     |7,6     |7,7     |7,9     |7,9     |
+|pH en agua (1:2,5)                                                   |6,9     |7,9     |8,0     |8,1     |8,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,8    |14,3    |16,2    |14,4    |11,7    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |0,7     |0,2     |1,1     |1,1     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,3     |0,3     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,6     |1,3     |1,3     |1,4     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,8     |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,7     |1,8     |1,7     |1,8     |2,1     |
+|Suma de bases, meq/100 gr (S)                                        |16,5    |16,9    |18,0    |17,1    |14,5    |
+|Capacidad de intercambio catiónico, meq/100 gr (T)                   |17,3    |16,9    |18,0    |17,1    |14,5    |
+|Saturación con bases, % (S/T)                                        |95,4    |100     |100     |100     |100     |
+

@@ -1,0 +1,45 @@
+Serie SANTA ROSA III
+Hapludol entico, franca gruesa, mixta, termica
+Indice de Productividad: 47
+
+La Serie Santa Rosa III es un Hapludol entico, profundo, algo excesivamente drenado desarrollado sobre materiales loessicos, vinculado a lomas onduladas. Es un suelo de incipiente desarrollo. El horizonte superior (A) de 18 cm de potencia presenta un contenido moderadamente bajo de materia organica, de textura franco limosa y estructura en bloques debiles. Este perfil se continua con un horizonte de transicion (AC) franco limoso, estructura en bloques debiles a masiva, el que mediante un limite abrupto pasa a un horizonte C que contiene carbonato de calcio diseminado en la masa del suelo.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 7 Km al Sur de Santa Rosa de Calamuchita, departamento Calamuchita, provincia de Cordoba.
+
+A	0-18 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices muy abundantes; limite inferior claro suave.
+
+AC	18-39 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques debiles a masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices abundantes; limite inferior abrupto suave.
+
+Ck	39 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; friable en humedo; no plastico; no adhesivo; moderada reaccion al acido clorhidrico por la presencia de carbonato de calcio diseminado en la masa del suelo; escasas raices.
+
+Datos analiticos Serie SANTA ROSA III
+Situacion: Latitud: 32?08'S Longitud: 64?32'O Altitud: 500 m.s.n.m.
+
+|Horizonte                                                            |A       |AC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-18    |18-39   |39 a +  |
+|Materia Organica (%)                                                 |2,41    |1,55    |        |
+|Carbono Organico (%)                                                 |1,4     |0,9     |        |
+|Nitrogeno total (%)                                                  |0,19    |        |        |
+|Relacion C/N                                                         |7       |        |        |
+|Arcilla, <2 u (%)                                                    |14,4    |14,6    |12,5    |
+|Limo, 2-50 u (%)                                                     |53,3    |59,4    |47,2    |
+|Arena muy fina, 50-100 u (%)                                         |24,1    |15,3    |33,6    |
+|Arena fina, 100-250 u (%)                                            |4,1     |3,7     |2,1     |
+|Arena media, 250-500 u (%)                                           |1,3     |1,5     |3,3     |
+|Arena gruesa, 500-1000 u (%)                                         |2,1     |2,1     |0,4     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,4     |1,3     |0,2     |
+|Carbonatos, CaCO3 (%)                                                |        |        |9,4     |
+|Equivalente de humedad (%)                                           |18,56   |19,37   |18,43   |
+|pH en pasta                                                          |7,0     |7,1     |7,7     |
+|pH en agua (1:2,5)                                                   |7,3     |7,4     |8,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |15,3    |15,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |0,7     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,3     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,3     |0,8     |0,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,7     |0,6     |        |
+|Sodio de intercambio, % (PSI)                                        |1,1     |1,7     |1,7     |
+|Suma de bases, meq/100 gr (S)                                        |17,8    |17,5    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |18,4    |17,9    |12,0    |
+|Saturacion con bases, % (S/T)                                        |98      |98      |        |

@@ -1,0 +1,53 @@
+Serie EL SAUCE
+
+Simbolo: ESa
+Albacualf tipico, limosa fina a limosa gruesa, mixta, termica
+Indice de Productividad: 64
+
+Son suelos profundos, imperfectamente drenados vinculados a lineas de escurrimiento bien manifiestas y sectores deprimidos. Se han desarrollado a partir de materiales loessicos de textura franco limosa. Presentan un horizonte superficial de 29 cm de espesor (horizontes E y E2) con evidencias de material decolorado (eluviacion de materia organica), de color grisaceo oscuro, estructura debil a masivo y textura franco limosa. Luego pasa a un horizonte mas arcilloso (Bt y Btk) que llega hasta los 75 cm de profundidad, de color pardo oscuro y con abundante calcareo en la masa del suelo a partir de los 55 cm El material originario (horizonte Ck) se encuentra a 100 cm de profundidad. El drenaje impedido es la principal limitante de uso que presentan estos suelos.
+
+Descripcion del perfil tipico:
+
+El perfil que representa a esta Serie, fue descrito a 6 km al Sur de Oliva, departamento Tercero Arriba, provincia de Cordoba.
+
+E	0-12 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+E2	12-29 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y precisos; limite inferior claro, suave.
+
+Bt	29-55 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura columnar media moderada y prismas irregulares medios moderados; friable en humedo; plastico; adhesivo; escasas concreciones calcareas; abundantes barnices humico-arcillosos; moteados abundantes, finos medios precisos; limite inferior abrupto, suave.
+
+Btk	55-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundante calcareo pulverulento en la masa del suelo; barnices arcillosos (ClSk) comunes y finos; moteados abundantes, medios y precisos; limite inferior gradual.
+
+BCk	75-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; barnices arcillosos (ClSk) escasos y finos; moteados abundantes, medios y precisos; abundante calcareo en la masa del suelo; limite inferior gradual.
+
+Ck	100 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo en la masa del suelo; moteados abundantes, medios y precisos.
+
+Datos analiticos Serie EL SAUCE
+Situacion: Latitud: 32o05'06"S Longitud: 63o32'02"O Altitud: 255 m.s.n.m.
+
+|Horizonte                                                            |E       |E2      |Bt      |Btk     |BCk      |Ck        |
+|Profundidad de la muestra (cm)                                       |0-12    |12-29   |29-55   |55-75   |75-100   |100 a +   |
+|Materia Organica (%)                                                 |2,59    |2,07    |0,86    |0,34    |         |          |
+|Carbono Organico (%)                                                 |1,5     |1,2     |0,5     |0,2     |         |          |
+|Nitrogeno total (%)                                                  |0,15    |0,13    |0,07    |        |         |          |
+|Relacion C/N                                                         |10,0    |9,2     |7,1     |        |         |          |
+|Arcilla, <2 u (%)                                                    |16,3    |14,4    |18,8    |18,1    |17,1     |15,6      |
+|Limo, 2-50 u (%)                                                     |73,1    |74,6    |60,9    |69,4    |71,3     |70,6      |
+|Arena muy fina, 50-100 u (%)                                         |7,9     |7,6     |20,5    |10,7    |11,3     |11,6      |
+|Arena fina, 100-250 u (%)                                            |0,7     |1,4     |0,7     |1,0     |1,2      |1,2       |
+|Arena media, 250-500 u (%)                                           |0,2     |0,2     |        |0,1     |0,1      |0,1       |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,2     |        |0,1     |0,1      |0,1       |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |        |        |0,8     |7,9     |6,5      |5,1       |
+|Equivalente de humedad (%)                                           |24,0    |22,8    |27,0    |23,3    |22,3     |20,5      |
+|pH en pasta                                                          |6,4     |6,6     |7,4     |7,8     |8,0      |8,1       |
+|pH en agua (1:2,5)                                                   |6,7     |6,9     |7,7     |8,1     |8,3      |8,4       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,9    |11,9    |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,5     |0,7     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,2     |0,2     |0,3     |0,5      |0,7       |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,9     |2,6     |3,4     |3,0     |3,2      |3,4       |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,3     |0,8     |        |        |         |          |
+|Sodio de intercambio, % (PSI)                                        |2,1     |1,2     |0,9     |1,7     |3,0      |4,5       |
+|Suma de bases, meq/100 gr (S)                                        |17,7    |15,4    |        |        |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |18,8    |16,4    |22,9    |17,2    |16,7     |15,7      |
+|Saturacion con bases, % (S/T)                                        |94      |94      |        |        |         |          |

@@ -1,0 +1,60 @@
+Serie ALFALEGRE
+
+
+Natracualf molico, franca gruesa, mixta, termica
+
+
+Indice de Productividad: 19
+
+Es un suelo imperfectamente drenado, moderadamente alcalino a partir de los 24 cm, haciendose fuertemente alcalino desde los 51 cm, vinculado a los bajos alargados. La parte superficial del suelo se divide en dos horizontes; uno superior (horizonte A) hasta los 12 cm, de color pardo oscuro y estructura en bloques subangulares medios, moderados a debiles y otro inferior (horizonte E) mas claro y lixiviado de unos 12 cm de espesor. A los 24 cm se pasa abruptamente a un material mas arcilloso (Bt) de estructura semicolumnar y prismas irregulares medios moderados, de color pardo amarillento oscuro y ligeramente alcalino (10% de sodio intercambiable), luego pasa a un horizonte transicional (BC), fuertemente alcalino sodico, a los 51 cm de profundidad que impiden el desarrollo normal de las raices. Esta Serie no ha sido identificada en Series puras, sino que aparecen en unidades cartograficas compuestas asociados a otros suelos alcalinos, que se describen mas adelante. Dentro de esta Serie existen algunas variaciones en cuanto al espesor del horizonte A y tenores de sodio intercambiable. Algunos presentan sales solubles en profundidad.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie, fue descrito a 31 Km. al Norte de Huinca Renanco, departamento General Roca, provincia de Cordoba.
+
+A	0-12 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios, moderados a debiles; friable en humedo; no plastico, no adhesivo; limite inferior claro, suave.
+
+E	12-21 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arenoso a franco; estructura en bloques subangulares debiles a masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, finos, debiles; limite inferior abrupto, suave.
+
+Bt	24-51 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo arenoso; estructura semicolumnar y prismas irregulares medios, moderados; ligeramente firme en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos, finos; moteados abundantes, gruesos sobresalientes; limite inferior gradual.
+
+BC	51 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; estructura en bloques subangulares medios, moderados; friable en humedo; no plastico; no adhesivo; escasos barnices "Clay Skins" muy finos; moteados abundantes, gruesos, sobresalientes.
+
+Datos Analiticos Serie ALFALEGRE
+Situacion: Latitud: 34?32'37"S Longitud: 64?21'55"O Altitud: 191 m.s.n.m.
+|Horizonte                                                            |A       |E       |Bt      |BC      |
+|Profundidad de la muestra (cm)                                       |0-12    |12-24   |24-51   |51 a +  |
+|Materia Organica (%)                                                 |1,79    |0,93    |0,59    |0,33    |
+|Carbono Organico (%)                                                 |1,04    |0,54    |0,34    |0,19    |
+|Nitrogeno total (%)                                                  |0,130   |0,073   |0,043   |        |
+|Relacion C/N                                                         |8,0     |7,4     |7,9     |        |
+|Arcilla, <2 u (%)                                                    |11,8    |11,6    |21,2    |13,1    |
+|Limo, 2-50 u (%)                                                     |42,3    |36,8    |27,4    |32,3    |
+|Arena muy fina, 50-100 u (%)                                         |33,1    |28,4    |35,2    |32,7    |
+|Arena fina, 100-250 u (%)                                            |13,6    |24,0    |16,4    |22,3    |
+|Arena media, 250-500 u (%)                                           |0,2     |0,2     |0,3     |0,3     |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,2     |0,3     |0,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |0,54    |
+|Equivalente de humedad (%)                                           |17,6    |16,9    |21,8    |17,8    |
+|pH en pasta                                                          |7,1     |7,3     |7,3     |8,5     |
+|pH en agua (1:2,5)                                                   |7,2     |7,4     |7,6     |8,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |5,2     |5,6     |5,5     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |4,2     |3,4     |6,7     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,4     |1,4     |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |1,3     |2,1     |        |
+|H+ de cambio (meq/100 gr)                                            |0,4     |0,2     |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,4     |3,7     |8,9     |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |11,05   |
+|Suma de bases, meq/100 gr (S)                                        |12,1    |10,7    |15,7    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,5    |10,9    |15,7    |11,3    |
+|Saturacion con bases, % (S/T)                                        |97      |98      |100     |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |        |6,72    |
+|C.EXT.S ME/l-Mg++                                                    |        |        |        |4,16    |
+|C.EXT.S ME/l-Na+                                                     |        |        |        |98,0    |
+|C.EXT.S ME/l-K+                                                      |        |        |        |1,20    |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |        |6,40    |
+|C.EXT.S ME/l-SO4=                                                    |        |        |        |40,96   |
+|C.EXT.S ME/l-Cl-                                                     |        |        |        |64,64   |

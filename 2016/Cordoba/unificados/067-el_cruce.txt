@@ -1,0 +1,47 @@
+Serie EL CRUCE
+Haplustol udorthentico, esqueletica, franca, mixta, termica
+Capacidad de uso: IVsc
+Indice de Productividad: 37
+
+La Serie El Cruce esta vinculada a derrames intermedios ondulados con pendientes que oscilan entre 0,5 a 1% en situacion de loma a media loma alta. Es un suelo algo excesivamente drenado, con debil desarrollo y textura franca y esqueletica franca en capas subsuperficiales. Presenta un horizonte A de 22 cm de textura franco arenosa (11% arcilla y 20% de limo), con estructura en bloques. Continua hacia abajo una transicion (AC) hasta los 47 cm, franco arenosa. A partir de los 47 cm aparece una capa de gravas (70%) con matriz franco arenosa.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de la Serie fue descrito a 9 km al ONO de Jesus Maria, departamento Totoral, provincia de Cordoba.
+
+A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados y fuertes; friable en humedo; pH 6,7; limite inferior claro, suave.
+
+AC	22-47 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; pH 7,5; limite inferior claro, suave.
+
+2C	47 cm a +; color en humedo pardo oscuro (10YR3/3); esqueletico franco arenoso con mas de 70% de gravas.
+
+Datos analiticos Serie EL CRUCE
+Situacion: Latitud: 30o55'00"S Longitud: 64o10'30"O Altitud: 600 m.s.n.m.
+
+|Horizonte                                                            |A       |AC        |
+|Profundidad de la muestra (cm)                                       |0-22    |22-47     |
+|Materia Organica (%)                                                 |2,6     |1,2       |
+|Carbono Organico (%)                                                 |1,5     |0,7       |
+|Nitrogeno total (%)                                                  |0,15    |0,07      |
+|Relacion C/N                                                         |10,0    |10,0      |
+|Arcilla, <2 u (%)                                                    |11,5    |17,2      |
+|Limo, 2-50 u (%)                                                     |20,8    |18,2      |
+|Arena muy fina, 50-100 u (%)                                         |4,7     |4,1       |
+|Arena fina, 100-250 u (%)                                            |11,9    |12,5      |
+|Arena media, 250-500 u (%)                                           |16,1    |20,0      |
+|Arena gruesa, 500-1000 u (%)                                         |23,1    |21,2      |
+|Arena muy gruesa, 1-2 mm (%)                                         |12,4    |6,7       |
+|Gravilla, > 2 mm (%)                                                 |57,1    |52,4      |
+|Carbonatos, CaCO3 (%)                                                |        |          |
+|Equivalente de humedad (%)                                           |12,5    |12,6      |
+|pH en pasta                                                          |6,3     |6,5       |
+|pH en agua (1:2,5)                                                   |6,7     |7,5       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,3    |10,8      |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,1     |1,6       |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3       |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,6     |1,1       |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,6     |          |
+|Sodio de intercambio, % (PSI)                                        |1,9     |2,2       |
+|Suma de bases, meq/100 gr (S)                                        |15,3    |13,8      |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,9    |13,8      |
+|Saturacion con bases, % (S/T)                                        |96      |100       |

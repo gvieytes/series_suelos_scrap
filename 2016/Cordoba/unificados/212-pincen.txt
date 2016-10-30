@@ -1,0 +1,50 @@
+Serie PINCEN
+Simbolo: Pn
+Natralbol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 39
+
+La Serie Pincen es un suelo imperfecta a moderadamente bien drenado, con fuerte alcalinidad sodica a partir de los 40 cm de profundidad, y se encuentra vinculado a las hoyas medanosas o concavidades dentro de las lomas arenosas y a planos deprimidos. Se ha desarrollado a partir de materiales franco arenosos. La parte superficial del suelo se divide en dos horizontes: uno superior (horizonte A) hasta los 17 cm, de color pardo grisaceo muy oscuro y otro inferior (horizonte E) algo mas claro y lixiviado de 25 cm de espesor. Luego pasa en forma abrupta al horizonte Btn (mas arcilloso) de estructura prismatica y en bloques, fuertemente afectado por alcalinidad sodica (40% de sodio intercambiable). El sustrato (horizonte Ck) se encuentra a 94 cm de profundidad, es un material franco arenoso y con abundante calcareo pulverulento en la masa del suelo. Estos suelos presentan limitaciones para los cultivos de raices profundas, ya que la presencia de alcalinidad sodica a partir de los 40 cm aproximadamente impide el desarrollo normal de las raices.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Pincen fue descrito a 20 Km al NO de Italo, departamento General Roca, provincia de Cordoba.
+
+A	0-17 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+E	17-42 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+Btn	42-64 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco arcillo arenoso; estructura en prismas y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humicos comunes, medios; moteados comunes, medios, precisos; escasas concreciones calcareas medias; limite inferior claro, suave.
+
+BCn	64-94 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; estructura en bloques subangulares medios, debiles; muy friable en humedo; no plastico; no adhesivo; vestigios de barnices; moteados comunes, medios debiles; escasas concreciones calcareas finas; limite inferior abrupto.
+
+Ck	94 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo.
+
+Datos analiticos de la Serie PINCEN
+Situacion: Latitud: 34o42'07"S Longitud: 63o58'55"O Altitud: 149 m.s.n.m.
+
+|Horizonte                                                            |A       |E       |Btn     |BCn     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-17    |17-42   |42-64   |64-94   |94 a +  |
+|Materia Organica (%)                                                 |1,75    |0,43    |0,22    |0,14    |        |
+|Carbono Organico (%)                                                 |1,02    |0,25    |0,13    |0,08    |        |
+|Nitrogeno total (%)                                                  |0,105   |0,040   |0,037   |        |        |
+|Relacion C/N                                                         |9,7     |6,2     |3,5     |        |        |
+|Arcilla, <2 u (%)                                                    |9,2     |6,0     |18,4    |11,6    |9,4     |
+|Limo, 2-50 u (%)                                                     |35,2    |29,6    |24,6    |26,9    |26,7    |
+|Arena muy fina, 50-100 u (%)                                         |26,0    |28,3    |35,9    |34,1    |35,4    |
+|Arena fina, 100-250 u (%)                                            |21,1    |27,5    |13,8    |21,0    |20,8    |
+|Arena media, 250-500 u (%)                                           |3,0     |3,8     |3,0     |2,8     |3,1     |
+|Arena gruesa, 500-1000 u (%)                                         |4,2     |5,2     |3,1     |2,6     |3,0     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |0,69    |0,36    |2,18    |
+|Equivalente de humedad (%)                                           |15,2    |9,8     |21,6    |16,7    |16,5    |
+|pH en pasta                                                          |5,6     |6,5     |8,4     |9,0     |9,1     |
+|pH en agua (1:2,5)                                                   |5,9     |6,8     |9,0     |9,3     |9,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |4,9     |3,1     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,3     |0,6     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,4     |5,8     |5,9     |6,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |1,6     |2,7     |2,0     |1,7     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,8     |0,6     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,0     |6,0     |38,9    |45,7    |61,0    |
+|Suma de bases, meq/100 gr (S)                                        |7,8     |5,7     |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |9,8     |6,7     |14,9    |12,9    |10,0    |
+|Saturacion con bases, % (S/T)                                        |79,6    |85,1    |        |        |        |

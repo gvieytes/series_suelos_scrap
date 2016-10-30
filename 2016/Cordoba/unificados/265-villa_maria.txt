@@ -1,0 +1,49 @@
+Serie VILLA MARIA
+Argialbol tipico, franca gruesa a limosa gruesa, mixta, termica
+Indice de Productividad: 68
+
+La Serie Villa Maria es un suelo profundo, moderadamente bien drenado, desarrollado a partir de sedimentos loessicos, de textura franco limosa vinculados a un paisaje de planos chatos, ligeramente deprimidos. Los primeros 21 cm (horizonte A) o capa arable, son de textura franco limosa y estructura en bloques moderados a debiles, escasamente provisto de materia organica. Continua hacia abajo un horizonte lavado y decolorado (E), con baja fertilidad natural y poca capacidad de retencion de humedad, con escasos moteados de Fe. El subsuelo esta representado por un horizonte de acumulacion de arcilla (Bt), de textura franco limosa y estructura semicolumnar y prismas irregulares medios moderados, con barnices en la cara de los agregados y escasos moteados de Fe. El material original del suelo (horizonte Ck) aparece a 57 cm de profundidad, es de textura franco limosa, masivo, con abundante calcareo pulverulento en la masa del suelo.
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie Villa Maria fue descrito a 18 km al SE de Villa Maria, departamento Union, provincia de Cordoba.
+
+A	0-21 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro y suave.
+
+E	21-26 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; escasos moteados finos de Fe; limite inferior abrupto, ondulado.
+
+Bt	26-40 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura semicolumnar y prismatica media, moderada; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices comunes y medios; moteados de Fe escasos y finos; limite inferior claro, suave.
+
+BC	40-57 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas concreciones finas de calcio; escasos barnices; moteados de Fe escasos y finos; limite inferior abrupto, ondulado.
+
+Ck	57 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante carbonato pulverulento en la masa del suelo.
+
+Datos analiticos Serie VILLA MARIA
+Situacion: Latitud: 32o34'40"S Longitud: 63o11'59"O Altitud: 182 m.s.n.m.
+
+|Horizonte                                                            |A       |E       |Bt      |BC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-21    |21-26   |26-40   |40-57   |57 a +  |
+|Materia Organica (%)                                                 |2,24    |1,03    |0,51    |0,34    |        |
+|Carbono Organico (%)                                                 |1,3     |0,6     |0,3     |0,2     |        |
+|Nitrogeno total (%)                                                  |0,16    |0,09    |0,08    |        |        |
+|Relacion C/N                                                         |8,1     |6,7     |3,7     |        |        |
+|Arcilla, <2 u (%)                                                    |11,8    |11,0    |14,4    |11,0    |7,9     |
+|Limo, 2-50 u (%)                                                     |67,6    |66,7    |66,7    |65,6    |62,5    |
+|Arena muy fina, 50-100 u (%)                                         |13,5    |15,2    |12,4    |17,7    |23,3    |
+|Arena fina, 100-250 u (%)                                            |4,6     |4,6     |4,1     |4,6     |4,3     |
+|Arena media, 250-500 u (%)                                           |0,3     |0,6     |0,3     |0,3     |0,4     |
+|Arena gruesa, 500-1000 u (%)                                         |0,3     |0,4     |0,2     |0,2     |0,2     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |1,8     |3,9     |
+|Equivalente de humedad (%)                                           |23,6    |20,2    |26,5    |19,5    |17,7    |
+|pH en pasta                                                          |5,6     |6,3     |7,1     |7,6     |8,1     |
+|pH en agua (1:2,5)                                                   |5,8     |6,5     |7,2     |8,0     |8,5     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,9     |7,4     |13,8    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,5     |1,3     |2,4     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,1     |0,1     |0,3     |0,5     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,8     |2,6     |3,2     |2,9     |3,3     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,9     |1,0     |0,4     |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,4     |0,8     |0,5     |1,5     |3,5     |
+|Suma de bases, meq/100 gr (S)                                        |12,4    |11,4    |19,5    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,5    |12,6    |20,3    |19,7    |14,3    |
+|Saturacion con bases, % (S/T)                                        |86      |90      |90      |        |        |

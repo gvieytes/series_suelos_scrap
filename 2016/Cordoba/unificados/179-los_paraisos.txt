@@ -1,0 +1,47 @@
+Serie LOS PARAISOS
+Simbolo: LPa
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 62
+
+La Serie Los Paraisos es un suelo bien a algo excesivamente drenado, constituido por capas aluviales parcialmente edafizadas en sectores muy suavemente onduladas a planos dentro del abanico fluvial del rio Chocancharaua (Cuarto), a la altura de la localidad de La Carlota. Las texturas son en general variables y pueden ser francas, franco limosas a franco arenosas. No posee salinidad ni alcalinidad sodica hasta 60 cm de profundidad. La parte superficial o capa arable, de 20 cm de espesor, tiene textura franca con 8,2% de arcilla y estructura en bloques. Le sigue un horizonte ligeramente edafizado (horizonte AC) de textura franco limosa con 7,8% de arcilla y estructura en bloques debiles que se extiende hasta 43 cm de profundidad. Luego continua hasta 60 cm una capa de franco arenosa, masiva y presenta escasa reaccion al ClH en la masa del suelo. Desde 60 cm hasta mas de 85 cm se extiende la capa fluvial 3, que presenta textura franco limosa con ligera reaccion al ClH en la masa del suelo.
+
+Descripcion del perfil tipico:
+
+El perfil modal de esta Serie fue estudiado a 9,5 Km al Este de la localidad de La Carlota, departamento Juarez Celman, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; pH 7,9; raices abundantes; limite inferior claro, suave.
+
+AC	20-43 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 7,6; raices comunes; limite inferior abrupto.
+
+2	 43-60 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,4; escasa reaccion al ClH en la masa del suelo; vestigios de raices; limite inferior claro, abrupto.
+
+3	60 cm a +; color en humedo pardo amarillento (10YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,4; ligera reaccion al ClH en la masa del suelo.
+
+Datos Analiticos Serie LOS PARAISOS
+Situacion: Latitud: 33o22'20"S Longitud: 63o06'46"O Altitud: 123 m.s.n.m.
+|Horizonte                                                            |A       |AC      |2       |3       |
+|Profundidad de la muestra (cm)                                       |0-20    |20-43   |43-60   |60 a +  |
+|Materia Organica (%)                                                 |1,72    |        |        |        |
+|Carbono Organico (%)                                                 |1,0     |        |        |        |
+|Nitrogeno total (%)                                                  |0,18    |0,05    |        |        |
+|Relacion C/N                                                         |5,6     |        |        |        |
+|Arcilla, <2 u (%)                                                    |8,2     |7,8     |8,8     |0,4     |
+|Limo, 2-50 u (%)                                                     |42,4    |54,3    |24,0    |63,6    |
+|Arena muy fina, 50-100 u (%)                                         |31,9    |29,6    |53,9    |26,5    |
+|Arena fina, 100-250 u (%)                                            |9,0     |3,5     |5,6     |3,2     |
+|Arena media, 250-500 u (%)                                           |        |        |        |0,1     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |0,2     |1,1     |
+|Equivalente de humedad (%)                                           |16,6    |12,8    |13,0    |13,1    |
+|pH en pasta                                                          |7,0     |7,4     |8,2     |8,0     |
+|pH en agua (1:2,5)                                                   |7,9     |7,6     |8,4     |8,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,7     |5,3     |5,8     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,9     |0,8     |2,3     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,5     |0,2     |0,4     |1,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |0,4     |0,9     |0,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |3,6     |3,0     |4,3     |13,9    |
+|Suma de bases, meq/100 gr (S)                                        |13,7    |6,7     |9,4     |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |13,7    |6,7     |9,4     |10,1    |
+|Saturacion con bases, % (S/T)                                        |100     |100     |100     |        |

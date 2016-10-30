@@ -1,0 +1,52 @@
+Serie LA PLUMA
+Símbolo: LP
+Natracualf mólico, franca fina, mixta, térmica
+Índice de Productividad: 6
+
+Esta Serie corresponde a suelos de color claro, pobremente drenados, susceptibles a encharcamientos e inundación por desborde de lagunas, desarrollados sobre materiales de textura franca a franco limosa de origen eólico. Ocupan las posiciones cóncavas del relieve (depresiones y microdepresiones medanosas) aunque pueden encontrarse también al pié de pendientes suaves y largas. La capa arable es de poco espesor (15 cm promedio), franco limosa con mas de 50% de limo (horizonte A). Le sigue en profundidad un horizonte lixiviado (E) de color claro y reacción ligeramente alcalina. El subsuelo presenta un notable enriquecimiento en arcilla, es fuertemente alcalino sódico y se encuentra cementado en forma discontinua. A los 70 cm aparece un horizonte compacto y cementado (BCx) que se extiende hasta el metro de profundidad. Este nivel cementado es rígido y muy duro cuando está seco, pero se hace quebradizo en estado húmedo (fragipán). Las limitaciones que presentan estos suelos son severas. La parte superior del suelo, si bien es rica en materia orgánica, es de muy poco espesor. Las condiciones físicas del subsuelo están determinadas por la presencia de sodio que reduce la permeabilidad al agua y al aire. De acuerdo con la posición en el relieve, algunos individuos de la Serie presentan sales que afectan el perfil, el drenaje es muy pobre y la capa de agua freática se encuentra muy cerca de la superficie durante el otoño y el invierno.
+
+Descripción del perfil típico:
+
+El perfil típico de la Serie Hansen fue descrito a 10,5 km al ONO de la localidad de San Francisco de Santa Fe, departamento General López, provincia de Santa Fe.
+
+Ap	0-15 cm; color en húmedo pardo grisáceo muy oscuro (10YR3/2); color en seco pardo grisáceo (10YR5/2); franco limoso; estructura en bloques subangulares medios débiles a masivo; ligeramente duro en seco; friable en húmedo; no plástico; no adhesivo; moteados de FeMn escasos, finos y débiles; límite inferior abrupto, suave.
+
+E	15-25 cm; color en húmedo pardo oscuro (10YR3/3); color en seco gris pardusco claro (10YR6/2); franco limoso; masivo; duro en seco; friable en húmedo; no plástico; no adhesivo; moteados comunes, finos y débiles; compactado; límite inferior abrupto, suave.
+
+Btn	25-47 cm; color en húmedo pardo oscuro (7,5YR3/2); franco arcilloso; estructura columnar gruesa fuerte que rompe en prismas irregulares y bloques subangulares; duro en seco; firme en húmedo; plástico; adhesivo; barnices (clhm) abundantes y medios; moteados de FeMn comunes, finos y precisos.
+
+Bnm	47-70 cm; color en húmedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en prismas irregulares medios moderados que rompe en prismas menores y bloques subangulares; duro en seco; firme en húmedo; ligeramente plástico; ligeramente adhesivo; concreciones de Ca comunes y medias; barnices (clhm) abundantes y medios; moteados de FeMn comunes, finos y precisos; cementado el 50% del horizonte; límite inferior claro, suave.
+
+BCnx	70-100 cm; color en húmedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios fuertes; duro en seco; firme en húmedo; moderada reacción al ácido clorhídrico en la masa; concreciones de Ca escasas y medias; barnices (clhm) escasos y finos; moteados de FeMn comunes, finos y precisos; cementado el 30% del horizonte; límite inferior gradual.
+
+C	100 cm a +; color en húmedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; friable en húmedo; moderada reacción al ácido clorhídrico en la masa; moteados de FeMn comunes, finos y precisos.
+
+Datos analíticos Serie LA PLUMA
+Situación: Latitud: 33º32’26”S Longitud: 62º13’13”O Altitud: 111,5 m.s.n.m.
+|Horizonte                                                            |Ap      |E       |Btn     |Bnm     |BCnx     |C        |
+|Profundidad de la muestra (cm)                                       |0-15    |15-25   |25-47   |47-70   |70-100   |100 a +  |
+|Materia Organica (%)                                                 |2,55    |1,29    |0,67    |0,31    |0,24     |0,14     |
+|Carbono Organico (%)                                                 |1,48    |0,75    |0,37    |0,18    |0,14     |0,08     |
+|Nitrogeno total (%)                                                  |0,168   |0,107   |0,075   |0,046   |         |         |
+|Relacion C/N                                                         |8,8     |7,0     |4,9     |3,9     |         |         |
+|Arcilla, <2 u (%)                                                    |16,1    |14,2    |28,8    |16,3    |19,4     |14,4     |
+|Limo, 2-50 u (%)                                                     |53,8    |55,4    |50,0    |51,7    |52,0     |47,3     |
+|Arena muy fina, 50-100 u (%)                                         |28,8    |28,1    |22,0    |28,4    |24,0     |33,8     |
+|Arena fina, 100-250 u (%)                                            |1,8     |1,1     |0,8     |1,4     |1,9      |1,8      |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |         |         |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |         |         |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |         |         |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |0,95    |0,50     |0,95     |
+|Equivalente de humedad (%)                                           |18,5    |17,7    |28,9    |24,2    |27,3     |21,1     |
+|pH en pasta                                                          |5,3     |6,5     |8,0     |9,0     |9,0      |9,3      |
+|pH en agua (1:2,5)                                                   |5,4     |6,7     |8,3     |9,5     |9,4      |9,5      |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |5,5     |4,7     |6,3     |        |         |         |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,1     |1,0     |2,5     |        |         |         |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |1,3     |8,9     |10,4    |14,2     |11,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |1,8     |3,7     |4,0     |4,4      |3,5      |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,6     |1,5     |        |        |         |         |
+|Sodio de intercambio, % (PSI)                                        |1,6     |11,6    |42,4    |57,8    |56,8     |69,1     |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |4,56    |3,76     |         |
+|Suma de bases, meq/100 gr (S)                                        |9,4     |8,8     |21,4    |        |         |         |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,8    |11,2    |21,0    |18,0    |25,0     |16,5     |
+|Saturacion con bases, % (S/T)                                        |73      |78      |100     |        |         |         |

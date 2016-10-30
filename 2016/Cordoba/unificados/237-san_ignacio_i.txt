@@ -1,0 +1,47 @@
+Serie SAN IGNACIO I
+Udifluvent tipico, franca gruesa, mixta, termica
+Indice de Productividad: 37
+
+La Serie San Ignacio I es un suelo algo excesivamente bien drenado, desarrollado sobre materiales arenosos, vinculado a pequenos valles y laderas. El perfil esta formado por una sucesion de capas arenosas, con presencia de mica en algunas, abundantes y la superior presenta un contenido medio de materia organica (2,88%). Tambien en la ultima capa (4) se nota la presencia de abundante gravilla. Las pendientes dominantes van del 1 al 10%, con escurrimientos medios a rapidos, segun la pendiente, la permeabilidad es moderadamente rapida y no existe peligro de anegamiento.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 16 km al SO de la localidad de San Ignacio, departamento Calamuchita, provincia de Cordoba
+
+1	0-19 cm; color en humedo pardo oscuro (10YR3/3); arenoso; masivo; muy friable en humedo; pH 6,5; raices abundantes; presencia de mica; limite inferior abrupto suave.
+
+2	19-42 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares muy debiles; muy friable en humedo; pH 7,3; raices escasas; abundante mica; limite inferior abrupto suave.
+
+3	42-72 cm; color en humedo pardo oscuro (10YR3/3); arenoso; grano suelto; muy friable en humedo; pH 7,4; presencia de mica; limite inferior abrupto.
+
+4	72 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; masivo; pH 7,6; presencia de mica; abundante gravilla.
+
+Datos analiticos Serie SAN IGNACIO I
+Situacion: Latitud: 32o16'S Longitud: 64o39'O Altitud: 750 m.s.n.m.
+
+|Horizonte                                                            |1       |2       |3       |4       |
+|Profundidad de la muestra (cm)                                       |0-19    |19-42   |42-72   |72 a +  |
+|Materia Organica (%)                                                 |2,76    |1,72    |        |        |
+|Carbono Organico (%)                                                 |1,6     |1,0     |        |        |
+|Nitrogeno total (%)                                                  |0,19    |        |        |        |
+|Relacion C/N                                                         |8       |        |        |        |
+|Arcilla, <2 u (%)                                                    |0,8     |6,6     |2,5     |8,8     |
+|Limo, 2-50 u (%)                                                     |19,4    |19,5    |21,7    |24,6    |
+|Arena muy fina, 50-100 u (%)                                         |7,6     |7,2     |6,6     |8,4     |
+|Arena fina, 100-250 u (%)                                            |40,6    |40,0    |36,0    |32,6    |
+|Arena media, 250-500 u (%)                                           |12,9    |9,2     |9,5     |9,4     |
+|Arena gruesa, 500-1000 u (%)                                         |13,7    |14,0    |19,8    |13,2    |
+|Arena muy gruesa, 1-2 mm (%)                                         |3,8     |3,2     |3,1     |2,5     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |10,7    |11,2    |12,2    |12,7    |
+|pH en pasta                                                          |5,3     |7,0     |7,1     |7,4     |
+|pH en agua (1:2,5)                                                   |6,5     |7,3     |7,4     |7,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,1     |11,8    |10,2    |11,3    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,3     |0,9     |0,9     |0,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,3     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,2     |0,2     |0,2     |0,4     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,6     |0,4     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                        |2,2     |2,2     |1,7     |2,3     |
+|Suma de bases, meq/100 gr (S)                                        |7,8     |13,2    |11,5    |12,9    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |9,3     |13,7    |11,9    |12,9    |
+|Saturacion con bases, % (S/T)                                        |84      |96      |97      |100     |

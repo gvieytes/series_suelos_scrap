@@ -1,0 +1,58 @@
+Serie EL CANDIL
+Simbolo: ECd
+Natralbol tipico, limosa fina, mixta, termica
+Indice de Productividad: 24
+
+La Serie El Candil es un suelo moderadamente bien drenado, desarrollado sobre materiales franco limosos de los planos chatos y deprimidos. Tienen moderada alcalinidad sodica a partir de los 20 cm aumentando considerablemente en profundidad y con moderado contenido de sales solubles a partir de los 50 cm aproximadamente. La parte superficial del suelo se divide en dos horizontes: uno superior (horizonte Ap) hasta los 10 cm de color pardo grisaceo muy oscuro y estructura en bloques subangulares y otro inferior (horizonte E) algo mas claro y duro en seco de mas o menos 8 cm de espesor; ambos horizontes tienen textura franco limosa. A los 18 cm pasa abruptamente a un material mas arcilloso (horizonte Bt), de color pardo oscuro y estructura columnar gruesa, que se extiende hasta los 52 cm Esta parte del perfil es moderadamente alcalino sodico, limitando el desarrollo normal de las raices. El substrato (horizonte Ck) se encuentra aproximadamente a 97 cm de profundidad, es de color pardo, de textura franco limosa y con abundante calcareo libre en la masa.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa a los suelos de esta Serie ha sido estudiado a 13,5 km al NNO de Leones, departamento Marcos Juarez, provincia de Cordoba.
+
+Ap	0-10 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; moteados escasos, finos y debiles; limite inferior abrupto, suave.
+
+E	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques angulares medios moderados; friable en humedo; moteados escasos, finos y debiles; limite inferior abrupto, ondulado.
+
+Btn	18-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso a franco arcillo limoso; estructura columnar gruesa fuerte, rompe en prismas irregulares medios moderados; firme; plastico; adhesivo; barnices "Clay Skins" abundantes y gruesos; moteados comunes, finos y precisos; escasas concreciones calcareas finas; limite inferior claro, suave.
+
+BC	52-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados y prismas debiles; friable en humedo; barnices "Clay Skins" escasos y finos; moteados escasos, finos y debiles; escasos durinodulos; escasas concreciones calcareas finas; limite inferior abrupto, ondulado.
+
+Ck	97 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante calcareo libre en la masa; moteados escasos, finos y debiles; escasos durinodulos finos.
+
+Datos analiticos Serie EL CANDIL
+Situacion: Latitud: 32o33'20"S Longitud: 62o22'59"O Altitud: 114 m.s.n.m.
+|Horizonte                                                            |Ap      |E       |Btn     |BC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-10    |10-18   |18-52   |52-97   |97 a +  |
+|Materia Organica (%)                                                 |2,73    |2,15    |1,13    |0,24    |0,17    |
+|Carbono Organico (%)                                                 |1,59    |1,25    |0,66    |0,14    |0,10    |
+|Nitrogeno total (%)                                                  |0,14    |0,12    |0,08    |0,04    |        |
+|Relacion C/N                                                         |11,3    |10,4    |8,2     |3,5     |        |
+|Arcilla, <2 u (%)                                                    |19,6    |17      |24,6    |        |13,0    |
+|Limo, 2-50 u (%)                                                     |71,9    |72,3    |67,7    |        |72,9    |
+|Arena muy fina, 50-100 u (%)                                         |8,4     |9,0     |6,5     |        |10,2    |
+|Arena fina, 100-250 u (%)                                            |0,3     |0,2     |0,4     |        |0,9     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |0,2     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |0,2     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |5,44    |
+|Equivalente de humedad (%)                                           |25,7    |25,2    |31      |27,2    |24,6    |
+|pH en pasta                                                          |5,7     |6,3     |7,2     |7,9     |9,4     |
+|pH en agua (1:2,5)                                                   |6,1     |6,5     |7,7     |8,2     |9,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,6    |9,0     |13,1    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,3     |3,0     |5,2     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,5     |1,5     |4,7     |        |10,6    |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,5     |1,7     |3,5     |        |4,3     |
+|Cationes de intercambio, meq/100 gr (H+)                             |3,1     |2,6     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,6     |9,4     |17,9    |        |62,0    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |13,3    |3,56    |
+|Suma de bases, meq/100 gr (S)                                        |16,9    |15,2    |26,8    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,6    |16,0    |26,3    |23,6    |17,1    |
+|Saturacion con bases, % (S/T)                                        |86      |95      |100     |        |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |        |26,0    |        |
+|C.EXT.S ME/l-Mg++                                                    |        |        |        |11,2    |        |
+|C.EXT.S ME/l-Na+                                                     |        |        |        |120,0   |        |
+|C.EXT.S ME/l-K+                                                      |        |        |        |4,0     |        |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |        |7,2     |        |
+|C.EXT.S ME/l-SO4=                                                    |        |        |        |131,0   |        |
+|C.EXT.S ME/l-Cl-                                                     |        |        |        |22,4    |        |

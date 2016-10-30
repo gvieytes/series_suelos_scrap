@@ -1,0 +1,47 @@
+Serie VILLA HUIDOBRO
+Simbolo: VHd
+Haplustol tipico, franca fina, mixta, termica
+Indice de Productividad: 60
+Capacidad de uso: IIIsc
+
+La Serie Villa Huidobro, es un suelo bien drenado, desarrollado sobre materiales francos y vinculado a lomas planas y pendientes al Sur-Sudoeste de Villa Huidobro. La capa arable de 20 cm de espesor es de color pardo grisaceo muy oscuro y estructura en bloques moderados, luego pasa a un horizonte B (cambico) de color pardo amarillento oscuro y estructura en bloques. El material originario (horizonte C) se encuentra a 38 cm de profundidad, es de textura franca y con abundante calcareo pulverulento en la masa. Son suelos agricolas, con moderado contenido de materia organica y buena retencion de humedad, siendo el clima su principal limitacion.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que responde a la Serie Villa Huidobro, fue estudiado a 8,5 Km al SO de Villa Huidobro, departamento General Roca, provincia de Cordoba.
+
+Ap	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios, moderados y granular; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+
+Bw	20-38 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos; limite inferior abrupto, suave.
+
+Ck	38 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; masivo; ligeramente plastico; ligeramente adhesivo; abundante calcareo pulverulento en la masa del suelo.
+
+Datos analiticos Serie VILLA HUIDOBRO
+Situacion: Latitud: 34o54'S Longitud: 64o39'O Altitud: 251 m.s.n.m.
+
+|Horizonte                                                            |Ap      |Bw      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-38   |38 a +  |
+|Materia Organica (%)                                                 |1,79    |0,89    |        |
+|Carbono Organico (%)                                                 |0,98    |0,52    |        |
+|Nitrogeno total (%)                                                  |0,095   |0,073   |        |
+|Relacion C/N                                                         |10,3    |7,1     |        |
+|Arcilla, <2 u (%)                                                    |19,8    |20,8    |16,7    |
+|Limo, 2-50 u (%)                                                     |36,9    |37,3    |37,9    |
+|Arena muy fina, 50-100 u (%)                                         |18,1    |18,6    |19,3    |
+|Arena fina, 100-250 u (%)                                            |23,4    |23,3    |25,5    |
+|Arena media, 250-500 u (%)                                           |1,1     |0,9     |1,2     |
+|Arena gruesa, 500-1000 u (%)                                         |1,1     |1,0     |1,0     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |4,27    |
+|Equivalente de humedad (%)                                           |22,8    |21,2    |20,2    |
+|pH en pasta                                                          |6,1     |6,8     |7,7     |
+|pH en agua (1:2,5)                                                   |6,4     |7,2     |8,0     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |14,1    |17,7    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,1     |0,7     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,1     |0,1     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,0     |1,5     |1,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |1,6     |        |
+|Sodio de intercambio, % (PSI)                                        |0,5     |0,5     |1,8     |
+|Suma de bases, meq/100 gr (S)                                        |17,0    |20,0    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |18,7    |20,6    |16,5    |
+|Saturacion con bases, % (S/T)                                        |92      |97      |        |

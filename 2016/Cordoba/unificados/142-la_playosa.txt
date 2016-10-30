@@ -1,0 +1,60 @@
+Serie LA PLAYOSA
+Simbolo: LPs
+Natrustol tipico, limosa fina, mixta, termica
+Indice de Productividad: 15
+
+La Serie La Playosa es un suelo moderadamente bien drenado, alcalino a partir de 32 cm de profundidad. Se ha desarrollado sobre sedimentos eolicos franco limosos en lomas planas o muy suavemente onduladas. Se lo encuentra tambien en lineas de escurrimiento poco manifiestas en sus fases por anegamiento y acumulacion. La parte superficial es de 21 cm de espesor, con textura franco limosa, estructura en bloques subangulares medios con ligeras evidencias de lixiviacion (Ap); se sigue hasta 32 cm un horizonte de transicion algo enriquecido en arcilla (horizonte AB); continua hasta 65 cm un horizonte de textura franco arcillo limosa a franco limosa (Bt) de estructura prismatica; esta parte del perfil es moderadamente sodica (13% de sodio de intercambio aumentando en profundidad) con moderada salinidad en la base. Hasta 80 cm se extiende un horizonte de transicion (BCz) con alcalinidad y salinidad moderada a fuerte. El material originario es franco limoso y masivo con calcareo libre en la masa del suelo.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie La Playosa fue estudiado a 14,2 km al SSO de Pozo del Molle, departamento General San Martin, provincia de Cordoba.
+
+Ap	0-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios finos y moderados; moteados escasos, finos y debiles; sintomas de lavado; raices comunes; limite inferior abrupto, suave.
+
+AB	21-32 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a bloques; friable en humedo; barnices humico arcillosos escasos y finos; moteados escasos, finos y debiles; raices escasas, limite inferior claro, suave.
+
+Btn	32-65 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a prismas y bloques; friable en humedo; plastico; ligeramente adhesivo; barnices humico arcillosos escasos a abundantes; moteados comunes, finos y debiles; vestigios de raices; limite inferior gradual, suave.
+
+BCzn	65-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso a franco limoso; estructura en prismas irregulares moderados a debiles rompe a bloques; ligeramente plastico; no adhesivo; barnices arcillosos escasos y finos; pseudomicelios salinos comunes; limite inferior abrupto, suave.
+
+Ckz	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; reaccion violenta al ClH en la masa del suelo; escasos durinodulos finos.
+
+Datos analiticos Serie LA PLAYOSA
+Situacion: Latitud: 32o08'20"S Longitud: 62o58'11"O Altitud: 163 m.s.n.m.
+|Horizonte                                                            |Ap      |AB      |Btn     |BCzn    |Ckz     |
+|Profundidad de la muestra (cm)                                       |0-21    |21-32   |32-65   |65-80   |80 a +  |
+|Materia Organica (%)                                                 |2,52    |2,34    |0,76    |0,47    |0,43    |
+|Carbono Organico (%)                                                 |1,46    |1,36    |0,44    |0,27    |0,25    |
+|Nitrogeno total (%)                                                  |0,15    |0,13    |0,06    |        |        |
+|Relacion C/N                                                         |9,7     |10,4    |7,3     |        |        |
+|Arcilla, <2 u (%)                                                    |23,0    |27,5    |33,3    |28,1    |22,7    |
+|Limo, 2-50 u (%)                                                     |68,4    |66,4    |59,4    |62,8    |67,2    |
+|Arena muy fina, 50-100 u (%)                                         |8,5     |7,6     |7,8     |9,0     |7,9     |
+|Arena fina, 100-250 u (%)                                            |0,6     |0,3     |0,5     |0,8     |0,5     |
+|Arena media, 250-500 u (%)                                           |0,1     |        |        |0,1     |        |
+|Arena gruesa, 500-1000 u (%)                                         |0,1     |        |        |0,1     |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |2,80    |
+|Equivalente de humedad (%)                                           |24,8    |25,0    |26,1    |25,7    |25,0    |
+|pH en pasta                                                          |5,3     |5,4     |6,1     |6,6     |8,0     |
+|pH en agua (1:2,5)                                                   |5,6     |5,6     |6,5     |7,0     |8,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,5     |10,5    |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,5     |2,1     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,3     |        |        |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,8     |1,7     |        |        |        |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,7     |2,5     |0,9     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                        |1,2     |1,7     |14      |38      |40      |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |9,12    |25,5    |25,5    |
+|Suma de bases, meq/100 gr (S)                                        |13,0    |14,6    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,3    |17,5    |20,6    |20,0    |16,9    |
+|Saturacion con bases, % (S/T)                                        |79      |83      |        |        |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |27,2    |30,4    |28,7    |
+|C.EXT.S ME/l-Mg++                                                    |        |        |10,7    |8,4     |9,6     |
+|C.EXT.S ME/l-Na+                                                     |        |        |50,0    |214,4   |216,4   |
+|C.EXT.S ME/l-K+                                                      |        |        |2,0     |4,8     |4,2     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |1,6     |4,8     |3,2     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |11,1    |162,8   |176,5   |
+|C.EXT.S ME/l-Cl-                                                     |        |        |80,0    |91,2    |75,2    |
+
+

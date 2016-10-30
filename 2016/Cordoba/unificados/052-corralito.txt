@@ -1,0 +1,49 @@
+Serie CORRALITO
+Simbolo: Clt
+Haplustol tipico, limosa gruesa, mixta, termica
+Indice de Productividad: 71
+Capacidad de uso: IIIec
+
+Esta Serie corresponde a suelos profundos dominantes en las lomas muy suavemente onduladas y pendientes regionales de la plataforma basculada o Pampa Loessica Alta. Es un suelo bien drenado, desarrollado sobre loess franco limoso a franco, con horizonte subsuperficial estructurado en bloques debiles; es profundo, bien drenado y susceptible en diferente grado a la erosion hidrica. Conforma siempre unidades compuestas con otras Series y/o fases de la misma Serie. El proceso erosivo se manifiesta normalmente en forma de surcos y/o zanjas. Presenta un horizonte superior de color oscuro (a veces muy degradado tanto fisica como quimicamente) de color pardo grisaceo oscuro, textura franco limosa y pH ligeramente acido, que se extiende hasta 20 cm. Continua hacia abajo un horizonte subsuperficial con estructura en bloques debiles de textura franco limosa (Bw), con escasos barnices en las caras de los agregados que se extiende hasta 37 cm. Luego de una transicion (BC), aparece el horizonte C o material originario con carbonatos libres en la masa del suelo.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 3,5 km al SE de la localidad de Corralito, departamento Tercero Arriba, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 6,6; raices comunes; limite inferior claro, suave.
+
+Bw	20-37 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques debiles; friable en humedo; ligeramente plastico; no adhesivo; barnices escasos de arcilla y humus; pH 7,2; raices escasas; limite inferior gradual.
+
+BC	37-62 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo tendencia a estructura en bloques debiles; no plastico; no adhesivo; friable en humedo; pH 7,3; limite inferior abrupto, ondulado.
+
+Ck	62 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; muy friable en humedo; pH 7,7; violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie CORRALITO
+Situacion: Latitud: 32o03'00"S Longitud: 64o10'15"O Altitud: 437 m.s.n.m.
+
+|Horizonte                                                             |A       |Bw      |BC      |Ck      |
+|Profundidad de la muestra (cm)                                        |0-20    |20-37   |37-62   |62 a +  |
+|Materia Organica (%)                                                  |2,59    |1,55    |0,86    |0,52    |
+|Carbono Organico (%)                                                  |1,5     |0,9     |0,5     |0,3     |
+|Nitrogeno total (%)                                                   |0,14    |        |        |        |
+|Relacion C/N                                                          |10,7    |        |        |        |
+|Arcilla, <2 u (%)                                                     |15,7    |17,7    |15,9    |13,9    |
+|Limo, 2-50 u (%)                                                      |72,4    |71,6    |70,2    |69,4    |
+|Arena muy fina, 50-100 u (%)                                          |11,0    |10,6    |13,0    |14,4    |
+|Arena fina, 100-250 u (%)                                             |1,2     |0,7     |0,7     |1,4     |
+|Arena media, 250-500 u (%)                                            |0,3     |0,1     |        |0,1     |
+|Arena gruesa, 500-1000 u (%)                                          |0,3     |0,1     |0,1     |0,3     |
+|Arena muy gruesa, 1-2 mm (%)                                          |0,3     |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |4,91    |
+|Equivalente de humedad (%)                                            |24,0    |27,5    |25,3    |24,0    |
+|pH en pasta                                                           |5,9     |6,6     |6,9     |7,7     |
+|pH en agua (1:2,5)                                                    |6,6     |7,2     |7,3     |8,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |11,2    |13,0    |14,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |2,0     |3,2     |1,2     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,3     |0,3     |0,3     |0,6     |
+|Cationes de intercambio, meq/100 gr (K+)                              |3,0     |2,0     |1,1     |1,2     |
+|Cationes de intercambio, meq/100 gr (H+)                              |1,4     |0,5     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                         |1,8     |1,6     |1,8     |3,7     |
+|Suma de bases, meq/100 gr (S)                                         |15,5    |16,5    |16,9    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |16,8    |19,0    |17,1    |16,3    |
+|Saturacion con bases, % (S/T)                                         |92      |97      |99      |        |

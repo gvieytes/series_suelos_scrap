@@ -1,0 +1,60 @@
+Serie LA VICTORIA
+Simbolo: LVt
+Natralbol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 14
+
+La Serie La Victoria es un suelo salino alcalino, moderadamente bien drenado, desarrollado sobre materiales franco a franco arenosos, de areas deprimidas ubicadas en un pequeno sector SO. La parte superficial del suelo de 30 cm de espesor, es de textura franca a franco arenosa. La parte superior (horizonte Ap) es de color pardo oscuro, estructura en bloques y llega hasta los 17 cm aproximadamente, la parte inferior (horizonte E) es algo mas claro, estructura masiva a bloques debiles y con moteados finos de Fe. Luego pasa en forma abrupta a un horizonte mas arcilloso (horizonte Bt), de textura franca, de color pardo amarillento oscuro y estructura prismatica con escasos barnices humico arcillosos; la base de este horizonte se extiende hasta los 54 cm. El material originario (horizonte C) aparece a los 73 cm de profundidad; es de textura franca a franco arenosa, masiva, muy friable y con abundante calcareo diseminado en la masa del suelo a partir de los 90 cm de profundidad. La alcalinidad sodica y la salinidad limitan el uso de este suelo.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa a los suelos de esta Serie ha sido estudiado a 21,3 km al SO de Wenceslao Escalante, departamento Union, provincia de Cordoba.
+
+Ap	0-17 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados y granular; friable en humedo; limite inferior abrupto, suave.
+
+Ez	17-30 cm; color en humedo pardo (10YR5/3); franco arenoso a franco; masivo con tendencia a estructura en bloques debiles; muy friable en humedo; moteados comunes, finos y precisos; limite inferior abrupto, suave.
+
+Btn	30-54 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas irregulares medios moderados, rompen en bloques; friable en humedo; abundantes barnices humico arcillosos medios; moteados abundantes, medios y precisos; escasas concreciones calcareas muy finas; limite inferior gradual, suave.
+
+BC	54-73 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arenoso; estructura en bloques subangulares medios debiles; muy friable en humedo; escasos barnices arcillosos finos; moteados comunes, medios y precisos; pequenos nucleos cementados; escasas concreciones calcareas muy finas; limite inferior gradual, suave.
+
+Cz	73-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco a franco arenoso; masivo; muy friable en humedo; escasas concreciones calcareas finas; limite inferior abrupto, suave.
+
+Ckz	90 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco arenoso; masivo; muy friable en humedo; abundante calcareo diseminado en la masa del suelo.
+
+Datos analiticos Serie LA VICTORIA
+Situacion: Latitud: 33o18'13"S Longitud: 62o56'03"O Altitud: 114 m.s.n.m.
+|Horizonte                                                            |Ap      |Ez      |Btn     |BC      |Cz      |Ckz     |
+|Profundidad de la muestra (cm)                                       |0-17    |17-30   |30-54   |54-73   |73-90   |90 a +  |
+|Materia Organica (%)                                                 |1,96    |        |0,33    |0,21    |        |0,19    |
+|Carbono Organico (%)                                                 |1,14    |        |0,19    |0,12    |        |0,11    |
+|Nitrogeno total (%)                                                  |0,125   |0,043   |0,040   |0,029   |0,023   |0,023   |
+|Relacion C/N                                                         |9,1     |        |4,7     |4,1     |        |4,7     |
+|Arcilla, <2 u (%)                                                    |15,5    |8,5     |17,2    |15,1    |13,1    |12,1    |
+|Limo, 2-50 u (%)                                                     |38,9    |43,9    |38,1    |36,9    |35,8    |38,8    |
+|Arena muy fina, 50-100 u (%)                                         |43,3    |42,8    |41,7    |44,2    |43,0    |45,0    |
+|Arena fina, 100-250 u (%)                                            |1,8     |2,9     |4,4     |3,3     |7,1     |3,5     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |0,47    |0,09    |0,147   |        |1,02    |
+|Equivalente de humedad (%)                                           |1,7     |14,1    |22,0    |21,1    |16,3    |15,1    |
+|pH en pasta                                                          |5,2     |7,4     |8,2     |8,6     |8,5     |8,6     |
+|pH en agua (1:2,5)                                                   |5,6     |8,9     |9,2     |9,3     |9,2     |9,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |4,9     |        |6,4     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,9     |        |1,9     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,6     |        |8,2     |        |        |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,5     |        |2,7     |        |        |        |
+|Cationes de intercambio, meq/100 gr (H+)                             |4,1     |        |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |4,3     |        |44,6    |        |        |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |19,25   |6,03    |12,87   |18,22   |16,55   |
+|Suma de bases, meq/100 gr (S)                                        |9,9     |        |19,2    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,0    |16,2    |18,4    |18,5    |15,6    |14,5    |
+|Saturacion con bases, % (S/T)                                        |70      |        |100     |        |        |        |
+|C.EXT.S ME/l-Ca++                                                    |        |20,9    |8,8     |10,0    |11,5    |11,8    |
+|C.EXT.S ME/l-Mg++                                                    |        |11,2    |        |6,5     |7,3     |6,2     |
+|C.EXT.S ME/l-Na+                                                     |        |196,0   |52,0    |121,0   |180,0   |172,0   |
+|C.EXT.S ME/l-K+                                                      |        |3,9     |1,15    |2,2     |3,0     |2,5     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |3,0     |5,4     |4,0     |3,0     |6,8     |
+|C.EXT.S ME/l-SO4=                                                    |        |124,0   |19,7    |72,8    |101,0   |96,0    |
+|C.EXT.S ME/l-Cl-                                                     |        |104,0   |33,9    |66,4    |105,0   |92,4    |

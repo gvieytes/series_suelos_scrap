@@ -1,0 +1,42 @@
+Serie VILLA GENERAL BELGRANO
+Hapludol éntico, franca fina, mixta, térmica
+Índice de Productividad: 54
+
+Se trata de un suelo sin desarrollo de perfil genético, vinculado a pendientes alargadas y desarrollado a partir de materiales franco arcillo limosos. La capa 1, rica en materia orgánica (4,47%), es de textura franco arcillo limosa, estructura en bloques subangulares medios moderados y tiene una potencia de 17 cm. Se continúa con otra capa de textura franca a franco arcillo limosa con abundante carbonato de calcio diseminado en la masa del suelo.
+
+Descripción del perfil típico:
+
+El perfil típico que responde a esta Serie, fue estudiado a 5 Km al Oeste de Villa General Belgrano, departamento Calamuchita, provincia de Córdoba.
+
+1	0-17 cm; color en húmedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en bloques subangulares medios, moderados; friable en húmedo; plástico; adhesivo; pH 7,1; raíces abundantes; límite inferior abrupto, suave.
+
+2k	17 cm a +; color en húmedo pardo amarillento oscuro (10YR4/4); franco a franco arcillo limoso; estructura en bloques subangulares medios, moderados; friable en húmedo; ligeramente plástico; ligeramente adhesivo; pH 8,1; fuerte reacción al ácido clorhídrico.
+
+Datos analíticos Serie VILLA GENERAL BELGRANO
+Situación: Latitud: 31º56’S Longitud: 64º37’O - Altitud: 850 m.s.n.m.
+|Horizonte                                                            |1       |2k      |
+|Profundidad de la muestra (cm)                                       |0-17    |17 a +  |
+|Materia Organica (%)                                                 |4,47    |        |
+|Carbono Organico (%)                                                 |2,6     |        |
+|Nitrogeno total (%)                                                  |0,3     |        |
+|Relacion C/N                                                         |9       |        |
+|Arcilla, <2 u (%)                                                    |31,8    |33,4    |
+|Limo, 2-50 u (%)                                                     |54,1    |46,4    |
+|Arena muy fina, 50-100 u (%)                                         |3,8     |4,0     |
+|Arena fina, 100-250 u (%)                                            |2,6     |6,6     |
+|Arena media, 250-500 u (%)                                           |1,6     |4,5     |
+|Arena gruesa, 500-1000 u (%)                                         |2,6     |0,9     |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,5     |1,9     |
+|Carbonatos, CaCO3 (%)                                                |        |1,5     |
+|Equivalente de humedad (%)                                           |30,6    |29,3    |
+|pH en pasta                                                          |6,9     |7,8     |
+|pH en agua (1:2,5)                                                   |7,1     |8,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,7    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,9     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,1     |1,5     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,9     |        |
+|Sodio de intercambio, % (PSI)                                        |2,1     |1,8     |
+|Suma de bases, meq/100 gr (S)                                        |18,1    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,2    |17,0    |
+|Saturacion con bases, % (S/T)                                        |94      |        |

@@ -1,0 +1,54 @@
+Serie FLORA
+
+Argialbol argiacuico, franca fina, mixta, termica
+Indice de Productividad: 68
+
+La Serie Flora es un suelo oscuro e imperfectamente drenado, de los bajos del pie del primer escalon estructural, al Norte de la localidad de Saira. Se han desarrollado a partir de sedimentos de textura franco limosa. La parte superficial del suelo, de unos 40 cm de espesor, es de textura franco limosa. La parte superior (horizonte A) esta bien provista de materia organica, es de color pardo grisaceo muy oscuro, estructura en bloques y llega hasta los 27 cm aproximadamente; la parte inferior (horizonte E) es algo mas claro, lixiviado, estructura en bloques debiles con tendencia a masivo y con pequenos moteados de Fe. Hacia abajo, pasa en forma abrupta al horizonte mas arcilloso (Bt), que se extiende hasta los 66 cm, de color pardo oscuro, estructura columnar y abundantes moteados de Fe. La transicion entre el Bt y el material originario (horizonte C) es gradual. Este ultimo se encuentra a una profundidad de 116 cm, de textura franco limosa, suelta, y con abundante calcareo diseminado en la masa.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue estudiado a 3,5 Km al ONO de la localidad de Saira, departamento Marcos Juarez, provincia de Cordoba.
+
+Ap	0-15 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; moteados escasos, finos y debiles; limite inferior abrupto, suave.
+
+A	15-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; moteados escasos, finos y debiles; limite inferior claro, suave.
+
+E	27-40 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios debiles, tendencia a masivo; moteados escasos, finos y debiles; limite inferior abrupto, suave.
+
+Bt	40-66 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura columnar gruesa moderada, rompe a prismas irregulares medios moderados; friable a firme en humedo; plastico; adhesivo; barnices "Clay Skins" comunes medios; moteados comunes, gruesos y sobresalientes; moteados comunes a abundantes, finos y precisos; limite inferior claro, suave.
+
+B	66-95 cm; color en humedo pardo (7,5YR5/2); franco limoso; estructura en prismas irregulares medios moderados, rompe a bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" comunes y medios; moteados comunes, gruesos y sobresalientes; concreciones calcareas escasas y finas; limite inferior gradual, suave.
+
+BC	95-116 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; barnices "Clay Skins" escasos finos; moteados comunes, gruesos y sobresalientes; escasos durinodulos finos; concreciones calcareas comunes, finas y medias; limite inferior abrupto, suave.
+
+Ck	116 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
+
+Datos analiticos Serie FLORA
+Situacion: Latitud: 32o23'44"S Longitud: 63o08'17"O Altitud: 96 m.s.n.m.
+
+|Horizonte                                                        |Ap      |A       |E       |Bt      |B       |BC      |Ck      |
+|Profundidad de la muestra (cm)                                   |0-15    |15-27   |27-40   |40-66   |66-95   |95-116  |116 a + |
+|Materia Organica (%)                                             |3,52    |2,60    |1,15    |0,41    |0,28    |0,28    |0,24    |
+|Carbono Organico (%)                                             |2,05    |1,51    |0,67    |0,24    |0,16    |0,16    |0,14    |
+|Nitrogeno total (%)                                              |0,202   |0,137   |0,078   |0,053   |0,042   |0,039   |0,031   |
+|Relacion C/N                                                     |10,1    |11,0    |8,6     |4,5     |3,8     |4,1     |4,5     |
+|Arcilla, <2 u (%)                                                |22,5    |23,1    |17,7    |27,6    |24,9    |18,4    |15,5    |
+|Limo, 2-50 u (%)                                                 |72,1    |71,2    |75,4    |66,0    |70,1    |72,3    |73,1    |
+|Arena muy fina, 50-100 u (%)                                     |6,0     |5,3     |6,5     |4,8     |4,2     |6,2     |8,5     |
+|Arena fina, 100-250 u (%)                                        |0,7     |0,7     |0,9     |0,8     |1,0     |1,8     |1,5     |
+|Arena media, 250-500 u (%)                                       |        |        |        |        |        |0,2     |        |
+|Arena gruesa, 500-1000 u (%)                                     |        |        |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                     |        |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                            |        |        |        |        |0,13    |0,48    |4,00    |
+|Equivalente de humedad (%)                                       |26,3    |26,8    |23,1    |29,2    |33,5    |29,2    |26,7    |
+|pH en pasta                                                      |5,7     |6,7     |6,3     |6,6     |7,0     |7,7     |8,1     |
+|pH en agua (1:2,5)                                               |5,9     |6,9     |6,8     |7,0     |7,6     |8,1     |8,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                       |10,3    |9,9     |8,8     |14,7    |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                       |2,1     |1,8     |1,7     |3,7     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                        |0,4     |0,4     |0,4     |0,6     |1,0     |0,6     |0,6     |
+|Cationes de intercambio, meq/100 gr (K+)                         |2,9     |2,1     |1,5     |2,8     |2,6     |2,6     |2,1     |
+|Cationes de intercambio, meq/100 gr (H+)                         |2,8     |2,5     |1,5     |1,0     |        |        |        |
+|Sodio de intercambio, % (PSI)                                    |2,1     |2,3     |2,7     |2,5     |3,8     |2,1     |2,8     |
+|Suma de bases, meq/100 gr (S)                                    |15,7    |14,2    |12,4    |21,8    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)               |18,8    |17,2    |14,8    |23,6    |26,3    |27,6    |21,5    |
+|Saturacion con bases, % (S/T)                                    |83      |82      |84      |92      |        |        |        |

@@ -1,0 +1,58 @@
+Serie ARROYO TORTUGAS
+Simbolo: ATg
+Natracualf tipico, limosa fina, mixta, termica
+Indice de Productividad: 4
+
+Son suelos fuertemente alcalino-sodicos y muy pobremente drenados, desarrollados sobre materiales franco limosos finos. Ocupan las vias de escurrimiento de los planos chatos y deprimidos relacionados al arroyo Tortugas. Como caracteres destacables estos suelos muestran un horizonte superficial, de 13 cm de espesor promedio, de color pardo grisaceo muy oscuro, de textura franco limosa y estructura en bloques. Luego se pasa abruptamente a un horizonte mas arcilloso (Bt) que se extiende hasta los 105 cm de profundidad. Presentan alcalinidad sodica desde la superficie, lo que resulta una severa limitante para el desarrollo de las raices de las plantas, y los sintomas de gleyzacion a partir de 100 cm de profundidad indican el drenaje muy pobre de estos suelos. Los suelos de esta Serie no han sido mapeados como unidades simples ya que siempre se encuentran formando unidades complejas donde se mezclan en patrones muy intrincados, con otros suelos alcalinos. Por lo general son dedicados a pasturas (campos naturales de pastoreo) y no poseen aptitud para ninguno de los cultivos comunes de la zona.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa a los suelos de esta Serie, ha sido estudiado a 16,2 km al Oeste de la localidad de Montes de Oca, departamento Marcos Juarez, provincia de Cordoba.
+
+A	0-13 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; moteados escasos, finos y debiles; lentes de material decolorado; limite inferior abrupto, suave.
+
+Btnz	13-47 cm; color en humedo pardo oscuro (7,5YR3/3); franco arcillo limoso; estructura en prismas irregulares medios y finos moderados, rompen a bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes, medios; moteados comunes, finos y debiles; limite inferior claro, suave.
+
+Btnz2	47-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados a debiles, rompen a bloques subangulares medios, moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes, finos; moteados escasos, finos y debiles; poroso; abundantes concreciones calcareas; limite inferior claro, suave.
+
+Btnz3	70-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios debiles y bloques subangulares medios moderados; plastico; adhesivo; barnices "Clay Skins" abundantes, finos; moteados comunes finos a medios precisos; abundantes durinodulos; debilmente cementado; algo gleyzado; abundantes concreciones calcareas; limite inferior claro, suave.
+
+BCz	105 cm a +; color en humedo pardo grisaceo (2,5Y5/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; ligeramente plastico; ligeramente adhesivo; abundantes rosetas de yeso (SO4Ca); abundantes concreciones de Ca; escasos barnices "Clay Skins" finos; moteados abundantes, medios y precisos; algo gleyzado.
+
+Datos analiticos Serie Arroyo Tortugas
+Situacion: Latitud: 32?34'S Longitud: 61?56'O Altitud: 80 m.s.n.m.
+|Horizonte                                                            |A       |Btnz    |Btnz2   |Btnz3    |BCz       |
+|Profundidad de la muestra (cm)                                       |0-13    |13-47   |47-70   |70-105   |105 a +   |
+|Materia Organica (%)                                                 |4,52    |0,98    |0,55    |0,50     |0,22      |
+|Carbono Organico (%)                                                 |2,63    |0,57    |0,32    |0,29     |0,13      |
+|Nitrogeno total (%)                                                  |0,167   |0,078   |0,054   |0,05     |0,037     |
+|Relacion C/N                                                         |15,7    |7,3     |5,9     |5,8      |3,5       |
+|Arcilla, <2 u (%)                                                    |22,4    |35,2    |29,4    |         |          |
+|Limo, 2-50 u (%)                                                     |70,0    |62,1    |66,4    |         |          |
+|Arena muy fina, 50-100 u (%)                                         |6,2     |2,2     |2,9     |         |          |
+|Arena fina, 100-250 u (%)                                            |1,4     |0,3     |0,5     |         |          |
+|Arena media, 250-500 u (%)                                           |        |        |        |         |          |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |        |        |2,35    |3,29     |1,85      |
+|Equivalente de humedad (%)                                           |35,0    |45,0    |39,8    |46,7     |47,8      |
+|pH en pasta                                                          |7,0     |7,3     |7,6     |7,7      |7,8       |
+|pH en agua (1:2,5)                                                   |7,5     |7,7     |8,0     |8,0      |8,1       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,6    |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,1     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)                            |3,1     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,2     |        |        |         |          |
+|H+ de cambio (meq/100 gr)                                            |0,8     |        |        |         |          |
+|Sodio de intercambio, % (PSI)                                        |13,6    |        |        |         |          |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |7,12    |17,2    |20,12   |20,1     |17,2      |
+|Suma de bases, meq/100 gr (S)                                        |22,0    |        |        |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,8    |28,0    |23,0    |27,0     |27,9      |
+|Saturacion con bases, % (S/T)                                        |96      |        |        |         |          |
+|C.EXT.S ME/l-Ca++                                                    |9,7     |25,9    |27,5    |28,3     |25,1      |
+|C.EXT.S ME/l-Mg++                                                    |12,8    |26,7    |27,5    |23,7     |20,5      |
+|C.EXT.S ME/l-Na+                                                     |45,0    |170,0   |200,0   |200,0    |182,0     |
+|C.EXT.S ME/l-K+                                                      |2,0     |3,2     |2,8     |2,2      |2,9       |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |         |          |
+|C.EXT.S ME/l-HCO3-                                                   |9,2     |3,0     |2,2     |2,2      |1,5       |
+|C.EXT.S ME/l-SO4=                                                    |49,3    |160,0   |187,0   |182,0    |176,0     |
+|C.EXT.S ME/l-Cl-                                                     |12,0    |64,0    |66,6    |68,8     |52,8      |

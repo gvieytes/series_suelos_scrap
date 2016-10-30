@@ -1,0 +1,48 @@
+Serie SOCONCHO
+Simbolo: Scn
+Argiustol tipico, franca fina, mixta, termica
+Indice de Productividad: 68
+Capacidad de uso: IIIc
+
+Es un suelo bien drenado, desarrollado moderadamente en las terrazas altas de los rios Ctalamochita (Tercero) y Soconcho, en los sectores mas planos de las terrazas con una suave inclinacion hacia las vias fluviales mencionadas. Geomorfologicamente, los materiales parentales de los suelos corresponden a viejas planicies de inundacion en ambientes muy suavemente ondulados. La textura dominante es franca con la presencia de arenas gruesas y muy gruesas. Tiene un horizonte superficial (A) de 22 cm de espesor, de textura franca, con estructura en bloques subangulares y 1,5% de materia organica. Sigue a continuacion hasta 52 cm un horizonte iluvial (Bt) enriquecido en arcillas con estructura en prismas irregulares medios moderados y barnices comunes en las caras de los agregados. Luego, continua hacia abajo una transicion (BC) y el material parental del suelo (C) a 86 cm con carbonatos libres diseminados de textura franca.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de la Serie fue descrito a 7,6 km al SE de Las Bajadas, departamento Calamuchita, provincia de Cordoba.
+
+A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 6,6; raices comunes; limite inferior claro, suave.
+
+Bt	22 52 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en prismas irregulares medios moderados y bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,1; barnices de arcilla y humus comunes medios; raices escasas a comunes; limite inferior gradual.
+
+BC	52-80 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques y prismas debiles; friable en humedo; ligeramente plastico; no adhesivo; barnices arcillosos escasos; vestigios de raices; limite inferior gradual.
+
+C	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo.
+
+Datos analiticos Serie SOCONCHO
+Situacion: Latitud: 32?09'25"S Longitud: 64?17'39"O Altitud: 329 m.s.n.m.
+
+|Horizonte                                                            |A       |Bt      |BC      |C       |
+|Profundidad de la muestra (cm)                                       |0-22    |22-52   |52-80   |80 a +  |
+|Materia Organica (%)                                                 |1,55    |0,69    |        |        |
+|Carbono Organico (%)                                                 |0,9     |0,4     |        |        |
+|Nitrogeno total (%)                                                  |0,09    |0,04    |        |        |
+|Relacion C/N                                                         |10,1    |10,0    |        |        |
+|Arcilla, <2 u (%)                                                    |17,0    |20,9    |14,9    |14,1    |
+|Limo, 2-50 u (%)                                                     |45,8    |43,3    |48,3    |45,1    |
+|Arena muy fina, 50-100 u (%)                                         |12,5    |12,2    |12,4    |13,8    |
+|Arena fina, 100-250 u (%)                                            |10,4    |10,2    |10,3    |11,4    |
+|Arena media, 250-500 u (%)                                           |7,5     |7,3     |7,7     |8,3     |
+|Arena gruesa, 500-1000 u (%)                                         |5,1     |4,9     |5,1     |5,8     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,8     |0,7     |0,8     |1,0     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |18,1    |18,6    |17,5    |16,5    |
+|pH en agua (1:2,5)                                                   |6,6     |7,1     |7,3     |7,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,6     |10,0    |9,6     |9,6     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,6     |2,4     |2,7     |2,3     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,1     |0,1     |0,1     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,8     |0,6     |0,5     |0,5     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,9     |0,7     |0,5     |        |
+|Sodio de intercambio, % (PSI)                                        |1,0     |0,7     |0,7     |0,8     |
+|Suma de bases, meq/100 gr (S)                                        |10,1    |13,1    |12,9    |12,5    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |11,0    |13,8    |13,4    |12,5    |
+|Saturacion con bases, % (S/T)                                        |91,6    |94,9    |96,3    |100     |

@@ -1,0 +1,43 @@
+Serie VILLA SAN ESTEBAN
+
+Ustorthent tipico, franca gruesa, mixta, termica
+Indice de Productividad: 23
+
+Son suelos excesivamente drenados, desarrollados a partir de sedimentos fluviales, de textura franco arenosa, derramados por el rio Xanaes (Segundo). Ocupa las lomadas o albardones dentro de los paleocauces, donde las corrientes fluviales han tenido caracter mas o menos permanente. La capa superficial del suelo, de 18 cm de espesor, es de textura franco arenosa, con aproximadamente el 70% de la fraccion mineral constituida por arenas, sin estructura, escasamente provisto de materia organica y muy baja capacidad de intercambio cationico. Continua una capa de caracteristicas similares a la anterior, que se extiende a mas de 100 cm de profundidad. La baja retencion de humedad en todo el perfil, la falta de estructura, el pobre contenido de materia organica y la escasa fertilidad de estos suelos, son factores limitantes para los cultivos normales de la zona, siendo destinados a pasturas naturales o implantadas adaptadas a las limitantes mencionadas.
+
+Descripcion del perfil tipico:
+
+El perfil modal de esta Serie fue descrito a 9,5 Km al NO de la localidad de El Aranado, departamento San Justo, provincia de Cordoba.
+
+1	0-18 cm; color en humedo pardo amarillento oscuro (10YR3/4); color en seco gris pardusco claro (10YR6/2); franco arenoso; masivo; duro en seco; no plastico; no adhesivo; limite inferior gradual, suave.
+
+2	18 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques subangulares medios debiles a masivo; duro en seco; no plastico; no adhesivo; abundante contenido de gravillas.
+
+Datos Analiticos Serie VILLA SAN ESTEBAN
+Situacion: Latitud: 31o42'12"S Longitud: 62o58'56"O Altitud: 157 m.s.n.m.
+|Horizonte                                                            |1       |2       |
+|Profundidad de la muestra (cm)                                       |0-18    |18 a +  |
+|Materia Organica (%)                                                 |1,05    |0,55    |
+|Carbono Organico (%)                                                 |0,61    |0,32    |
+|Nitrogeno total (%)                                                  |0,08    |0,06    |
+|Relacion C/N                                                         |7,6     |5,3     |
+|Arcilla, <2 u (%)                                                    |5,8     |14,8    |
+|Limo, 2-50 u (%)                                                     |24,2    |27,0    |
+|Arena muy fina, 50-100 u (%)                                         |4,9     |5,6     |
+|Arena fina, 100-250 u (%)                                            |23,7    |23,4    |
+|Arena media, 250-500 u (%)                                           |11,2    |7,3     |
+|Arena gruesa, 500-1000 u (%)                                         |23,0    |13,5    |
+|Arena muy gruesa, 1-2 mm (%)                                         |5,6     |7,3     |
+|Carbonatos, CaCO3 (%)                                                |        |        |
+|Equivalente de humedad (%)                                           |10,9    |15,2    |
+|pH en pasta                                                          |5,9     |6,7     |
+|pH en agua (1:2,5)                                                   |6,2     |6,8     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |2,7     |7,7     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,5     |0,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,0     |0,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |0,6     |
+|Sodio de intercambio, % (PSI)                                        |3,6     |1,0     |
+|Suma de bases, meq/100 gr (S)                                        |4,4     |8,8     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |5,6     |9,7     |
+|Saturacion con bases, % (S/T)                                        |78,6    |90,7    |

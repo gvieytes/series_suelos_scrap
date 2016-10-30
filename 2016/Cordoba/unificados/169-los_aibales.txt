@@ -1,0 +1,58 @@
+Serie LOS AIBALES
+Albacualf molico, limosa fina a franca fina, mixta, termica
+Indice de Productividad: 45
+
+La Serie Los Aibales es un suelo oscuro, imperfectamente drenado, bien desarrollado con salinidad y alcalinidad ligera a partir de 50 cm. El material originario es franco limoso a franco de origen fluvial. Esta Serie ocupa los micropaleocauces ligeramente deprimidos, conocidos en la zona como "canadas de aibe", facilmente reconocibles por esta tipica vegetacion casi exclusiva. Estas canadas son areas alargadas con un patron de distribucion muy intrincado, tienen pocas decenas de metros de ancho y estan orientadas en el sentido de la pendiente regional (Norte - Sur) estando bien representados en la planicie aluvial de La Rinconada. El horizonte superficial (A) es de 13 cm, con 3,8% de materia organica, franco limoso, con 12,7% de arcilla sin salinidad ni sodio y estructura en bloques subangulares medios con tendencia a laminar. Luego de un limite abrupto se pasa a un horizonte muy enriquecido en arcilla (31,7%, Bt textural) hasta 38 cm, tiene textura franco arcillo limosa a franco arcillosa, estructura en prismas regulares medios moderados, no salino y solo con 7,8% de sodio de intercambio. La transicion se extiende hasta 72 cm, es debilmente salino con 6,1% de sodio, textura franco limosa con 1,5% de CO3Ca pulverulento. El horizonte Ck tiene 13% de arcilla y debilmente salino alcalino. La capa freatica se encuentra a 90 cm no afectando normalmente los horizontes geneticos. El Bt puede tener hasta 2% de CO3Ca en la masa del suelo. Puede aparecer alcalinidad y salinidad moderada despues de 50 cm. Esta Serie se encuentra limitada casi exclusivamente por problemas de anegamiento y/o inundacion con caracter moderadamente frecuente y de duracion relativamente corta.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de los suelos de esta Serie fue estudiado a 15 Km. al SO de El Zapallar, departamento Rio Seco, provincia de Cordoba.
+
+A	0 - 13 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados tendencia laminar; friable en humedo; ligeramente plastico; no adhesivo; moteados de FeMn escasos medios y debiles; raices muy abundantes; limite inferior abrupto, suave.
+
+Bt	13 - 38 cm; color en humedo pardo oscuro (10YR3/3); arcillo limoso a franco arcilloso; friable en humedo; plastico; adhesivo; concreciones de CO3Ca finas escasas; barnices humico arcillosos muy abundantes a abundantes medios; moteados de FeMn abundantes medios y precisos; raices abundantes; limite inferior gradual, suave.
+
+BCk	38 - 72 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; estructura en prismas irregulares gruesos rompe a bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; debil reaccion al ClH en la masa del suelo; concreciones de CO3Ca comunes medias; barnices arcillosos escasos a abundantes; moteados de FeMn abundantes medios y precisos; raices escasas; cristales de yeso finos escasos; limite inferior gradual, suave.
+
+Ck	72 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; ligeramente plastico; ligeramente adhesivo; pH 8,2; moderada reaccion al ClH en la masa del suelo; moteados abundantes medios y sobresalientes; se observan cristales de yeso comunes finos.
+
+
+Datos analiticos Serie LOS AIBALES
+
+Situacion: Latitud: 30o16'S Longitud: 63o09'O Altitud: 70 m.s.n.m.
+
+|Horizonte                                                             |A       |Bt      |BCk     |Ck      |
+|Profundidad de la muestra (cm)                                        |0-13    |13-38   |38-72   |72 a +  |
+|Materia Organica (%)                                                  |3,56    |1,28    |        |        |
+|Carbono Organico (%)                                                  |1,98    |0,77    |        |        |
+|Nitrogeno total (%)                                                   |0,17    |0,10    |        |        |
+|Relacion C/N                                                          |11,6    |7,7     |        |        |
+|Arcilla, <2 u (%)                                                     |12,7    |31,7    |18,3    |13,1    |
+|Limo, 2-50 u (%)                                                      |57,1    |52,9    |67,8    |74,2    |
+|Arena muy fina, 50-100 u (%)                                          |25,8    |15,3    |14,5    |12,0    |
+|Arena fina, 100-250 u (%)                                             |2,5     |0,9     |0,7     |1,2     |
+|Arena media, 250-500 u (%)                                            |0,1     |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |1,5     |7,1     |
+|Equivalente de humedad (%)                                            |16,5    |29,4    |27,8    |24,8    |
+|pH en pasta                                                           |6,6     |7,6     |7,7     |7,9     |
+|pH en agua (1:2,5)                                                    |6,9     |7,9     |7,9     |8,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |12,6    |18,9    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,6     |1,8     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |1,0     |1,8     |1,1     |1,1     |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,5     |1,4     |1,3     |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                              |1,1     |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |6,0     |7,8     |6,1     |6,2     |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |3,6     |4,9     |4,5     |
+|Suma de bases, meq/100 gr (S)                                         |15,7    |23,9    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |16,7    |23,0    |17,9    |17,8    |
+|Saturacion con bases, % (S/T)                                         |94      |100     |        |        |
+|C.EXT.S ME/l-Ca++                                                     |        |        |38,2    |20,9    |
+|C.EXT.S ME/l-Mg++                                                     |        |        |15,2    |9,18    |
+|C.EXT.S ME/l-Na+                                                      |        |        |30,0    |26,0    |
+|C.EXT.S ME/l-K+                                                       |        |        |0,6     |0,6     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |1,6     |4,8     |
+|C.EXT.S ME/l-SO4=                                                     |        |        |54,5    |27,4    |
+|C.EXT.S ME/l-Cl-                                                      |        |        |30,4    |25,6    |

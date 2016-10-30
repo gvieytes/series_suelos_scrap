@@ -1,0 +1,48 @@
+Serie RIO SEGUNDO
+Simbolo: RII
+Ustipsamment tipico, arenosa, mixta, termica
+Indice de Productividad: 11
+Capacidad de uso: VIsc
+
+La Serie Rio Segundo, es un suelo excesivamente drenado, desarrollado sobre materiales de origen fluvial, derramados por el rio del mismo nombre, de textura arenosa, vinculado a antiguos cauces (paleocauces) y areas planas entre los mismos, donde ocupa las partes mas elevadas dentro de este relieve. La parte superficial del suelo, de unos 35 cm de profundidad (horizonte A) es de textura arenosa, con casi 90% de la fraccion mineral dominada por arena, sin estructura, suelto y muy baja cantidad de materia organica. Luego de un horizonte transicional se alcanza el material originario (horizonte C) que aparece a los 80 cm de profundidad, de textura arenosa franca y estructura en grano simple. La baja retencion de humedad en todo el perfil, su falta de estructura, la escasa fertilidad y bajo contenido de materia organica de estos suelos, son factores limitantes para los cultivos normales de la zona, siendo utilizados en pasturas (pastos naturales).
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie fue descrito a 5,6 Km al NNO de la localidad de Costa Sacate, departamento Rio Segundo, provincia de Cordoba.
+
+Ap	0-15 cm; color en humedo pardo oscuro (10YR3/3); arenoso; estructura de grano simple; suelto en seco; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+A	15-35 cm; color en humedo pardo oscuro (10YR3/3); areno franco a arenoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; limite inferior gradual.
+
+AC	35-80 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; estructura de grano simple; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
+
+C	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/3); areno franco; estructura de grano simple; muy friable en humedo; no plastico; no adhesivo.
+
+Datos Analiticos Serie RIO SEGUNDO
+Situacion: Latitud: 31o36'59"S Longitud: 63o48'25"O Altitud: 315 m.s.n.m.
+|Horizonte                                                            |Ap      |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                       |0-15    |15-35   |35-80   |80 a +  |
+|Materia Organica (%)                                                 |0,39    |0,39    |0,37    |        |
+|Carbono Organico (%)                                                 |0,23    |0,23    |0,22    |        |
+|Nitrogeno total (%)                                                  |0,055   |0,041   |0,036   |        |
+|Relacion C/N                                                         |4,2     |5,6     |6,1     |        |
+|Arcilla, <2 u (%)                                                    |3,2     |4,0     |5,8     |6,0     |
+|Limo, 2-50 u (%)                                                     |7,3     |10,9    |11,3    |11,5    |
+|Arena muy fina, 50-100 u (%)                                         |2,9     |1,1     |1,2     |0,8     |
+|Arena fina, 100-250 u (%)                                            |43,7    |18,4    |22,7    |22,2    |
+|Arena media, 250-500 u (%)                                           |24,5    |22,6    |25,9    |25,5    |
+|Arena gruesa, 500-1000 u (%)                                         |16,3    |39,3    |30,7    |31,2    |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,7     |3,0     |1,1     |1,1     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |7,9     |6,3     |6,7     |7,5     |
+|pH en pasta                                                          |5,4     |5,0     |5,4     |6,0     |
+|pH en agua (1:2,5)                                                   |5,6     |5,2     |5,8     |6,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |2,0     |2,5     |3,0     |3,3     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,8     |0,2     |0,1     |0,5     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,1     |0,1     |0,1     |0,04    |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,3     |0,2     |0,2     |0,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,5     |0,9     |0,7     |0,5     |
+|Sodio de intercambio, % (PSI)                                        |2,6     |2,5     |2,4     |0,9     |
+|Suma de bases, meq/100 gr (S)                                        |3,2     |3,0     |3,4     |4,04    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |3,8     |4,0     |4,2     |4,6     |
+|Saturacion con bases, % (S/T)                                        |84      |75      |81      |88      |

@@ -1,0 +1,46 @@
+Serie El DIVISADERO
+Ustorthent litico paralitico, esqueletica, franca, mixta, termica
+
+Capacidad de uso individual: VIIes
+
+Indice de Productividad: 6
+
+Este suelo se ha desarrollado incipientemente sobre rocas del complejo metamorfico y granitoides de la sierra de Las Penas, en sectores topograficos muy irregulares y pronunciados a escarpados con gradientes que oscilan entre 10 a 25% y aun mas en algunas quebradas. La vegetacion natural que soporta es el bosque serrano un tanto degradado con estrato herbaceo y arbustivo bastante reducido. Se caracteriza esencialmente por la rocosidad y pedregosidad: tiene fracciones mayores a 2 mm, mas del 30% en una matriz franco arenosa gruesa y ademas por ser muy somero, con la roca a pocos cm de la superficie. Presenta un horizonte superior de unos 10 cm de profundidad (profundidad efectiva) (es muy variable segun la posicion en el terreno), tiene 3,8% de materia organica, color gris oscuro y estructura debil y en bloques. A partir de la profundidad indicada precedentemente aparece la roca con diferente grado de alteracion. Fases reconocidas: por rocosidad.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie de suelos fue descrito a 13 Km al NO de Los Condores, departamento Rio Cuarto, provincia de Cordoba.
+
+A	0-10 cm; color en humedo pardo oscuro (10YR3/3); esqueletico franco arenoso; estructura en bloques debiles; muy friable en humedo; no plastico; no adhesivo; pH 6,8; raices comunes a abundantes.
+
+R	10 cm a +; roca parcialmente alterada.
+
+Datos analiticos Serie EL DIVISADERO
+Situacion: Latitud: 32?15'52"S Longitud: 64?23'54"O Altitud: 675 m.s.n.m.
+
+|Horizonte                                                            |A       |
+|Profundidad de la muestra (cm)                                       |0-10    |
+|Materia Organica (%)                                                 |3,8     |
+|Carbono Organico (%)                                                 |2,2     |
+|Nitrogeno total (%)                                                  |0,21    |
+|Relacion C/N                                                         |10,5    |
+|Arcilla, <2 u (%)                                                    |6,7     |
+|Limo, 2-50 u (%)                                                     |37,5    |
+|Arena muy fina, 50-100 u (%)                                         |8,6     |
+|Arena fina, 100-250 u (%)                                            |11,1    |
+|Arena media, 250-500 u (%)                                           |10,0    |
+|Arena gruesa, 500-1000 u (%)                                         |13,8    |
+|Arena muy gruesa, 1-2 mm (%)                                         |10,8    |
+|Carbonatos, CaCO3 (%)                                                |        |
+|Equivalente de humedad (%)                                           |24,4    |
+|pH en pasta                                                          |6,5     |
+|pH en agua (1:2,5)                                                   |6,8     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |11,6    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,2     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,8     |
+|Sodio de intercambio, % (PSI)                                        |2,6     |
+|Suma de bases, meq/100 gr (S)                                        |14,3    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,1    |
+|Saturacion con bases, % (S/T)                                        |94,7    |

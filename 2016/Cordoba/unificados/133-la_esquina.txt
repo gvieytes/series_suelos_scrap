@@ -1,0 +1,58 @@
+Serie LA ESQUINA
+
+Argiudol tipico, franca fina, mixta, termica
+Indice de Productividad: 67
+
+La Serie agrupa suelos profundos, bien drenados, vinculados a lineas de escurrimiento y areas concavas. Es un suelo fuertemente desarrollado, con una capa superficial de 17 cm (A) con moderado contenido de materia organica, medianamente acido, se continua con un horizonte mas arcilloso (Bt), encontrandose el material originario (C) a los 80 cm.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 9,5 Km al SSE de Rodeo Viejo, departamento Rio Cuarto, provincia de Cordoba.
+
+A	0-17 cm; color en humedo pardo grisaceo muy oscuro a pardo muy oscuro (10YR2,5/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro suave.
+
+Bt	17-30 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en prismas debiles que rompen a bloques angulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices escasos medios finos; limite inferior claro suave.
+
+Bt2	30-51 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas irregulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos medios y finos; limite inferior gradual.
+
+BC	51-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en prismas gruesos; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; limite inferior gradual.
+
+C	80 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo.
+
+Datos analiticos Serie LA ESQUINA
+Situacion: Latitud: 33?01'22"S Longitud: 64?41'41"O Altitud: 600 m.s.n.m.
+|Horizonte                                                            |A       |Bt      |Bt2     |BC      |C       |
+|Profundidad de la muestra (cm)                                       |0-17    |17-30   |30-51   |51-80   |80 a +  |
+|Materia Organica (%)                                                 |3,45    |2,07    |1,03    |0,69    |        |
+|Carbono Organico (%)                                                 |2,0     |1,2     |0,6     |0,4     |        |
+|Nitrogeno total (%)                                                  |0,16    |0,08    |        |        |        |
+|Relacion C/N                                                         |12,5    |15,0    |        |        |        |
+|Arcilla, <2 u (%)                                                    |21,1    |26,4    |25,6    |20,0    |14,5    |
+|Limo, 2-50 u (%)                                                     |53,2    |57,4    |48,2    |49,7    |54,4    |
+|Arena muy fina, 50-100 u (%)                                         |27,6    |19,7    |27,2    |26,7    |30,0    |
+|Arena fina, 100-250 u (%)                                            |1,0     |1,0     |1,6     |2,0     |1,7     |
+|Arena media, 250-500 u (%)                                           |0,2     |0,7     |0,4     |0,3     |0,3     |
+|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,3     |0,7     |0,4     |0,4     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,5     |        |        |0,1     |0,1     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |
+|Equivalente de humedad (%)                                           |24,8    |24,6    |25,1    |21,0    |20,9    |
+|pH en pasta                                                          |5,6     |6,3     |6,8     |7,0     |7,2     |
+|pH en agua (1:2,5)                                                   |5,7     |6,6     |7,1     |7,2     |7,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |14,3    |13,3    |14,1    |13,2    |9,4     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,6     |1,6     |1,5     |1,9     |1,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,3     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |3,1     |2,7     |2,1     |1,7     |1,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,2     |1,4     |0,9     |0,5     |0,2     |
+|Sodio de intercambio, % (PSI)                                        |1,4     |1,6     |1,6     |1,1     |2,2     |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |        |7,0     |
+|Suma de bases, meq/100 gr (S)                                        |20,3    |17,9    |18,0    |17,0    |12,7    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,5    |19,3    |19,2    |17,5    |12,9    |
+|Saturacion con bases, % (S/T)                                        |90,2    |92,7    |95,3    |97,1    |98,4    |
+|C.EXT.S ME/l-Ca++                                                    |        |        |        |        |4,6     |
+|C.EXT.S ME/l-Mg++                                                    |        |        |        |        |3,2     |
+|C.EXT.S ME/l-Na+                                                     |        |        |        |        |65,9    |
+|C.EXT.S ME/l-K+                                                      |        |        |        |        |1,2     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |        |        |9,6     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |        |        |15,0    |
+|C.EXT.S ME/l-Cl-                                                     |        |        |        |        |56,8    |

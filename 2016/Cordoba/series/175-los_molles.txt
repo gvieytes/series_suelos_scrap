@@ -30,15 +30,15 @@ Situacion: Latitud: 32?03'51"S Longitud: 64?23'32"O Altitud: 650 m.s.n.m.
 |Arena media, 250-500 u (%)                                           |12,7    |
 |Arena gruesa, 500-1000 u (%)                                         |10,4    |
 |Arena muy gruesa, 1-2 mm (%)                                         |4,5     |
-|Carbonatos, CaCO3 (%)                                                |0       |
+|Carbonatos, CaCO3 (%)                                                |        |
 |Equivalente de humedad (%)                                           |29,7    |
 |pH en pasta                                                          |6,5     |
 |pH en agua (1:2,5)                                                   |6,9     |
-|Cationes de intercambio, meq/100 gr (Ca++)                          |12,3    |
-|Cationes de intercambio, meq/100 gr (Mg++)                          |0,9     |
-|Cationes de intercambio, meq/100 gr (Na+)                           |0,4     |
-|Cationes de intercambio, meq/100 gr (K+)                            |0,8     |
-|Cationes de intercambio, meq/100 gr (H+)                            |0,5     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,3    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,5     |
 |Sodio de intercambio, % (PSI)                                        |2,7     |
 |Suma de bases, meq/100 gr (S)                                        |14,4    |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |14,9    |

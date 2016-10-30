@@ -27,7 +27,7 @@ Situacion: Latitud: 32o06'S Longitud: 64o40'O Altitud: 1100 m.s.n.m.
 |Relacion C/N                                                         |        |           |           |
 |Arcilla, <2 u (%)                                                    |6,8     |           |           |
 |Limo, 2-50 u (%)                                                     |45,5    |           |           |
-|Arena muy fina, 50-100 u (%)                                         |4,5     |calcarea   |calcarea   |
+|Arena muy fina, 50-100 u (%)                                         |4,5     |           |           |
 |Arena fina, 100-250 u (%)                                            |9,3     |           |           |
 |Arena media, 250-500 u (%)                                           |4,0     |           |           |
 |Arena gruesa, 500-1000 u (%)                                         |13,1    |           |           |

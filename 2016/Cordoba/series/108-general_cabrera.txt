@@ -22,18 +22,18 @@ Datos analiticos Serie GENERAL CABRERA
 Situacion: Latitud: 32?49'43"S Longitud: 63?51'27"O Altitud: 288 m.s.n.m.
 |Horizonte                                                             |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-21    |21-50   |50 a +  |
-|Materia Organica (%)                                                  |1,37    |0,51    |-       |
-|Carbono Organico (%)                                                  |0,8     |0,3     |-       |
-|Nitrogeno total (%)                                                   |0,13    |0,08    |-       |
-|Relacion C/N                                                          |6,1     |3,7     |-       |
+|Materia Organica (%)                                                  |1,37    |0,51    |        |
+|Carbono Organico (%)                                                  |0,8     |0,3     |        |
+|Nitrogeno total (%)                                                   |0,13    |0,08    |        |
+|Relacion C/N                                                          |6,1     |3,7     |        |
 |Arcilla, <2 u (%)                                                     |10,6    |8,8     |7,8     |
 |Limo, 2-50 u (%)                                                      |39,2    |38,2    |38,0    |
 |Arena muy fina, 50-100 u (%)                                          |46,0    |51,6    |51,4    |
 |Arena fina, 100-250 u (%)                                             |3,1     |0,7     |2,1     |
-|Arena media, 250-500 u (%)                                            |0,4     |0,0     |0,0     |
-|Arena gruesa, 500-1000 u (%)                                          |0,0     |0,0     |0,0     |
-|Arena muy gruesa, 1-2 mm (%)                                          |0,0     |0,0     |0,0     |
-|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |2,9     |
+|Arena media, 250-500 u (%)                                            |0,4     |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |2,9     |
 |Equivalente de humedad (%)                                            |15,1    |12,5    |11,9    |
 |pH en pasta                                                           |5,8     |6,9     |8,3     |
 |pH en agua (1:2,5)                                                    |6,0     |7,1     |8,6     |

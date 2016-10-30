@@ -23,24 +23,29 @@ C	110 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; muy friable en h
 
 Datos analiticos Serie LAS VARAS
 Situacion: Latitud: 31o44'37"S Longitud: 62o30'26"O Altitud: 114 m.s.n.m.
-|Horizonte                                                             |Ap      |A       |Bw      |Bw2     |BC       |C         |
-|Profundidad de la muestra (cm)                                        |0-18    |18-28   |28-50   |50-70   |70-110   |110 a +   |
-|Materia Organica (%)                                                  |2,24    |1,69    |1,05    |0,38    |0,40     |0,22      |
-|Carbono Organico (%)                                                  |1,30    |0,98    |0,61    |0,22    |0,23     |0,13      |
-|Nitrogeno total (%)                                                   |0,13    |0,11    |0,07    |0,05    |         |          |
-|Relacion C/N                                                          |10,0    |8,9     |8,7     |4,4     |         |          |
-|Arcilla, <2 u (%)                                                     |20,8    |21,4    |21,8    |20,4    |19,4     |17,6      |
-|Limo, 2-50 u (%)                                                      |45,9    |43,1    |43,7    |44,3    |47,3     |47,5      |
-|Arena muy fina, 50-100 u (%)                                          |16,9    |17,0    |17,3    |19,9    |20,7     |23,0      |
-|Arena fina, 100-250 u (%)                                             |15,2    |15,4    |14,7    |13,1    |12,6     |10,8      |
-|Arena media, 250-500 u (%)                                            |0,5     |1,2     |0,8     |0,5     |0,4      |0,2       |
-|Arena gruesa, 500-1000 u (%)                                          |0,3     |0,5     |0,3     |0,2     |0,3      |0,05      |
-|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                 |0,0     |0,0     |0,0     |0,0     |0,0      |0.0       |
-|Equivalente de humedad (%)                                            |22,4    |21,2    |21,2    |21,3    |19,4     |17,7      |
-|pH en pasta                                                           |4,9     |5,5     |5,7     |6,0     |6,3      |6,9       |
-|pH en agua (1:2,5)                                                    |5,1     |5,7     |6,0     |6,4     |6,5      |7,1       |
-|Cationes de intercambio, meq/100 gr (Ca++)                            |        |7,3     |9,3     |8,3     |7,8      |7,6       |
-|Suma de bases, meq/100 gr (S)                                         |11,0    |10,7    |10,7    |10,6    |10,1     |10,4      |
-|Capacidad de intercambio cationico, meq/100 gr (T)                    |13,2    |12,3    |12,1    |11,7    |11,0     |10,7      |
-|Saturacion con bases, % (S/T)                                         |83,3    |87,0    |88,4    |90,6    |91,8     |97,0      |
+|Horizonte                                                             |Ap      |A       |Bw      |Bw2     |BC      |C       |
+|Profundidad de la muestra (cm)                                        |0-18    |18-28   |28-50   |50-70   |70-110  |110 a + |
+|Materia Organica (%)                                                  |2,24    |1,69    |1,05    |0,38    |0,40    |0,22    |
+|Carbono Organico (%)                                                  |1,30    |0,98    |0,61    |0,22    |0,23    |0,13    |
+|Nitrogeno total (%)                                                   |0,13    |0,11    |0,07    |0,05    |        |        |
+|Relacion C/N                                                          |10,0    |8,9     |8,7     |4,4     |        |        |
+|Arcilla, <2 u (%)                                                     |20,8    |21,4    |21,8    |20,4    |19,4    |17,6    |
+|Limo, 2-50 u (%)                                                      |45,9    |43,1    |43,7    |44,3    |47,3    |47,5    |
+|Arena muy fina, 50-100 u (%)                                          |16,9    |17,0    |17,3    |19,9    |20,7    |23,0    |
+|Arena fina, 100-250 u (%)                                             |15,2    |15,4    |14,7    |13,1    |12,6    |10,8    |
+|Arena media, 250-500 u (%)                                            |0,5     |1,2     |0,8     |0,5     |0,4     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |0,3     |0,5     |0,3     |0,2     |0,3     |0,05    |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |        |        |
+|Equivalente de humedad (%)                                            |22,4    |21,2    |21,2    |21,3    |19,4    |17,7    |
+|pH en pasta                                                           |4,9     |5,5     |5,7     |6,0     |6,3     |6,9     |
+|pH en agua (1:2,5)                                                    |5,1     |5,7     |6,0     |6,4     |6,5     |7,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |7,3     |9,3     |8,3     |7,8     |7,6     |7,9     |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |1,8     |0,1     |1,0     |1,3     |1,2     |1,2     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |0,1     |0,1     |0,1     |0,1     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,7     |1,3     |1,3     |1,4     |1,2     |1,2     |
+|Cationes de intercambio, meq/100 gr (H+)                              |2,4     |1,6     |1,2     |0,9     |0,8     |0,3     |
+|Sodio de intercambio, % (PSI)                                         |1,5     |0,8     |0,8     |0,9     |0,9     |0,9     |
+|Suma de bases, meq/100 gr (S)                                         |11,0    |10,7    |10,7    |10,6    |10,1    |10,4    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |13,2    |12,3    |12,1    |11,7    |11,0    |10,7    |
+|Saturacion con bases, % (S/T)                                         |83,3    |87,0    |88,4    |90,6    |91,8    |97,0    |

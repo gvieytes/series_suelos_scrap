@@ -37,14 +37,14 @@ Situacion: Latitud: 34?06'24"S Longitud: 62?12'00"O Altitud: 112 m.s.n.m.
 |Arena media, 250-500 u (%)                                           |0,1     |0,1     |0,1     |0,1      |0,1       |
 |Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
 |Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,1     |Vest.   |Vest.    |Vest.     |
+|Carbonatos, CaCO3 (%)                                                |        |0,1     |        |         |          |
 |Equivalente de humedad (%)                                           |9,4     |23,0    |14,8    |10,2     |8,2       |
 |pH en pasta                                                          |6,9     |8,3     |8,9     |9,3      |9,0       |
 |pH en agua (1:2,5)                                                   |7,3     |9,1     |9,7     |9,9      |10,0      |
-|Cationes de intercambio, meq/100 gr (Ca++)                          |3,7     |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (Mg++)                          |2,5     |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (Na+)                           |0,4     |5,4     |7,4     |7,1      |4,9       |
-|Cationes de intercambio, meq/100 gr (K+)                            |2,6     |3,5     |3,3     |3,1      |3,1       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |3,7     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,5     |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |5,4     |7,4     |7,1      |4,9       |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |3,5     |3,3     |3,1      |3,1       |
 |H+ de cambio (meq/100 gr)                                            |2,0     |        |        |         |          |
 |Sodio de intercambio, % (PSI)                                        |5,1     |19,6    |38,9    |37,2     |46,2      |
 |Suma de bases, meq/100 gr (S)                                        |9,2     |        |        |         |          |

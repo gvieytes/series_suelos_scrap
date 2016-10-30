@@ -31,14 +31,14 @@ Situacion: Latitud: 30o48'49"S Longitud: 64o13'33"O Altitud: 700 m.s.n.m.
 |Arena media, 250-500 u (%)                                           |11,4    |11,7    |14,7    |
 |Arena gruesa, 500-1000 u (%)                                         |27,3    |24,5    |21,7    |
 |Arena muy gruesa, 1-2 mm (%)                                         |11,8    |13,2    |10,2    |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |
 |Equivalente de humedad (%)                                           |14,2    |14,6    |13,2    |
 |pH en agua (1:2,5)                                                   |6,1     |6,4     |6,5     |
-|Cationes de intercambio, meq/100 gr (Ca++)                          |10,3    |12,1    |10,5    |
-|Cationes de intercambio, meq/100 gr (Mg++)                          |0,6     |0,6     |0,3     |
-|Cationes de intercambio, meq/100 gr (Na+)                           |0,2     |0,2     |0,2     |
-|Cationes de intercambio, meq/100 gr (K+)                            |0,4     |0,3     |0,2     |
-|Cationes de intercambio, meq/100 gr (H+)                            |1,2     |1,1     |0,5     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,3    |12,1    |10,5    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,6     |0,6     |0,3     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,4     |0,3     |0,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |1,1     |0,5     |
 |Sodio de intercambio, % (PSI)                                        |1,6     |1,4     |1,7     |
 |Suma de bases, meq/100 gr (S)                                        |11,5    |13,2    |11,2    |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |12,7    |14,3    |11,7    |

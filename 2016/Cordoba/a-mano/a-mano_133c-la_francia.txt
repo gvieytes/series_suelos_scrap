@@ -31,8 +31,8 @@ Situación: Latitud: 31º34’22”S Longitud: 62º41’31”O Altitud: 122 m.s.
 |Limo, 2-50 u (%)                                                      |72,1     |62,4    |62,7    |71,5    |72,6    |
 |Arena muy fina, 50-100 u (%)                                          |3,4      |2,8     |3,3     |3,6     |4,8     |
 |Arena fina, 100-250 u (%)                                             |0,4      |0,2     |0,2     |0,3     |0,7     |
-|Arena media, 250-500 u (%)                                            |0,1      |0,0     |0,0     |0,1     |0,2     |
-|Arena gruesa, 500-1000 u (%)                                          |0,1      |0,0     |0,0     |0,1     |0,7     |
+|Arena media, 250-500 u (%)                                            |0,1      |        |        |0,1     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |0,1      |        |        |0,1     |0,7     |
 |Arena muy gruesa, 1-2 mm (%)                                          |         |        |        |        |        |
 |Carbonatos, CaCO3 (%)                                                 |         |        |        |        |1,0     |
 |Equivalente de humedad (%)                                            |27,7     |29,8    |28,5    |27,6    |26,8    |

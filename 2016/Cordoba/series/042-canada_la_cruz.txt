@@ -40,11 +40,16 @@ Situacion: Latitud: 32?05'24"S Longitud: 62?44'19"O Altitud: 137 m.s.n.m.
 |Arena media, 250-500 u (%)                                           |0,5     |        |        |3,5     |
 |Arena gruesa, 500-1000 u (%)                                         |        |        |        |8,1     |
 |Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |1,0     |
-|Carbonatos, CaCO3 (%)                                                |0       |0       |0       |0       |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
 |Equivalente de humedad (%)                                           |28,4    |26,2    |30,6    |27,1    |
 |pH en pasta                                                          |5,0     |6,0     |6,7     |7,2     |
 |pH en agua (1:2,5)                                                   |5,5     |6,3     |7,2     |7,6     |
-|Cationes de intercambio, meq/100 gr (Ca++)                             |9,4     |9,6     |15,4    |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |9,4     |9,6     |15,4    |12,9    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,6     |1,8     |2,4     |2,5     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,5     |2,2     |2,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,8     |2,0     |3,7     |2,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |3,8     |1,6     |0,9     |        |
+|Sodio de intercambio, % (PSI)                                        |1,7     |3,3     |8,9     |11,6    |
 |Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |7,2     |
 |Suma de bases, meq/100 gr (S)                                        |14,1    |13,9    |23,7    |20,5    |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |17,8    |15,2    |24,6    |19,8    |

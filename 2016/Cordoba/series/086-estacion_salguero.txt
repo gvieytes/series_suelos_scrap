@@ -31,9 +31,9 @@ Situacion: Latitud: 34o13'20"S Longitud: 63o25'48"O Altitud: 135 m.s.n.m.
 |Arena muy fina, 50-100 u (%)                                          |39,2    |36,4    |        |43,9    |
 |Arena fina, 100-250 u (%)                                             |11,7    |12,4    |        |16,9    |
 |Arena media, 250-500 u (%)                                            |0,3     |0,1     |        |0,5     |
-|Arena gruesa, 500-1000 u (%)                                          |0,3     |0,0     |        |0,5     |
+|Arena gruesa, 500-1000 u (%)                                          |0,3     |        |        |0,5     |
 |Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                 |0,0     |2,3     |0,6     |3,7     |
+|Carbonatos, CaCO3 (%)                                                 |        |2,3     |0,6     |3,7     |
 |Equivalente de humedad (%)                                            |17,7    |26,6    |18,1    |15,9    |
 |pH en pasta                                                           |5,1     |7,4     |8,0     |8,5     |
 |pH en agua (1:2,5)                                                    |5,3     |7,9     |8,8     |9,3     |

@@ -21,18 +21,18 @@ Situacion: Latitud: 34o13'08"S Longitud: 63o27'24"O Altitud: 136 m.s.n.m.
 
 |Horizonte                                                            |Ap      |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-17    |17-42   |42 a +  |
-|Materia Organica (%)                                                 |1,37    |0,68    |-       |
-|Carbono Organico (%)                                                 |0,81    |0,44    |-       |
-|Nitrogeno total (%)                                                  |0,10    |0,07    |-       |
-|Relacion C/N                                                         |8,1     |6,3     |-       |
+|Materia Organica (%)                                                 |1,37    |0,68    |        |
+|Carbono Organico (%)                                                 |0,81    |0,44    |        |
+|Nitrogeno total (%)                                                  |0,10    |0,07    |        |
+|Relacion C/N                                                         |8,1     |6,3     |        |
 |Arcilla, <2 u (%)                                                    |7,5     |7,7     |7,3     |
 |Limo, 2-50 u (%)                                                     |16,5    |15,9    |11,9    |
 |Arena muy fina, 50-100 u (%)                                         |56,9    |46,9    |76,4    |
 |Arena fina, 100-250 u (%)                                            |19,6    |29,1    |4,8     |
 |Arena media, 250-500 u (%)                                           |0,1     |0,1     |0,1     |
 |Arena gruesa, 500-1000 u (%)                                         |0,2     |0,1     |0,2     |
-|Arena muy gruesa, 1-2 mm (%)                                         |0,0     |0,0     |0,0     |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |
 |Equivalente de humedad (%)                                           |9,2     |9,0     |7,1     |
 |pH en pasta                                                          |5,6     |6,2     |6,7     |
 |pH en agua (1:2,5)                                                   |5,7     |6,3     |6,8     |

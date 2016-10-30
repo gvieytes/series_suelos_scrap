@@ -50,11 +50,11 @@ Situacion: Latitud: 33?17'32"S Longitud: 62?33'05"O Altitud: 110 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                        |        |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |26,0    |22,0    |20,5    |19,6    |
 |Saturacion con bases, % (S/T)                                        |        |        |        |        |
-|C.EXT.S ME/1-Ca++                                                    |        |        |26,4    |20,4    |
-|C.EXT.S ME/1-Mg++                                                    |        |        |4,3     |7,0     |
-|C.EXT.S ME/1-Na+                                                     |        |        |19,0    |80,8    |
-|C.EXT.S ME/1-K+                                                      |        |        |1,0     |1,8     |
-|C.EXT.S ME/1-CO3=                                                    |        |        |        |        |
-|C.EXT.S ME/1-HCO3-                                                   |        |        |1,5     |1,5     |
-|C.EXT.S ME/1-SO4=                                                    |        |        |46,5    |97,2    |
-|C.EXT.S ME/1-Cl-                                                     |        |        |0,7     |8,4     |
+|C.EXT.S ME/l-Ca++                                                    |        |        |26,4    |20,4    |
+|C.EXT.S ME/l-Mg++                                                    |        |        |4,3     |7,0     |
+|C.EXT.S ME/l-Na+                                                     |        |        |19,0    |80,8    |
+|C.EXT.S ME/l-K+                                                      |        |        |1,0     |1,8     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |1,5     |1,5     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |46,5    |97,2    |
+|C.EXT.S ME/l-Cl-                                                     |        |        |0,7     |8,4     |

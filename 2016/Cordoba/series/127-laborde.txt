@@ -35,15 +35,15 @@ Situacion: Latitud: 33?16'12"S Longitud: 62?43'06"O Altitud: 110 m.s.n.m.
 |Arena media, 250-500 u (%)                                           |        |        |        |         |          |
 |Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
 |Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,0     |0,0      |2,9       |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |         |2,9       |
 |Equivalente de humedad (%)                                           |20,1    |21,0    |17,6    |14,3     |14,9      |
 |pH en pasta                                                          |5,6     |6,4     |6,7     |7,2      |7,9       |
 |pH en agua (1:2,5)                                                   |6,5     |7,2     |7,5     |7,7      |8,2       |
-|Cationes de intercambio, meq/100 gr (Ca++)                          |9,5     |12,5    |8,7     |9,8      |          |
-|Cationes de intercambio, meq/100 gr (Mg++)                          |2,7     |1,8     |3,6     |2,2      |          |
-|Cationes de intercambio, meq/100 gr (Na+)                           |0,3     |0,3     |0,3     |0,3      |0,4       |
-|Cationes de intercambio, meq/100 gr (K+)                            |2,6     |1,5     |1,2     |1,3      |1,2       |
-|Cationes de intercambio, meq/100 gr (H+)                            |2,2     |0,8     |0,5     |         |          |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |9,5     |12,5    |8,7     |9,8      |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,7     |1,8     |3,6     |2,2      |          |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,3     |0,3      |0,4       |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |1,5     |1,2     |1,3      |1,2       |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,2     |0,8     |0,5     |         |          |
 |Sodio de intercambio, % (PSI)                                        |1,7     |1,7     |2,1     |2,2      |2,4       |
 |Suma de bases, meq/100 gr (S)                                        |15,1    |16,1    |13,8    |13,6     |          |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |17,9    |17,9    |14,4    |13,5     |17,0      |

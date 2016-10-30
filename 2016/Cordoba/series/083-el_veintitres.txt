@@ -35,26 +35,26 @@ Situacion: Latitud: 34o37'55"S Longitud: 64o24'33"O Altitud: 193 m.s.n.m.
 
 |Horizonte                                                            |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-17    |17-45   |45 a +  |
-|Materia Organica (%)                                                 |1,55    |0,86    |-       |
-|Carbono Organico (%)                                                 |0,90    |0,50    |-       |
-|Nitrogeno total (%)                                                  |0,109   |0,062   |-       |
-|Relacion C/N                                                         |8,2     |8,0     |-       |
+|Materia Organica (%)                                                 |1,55    |0,86    |        |
+|Carbono Organico (%)                                                 |0,90    |0,50    |        |
+|Nitrogeno total (%)                                                  |0,109   |0,062   |        |
+|Relacion C/N                                                         |8,2     |8,0     |        |
 |Arcilla, <2 u (%)                                                    |10,0    |9,8     |8,8     |
 |Limo, 2-50 u (%)                                                     |25,5    |23,3    |21,7    |
 |Arena muy fina, 50-100 u (%)                                         |29,8    |35,7    |37,5    |
 |Arena fina, 100-250 u (%)                                            |32,5    |29,3    |29,4    |
 |Arena media, 250-500 u (%)                                           |1,8     |1,4     |1,3     |
 |Arena gruesa, 500-1000 u (%)                                         |1,2     |1,0     |1,0     |
-|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |0,0     |0,0     |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,0     |0,08    |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |0,08    |
 |Equivalente de humedad (%)                                           |12,8    |11,5    |10,8    |
 |pH en pasta                                                          |5,7     |6,7     |7,1     |
 |pH en agua (1:2,5)                                                   |6,1     |6,9     |7,3     |
-|Cationes de intercambio, meq/100 gr (Ca++)                          |7,3     |7,5     |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                          |0,9     |0,6     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                           |0,3     |0,1     |0,3     |
-|Cationes de intercambio, meq/100 gr (K+)                            |1,9     |1,5     |0,8     |
-|Cationes de intercambio, meq/100 gr (H+)                            |0,9     |0,7     |0,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,3     |7,5     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |0,6     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,1     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,9     |1,5     |0,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,9     |0,7     |0,3     |
 |Sodio de intercambio, % (PSI)                                        |2,5     |1,0     |3,3     |
 |Suma de bases, meq/100 gr (S)                                        |10,8    |9,7     |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |11,9    |10,5    |9,2     |

@@ -24,7 +24,7 @@ Situacion: Latitud: 32o16'S Longitud: 64o40'O Altitud: 750 m.s.n.m.
 |Nitrogeno total (%)                                                  |0,4     |        |           |
 |Relacion C/N                                                         |8       |        |           |
 |Arcilla, <2 u (%)                                                    |7,4     |4,5     |           |
-|Limo, 2-50 u (%)                                                     |21,1    |19,9    |calcarea   |
+|Limo, 2-50 u (%)                                                     |21,1    |19,9    |           |
 |Arena muy fina, 50-100 u (%)                                         |7,8     |4,7     |           |
 |Arena fina, 100-250 u (%)                                            |42,8    |39,1    |           |
 |Arena media, 250-500 u (%)                                           |9,4     |12,6    |           |

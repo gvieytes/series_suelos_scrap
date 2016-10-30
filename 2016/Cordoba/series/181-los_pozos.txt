@@ -32,14 +32,14 @@ Situacion: Latitud: 30o37'36"S Longitud: 64o07'41"O Altitud: 750 m.s.n.m.
 |Arena media, 250-500 u (%)                                           |1,3     |0,9     |1,1     |
 |Arena gruesa, 500-1000 u (%)                                         |1,6     |1,2     |1,4     |
 |Arena muy gruesa, 1-2 mm (%)                                         |0,6     |1,1     |1,0     |
-|Carbonatos, CaCO3 (%)                                                |0,0     |0,3     |5,5     |
+|Carbonatos, CaCO3 (%)                                                |        |0,3     |5,5     |
 |Equivalente de humedad (%)                                           |24,6    |23,9    |23,2    |
 |pH en agua (1:2,5)                                                   |7,1     |7,7     |8,2     |
-|Cationes de intercambio, meq/100 gr (Ca++)                          |18,8    |        |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                          |0,4     |        |        |
-|Cationes de intercambio, meq/100 gr (Na+)                           |0,5     |0,4     |0,4     |
-|Cationes de intercambio, meq/100 gr (K+)                            |2,2     |1,6     |1,1     |
-|Cationes de intercambio, meq/100 gr (H+)                            |1,0     |        |        |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |18,8    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,4     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,5     |0,4     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,2     |1,6     |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,0     |        |        |
 |Sodio de intercambio, % (PSI)                                        |2,2     |1,9     |2,0     |
 |Suma de bases, meq/100 gr (S)                                        |21,9    |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |22,9    |20,8    |20,1    |

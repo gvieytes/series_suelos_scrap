@@ -22,24 +22,29 @@ C	103 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; muy fria
 Datos analiticos de la Serie VILLA ROSSI
 Situacion: Latitud: 34o27'54"S Longitud: 63o00'58"O Altitud: 133 m.s.n.m.
 
-|Horizonte                                                            |E       |Btn     |Btn2    |BCn      |C         |
-|Profundidad de la muestra (cm)                                       |0-18    |18-35   |35-66   |66-103   |103 a +   |
-|Materia Organica (%)                                                 |1,38    |0,41    |0,29    |0,10     |          |
-|Carbono Organico (%)                                                 |0,80    |0,24    |0,17    |0,12     |          |
-|Nitrogeno total (%)                                                  |0,09    |0,06    |0,04    |         |          |
-|Relacion C/N                                                         |8,9     |4,0     |4,2     |         |          |
-|Arcilla, <2 u (%)                                                    |9,6     |24,2    |19,3    |12,5     |11,9      |
-|Limo, 2-50 u (%)                                                     |36,0    |27,9    |27,4    |27,9     |25,0      |
-|Arena muy fina, 50-100 u (%)                                         |32,2    |35,0    |30,9    |41,7     |41,4      |
-|Arena fina, 100-250 u (%)                                            |21,4    |14,2    |22,1    |17,4     |19,1      |
-|Arena media, 250-500 u (%)                                           |0,4     |0,3     |0,3     |0,3      |0,4       |
-|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,2     |0,2     |0,3      |0,5       |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                |0,0     |1,0     |0,6     |0,0      |0,3       |
-|Equivalente de humedad (%)                                           |14,7    |25,8    |20,7    |16,6     |16,3      |
-|pH en pasta                                                          |6,1     |8,5     |8,9     |9,0      |9,0       |
-|pH en agua (1:2,5)                                                   |6,3     |9,1     |9,4     |9,4      |9,4       |
-|Cationes de intercambio, meq/100 gr (Ca++)                             |3,9     |        |         |3,7       |
-|Suma de bases, meq/100 gr (S)                                        |8,0     |        |        |14,7     |          |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |10,0    |16,5    |15,3    |14,7     |13,0      |
-|Saturacion con bases, % (S/T)                                        |80,0    |        |        |100      |          |
+|Horizonte                                                            |E       |Btn     |Btn2    |BCn     |C       |
+|Profundidad de la muestra (cm)                                       |0-18    |18-35   |35-66   |66-103  |103 a + |
+|Materia Organica (%)                                                 |1,38    |0,41    |0,29    |0,10    |        |
+|Carbono Organico (%)                                                 |0,80    |0,24    |0,17    |0,12    |        |
+|Nitrogeno total (%)                                                  |0,09    |0,06    |0,04    |        |        |
+|Relacion C/N                                                         |8,9     |4,0     |4,2     |        |        |
+|Arcilla, <2 u (%)                                                    |9,6     |24,2    |19,3    |12,5    |11,9    |
+|Limo, 2-50 u (%)                                                     |36,0    |27,9    |27,4    |27,9    |25,0    |
+|Arena muy fina, 50-100 u (%)                                         |32,2    |35,0    |30,9    |41,7    |41,4    |
+|Arena fina, 100-250 u (%)                                            |21,4    |14,2    |22,1    |17,4    |19,1    |
+|Arena media, 250-500 u (%)                                           |0,4     |0,3     |0,3     |0,3     |0,4     |
+|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,2     |0,2     |0,3     |0,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |1,0     |0,6     |        |0,3     |
+|Equivalente de humedad (%)                                           |14,7    |25,8    |20,7    |16,6    |16,3    |
+|pH en pasta                                                          |6,1     |8,5     |8,9     |9,0     |9,0     |
+|pH en agua (1:2,5)                                                   |6,3     |9,1     |9,4     |9,4     |9,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |3,9     |        |        |3,7     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,4     |        |        |0,8     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,7     |8,5     |10,1    |8,5     |9,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,0     |2,3     |2,3     |1,7     |2,0     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,8     |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |7,0     |51,5    |66,0    |57,8    |72,3    |
+|Suma de bases, meq/100 gr (S)                                        |8,0     |        |        |14,7    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |10,0    |16,5    |15,3    |14,7    |13,0    |
+|Saturacion con bases, % (S/T)                                        |80,0    |        |        |100     |        |

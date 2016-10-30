@@ -35,7 +35,7 @@ Situacion: Latitud: 32o12'09"S Longitud: 62o52'34"O Altitud: 149 m.s.n.m.
 |Arena media, 250-500 u (%)                                            |        |        |        |         |          |
 |Arena gruesa, 500-1000 u (%)                                          |        |        |        |         |          |
 |Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                 |0       |0,19    |1,41    |1,72     |2,71      |
+|Carbonatos, CaCO3 (%)                                                 |        |0,19    |1,41    |1,72     |2,71      |
 |Equivalente de humedad (%)                                            |33,0    |32,9    |27,7    |23,3     |20,6      |
 |pH en pasta                                                           |6,4     |7,5     |8,1     |8,6      |8,8       |
 |pH en agua (1:2,5)                                                    |6,8     |8,1     |8,6     |9,2      |9,6       |
@@ -49,11 +49,11 @@ Situacion: Latitud: 32o12'09"S Longitud: 62o52'34"O Altitud: 149 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |20,4    |        |        |         |          |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |21,2    |23      |22,5    |21,4     |14,2      |
 |Saturacion con bases, % (S/T)                                         |96      |        |        |         |          |
-|C.EXT.S ME/1-Ca++                                                     |        |        |16,16   |7,04     |3,2       |
-|C.EXT.S ME/1-Mg++                                                     |        |        |5,76    |6,88     |5,6       |
-|C.EXT.S ME/1-Na+                                                      |        |        |54,8    |80,0     |47,8      |
-|C.EXT.S ME/1-K+                                                       |        |        |1,6     |1,4      |4,4       |
-|C.EXT.S ME/1-CO3=                                                     |        |        |        |         |          |
-|C.EXT.S ME/1-HCO3-                                                    |        |        |3,04    |3,2      |7,68      |
-|C.EXT.S ME/1-SO4=                                                     |        |        |57,46   |59,1     |43,17     |
-|C.EXT.S ME/1-Cl-                                                      |        |        |22,16   |29,12    |13,76     |
+|C.EXT.S ME/l-Ca++                                                     |        |        |16,16   |7,04     |3,2       |
+|C.EXT.S ME/l-Mg++                                                     |        |        |5,76    |6,88     |5,6       |
+|C.EXT.S ME/l-Na+                                                      |        |        |54,8    |80,0     |47,8      |
+|C.EXT.S ME/l-K+                                                       |        |        |1,6     |1,4      |4,4       |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |         |          |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |3,04    |3,2      |7,68      |
+|C.EXT.S ME/l-SO4=                                                     |        |        |57,46   |59,1     |43,17     |
+|C.EXT.S ME/l-Cl-                                                      |        |        |22,16   |29,12    |13,76     |

@@ -1,0 +1,50 @@
+Serie ALPA CORRAL
+Simbolo: ACo
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 63
+Capacidad de uso: IIIes
+
+La Serie representa perfiles de suelos bien drenados, que se han desarrollado a partir de materiales loessicos franco limosos y se vincula a relieves de lomas onduladas. Es un suelo de incipiente desarrollo; la capa arable (A) de 24 cm de profundidad, tiene un contenido de materia organica de 1,9%, es debilmente acido y posee agregados de moderada estabilidad. Pasa transicionalmente (AC) a un horizonte C a 56 cm, encontrandose los carbonatos libres en la masa del suelo a partir de 75 cm.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 6,75 km al SE de Rio de los Sauces, departamento Calamuchita, provincia de Cordoba.
+
+A	0-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro suave.
+
+AC	24-56 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior gradual suave.
+
+C	56-75 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto.
+
+Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; fuerte a violenta reaccion al clorhidrico por la presencia de CO3Ca diseminado en la masa del suelo.
+
+
+Datos analiticos Serie ALPA CORRAL
+
+Situacion: Latitud: 32º34'40"S Longitud: 64º32'33"O Altitud: 720 m.s.n.m.
+|Horizonte                                                            |A       |AC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-24    |24-56   |56-75   |75 a +  |
+|Materia Organica (%)                                                 |1,90    |0,86    |        |        |
+|Carbono Organico (%)                                                 |1,10    |0,50    |        |        |
+|Nitrogeno total (%)                                                  |0,18    |        |        |        |
+|Relacion C/N                                                         |6,1     |        |        |        |
+|Arcilla, <2 u (%)                                                    |16,0    |14,6    |11,9    |10,8    |
+|Limo, 2-50 u (%)                                                     |54,5    |57,5    |62,4    |60,5    |
+|Arena muy fina, 50-100 u (%)                                         |27,0    |20,8    |23,2    |23,9    |
+|Arena fina, 100-250 u (%)                                            |1,9     |3,9     |3,5     |3,7     |
+|Arena media, 250-500 u (%)                                           |0,1     |0,1     |0,2     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,2     |0,2     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |0,1     |0,1     |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |3,0     |
+|Equivalente de humedad (%)                                           |21,1    |20,1    |21,5    |18,2    |
+|pH en pasta                                                          |6,1     |6,7     |7,0     |8,1     |
+|pH en agua (1:2,5)                                                   |6,3     |7,1     |7,5     |8,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |9,8     |11,0    |11,1    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,3     |1,3     |0,9     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,1     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,3     |1,2     |1,3     |
+|H+ de cambio (meq/100 gr)                                            |1,3     |0,4     |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,1     |0,7     |1,5     |2,5     |
+|Suma de bases, meq/100 gr (S)                                        |12,9    |13,7    |13,4    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,2    |14,0    |13,4    |12,1    |
+|Saturacion con bases, % (S/T)                                        |90,8    |97,9    |100     |        |

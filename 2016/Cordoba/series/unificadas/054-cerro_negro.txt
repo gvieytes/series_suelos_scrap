@@ -1,0 +1,46 @@
+Serie CERRO NEGRO
+Simbolo: CN
+Ustorthent litico paralitico, esqueletica, franca, mixta, termica
+Indice de Productividad: 6
+Capacidad de uso: VIIes
+
+Este suelo se ha desarrollado incipientemente sobre rocas del complejo metamorfico de las serranias de la vertiente oriental de la Sierra Chica de Cordoba y de Ischilin. Ocupa laderas muy inclinadas/colinadas y se caracteriza esencialmente por su profundidad efectiva muy somera, pedregosidad y textura de matriz franco arenosa a areno franca gruesa.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de la Serie fue descrito a 8 km al Oeste del paraje Canada de Rio Pinto, departamento Ischilin, provincia de Cordoba.
+
+A	0-8 cm; color en humedo pardo oscuro (10YR3/3); areno franco gravilloso; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; pH 7,3; raices comunes; limite inferior abrupto (mas de 30% de gravilla).
+
+2	8-16 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco gravilloso; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; raices escasas; limite inferior claro (mas de 30% de gravilla).
+
+R	16 cm a +; roca alterada del complejo metamorfico; colores cambiantes segun el mineral o combinaciones de minerales observados; predominan las rojizas y amarillentas segun el grado de alteracion (contacto litico/paralitico).
+
+Datos analiticos Serie CERRO NEGRO
+Situacion: Latitud: 30º46'53"S Longitud: 64º15'47"O Altitud: 1000 m.s.n.m.
+
+|Horizonte                                                            |A       |2       |
+|Profundidad de la muestra (cm)                                       |0-8     |8-16    |
+|Materia Organica (%)                                                 |5,17    |4,31    |
+|Carbono Organico (%)                                                 |3,0     |2,5     |
+|Nitrogeno total (%)                                                  |0,27    |0,22    |
+|Relacion C/N                                                         |11,1    |11,4    |
+|Arcilla, <2 u (%)                                                    |3,6     |5,7     |
+|Limo, 2-50 u (%)                                                     |16,0    |17,4    |
+|Arena muy fina, 50-100 u (%)                                         |9,1     |7,7     |
+|Arena fina, 100-250 u (%)                                            |15,7    |13,1    |
+|Arena media, 250-500 u (%)                                           |17,1    |13,7    |
+|Arena gruesa, 500-1000 u (%)                                         |23,1    |20,7    |
+|Arena muy gruesa, 1-2 mm (%)                                         |13,5    |19,1    |
+|Carbonatos, CaCO3 (%)                                                |        |        |
+|Equivalente de humedad (%)                                           |17,6    |16,2    |
+|pH en agua (1:2,5)                                                   |7,3     |7,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,2    |14,3    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,5     |0,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,8     |0,7     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,0     |0,3     |
+|Sodio de intercambio, % (PSI)                                        |1,9     |1,8     |
+|Suma de bases, meq/100 gr (S)                                        |14,8    |16,2    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,8    |16,5    |
+|Saturacion con bases, % (S/T)                                        |93,7    |98,2    |

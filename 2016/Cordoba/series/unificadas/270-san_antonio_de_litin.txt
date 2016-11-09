@@ -1,0 +1,54 @@
+Serie SAN ANTONIO DE LITIN
+Argialbol tipico, limosa fina, mixta, termica
+Indice de Productividad: 65
+
+La Serie San Antonio de Litin es un suelo moderado a imperfectamente drenado, desarrollado sobre materiales franco limosos, que ocupa amplios sectores aplanados y deprimidos en unidades compuestas. No tiene alcalinidad ni salinidad en ningun horizonte. Los primeros 21 cm son de color pardo grisaceo muy oscuro, textura franco limosa (20% de arcilla), rico en materia organica, con estructura en bloques debiles. Le sigue hasta 29 cm un horizonte decolorado (E), de textura franco limosa (17%) de arcilla) y estructura masiva. A continuacion y hasta 73 cm existe un horizonte enriquecido en arcilla (B divisible en Bt y Bt2) con 36% de arcilla, estructura en prismas y textura franco arcillo limosa. El material originario se encuentra a 106 cm de profundidad, esta parcialmente cementado y con elevado contenido de calcareo libre en la masa del suelo. El perfil presenta moteados rojizos y parduscos desde 13 cm de profundidad.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa a los suelos de esta Serie fue estudiado a 5,6 Km al ENE de la estancia La Violeta, departamento Union, provincia de Cordoba.
+
+Ap	0-13 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios y finos debiles; friable en humedo; no plastico; no adhesivo; abundantes raices; limite inferior abrupto, suave.
+
+A	13-21 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; moteados escasos, finos y debiles; abundantes raices; limite inferior claro, suave.
+
+E	21-29 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y debiles; abundantes raices; limite inferior abrupto, ondulado.
+
+Bt	25-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas irregulares medios fuertes; duro en seco; firme en humedo; plastico; adhesivo; abundantes barnices humico arcillosos medios; moteados comunes, finos y debiles; limite inferior claro, suave.
+
+Bt2	52-73 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas, irregulares medios moderados, rompen a bloques subangulares medios; ligeramente duro en seco; firme en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes, y medios; moteados comunes, finos y precisos; durinodulos comunes; limite inferior gradual, suave.
+
+BC	73-106 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares debiles y bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; moteados abundantes, medios y precisos; abundantes durinodulos.
+
+Ckm	106 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; cementado; moteados abundantes, gruesos y sobresalientes; abundante calcareo libre en la masa.
+
+Datos analiticos Serie SAN ANTONIO DE LITIN
+Situacion: Latitud: 32º06'32"S Longitud: 62º25'59"O Altitud: 110 m.s.n.m.
+
+|Horizonte                                                        |Ap      |A       |E       |Bt      |Bt2     |BC      |Ckm     |
+|Profundidad de la muestra (cm)                                   |0-13    |13-21   |21-29   |29-52   |52-73   |73-106  |106 a + |
+|Materia Organica (%)                                             |3,65    |2,93    |1,60    |0,97    |0,55    |0,34    |0,29    |
+|Carbono Organico (%)                                             |2,12    |1,70    |0,93    |0,56    |0,32    |0,20    |0,17    |
+|Nitrogeno total (%)                                              |0,21    |0,16    |0,10    |0,08    |0,06    |0,06    |0,03    |
+|Relacion C/N                                                     |10,0    |10,6    |9,3     |7,0     |5,3     |3,3     |5,6     |
+|Arcilla, <2 u (%)                                                |20,2    |19,4    |17,4    |36,7    |35,7    |21,2    |13,8    |
+|Limo, 2-50 u (%)                                                 |67,7    |68,9    |69,9    |53,7    |58,4    |62,3    |58,2    |
+|Arena muy fina, 50-100 u (%)                                     |9,2     |9,4     |9,4     |6,7     |6,0     |10,4    |5,6     |
+|Arena fina, 100-250 u (%)                                        |2,2     |3,2     |1,5     |2,7     |0,5     |2,6     |18,7    |
+|Arena media, 250-500 u (%)                                       |0,4     |0,4     |        |0,5     |        |0,8     |1,8     |
+|Arena gruesa, 500-1000 u (%)                                     |0,4     |0,2     |        |0,4     |        |1,1     |1,7     |
+|Arena muy gruesa, 1-2 mm (%)                                     |        |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                            |        |        |        |        |        |        |6,31    |
+|Equivalente de humedad (%)                                       |28,7    |29,3    |26,0    |32,8    |30,7    |29,0    |24,3    |
+|pH en pasta                                                      |4,6     |5,3     |5,7     |6,2     |6,5     |7,0     |7,8     |
+|pH en agua (1:2,5)                                               |4,8     |5,4     |5,9     |6,7     |7,0     |7,5     |8,0     |
+|Cationes de intercambio, meq/100 gr (Ca++)                       |7,7     |10,2    |8,2     |12,6    |15,0    |14,0    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                       |1,1     |0,6     |1,0     |1,9     |3,5     |2,2     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                        |0,3     |0,2     |0,3     |0,6     |0,7     |1,1     |1,6     |
+|Cationes de intercambio, meq/100 gr (K+)                         |2,7     |2,5     |1,9     |3,1     |2,7     |2,5     |2,2     |
+|Cationes de intercambio, meq/100 gr (H+)                         |4,8     |3,6     |2,3     |1,4     |1,2     |0,8     |        |
+|Sodio de intercambio, % (PSI)                                    |1,9     |1,3     |2,2     |3,0     |3,1     |5,5     |10,4    |
+|Suma de bases, meq/100 gr (S)                                    |11,8    |13,5    |11,4    |18,2    |21,9    |19,8    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)               |15,6    |15,6    |13,6    |20,2    |22,6    |20      |15,4    |
+|Saturacion con bases, % (S/T)                                    |75      |86      |84      |90      |97      |99      |        |
+

@@ -1,0 +1,46 @@
+Serie LA SENTENCIA I
+Simbolo: LStI
+Argiustol udico, franca fina, mixta, termica
+Capacidad de uso: IIIec
+Indice de Productividad: 67
+
+La Serie La Sentencia I es un suelo bien drenado desarrollado sobre derrames proximales intermedios ondulados de los rios Santa Catalina y Ascochinga y otros menores, en situaciones del relieve de media loma alta con escurrimiento medio y permeabilidad moderada. Tiene un horizonte superficial de color oscuro, textura franco limosa, estructura en bloques con 3% de materia organica, que se extiende hasta 35 cm de profundidad. Continua hacia abajo un horizonte enriquecido en arcillas iluviales de textura franco arcillosa, estructura en prismas y bloques medios; se extiende hasta los 64 cm. Luego continua un horizonte de transicion 2BC coincidente con una capa mas arenosa hasta los 96 cm de profundidad, desde donde no existen mas evidencias de edafizacion, de textura franca y masiva. Se observan gravillas a partir de la capa 2BC.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie La Sentencia I que se describe a continuacion, se encuentra ubicado a 10 km al NO de Jesus Maria, departamento Totoral, provincia de Cordoba.
+
+Ap	0-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios finos moderados a debiles y granular; pH 6,6; limite inferior abrupto, suave.
+
+A	21-35 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios gruesos moderados y granular; pH 6,5; limite inferior claro, suave.
+
+Bt	35-64 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco arcilloso; estructura en bloques subangulares medios gruesos moderados; barnices escasos medios y finos; pH 6,8; limite inferior abrupto.
+
+2BC	64-96 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios gruesos moderados; barnices escasos finos; pH 7,1; limite inferior claro, suave.
+
+2C	96 cm a +; color en humedo pardo oscuro (10YR3/3); franco; masivo; pH 7,2.
+
+Datos analiticos Serie LA SENTENCIA I
+Situacion: Latitud: 30º56'45"S Longitud: 64º13'05"O Altitud: 550 m.s.n.m.
+
+|Horizonte                                                            |Ap      |A       |Bt      |2BC     |2C      |
+|Profundidad de la muestra (cm)                                       |0-21    |21-35   |35-64   |64-96   |96 a +  |
+|Materia Organica (%)                                                 |2,9     |3,1     |        |        |        |
+|Carbono Organico (%)                                                 |        |        |        |        |        |
+|Nitrogeno total (%)                                                  |0,14    |0,16    |        |        |        |
+|Relacion C/N                                                         |        |        |        |        |        |
+|Arcilla, <2 u (%)                                                    |21,4    |25,6    |32,3    |26,9    |16,4    |
+|Limo, 2-50 u (%)                                                     |50,5    |45,4    |43,8    |35,7    |30,1    |
+|Arena (%)                                                            |26,0    |25,7    |21,3    |35,6    |50,7    |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |
+|Equivalente de humedad (%)                                           |        |        |        |        |        |
+|pH en agua (1:2,5)                                                   |6,6     |6,5     |6,8     |7,1     |7,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,9    |13,0    |17,1    |13,0    |10,7    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7     |1,0     |1,0     |2,6     |1,3     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,3     |0,3     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,3     |1,0     |1,0     |0,5     |0,4     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,0     |1,1     |1,1     |0,5     |0,4     |
+|Sodio de intercambio, % (PSI)                                        |2,0     |1,8     |1,5     |1,8     |1,5     |
+|Suma de bases, meq/100 gr (S)                                        |14,2    |15,3    |19,4    |16,4    |12,6    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,2    |16,4    |19,6    |16,9    |13,0    |
+|Saturacion con bases, % (S/T)                                        |93      |93      |94      |97      |97      |

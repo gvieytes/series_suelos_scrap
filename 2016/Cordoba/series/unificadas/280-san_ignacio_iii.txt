@@ -1,0 +1,47 @@
+Serie SAN IGNACIO III
+Argiudol thapto argico, franca fina, mixta, termica
+Indice de Productividad: 67
+
+Esta Serie se trata de un suelo bien drenado, desarrollado a partir de materiales de origen eolico, y vinculado a pendientes suaves. El horizonte A, franco limoso, presenta un contenido moderadamente alto de materia organica (4,5%). El perfil se continua con dos horizontes iluviales (B) producto de distintos sedimentos de origen eolico (loess), de textura medias a finas y fuerte estructura prismatica. Por ultimo, una cuarta capa, franco limosa, que contiene carbonato de calcio diseminado en la masa, con incipiente cementacion. La pendiente dominante es del 1 al 3%, con escurrimiento medio, permeabilidad moderada y sin peligro de anegamiento.
+
+Descripcion del perfil tipico:
+
+La presente Serie, su perfil fue descrito a 4 km al Oeste de San Ignacio, departamento Calamuchita, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura granular; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,7; raices abundantes; limite inferior claro suave.
+
+2Bw	20-46 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arcilloso; estructura en prismas irregulares medios y bloques; friable a humedo; ligeramente plastico; ligeramente adhesivo; pH 7,2; abundantes barnices (clhm) medios; escasas raices; limite inferior claro suave.
+
+3Bw	46-67 cm; color en humedo pardo amarillento a pardo amarillento oscuro (10YR4,5/4); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios y prismas fuertes; friable en humedo; plastico; adhesivo; pH 7,3; abundantes barnices (clhm) medios; limite inferior abrupto suave.
+
+4k	67 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,1; moderada reaccion al acido clorhidrico.
+
+Datos analiticos Serie SAN IGNACIO III
+Situacion: Latitud: 32º08'00"S Longitud: 64º32'30"O Altitud: 750 m.s.n.m.
+
+|Horizonte                                                            |A       |2Bw     |3Bw     |4k      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-46   |46-67   |67 a +  |
+|Materia Organica (%)                                                 |4,31    |2,76    |        |        |
+|Carbono Organico (%)                                                 |2,5     |1,6     |        |        |
+|Nitrogeno total (%)                                                  |0,29    |        |        |        |
+|Relacion C/N                                                         |9       |        |        |        |
+|Arcilla, <2 u (%)                                                    |17,9    |26,1    |27,3    |19,6    |
+|Limo, 2-50 u (%)                                                     |67,3    |41,7    |57,5    |57,4    |
+|Arena muy fina, 50-100 u (%)                                         |6,2     |23,6    |6,8     |7,4     |
+|Arena fina, 100-250 u (%)                                            |4,8     |3,5     |2,7     |3,3     |
+|Arena media, 250-500 u (%)                                           |1,0     |1,6     |1,8     |0,9     |
+|Arena gruesa, 500-1000 u (%)                                         |1,2     |4,2     |3,1     |4,6     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,7     |1,8     |2,5     |4,1     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |9,7     |
+|Equivalente de humedad (%)                                           |25,69   |22,30   |23,75   |21,27   |
+|pH en pasta                                                          |6,5     |6,7     |6,8     |7,6     |
+|pH en agua (1:2,5)                                                   |6,7     |7,2     |7,3     |8,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |18,1    |16,0    |16,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,1     |0,7     |1,2     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,1     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,9     |1,3     |1,1     |0,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,4     |1,1     |0,7     |        |
+|Sodio de intercambio, % (PSI)                                        |1,3     |1,5     |0,5     |0,8     |
+|Suma de bases, meq/100 gr (S)                                        |21,4    |18,3    |18,7    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,8    |19,5    |19,3    |12      |
+|Saturacion con bases, % (S/T)                                        |94      |94      |97      |        |

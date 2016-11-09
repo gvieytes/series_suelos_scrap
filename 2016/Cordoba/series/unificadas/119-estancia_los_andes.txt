@@ -1,0 +1,45 @@
+Serie ESTANCIA LOS ANDES
+Haplustol udorthentico, franca gruesa, mixta, termica
+Indice de Productividad: 46
+
+La Serie Estancia Los Andes es un suelo algo excesivamente drenado, con poco desarrollo de sus horizontes geneticos y vinculados a lomas planas y ligeramente onduladas. Se han desarrollado a partir de sedimentos eolicos de textura franco arenosa. La capa arable (horizonte A) de 22 cm de espesor, de color pardo grisaceo oscuro en humedo, de textura franco arenosa y estructura en bloques. Luego pasa gradualmente (horizonte de transicion AC) al material originario que se encuentra a una profundidad de 46 cm, de textura franco arenosa a arenosa franca y estructura masiva. El calcareo se encuentra muy profundo y por lo general por debajo del metro. Estos suelos presentan baja retencion de humedad y drenaje excesivo, que aumentan la sequedad del suelo y por lo tanto presentan limitacion climatica.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa los suelos de esta Serie fue estudiado a 4,2 Km al NNE de Villa Rossi, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
+
+A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios, debiles, friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+AC	22-46 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
+
+C	46 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso a arenoso franco; masivo; muy friable en humedo; no plastico; no adhesivo.
+
+Datos analiticos Serie ESTANCIA LOS ANDES
+Situacion: Latitud: 34º15'33"S Longitud: 63º15'19"O Altitud: 133 m.s.n.m.
+
+|Horizonte                                                            |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                       |0-22    |22-46   |46 a +  |
+|Materia Organica (%)                                                 |1,57    |0,77    |        |
+|Carbono Organico (%)                                                 |0,91    |0,45    |        |
+|Nitrogeno total (%)                                                  |0,1     |0,07    |        |
+|Relacion C/N                                                         |9,1     |6,4     |        |
+|Arcilla, <2 u (%)                                                    |10,0    |11,2    |8,7     |
+|Limo, 2-50 u (%)                                                     |18,7    |18,0    |16,9    |
+|Arena muy fina, 50-100 u (%)                                         |38,9    |31,7    |37,9    |
+|Arena fina, 100-250 u (%)                                            |31,8    |39,8    |37,4    |
+|Arena media, 250-500 u (%)                                           |0,6     |0,2     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,3     |0,2     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |
+|Equivalente de humedad (%)                                           |10,9    |9,3     |8,6     |
+|pH en pasta                                                          |5,9     |6,5     |6,7     |
+|pH en agua (1:2,5)                                                   |6,1     |6,8     |7,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |5,5     |6,3     |5,8     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |0,6     |1,0     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,0     |1,0     |0,7     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,7     |1,0     |0,7     |
+|Sodio de intercambio, % (PSI)                                        |2,8     |3,2     |2,4     |
+|Suma de bases, meq/100 gr (S)                                        |8,7     |8,2     |7,7     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |10,6    |9,3     |8,3     |
+|Saturacion con bases, % (S/T)                                        |82      |88      |93      |

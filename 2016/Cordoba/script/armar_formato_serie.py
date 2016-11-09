@@ -1,8 +1,8 @@
 
 #Serie_Matorrales.psv ->> ID..........................: 409
-#Serie_Matorrales.psv ->> CLASIFICACION...............: Argiustol típico
+#Serie_Matorrales.psv ->> CLASIFICACION...............: Argiustol tipico
 #Serie_Matorrales.psv ->> SERIE.......................: MATORRALES (Mtrrls)
-#Serie_Matorrales.psv ->> UBICACION...................: 13 Km al Oeste de la localidad de Matorrales, departamento Río Segundo
+#Serie_Matorrales.psv ->> UBICACION...................: 13 Km al Oeste de la localidad de Matorrales, departamento Rio Segundo
 #Serie_Matorrales.psv ->> PROVINCIA...................: CORDOBA
 #Serie_Matorrales.psv ->> LATITUD.....................: S314229
 #Serie_Matorrales.psv ->> LONGITUD....................: O633900
@@ -11,8 +11,8 @@
 #Serie_Matorrales.psv ->> DRENAJE.....................: FALTA!
 #Serie_Matorrales.psv ->> ESCURRIMIENTO...............: FALTA!
 #Serie_Matorrales.psv ->> PERMEABILIDAD...............: FALTA!
-#Serie_Matorrales.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TÉRMICA
-#Serie_Matorrales.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO A PARDO GRISÁCEO MUY OSCURO
+#Serie_Matorrales.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TERMICA
+#Serie_Matorrales.psv ->> COLOR ......................: PARDO GRISÁCEO OSCURO A PARDO GRISACEO MUY OSCURO
 #Serie_Matorrales.psv ->> HORIZONTE->NOMBRE(S)........: Ap   | Bt    | BC    | Ck
 #Serie_Matorrales.psv ->> HORIZONTE->PROFUNDIDADES(CM): 0-21 | 21-52 | 52-76 | 76a+
 #Serie_Matorrales.psv ->> HORIZONTE->MATERIA ORGÁN.(%): 2,3  | 0,8   | 0,7   | 0,4
@@ -44,10 +44,17 @@ import string
 fileName = 'FN.txt'
 idNro = 'idNumero'
 clasificacion = 'clasif'
-serie = 'serieeee'
+serie = 'serieeee' #Se obtiene de "^Serie"
+simbolo = 'siimbolo' #Se obtiene de "^Simbolo"
 ubicacion = 'ubiccc'
-drenaje = 'drena'
+latitud = 'lattiud'
+longitud = 'loongitud'
+altitud = 'allltitud'
+
 tipoSuelo = 'tpS'
+
+#Serie_Matorrales.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TERMICA
+
 
 hNomb = 'hNomb'
 hProf = 'hProf'
@@ -77,42 +84,42 @@ hSatB = 'hSatB'
 
 
 print('-----------------------------------------------------------------------------------------------------------------------------------------------------------')
-print('{} ->> ID..........................: {}'.format( fileName, idNro ) )
-print('{} ->> CLASIFICACION...............: {}'.format( fileName, clasificacion ) )
-print('{} ->> SERIE.......................: {}'.format( fileName, serie ) )
-print('{} ->> UBICACION...................: {}'.format( fileName, ubicacion ) )
-print('{} ->> PROVINCIA...................: CORDOBA'.format( fileName ) )
-print('{} ->> LATITUD.....................: FALTA!'.format( fileName ) )
-print('{} ->> LONGITUD....................: FALTA!'.format( fileName ) )
-print('{} ->> ALTITUD.....................: FALTA!'.format( fileName ) )
-print('{} ->> PENDIENTE...................: FALTA!'.format( fileName ) )
-print('{} ->> DRENAJE.....................: {}'.format( fileName, drenaje ) )
-print('{} ->> ESCURRIMIENTO...............: FALTA!'.format( fileName ) )
-print('{} ->> PERMEABILIDAD...............: FALTA!'.format( fileName ) )
-print('{} ->> TIPO DE SUELO...............: {}'.format( fileName, tipoSuelo) )
-print('{} ->> COLOR ......................: FALTA!'.format( fileName ) )
-print('{} ->> HORIZONTE->NOMBRE(S)........: {}'.format( fileName, hNomb ) )
-print('{} ->> HORIZONTE->PROFUNDIDADES(CM): {}'.format( fileName, hProf ) )
-print('{} ->> HORIZONTE->MATERIA ORGÁN.(%): {}'.format( fileName, hMatOrg ) )
-print('{} ->> HORIZONTE->CARBONO ORGÁN.(%): {}'.format( fileName, hCarbOrg ) )
-print('{} ->> HORIZONTE->NITRÓGENO TOT.(%): {}'.format( fileName, hNitTot ) )
-print('{} ->> HORIZONTE->RELACIÓN C/N.....: {}'.format( fileName, hRelCN ) )
-print('{} ->> HORIZONTE->ARCILLA 2 (%)....: {}'.format( fileName, hArcilla ) )
-print('{} ->> HORIZONTE->LIMO 2-50 (%)....: {}'.format( fileName, hLim ) )
-print('{} ->> HORIZONTE->AMF 50-100 (%)...: {}'.format( fileName, hAMF ) )
-print('{} ->> HORIZONTE->AF 100-250 (%)...: {}'.format( fileName, hAF ) )
-print('{} ->> HORIZONTE->AM 250-500 (%)...: {}'.format( fileName, hAM ) )
-print('{} ->> HORIZONTE->AG 500-1000 (%)..: {}'.format( fileName, hAG ) )
-print('{} ->> HORIZONTE->AMG 1-2 mm (%)...: {}'.format( fileName, hAMG ) )
-print('{} ->> HORIZONTE->CALCAREO CaCO3(%): {}'.format( fileName, hCalc ) )
-print('{} ->> HORIZONTE->EQUIV. HUMEDAD(%): {}'.format( fileName, hEqHum ) )
-print('{} ->> HORIZONTE->PH PASTA.........: {}'.format( fileName, hPHPast ) )
-print('{} ->> HORIZONTE->PH H2O 1:2,5.....: {}'.format( fileName, hPHH2O ) )
-print('{} ->> HORIZONTE->CI ME/100G-Ca ++.: {}'.format( fileName, hCICa ) )
-print('{} ->> HORIZONTE->CI ME/100G-Mg ++.: {}'.format( fileName, hCIMg ) )
-print('{} ->> HORIZONTE->CI ME/100G-Na +..: {}'.format( fileName, hCINa ) )
-print('{} ->> HORIZONTE->CI ME/100G-K +...: {}'.format( fileName, hCIK ) )
-print('{} ->> HORIZONTE->CI ME/100G-H +...: {}'.format( fileName, hCIH ) )
-print('{} ->> HORIZONTE->SUM.B. ME/100G(S): {}'.format( fileName, hSumB ) )
-print('{} ->> HORIZONTE->CIC ME/100G(T)...: {}'.format( fileName, hCIC ) )
-print('{} ->> HORIZONTE->SAT.B % (S/T)....: {}'.format( fileName, hSatB ) )
+print('{} ->> ID...........................: {}'.format( fileName, idNro ) )
+print('{} ->> CLASIFICACION................: {}'.format( fileName, clasificacion ) )
+print('{} ->> SERIE........................: {} ({})'.format( fileName, serie, simbolo ) )
+print('{} ->> UBICACION....................: {}'.format( fileName, ubicacion ) )
+print('{} ->> PROVINCIA....................: CORDOBA'.format( fileName ) )
+print('{} ->> LATITUD......................: FALTA!'.format( fileName ) )
+print('{} ->> LONGITUD.....................: FALTA!'.format( fileName ) )
+print('{} ->> ALTITUD......................: FALTA!'.format( fileName ) )
+print('{} ->> PENDIENTE....................: FALTA!'.format( fileName ) )
+print('{} ->> DRENAJE......................: FALTA!'.format( fileName, drenaje ) )
+print('{} ->> ESCURRIMIENTO................: FALTA!'.format( fileName ) )
+print('{} ->> PERMEABILIDAD................: FALTA!'.format( fileName ) )
+print('{} ->> TIPO DE SUELO................: {}'.format( fileName, tipoSuelo) )
+print('{} ->> COLOR .......................: FALTA!'.format( fileName ) )
+print('{} ->> HORIZONTE->NOMBRE(S).........: {}'.format( fileName, hNomb ) )
+print('{} ->> HORIZONTE->PROFUNDIDADES(CM).: {}'.format( fileName, hProf ) )
+print('{} ->> HORIZONTE->MATERIA ORGÁN.(%).: {}'.format( fileName, hMatOrg ) )
+print('{} ->> HORIZONTE->CARBONO ORGÁN.(%).: {}'.format( fileName, hCarbOrg ) )
+print('{} ->> HORIZONTE->NITRÓGENO TOT.(%).: {}'.format( fileName, hNitTot ) )
+print('{} ->> HORIZONTE->RELACIÓN C/N......: {}'.format( fileName, hRelCN ) )
+print('{} ->> HORIZONTE->ARCILLA 2 (%).....: {}'.format( fileName, hArcilla ) )
+print('{} ->> HORIZONTE->LIMO 2-50 (%).....: {}'.format( fileName, hLim ) )
+print('{} ->> HORIZONTE->AMF 50-100 (%)....: {}'.format( fileName, hAMF ) )
+print('{} ->> HORIZONTE->AF 100-250 (%)....: {}'.format( fileName, hAF ) )
+print('{} ->> HORIZONTE->AM 250-500 (%)....: {}'.format( fileName, hAM ) )
+print('{} ->> HORIZONTE->AG 500-1000 (%)...: {}'.format( fileName, hAG ) )
+print('{} ->> HORIZONTE->AMG 1-2 mm (%)....: {}'.format( fileName, hAMG ) )
+print('{} ->> HORIZONTE->CALCAREO CaCO3(%).: {}'.format( fileName, hCalc ) )
+print('{} ->> HORIZONTE->EQUIV. HUMEDAD(%).: {}'.format( fileName, hEqHum ) )
+print('{} ->> HORIZONTE->PH PASTA..........: {}'.format( fileName, hPHPast ) )
+print('{} ->> HORIZONTE->PH H2O 1:2,5......: {}'.format( fileName, hPHH2O ) )
+print('{} ->> HORIZONTE->CI ME/100G-Ca ++..: {}'.format( fileName, hCICa ) )
+print('{} ->> HORIZONTE->CI ME/100G-Mg ++..: {}'.format( fileName, hCIMg ) )
+print('{} ->> HORIZONTE->CI ME/100G-Na +...: {}'.format( fileName, hCINa ) )
+print('{} ->> HORIZONTE->CI ME/100G-K +....: {}'.format( fileName, hCIK ) )
+print('{} ->> HORIZONTE->CI ME/100G-H +....: {}'.format( fileName, hCIH ) )
+print('{} ->> HORIZONTE->SUM.B. ME/100G(S).: {}'.format( fileName, hSumB ) )
+print('{} ->> HORIZONTE->CIC ME/100G(T)....: {}'.format( fileName, hCIC ) )
+print('{} ->> HORIZONTE->SAT.B % (S/T).....: {}'.format( fileName, hSatB ) )

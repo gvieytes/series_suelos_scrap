@@ -1,0 +1,51 @@
+Serie LA LAGUNITA
+Simbolo: LLg
+Hapludol acuico, limosa gruesa, mixta, termica
+Indice de Productividad: 77
+Capacidad de uso: IIw
+
+La Serie La Lagunita, es un suelo moderadamente bien drenado, oscuro, desarrollado sobre materiales loessicos redepositados con influencia fluvial, en zonas ligeramente deprimidas de las areas de derrame. Los primeros 16 cm que constituye la capa arable (horizonte A), es de color pardo grisaceo oscuro y estructura en bloques debiles. Luego se pasa claramente a otro horizonte algo mas pesado (Bw) que se extiende hasta los 43 cm, de color pardo amarillento, estructura en prismas moderados y bloques, presentando abundantes barnices medios en la cara de los agregados. La transicion entre el Bw y el loess del substrato (horizonte C) es muy gradual. Este ultimo se encuentra a una profundidad de 70 cm, es un material franco limoso, masivo y con calcareo diseminado en la masa a partir de los 86 cm. Los suelos de la Serie La Lagunita, se los usa tanto en agricultura como en ganaderia, aunque presentan cierta limitacion climatica.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie La Lagunita, que se describe a continuacion, fue estudiado a 9,5 km al NO de Ordonez, departamento Union, provincia de Cordoba.
+
+A	0-16 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; material decolorado; moteados escasos, finos y debiles; limite inferior abrupto, suave.
+
+Bw	16-43 cm; color en humedo pardo amarillento (10YR5/4); franco limoso; estructura en prismas irregulares medios moderados rompe a bloques ligeramente firme; ligeramente adhesivo; barnices "Clay Skins" abundantes y medios; moteados comunes, finos y precisos; limite inferior claro, suave.
+
+BC	43-72 cm; color en humedo pardo amarillento (10YR5/4); franco limoso; estructura en prismas debiles y bloques con tendencia a masivo; friable en humedo; no plastico; no adhesivo; barnices "Clay Skins" escasos y finos; limite inferior gradual, suave.
+
+C	72-86 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, ondulado.
+
+Ck	86 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; concreciones calcareas comunes y gruesas y elevado contenido diseminado en la masa.
+
+Datos analiticos Serie LA LAGUNITA
+Situacion: Latitud: 32º46'00"S Longitud: 62º55'45"O Altitud: 142 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |BC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-16    |16-43   |43-72   |72-86   |86 a +  |
+|Materia Organica (%)                                                 |3,13    |0,58    |0,58    |0,27    |0,10    |
+|Carbono Organico (%)                                                 |1,82    |0,34    |0,34    |0,16    |0,06    |
+|Nitrogeno total (%)                                                  |0,16    |0,08    |0,05    |0,03    |        |
+|Relacion C/N                                                         |11,1    |3,9     |6,5     |4,2     |        |
+|Arcilla, <2 u (%)                                                    |21,1    |22,4    |19,4    |12,7    |11,4    |
+|Limo, 2-50 u (%)                                                     |64,6    |59,9    |62,4    |60,2    |61      |
+|Arena muy fina, 50-100 u (%)                                         |12,2    |17,5    |17,5    |25,1    |24,3    |
+|Arena fina, 100-250 u (%)                                            |0,4     |0,5     |0,7     |0,9     |0,84    |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |4,61    |
+|Equivalente de humedad (%)                                           |26      |26,4    |22,2    |19,3    |19      |
+|pH en pasta                                                          |6       |5,8     |6,1     |6,7     |7       |
+|pH en agua (1:2,5)                                                   |6,1     |6,7     |7,3     |7,6     |7,7     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,6    |13,1    |13,6    |13      |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,3     |3,9     |2,2     |3       |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,3     |0,2     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |2,3     |1,4     |1,6     |1,9     |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,6     |1,7     |1       |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,0     |1,4     |1,1     |1,2     |1,8     |
+|Suma de bases, meq/100 gr (S)                                        |18,7    |19,6    |17,4    |17,8    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,0    |21,3    |18,4    |17      |16,8    |
+|Saturacion con bases, % (S/T)                                        |89,0    |92,0    |95,6    |100     |        |

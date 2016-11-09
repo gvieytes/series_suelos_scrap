@@ -1,0 +1,56 @@
+Serie SAN FRANCISCO
+
+Simbolo: SFr
+Argiudol tipico, fina, mixta, termica
+Indice de Productividad: 72
+
+Son suelos profundos, bien a moderadamente bien drenados, desarrollados a partir de materiales loessicos de textura franco limosa, en un paisaje de lomas planas con desniveles comprendidos entre 0,05 y 0,1%. La capa arable (Ap + A), tiene un espesor de 21 cm, de textura franco arcillo limosa y color pardo grisaceo muy oscuro, estructura en bloques subangulares medios moderados a fuertes. Hacia abajo, se encuentra un horizonte enriquecido en arcilla (Bt y Bt2) de textura arcillo limosa y estructura prismatica. La transicion al material original (horizonte C) es gradual, encontrandose este ultimo a una profundidad promedio de 125 cm.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue descrito a 10 Km al NNO de Estacion Luxardo, departamento San Justo, provincia de Cordoba.
+
+Ap	0-10 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en bloques subangulares medios moderados a fuertes; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices abundantes; limite inferior abrupto, suave.
+
+A	10-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices comunes; limite inferior abrupto, suave.
+
+BA	21-34 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares finos y bloques subangulares medios y finos moderados; friable en humedo; plastico; adhesivo; barnices escasos y finos; limite inferior claro, suave.
+
+Bt	34-72 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso; estructura en prismas irregulares medios moderados rompen a bloques subangulares; friable en humedo; plastico; adhesivo; abundantes barnices medios; limite inferior claro, suave.
+
+Bt2	72-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados rompen a bloques subangulares; friable en humedo; plastico; ligeramente adhesivo; barnices comunes y medios; limite inferior gradual, suave.
+
+BC	97-126 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices escasos y finos; limite inferior difuso.
+
+C	126 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
+
+
+Datos analiticos Serie SAN FRANCISCO
+
+Situacion: Latitud: 31º13'00"S Longitud: 62º10'09"O Altitud: 107 m.s.n.m.
+|Horizonte                                                     |Ap      |A       |BA      |Bt      |Bt2     |BC      |C       |
+|Profundidad de la muestra (cm)                                |0-10    |10-21   |21-34   |34-72   |72-97   |97-126  |126 a + |
+|Materia Organica (%)                                          |3,34    |3,15    |2,96    |0,98    |0,64    |0,50    |0,34    |
+|Carbono Organico (%)                                          |1,94    |1,83    |1,72    |0,57    |0,37    |0,79    |0,2     |
+|Nitrogeno total (%)                                           |0,203   |0,192   |0,152   |0,105   |0,074   |        |        |
+|Relacion C/N                                                  |9,6     |9,5     |11,3    |5,3     |5,0     |        |        |
+|Arcilla, <2 u (%)                                             |33,68   |32,88   |37,89   |41,30   |35,08   |35,08   |24,46   |
+|Limo, 2-50 u (%)                                              |64,41   |65,01   |61,42   |57,20   |62,41   |63,01   |70,40   |
+|Arena muy fina, 50-100 u (%)                                  |1,0     |1,0     |1,1     |1,0     |1,2     |1,5     |2,8     |
+|Arena fina, 100-250 u (%)                                     |0,3     |0,4     |0,3     |0,3     |0,3     |0,5     |2,2     |
+|Arena media, 250-500 u (%)                                    |        |        |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                  |        |        |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                  |        |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                         |        |        |        |        |        |        |3,11    |
+|Equivalente de humedad (%)                                    |32,8    |31,7    |32,3    |30,2    |29,7    |29,7    |29,8    |
+|pH en pasta                                                   |5,2     |5,4     |5,5     |6,0     |6,3     |6,6     |7,7     |
+|pH en agua (1:2,5)                                            |5,5     |5,6     |5,9     |6,4     |6,6     |6,7     |7,7     |
+|Cationes de intercambio, meq/100 gr (Ca++)                    |11,2    |11,5    |11,6    |16,6    |14,1    |13,7    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                    |2,4     |3,0     |3,9     |1,4     |1,8     |1,8     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                     |0,2     |0,2     |0,1     |0,1     |0,2     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                      |3,9     |2,8     |2,9     |2,1     |1,9     |2,0     |2,3     |
+|Cationes de intercambio, meq/100 gr (H+)                      |2,9     |2,7     |2,1     |1,1     |0,8     |0,7     |        |
+|Sodio de intercambio, % (PSI)                                 |1,0     |1,0     |0,5     |0,5     |1,1     |1,1     |1,7     |
+|Suma de bases, meq/100 gr (S)                                 |17,7    |17,5    |18,5    |20,2    |18,0    |17,7    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)            |20,6    |20,4    |20,7    |21,4    |18,9    |18,3    |17,4    |
+|Saturacion con bases, % (S/T)                                 |86      |86      |89      |94      |95      |97      |        |

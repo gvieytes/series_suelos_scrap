@@ -1,0 +1,45 @@
+Serie SANTA ROSA II
+Hapludol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 67
+
+La Serie Santa Rosa II es un Hapludol tipico, profundo, bien drenado, desarrollado a partir de materiales fluvio-eolicos y relacionado con lomas suavemente onduladas, pendientes y bajos alargados y extendidos. Es un suelo de moderado desarrollo. La capa arable (Ap) de 20 cm de potencia es de textura franca y con un contenido moderadamente bajo de materia organica. Mediante sendos limites abruptos, este perfil se continua con dos horizontes iluviales, tambien de textura franca y con presencia de arena gruesa y gravilla. En otros perfiles se ha detectado la presencia de carbonato de calcio en distintas proporciones, en alguno de los horizontes.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 9 Km al Sur de Santa Rosa de Calamuchita, departamento Calamuchita, provincia de Cordoba.
+
+Ap	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares muy debiles; friable en humedo; no plastico; no adhesivo; raices muy abundantes; limite inferior abrupto suave.
+
+Bw	20-45 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; raices abundantes; limite inferior abrupto suave.
+
+BC	45 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; escasas raices; presencia de gravilla.
+
+Datos analiticos Serie SANTA ROSA II
+Situacion: Latitud: 32º08'20"S Longitud: 64º34'00"O Altitud: 750 m.s.n.m.
+
+|Horizonte                                                            |Ap      |Bw      |BC      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-45   |45 a +  |
+|Materia Organica (%)                                                 |2,41    |1,90    |        |
+|Carbono Organico (%)                                                 |1,4     |1,1     |        |
+|Nitrogeno total (%)                                                  |0,16    |        |        |
+|Relacion C/N                                                         |9       |        |        |
+|Arcilla, <2 u (%)                                                    |14,5    |17,7    |14,2    |
+|Limo, 2-50 u (%)                                                     |46,0    |46,5    |43,4    |
+|Arena muy fina, 50-100 u (%)                                         |10,3    |9,4     |8,3     |
+|Arena fina, 100-250 u (%)                                            |5,1     |7,1     |7,3     |
+|Arena media, 250-500 u (%)                                           |2,5     |2,5     |2,8     |
+|Arena gruesa, 500-1000 u (%)                                         |12,2    |9,9     |13,5    |
+|Arena muy gruesa, 1-2 mm (%)                                         |6,5     |4,5     |7,9     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |
+|Equivalente de humedad (%)                                           |21,4    |21,4    |19,7    |
+|pH en pasta                                                          |6,3     |6,3     |6,1     |
+|pH en agua (1:2,5)                                                   |6,7     |6,8     |7,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |11,4    |11,8    |11,3    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,5     |1,4     |2,2     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,1     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,7     |1,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,7     |1,4     |0,8     |
+|Sodio de intercambio, % (PSI)                                        |1,8     |0,6     |1,3     |
+|Suma de bases, meq/100 gr (S)                                        |14,7    |15,0    |14,9    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,4    |16,4    |15,7    |
+|Saturacion con bases, % (S/T)                                        |90      |91      |95      |

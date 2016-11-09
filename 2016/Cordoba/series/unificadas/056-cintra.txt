@@ -1,0 +1,61 @@
+Serie CINTRA
+Simbolo: Ct
+Argiustol acuico, franca fina, mixta, termica
+Indice de Productividad: 35
+
+La Serie Cintra es un suelo liviano, moderadamente bien drenado con exceso de sodio de intercambio desde 40-50 cm de profundidad. Se encuentra vinculado a planos ligeramente deprimidos que bordean a las areas de derrame fluvial. El horizonte superficial tiene 12 cm de espesor, de textura franco limosa y estructura en bloques subangulares debiles; le sigue un horizonte algo mas arcilloso (Bt ligeramente textural) con estructura moderada prismatica que rompe a bloques con abundantes barnices. El material originario del suelo aparece a 75 cm de profundidad, con escasas concreciones calcareas finas y abundante carbonato de calcio diseminado en la masa a partir de 93 cm aproximadamente. El tenor de sodio de intercambio aumenta en profundidad presentando 11% a partir de 12 cm y hasta 50% en la base del solum. La permeabilidad es moderada, pero su posicion en el relieve le confiere algo de hidromorfismo.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 19 Km al Oeste de la localidad de Chilibroste, departamento Union, provincia de Cordoba.
+
+A	0-12 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso, estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; abundantes raices; limite inferior abrupto, suave.
+
+Bt	12-42 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios moderados, rompen a bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos abundantes y finos; moteados comunes, medios y debiles; limite inferior claro, suave.
+
+BCn	42-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios debiles; muy friable en humedo; no plastico; no adhesivo; barnices arcillosos escasos y finos; moteados comunes medios y debiles; limite inferior gradual, suave.
+
+C	75-93 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; escasas concreciones calcareas finas y medias; limite inferior abrupto, suave.
+
+Ck	93 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento diseminado en la masa del suelo.
+
+
+Datos analiticos Serie CINTRA
+
+Situacion: Latitud: 32º20'29"S Longitud: 62º43'14"O Altitud: 134 m.s.n.m.
+|Horizonte                                                             |A       |Bt      |BCn     |C       |Ck       |
+|Profundidad de la muestra (cm)                                        |0-12    |12-42   |42-75   |75-93   |93 a +   |
+|Materia Organica (%)                                                  |2,59    |0,89    |0,28    |0,14    |0,14     |
+|Carbono Organico (%)                                                  |1,51    |0,52    |0,16    |0,08    |0,08     |
+|Nitrogeno total (%)                                                   |0,134   |0,073   |0,043   |        |         |
+|Relacion C/N                                                          |11,2    |7,1     |3,7     |        |         |
+|Arcilla, <2 u (%)                                                     |18,2    |22,3    |17,5    |14,0    |13,9     |
+|Limo, 2-50 u (%)                                                      |62,8    |59,9    |62,1    |63,2    |67,8     |
+|Arena muy fina, 50-100 u (%)                                          |5,6     |12,7    |20,8    |17,2    |13,2     |
+|Arena fina, 100-250 u (%)                                             |8,5     |4,9     |0,3     |4,5     |3,4      |
+|Arena media, 250-500 u (%)                                            |        |        |        |        |         |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |         |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |         |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |1,06    |8,57     |
+|Equivalente de humedad (%)                                            |28,3    |31      |29,7    |25,8    |25,2     |
+|pH en pasta                                                           |6,2     |7,3     |7,5     |8,3     |8,9      |
+|pH en agua (1:2,5)                                                    |6,2     |6,5     |8       |9       |9,5      |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |9       |12,7    |11,3    |        |         |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |4,8     |4,5     |2,8     |        |         |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,5     |2,5     |3,2     |6,1     |8        |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,6     |2,8     |2,8     |3,2     |3,5      |
+|Cationes de intercambio, meq/100 gr (H+)                              |2,5     |0,9     |        |        |         |
+|Sodio de intercambio, % (PSI) A                                       |2,7     |10,6    |17,2    |36,1    |48,8     |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |5,8     |4,7     |         |
+|Suma de bases, meq/100 gr (S)                                         |15,9    |22,5    |20,1    |        |         |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |18,4    |23,6    |18,6    |16,9    |16,4     |
+|Saturacion con bases, % (S/T)                                         |86,4    |95,3    |100     |        |         |
+|C.EXT.S ME/l-Ca++                                                     |        |        |15,7    |5,3     |         |
+|C.EXT.S ME/l-Mg++                                                     |        |        |9,2     |1,4     |         |
+|C.EXT.S ME/l-Na+                                                      |        |        |47      |44      |         |
+|C.EXT.S ME/l-K+                                                       |        |        |0,8     |0,5     |         |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |0,8     |         |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |4,4     |4,4     |         |
+|C.EXT.S ME/l-SO4=                                                     |        |        |62      |42      |         |
+|C.EXT.S ME/l-Cl-                                                      |        |        |4,4     |3       |         |

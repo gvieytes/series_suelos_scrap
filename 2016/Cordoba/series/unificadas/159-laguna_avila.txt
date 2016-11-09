@@ -1,0 +1,59 @@
+Serie LAGUNA AVILA
+Simbolo: LAv
+Natracualf albico, limosa fina, mixta, termica
+Indice de Productividad: 3
+
+La Serie Laguna Avila es un suelo fuertemente alcalino sodico, con elevado tenor de sales solubles e imperfectamente a pobremente drenado, desarrollado sobre materiales loessicos de textura franco limosa. Se encuentra vinculado a los bajos bien manifiestos y a areas deprimidas. Los primeros 23 cm (horizonte E) es color pardo grisaceo en humedo y gris claro en seco, de textura franco limosa y estructura en bloques debiles con tendencia a masivo. La elevada alcalinidad sodica (alrededor del 60% de la capacidad de intercambio cationico) limita el desarrollo de las raices. Luego pasa a un horizonte mas arcilloso (horizonte Bt fuertemente textural), de color pardo oscuro, estructura en prismas gruesos con abundantes barnices humico arcillosos, elevado contenido de sodio y se extiende hasta los 88 cm. Presenta moteados de Fe desde la superficie, encontrandose cementado a los 88 cm de profundidad, sintoma del drenaje impedido de estos suelos. El elevado tenor de sales, la fuerte alcalinidad y el pobre drenaje limitan considerablemente su aptitud. En el campo se los reconoce con facilidad, ya que ocupan manchones o "peladales" de tamano variable y por el color blanquecino de la capa superficial.
+
+Descripcion del perfil tipico:
+
+A continuacion se describe el perfil tipico que representa los suelos de esta Serie, estudiado a 13 Km al SSE de la localidad de Alto Alegre, departamento Union, provincia de Cordoba.
+
+En	0-23 cm; color en humedo pardo grisaceo a pardo grisaceo oscuro (10YR4,5/2); color en seco gris claro (10YR7/1); franco limoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; moteados escasos finos y debiles; limite inferior abrupto, suave.
+
+Btn	23-43 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas regulares gruesos compuestos, rompen a prismas menores y bloques aplanados; friable en humedo; plastico; adhesivo; barnices humico arcillosos abundantes y gruesos de color negro (10YR2/1); moteados comunes finos y debiles; limite inferior claro, suave.
+
+Btn2	43-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares y bloques subangulares medios moderados a debiles; friable en humedo; plastico; adhesivo; barnices humico arcillosos abundantes medios; moteados comunes, finos y debiles, concreciones calcareas abundantes y medias; limite inferior gradual.
+
+Btnz	60-88 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, estructura en bloques subangulares medios y gruesos debiles; friable en humedo; ligeramente plastico; adhesivo; barnices arcillosos escasos y finos; moteados comunes, finos y precisos; concreciones calcareas comunes y finas; limite inferior gradual.
+
+BCkm	88 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; debilmente cementado; concreciones calcareas muy abundantes y gruesas; moteados comunes, medios, precisos y sobresalientes.
+
+Datos analiticos Serie LAGUNA AVILA
+Situacion: Latitud: 32º26'41"S - Longitud: 62º48'30"O - Altitud: 136 m.s.n.m.
+|Horizonte                                                             |En      |Btn     |Btn2    |Btnz    |BCkm    |
+|Profundidad de la muestra (cm)                                        |0-23    |23-43   |43-60   |60-88   |88 a +  |
+|Materia Organica (%)                                                  |0,79    |0,75    |0,46    |0,24    |0,19    |
+|Carbono Organico (%)                                                  |0,46    |0,44    |0,27    |0,14    |0,11    |
+|Nitrogeno total (%)                                                   |0,060   |0,060   |0,049   |0,049   |0,034   |
+|Relacion C/N                                                          |7,7     |7,3     |5,5     |2,8     |3,2     |
+|Arcilla, <2 u (%)                                                     |18,2    |34,0    |29,5    |22,9    |9,5     |
+|Limo, 2-50 u (%)                                                      |74,3    |59,0    |62,1    |66,2    |66,8    |
+|Arena muy fina, 50-100 u (%)                                          |6,6     |5,7     |6,0     |7,0     |19,6    |
+|Arena fina, 100-250 u (%)                                             |0,8     |1,6     |1,5     |3,0     |2,1     |
+|Arena media, 250-500 u (%)                                            |0,1     |0,2     |0,2     |0,3     |0,1     |
+|Arena gruesa, 500-1000 u (%)                                          |0,1     |0,1     |0,8     |0,2     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |0,5     |        |        |
+|Carbonatos, CaCO3 (%)                                                 |0,17    |0,38    |1,41    |1,81    |2,45    |
+|Equivalente de humedad (%)                                            |25,8    |52,7    |45,3    |38,8    |25,2    |
+|pH en pasta                                                           |8,5     |8,6     |8,5     |8,4     |8,5     |
+|pH en agua (1:2,5)                                                    |9,6     |9,6     |9,4     |9,2     |9,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |        |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |        |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |9,2     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,7     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (H+)                              |        |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |62,2    |47,33   |46,76   |57,05   |47,48   |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |5,92    |13,20   |13,20   |16,03   |12,51   |
+|Suma de bases, meq/100 gr (S)                                         |        |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,8    |31,6    |30,8    |28,8    |21,2    |
+|Saturacion con bases, % (S/T)                                         |        |        |        |        |        |
+|C.EXT.S ME/l-Ca++                                                     |5,9     |6,0     |8,4     |4,8     |8,4     |
+|C.EXT.S ME/l-Mg++                                                     |        |0,04    |0,016   |2,2     |        |
+|C.EXT.S ME/l-Na+                                                      |58,0    |108,0   |126,0   |170,0   |130,0   |
+|C.EXT.S ME/l-K+                                                       |0,6     |0,8     |1,0     |1,5     |1,4     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |15,0    |5,6     |8,0     |3,1     |4,3     |
+|C.EXT.S ME/l-SO4=                                                     |32,7    |75,9    |94,0    |142,0   |93,1    |
+|C.EXT.S ME/l-Cl-                                                      |19,0    |30,4    |31,8    |336,8   |40,2    |
+

@@ -1,0 +1,58 @@
+Serie LOS TAMARINDOS
+Endoacuol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 8
+
+La Serie Los Tamarindos es un suelo imperfectamente drenado, con moderada alcalinidad sodica y salinidad, desarrollado sobre materiales francos y vinculados a areas ligeramente deprimidas y a bajos de las nacientes del Saladillo. Los primeros 15 cm que constituyen la capa arable (horizonte Ap), es de color gris muy oscuro, de textura franca a franco limosa y estructura en bloques debiles. Hacia abajo pasa claramente a otro horizonte algo mas pesado (horizonte B) que se extiende hasta los 29 cm, de color pardo grisaceo oscuro, estructura en prismas debiles con escasos barnices humico-arcillosos muy finos en las caras de los agregados. La transicion hacia el substrato (horizonte C) es muy gradual. Este ultimo se encuentra a una profundidad promedio de 60 cm, es un material franco a franco limoso suelto y con calcareo diseminado en la masa a partir de los 105 cm de profundidad.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa los suelos de la Serie Los Tamarindos, fue descrito a 12,8 km al SSO de Monte Maiz, departamento Union, provincia de Cordoba.
+
+Ap	0-15 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso a franco; estructura en bloques subangulares debiles tendencia a masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+Bn	15-29 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco; estructura en prismas irregulares, medios, debiles rompe a bloques; friable en humedo; no plastico; no adhesivo; escasos barnices humico-arcillosos medios; moteados comunes, finos y debiles; concreciones calcareas comunes y finas; limite inferior gradual, suave.
+
+BCn	29-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques subangulares debiles a masivo; friable en humedo; no plastico; no adhesivo; vestigios de barnices finos; moteados comunes, medios, precisos; abundantes pseudomicelios salinos; concreciones calcareas comunes, medias; limite inferior gradual suave.
+
+Cz	60-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; moteados abundantes, medios, sobresalientes; abundantes pseudomicelios salinos; concreciones calcareas comunes y medias; limite inferior abrupto, suave.
+
+Ckz	105 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, gruesos, sobresalientes; abundantes pseudomicelios salinos; abundante calcareo diseminado en la masa y en concreciones.
+
+Datos Analiticos Serie LOS TAMARINDOS
+Situacion: Latitud: 32º17'47"S Longitud: 62º41'02"O Altitud: 111 m.s.n.m.
+|Horizonte                                                             |Ap      |Bn      |BCn     |Cz       |Ckz      |
+|Profundidad de la muestra (cm)                                        |0-15    |15-29   |29-60   |60-105   |105 a +  |
+|Materia Organica (%)                                                  |3,30    |1,60    |0,68    |1,14     |0,10     |
+|Carbono Organico (%)                                                  |1,92    |0,93    |0,16    |0,08     |0,06     |
+|Nitrogeno total (%)                                                   |0,174   |0,095   |0,031   |         |         |
+|Relacion C/N                                                          |11,0    |9,8     |5,1     |         |         |
+|Arcilla, <2 u (%)                                                     |16,6    |18,7    |17,5    |13,3     |10,6     |
+|Limo, 2-50 u (%)                                                      |53,9    |49,3    |45,1    |46,0     |44,6     |
+|Arena muy fina, 50-100 u (%)                                          |26,4    |26,4    |34,1    |36,4     |40,8     |
+|Arena fina, 100-250 u (%)                                             |3,0     |4,3     |2,9     |2,9      |3,2      |
+|Arena media, 250-500 u (%)                                            |        |        |        |         |         |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |         |         |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |         |         |
+|Carbonatos, CaCO3 (%)                                                 |        |1,49    |0,61    |0,2      |0,99     |
+|Equivalente de humedad (%)                                            |23,5    |28,1    |26,5    |22,1     |20,1     |
+|pH en pasta                                                           |6,0     |8,3     |8,5     |8,3      |8,5      |
+|pH en agua (1:2,5)                                                    |6,5     |9,0     |9,3     |9,1      |9,2      |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |11,7    |        |        |         |         |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |3,5     |        |        |         |         |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,7     |7,4     |        |         |         |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,7     |2,4     |        |         |         |
+|Cationes de intercambio, meq/100 gr (H+)                              |1,8     |        |        |         |         |
+|Sodio de intercambio, % (PSI)                                         |3,4     |26,4    |        |         |         |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |3,9     |15,15   |29,93    |26,7     |
+|Suma de bases, meq/100 gr (S)                                         |18,6    |        |        |         |         |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |20,5    |28,0    |24,2    |19,6     |19,2     |
+|Saturacion con bases, % (S/T)                                         |91      |        |        |         |         |
+|C.EXT.S ME/l-Ca++                                                     |        |        |8,3     |11,2     |28,2     |
+|C.EXT.S ME/l-Mg++                                                     |        |        |        |8,0      |         |
+|C.EXT.S ME/l-Na+                                                      |        |        |149,0   |276,0    |240,0    |
+|C.EXT.S ME/l-K+                                                       |        |        |1,9     |3,9      |3,7      |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |         |         |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |4,6     |3,8      |2,2      |
+|C.EXT.S ME/l-SO4=                                                     |        |        |102,0   |198,0    |170,0    |
+|C.EXT.S ME/l-Cl-                                                      |        |        |55,8    |97,6     |97,6     |
+

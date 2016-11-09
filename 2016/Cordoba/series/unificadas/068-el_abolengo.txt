@@ -1,0 +1,49 @@
+Serie EL ABOLENGO
+Simbolo: Ao
+Hapludol tipico, limosa fina a limosa gruesa, mixta, termica
+Indice de Productividad: 77
+
+Es un suelo texturalmente liviano con mas de la mitad de la fraccion mineral constituido por arenas; de escaso desarrollo; profundo y bien drenado que ocupa un paisaje de lomas planas extendidas a suavemente onduladas, en el area de acumulacion medanosa del SO del departamento General. Lopez, provincia de Santa Fe y SE de Cordoba. Se ha desarrollado a partir de sedimentos eolicos de textura franco arenosa. La parte superficial del suelo, que se extiende hasta los 24 cm promedio (horizonte A), es de color oscuro y bien provisto de materia organica; textura franca con un 20% de arcilla y estructura en bloques medios debiles. El espesor de este horizonte A es variable de acuerdo a la posicion del suelo en el relieve. Le sigue una capa transicional de poco espesor y que puede no presentarse en algunos individuos. El subsuelo, levemente mas arcilloso que la parte superior del perfil (horizonte B), tiene unos 30 cm de espesor; es de color pardo y de textura franca (25% de arcilla) y estructura en prismas medios, con los agregados recubiertos por barnices muy finos. De forma gradual se pasa al material original (horizonte C), a los 90 cm y que es muy friable, sin estructura y de textura franco arenosa con 15% de arcilla y alrededor de 50% de arenas. Aunque son suelos moderadamente fertiles, no presentan limitaciones de naturaleza fisico-quimica para el desarrollo del sistema radicular de las plantas, tienen buena permeabilidad, esta exentos de sales o alcalis y la capa freatica esta siempre profunda. Son susceptibles a las sequias dada su baja capacidad de retencion de humedad, tanto en la capa arable como en las porciones inferiores del perfil. Segun su posicion en el relieve puede presentarse cierta variabilidad en el espesor del A, en los contenidos de arcilla y en el drenaje sin llegar a constituir un impedimento para el uso.
+
+Descripcion del perfil tipico:
+
+El perfil tipico fue estudiado a 15 Km al NO de la localidad de San Gregorio en el departamento General Lopez, provincia de Santa Fe.
+
+A	0-28 cm; color en humedo gris muy oscuro (10YR3/1); franco arcillo arenoso; estructura en bloques medios moderados; friable en humedo; limite inferior claro y suave.
+
+Bw	28-65 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo arenoso; estructura en prismas medios debiles; firme; limite inferior claro y suave.
+
+BC	65-98 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo arenoso a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; limite inferior difuso.
+
+C	98 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; suelto.
+
+
+Datos analiticos Serie EL ABOLENGO
+
+Situacion: Latitud: 34º14'30"S Longitud: 62º11'54"O Altitud: 106 m.s.n.m.
+|Horizonte                                                            |A       |Bw      |BC      |C       |
+|Profundidad de la muestra (cm)                                       |0-28    |28-65   |65-98   |98 a +  |
+|Materia Organica (%)                                                 |2,21    |0,86    |0,40    |        |
+|Carbono Organico (%)                                                 |1,28    |0,50    |0,23    |        |
+|Nitrogeno total (%)                                                  |0,135   |0,076   |        |        |
+|Relacion C/N                                                         |10      |6       |        |        |
+|Arcilla, <2 u (%)                                                    |21,8    |21,8    |20,3    |16,4    |
+|Limo, 2-50 u (%)                                                     |23,9    |21,8    |20,6    |22,1    |
+|Arena muy fina, 50-100 u (%)                                         |11,6    |8,9     |10,1    |11,3    |
+|Arena fina, 100-250 u (%)                                            |10,6    |14,9    |13,1    |14,5    |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |18,2    |16,6    |14,2    |13,4    |
+|pH en pasta                                                          |5,9     |6,6     |6,8     |7,2     |
+|pH en agua (1:2,5)                                                   |6,3     |7,1     |7,4     |7,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,56    |7,0     |6,3     |4,8     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,6     |2,9     |3,2     |4,5     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,5     |0,5     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |2,9     |2,4     |2,4     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,1     |2,2     |4,4     |4,5     |
+|Suma de bases, meq/100 gr (S)                                        |11,9    |13,1    |12,4    |12,2    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,4    |13,8    |11,3    |11,1    |
+|Saturacion con bases, % (S/T)                                        |83      |95      |100     |100     |

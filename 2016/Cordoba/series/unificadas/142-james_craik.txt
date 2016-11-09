@@ -1,0 +1,48 @@
+Serie JAMES CRAIK
+Simbolo: JCk
+Natracualf albico, franca gruesa, mixta, termica
+Indice de Productividad: 27
+
+Los suelos de la Serie James Craik, son pobremente drenados y vinculados a sectores muy deprimidos que impiden el escurrimiento superficial de las aguas. Se han desarrollado a partir de materiales loessicos de textura franco limosa. El horizonte superficial o capa arable (Ek) es de 18 cm de espesor, de color pardo, estructura masiva, con evidencias de degradacion y lavado de materia organica y moderado contenido calcareo. Luego pasa a un horizonte mas arcilloso (Btk), de color pardo oscuro, prismatico y con cierto tenor de sodio intercambiable (9%) que llega hasta los 54 cm, a partir de esta profundidad aumenta considerablemente el tenor de sodio (27%) que limita el desarrollo normal de las raices. El material originario se encuentra a 85 cm, es de color pardo, franco limoso y elevada alcalinidad sodica. Presentan calcareo pulverulento en todo el perfil.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de la Serie James Craik, fue estudiado a 12,7 km al SSE de Oliva, departamento Tercero Arriba, provincia de Cordoba.
+
+Ek	0-18 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo; moteados comunes, finos y precisos; limite inferior claro, suave.
+
+Btk	18-54 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; concreciones calcareas comunes y abundante calcareo pulverulento en la masa del suelo; barnices humico-arcillosos (clhm) comunes y medios, moteados abundantes, medios y precisos; limite inferior gradual.
+
+BCkn	54-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas concreciones calcareas finas y abundante calcareo pulverulento en la masa del suelo; escasos barnices arcillosos (ClSk); moteados abundantes, medios y sobresalientes; limite inferior gradual.
+
+Ck	85 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo y escasas concreciones; moteados abundantes, medios y sobresalientes.
+
+Datos analiticos Serie JAMES CRAIK
+Situacion: Latitud: 32º08'41"S Longitud: 63º30'45"O Altitud: 251 m.s.n.m.
+
+|Horizonte                                                            |Ek      |Btk     |BCkn    |Ck      |
+|Profundidad de la muestra (cm)                                       |0-18    |18-54   |54-85   |85 a +  |
+|Materia Organica (%)                                                 |2,16    |1,02    |        |        |
+|Carbono Organico (%)                                                 |1,2     |0,6     |        |        |
+|Nitrogeno total (%)                                                  |0,16    |0,09    |        |        |
+|Relacion C/N                                                         |7,5     |6,7     |        |        |
+|Arcilla, <2 u (%)                                                    |16,3    |20,5    |17,7    |16,6    |
+|Limo, 2-50 u (%)                                                     |61,2    |65,8    |65,4    |73,3    |
+|Arena muy fina, 50-100 u (%)                                         |19,2    |16,1    |17,6    |8,9     |
+|Arena fina, 100-250 u (%)                                            |0,6     |0,7     |0,7     |1,0     |
+|Arena media, 250-500 u (%)                                           |0,1     |        |0,1     |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |1,4     |4,7     |3,5     |6,4     |
+|Equivalente de humedad (%)                                           |22,4    |24,6    |22,9    |22,9    |
+|pH en pasta                                                          |7,6     |8,1     |8,6     |8,8     |
+|pH en agua (1:2,5)                                                   |7,8     |8,5     |9,0     |9,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,6     |1,6     |4,3     |5,0     |
+|Cationes de intercambio, meq/100 gr (K+)                             |3,8     |3,4     |2,5     |1,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |3,4     |9,6     |27,4    |38,5    |
+|Suma de bases, meq/100 gr (S)                                        |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,9    |16,7    |15,7    |13,0    |
+|Saturacion con bases, % (S/T)                                        |        |        |        |        |

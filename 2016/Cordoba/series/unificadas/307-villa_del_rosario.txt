@@ -1,0 +1,50 @@
+Serie VILLA DEL ROSARIO
+
+Simbolo: VRo
+Haplustol entico, limosa fina, mixta, termica
+Indice de Productividad: 68
+Capacidad de uso: IIIc
+
+Los suelos de esta Serie son profundos, bien a algo excesivamente drenados, desarrollados a partir de sedimentos loessicos de textura franco limosa, vinculados a lomas extendidas casi planas. Son suelos poco desarrollados que presentan un horizonte superficial (A) de 22 cm de espesor, de textura franco limosa y estructura en bloques moderados, bien provistos en general de materia organica. Hacia abajo pasa gradualmente al material originario (horizonte C) que se encuentra a una profundidad de 52 cm, de textura franco limosa; masivo; abundante calcareo pulverulento en la masa del suelo. Los suelos de esta Serie muestran una moderada limitacion climatica, derivada del regimen de precipitacion pluvial, bajo el cual se encuentran. No presentan en general otros impedimentos que condicionen el crecimiento de las plantas. La reaccion en todo el perfil es de ligeramente acida a neutra.
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie fue descrito a 13 Km al NE de la localidad de Impira, departamento Rio Segundo, provincia de Cordoba.
+
+Ap	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+
+AC	22-52 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios debiles a masivo; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+
+Ck	52 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante carbonato pulverulento en la masa del suelo.
+
+
+Datos analiticos Serie VILLA DEL ROSARIO
+
+Situacion: Latitud: 31º42'33"S Longitud: 63º33'37"O Altitud: 259 m.s.n.m.
+
+|Horizonte                                                            |Ap      |AC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-22    |22-52   |52 a +  |
+|Materia Organica (%)                                                 |2,18    |1,42    |0,70    |
+|Carbono Organico (%)                                                 |1,27    |0,83    |0,41    |
+|Nitrogeno total (%)                                                  |0,133   |0,100   |        |
+|Relacion C/N                                                         |9,5     |8,3     |        |
+|Arcilla, <2 u (%)                                                    |24,5    |24,3    |22,2    |
+|Limo, 2-50 u (%)                                                     |69,2    |70,6    |69,2    |
+|Arena muy fina, 50-100 u (%)                                         |5,1     |5,8     |8,5     |
+|Arena fina, 100-250 u (%)                                            |1,1     |0,8     |1,2     |
+|Arena media, 250-500 u (%)                                           |        |        |0,1     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |4,93    |
+|Equivalente de humedad (%)                                           |24,7    |25,7    |24,1    |
+|pH en pasta                                                          |6,0     |6,8     |7,8     |
+|pH en agua (1:2,5)                                                   |6,6     |7,1     |8,8     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,3    |13,9    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,2     |1,4     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,1     |0,1     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,5     |1,9     |1,7     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,3     |0,8     |        |
+|Sodio de intercambio, % (PSI)                                        |0,6     |0,5     |1,3     |
+|Suma de bases, meq/100 gr (S)                                        |16,1    |17,3    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,6    |18,3    |15,2    |
+|Saturacion con bases, % (S/T)                                        |91      |95      |        |

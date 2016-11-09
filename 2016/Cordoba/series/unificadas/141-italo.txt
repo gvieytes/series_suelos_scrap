@@ -1,0 +1,62 @@
+Serie ITALO
+Simbolo: It
+Haplustol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 49
+
+La Serie Italo es un suelo bien drenado a algo excesivamente drenado, desarrollado sobre materiales franco arenosos y vinculado a lomas arenosas ligeramente onduladas con pendientes del 1%. El horizonte superficial (capa arable) de 24 cm de espesor, es de color pardo oscuro a pardo grisaceo muy oscuro, de textura franco arenosa y estructura en bloques moderados. Hacia abajo, pasa claramente a un horizonte B color (no textural), de color pardo oscuro y estructura en prismas y bloques debiles. El horizonte C (material originario) se encuentra a una profundidad de 57 cm, es de color pardo oscuro, textura franco arenosa y con abundante calcareo pulverulento en la masa del suelo a partir de los 95 cm de profundidad. Estos suelos son aptos para agricultura, aunque se encuentran limitados climaticamente. Presentan una moderada retencion de humedad y moderada estructura superficial (estabilidad estructural).
+
+Dentro de la Serie Italo se admiten los siguientes rangos de variabilidad:
+
+a) Contenido de arena:
+60-65% (horizonte A)
+68-74% (horizonte C)
+
+b) Contenido de arcilla:
+8-11% (horizonte A)
+10-13 % (horizonte B)
+menos de 8 % (horizonte C)
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Italo, fue descrito a 13 Km al Norte de Italo, departamento General Roca, provincia de Cordoba.
+
+A	0-24 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; estructura en bloques subangulares medios moderados; duro en seco; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+B	24-57 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en prismas y bloques medios, debiles; friable en humedo; no plastico; no adhesivo; vestigios de barnices "Clay Skins" muy finos; limite inferior gradual, suave.
+
+C	57-95 cm; color en humedo pardo oscuro (10YR3,5/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+Ck	95 cm a +; color en humedo pardo oscuro (10YR3,5/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento diseminado en la masa del suelo.
+
+
+Datos analiticos Serie ITALO
+
+Situacion: Latitud: 34º40'45"S Longitud: 63º46'08"O Altitud: 141 m.s.n.m.
+
+|Horizonte                                                            |A       |B       |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-24    |24-57   |57-95   |95 a +  |
+|Materia Organica (%)                                                 |1,94    |0,62    |        |        |
+|Carbono Organico (%)                                                 |1,12    |0,36    |        |        |
+|Nitrogeno total (%)                                                  |0,116   |0,057   |        |        |
+|Relacion C/N                                                         |9,6     |6,3     |        |        |
+|Arcilla, <2 u (%)                                                    |10,6    |11,8    |7,9     |6,5     |
+|Limo, 2-50 u (%)                                                     |27,7    |24,1    |24,1    |23,3    |
+|Arena muy fina, 50-100 u (%)                                         |28,2    |24,5    |30,5    |29,6    |
+|Arena fina, 100-250 u (%)                                            |27,9    |35,8    |32,5    |34,0    |
+|Arena media, 250-500 u (%)                                           |2,8     |1,8     |1,4     |3,6     |
+|Arena gruesa, 500-1000 u (%)                                         |2,4     |2,5     |2,9     |2,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |2,2     |
+|Equivalente de humedad (%)                                           |13,8    |12,0    |9,3     |9,7     |
+|pH en pasta                                                          |6,3     |6,5     |7,0     |7,6     |
+|pH en agua (1:2,5)                                                   |6,5     |6,7     |7,2     |7,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |5,8     |6,5     |6,3     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,7     |0,7     |1,1     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,2     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,9     |1,3     |0,7     |1,3     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,1     |0,7     |0,4     |        |
+|Sodio de intercambio, % (PSI)                                        |3,0     |2,1     |2,3     |4,1     |
+|Suma de bases, meq/100 gr (S)                                        |9,7     |8,7     |8,3     |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |10,0    |9,5     |8,7     |7,4     |
+|Saturacion con bases, % (S/T)                                        |88      |91      |95      |        |

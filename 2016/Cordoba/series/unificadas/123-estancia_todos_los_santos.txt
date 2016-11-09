@@ -1,0 +1,45 @@
+Serie ESTANCIA TODOS LOS SANTOS
+Hapludol litico paralitico, franca gruesa, mixta, mesica
+Capacidad de uso: VIIes
+Indice de Productividad: 12
+
+Es un suelo escasamente desarrollado en las laderas altas de las Sierras Chicas de Cordoba; zona de pastizales de altura por encima de los 1000 m.s.n.m. Los materiales parentales de los suelos son rocas pertenecientes al complejo metamorfico (rocas esquistosas) con pendientes estimadas entre 20 a 45%. Los suelos son excesivamente drenados, cortos, 30 cm en el perfil modal donde comienza la roca parcialmente alterada. Dicha alteracion que se da de acuerdo al tamano de los minerales que integran la roca, mientras mas fino es mas duro, y la meteorizacion-edafizacion es menor en profundidad, razon por la cual es muy cambiante. El perfil descrito es uno de los mas frecuentes, siendo la profundidad efectiva variable segun la pendiente, tipo de roca metamorfica y exposicion al sol. En general son mas profundos y humedos los suelos que se encuentran en las laderas al Sur con todas las variaciones posibles de acuerdo a los factores mencionados. Presenta este perfil un horizonte A oscuro, franco arenoso, con 8,5% de arcilla y estructura en bloques subangulares moderados a debiles y 3,6% de materia organica. Sigue a continuacion una capa (2) que se extiende de 18 a 30 cm, algo mas clara (2,4% de materia organica), franco arenosa con gravilla escasa (no mas de 10%). A la profundidad indicada se encuentra la roca metamorfica esquistosa con estructura de roca parcialmente alterada. Las limitantes son rocosidad, pendiente, susceptibilidad a la erosion, profundidad efectiva, drenaje excesivo y retencion de humedad.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de los suelos de esta Serie fue descrito a 9 km al Este de Ongamira, departamento Ischilin, provincia de Cordoba.
+
+A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; pH 6,7; raices muy abundantes; 5% de gravas; limite inferior claro.
+
+2	18-30 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques debiles; muy friable a suelto en humedo; no plastico; no adhesivo; raices escasas; 10% de gravillas; limite inferior claro.
+
+R	30 cm a+; roca esquistosa alterada con estructura de roca; color de acuerdo al mineral observado; parcialmente penetrable con herramientas manuales.
+
+Datos analiticos Serie ESTANCIA TODOS LOS SANTOS
+Situacion: Latitud: 30º47'00"S Longitud: 64º20'30"O Altitud: 1100 m.s.n.m.
+
+|Horizonte                                                            |A       |2       |
+|Profundidad de la muestra (cm)                                       |0-18    |18-30   |
+|Materia Organica (%)                                                 |3,62    |2,41    |
+|Carbono Organico (%)                                                 |2,1     |1,4     |
+|Nitrogeno total (%)                                                  |0,18    |0,12    |
+|Relacion C/N                                                         |11,7    |11,7    |
+|Arcilla, <2 u (%)                                                    |8,5     |9,3     |
+|Limo, 2-50 u (%)                                                     |16,0    |20,2    |
+|Arena muy fina, 50-100 u (%)                                         |6,5     |3,8     |
+|Arena fina, 100-250 u (%)                                            |13,2    |10,2    |
+|Arena media, 250-500 u (%)                                           |13,8    |14,3    |
+|Arena gruesa, 500-1000 u (%)                                         |22,2    |21,3    |
+|Arena muy gruesa, 1-2 mm (%)                                         |18,6    |18,4    |
+|Carbonatos, CaCO3 (%)                                                |        |        |
+|Equivalente de humedad (%)                                           |17,4    |14,7    |
+|pH en agua (1:2,5)                                                   |6,7     |6,8     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,5    |9,9     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,4     |1,2     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,7     |0,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |1,8     |
+|Sodio de intercambio, % (PSI)                                        |2,1     |1,5     |
+|Suma de bases, meq/100 gr (S)                                        |12,9    |11,9    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,1    |13      |
+|Saturacion con bases, % (S/T)                                        |91      |92      |

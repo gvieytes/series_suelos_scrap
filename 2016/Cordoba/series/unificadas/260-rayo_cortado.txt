@@ -1,0 +1,47 @@
+Serie RAYO CORTADO
+Haplustol paquico, limosa fina, mixta, termica
+Indice de Productividad: 70
+
+La Serie Rayo Cortado es un suelo oscuro inclusive subsuperficialmente, profundo y bien drenado con carbonato de calcio pulverulento a partir de 20 cm aumentando a mayor profundidad. Ocupa los planos fluviales del flanco oriental de la Sierra Norte de Cordoba. El horizonte superior (A) tiene 21 cm de espesor, de color pardo grisaceo muy oscuro, franco limoso, estructura en bloques subangulares medios moderados y granular y rico en materia organica. El horizonte desarrollado subsuperficialmente es franco limoso con estructura en bloques subangulares y prismas moderados con carbonato de calcio en la masa del suelo. La transicion al material originario (BCk) tiene CO3Ca en mayor proporcion, franco limoso y estructura en bloques debiles; se extiende hasta el metro de profundidad. Presenta arenas gruesas y gravas en todo el perfil: es un suelo bien drenado sin salinidad ni alcalinidad en ningun horizonte. Por ser un material originario formado por arrastre de corrientes fluviales de pie de monte, puede presentar algunas variantes en las proporciones de las arenas sin observarse limites abruptos. Por lo general en el A y BC hay arenas mas gruesas que en el resto del perfil y es comun la presencia de gravilla.
+
+Descripcion del perfil tipico:
+
+El perfil tipo de la Serie Rayo Cortado se encuentra ubicado a 9,5 km al SSO de la localidad de El Rodeo, departamento Tulumba, provincia de Cordoba.
+
+A	0 - 21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; ligeramente plastico; ligeramente adhesivo; pH 7,8; moderada a debil reaccion al ClH en la masa del suelo; raices muy abundantes; limite inferior claro, suave.
+
+Bwk	21 - 46 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; estructura en bloques subangulares medios, debiles y prismas moderados que rompen a bloques; ligeramente duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,9; violenta reaccion al ClH en la masa del suelo; barnices humico arcillosos; raices comunes; limite inferior gradual, suave.
+
+BCk	46 - 100 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco limoso; estructura en bloques subangulares debiles; ligeramente duro; ligeramente plastico; no adhesivo; pH 8,2; barnices arcillosos escasos; raices escasas a vestigios; limite inferior gradual.
+
+Ck	100 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco; masivo; ligeramente duro en seco; ligeramente plastico; pH 8,2; violenta a moderada reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie RAYO CORTADO
+Situacion: Latitud: 30º15'15"S Longitud: 63º54'00"O Altitud: 450 m.s.n.m.
+
+|Horizonte                                                             |A       |Bwk     |BCk      |Ck        |
+|Profundidad de la muestra (cm)                                        |0-21    |21-46   |46-100   |100 a +   |
+|Materia Organica (%)                                                  |3,62    |2,41    |0,68     |          |
+|Carbono Organico (%)                                                  |2,1     |1,4     |0,4      |          |
+|Nitrogeno total (%)                                                   |0,24    |0,20    |         |          |
+|Relacion C/N                                                          |8,7     |7,0     |         |          |
+|Arcilla, <2 u (%)                                                     |20,4    |22,1    |20,0     |19,1      |
+|Limo, 2-50 u (%)                                                      |50,4    |70,1    |71,4     |46,8      |
+|Arena muy fina, 50-100 u (%)                                          |5,6     |5,8     |4,4      |5,2       |
+|Arena fina, 100-250 u (%)                                             |7,0     |1,7     |2,6      |7,9       |
+|Arena media, 250-500 u (%)                                            |3,5     |0,2     |0,1      |3,9       |
+|Arena gruesa, 500-1000 u (%)                                          |9,2     |0,4     |0,2      |11,8      |
+|Arena muy gruesa, 1-2 mm (%)                                          |4,9     |        |         |6,2       |
+|Carbonatos, CaCO3 (%)                                                 |1,5     |5,3     |10,1     |2,0       |
+|Equivalente de humedad (%)                                            |27,5    |31,1    |27,9     |23,0      |
+|pH en pasta                                                           |7,5     |7,8     |8,1      |8,1       |
+|pH en agua (1:2,5)                                                    |7,8     |7,9     |8,2      |8,2       |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |        |        |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |0,3     |0,5      |0,6       |
+|Cationes de intercambio, meq/100 gr (K+)                              |0,9     |1,1     |0,4      |0,6       |
+|Cationes de intercambio, meq/100 gr (H+)                              |        |        |         |          |
+|Sodio de intercambio, % (PSI)                                         |0,9     |1,3     |4,5      |4,1       |
+|Suma de bases, meq/100 gr (S)                                         |        |        |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |21,3    |23,5    |11,0     |14,5      |
+|Saturacion con bases, % (S/T)                                         |        |        |         |          |

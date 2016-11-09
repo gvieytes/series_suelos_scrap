@@ -1,0 +1,49 @@
+Serie TOTORAL
+Simbolo: Tt
+Argiustol udico, franca fina, mixta, termica
+Capacidad de uso: IIIc
+Indice de Productividad: 70
+
+Este suelo se ha desarrollado sobre el abanico aluvial y derrames del rio Totoral. El relieve es plano con muy suave pendiente regional menor al 0,3%. Los materiales parentales de los suelos tienen textura franco arcillo limosa a franco limosa. Es un suelo bien drenado, con excelente capacidad de retencion de humedad teniendo como unica limitante la climatica de caracter moderada. Presenta un horizonte superior o capa arable del suelo de 23 cm de espesor, franco, con 25% de arcilla y 27% de limo, tiene estructura en bloques subangulares y esta muy bien provisto de materia organica. Continua hacia abajo hasta los 56 cm de profundidad el horizonte enriquecido en arcillas aluviales de textura franco arcillosa (33% de arcilla) con estructura en prismas. El horizonte de transicion (BC) tiene textura franco arcillo limosa (30% de arcilla), con estructura en prismas y bloques y llega a los 75 cm. Desde la profundidad expresada hasta mas de 100 cm se encuentra el material parental del suelo, masivo, con textura franco arcillo limosa y 28% de arcilla.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue estudiado a 4 km al Este de Villa del Totoral, departamento Totoral, provincia de Cordoba.
+
+A	0-23 cm; color en humedo gris muy oscuro (10YR3/1); franco; estructura en bloques subangulares medios fuertes; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,2; raices muy abundantes; limite inferior claro, suave.
+
+Bt	23-56 cm; color en humedo pardo oscuro (10YR3/3); franco arcilloso; estructura en prismas irregulares; friable en humedo; plastico; adhesivo; pH 7,2; barnices comunes de arcilla y humus; raices comunes; limite inferior gradual.
+
+BC	56-75 cm; color en humedo pardo oscuro a pardo (10YR4/3); franco arcillo limoso; estructura en prismas irregulares moderados a fuertes rompe a prismas y bloques menores; friable en humedo; plastico; ligeramente adhesivo; pH 7,3; escasos barnices arcillosos medios; limite inferior gradual.
+
+C	75 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,6.
+
+Datos analiticos Serie TOTORAL
+Situacion: Latitud: 30º43'S Longitud: 64º02'O Altitud: 550 m.s.n.m.
+
+|Horizonte                                                            |A       |Bt      |BC      |C       |
+|Profundidad de la muestra (cm)                                       |0-23    |23-56   |56-75   |75 a +  |
+|Materia Organica (%)                                                 |2,59    |1,21    |        |        |
+|Carbono Organico (%)                                                 |1,5     |0,7     |        |        |
+|Nitrogeno total (%)                                                  |0,12    |0,06    |        |        |
+|Relacion C/N                                                         |12,5    |11,7    |        |        |
+|Arcilla, <2 u (%)                                                    |24,8    |33,1    |30,5    |28,5    |
+|Limo, 2-50 u (%)                                                     |50,9    |46,4    |49,9    |52,9    |
+|Arena muy fina, 50-100 u (%)                                         |4,9     |4,7     |4,5     |4,6     |
+|Arena fina, 100-250 u (%)                                            |4,1     |3,6     |6,5     |6,4     |
+|Arena media, 250-500 u (%)                                           |5,3     |4,2     |4,7     |6,7     |
+|Arena gruesa, 500-1000 u (%)                                         |6,0     |4,6     |3,9     |3,4     |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,4     |1,1     |0,9     |0,9     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |25,7    |26,8    |25,9    |25,6    |
+|pH en agua (1:2,5)                                                   |7,2     |7,2     |7,3     |7,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |16,8    |17,4    |17,3    |16,6    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,4     |2,2     |1,3     |1,8     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |0,3     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,9     |1,4     |1,1     |1,0     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,3     |1,1     |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |1,8     |1,5     |1,5     |
+|Suma de bases, meq/100 gr (S)                                        |19,5    |21,4    |20,0    |19,7    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |20,8    |22,5    |20,0    |19,7    |
+|Saturacion con bases, % (S/T)                                        |93,8    |95,1    |100     |100     |
+

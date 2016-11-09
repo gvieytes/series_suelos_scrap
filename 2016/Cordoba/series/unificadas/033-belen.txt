@@ -1,0 +1,48 @@
+Serie BELEN
+Simbolo: Be
+Argiustol udico, franca fina a fina, mixta, termica
+Indice de Productividad: 63
+Capacidad de uso: IIIc
+
+Los suelos de esta Serie se han desarrollado sobre materiales originarios de derrames distales con textura franco arcillo limosa a franca. Son suelos bien drenados, ubicados en relieves planos o suavemente deprimidos de excelente aptitud para el desarrollo de los cultivos. Presenta un horizonte superficial de 26 cm de espesor con 29% de arcilla, textura franco arcillo limosa a franco limosa y estructura en bloques fuertes. Continua hacia abajo hasta los 60 cm el horizonte enriquecido en arcillas iluviales (Bt), con abundantes a muy abundantes barnices humico-arcillosos en las caras de los agregados y estructura en prismas fuertes. El horizonte de transicion BC se extiende hasta los 85 cm y el material parental del suelo, de textura franco arcillo limosa a franca, continua hacia abajo hasta mas de 110 cm sin carbonatos libres.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de la Serie Belen fue descrito a 8 km al NO de Jesus Maria, departamento Totoral, provincia de Cordoba.
+
+A	0-26 cm; color en humedo gris muy oscuro (10YR3/1); franco arcillo limoso; estructura en bloques subangulares medios moderados a fuertes; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,5; raices muy abundantes; limite inferior claro, suave.
+
+Bt	26-60 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en prismas regulares medios moderados a fuertes; friable en humedo; muy plastico; adhesivo; pH 6,6; barnices humico arcillosos muy abundantes a abundantes medios; raices comunes; limite inferior gradual.
+
+BC	60-85 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en bloques debiles a masivo; friable en humedo; plastico; ligeramente adhesivo; pH 6,5; barnices escasos a comunes arcillosos finos; vestigios de raices; limite inferior gradual.
+
+C	85 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arcillo limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,6; se observan algunos nodulos cementados finos.
+
+Datos analiticos Serie BELEN
+Situacion: Latitud: 30º56'31"S Longitud: 64º02'02"O Altitud: 550 m.s.n.m.
+
+|Horizonte                                                            |A       |Bt      |BC      |C       |
+|Profundidad de la muestra (cm)                                       |0-26    |26-60   |60-85   |85 a +  |
+|Materia Organica (%)                                                 |2,93    |1,21    |        |        |
+|Carbono Organico (%)                                                 |1,7     |0,7     |        |        |
+|Nitrogeno total (%)                                                  |0,17    |0,08    |        |        |
+|Relacion C/N                                                         |10,0    |8,8     |        |        |
+|Arcilla, <2 u (%)                                                    |29,1    |37,5    |31,1    |28,9    |
+|Limo, 2-50 u (%)                                                     |65,0    |54,1    |58,5    |61,0    |
+|Arena muy fina, 50-100 u (%)                                         |2,6     |4,6     |4,6     |9,7     |
+|Arena fina, 100-250 u (%)                                            |0,8     |1,1     |1,2     |1,1     |
+|Arena media, 250-500 u (%)                                           |0,6     |0,9     |0,7     |0,7     |
+|Arena gruesa, 500-1000 u (%)                                         |0,7     |1,3     |1,0     |1,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,1     |0,1     |0,4     |0,4     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |29,1    |28,5    |27,6    |25,9    |
+|pH en agua (1:2,5)                                                   |6,5     |6,6     |6,5     |6,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |18,7    |16,7    |16,0    |15,4    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,0     |1,3     |1,2     |1,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |0,4     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,6     |1,3     |1,2     |1,2     |
+|H+ de cambio (meq/100 gr)                                            |0,9     |1,1     |1,1     |1,0     |
+|Sodio de intercambio, % (PSI)                                        |1,8     |1,9     |2,0     |2,1     |
+|Suma de bases, meq/100 gr (S)                                        |21,7    |19,7    |18,8    |18,4    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,6    |20,8    |19,9    |19,4    |
+|Saturacion con bases, % (S/T)                                        |96      |94,7    |94,5    |94,8    |

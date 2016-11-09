@@ -1,0 +1,59 @@
+Serie BUCHARDO
+Simbolo: Bch
+Haplustol udico, franca gruesa, mixta, termica
+
+Indice de Productividad: 72
+
+La Serie Buchardo es un suelo bien drenado, desarrollado sobre materiales franco arenosos finos, vinculados a lomadas casi planas a muy ligeramente onduladas. La capa arable (horizonte A) de 23 cm de espesor, es de color pardo grisaceo oscuro en humedo, de textura franca y estructura en bloques subangulares medios moderados. Luego pasa en forma clara a un horizonte algo mas arcilloso (horizonte B), de estructura en prismas irregulares y bloques subangulares medios moderados, de color pardo amarillento oscuro; luego pasa en forma gradual a un horizonte de transicion (horizonte BC). El material originario (horizonte C) se encuentra a 68 cm de profundidad, de textura franco arenosa. Los suelos de la Serie Buchardo presentan mayor retencion de humedad y mejor estructura superficial con respecto a los demas suelos de lomas del area, siendo su uso eminentemente agricola, aunque se encuentran ligeramente limitados por condiciones climaticas.
+
+Dentro de esta Serie existen los siguientes rangos de variabilidad:
+
+a) Contenido de arena:
+49-54% (horizonte A)
+49-58% (horizonte C)
+
+b) Contenido de arcilla:
+14-18% (horizonte A)
+15-20% (horizonte B)
+09-12% (horizonte C)
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Buchardo fue estudiado a 11 Km al SO de la localidad de Buchardo, departamento General Roca, provincia de Cordoba.
+
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+
+Bw	23-45 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas irregulares moderados y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices "Clay Skins" finos; limite inferior gradual.
+
+BC	45-68 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior gradual.
+
+C	68 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
+
+Datos analiticos Serie BUCHARDO
+Situacion: Latitud: 34º48'38"S Longitud: 63º33'27"O Altitud: 135 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |BC      |C       |
+|Profundidad de la muestra (cm)                                       |0-23    |23-45   |45-68   |68 a +  |
+|Materia Organica (%)                                                 |1,96    |0,89    |0,43    |        |
+|Carbono Organico (%)                                                 |1,14    |0,52    |0,25    |        |
+|Nitrogeno total (%)                                                  |0,124   |0,078   |        |        |
+|Relacion C/N                                                         |9,2     |6,7     |        |        |
+|Arcilla, <2 u (%)                                                    |16,5    |16,7    |13,3    |11,2    |
+|Limo, 2-50 u (%)                                                     |34,7    |34,9    |33,3    |34,2    |
+|Arena muy fina, 50-100 u (%)                                         |24,0    |22,4    |24,2    |25,3    |
+|Arena fina, 100-250 u (%)                                            |24,0    |25,7    |26,6    |27,3    |
+|Arena media, 250-500 u (%)                                           |1,1     |0,8     |0,8     |0,7     |
+|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,8     |0,9     |0,8     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|pH en pasta                                                          |5,6     |6,3     |6,6     |7,0     |
+|pH en agua (1:2,5)                                                   |6,0     |6,6     |6,7     |7,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,1     |8,5     |9,4     |9,1     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,3     |1,1     |0,7     |0,8     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,2     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |1,6     |1,0     |0,8     |
+|H+ de cambio (meq/100 gr)                                            |2,0     |1,2     |0,7     |0,6     |
+|Sodio de intercambio, % (PSI)                                        |1,5     |1,6     |1,7     |0,9     |
+|Suma de bases, meq/100 gr (S)                                        |11,0    |11,4    |11,3    |10,8    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |13,0    |12,8    |12,0    |11,4    |
+|Saturacion con bases, % (S/T)                                        |85      |89      |94      |95      |

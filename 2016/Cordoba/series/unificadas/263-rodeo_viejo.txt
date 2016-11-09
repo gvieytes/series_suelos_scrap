@@ -1,0 +1,47 @@
+Serie RODEO VIEJO
+Simbolo: RoV
+Haplustol entico, franca gruesa, mixta, termica
+Indice de Productividad: 37
+
+La Serie corresponde a suelos profundos, algo excesivamente drenados, desarrollados sobre materiales francos, y se vincula a relieves de lomas onduladas. Es un suelo de incipiente desarrollo, con un horizonte A de 20 cm con bajo contenido de materia organica, debilmente acido y con debil estabilidad de los agregados. Pasa transicionalmente (AC) a un horizonte C a los 44 cm encontrando carbonatos libres diseminados en la masa del suelo a los 77 cm.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 7 Km al SSE de La Aguada, departamento Rio Cuarto, provincia de Cordoba.
+
+A	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior claro suave.
+
+AC	20-44 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
+
+C	44-77 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
+
+Ck	77 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moderado tenor de carbonato en la masa del suelo.
+
+Datos analiticos Serie RODEO VIEJO
+Situacion: Latitud: 33º01'13"S Longitud: 64º34'32"O Altitud: 585 m.s.n.m.
+|Horizonte                                                            |A       |AC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-44   |44-77   |77 a +  |
+|Materia Organica (%)                                                 |1,38    |0,86    |        |        |
+|Carbono Organico (%)                                                 |0,8     |0,5     |        |        |
+|Nitrogeno total (%)                                                  |0,10    |0,04    |        |        |
+|Relacion C/N                                                         |8,0     |12,5    |        |        |
+|Arcilla, <2 u (%)                                                    |10,4    |12,3    |9,4     |10,4    |
+|Limo, 2-50 u (%)                                                     |43,8    |45,8    |48,5    |48,3    |
+|Arena muy fina, 50-100 u (%)                                         |41,3    |40,0    |39,9    |38,7    |
+|Arena fina, 100-250 u (%)                                            |3,0     |0,8     |0,6     |0,8     |
+|Arena media, 250-500 u (%)                                           |0,1     |0,1     |0,1     |        |
+|Arena gruesa, 500-1000 u (%)                                         |0,1     |0,1     |0,1     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |0,1     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |2,7     |
+|Equivalente de humedad (%)                                           |12,8    |13,5    |12,7    |13,1    |
+|pH en pasta                                                          |5,7     |6,5     |7,4     |7,8     |
+|pH en agua (1:2,5)                                                   |6,3     |6,9     |7,5     |8,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |6,3     |9,2     |9,4     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |0,9     |0,9     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,3     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,9     |1,1     |0,6     |0,9     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,5     |0,9     |0,4     |        |
+|Sodio de intercambio, % (PSI)                                        |2,0     |1,7     |2,5     |1,1     |
+|Suma de bases, meq/100 gr (S)                                        |8,3     |11,3    |11,2    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |9,8     |12,2    |11,6    |9,4     |
+|Saturacion con bases, % (S/T)                                        |84,7    |92,6    |96,6    |        |

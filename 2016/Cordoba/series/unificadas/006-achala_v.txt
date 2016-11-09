@@ -1,0 +1,45 @@
+Serie ACHALA V
+Hapludol entico, esqueletica, franca, mixta, termica
+Indice de Productividad: 38
+
+Es un suelo bien drenado desarrollado sobre productos de alteracion de rocas graniticas con algo de transporte de tipo aluvial-coluvial en las laderas pronunciadas de las cuencas de las Ea. San Miguel y La Trinidad. Se caracteriza por tener debil desarrollo de sus horizontes geneticos con una capa superficial oscura de 28 cm de espesor, textura franca gruesa y estructura en bloques subangulares medios moderados. Hasta los 56 cm se extiende otra capa de textura mas gruesa, friable, parcialmente enriquecida en materia organica. A continuacion sigue la capa 3R que consiste en la roca alterada con gravas y bloques de textura franca en la matriz.
+
+Descripcion del perfil tipico:
+
+Esta Serie fue estudiada en una terraza de la porcion intermedia de las laderas de la parte baja de la cuenca estancia San Miguel, departamento San Alberto, provincia de Cordoba.
+
+A	0-28 cm; color en humedo gris muy oscuro a pardo grisaceo muy oscuro (10YR3/1,5); franco; estructura en bloques subangulares medios moderados, friable en humedo; no plastico; no adhesivo; pH 5; raices muy abundantes; limite inferior claro suave.
+
+2	28-56 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; masivo con tendencia a estructura en bloques debiles; pH 5,1; raices abundantes; limite inferior claro.
+
+3R	56 cm a +; granito alterado; franco; pH 5,3; muy moteado; se observa gravilla y algunos bloques de roca con menor alteracion.
+
+Datos analiticos Serie ACHALA V
+Situacion: Latitud: 31º44'S Longitud: 64º46'O Altitud: 1900 m.s.n.m.
+
+|Horizonte                                                            |A       |2       |3R      |
+|Profundidad de la muestra (cm)                                       |0-28    |28-56   |56 a +  |
+|Materia Organica (%)                                                 |10,8    |16,2    |7,2     |
+|Carbono Organico (%)                                                 |5,6     |0,9     |0,4     |
+|Nitrogeno total (%)                                                  |0,57    |0,10    |0,07    |
+|Relacion C/N                                                         |9,8     |9,0     |5,7     |
+|Arcilla, <2 u (%)                                                    |22,8    |11,2    |24,9    |
+|Limo, 2-50 u (%)                                                     |42,2    |36,4    |34,8    |
+|Arena muy fina, 50-100 u (%)                                         |2,15    |5,30    |4,00    |
+|Arena fina, 100-250 u (%)                                            |10,75   |14,10   |10,55   |
+|Arena media, 250-500 u (%)                                           |3,90    |5,00    |4,35    |
+|Arena gruesa, 500-1000 u (%)                                         |9,45    |15,30   |12,75   |
+|Arena muy gruesa, 1-2 mm (%)                                         |9,00    |13,00   |10,10   |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |
+|Equivalente de humedad (%)                                           |29,1    |15,7    |21,4    |
+|pH en pasta                                                          |5,0     |5,0     |5,1     |
+|pH en agua (1:2,5)                                                   |5,0     |5,1     |5,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |11,1    |4,5     |9,3     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7     |0,5     |1,6     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,3     |0,1     |0,3     |
+|H+ de cambio (meq/100 gr)                                            |8,4     |3,1     |2,3     |
+|Sodio de intercambio, % (PSI)                                        |1,4     |2,4     |2,2     |
+|Suma de bases, meq/100 gr (S)                                        |13,4    |5,3     |11,5    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,8    |8,4     |13,8    |
+|Saturacion con bases, % (S/T)                                        |61      |63      |83      |

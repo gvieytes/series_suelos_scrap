@@ -1,0 +1,48 @@
+Serie BUEY MUERTO
+Haplustol tipico, franca fina, mixta, termica, (calcarea)
+Indice de Productividad: 61
+Capacidad de uso individual: IVws
+
+Este suelo se ha desarrollado sobre sedimentos eolicos (loess) de textura franco limosa, en los sectores planos o suavemente deprimidos del relieve. Es un suelo moderadamente bien drenado con algunos sintomas de hidromorfismo y alcalinidad sodica: el perfil modal muestra un 5% de sodio de intercambio desde el horizonte subsuperficial y carbonatos libres que van aumentando con la profundidad. Presenta un horizonte superficial (A) de 22 cm, con textura franco limosa, estructura en bloques, tiene 2,4% de materia organica y pH 7. Continua hacia abajo hasta 50 cm un horizonte ligeramente enriquecido en arcillas iluviales con escasos barnices en las caras de los agregados, tiene estructura en bloques y prismas debiles, textura franca a franco limosa y pH 7,9. Sigue hacia abajo una transicion (B/C) franco limosa con estructura en bloques muy debiles tendencia masiva y pH 8,5. El material parental, que se extiende desde 80 cm, es franco limoso, masivo con carbonatos libres en la masa del suelo y alcalino sodico, puede estar parcialmente saturado con agua en profundidad.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie fue descripto a 13 km al SO del paraje homonimo, departamento Rio Primero, provincia de Cordoba.
+
+A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2), franco limoso, estructura en bloques subangulares medios moderados, friable en humedo, ligeramente plastico, no adhesivo, pH 7, raices comunes a escasas, limite inferior claro suave.
+
+Bwk	22 a 50 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco a franco limoso, estructura en bloques y prismas debiles, friable en humedo ligeramente plastico, no adhesivo, pH 7,9, escasa reaccion al ClH en la masa del suelo, barnices de arcilla y humus comunes y finos, raices escasas a vestigios, limite inferior claro suave.
+
+B/Ck	50 a 80 cm; color en humedo pardo amarillento oscuro (10YR4/4), franco limoso, estructura en bloques debiles y gruesos, muy friable en humedo, pH 8,5, violenta reaccion al ClH en la masa del suelo, limite inferior gradual.
+
+Ck	80 cm a +; color en humedo pardo (7,5YR5/4), franco limoso, masivo, pH 8,9, violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie BUEY MUERTO
+Situacion: Latitud: 31º19'17"S Longitud: 63º25'24"O Altitud: 201 m.s.n.m.
+
+|Horizonte                                                            |A     |Bwk    |B/Ck   |Ck      |
+|Profundidad de la muestra (cm)                                       |0-22  |22-50  |50-80  |80 a +  |
+|Materia Organica (%)                                                 |2,41  |0,69   |       |        |
+|Carbono Organico (%)                                                 |1,4   |0,4    |       |        |
+|Nitrogeno total (%)                                                  |0,14  |0,06   |       |        |
+|Relacion C/N                                                         |9,7   |5,6    |       |        |
+|Arcilla, <2 u (%)                                                    |27,4  |29,0   |25,5   |24,3    |
+|Limo, 2-50 u (%)                                                     |54,1  |49,9   |54,4   |55,5    |
+|Arena muy fina, 50-100 u (%)                                         |5,2   |5,7    |5,5    |5,8     |
+|Arena fina, 100-250 u (%)                                            |5,7   |5,9    |5,6    |5,3     |
+|Arena media, 250-500 u (%)                                           |5,0   |4,9    |4,9    |4,8     |
+|Arena gruesa, 500-1000 u (%)                                         |2,4   |2,5    |2,5    |2,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,3   |0,3    |0,3    |0,2     |
+|Carbonatos, CaCO3 (%)                                                |0,2   |2,9    |5,6    |6,0     |
+|Equivalente de humedad (%)                                           |26,8  |29,2   |27,0   |2,6     |
+|pH en pasta                                                          |5,9   |6,4    |7,3    |7,8     |
+|pH en agua (1:2,5)                                                   |7,0   |7,9    |8,5    |8,5     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,2  |       |       |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7   |       |       |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,9   |1,4    |2,1    |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,6   |1,7    |1,3    |        |
+|H+ de cambio (meq/100 gr)                                            |0,1   |       |       |        |
+|Sodio de intercambio, % (PSI)                                        |5,5   |6,4    |11,2   |        |
+|Suma de bases, meq/100 gr (S)                                        |16,4  |       |       |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,5  |22,0   |18,8   |18,1    |
+|Saturacion con bases, % (S/T)                                        |99,2  |       |       |        |

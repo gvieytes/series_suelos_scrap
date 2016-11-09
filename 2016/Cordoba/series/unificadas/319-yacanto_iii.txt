@@ -1,0 +1,47 @@
+Serie YACANTO III
+Calciudol litico, franca gruesa, mixta, termica
+Indice de Productividad: 7
+
+La Serie Yacanto III es un Calciudol litico, algo excesivamente drenada, desarrollada sobre materiales autoctonos y relacionada a ambientes con suaves pendientes. Es un suelo de incipiente desarrollo. El horizonte superficial (A), de textura franca a franco arenosa y estructura en bloques debiles es moderadamente alcalino. Le sigue un horizonte de transicion (AC) con abundante carbonato de calcio diseminado en la masa del suelo, al igual que el horizonte C, que se asienta sobre roca alterada, estando esta a profundidades variables. La pendiente dominante es del 1%, con escurrimiento medio a lento; permeabilidad moderadamente rapida; sin peligro de anegamiento.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie fue descrito a 8 Km al Este de Villa Yacanto de Calamuchita, departamento Calamuchita, provincia de Cordoba.
+
+An	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; muy abundantes raices; limite inferior abrupto ondulado.
+
+ACk	20-51 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco (al tacto); estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 8,2 (de campana); moderada reaccion al acido clorhidrico por la presencia de carbonato de calcio diseminado en la masa del suelo; abundantes raices; limite inferior gradual suave.
+
+Ck	51-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco (al tacto); masivo; friable en humedo; no plastico; no adhesivo; pH 8,6 (de campana); fuerte reaccion al acido clorhidrico.
+
+R	80 cm a +; roca alterada.
+
+Datos analiticos Serie YACANTO III
+Situacion: Latitud: 32º06'S Longitud: 64º40'O Altitud: 1100 m.s.n.m.
+
+|Horizonte                                                            |An      |ACk        |Ck         |
+|Profundidad de la muestra (cm)                                       |0-20    |20-51      |51-80      |
+|Materia Organica (%)                                                 |        |           |           |
+|Carbono Organico (%)                                                 |        |           |           |
+|Nitrogeno total (%)                                                  |        |           |           |
+|Relacion C/N                                                         |        |           |           |
+|Arcilla, <2 u (%)                                                    |6,8     |           |           |
+|Limo, 2-50 u (%)                                                     |45,5    |           |           |
+|Arena muy fina, 50-100 u (%)                                         |4,5     |           |           |
+|Arena fina, 100-250 u (%)                                            |9,3     |           |           |
+|Arena media, 250-500 u (%)                                           |4,0     |           |           |
+|Arena gruesa, 500-1000 u (%)                                         |13,1    |           |           |
+|Arena muy gruesa, 1-2 mm (%)                                         |14,0    |           |           |
+|Carbonatos, CaCO3 (%)                                                |0,8     |34,4       |29,9       |
+|Equivalente de humedad (%)                                           |        |           |           |
+|pH en pasta                                                          |7,0     |           |           |
+|pH en agua (1:2,5)                                                   |8,0     |           |           |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |           |           |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,4     |           |           |
+|Cationes de intercambio, meq/100 gr (Na+)                            |1,9     |           |           |
+|Cationes de intercambio, meq/100 gr (K+)                             |        |           |           |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |           |           |
+|Sodio de intercambio, % (PSI)                                        |15,8    |           |           |
+|Suma de bases, meq/100 gr (S)                                        |        |           |           |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,0    |           |           |
+|Saturacion con bases, % (S/T)                                        |        |           |           |

@@ -1,0 +1,45 @@
+Serie ARROYO DE TEGUA
+Haplustol thapto molico, franca gruesa, mixta, termica
+Indice de Productividad: 68
+
+Los suelos de esta Serie son profundos, moderadamente bien drenados, desarrollados a partir de sedimentos loessicos de textura franca a franco limosa y cubiertos por materiales redepositados por el arroyo de Tegua, en las terrazas bajas del mismo. La capa arable o suelo superficial (horizonte Ak), tiene 27 cm de espesor, de textura franca a franco limosa, estructura en bloques subangulares medios moderados, moderado tenor de carbonato pulverulento en la masa del suelo. Hacia abajo presenta un cambio de material (horizonte 2Ck) de textura franco limosa, sin estructura y moderado contenido de carbonato en la masa. A 62 cm de profundidad, aparece el suelo original (horizonte 3Ak) de textura franca a franco limosa, estructura en bloques subangulares medios moderados y escaso contenido de carbonato pulverulento. Estos suelos presentan una reaccion moderadamente alcalina en todo el perfil, debido a la presencia de carbonato libre en la masa, lo que, sumado a la limitacion climatica natural del area, restringen su uso agricola.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa a esta Serie, fue estudiado a 1 km al Sur de la localidad de Punta del Agua, departamento Tercero Arriba, provincia de Cordoba.
+
+Ak	0-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; moderado contenido de carbonato pulverulento; limite inferior abrupto, suave.
+
+2Ck	27-62 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; moderado contenido de carbonato pulverulento; limite inferior abrupto, suave.
+
+3Ak	62 cm a +; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escaso contenido de carbonato en la masa del suelo; moteados abundantes, medios y precisos.
+
+Datos analiticos Serie ARROYO DE TEGUA
+
+Situacion: Latitud: 32º35'03"S Longitud: 63º48'59"O Altitud: 277 m.s.n.m.
+|Horizonte                                           |Ak      |2Ck     |3Ak     |
+|Profundidad de la muestra (cm)                      |0-27    |27-62   |62 a +  |
+|Materia Organica (%)                                |2,41    |0,17    |        |
+|Carbono Organico (%)                                |1,4     |0,1     |        |
+|Nitrogeno total (%)                                 |0,16    |0,03    |        |
+|Relacion C/N                                        |8,7     |3,3     |        |
+|Arcilla, <2 u (%)                                   |20,2    |11,7    |15,8    |
+|Limo, 2-50 u (%)                                    |49,4    |56,0    |49,5    |
+|Arena muy fina, 50-100 u (%)                        |26,8    |28,6    |31,4    |
+|Arena fina, 100-250 u (%)                           |2,3     |1,6     |1,6     |
+|Arena media, 250-500 u (%)                          |0,2     |0,1     |0,05    |
+|Arena gruesa, 500-1000 u (%)                        |0,2     |0,2     |0,05    |
+|Arena muy gruesa, 1-2 mm (%)                        |        |        |        |
+|Carbonatos, CaCO3 (%)                               |1,3     |1,7     |0,9     |
+|Equivalente de humedad (%)                          |27,3    |14,5    |23,9    |
+|pH en pasta                                         |7,8     |8,0     |7,9     |
+|pH en agua (1:2,5)                                  |8,1     |8,2     |8,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)          |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)          |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)           |0,3     |0,2     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)            |3,0     |1,7     |1,4     |
+|H+ de cambio (meq/100 gr)                           |        |        |        |
+|Sodio de intercambio, % (PSI)                       |1,4     |1,9     |1,2     |
+|Suma de bases, meq/100 gr (S)                       |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)  |21,3    |10,3    |16,5    |
+|Saturacion con bases, % (S/T)                       |        |        |        |

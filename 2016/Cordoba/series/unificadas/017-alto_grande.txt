@@ -1,0 +1,41 @@
+Serie ALTO GRANDE
+Simbolo: AGr
+Haplustol tipico, franca fina, mixta, termica
+Indice de Productividad: 70
+Capacidad de uso: IIIec
+La Serie Alto Grande, se ha desarrollado sobre sedimentos eolicos de textura franco limosa, sobre relieves suavemente ondulados y ondulados. Es un suelo bien drenado sin peligro de anegamiento que tiene como limitantes la climatica de caracter moderado y la susceptibilidad a la erosion hidrica. Presenta un horizonte A o capa arable de 20 cm de espesor, es franco limoso con 19% de arcilla y estructura en bloques. Continua hacia abajo un horizonte Bw no textural, de textura franco limosa (21% de arcilla), estructura en bloques y prismas irregulares moderados a debiles; se extiende hasta 38 cm de profundidad. Hacia abajo continua el horizonte de transicion BCk con carbonatos libres (3,6%) que se extiende hasta los 65 cm. El material originario del suelo comienza a dicha profundidad, es franco limoso, con carbonatos libres en la masa del suelo (7,8%).
+Descripcion del perfil tipico:
+El perfil representativo de la Serie fue descrito a 14 km al Norte de Jesus Maria, departamento Totoral, provincia de Cordoba.
+A	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,3; raices muy abundantes; limite inferior claro, suave.
+Bw	20-38 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques y prismas irregulares debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,4; barnices escasos medios y finos; raices comunes; limite inferior gradual, suave.
+BCk	38-65 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares debiles gruesos; friable en humedo; ligeramente plastico; no adhesivo; pH 7,6; leve reaccion al ClH en la masa del suelo; vestigios de barnices arcillosos; limite inferior gradual, suave.
+Ck	65 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo.
+Datos analiticos Serie ALTO GRANDE
+Situacion: Latitud: 30º51'59"S Longitud: 64º03'57"O Altitud: 570 m.s.n.m
+
+|Horizonte                                                            |A       |Bw      | BCk    |Ck      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-38   |38-65   |65 a +  |
+|Materia Organica (%)                                                 |3,28    |1,72    |        |        |
+|Carbono Organico (%)                                                 |1,9     |1,0     |        |        |
+|Nitrogeno total (%)                                                  |0,19    |0,10    |        |        |
+|Relacion C/N                                                         |10,0    |10,0    |        |        |
+|Arcilla, <2 u (%)                                                    |19,0    |21,4    |17,0    |20,4    |
+|Limo, 2-50 u (%)                                                     |56,5    |58,1    |61,2    |59,1    |
+|Arena muy fina, 50-100 u (%)                                         |7,3     |6,7     |6,6     |5,7     |
+|Arena fina, 100-250 u (%)                                            |4,0     |3,4     |2,9     |2,7     |
+|Arena media, 250-500 u (%)                                           |4,5     |2,7     |3,2     |2,9     |
+|Arena gruesa, 500-1000 u (%)                                         |6,9     |5,6     |4,6     |4,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |2,1     |2,6     |2,2     |2,6     |
+|Carbonatos, CaCO3 (%)                                                |        |        |3,6     |7,8     |
+|Equivalente de humedad (%)                                           |21,7    |22,0    |22,4    |22,4    |
+|pH en pasta                                                          |6,9     |7,1     |7,3     |7,3     |
+|pH en agua (1:2,5)                                                   |7,3     |7,4     |7,6     |7,7     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |18,5    |22,7    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,4     |0,7     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,3     |0,3     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,1     |1,0     |1,1     |
+|H+ de cambio (meq/100 gr)                                            |0,4     |0,2     |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |1,2     |1,2     |1,2     |
+|Suma de bases, meq/100 gr (S)                                        |20,8    |24,8    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,2    |25,0    |24,8    |24,9    |
+|Saturacion con bases, % (S/T)                                        |98,1    |99,2    |        |        |

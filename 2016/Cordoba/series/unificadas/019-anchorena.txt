@@ -1,0 +1,47 @@
+Serie ANCHORENA
+Simbolo: An
+Ustipsamment tipico, arenosa, mixta, termica
+Indice de Productividad: 10
+
+Son suelos desarrollados sobre las planicies arenosas del SO de la provincia de Cordoba en el limite con La Pampa y San Luis. Los suelos de la Serie Anchorena son de textura arenosa, poco evolucionada geneticamente, de perfil sencillo, por lo general del tipo A-A2-AC-C. Presentan un horizonte ocrico de reciente deposicion de 10 a 20 cm de espesor (A), debilmente estructurado y con escasa provision de materia organica. Este horizonte normalmente se encuentra mezclado con ceniza volcanica, pero a veces descansa abruptamente sobre una pequena capa de ceniza de 1 a 5 cm de espesor (A2). Son algo excesivamente drenados, de permeabilidad (estimada) rapida, no son salinos y la capa de agua freatica se encuentra profunda. Las limitaciones climaticas y edaficas son muy severas. Entre las exclusivamente edaficas, se mencionan: deficiencia en materia organica, drenaje excesivo, baja capacidad de retencion de la humedad, grave erosion eolica pasada y actual y severo riesgo a este tipo de erosion. Por lo general no son aptos para cultivos; los sectores mas llanos se destinan a la implantacion de pasturas; al resto se los aprovecha como campos naturales de pastoreo y refugio de la fauna.
+
+Descripcion del perfil tipico:
+
+A continuacion se describe el perfil tipico de los suelos de esta Serie, que fue estudiada a 13,5 Km al SO de la localidad de Arizona, en el departamento Gobernador Vicente Dupuy, provincia de San Luis.
+
+A	0-10 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso fino; estructura en bloques subangulares debiles con tendencia a laminar; mezclado con ceniza volcanica, este horizonte corresponde al aporte mas actual producido por la remocion de materiales de areas proximas; raices abundantes y limite inferior abrupto.
+
+A2	10-24 cm; color en humedo pardo amarillento oscuro (10YR3/4); arenoso fino; debilmente estructurado en bloques; suelto; muy friable en humedo; raices comunes; limite inferior gradual.
+
+AC	24-44 cm; color en humedo pardo amarillento oscuro (10YR3/4); arenoso fino; escasamente estructurado; rompe a grano suelto; suelto; muy friable en humedo; raices comunes; limite inferior gradual.
+
+C	44 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); arenoso fino; sin estructura, rompe a grano suelto.
+
+Datos analiticos Serie ANCHORENA
+Situacion: Latitud: 35º49'S Longitud: 65º24'O Altitud: 300 m.s.n.m.
+
+|Horizonte                                                            |A       |A2      |AC      |C       |
+|Profundidad de la muestra (cm)                                       |0-10    |10-24   |24-44   |44 a +  |
+|Materia Organica (%)                                                 |0,74    |0,46    |0,34    |0,13    |
+|Carbono Organico (%)                                                 |0,43    |0,27    |0,20    |0,08    |
+|Nitrogeno total (%)                                                  |0,085   |0,05    |0,035   |0,025   |
+|Relacion C/N                                                         |5       |5       |6       |3       |
+|Arcilla, <2 u (%)                                                    |4,08    |2,99    |3,65    |2,87    |
+|Limo, 2-50 u (%)                                                     |30,45   |6,88    |5,61    |5,79    |
+|Arena muy fina, 50-100 u (%)                                         |10,91   |12,74   |14,0    |12,61   |
+|Arena fina, 100-250 u (%)                                            |43,0    |67,52   |66,20   |67,66   |
+|Arena media, 250-500 u (%)                                           |1,98    |2,98    |3,04    |2,60    |
+|Arena gruesa, 500-1000 u (%)                                         |0,40    |0,30    |0,34    |0,24    |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |0,10    |0,02    |0,10    |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |0,23    |
+|pH en pasta                                                          |6,30    |7,00    |7,40    |8,00    |
+|pH en agua (1:2,5)                                                   |6,60    |7,60    |8,20    |8,30    |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |3,09    |4,31    |4,88    |6,84    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,44    |1,44    |1,57    |1,57    |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,20    |0,20    |0,26    |0,36    |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,38    |0,54    |0,54    |0,54    |
+|H+ de cambio (meq/100 gr)                                            |0,8     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |3,3     |2,8     |3,3     |3,6     |
+|Suma de bases, meq/100 gr (S)                                        |5,11    |6,49    |7,25    |9,31    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |6,0     |7,20    |8,0     |10,0    |
+|Saturacion con bases, % (S/T)                                        |85      |90      |91      |93      |

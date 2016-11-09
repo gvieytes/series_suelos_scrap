@@ -1,0 +1,46 @@
+Serie LA PARA
+Simbolo: LPr
+Haplustol entico, franca gruesa, mixta, termica
+Capacidad de uso individual: VIsc
+Indice de Productividad: 47
+
+Este suelo se ha desarrollado sobre sedimentos fluviales y aluviales de textura franco arenosa, preferentemente en los derrames y albardones proximos o adyacentes a vias fluviales actuales o mas o menos recientes (paleocauces), pertenecientes al sistema fluvial del rio Suquia (Primero). El relieve normalmente es elevado en relacion al resto de la llanura eolica y fluvial del area. Presenta un horizonte A o capa arable de textura franco arenosa con estructura en bloques moderados a debiles que se extiende hasta 22 cm. Continua hacia abajo un horizonte de transicion (AC) de textura franco arenosa y estructura masiva tendencia a bloques que se extiende hasta 53 cm. El material originario del suelo se encuentra a la profundidad indicada, masivo, el carbonato de calcio libre aparece a 80 cm de profundidad. Las limitantes en el perfil del suelo consisten en deficiencias en la fertilidad y moderada retencion de humedad por efecto de la textura "gruesa" en todo el perfil.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de este suelo fue descripto a 5 km al NNO del paraje Capilla de la Sagrada Familia, departamento Rio Primero, Provincia de Cordoba.
+
+A	0-22 cm; color en humedo pardo oscuro (10YR3/3), franco arenoso, estructura en bloques subangulares medios moderados a debiles, pH 7, friable en humedo, no plastico, no adhesivo, raices comunes, limite inferior claro suave.
+
+AC	22-53 cm; color en humedo pardo oscuro (10YR3/3), franco arenoso, estructura en bloques debiles a masivo, friable en humedo, muy friable en humedo, no plastico, no adhesivo, pH 7,2, vestigios de raices, limite inferior gradual.
+
+C	53 cm a +; color en humedo pardo amarillento oscuro (10YR4/4), franco arenoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 7,9.
+
+Datos analiticos Serie LA PARA
+Situacion: Latitud: 31º13'48"S Longitud: 63º26'23"O Altitud: 197 m.s.n.m.
+
+|Horizonte                                                            |A     |AC     |C       |
+|Profundidad de la muestra (cm)                                       |0-22  |22-53  |53 a +  |
+|Materia Organica (%)                                                 |2,93  |0,86   |        |
+|Carbono Organico (%)                                                 |1,7   |0,5    |        |
+|Nitrogeno total (%)                                                  |0,20  |0,06   |        |
+|Relacion C/N                                                         |8,4   |8,5    |        |
+|Arcilla, <2 u (%)                                                    |16,2  |14,6   |14,3    |
+|Limo, 2-50 u (%)                                                     |36,7  |36,9   |34,8    |
+|Arena muy fina, 50-100 u (%)                                         |12,6  |13,3   |13,7    |
+|Arena fina, 100-250 u (%)                                            |23,5  |24,8   |24,9    |
+|Arena media, 250-500 u (%)                                           |8,0   |8,8    |8,8     |
+|Arena gruesa, 500-1000 u (%)                                         |1,8   |1,8    |1,8     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1   |0,3    |0,3     |
+|Carbonatos, CaCO3 (%)                                                |      |       |        |
+|Equivalente de humedad (%)                                           |19,2  |16,1   |15,7    |
+|pH en agua (1:2,5)                                                   |7,0   |7,2    |7,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,9  |8,0    |8,4     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9   |0,7    |0,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3   |0,2    |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,6   |1,0    |1,0     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,0   |0,2    |        |
+|Sodio de intercambio, % (PSI)                                        |1,8   |2,3    |2,2     |
+|Suma de bases, meq/100 gr (S)                                        |13,7  |9,9    |10,5    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,6  |10,1   |10,5    |
+|Saturacion con bases, % (S/T)                                        |93,3  |97,9   |100     |

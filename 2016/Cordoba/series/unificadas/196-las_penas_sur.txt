@@ -1,0 +1,54 @@
+Serie LAS PENAS SUR
+Haplustol fluventico, franca fina, mixta, termica
+Indice de Productividad: 68
+
+Capacidad de uso: IIIc
+
+Es un suelo bien drenado, desarrollado sobre sedimentos fluviales y fluvio eolicos de texturas medias en ambientes o formas naturales de terrazas y desagues principales, dentro de la Pampa Alta loessica de la provincia de Cordoba. Esta constituido por capas fluviales parcialmente edafizadas donde la materia organica varia irregularmente con la profundidad. La capa A tiene una estructura en bloques con tendencia laminar, textura franco limosa con 18% de arcilla. Continua la capa 2 que se extiende hasta 55 cm con estructura laminar y bloques y textura franco limosa. Desde la profundidad indicada hasta 82 cm existe una capa parcialmente edafizada (3) con estructura en bloques, textura franco limosa a franca con 22% de arcilla y 2,2% de materia organica. Continua hacia abajo la capa 4 desde 82 cm hasta 104 cm, tiene textura franco limosa, 14% de arcilla y textura franca con vestigios de barnices en las caras de los agregados. La capa 5 va desde 104 a 124 cm, franco limosa con bloques debiles y 17% de arcilla. La capa 6 se extiende hacia abajo desde la profundidad indicada, es masiva con carbonato de calcio libre en la masa del suelo. Fases reconocidas: erosion hidrica y acumulacion.
+
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie fue descrito a 12 Km al ONO de la localidad de Las Penas, departamento Rio Cuarto, provincia de Cordoba.
+
+A	0-32 cm; color en humedo pardo oscuro (10YR3/3); franco limoso, estructura en bloques subangulares medios moderados con leve tendencia laminar; no plastico; no adhesivo; pH 6,6; raices abundantes; limite inferior abrupto suave.
+
+2	32-55 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; estructura laminar con tendencia a bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,7; raices escasas; limite inferior claro.
+
+3	55-82 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; ligeramente plastico; ligeramente adhesivo; pH 6,9; raices escasas; limite inferior claro suave.
+
+4	82-104 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares debiles; ligeramente plastico; ligeramente adhesivo; pH 7,1; (vestigios de barnices arcillosos); limite inferior abrupto.
+
+5	104-124 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques debiles; ligeramente plastico; no adhesivo; pH 7; limite inferior abrupto.
+
+6	124 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; ligeramente plastico; ligeramente adhesivo; pH 8; moderada a fuerte reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie LAS PENAS SUR
+Situacion: Latitud: 32º29'25"S Longitud: 64º12'19"O Altitud: 515 m.s.n.m.
+
+|Horizonte                                                            |A       |2       |3       |4        |5          |6         |
+|Profundidad de la muestra (cm)                                       |0-32    |32-55   |55-82   |82-104   |104-124    |124 a +   |
+|Materia Organica (%)                                                 |1,9     |1,9     |        |         |           |          |
+|Carbono Organico (%)                                                 |1,1     |1,1     |        |         |           |          |
+|Nitrogeno total (%)                                                  |0,11    |        |        |         |           |          |
+|Relacion C/N                                                         |10,0    |        |        |         |           |          |
+|Arcilla, <2 u (%)                                                    |18,9    |22,6    |22,4    |14,2     |17,4       |12,5      |
+|Limo, 2-50 u (%)                                                     |64,9    |59,4    |49,9    |46,0     |47,7       |43,8      |
+|Arena muy fina, 50-100 u (%)                                         |13,5    |16,1    |12,0    |22,5     |20,4       |26,5      |
+|Arena fina, 100-250 u (%)                                            |1,9     |1,7     |7,4     |9,2      |8,8        |9,2       |
+|Arena media, 250-500 u (%)                                           |0,3     |0,5     |1,6     |1,7      |1,9        |2,2       |
+|Arena gruesa, 500-1000 u (%)                                         |0,5     |0,9     |3,2     |3,8      |3,9        |4,2       |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |0,3     |0,9     |1,8      |1,8        |2,2       |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |         |           |1,4       |
+|Equivalente de humedad (%)                                           |24,0    |24,1    |23,0    |16,8     |17,1       |15,1      |
+|pH en pasta                                                          |6,2     |6,3     |6,4     |6,7      |6,7        |7,9       |
+|pH en agua (1:2,5)                                                   |6,6     |6,7     |6,9     |7,1      |7,1        |8,0       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,7    |12,5    |11,9    |12,0     |11,7       |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,2     |1,1     |1,0     |1,1      |1,0        |          |
+|Cationes de intercambio, meq/100 gr (Na+)                            |1,1     |1,4     |1,8     |1,1      |1,3        |0,3       |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,0     |1,0     |0,8     |1,1      |1,4        |1,0       |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,0     |0,7     |0,5     |0,4      |0,3        |          |
+|Sodio de intercambio, % (PSI)                                        |7,3     |8,4     |11,2    |7,0      |8,3        |2,0       |
+|Suma de bases, meq/100 gr (S)                                        |14,0    |16,0    |15,5    |15,3     |15,4       |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,0    |16,7    |16,0    |15,7     |15,7       |15,0      |
+|Saturacion con bases, % (S/T)                                        |93,3    |95,8    |96,9    |97,5     |98,1       |          |

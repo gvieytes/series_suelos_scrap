@@ -1,0 +1,48 @@
+Serie LA QUINTA 
+Simbolo: LQt
+Argiustol tipico, limosa fina a franca fina, mixta, termica
+Capacidad de uso individual: IIIc 
+Indice de Productividad: 71
+
+Este suelo se ha desarrollado a partir de sedimentos eolicos de textura franco limosa, en un paisaje de lomas extendidas o suavemente onduladas ocupando sectores muy representativos, conformando unidades compuestas. Presenta un horizonte A o capa arable de 23 cm de espesor con textura franco limosa y estructura en bloques. Continua hacia abajo hasta 45 cm un horizonte (Bt) con arcillas iluviales en forma de barnices comunes a abundantes, posee textura franco arcillo limosa con estructura en prismas irregulares medios moderados y se extiende hasta 45 cm. Hacia abajo se extiende una transicion B/C y el material originario del suelo (loess) esta a una profundidad de 65 cm, masivo con textura franco limosa. Este suelo no tiene limitaciones en el perfil siendo la unica la derivada del clima de caracter moderada: es uno de los suelos de mejor aptitud de la region.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie fue descripto a 14 km al ENE del paraje homonimo, departamento Rio Primero, provincia de Cordoba.
+
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2), franco limoso, estructura en bloques subangulares medios moderados, friable en humedo, plastico, ligeramente adhesivo, pH 6,4, raices abundantes, limite inferior claro suave.
+
+Bt	23 45 cm; color en humedo pardo oscuro (10YR3/3), franco arcillo limoso, estructura en prismas irregulares medios moderados a fuertes, friable en humedo, plastico y adhesivo, pH 6,5, barnices abundantes de arcilla y humus, raices comunes, limite inferior gradual.
+
+B/C	45-65 cm; color en humedo pardo a pardo oscuro (10YR4/3), franco limoso, estructura en bloques y prismas debiles, friable en humedo, no plastico, no adhesivo, pH 6,6, escasos barnices de arcilla, raices escasas, limite inferior gradual.
+
+C	65 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4), franco limoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 6,5, vestigios de raices.
+
+Datos analiticos Serie LA QUINTA
+Situacion: Latitud: 31º01'55"S Longitud: 63º00'30"O Altitud: 107 m.s.n.m.
+|Horizonte                                                            |A     |Bt     |B/C    |C       |
+|Profundidad de la muestra (cm)                                       |0-23  |23-45  |45-65  |65 a +  |
+|Materia Organica (%)                                                 |2,07  |1,21   |       |        |
+|Carbono Organico (%)                                                 |1,2   |0,7    |       |        |
+|Nitrogeno total (%)                                                  |0,12  |0,07   |       |        |
+|Relacion C/N                                                         |10,1  |9,6    |       |        |
+|Arcilla, <2 u (%)                                                    |25,8  |31,8   |25,1   |24,9    |
+|Limo, 2-50 u (%)                                                     |68,5  |61,5   |66,0   |67,2    |
+|Arena muy fina, 50-100 u (%)                                         |4,6   |3,5    |4,6    |4,5     |
+|Arena fina, 100-250 u (%)                                            |1,8   |0,8    |1,3    |1,8     |
+|Arena media, 250-500 u (%)                                           |0,6   |0,3    |0,5    |0,5     |
+|Arena gruesa, 500-1000 u (%)                                         |0,2   |0,1    |0,1    |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |      |       |       |        |
+|Carbonatos, CaCO3 (%)                                                |      |       |       |        |
+|Equivalente de humedad (%)                                           |26,8  |28,4   |26,8   |26,4    |
+|pH en pasta                                                          |      |       |       |        |
+|pH en agua (1:2,5)                                                   |6,4   |6,5    |6,6    |6,5     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |11,6  |13,7   |13,6   |14,3    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,5   |2,4    |2,4    |2,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3   |0,4    |0,3    |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,0   |1,8    |1,5    |1,3     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,4   |1,3    |1,2    |1,2     |
+|Sodio de intercambio, % (PSI)                                        |1,7   |1,9    |1,7    |1,6     |
+|Suma de bases, meq/100 gr (S)                                        |15,3  |18,3   |17,9   |18,3    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,6  |19,6   |19,1   |19,5    |
+|Saturacion con bases, % (S/T)                                        |91,8  |93,3   |93,7   |93,8    |

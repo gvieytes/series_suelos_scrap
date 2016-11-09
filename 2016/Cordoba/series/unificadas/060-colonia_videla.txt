@@ -1,0 +1,54 @@
+Serie COLONIA VIDELA
+
+Simbolo: CVa
+
+Duracuol tipico, fina, illitica, termica
+
+Indice de Productividad: 32
+
+Capacidad de uso: Vw
+
+Los suelos de esta Serie son imperfectamente drenados, se los encuentra en areas concavas pozos de infiltracion que generalmente se forman en el cruce de dos o mas vias de escurrimientos, dentro de los planos altos o lomadas extendidas. El horizonte superficial A, tiene 24 cm de espesor, de color pardo grisaceo oscuro, textura arcillo-limosa y estructura en bloques, bien provisto de materia organica, fuertemente acido, presentando en su parte inferior moteados de Fe escasos y finos. Pasa luego a un horizonte Bw, que se extiende hasta 84 cm de profundidad, de color pardo oscuro: textura arcillo limosa y estructura en prismas moderados, con barnices en la cara de los agregados y moteados de Fe precisos, reaccion moderadamente acida. Por debajo se encuentra un horizonte fuertemente cementado "duripan", de baja permeabilidad que impide el drenaje natural de estos suelos, limitando el uso agricola de los mismos, ya que suelen anegarse en periodos lluviosos.
+
+Descripcion del perfil tipico:
+
+El perfil que representa el modal de la Serie, fue descrito a 14,3 km al SSO de la Estacion Experimental Agropecuaria INTA Manfredi, departamento Rio Segundo, provincia de Cordoba.
+
+Ap	0-16 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+
+A	16-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); arcillo limoso; estructura en bloques subangulares medio moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos moteados finos y debiles; limite claro y suave.
+
+Bw	24-46 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso; estructura en prismas irregulares gruesos y medios moderados; rompe en bloques subangulares; friable en humedo; plastico; adhesivo; barnices humico arcillosos comunes y medios; moteados comunes, finos y precisos; limite inferior gradual y suave.
+
+Bw2	46-84 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso a arcillo limoso; estructura en prismas irregulares gruesos, rompe en prismas menores; friable en humedo; plastico; adhesivo; barnices arcillosos comunes y medios; moteados comunes finos y precisos; limite inferior abrupto y suave.
+
+BCm	84 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; cementado; muy duro en seco; firme en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos medios; moteados comunes medios y precisos.
+
+Datos analiticos Serie COLONIA VIDELA
+Situacion: Latitud: 31º58'27"S Longitud: 63º48'48"O Altitud: 291 m.s.n.m.
+|Horizonte                                                            |Ap      |A       |Bw      |Bw2     |BCm     |
+|Profundidad de la muestra (cm)                                       |0-16    |16-24   |24-46   |46-84   |84 a +  |
+|Materia Organica (%)                                                 |3,73    |3,69    |1,30    |0,17    |0,06    |
+|Carbono Organico (%)                                                 |2,17    |2,15    |0,76    |0,10    |0,04    |
+|Nitrogeno total (%)                                                  |0,233   |0,204   |0,116   |0,075   |        |
+|Relacion C/N                                                         |9,3     |10,5    |6,6     |1,3     |        |
+|Arcilla, <2 u (%)                                                    |42,4    |43,5    |41,8    |40,2    |34,5    |
+|Limo, 2-50 u (%)                                                     |55,0    |54,2    |54,0    |53,4    |58,9    |
+|Arena muy fina, 50-100 u (%)                                         |2,1     |2,5     |4,9     |6,8     |6,8     |
+|Arena fina, 100-250 u (%)                                            |0,4     |0,2     |0,2     |0,4     |0,5     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |
+|Equivalente de humedad (%)                                           |35,1    |38,6    |30,9    |29,7    |29,0    |
+|pH en pasta                                                          |4,9     |4,9     |5,6     |5,9     |5,9     |
+|pH en agua (1:2,5)                                                   |5,3     |5,3     |5,8     |6,3     |6,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |14,3    |13,8    |13,9    |14,4    |14,0    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,1     |2,6     |2,3     |1,9     |1,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,07    |0,07    |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |2,6     |2,1     |2,1     |2,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |4,0     |4,3     |2,4     |1,6     |1,4     |
+|Sodio de intercambio, % (PSI)                                        |0,8     |0,9     |0,3     |0,3     |1,0     |
+|Suma de bases, meq/100 gr (S)                                        |20,2    |19,4    |18,4    |18,4    |18,3    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |24,2    |23,9    |21,0    |20,2    |19,7    |
+|Saturacion con bases, % (S/T)                                        |83      |81      |88      |91      |93      |

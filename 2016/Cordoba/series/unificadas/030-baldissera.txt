@@ -1,0 +1,51 @@
+Serie BALDISSERA
+Simbolo: Bds
+Argiudol tipico, franca fina, mixta, termica
+Indice de Productividad: 90
+Capacidad de uso: IIc
+
+La Serie Baldissera es un suelo oscuro no inundable y bien drenado de lomas casi planas y de los cauces o vias de escurrimiento, desarrollado sobre sedimentos loessicos muy limosos, con mas de 60% de limo en la fraccion mineral. Ocupa un amplio sector y se han desarrollado sobre sedimentos loessicos. La capa arable de 19 cm de espesor (horizonte A) es de textura franco limosa, estructura en bloques y de color pardo grisaceo oscuro. Hacia abajo pasa a otro horizonte mas arcilloso (horizonte Bt) que se extiende aproximadamente hasta los 45 cm. Su color es pardo oscuro, estructura prismatica y presenta abundantes barnices en las caras de los agregados. La transicion entre el Bt y el loess del sustrato (horizonte C) es gradual. Este ultimo se encuentra a una profundidad de 80 cm, es un material franco limoso o franco, suelto y con calcareo libre en la masa a partir de 127 cm de profundidad. Los suelos de la Serie Baldissera son fertiles, con alto contenido de materia organica y moderada retencion de humedad, no presentan impedimentos fisico-quimicos para el desarrollo de las plantas, se los usa tanto para agricultura como para ganaderia, aunque ya presentan alguna limitacion climatica. Esta Serie ha sido identificada en unidades puras y tambien en fases por pendientes, cuando ocupan posiciones inclinadas del relieve; en los sectores donde presentan sintomas de hidromorfismo, como la fase moderadamente bien drenada y en los sectores que se inundan en epocas muy lluviosas, como la fase muy poco inundable. Dentro de la Serie Baldissera existen algunas variaciones en el espesor del horizonte A entre 18 a 23 cm y del Bt entre 20 y 30 cm. La profundidad del solum varia entre 70 y 100 cm.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico fue estudiado a 2,5 km al Sur de Baldissera, departamento Marcos Juarez, provincia de Cordoba.
+
+A	0-19 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+Bt	19-45 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a prismas y bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes, medios y finos; limite inferior claro, suave.
+
+BC	45-81 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares medios y bloques gruesos, debiles; friable en humedo; no plastico; no adhesivo; barnices "Clay Skins" escasos y finos; limite inferior gradual, suave.
+
+C	81-127 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, ondulado.
+
+Ck	127 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo libre en la masa y en concreciones.
+
+Datos Analiticos. Serie Baldissera
+Situacion: Latitud: 33º08'36"S Longitud: 62º17'35"O Altitud: 111 m.s.n.m.
+|Horizonte                                                            |A       |Bt      |BC      |C        |Ck        |
+|Profundidad de la muestra (cm)                                       |0-19    |19-45   |45-81   |81-127   |127 a +   |
+|Materia Organica (%)                                                 |3,38    |1,18    |0,41    |0,24     |0,16      |
+|Carbono Organico (%)                                                 |1,97    |0,69    |0,24    |0,14     |0,09      |
+|Nitrogeno total (%)                                                  |0,16    |0,09    |0,05    |0,033    |          |
+|Relacion C/N                                                         |12,3    |7,6     |4,8     |4,2      |          |
+|Arcilla, <2 u (%)                                                    |22,7    |31,3    |20,0    |11,9     |8,25      |
+|Limo, 2-50 u (%)                                                     |60,2    |52,1    |64,9    |62,6     |61,2      |
+|Arena muy fina, 50-100 u (%)                                         |14,5    |15,6    |17,2    |23,7     |27,1      |
+|Arena fina, 100-250 u (%)                                            |0,5     |0,4     |0,6     |1,4      |1,7       |
+|Arena media, 250-500 u (%)                                           |        |        |        |         |          |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |         |2,36      |
+|Equivalente de humedad (%)                                           |27,4    |28,3    |22,4    |20,8     |18,8      |
+|pH en pasta                                                          |6,2     |6,5     |6,8     |7,1      |7,8       |
+|pH en agua (1:2,5)                                                   |6,5     |6,7     |7,1     |7,3      |8,2       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,8    |15,2    |13,3    |13,6     |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,2     |2,2     |2,6     |2,3      |          |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,2     |0,2      |0,3       |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |2,2     |1,6     |1,9      |2,0       |
+|H+ de cambio (meq/100 gr)                                            |2,7     |1,6     |1,1     |0,9      |          |
+|Sodio de intercambio, % (PSI)                                        |1,0     |1,0     |1,1     |1,1      |1,9       |
+|Suma de bases, meq/100 gr (S)                                        |18,6    |19,8    |17,7    |18,0     |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,6    |20,8    |18,4    |18,4     |15,9      |
+|Saturacion con bases, % (S/T)                                        |94,8    |95,1    |96,1    |97       |          |

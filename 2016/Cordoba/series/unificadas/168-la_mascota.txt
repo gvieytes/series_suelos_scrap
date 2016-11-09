@@ -1,0 +1,56 @@
+Serie LA MASCOTA
+Natracualf tipico, fina, illitica, termica
+Indice de Productividad: 33
+
+La Serie La Mascota es un suelo imperfectamente drenado y con moderada alcalinidad sodica desde los 16 cm de profundidad. Se ha desarrollado a partir de sedimentos franco limosos y se encuentra vinculada a los bajos alargados o vias de desague, dentro de los planos ligeramente deprimidos. Los primeros 16 cm (horizonte E) son de color pardo grisaceo oscuro en humedo y gris claro cuando esta seco, de textura franco limosa y estructura en bloques debiles con tendencia a masivo. Luego pasa a un horizonte con mayor contenido de arcilla (horizonte Bt), de estructura semicolumnar y prismas gruesos fuertes con abundantes barnices humico arcillosos y se extiende hasta los 76 cm de profundidad, limitando en forma abrupta con un horizonte cementado (BCm), formando un duripan. La alcalinidad sodica y el drenaje imperfecto limitan la aptitud agricola de estos suelos. Generalmente se encuentra en la parte central de los bajos alargados o vias de desague bien manifiestas a los cuales esta vinculada.
+
+Descripcion del perfil tipico:
+
+A continuacion se describe el perfil representativo de esta Serie, estudiado a 11,5 km al SSO de Alto Alegre, departamento Union, provincia de Cordoba.
+
+E	0-16 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco gris pardusco claro (10YR6/2); franco limoso; estructura en bloques medios debiles a masivo; ligeramente duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados abundantes, finos y precisos; muy poroso; limite inferior abrupto, suave.
+
+Bt	16-49 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura semicolumnar y prismas gruesos fuertes que rompen en prismas menores y bloques subangulares medios moderados; duro en seco; firme en humedo; plastico; adhesivo; barnices humico arcillosos muy abundantes y gruesos de color pardo muy oscuro (10YR2/2) en humedo; moteados comunes, finos y debiles; limite inferior claro, suave.
+
+Btn	49-76 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; estructura en prismas irregulares gruesos y medios moderados que rompen en bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices arcillosos abundantes y medios; moteados abundantes, finos y precisos; bochas cementadas; limite inferior abrupto, suave.
+
+BCm	76 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; cementado (70% del volumen); firme en humedo; barnices arcillosos escasos y finos; concreciones calcareas finas y medias; moteados abundantes, gruesos y precisos.
+
+Datos analiticos Serie LA MASCOTA
+Situacion: Latitud: 32º26'25"S Longitud: 62º56'17"O Altitud: 155 m.s.n.m.
+
+|Horizonte                                                            |E       |Bt      |Btn     |BCm     |
+|Profundidad de la muestra (cm)                                       |0-16    |16-49   |49-76   |76 a +  |
+|Materia Organica (%)                                                 |2,32    |0,99    |0,53    |0,24    |
+|Carbono Organico (%)                                                 |1,35    |0,58    |0,31    |0,14    |
+|Nitrogeno total (%)                                                  |0,137   |0,083   |0,060   |0,040   |
+|Relacion C/N                                                         |9,8     |7,0     |5,2     |3,5     |
+|Arcilla, <2 u (%)                                                    |26,3    |36,1    |33,6    |24,9    |
+|Limo, 2-50 u (%)                                                     |66,0    |57,0    |59,3    |67,7    |
+|Arena muy fina, 50-100 u (%)                                         |6,0     |4,8     |6,3     |7,4     |
+|Arena fina, 100-250 u (%)                                            |0,9     |0,6     |0,5     |0,6     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |0,56    |
+|Equivalente de humedad (%)                                           |26,7    |31,2    |30,7    |31,9    |
+|pH en pasta                                                          |6,7     |7,6     |7,6     |7,8     |
+|pH en agua (1:2,5)                                                   |7,2     |8,2     |8,4     |8,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |15,2    |16,3    |14,0    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,1     |3,5     |2,7     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |1,4     |3,9     |4,4     |6,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |3       |4,8     |4,8     |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,60    |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |6,4     |13,9    |16,4    |23,8    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |4,44    |
+|Suma de bases, meq/100 gr (S)                                        |21,7    |28,5    |26,9    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22      |28      |26,8    |26      |
+|Saturacion con bases, % (S/T)                                        |98,6    |100     |100     |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |        |9,1     |
+|C.EXT.S ME/l-Mg++                                                    |        |        |        |0,6     |
+|C.EXT.S ME/l-Na+                                                     |        |        |        |37,0    |
+|C.EXT.S ME/l-K+                                                      |        |        |        |1,95    |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |        |1,5     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |        |31,0    |
+|C.EXT.S ME/l-Cl-                                                     |        |        |        |14,0    |

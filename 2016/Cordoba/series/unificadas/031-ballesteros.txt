@@ -1,0 +1,51 @@
+Serie BALLESTEROS
+Simbolo: Ba
+Haplustol udico, limosa gruesa, mixta, termica
+Indice de Productividad: 85
+Capacidad de uso: IIc
+
+La Serie Ballesteros, es un suelo bien drenado y oscuro, ocupa las lomadas o planos altos. Los primeros 17 a 20 cm que constituyen la capa arable (horizonte A) son de color pardo grisaceo muy oscuro, de textura franco limosa y con una estructura en bloques subangulares medios moderados. Hacia abajo pasa claramente a otro horizonte algo mas pesado (Bw) que se extiende hasta los 40 cm, de color pardo amarillento oscuro, estructura en prismas debiles y bloques con escasos barnices muy finos en las caras de los agregados. La transicion hacia el substrato (horizonte C) es muy gradual. Este ultimo se encuentra a una profundidad promedio de 70 cm, es un material franco limoso, suelto y con calcareo diseminado en la masa a partir de los 80 cm. Los suelos de la Serie Ballesteros, tienen un moderado contenido de materia organica en la capa arable y modera retencion de humedad. Se los usa tanto en agricultura como en ganaderia, aunque presentan cierta limitacion climatica.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Ballesteros, que se describe a continuacion, fue estudiado a 15,5 km al NNO de la localidad de Morrison, departamento Union, provincia de Cordoba.
+
+A	0-17 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; limite inferior claro, suave.
+
+Bw	17-38 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en prismas irregulares debiles y bloques subangulares medios moderados; friable en humedo; barnices "Clay Skins" escasos y finos; limite inferior gradual, suave.
+
+BC	38-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; barnices "Clay Skins" muy escasos y finos; limite inferior gradual, suave.
+
+C	62-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+Ck	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moderada cantidad de calcareo libre en la masa.
+
+Datos analiticos Serie BALLESTEROS
+Situacion: Latitud: 32º30'45'S Longitud: 62º58'08"O Altitud: 160 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |BC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-17    |17-38   |38-62   |62-80   |80 a +  |
+|Materia Organica (%)                                                 |3,01    |1,87    |1,15    |0,43    |0,34    |
+|Carbono Organico (%)                                                 |1,75    |1,09    |0,67    |0,25    |0,20    |
+|Nitrogeno total (%)                                                  |0,17    |0,13    |0,06    |0,05    |0,05    |
+|Relacion C/N                                                         |10,1    |8,0     |9,8     |4,3     |3,8     |
+|Arcilla, <2 u (%)                                                    |19,5    |21,5    |15,5    |11,1    |13,4    |
+|Limo, 2-50 u (%)                                                     |65,8    |60,0    |63,8    |63,7    |63,6    |
+|Arena muy fina, 50-100 u (%)                                         |14,0    |17,9    |16,3    |21,8    |19,0    |
+|Arena fina, 100-250 u (%)                                            |2,9     |1,1     |4,27    |4,3     |3,6     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |3,73    |
+|Equivalente de humedad (%)                                           |25,4    |25,4    |20,9    |18,7    |19      |
+|pH en pasta                                                          |6,2     |6,6     |6,9     |7,1     |7,9     |
+|pH en agua (1:2,5)                                                   |6,3     |6,7     |7,1     |7,3     |8,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |11      |14      |11,7    |11,4    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |5       |2,6     |3,6     |2,6     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,4     |0,4     |0,5     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2       |1,5     |0,9     |1,2     |1       |
+|H+ de cambio (meq/100 gr)                                            |2,5     |1,7     |1,1     |0,8     |        |
+|Sodio de intercambio, % (PSI)                                        |1,4     |1,5     |2,3     |2,5     |3,3     |
+|Suma de bases, meq/100 gr (S)                                        |18,3    |18,4    |16,6    |15,6    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |20,8    |20,1    |17,4    |16,2    |15,2    |
+|Saturacion con bases, % (S/T)                                        |87,9    |91,5    |95,4    |96,2    |        |

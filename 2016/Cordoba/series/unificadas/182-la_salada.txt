@@ -1,0 +1,51 @@
+Serie LA SALADA
+Simbolo: LSd
+Natracualf tipico, limosa gruesa, mixta, termica
+Indice de Productividad: 9
+
+La Serie La Salada es un suelo imperfectamente drenado, fuertemente alcalino sodico desde la superficie y con debil a moderado tenor de sales solubles. Se ha desarrollado a partir de materiales franco limosos, vinculados a sectores deprimidos en los alrededores de laguna Avila y al NO de las areas de derrame, mezclandose con suelos de origen fluvial. La capa superficial (horizonte E) de 9 cm de espesor, es de color pardo a pardo oscuro en humedo y gris claro en seco, de textura franco limosa y estructura en bloques con tendencia a laminar; luego pasa en forma abrupta a un horizonte con mayor contenido de arcilla (horizonte Bt), de color pardo oscuro, estructura prismatica con abundantes barnices y se extiende hasta los 46 cm de profundidad. La transicion hacia el substrato (horizonte Ck) es gradual encontrandose este a una profundidad de 74 cm. La fuerte alcalinidad sodica desde la superficie y el drenaje imperfecto, limitan considerablemente la aptitud agricola de estos suelos.
+
+Descripcion del perfil tipico:
+
+El perfil tipico que representa a los suelos de la Serie La Salada, fue estudiado a 5 km al SSE de Alto Alegre, departamento Union, provincia de Cordoba.
+
+En	0-9 cm; color en humedo pardo a pardo oscuro (10YR4/3); color en seco gris pardusco claro (10YR6/2); franco limoso; estructura en bloques subangulares medios moderados con tendencia a laminar; friable en humedo; moteados escasos, finos y debiles; limite inferior abrupto y suave.
+
+Btn	9-32 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura en prismas irregulares medios moderados, rompen en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico-arcillosos abundantes y medios; moteados escasos, finos y debiles; concreciones calcareas comunes y medias; limite inferior claro, suave.
+
+Btn2	32-46 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios debiles, rompen en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos, finos y medios; moteados escasos, finos y debiles, concreciones calcareas comunes y medias; limite inferior gradual y suave.
+
+BCn	46-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; barnices arcillosos escasos y finos; moteados escasos, finos y debiles; escasos durinodulos finos; concreciones calcareas abundantes, medias y gruesas; limite inferior abrupto y suave.
+
+Ck	74 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; moteados escasos, finos y debiles; escasos durinodulos finos; abundante calcareo pulverulento diseminado en la masa y en concreciones.
+
+Datos analiticos Serie LA SALADA
+Situacion: Latitud: 32º22'51"S Longitud: 62º51'11"O Altitud: 146 m.s.n.m.
+
+|Horizonte                                                            |En      |Btn     |Btn2    |BCn     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-9     |9-32    |32-46   |46-74   |74 a +  |
+|Materia Organica (%)                                                 |2,13    |0,75    |0,24    |0,14    |0,10    |
+|Carbono Organico (%)                                                 |1,24    |0,44    |0,14    |0,08    |0,06    |
+|Nitrogeno total (%)                                                  |0,157   |0,063   |0,043   |        |        |
+|Relacion C/N                                                         |7,9     |7,0     |3,3     |        |        |
+|Arcilla, <2 u (%)                                                    |11,3    |19,2    |18,9    |16,0    |9,6     |
+|Limo, 2-50 u (%)                                                     |73,4    |65,7    |66,8    |71,4    |62,2    |
+|Arena muy fina, 50-100 u (%)                                         |11,2    |9,2     |9,7     |10,3    |21,8    |
+|Arena fina, 100-250 u (%)                                            |4,2     |4,3     |3,9     |3,9     |5,4     |
+|Arena media, 250-500 u (%)                                           |0,2     |0,9     |0,1     |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |0,63    |0,81    |0,84    |1,87    |
+|Equivalente de humedad (%)                                           |20,8    |33,5    |37,4    |30      |21      |
+|pH en pasta                                                          |6,3     |9,4     |9,1     |9,0     |8,8     |
+|pH en agua (1:2,5)                                                   |6,8     |10      |9,7     |9,7     |9,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |6,1     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,4     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |3,8     |20,8    |18,0    |12,4    |4,6     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |3,6     |3,4     |2,7     |1,9     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,90    |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |26,4    |76,5    |70,9    |59,6    |25,8    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |5,58    |        |        |        |        |
+|Suma de bases, meq/100 gr (S)                                        |13,7    |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,4    |27,2    |25,4    |20,8    |17,8    |
+|Saturacion con bases, % (S/T)                                        |95      |        |        |        |        |

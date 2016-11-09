@@ -1,0 +1,50 @@
+Serie EL RODEO
+Simbolo: ERo
+Argiustol tipico, limosa fina, mixta, termica
+Indice de Productividad: 70
+Capacidad de uso: IVc
+
+La Serie El Rodeo es un suelo moderadamente desarrollado sobre materiales franco limosos de origen eolico con influencia fluvial. Ocupa planos bajos fluviales, derrames planos y lineas de escurrimiento. Presenta un horizonte A de 18 cm, franco limoso con estructura en bloques. Le sigue hasta 50 cm un horizonte mas arcilloso (B textural), franco limoso a franco arcillo limoso y estructura en prismas irregulares medios moderados. El horizonte C es franco limoso de origen eolico con influencia fluvial y aparece a partir de 86 cm. Es un suelo bien drenado con buena capacidad de retencion de humedad. Esta exento de sales y alcalis en todo el perfil. Dentro de esta Serie los tenores de arcilla del horizonte C pueden tener ligeras variaciones pero siempre dentro de la misma clase textural (franco limosa). Existen ligeras variaciones en el espesor de los horizontes. Tiene buena capacidad de retencion de humedad y se encuentra generalmente en sectores planos deprimidos donde recibe mayor cantidad de aportes hidricos que los normales de las lomas, por lo tanto, es en general mas humedo que las partes mas altas adyacentes.
+
+Descripcion del perfil tipico:
+
+El perfil tipo que representa a los suelos de esta Serie ha sido estudiado a 5 km al NNE de la estancia Los Sauces, en el departamento Tulumba, provincia de Cordoba.
+
+A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 6,5; raices muy abundantes; limite inferior claro, suave.
+
+Bt	18-50 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a prismas y bloques; friable en humedo; plastico; ligeramente adhesivo; pH 6,5; barnices humico arcillosos, abundantes, medios y finos; raices comunes; limite gradual, suave.
+
+BC	50-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco arcillo limoso; estructura en bloques subangulares y prismas debiles; friable en humedo; ligeramente adhesivo; pH 7,0; barnices arcillosos escasos y finos; raices escasas; limite inferior gradual.
+
+C	86 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; ligeramente plastico; no adhesivo; pH 7,2; vestigios de raices.
+
+Datos analiticos Serie EL RODEO
+Situacion: Latitud: 30º13'S Longitud: 63º51'O Altitud: 400 m.s.n.m.
+
+|Horizonte                                                             |A       |Bt      |BC      |C       |
+|Profundidad de la muestra (cm)                                        |0-18    |18-50   |50-86   |86 a +  |
+|Materia Organica (%)                                                  |3,69    |1,55    |0,68    |        |
+|Carbono Organico (%)                                                  |2,2     |0,9     |0,4     |        |
+|Nitrogeno total (%)                                                   |0,22    |0,10    |        |        |
+|Relacion C/N                                                          |10      |9,0     |        |        |
+|Arcilla, <2 u (%)                                                     |21,4    |27,9    |25,0    |21,0    |
+|Limo, 2-50 u (%)                                                      |71,7    |66,1    |68,2    |73,8    |
+|Arena muy fina, 50-100 u (%)                                          |4,9     |4,8     |3,9     |3,9     |
+|Arena fina, 100-250 u (%)                                             |1,8     |0,8     |2,6     |2,3     |
+|Arena media, 250-500 u (%)                                            |0,3     |0,4     |0,2     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |0,8     |0,5     |0,4     |0,4     |
+|Arena muy gruesa, 1-2 mm (%)                                          |0,1     |0,1     |        |0,1     |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |
+|Equivalente de humedad (%)                                            |27,2    |29,3    |28,6    |24,8    |
+|pH en pasta                                                           |6,3     |6,5     |6,8     |7,0     |
+|pH en agua (1:2,5)                                                    |6,5     |6,7     |7,0     |7,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |15,5    |16,8    |15,3    |15,5    |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |1,5     |1,4     |2,2     |1,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,3     |0,1     |0,2     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,7     |1,6     |1,9     |1,6     |
+|Cationes de intercambio, meq/100 gr (H+)                              |1,7     |1,2     |0,8     |0,5     |
+|Sodio de intercambio, % (PSI)                                         |1,4     |0,5     |1,0     |0,5     |
+|Suma de bases, meq/100 gr (S)                                         |20,0    |19,9    |19,6    |18,6    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |21,7    |21,3    |20,5    |19,0    |
+|Saturacion con bases, % (S/T)                                         |92      |93      |96      |98      |
+

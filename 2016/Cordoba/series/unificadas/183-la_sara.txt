@@ -1,0 +1,61 @@
+Serie LA SARA
+Simbolo: LS
+Haplustol thapto argico, franca fina, mixta, termica
+Indice de Productividad: 60
+
+La Serie La Sara es un suelo algo excesivamente drenado, vinculado a las areas de derrame iluviales y antiguos cauces. Los primeros 30 cm que constituyen la capa arable (horizonte A), son de color pardo grisaceo muy oscuro, textura franco arenosa y estructura granular debil. Luego pasa a un horizonte de transicion (horizonte AC) de color pardo grisaceo muy oscuro, textura franco arenosa y estructura en bloques debiles. Por debajo y con limite abrupto, se encuentran horizontes enterrados (thapticos), constituyendo una discontinuidad litologica. Los suelos de esta Serie, por encontrarse en vias de derrame y desarrollados a partir de materiales fluviales redepositados, presentan rasgos muy variables, principalmente en lo que concierne a textura y profundidad donde aparecen los horizontes enterrados.
+
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie La Sara que se describe a continuacion, fue estudiado a 16 Km al OSO de la localidad de Noetinger, departamento Union, provincia de Cordoba.
+
+Ap	0-14 cm; color en humedo pardo grisaceo muy oscuro a pardo muy oscuro (10YR2,5/2); franco; estructura granular fina media moderada a debil; friable en humedo; no plastico; no adhesivo, limite inferior abrupto, suave.
+
+A	14-30 cm; color en humedo pardo muy oscuro (10YR2/2); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+AC	30-41 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; masivo con tendencia a estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, ondulado.
+
+2Bt	41-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco, estructura en prismas irregulares medios moderados, rompen en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay skins" abundantes y finos; limite inferior gradual, suave.
+
+2BC	90-110 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; limite inferior gradual.
+
+2C	110 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo.
+
+Datos analiticos Serie LA SARA
+Situacion: Latitud: 32º25'25"S Longitud: 62º28'06"O Altitud: 114 m.s.n.m.
+|Horizonte                                                            |Ap      |A       |AC      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-60   |60 a +  |
+|Materia Organica (%)                                                 |2,24    |1,03    |        |
+|Carbono Organico (%)                                                 |1,3     |0,60    |        |
+|Nitrogeno total (%)                                                  |0,12    |        |        |
+|Relacion C/N                                                         |10,8    |        |        |
+|Arcilla, <2 u (%)                                                    |13,9    |13,5    |13,1    |
+|Limo, 2-50 u (%)                                                     |58,7    |64,7    |63,2    |
+|Arena muy fina, 50-100 u (%)                                         |11,1    |9,6     |8,4     |
+|Arena fina, 100-250 u (%)                                            |12,7    |9,5     |12,3    |
+|Arena media, 250-500 u (%)                                           |1,5     |1,6     |1,2     |
+|Arena gruesa, 500-1000 u (%)                                         |1,1     |1,0     |0,7     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |0,1     |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |3,4     |
+|Equivalente de humedad (%)                                           |23,4    |21,9    |21,5    |
+|pH en pasta                                                          |6,6     |7,0     |7,5     |
+|pH en agua (1:2,5)                                                   |6,7     |7,2     |7,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,3    |12,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,3     |1,5     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,6     |2,0     |1,9     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,3     |0,4     |        |
+|Sodio de intercambio, % (PSI)                                        |1,8     |1,8     |2,8     |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |4,50    |
+|Suma de bases, meq/100 gr (S)                                        |15,5    |16,1    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,0    |16,5    |14,1    |
+|Saturacion con bases, % (S/T)                                        |91      |97      |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |34,2    |
+|C.EXT.S ME/l-Mg++                                                    |        |        |15,3    |
+|C.EXT.S ME/l-Na+                                                     |        |        |10,8    |
+|C.EXT.S ME/l-K+                                                      |        |        |2,8     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |1,6     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |16,0    |
+|C.EXT.S ME/l-Cl-                                                     |        |        |43,8    |

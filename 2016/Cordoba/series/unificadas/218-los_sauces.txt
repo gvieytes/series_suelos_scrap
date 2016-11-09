@@ -1,0 +1,51 @@
+Serie LOS SAUCES
+Simbolo: LSc
+Haplustol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 67
+Capacidad de uso: IVc
+
+La Serie Los Sauces es un suelo desarrollado sobre materiales franco limosos a francos de origen aluvial propia de los abanicos y paleocauces proximos a la Sierra Norte y en la Planicie Fluvio Eolica. Los perfiles de esta Serie son profundos, bien desarrollados, con buena retencion de humedad y sin salinidad ni alcalinidad. El horizonte superior tiene 17 cm de espesor, de color pardo grisaceo muy oscuro, textura franco limosa con 11% de arena y estructura en bloques subangulares medios moderados y granular. El horizonte inmediato subsuperficial (Bw) se extiende hasta 37 cm, tiene textura franco limosa y estructura en prismas irregulares. El material originario se encuentra a 60 cm y con el material calcareo a 80 cm.
+
+Descripcion del perfil tipico:
+
+El perfil tipo de la Serie Los Sauces se encuentra ubicado a 15 km al Este de la localidad de Villa Maria de Rio Seco, departamento Rio Seco, provincia de Cordoba.
+
+A	0-17 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; raices abundantes; limite inferior claro suave.
+
+Bw	17-37 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco; estructura en prismas irregulares medios debiles a moderados rompe a bloques; friable en humedo; no plastico; no adhesivo; barnices humico arcillosos escasos a comunes finos; raices abundantes; limite inferior claro, suave.
+
+BC	37-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; barnices arcillosos finos; raices escasas; limite inferior gradual.
+
+C	60-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; limite inferior abrupto, suave.
+
+Ck	80 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; reaccion violenta al ClH de corta duracion.
+
+Datos analiticos Serie LOS SAUCES
+Situacion: Latitud: 29º48'S Longitud: 63º36'O Altitud: 297 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |BC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-17    |17-37   |37-60   |60-80   |80 a +  |
+|Materia Organica (%)                                                 |2,14    |1,10    |0,91    |        |        |
+|Carbono Organico (%)                                                 |1,24    |0,64    |0,53    |        |        |
+|Nitrogeno total (%)                                                  |0,11    |0,08    |        |        |        |
+|Relacion C/N                                                         |11,3    |8,0     |        |        |        |
+|Arcilla, <2 u (%)                                                    |15,6    |18,7    |17,3    |14,2    |10,2    |
+|Limo, 2-50 u (%)                                                     |55,8    |50,1    |55,9    |60,1    |62,4    |
+|Arena muy fina, 50-100 u (%)                                         |5,1     |3,7     |6,2     |7,1     |5,9     |
+|Arena fina, 100-250 u (%)                                            |7,6     |8,5     |6,2     |6,1     |7,1     |
+|Arena media, 250-500 u (%)                                           |3,6     |3,9     |2,4     |2,6     |3,4     |
+|Arena gruesa, 500-1000 u (%)                                         |8,9     |9,8     |6,4     |6,6     |7,3     |
+|Arena muy gruesa, 1-2 mm (%)                                         |2,7     |4,6     |4,2     |4,3     |4,6     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |2,2     |
+|Equivalente de humedad (%)                                           |21,2    |19,3    |20,8    |19,7    |20,3    |
+|pH en pasta                                                          |6,1     |6,8     |6,9     |7,3     |7,9     |
+|pH en agua (1:2,5)                                                   |6,5     |7,1     |7,1     |7,5     |8,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,4    |13,2    |13,0    |13,4    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,1     |1,7     |1,3     |0,6     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,1     |0,3     |0,3     |0,2     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,0     |0,9     |0,9     |1,1     |1,0     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,3     |0,9     |0,8     |0,2     |        |
+|Sodio de intercambio, % (PSI)                                        |0,6     |1,7     |1,8     |1,3     |1,6     |
+|Suma de bases, meq/100 gr (S)                                        |15,6    |16,1    |15,5    |15,3    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,9    |17,2    |16,5    |15,5    |12,8    |
+|Saturacion con bases, % (S/T)                                        |92      |94      |94      |99      |        |

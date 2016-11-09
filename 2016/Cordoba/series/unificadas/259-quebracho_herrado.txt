@@ -1,0 +1,48 @@
+Serie QUEBRACHO HERRADO
+Duracuol argico, muy fina, mixta, termica
+Indice de Productividad: 42
+
+Es un suelo profundo, pesado e imperfectamente drenado, desarrollado sobre materiales franco limosos. Ocupa la parte central de las lineas de escurrimiento o via de desague, dentro de los planos altos o lomadas tendidas. El horizonte superficial (de color pardo grisaceo oscuro), es de textura franco arcillo limosa, estructura en bloques y moderadamente provisto de materia organica. Pasa hacia abajo en forma gradual a un horizonte enriquecido en arcilla (Bt) de textura arcillo limosa a arcillosa y estructura en prismas regulares fuertes. A los 90 cm de profundidad se encuentra un horizonte fuertemente cementado (duripan). Todo el perfil presenta moteados de FeMn. Por su posicion en el relieve y su escasa permeabilidad, suele anegarse en anos muy lluviosos, pero estan mejor provisto de humedad en los periodos secos.
+
+Descripcion del perfil tipico:
+
+El suelo representativo de esta Serie fue descrito a 3,1 km al Norte de la localidad de Quebracho Herrado, departamento San Justo, provincia de Cordoba.
+
+A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; no adhesivo; moteados comunes, finos y precisos; raices abundantes; limite inferior abrupto, suave.
+
+BA	18-32 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso a arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; escasas concreciones de FeMn finas; barnices escasos y finos; moteados de FeMn abundantes, medios y sobresalientes; raices escasas; limite inferior claro, suave.
+
+Bt	32-54 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso a arcilloso; estructura en prismas regulares medios fuertes que rompen a prismas menores; firme; plastico; adhesivo; concreciones muy escasas de FeMn finas; barnices abundantes y medios; moteados comunes, finos y precisos; raices escasas; limite inferior claro, suave.
+
+Bt2	54-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); arcilloso; estructura en prismas irregulares medios moderados rompen en bloques subangulares; firme; plastico; adhesivo; concreciones comunes de FeMn finas; barnices abundantes y medios; moteados comunes, medios y precisos; limite inferior abrupto, ondulado.
+
+BCm	90 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; parcialmente cementado; concreciones de FeMn comunes y finas; moteados comunes, medios y precisos.
+
+Datos Analiticos Serie QUEBRACHO HERRADO
+Situacion: Latitud: 31º31'16"S Longitud: 62º13'31"O Altitud: 108,7 m.s.n.m.
+|Horizonte                                                            |A       |BA      |Bt      |Bt2     |BCm     |
+|Profundidad de la muestra (cm)                                       |0-18    |18-32   |32-54   |54-90   |90 a +  |
+|Materia Organica (%)                                                 |2,95    |1,27    |0,96    |0,69    |0,07    |
+|Carbono Organico (%)                                                 |1,71    |0,74    |0,56    |0,40    |0,04    |
+|Nitrogeno total (%)                                                  |0,173   |0,097   |0,084   |0,072   |        |
+|Relacion C/N                                                         |9,9     |7,6     |6,7     |5,5     |        |
+|Arcilla, <2 u (%)                                                    |37,4    |39,2    |59,6    |65,0    |38,4    |
+|Limo, 2-50 u (%)                                                     |62,5    |60,3    |39,2    |34,7    |60,3    |
+|Arena muy fina, 50-100 u (%)                                         |0,8     |1,2     |0,7     |0,7     |2,3     |
+|Arena fina, 100-250 u (%)                                            |0,3     |0,5     |0,2     |0,3     |0,4     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |0,26    |
+|Equivalente de humedad (%)                                           |30,4    |28,8    |37,4    |41,5    |29,9    |
+|pH en pasta                                                          |6,0     |6,1     |6,3     |6,8     |7,2     |
+|pH en agua (1:2,5)                                                   |6,2     |6,4     |6,8     |7,2     |7,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |11,5    |11,1    |16,8    |20,2    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,8     |1,6     |3,3     |3,7     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,3     |0,3     |0,4     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,0     |3,1     |4,1     |4,1     |3,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,5     |1,7     |1,4     |0,6     |        |
+|Sodio de intercambio, % (PSI)                                        |2,4     |1,7     |1,2     |1,4     |2,0     |
+|Suma de bases, meq/100 gr (S)                                        |13,7    |16,1    |24,5    |28,4    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,5    |18,1    |26,0    |29,2    |20,0    |
+|Saturacion con bases, % (S/T)                                        |83      |89      |94      |97      |        |

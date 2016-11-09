@@ -1,0 +1,49 @@
+Serie EL ARANADO
+Simbolo: EAr
+Argiustol ustalfico, franca gruesa, mixta, termica
+Indice de Productividad: 43
+
+La Serie El Aranado, es un suelo profundo, bien a moderadamente bien drenado, desarrollado sobre sedimentos fluviales depositados por el rio Xanaes (Segundo). Ocupa las areas planas a ligeramente deprimidas dentro de los paleocauces. El horizonte superficial (Ap + A), tiene un espesor de 22 cm y es de textura franco arenosa a franca, estructura en bloques debiles, escasa cantidad de materia organica y baja capacidad de intercambio cationico. Por debajo se encuentran horizontes que se han desarrollado a partir de sedimentos mas finos de textura franco limosa. Los suelos que responden a esta Serie, por encontrarse en areas de derrame y desarrollados a partir de materiales redepositados, presentan rasgos muy variables, principalmente en lo concerniente a textura y profundidad de las discontinuidades litologicas.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie El Aranado, que se describe a continuacion, fue estudiado a 13,8 Km al NE de la localidad del Aranado, departamento San Justo, provincia de Cordoba.
+
+Ap	0-11 cm; color en humedo pardo oscuro (10YR3/3); color en seco gris pardusco claro (10YR6/2); franco arenoso; estructura en bloques subangulares medios debiles; duro en seco; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+A	11-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios debiles; duro en seco; no plastico; no adhesivo; limite inferior claro, ondulado.
+
+2Bt	22-40 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco a franco limoso; estructura columnar media moderada a fuerte; duro en seco; ligeramente plastico; no adhesivo; barnices humico arcillosos comunes y finos; moteados abundantes, finos y debiles; limite inferior gradual, suave.
+
+BC	40-61 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares y bloques subangulares medios moderados; duro en seco; ligeramente plastico; no adhesivo; vestigios de barnices; limite inferior abrupto, suave.
+
+Ckn	61 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; no adhesivo; abundante calcareo pulverulento diseminado en la masa del suelo.
+
+Datos analiticos Serie EL ARANADO
+Situacion: Latitud: 31º40'39"S Longitud: 62º45'59"O Altitud: 133 m.s.n.m.
+|Horizonte                                                            |Ap      |A       |2Bt     |BC      |Ckn     |
+|Profundidad de la muestra (cm)                                       |0-11    |11-22   |22-40   |40-61   |61 a +  |
+|Materia Organica (%)                                                 |0,98    |1,43    |0,93    |0,86    |        |
+|Carbono Organico (%)                                                 |0,57    |0,83    |0,54    |0,50    |        |
+|Nitrogeno total (%)                                                  |0,08    |0,08    |0,07    |        |        |
+|Relacion C/N                                                         |7,1     |10,4    |7,7     |        |        |
+|Arcilla, <2 u (%)                                                    |6,9     |13,3    |22,3    |20,8    |12,4    |
+|Limo, 2-50 u (%)                                                     |34,1    |43,4    |49,3    |52,4    |56,9    |
+|Arena muy fina, 50-100 u (%)                                         |6,1     |6,6     |8,0     |7,7     |9,9     |
+|Arena fina, 100-250 u (%)                                            |27,9    |19,5    |12,1    |10,5    |11,9    |
+|Arena media, 250-500 u (%)                                           |12,0    |11,2    |5,5     |4,5     |6,7     |
+|Arena gruesa, 500-1000 u (%)                                         |10,8    |5,0     |2,5     |2,7     |0,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,4     |0,3     |0,4     |0,3     |0,2     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |0,1     |2,2     |
+|Equivalente de humedad (%)                                           |12,0    |17,3    |22,5    |22,0    |22,4    |
+|pH en pasta                                                          |5,2     |5,7     |7,2     |7,5     |8,0     |
+|pH en agua (1:2,5)                                                   |5,7     |6,0     |7,5     |7,9     |8,8     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |3,0     |6,1     |12,0    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,5     |0,7     |1,9     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,1     |0,8     |1,0     |2,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,7     |1,7     |1,7     |2,0     |2,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,5     |1,4     |0,3     |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,9     |1,0     |4,7     |6,2     |15,3    |
+|Suma de bases, meq/100 gr (S)                                        |5,4     |8,6     |16,4    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |7,0     |10,1    |16,9    |16,0    |15,7    |
+|Saturacion con bases, % (S/T)                                        |77,1    |85,1    |97,0    |        |        |

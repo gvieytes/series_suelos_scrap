@@ -1,0 +1,46 @@
+Serie EL ROSARIO
+Simbolo: ERs
+Argiustol udico paralitico, franca fina, mixta, mesica
+Capacidad de uso: VIIes
+Indice de Productividad: 29
+
+Esta Serie se ha desarrollado en las pampas de altura y laderas con cubierta loessica modificada, ubicadas en la margen Occidental de la Sierra Chica a la altura de la localidad de La Cumbre. El relieve es ondulado a muy ondulado con pendientes que oscilan entre 3 a 8%, lo cual constituye la principal limitante, ademas de encontrarse en la mayoria de los casos con roca (esquistos metamorficos) dentro de la profundidad de 100 cm. Es un suelo algo excesivamente drenado, con la roca alterada a la profundidad de 60 cm en el perfil modal; tiene una vegetacion natural dominante de gramineas (pajonal de altura). Presenta un horizonte superficial de 28 cm de color muy oscuro con 4,1% de materia organica, textura franco arenosa a franca (loess modificado) y estructura en bloques moderados. Sigue a continuacion un loess con mayor grado de pureza (2Bt) con textura franco arcillo limosa, barnices humico arcillosos abundantes y estructura en prismas irregulares fuertes. Luego continua la roca (R) muy meteorizada o alterada con tenores importantes de arcilla que se puede excavar con herramientas manuales aunque con cierta dificultad (contacto paralitico).
+
+Descripcion del perfil tipico:
+
+El perfil modal de esta Serie fue descrito en una pampa de altura de la Sierra Chica, ubicada a 2,7 km al Oeste de la ciudad de La Cumbre, departamento Punilla, provincia de Cordoba.
+
+A	0-28 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso a franco; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 5,5; raices muy abundantes; limite inferior claro, suave.
+
+2Bt	28-60 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios fuertes; friable en humedo; plastico; adhesivo; pH 6,6; barnices humico arcillosos abundantes y medios; raices comunes; limite inferior claro.
+
+R	60 cm a +; contacto paralitico, con roca alterada del complejo metamorfico.
+
+Datos analiticos Serie EL ROSARIO
+Situacion: Latitud: 30º59'16"S Longitud: 64º25'55"O Altitud: 1450 m.s.n.m.
+
+|Horizonte                                                            |A       |2Bt     |
+|Profundidad de la muestra (cm)                                       |0-28    |28-60   |
+|Materia Organica (%)                                                 |4,14    |1,03    |
+|Carbono Organico (%)                                                 |2,4     |0,6     |
+|Nitrogeno total (%)                                                  |0,24    |0,07    |
+|Relacion C/N                                                         |10,0    |8,6     |
+|Arcilla, <2 u (%)                                                    |10,7    |23,6    |
+|Limo, 2-50 u (%)                                                     |26,0    |22,6    |
+|Arena muy fina, 50-100 u (%)                                         |5,1     |4,8     |
+|Arena fina, 100-250 u (%)                                            |10,6    |7,9     |
+|Arena media, 250-500 u (%)                                           |12,7    |10,4    |
+|Arena gruesa, 500-1000 u (%)                                         |19,9    |17,7    |
+|Arena muy gruesa, 1-2 mm (%)                                         |12,6    |10,2    |
+|Carbonatos, CaCO3 (%)                                                |        |        |
+|Equivalente de humedad (%)                                           |18,2    |18,7    |
+|pH en agua (1:2,5)                                                   |5,5     |6,0     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |9,8     |13,8    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,5     |0,6     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,1     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,2     |0,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |0,4     |
+|Sodio de intercambio, % (PSI)                                        |0,8     |1,3     |
+|Suma de bases, meq/100 gr (S)                                        |10,6    |14,8    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |11,8    |15,2    |
+|Saturacion con bases, % (S/T)                                        |89,8    |97,4    |

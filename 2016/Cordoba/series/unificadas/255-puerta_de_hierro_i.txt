@@ -1,0 +1,44 @@
+Serie PUERTA DE HIERRO I
+Simbolo: PHiI
+Haplustol paquico, franca fina, mixta, termica
+Capacidad de uso: IIIc
+Indice de Productividad: 63
+
+La Serie Puerta de Hierro I es un suelo profundo caracterizado por tener horizontes oscuros de mas de 50 cm y textura franco arcillosa. Se encuentra normalmente vinculado a las terrazas de los rios Santa Catalina, Ascochinga y algunos valles fluviales. El relieve es plano concavo, con gradientes menores al 0,5%, escurrimiento lento y bien drenado. Presenta un horizonte A de 55 cm de espesor, franco arcilloso (28% de arcilla y 47% de limo) con estructura en bloques. Continua hacia abajo un horizonte de transicion ACk con reaccion en puntos al ClH, franco limoso con estructura en bloques debiles. A partir de 90 cm aparece una capa de textura franca, con carbonato de calcio libre en la masa del suelo.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de la Serie Puerta de Hierro I se encuentra ubicado a 5 km al Oeste de Jesus Maria, departamento Colon, provincia de Cordoba.
+
+Ap	0-12 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcilloso; estructura en bloques subangulares medios moderados; limite inferior abrupto, suave.
+
+A	12-55 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcilloso; estructura en bloques subangulares medios moderados; limite inferior claro, suave.
+
+ACk	55-90 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios debiles; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; limite inferior claro, suave.
+
+2k	90 cm a +; color en humedo pardo oscuro (10YR3/3); franco; masivo; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; presencia de pseudomicelios carbonaticos.
+
+Datos analiticos Serie PUERTA DE HIERRO I
+Situacion: Latitud: 30º58'30"S Longitud: 64º10'00"O Altitud: 545 m.s.n.m.
+
+|Horizonte                                                            |Ap      |A       |ACk     |2k      |
+|Profundidad de la muestra (cm)                                       |0-12    |12-55   |55-90   |90 a +  |
+|Materia Organica (%)                                                 |2,9     |2,9     |2,1     |1,2     |
+|Carbono Organico (%)                                                 |        |        |        |        |
+|Nitrogeno total (%)                                                  |0,13    |0,13    |0,13    |0,11    |
+|Relacion C/N                                                         |        |        |        |        |
+|Arcilla, <2 u (%)                                                    |28,1    |28,1    |22,4    |12,5    |
+|Limo, 2-50 u (%)                                                     |47,8    |47,8    |55,5    |37,1    |
+|Arena (%)                                                            |21,9    |21,9    |20,1    |49,6    |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |        |        |        |        |
+|pH en agua (1:2,5)                                                   |6,7     |6,7     |6,8     |8,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |16,9    |16,9    |15,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,3     |1,3     |0,9     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |0,2     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,2     |1,2     |1,0     |0,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |1,2     |0,4     |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |1,9     |1,1     |1,6     |
+|Suma de bases, meq/100 gr (S)                                        |19,8    |19,8    |17,4    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,0    |21,0    |17,8    |12,6    |
+|Saturacion con bases, % (S/T)                                        |94      |94      |97      |        |

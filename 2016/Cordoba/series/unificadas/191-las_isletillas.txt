@@ -1,0 +1,50 @@
+Serie LAS ISLETILLAS
+
+Simbolo: LI
+Haplustol tipico, limosa gruesa, mixta, termica
+Indice de Productividad: 80
+Capacidad de uso: IIIc
+
+Son suelos profundos, bien drenados, desarrollados a partir de materiales loessicos franco limosos y vinculados a vias de escurrimiento que bisectan las lomas suavemente onduladas. La capa arable (horizonte A) de 23 cm de espesor, es de color pardo grisaceo muy oscuro; estructura en bloques, textura franco limosa y moderado contenido de materia organica. Luego pasa a un horizonte algo mas arcilloso (horizonte Bw) de color pardo oscuro y estructura en bloques. El material originario (horizonte C) se encuentra a 48 cm y a partir de 95 cm de profundidad aparece el material calcareo en forma pulverulenta diseminada en la masa del suelo. Son suelos agricolas, presentando moderada limitacion climatica.
+
+Descripcion del perfil tipico:
+
+El perfil que representa los suelos de la Serie Las Isletillas, fue estudiado a 8,3 Km al Norte de Hernando, departamento Tercero Arriba, provincia de Cordoba.
+
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+
+Bw	23-48 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos (clhm) escasos y finos; limite inferior gradual.
+
+C	48-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
+
+Ck	95 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante material calcareo pulverulento en la masa del suelo.
+
+Datos analiticos Serie LAS ISLETILLAS
+Situacion: Latitud: 32º21'17"S Longitud: 63º43'22"O Altitud: 255 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |C       |Ck      |
+|Profundidad de la muestra (cm)                                       |0-23    |23-48   |48-95   |95 a +  |
+|Materia Organica (%)                                                 |2,24    |1,72    |        |        |
+|Carbono Organico (%)                                                 |1,3     |1,0     |        |        |
+|Nitrogeno total (%)                                                  |0,13    |0,12    |        |        |
+|Relacion C/N                                                         |10,0    |8,3     |        |        |
+|Arcilla, <2 u (%)                                                    |20,2    |21,5    |15,2    |14,6    |
+|Limo, 2-50 u (%)                                                     |59,1    |54,0    |59,1    |59,9    |
+|Arena muy fina, 50-100 u (%)                                         |19,9    |22,4    |25,7    |26,0    |
+|Arena fina, 100-250 u (%)                                            |0,7     |0,3     |0,9     |0,9     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |4,2     |
+|Equivalente de humedad (%)                                           |22,1    |24,4    |19,9    |19,1    |
+|pH en pasta                                                          |5,6     |6,0     |6,6     |8,0     |
+|pH en agua (1:2,5)                                                   |6,0     |6,3     |7,1     |8,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |14,0    |16,1    |14,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |0,7     |1,6     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,1     |0,1     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |2,0     |1,6     |1,5     |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,5     |1,7     |0,8     |        |
+|Sodio de intercambio, % (PSI)                                        |1,0     |0,5     |0,5     |0,7     |
+|Suma de bases, meq/100 gr (S)                                        |17,5    |18,9    |17,6    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,9    |20,6    |18,3    |14,5    |
+|Saturacion con bases, % (S/T)                                        |87,9    |91,7    |96,2    |        |

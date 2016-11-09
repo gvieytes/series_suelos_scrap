@@ -1,0 +1,56 @@
+Serie SANTA EUFEMIA
+Simbolo: SEf
+Natracuol tipico, franca gruesa, mixta, termica
+Indice de Productividad: 15
+
+Es un suelo oscuro superficialmente, con drenaje imperfecto a pobre, susceptible de sufrir encharcamientos y/o inundaciones frecuentes de larga duracion por desbordes de lagunas. Es salino y con fuerte alcalinidad sodica que se observan en la mayoria de los perfiles estudiados a partir de la superficie. Se ha desarrollado a partir de sedimentos eolicos franco arenosos y la capa freatica se encuentra dentro del metro de profundidad. El horizonte superior de 17 cm de espesor para el caso del perfil modal, tiene color pardo grisaceo muy oscuro a pardo oscuro, estructura en bloques debiles y textura franca a franco arenosa. Le sigue un horizonte lixiviado (lavado E) de color mas claro, masivo, franco arenoso que se extiende hasta 42 cm de profundidad. Continua un horizonte enriquecido en arcillas de textura franco arenosa a franca y estructura prismatica. El horizonte de transicion hacia el material originario (horizonte BC) se extiende desde 70 cm hacia abajo y se encuentra saturado con el agua de la capa freatica. Las limitantes que presenta este suelo son severas a graves. La parte superior del suelo, no obstante estar bien provisto de materia organica presenta alcalinidad sodica que aumenta con la profundidad. Algunos perfiles de esta Serie son salinos y ademas, el drenaje esta realmente impedido por la presencia de la capa freatica. Normalmente tiene carbonatos libres en la masa del suelo desde la superficie. Esta Serie no ha sido cartografiada en forma pura sino que se encuentra en unidades compuestas (complejos) con otros suelos normalmente de mejor aptitud.
+
+Descripcion del perfil tipico:
+
+El perfil representativo de esta Serie fue descrito a 17 Km al SO de la localidad de Santa Eufemia, departamento Juarez Celman, provincia de Cordoba.
+
+Ak	0-17 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; pH 9,6; moderada reaccion al ClH en la masa del suelo; moteados escasos, finos y precisos; raices comunes; limite inferior abrupto, suave.
+
+Enk	17-42 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco a franco arenoso; masivo tendencia a estructura en bloques; friable en humedo; no plastico; no adhesivo; pH 9,9; moderada reaccion al ClH en la masa del suelo; moteados de FeMn escasos finos y precisos; raices escasas; limite inferior claro, suave.
+
+Btnk	42-70 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso a franco; estructura en prismas irregulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 9,6; moderada reaccion al ClH en la masa del suelo; barnices abundantes (clhm) medios; moteados comunes medios y precisos; limite inferior gradual.
+
+BCnk	70 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a franco; no plastico; no adhesivo; se encuentra saturado con agua.
+
+Datos analiticos Serie SANTA EUFEMIA
+Situacion: Latitud: 33º16'24"S Longitud: 63º26'45"O Altitud: 167 m.s.n.m.
+|Horizonte                                                            |Ak      |Enk     |Btnk    |BCnk    |
+|Profundidad de la muestra (cm)                                       |0-17    |17-42   |42-70   |70 a +  |
+|Materia Organica (%)                                                 |2,59    |0,69    |0,52    |0,17    |
+|Carbono Organico (%)                                                 |1,5     |0,4     |0,2     |0,1     |
+|Nitrogeno total (%)                                                  |0,12    |        |        |        |
+|Relacion C/N                                                         |12,5    |        |        |        |
+|Arcilla, <2 u (%)                                                    |9,9     |5,7     |11,4    |10,9    |
+|Limo, 2-50 u (%)                                                     |40,6    |38,0    |34,8    |37,5    |
+|Arena muy fina, 50-100 u (%)                                         |30,6    |50,0    |36,4    |48,0    |
+|Arena fina, 100-250 u (%)                                            |11,9    |4,0     |17,4    |3,0     |
+|Arena media, 250-500 u (%)                                           |1,9     |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |3,4     |        |0,7     |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |1,8     |        |0,5     |        |
+|Carbonatos, CaCO3 (%)                                                |2,3     |2,8     |1,1     |0,9     |
+|Equivalente de humedad (%)                                           |25,1    |20,9    |24,6    |18,1    |
+|pH en pasta                                                          |9,3     |9,4     |9,1     |8,9     |
+|pH en agua (1:2,5)                                                   |9,6     |9,9     |9,6     |9,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,9     |9,7     |11,1    |9,0     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,8     |1,0     |0,5     |0,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |1,9     |3,0     |2,8     |4,1     |
+|Cationes de intercambio, meq/100 gr (K+)                             |3,0     |4,1     |3,6     |3,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |13,0    |17,1    |15,6    |23,2    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |5,8     |5,2     |6,4     |4,5     |
+|Suma de bases, meq/100 gr (S)                                        |14,6    |17,8    |18,0    |17,8    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,6    |17,5    |18,0    |17,7    |
+|Saturacion con bases, % (S/T)                                        |100     |100     |100     |100     |
+|C.EXT.S ME/l-Ca++                                                    |19,2    |17,5    |17,1    |6,4     |
+|C.EXT.S ME/l-Mg++                                                    |1,6     |1,6     |2,0     |2,0     |
+|C.EXT.S ME/l-Na+                                                     |43,0    |35,0    |52,0    |39,0    |
+|C.EXT.S ME/l-K+                                                      |1,0     |0,6     |0,6     |0,4     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |25,6    |14,4    |11,2    |11,2    |
+|C.EXT.S ME/l-SO4=                                                    |36,1    |35,5    |57,6    |26,0    |
+|C.EXT.S ME/l-Cl-                                                     |2,2     |2,8     |2,2     |8,8     |

@@ -1,0 +1,50 @@
+Serie SANTA CATALINA
+Simbolo: SCt
+Argiustol udico, franca fina, mixta, termica
+Capacidad de uso: IIIc
+Indice de Productividad: 70
+
+La Serie Santa Catalina es un suelo desarrollado sobre derrames aluviales de texturas finas y medias, proveniente de los sistemas de los rios Santa Catalina, Ascochinga y otros menores, con pendientes regionales muy suaves hacia el Este. La capa arable, de excelente aptitud para los cultivos, es de 24 cm de espesor, franco limosa, estructura en bloques moderados, rica en materia organica. El horizonte B continua hacia abajo, divisible en Bt y Bt2, y se extiende hasta los 60 cm de profundidad; tiene textura franco arcillo limosa, estructura en prismas irregulares medios fuerte y barnices abundantes en las caras de los agregados. Luego de una transicion (horizonte BC) el material originario con carbonatos libres se encuentra a 95 cm. El perfil del suelo practicamente no tiene limitantes a excepcion de la climatica moderada a leve con ligera susceptibilidad a la erosion hidrica.
+
+Descripcion del perfil tipico:
+
+El perfil tipico de esta Serie, fue descrito a 2 km al Norte de la ciudad de Jesus Maria, departamento Totoral, provincia de Cordoba.
+
+A	0-24 cm; color en humedo pardo muy oscuro (10YR2/2); franco limoso; estructura en bloques subangulares medios fuertes a moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7; raices abundantes; limite inferior claro, suave.
+
+Bt	24-42 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en prismas irregulares medios fuertes; plastico; adhesivo; barnices humico arcillosos muy abundantes medios; raices abundantes; pH 7,2; limite inferior gradual.
+
+Bt2	42-60 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios moderados; plastico; adhesivo; pH 7,3; barnices humico arcillosos medios; raices escasas; limite inferior gradual.
+
+BC	60-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas y bloques debiles; ligeramente plastico; adhesivo; pH 7,4; escasos barnices arcillosos finos; limite inferior abrupto, ondulado.
+
+Ck	95 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; ligeramente plastico; ligeramente adhesivo; pH 8; moderada reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie SANTA CATALINA
+Situacion: Latitud: 30º55'43"S Longitud: 64º05'14"O Altitud: 500 m.s.n.m.
+
+|Horizonte                                                            |A       |Bt      |Bt2     |BC      |Ck     |
+|Profundidad de la muestra (cm)                                       |0-24    |24-42   |42-60   |60-95   |95 a + |
+|Materia Organica (%)                                                 |2,07    |0,86    |        |        |       |
+|Carbono Organico (%)                                                 |1,2     |0,5     |        |        |       |
+|Nitrogeno total (%)                                                  |0,11    |0,06    |        |        |       |
+|Relacion C/N                                                         |10,9    |8,3     |        |        |       |
+|Arcilla, <2 u (%)                                                    |23,4    |29,5    |30,1    |25,2    |24,2   |
+|Limo, 2-50 u (%)                                                     |54,9    |55,7    |51,1    |55,7    |54,0   |
+|Arena muy fina, 50-100 u (%)                                         |4,6     |4,4     |4,2     |5,2     |4      |
+|Arena fina, 100-250 u (%)                                            |3,2     |2,1     |2,0     |2,1     |2,6    |
+|Arena media, 250-500 u (%)                                           |3,9     |2,6     |2,6     |2,5     |2,3    |
+|Arena gruesa, 500-1000 u (%)                                         |5,4     |4,1     |4,5     |4,6     |4,5    |
+|Arena muy gruesa, 1-2 mm (%)                                         |2,1     |1,4     |2,4     |2,3     |2,6    |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |6,8    |
+|pH en pasta                                                          |6,7     |7,0     |7,1     |7,2     |       |
+|pH en agua (1:2,5)                                                   |7,0     |7,2     |7,3     |7,4     |8,1    |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |15,2    |18,3    |18,7    |18,2    |       |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7     |0,8     |0,6     |0,4     |       |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |0,4     |0,4     |       |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,2     |1,0     |0,8     |0,7     |       |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |0,6     |0,7     |0,2     |       |
+|Sodio de intercambio, % (PSI)                                        |2,0     |1,9     |1,9     |2,0     |       |
+|Suma de bases, meq/100 gr (S)                                        |18,5    |20,5    |20,5    |19,7    |       |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,7    |21,1    |21,2    |19,9    |       |
+|Saturacion con bases, % (S/T)                                        |93,9    |97,1    |96,6    |99,0    |       |

@@ -1,0 +1,51 @@
+Serie LA IBERIA
+Argiustol udico, franca fina, mixta, termica
+Indice de Productividad: 62
+
+La Serie La Iberia es un suelo bien drenado a algo excesivamente drenado, desarrollado sobre materiales franco o franco arenosos, en reas de derrame. Los 25 primeros cm, que constituyen la capa arable, son de color pargo grisaceo oscuro, textura franco arenosa y estructura en bloques o debilmente granular. Hacia abajo se pasa a un horizonte algo mas arcilloso (Bt) franco a franco arenoso, con estructura moderada en bloques. La profundidad de lo que se considera "solum" (A+B) es de aproximadamente 88 cm. A partir de esta profundidad, y separado por una discontinuidad litologica, comienza un material de textura mas limosa. Los suelos de esta Serie nunca aparecen en las cartas formando unidades puras sino generalmente asociados a la Serie Saira.
+
+Descripcion del perfil tipico:
+
+A continuacion se describe el perfil tipico que representa a los suelos de esta Serie, que ha sido estudiado a 8 Km al NNO de la localidad de Saira, departamento Marcos Juarez, provincia de Cordoba.
+
+Ap	0-17 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); franco arenoso; estructura granular debil y bloques subangulares medios debiles, tendencia a masivo; suelto; no plastico; no adhesivo; limite inferior abrupto, suave.
+
+A	17-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios debiles tendencia a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+
+Bt	25-55 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco arenoso; estructura en bloques subangulares medios moderados; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes; limite inferior claro, suave.
+
+Bt2	55-88 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes, finos; limite inferior claro, suave.
+
+2	88-119 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; barnices "Clay Skins" escasos y finos; limite inferior abrupto, suave.
+
+3k	119 cm a +; color en humedo pardo claro a pardo (7,5YR5,5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo diseminado en la masa del suelo.
+
+Datos Analiticos Serie LA IBERIA
+Situacion: Latitud: 32º21'13"S Longitud: 62º09'36"O Altitud: 96 m.s.n.m.
+
+|Horizonte                                                             |Ap      |A       |Bt      |Bt2     |2        |3k       |
+|Profundidad de la muestra (cm)                                        |0-17    |17-25   |25-55   |55-88   |88-119   |119 a +  |
+|Materia Organica (%)                                                  |1,90    |1,17    |0,67    |0,38    |0,29     |0,28     |
+|Carbono Organico (%)                                                  |1,10    |0,68    |0,39    |0,22    |0,17     |0,16     |
+|Nitrogeno total (%)                                                   |0,10    |0,06    |0,05    |0,04    |0,04     |0,03     |
+|Relacion C/N                                                          |11,0    |11,3    |7,8     |5,5     |4,3      |5,3      |
+|Arcilla, <2 u (%)                                                     |10,0    |9,8     |19,6    |23,6    |18,2     |14,3     |
+|Limo, 2-50 u (%)                                                      |29,0    |17,8    |31,3    |33,5    |52,0     |38,2     |
+|Arena muy fina, 50-100 u (%)                                          |5,6     |5,1     |7,0     |6,1     |7,4      |6,0      |
+|Arena fina, 100-250 u (%)                                             |33,8    |37,0    |31,8    |27,0    |16,8     |31,7     |
+|Arena media, 250-500 u (%)                                            |14,2    |18,2    |7,7     |7,1     |4,0      |6,0      |
+|Arena gruesa, 500-1000 u (%)                                          |8,0     |11,0    |3,5     |3,7     |1,2      |1,8      |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |         |         |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |         |47,6     |
+|Equivalente de humedad (%)                                            |13,2    |10,4    |17,9    |20,9    |23,8     |21,1     |
+|pH en pasta                                                           |5,7     |6,1     |6,6     |6,8     |7,0      |7,9      |
+|pH en agua (1:2,5)                                                    |6,0     |6,4     |6,9     |7,1     |7,3      |8,4      |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |4,1     |4,0     |7,4     |12,5    |12,3     |         |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |1,1     |0,8     |1,6     |2,2     |3,6      |         |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |0,2     |0,3     |0,4     |0,5      |0,6      |
+|Cationes de intercambio, meq/100 gr (K+)                              |0,9     |0,5     |0,6     |0,7     |0,9      |0,6      |
+|Cationes de intercambio, meq/100 gr (H+)                              |2,2     |1,1     |0,8     |0,7     |0,5      |         |
+|Sodio de intercambio, % (PSI)                                         |2,3     |3,0     |2,8     |3,0     |2,7      |3,9      |
+|Suma de bases, meq/100 gr (S)                                         |6,3     |5,5     |9,9     |12,8    |17,3     |         |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |8,8     |6,7     |10,8    |13,2    |18,2     |15,5     |
+|Saturacion con bases, % (S/T)                                         |71,6    |82,1    |91,7    |97      |95,1     |         |

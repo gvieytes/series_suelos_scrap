@@ -1,0 +1,44 @@
+Serie LA ARGENTINA
+Simbolo: LAr
+Endoacuol tipico, limosa fina, mixta, termica
+Indice de Productividad: 11
+Capacidad de uso: VIws
+
+Es un suelo imperfectamente drenado a pobremente drenado desarrollado sobre sedimentos eolicos en los sectores deprimidos con influencia de la capa freatica ubicados al norte de la localidad de Rio Primero. Esta severa a gravemente limitado por el drenaje y por una muy fuerte alcalinidad sodica desde la superficie. Presenta un horizonte superior A de unos 18 cm, de color oscuro, con textura franco arcillo limosa con 33% de arcilla, moderadamente alcalino. Con moteados escasos a fuertes. Sigue a continuacion un horizonte subsuperficial Bw normalmente afectado por la capa freatica, fuertemente alcalino con textura franco arcillo limosa con 29% que se extiende hasta 49 cm. La capa freatica en el momento del muestreo de campo se encontraba a la profundidad indicada precedentemente.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de este suelo fue descripto a 21 Km al NNE de la localidad de Rio Primero, departamento del mismo nombre, provincia de Cordoba.
+
+Akn	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2), franco arcillo limoso, estructura en bloques subangulares medios moderados, friable en humedo, plastico, ligeramente adhesivo, pH 8,7 raices comunes, limite inferior claro suave.
+
+Bwkn	18-49 cm, color en humedo pardo oscuro (10YR3/3); franco arcillo limoso, estructura en prismas irregulares medios, friable en humedo, plastico, adhesivo, pH 8,9, barnices comunes de arcillas sodicas, finos, raices escasas, saturado por agua desde la base del horizonte.
+
+Datos analiticos Serie LA ARGENTINA
+Situacion: Latitud: 31º09'50"S Longitud: 63º30'43"O Altitud: 180 m.s.n.m.
+
+|Horizonte                                                            |Akn     |Bwkn    |
+|Profundidad de la muestra (cm)                                       |0-18    |18-49   |
+|Materia Organica (%)                                                 |4,48    |1,38    |
+|Carbono Organico (%)                                                 |2,6     |0,8     |
+|Nitrogeno total (%)                                                  |0,30    |0,11    |
+|Relacion C/N                                                         |8,5     |7,5     |
+|Arcilla, <2 u (%)                                                    |33,0    |29,4    |
+|Limo, 2-50 u (%)                                                     |60,2    |57,2    |
+|Arena muy fina, 50-100 u (%)                                         |5,7     |6,5     |
+|Arena fina, 100-250 u (%)                                            |1,2     |1,6     |
+|Arena media, 250-500 u (%)                                           |0,3     |0,9     |
+|Arena gruesa, 500-1000 u (%)                                         |0,5     |1,3     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,2     |0,9     |
+|Carbonatos, CaCO3 (%)                                                |3,4     |8,4     |
+|Equivalente de humedad (%)                                           |34,4    |32,3    |
+|pH en agua (1:2,5)                                                   |8,7     |8,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |6,9     |6,9     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |2,6     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |
+|Sodio de intercambio, % (PSI)                                        |23,6    |30,0    |
+|Suma de bases, meq/100 gr (S)                                        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |29,1    |23,0    |
+|Saturacion con bases, % (S/T)                                        |        |        |

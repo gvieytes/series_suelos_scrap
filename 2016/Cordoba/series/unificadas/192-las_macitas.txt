@@ -1,0 +1,49 @@
+Serie LAS MACITAS
+Simbolo: LMc
+Haplustol tipico, limosa fina, mixta, termica
+Indice de Productividad: 70
+Capacidad de uso: IVc
+
+La Serie Las Macitas es un suelo debil a moderadamente desarrollado sobre materiales franco limosos de origen eolico con ligera influencia fluvial. Se la encuentra en las lineas de escurrimiento moderadas a debilmente manifiestas y microareas de derrame en la planicie fluvio eolica. Es un suelo bien drenado encontrandose casi siempre en areas planas o ligeramente concavas pero sin ningun tipo de problema de anegamiento ni acumulacion de sales ni alcalis. La parte superficial presenta un horizonte A de 23 cm con textura franco limosa, estructura en bloques moderados y color pardo grisaceo muy oscuro. El horizonte subsuperficial que llega hasta 43 cm (Bw cambico) es algo mas arcilloso con estructura en prismas debiles, textura franco arcillo limosa a franco limosa. El horizonte Ck se encuentra a 67 cm de profundidad, es franco limoso, masivo con algunas evidencias de endurecimiento a mas de 100 cm de profundidad, presenta calcareo diseminado en la masa y algunos pseudomicelios salinos que los datos analiticos no detectan.
+
+Descripcion del perfil tipico:
+
+El perfil tipo de esta Serie ha sido estudiado a 11 km al Norte de Sebastian Elcano, departamento Rio Seco, provincia de Cordoba.
+
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente adhesivo; pH 6,5; raices abundantes; limite inferior claro, suave.
+
+Bw	23-43 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso; estructura en prismas irregulares medios debiles; friable en humedo; plastico; adhesivo; pH 6,8; barnices humico arcillosos escasos a abundantes finos; raices escasas; limite inferior claro, suave.
+
+BC	43-67 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 7; barnices arcillosos vestigios a escasos finos; vestigios de raices; limite inferior claro, suave.
+
+Ck	67 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; pH 8,2; violenta reaccion al ClH en la masa del suelo.
+
+Datos analiticos Serie LAS MACITAS
+Situacion: Latitud: 30º04'S Longitud: 63º37'O Altitud: 218 m.s.n.m.
+
+|Horizonte                                                            |A       |Bw      |BC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-23    |23-43   |43-67   |67 a +  |
+|Materia Organica (%)                                                 |3,62    |1,89    |0,58    |        |
+|Carbono Organico (%)                                                 |2,1     |1,1     |0,34    |        |
+|Nitrogeno total (%)                                                  |0,22    |0,11    |        |        |
+|Relacion C/N                                                         |9,5     |10,0    |        |        |
+|Arcilla, <2 u (%)                                                    |26,1    |28,9    |20,4    |15,4    |
+|Limo, 2-50 u (%)                                                     |69,4    |67,3    |74,4    |74,4    |
+|Arena muy fina, 50-100 u (%)                                         |2,9     |4,2     |4,0     |6,6     |
+|Arena fina, 100-250 u (%)                                            |1,5     |0,2     |1,5     |4,2     |
+|Arena media, 250-500 u (%)                                           |0,5     |0,1     |0,3     |0,7     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |0,2     |0,2     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |4,4     |
+|Equivalente de humedad (%)                                           |31,3    |30,6    |28,6    |27,2    |
+|pH en pasta                                                          |6,2     |6,7     |6,9     |7,9     |
+|pH en agua (1:2,5)                                                   |6,5     |6,8     |7,0     |8,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |16,1    |17,3    |18,5    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,9     |2,5     |1,5     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,1     |0,2     |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,5     |2,3     |1,4     |2,0     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,2     |1,1     |0,5     |        |
+|Sodio de intercambio, % (PSI)                                        |1,3     |0,4     |0,9     |1,5     |
+|Suma de bases, meq/100 gr (S)                                        |21,8    |22,2    |21,6    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,9    |23,2    |22,1    |20,1    |
+|Saturacion con bases, % (S/T)                                        |95      |96      |98      |        |

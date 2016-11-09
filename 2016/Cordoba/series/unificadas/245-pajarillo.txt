@@ -1,0 +1,44 @@
+Serie PAJARILLO
+Simbolo: Pj
+Ustorthent litico paralitico, esqueletica, franca, mixta, mesica
+Capacidad de uso: VIIsc
+Indice de Productividad: 6
+
+Esta Serie se encuentra ubicada en las laderas muy colinadas y homogeneas de la sierra de Pajarillo que son rocas sedimentarias conglomeradicas (posiblemente de edad Cretacica). Las pendientes oscilan entre 25 a 45% y el suelo es muy somero con contacto con la roca alterada (paralitico) a pocos cm de profundidad. La vegetacion dominante es la de pastizales de altura (festuca especialmente). Las limitantes son pendientes, profundidad efectiva; drenaje excesivo, pedregosidad y clima.
+
+Descripcion del perfil tipico:
+
+Un perfil representativo de esta Serie fue descrito a 12 km al Este de Charbonier, departamento Ischilin, provincia de Cordoba.
+
+A	0-10 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso gravillosa (aproximadamente 40% de gravas); estructura en bloques subangulares medios fuertes; friable en humedo; ligeramente plastico; no adhesivo; pH 7,2; raices muy abundantes.
+
+R	10 cm a +; roca moderadamente alterada; color variable segun los minerales y el grado de alteracion.
+
+Datos analiticos Serie PAJARILLO
+Situacion: Latitud: 30º45'18"S Longitud: 64º26'46"O Altitud: 1300 m.s.n.m.
+
+|Horizonte                                                            |A       |
+|Profundidad de la muestra (cm)                                       |0-10    |
+|Materia Organica (%)                                                 |6,21    |
+|Carbono Organico (%)                                                 |3,6     |
+|Nitrogeno total (%)                                                  |0,33    |
+|Relacion C/N                                                         |10,9    |
+|Arcilla, <2 u (%)                                                    |14,9    |
+|Limo, 2-50 u (%)                                                     |17,8    |
+|Arena muy fina, 50-100 u (%)                                         |4,2     |
+|Arena fina, 100-250 u (%)                                            |11,2    |
+|Arena media, 250-500 u (%)                                           |15,1    |
+|Arena gruesa, 500-1000 u (%)                                         |23,4    |
+|Arena muy gruesa, 1-2 mm (%)                                         |11,6    |
+|Carbonatos, CaCO3 (%)                                                |        |
+|Equivalente de humedad (%)                                           |20,9    |
+|pH en agua (1:2,5)                                                   |7,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |17,8    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,6     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,5     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,9     |
+|Sodio de intercambio, % (PSI)                                        |1,0     |
+|Suma de bases, meq/100 gr (S)                                        |20,1    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,0    |
+|Saturacion con bases, % (S/T)                                        |95,7    |

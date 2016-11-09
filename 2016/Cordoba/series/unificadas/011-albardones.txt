@@ -1,0 +1,55 @@
+Serie ALBARDONES
+Haplustol fluventico, franca gruesa, mixta, termica
+Indice de Productividad: 23
+
+Los suelos que integran esta Serie son algo excesivamente drenados con moderado contenido de sales y alcalis en profundidad (despues de 50 cm). Estan desarrollados incipientemente sobre capas aluviales muy proximas a los antiguos cauces del rio Petri o Dulce. Se pueden identificar por la vegetacion natural, con dominio de monte bien desarrollado (mistol, brea, quebracho, etc.) con algunas halofitas (jume blanco, en especial aislado). Los primeros 18 cm son de un color pardo grisaceo muy oscuro a pardo oscuro de textura franco arenosa fina con estructura en bloques debiles. Le sigue un horizonte de transicion hasta los 47 cm con condiciones naturales similares y estructura con tendencia masiva. Estos dos horizontes estan practicamente exentos de salinidad y alcalinidad. Luego se pasa bruscamente a otra capa fluvial que se extiende hasta 80 cm, tiene estructura en bloques subangulares moderados a debiles, textura franco arenosa fina, moderadamente alcalina y no salina. A mayor profundidad y hasta los 150 cm, hay otra capa con estructura masiva, franco arenosa fina, moderadamente salina y alcalina que se extiende hasta los 200 cm. No se ha observado la capa freatica ni evidencias de ella hasta la profundidad estudiada. Los suelos de esta Serie estan limitados por baja retencion de humedad en los horizontes superficiales. La alcalinidad y salinidad son moderadas por debajo de 50 cm. En algunos perfiles se han observado variaciones con respecto a los espesores de las capas superiores (A-AC) entre 30 y 70 cm; por consiguiente, varian tambien las profundidades de la alcalinidad y salinidad de la capa 2.
+
+Descripcion del perfil tipico:
+
+A continuacion, se da la descripcion de un perfil representativo, obtenido a unos 10 km al SSO de Pozo de la Olla, departamento Rio Seco, provincia de Cordoba.
+
+A	0 - 18 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso a franco; estructura en bloques subangulares medios debiles; friable en humedo; raices abundantes; limite inferior claro, suave.
+
+AC	18 - 47 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco arenoso a franco; estructura en bloques debiles tendencia masivo; raices escasas; limite inferior abrupto, suave.
+
+2n	47 - 80 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arenoso a franco; estructura en bloques subangulares moderados a debiles; vestigios de barnices humico arcillosos; raices escasas; limite inferior abrupto, suave.
+
+3	80 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arenoso; masivo; vestigios de raices; pseudomicelios salinos escasos.
+
+Datos analiticos Serie ALBARDONES
+Situacion: Latitud: 30º06'S Longitud: 63º07'O Altitud: 70 m.s.n.m.
+|Horizonte                                                            |A       |AC      |2n      |3       |
+|Profundidad de la muestra (cm)                                       |0-18    |18-47   |47-80   |80 a +  |
+|Materia Organica (%)                                                 |1,96    |0,46    |0,79    |        |
+|Carbono Organico (%)                                                 |1,14    |0,27    |0,46    |        |
+|Nitrogeno total (%)                                                  |0,11    |0,06    |        |        |
+|Relacion C/N                                                         |10,3    |4,5     |        |        |
+|Arcilla, <2 u (%)                                                    |9,2     |9,1     |11,0    |7,9     |
+|Limo, 2-50 u (%)                                                     |35,0    |32,4    |33,1    |32,6    |
+|Arena muy fina, 50-100 u (%)                                         |30,4    |22,7    |30,6    |22,4    |
+|Arena fina, 100-250 u (%)                                            |26,8    |37,4    |26,5    |38,0    |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
+|Equivalente de humedad (%)                                           |14,7    |12,7    |15,7    |11,3    |
+|pH en pasta                                                          |6,0     |6,5     |7,0     |7,2     |
+|pH en agua (1:2,5)                                                   |6,2     |6,8     |7,5     |7,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |5,6     |5,5     |6,7     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,8     |1,2     |1,0     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,9     |2,0     |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,9     |0,6     |0,8     |        |
+|H+ de cambio (meq/100 gr)                                            |1,8     |0,8     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                        |3,2     |9,8     |18,2    |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |13,5    |
+|Suma de bases, meq/100 gr (S)                                        |7,6     |8,2     |10,5    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |9,4     |9,2     |11,0    |8,5     |
+|Saturacion con bases, % (S/T)                                        |81      |89      |95      |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |        |29,0    |
+|C.EXT.S ME/l-Mg++                                                    |        |        |        |4,5     |
+|C.EXT.S ME/l-Na+                                                     |        |        |        |104,0   |
+|C.EXT.S ME/l-K+                                                      |        |        |        |1,4     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |        |2,4     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |        |14,5    |
+|C.EXT.S ME/l-Cl-                                                     |        |        |        |123,0   |

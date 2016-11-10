@@ -1,0 +1,41 @@
+Serie CAVANAGH
+Simbolo: Cv
+CLASIFICACION: Hapludol tipico
+TPS: franca gruesa, mixta, termica
+La Serie Cavanagh son suelos profundos y bien drenados, desarrollados sobre materiales franco arenosos en lomas suavemente onduladas. El horizonte superficial es franco a franco limoso con 20% de arcilla hasta los 19 cm de profundidad. El subsuelo presenta un enriquecimiento muy leve de arcilla y una estructuracion en prismas irregulares debiles, y se extiende hasta 45 cm. Sigue en profundidad un horizonte transicional (horizonte BC) en el cual se produce un decrecimiento en el contenido de arcilla (15%), hasta llegar a los materiales originarios (horizonte C) de textura franca, que aparecen a los 75 cm. El nivel calcareo (horizonte Ck) comienza a partir de 150 cm. Los suelos de la Serie Cavanagh no presentan limitaciones mayores para el uso. La reaccion es proxima a la neutralidad en todo el perfil y se encuentra libre de sales y alcalis. La freatica esta profunda y no interfiere en el drenaje ni en la aireacion del suelo. Sin embargo, existe una ligera limitacion climatica derivada del regimen de precipitaciones y de la textura de los materiales a partir de los cuales se ha desarrollado.
+UBICACION: a 3 km al SE de la localidad de Guatimozin, departamento Marcos Juarez, provincia de Cordoba.
+Ap	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+B	20-43 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en prismas irregulares medios debiles y bloques subangulares; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices finos arcillo humicos; limite inferior claro, suave.
+BC	43-74 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco; estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; muy escasos barnices arcillo humicos; limite inferior difuso.
+C	74-150 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto, ondulado.
+Ck	150 cm a +; color en humedo pardo (7,5YR5/4); franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo en la masa.
+Datos analiticos Serie CAVANAGH
+LATITUD:33º29'
+LONGITUD:62º24'
+ALTITUD:120 m.s.n.m.
+|Horizonte                                                             |Ap      |B       |BC      |C        |Ck        |
+|Profundidad de la muestra (cm)                                        |0-20    |20-43   |43-74   |74-150   |150 a +   |
+|Materia Organica (%)                                                  |3,22    |1,38    |0,59    |0,26     |0,07      |
+|Carbono Organico (%)                                                  |1,87    |0,80    |0,34    |0,15     |0,04      |
+|Nitrogeno total (%)                                                   |0,156   |0,089   |0,058   |0,033    |0,028     |
+|Relacion C/N                                                          |1,9     |9,0     |5,9     |4,5      |1,4       |
+|Arcilla, <2 u (%)                                                     |19,5    |20,1    |14,6    |10,9     |8,8       |
+|Limo, 2-50 u (%)                                                      |49,7    |49,2    |46,5    |43,3     |44,8      |
+|Arena muy fina, 50-100 u (%)                                          |29,6    |30,0    |37,1    |42,8     |44,1      |
+|Arena fina, 100-250 u (%)                                             |2,5     |1,5     |2,2     |3,0      |1,8       |
+|Arena media, 250-500 u (%)                                            |        |        |        |         |          |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |         |3,21      |
+|Equivalente de humedad (%)                                            |22      |21,9    |18,7    |14,5     |14,3      |
+|pH en pasta                                                           |6       |6,4     |6,9     |7,2      |8         |
+|pH en agua (1:2,5)                                                    |6,3     |6,6     |7,0     |7,6      |8,1       |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |16,5    |11,4    |9,6     |9,4      |          |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |3,2     |3,2     |3,1     |3,7      |          |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,1     |0,1     |0,1     |0,1      |0,4       |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,2     |2,1     |1,5     |1,7      |1,7       |
+|Cationes de intercambio, meq/100 gr (H+)                              |2,5     |1,6     |1,1     |         |          |
+|Sodio de intercambio, % (PSI)                                         |0,5     |0,5     |0,6     |0,7      |2,9       |
+|Suma de bases, meq/100 gr (S)                                         |15,9    |16,8    |14,3    |14,9     |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |18,6    |18,6    |15,6    |14,3     |13,6      |
+|Saturacion con bases, % (S/T)                                         |85      |90      |92      |100      |          |

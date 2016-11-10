@@ -1,0 +1,39 @@
+Serie SAN FRANCISCO DEL CHANAR I
+Simbolo: SFC
+CLASIFICACION: Calciustol tipico
+TPS: franca fina, mixta, termica
+La Serie San Francisco del Chanar I es un suelo bien drenado, desarrollado debilmente a partir de sedimentos profundos de loess de textura franco arcillo limosa a franco limosa. Esta en la actualidad cubierto parcialmente por una vegetacion natural de pastizales y monte serrano con palma, muy caracteristica de la meseta homonima. Se encuentra en sectores moderadamente ondulados con gradientes que pueden llegar al 8%. Los primeros 22 cm tienen una textura franco arcillo limosa a franco limosa de color oscuro, estructura en bloques con 29% de arcilla y 11% de carbonato de calcio libre en la masa del suelo. Continua hacia abajo un horizonte de transicion de textura franca, estructura en bloques debiles y reaccion al HCl. El material originario se encuentra a 46 cm de profundidad, de color pardo amarillento con mas del 15% de carbonatos libres (horizonte calcico) en la masa del suelo. Estos suelos son aptos para la implantacion de pasturas o como campos naturales de pastoreo. Sus limitantes son, el clima, pH moderadamente alcalino y fertilidad quimica. Este suelo normalmente se encuentra asociado a la Serie Santa Cruz, cuando la pendiente es proxima al 7% la tosca se encuentra dentro del metro de la superficie. En los perfiles pertenecientes a esta Serie se han observado variaciones en la profundidad a la que aparece el horizonte Ck (30-70 cm).
+UBICACION: a 2 Km. al Este de San Francisco del Chanar, en el departamento Sobremonte, provincia de Cordoba.
+Ak	0 - 22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcilloso a franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico, ligeramente adhesivo, pH 8,3; raices abundantes; violenta reaccion al ClH en la masa del suelo; limite inferior suave.
+ACk	22 - 46 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques debiles, tendencia masivo; friable en humedo; ligeramente plastico, ligeramente adhesivo, pH 7,9; concreciones de CO3Ca escasas; moderada reaccion al ClH en la masa del suelo; raices escasas; limite inferior claro, suave.
+Ck	46 cm a +; color en humedo pardo (7,5YR5/4); franco arcilloso a franco arcillo limoso; masivo; muy friable en humedo; ligeramente plastico, ligeramente adhesivo; pH 8,5; concreciones de CO3Ca abundantes; vestigios de raices.
+Datos analiticos Serie SAN FRANCISCO DEL CHANAR I
+LATITUD:29º47'
+LONGITUD:63º55'
+ALTITUD:705 m.s.n.m.
+|Horizonte                                                            |Ak      |ACk     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-22    |22-46   |46 a +  |
+|Materia Organica (%)                                                 |1,03    |        |        |
+|Carbono Organico (%)                                                 |0,6     |        |        |
+|Nitrogeno total (%)                                                  |0,07    |        |        |
+|Relacion C/N                                                         |8,9     |        |        |
+|Arcilla, <2 u (%)                                                    |29,7    |22,8    |31,7    |
+|Limo, 2-50 u (%)                                                     |51,1    |45,6    |45,4    |
+|Arena muy fina, 50-100 u (%)                                         |7,0     |13,3    |7,6     |
+|Arena fina, 100-250 u (%)                                            |3,0     |5,3     |5,1     |
+|Arena media, 250-500 u (%)                                           |2,1     |3,9     |1,5     |
+|Arena gruesa, 500-1000 u (%)                                         |3,4     |4,2     |3,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |4,2     |4,8     |4,4     |
+|Carbonatos, CaCO3 (%)                                                |11,8    |6,8     |15,2    |
+|Equivalente de humedad (%)                                           |22,5    |19,3    |21,2    |
+|pH en pasta                                                          |8,0     |7,5     |9,3     |
+|pH en agua (1:2,5)                                                   |8,3     |7,9     |10,1    |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,5     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,2     |1,2     |1,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |2,7     |3,7     |
+|Suma de bases, meq/100 gr (S)                                        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,6    |11,3    |13,6    |
+|Saturacion con bases, % (S/T)                                        |        |        |        |

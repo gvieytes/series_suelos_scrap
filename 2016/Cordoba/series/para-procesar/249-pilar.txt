@@ -1,0 +1,40 @@
+Serie PILAR
+Simbolo:
+CLASIFICACION: Haplustalf tipico
+TPS: franca gruesa, mixta, termica
+La Serie Pilar es un suelo algo excesivamente drenado desarrollado sobre materiales fluviales de textura franco arenosa, derramados por el rio Xanaes (Segundo); se encuentra asociada a relieves concavos de antiguos cauces del rio (paleocauces) y areas planas; entre dichos cauces y el actual curso del rio Xanaes (Segundo). El horizonte superficial (A) tiene 26 cm de espesor, de textura franco arenosa y estructura en bloques moderados, escasamente provisto de materia organica, decolorado y duro en seco. Pasa luego en profundidad a un horizonte mas rojizo (Bt) que se extiende hasta los 59 cm, es de textura franco arenosa a franco y estructura en bloques con escasos barnices finos en la cara de los agregados. El material originario (horizonte Ck), aparece a los 95 cm de profundidad, es de textura franco arenosa, masivo y con abundante calcareo diseminado en la masa del suelo. Estos suelos poseen una baja capacidad de retencion de humedad en todo el perfil debido a su textura franco arenosa, con un 50% de la fraccion mineral dominada por arena. La pobre estabilidad de los agregados y el escaso contenido de materia organica en superficie, hace que los mismos se "planchen" facilmente y sean muy duros en seco.
+UBICACION: a 11,5 Km al NNO de la localidad de Laguna Larga, departamento Rio Segundo, provincia de Cordoba.
+A	0-26 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); color en seco gris pardusco claro (10YR6/2); franco arenoso; estructura en bloques subangulares medios moderados; duro en seco; friable en humedo; no plastico; no adhesivo; muy decolorado; limite inferior abrupto, suave.
+Bt	26-59 cm; color en humedo pardo oscuro (7,5YR3/2); franco arenoso a franco; estructura en bloques subangulares medios moderados; ligeramente duro en seco y friable en humedo; no plastico; no adhesivo; escasos barnices humicos arcillosos finos; limite inferior gradual, suave.
+BC	59-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arenoso; estructura en bloques subangulares medios debiles; ligeramente duro en seco; friable en humedo; no plastico; no adhesivo; vestigios de barnices arcillosos; limite inferior abrupto.
+Ck	95 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; abundante carbonato en la masa del suelo.
+Datos Analiticos Serie PILAR
+LATITUD:31º40'48"
+LONGITUD:63º50'57"
+ALTITUD:320 m.s.n.m.
+|Horizonte                                                             |A       |Bt      |BC      |Ck      |
+|Profundidad de la muestra (cm)                                        |0-26    |26-59   |59-95   |95 a +  |
+|Materia Organica (%)                                                  |1,37    |0,70    |0,30    |0,24    |
+|Carbono Organico (%)                                                  |0,80    |0,41    |0,18    |0,14    |
+|Nitrogeno total (%)                                                   |0,094   |0,052   |        |        |
+|Relacion C/N                                                          |8,5     |7,9     |        |        |
+|Arcilla, <2 u (%)                                                     |11,4    |15,0    |10,4    |12,2    |
+|Limo, 2-50 u (%)                                                      |28,7    |29,7    |26,5    |31,5    |
+|Arena muy fina, 50-100 u (%)                                          |5,l     |6,l     |5,7     |6,2     |
+|Arena fina, 100-250 u (%)                                             |21,1    |22,7    |24,3    |22,3    |
+|Arena media, 250-500 u (%)                                            |11,4    |9,1     |9,6     |8,2     |
+|Arena gruesa, 500-1000 u (%)                                          |20,1    |16,0    |18,7    |11,7    |
+|Arena muy gruesa, 1-2 mm (%)                                          |3,0     |2,3     |3,8     |7,6     |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |2,64    |
+|Equivalente de humedad (%)                                            |11,0    |12,5    |10,4    |11,9    |
+|pH en pasta                                                           |6,9     |7,0     |7,4     |8,1     |
+|pH en agua (1:2,5)                                                    |7,0     |7,2     |7,5     |8,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |5,4     |7,9     |7,1     |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,5     |0,7     |0,3     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |0,3     |0,3     |0,21    |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,2     |0,7     |0,4     |0,40    |
+|Cationes de intercambio, meq/100 gr (H+)                              |0,6     |0,4     |0,2     |        |
+|Sodio de intercambio, % (PSI)                                         |2,5     |2,9     |3,6     |3,2     |
+|Suma de bases, meq/100 gr (S)                                         |7,3     |9,6     |8,1     |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |8,0     |10,2    |8,3     |6,6     |
+|Saturacion con bases, % (S/T)                                         |91      |94      |98      |        |

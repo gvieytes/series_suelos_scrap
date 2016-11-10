@@ -1,0 +1,51 @@
+Serie LA PRIMAVERA
+Simbolo:
+CLASIFICACION: Natralbol tipico
+TPS: franca gruesa a franca fina, mixta, termica
+La Serie La Primavera es un suelo profundo, moderadamente bien drenado, con moderada alcalinidad sodica y debilmente salino a partir de los 27 cm de profundidad. Se ha desarrollado a partir de sedimentos franco a franco limosos y se encuentra vinculado a sectores topograficamente mas altos de las areas de derrame fluvial. La parte superficial del suelo se divide en dos horizontes: uno superior (horizonte Ap) hasta 15 cm y con contenido de arcilla de 17,4% y otro inferior de 12 cm de espesor (horizonte E) con 13,9% de arcilla, ambos son de color pardo grisaceo oscuro en humedo y algo mas claro en seco, de estructura en bloques, textura franca y con moteados de Fe. A los 27 cm pasa en forma abrupta a un horizonte mas arcilloso, con mas del 20% de sodio intercambiable (horizonte Bt natrico) que limita el crecimiento normal de las raices; es de color pardo oscuro, estructura semicolumnar fuerte con abundantes barnices humico-arcillosos y se extiende hasta los 55 cm de profundidad. La transicion al material originario (horizonte C) es gradual, encontrandose este a 77 cm de profundidad. Es un material franco limoso, masivo y muy friable, con abundante calcareo diseminado en la masa del suelo a partir de los 93 cm
+UBICACION: a 2 km al SSE de la localidad de Alto Alegre, departamento Union, provincia de Cordoba.
+Ap	0-15 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); color en seco gris pardusco claro (10YR6/2); franco; estructura en bloques subangulares medios y finos debiles; friable en humedo; abundantes raices; limite inferior abrupto, suave.
+E	15-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco gris pardusco claro (10YR6/2); franco; estructura en bloques subangulares medios y finos debiles; friable en humedo; moteados escasos, finos y debiles; escasas raices; limite inferior abrupto suave.
+Btn	27-55 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura semicolumnar media, fuerte que rompen en bloques subangulares y angulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundantes barnices humico-arcillosos medios y finos; moteados escasos finos y debiles; escasas concreciones calcareas finas; limite inferior claro y suave.
+BCn	55-77 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios debiles; friable en humedo; escasos barnices arcillosos finos; concreciones calcareas comunes y finas; limite inferior gradual.
+Cz	77-93 cm; color en humedo pardo (7,5YR4,5/4); franco a franco limoso; masivo; muy friable en humedo; escasas concreciones calcareas finas y medias; limite inferior abrupto y suave.
+Ck	93 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante calcareo pulverulento diseminado en la masa del suelo; presenta sectores cementados localmente con calcareo.
+Datos analiticos Serie LA PRIMAVERA
+LATITUD:32º21'48"
+LONGITUD:62º53'31"
+ALTITUD:150 m.s.n.m.
+|Horizonte                                                      |Ap       |E        |Btn      |BCn      |Cz       |Ck       |
+|Profundidad de la muestra (cm)                                 |0-15     |15-27    |27-55    |55-77    |77-93    |93 a +   |
+|Materia Organica (%)                                           |2,23     |1,49     |0,91     |0,28     |         |0,22     |
+|Carbono Organico (%)                                           |1,30     |0,87     |0,53     |0,16     |         |0,13     |
+|Nitrogeno total (%)                                            |0,152    |0,091    |0,071    |0,037    |0,031    |0,029    |
+|Relacion C/N                                                   |8,5      |9,6      |7,5      |4,3      |         |4,5      |
+|Arcilla, <2 u (%)                                              |17,4     |13,9     |19,1     |16,1     |13,9     |11,7     |
+|Limo, 2-50 u (%)                                               |39,1     |46,4     |45,7     |47,4     |51,0     |52,8     |
+|Arena muy fina, 50-100 u (%)                                   |14,8     |13,3     |13,5     |14,7     |15,4     |17,5     |
+|Arena fina, 100-250 u (%)                                      |24,5     |22,0     |19,8     |17,6     |18,9     |18,6     |
+|Arena media, 250-500 u (%)                                     |1,8      |1,2      |1,1      |0,7      |0,6      |0,4      |
+|Arena gruesa, 500-1000 u (%)                                   |1,1      |0,5      |0,9      |0,4      |0,4      |0,1      |
+|Arena muy gruesa, 1-2 mm (%)                                   |         |         |         |         |         |         |
+|Carbonatos, CaCO3 (%)                                          |         |         |         |0,28     |0,21     |2,55     |
+|Equivalente de humedad (%)                                     |16,1     |16,1     |20,4     |19,2     |16,9     |16,6     |
+|pH en pasta                                                    |4,9      |6,8      |7,3      |8,3      |8,5      |8,5      |
+|pH en agua (1:2,5)                                             |5        |7,2      |7,7      |9        |9,2      |9,5      |
+|Cationes de intercambio, meq/100 gr (Ca++)                     |5,4      |7,4      |10,3     |         |         |         |
+|Cationes de intercambio, meq/100 gr (Mg++)                     |1,4      |1,7      |1,4      |         |         |         |
+|Cationes de intercambio, meq/100 gr (Na+)                      |0,1      |1        |3,4      |6,4      |7,8      |7,0      |
+|Cationes de intercambio, meq/100 gr (K+)                       |1,9      |1,5      |1,9      |         |         |         |
+|Cationes de intercambio, meq/100 gr (H+)                       |4,34     |         |         |         |         |         |
+|Sodio de intercambio, % (PSI)                                  |0,8      |0,9      |20,7     |42,1     |50,0     |44,9     |
+|Conductividad, mmhos/cm (extracto de saturacion)               |         |         |4,45     |14,47    |16,49    |14,47    |
+|Suma de bases, meq/100 gr (S)                                  |8,8      |11,6     |16,7     |         |         |         |
+|Capacidad de intercambio cationico, meq/100 gr (T)             |12,4     |11,6     |16,4     |15,2     |15,6     |15,6     |
+|Saturacion con bases, % (S/T)                                  |71       |100      |100      |         |         |         |
+|C.EXT.S ME/l-Ca++                                              |         |         |6,4      |13,2     |11,8     |9,1      |
+|C.EXT.S ME/l-Mg++                                              |         |         |0,6      |4,8      |3,6      |2,7      |
+|C.EXT.S ME/l-Na+                                               |         |         |36,0     |148,0    |187,0    |136,8    |
+|C.EXT.S ME/l-K+                                                |         |         |1,0      |2,8      |3,7      |3,15     |
+|C.EXT.S ME/l-CO3=                                              |         |         |         |         |         |         |
+|C.EXT.S ME/l-HCO3-                                             |         |         |3,0      |3,3      |6,0      |3,3      |
+|C.EXT.S ME/l-SO4=                                              |         |         |27,0     |132,0    |145,0    |109,0    |
+|C.EXT.S ME/l-Cl-                                               |         |         |16,0     |31,2     |43,8     |38,6     |

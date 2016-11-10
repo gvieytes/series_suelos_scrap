@@ -24,7 +24,7 @@ BC	78-125 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; es
 Ck	125 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundantes carbonatos libres en la masa.
 
 Datos analiticos Serie ACHALAY
-Situacion: Latitud: 32º42'00"S - Longitud: 62º23'22"O - Altitud: 107 m.s.n.m.
+Situacion: Latitud: 32º42'00"S Longitud: 62º23'22"O Altitud: 107 m.s.n.m.
 |Horizonte                                                            |A       |Btn     |Btn2    |BC       |Ck        |
 |Profundidad de la muestra (cm)                                       |0-13    |13-36   |36-78   |78-125   |125 a +   |
 |Materia Organica (%)                                                 |1,71    |1,39    |0,33    |0,14     |0,07      |

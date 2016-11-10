@@ -1,0 +1,42 @@
+Serie LAS MARINAS
+Simbolo:
+CLASIFICACION: Argialbol tipico
+TPS: franca fina, mixta, termica
+Son suelos con drenaje interno moderado y vinculados a planos chatos extendidos o muy ligeramente deprimidos. Se han desarrollado a partir de sedimentos eolicos de textura franca. La parte superficial o capa arable llega hasta los 26 cm, de color pardo grisaceo oscuro, estructura en bloques moderados, textura franca y moderado contenido de materia organica. A partir de los 26 cm hasta los 34 cm, con limite abrupto se encuentra un horizonte E, de colores mas claros, con menor contenido de materia organica y arcilla que el superficial. Luego en forma abrupta pasa a un horizonte con mayor contenido de arcilla (horizonte Bt textural) que se extiende hasta los 71 cm de profundidad, es de color pardo oscuro, textura franca y estructura semicolumnar gruesa. El material originario se encuentra a 100 cm de profundidad. Esta Serie no se encuentra en unidades puras sino en unidades compuestas, generalmente asociados a suelos alcalinos sodicos y/o salino alcalinos con tenores variables de sales solubles y Na intercambiable, aunque tambien puede ocurrir asociada a suelos totalmente libres de sales o alcalis.
+UBICACION: a 21,5 Km al ESE de Melo, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
+Ap	0-14 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+A	14-26 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+E	26-34 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques subangulares debiles a masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y debiles; limite inferior abrupto, suave.
+Bt	34-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura semicolumnar medios y gruesos, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes y medios; moteados abundantes, finos y precisos; limite inferior gradual, suave.
+Bt2	52-71 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco; estructura en bloques subangulares, medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; moteados abundantes, medios y precisos; concreciones calcareas comunes y finas; limite inferior gradual, suave.
+BC	71-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moteados abundantes, finos y precisos; concreciones calcareas comunes, medias y finas.
+Datos analiticos Serie LAS MARINAS
+LATITUD:34º24'42"
+LONGITUD:63º13'45"
+ALTITUD:125 m.s.n.m.
+|Horizonte                                                    |Ap      |A       |E       |Bt      |Bt2     |BC      |C       |
+|Profundidad de la muestra (cm)                               |0-14    |14-26   |26-34   |34-52   |52-71   |71-100  |100 a + |
+|Materia Organica (%)                                         |2,10    |1,70    |0,69    |0,46    |0,24    |0,20    |        |
+|Carbono Organico (%)                                         |1,22    |0,99    |0,40    |0,27    |0,14    |0,12    |        |
+|Nitrogeno total (%)                                          |0,14    |0,12    |0,05    |0,05    |0,04    |        |        |
+|Relacion C/N                                                 |8,7     |8,2     |8,0     |5,4     |3,5     |        |        |
+|Arcilla, <2 u (%)                                            |14,4    |13,8    |10,0    |19,2    |18,7    |14,8    |12,3    |
+|Limo, 2-50 u (%)                                             |36,9    |38,1    |37,0    |32,2    |29,6    |31,4    |31,5    |
+|Arena muy fina, 50-100 u (%)                                 |26,7    |26,7    |31,6    |37,9    |32,0    |39,8    |34,7    |
+|Arena fina, 100-250 u (%)                                    |18,3    |18,7    |19,9    |9,3     |18,3    |12,4    |18,7    |
+|Arena media, 250-500 u (%)                                   |0,7     |0,7     |0,7     |0,6     |0,8     |0,7     |0,7     |
+|Arena gruesa, 500-1000 u (%)                                 |1,5     |1,3     |1,4     |0,1     |0,3     |0,8     |1,2     |
+|Arena muy gruesa, 1-2 mm (%)                                 |        |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                        |        |        |        |        |        |        |        |
+|Equivalente de humedad (%)                                   |17,6    |17,1    |13,9    |19,8    |18,3    |17,1    |15,0    |
+|pH en pasta                                                  |5,4     |5,8     |6,0     |6,4     |7,0     |7,2     |7,6     |
+|pH en agua (1:2,5)                                           |5,7     |6,0     |6,4     |6,8     |7,2     |7,4     |8,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                   |5,7     |6,3     |4,5     |8,8     |8,7     |8,5     |7,5     |
+|Cationes de intercambio, meq/100 gr (Mg++)                   |2,4     |1,4     |0,9     |2,3     |2,2     |1,9     |1,1     |
+|Cationes de intercambio, meq/100 gr (Na+)                    |0,3     |0,3     |0,3     |0,4     |0,4     |0,6     |2,2     |
+|Cationes de intercambio, meq/100 gr (K+)                     |2,0     |1,5     |1,1     |1,8     |1,8     |1,9     |1,9     |
+|Cationes de intercambio, meq/100 gr (H+)                     |2,8     |2,0     |1,1     |0,7     |0,5     |0,2     |        |
+|Sodio de intercambio, % (PSI)                                |2,3     |2,8     |3,7     |2,8     |2,9     |4,6     |18,3    |
+|Suma de bases, meq/100 gr (S)                                |10,4    |8,5     |6,8     |13,3    |13,1    |12,9    |12,7    |
+|Capacidad de intercambio cationico, meq/100 gr (T)           |13,2    |10,7    |8,0     |14,2    |13,8    |13,1    |12,0    |
+|Saturacion con bases, % (S/T)                                |78,8    |79,4    |85,0    |93,7    |94,9    |98,5    |100     |

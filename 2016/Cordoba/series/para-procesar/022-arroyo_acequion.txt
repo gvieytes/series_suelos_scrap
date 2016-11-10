@@ -1,0 +1,43 @@
+Serie ARROYO ACEQUION
+Simbolo: AAq
+CLASIFICACION: Argiustol udico
+TPS: franca fina a franca gruesa, mixta, termica
+La Serie Arroyo Acequion es un Argiustol udico, bien drenado, desarrollado sobre materiales francos en ambientes suavemente ondulados y ligeramente deprimidos de areas de derrame fluviales proximas a San Antonio de Litin y Silvio Pellico. Los primeros 13 cm son de textura franco limosa con 22% de arcilla y estructura en bloques subangulares medios moderados. Le sigue una transicion (horizonte AB), con un ligero incremento en el tenor de arcilla hasta 18 cm. Continua hasta 44 cm un horizonte mas enriquecido en arcilla (Bt textural) con estructura en prismas irregulares, barnices abundantes en las caras de los agregados y textura franca a franco arcillosa. La transicion hacia el horizonte C es muy gradual. Este ultimo se encuentra a una profundidad de 65 cm con textura franco a franco arenosa. A 87 cm existe una discontinuidad con capas fluviales arenosas. Estas lentes de texturas mas gruesas pueden aparecer a mayor profundidad. Los suelos de la Serie Arroyo Acequion, a pesar de encontrarse desarrollados sobre materiales mas livianos que los limosos eolicos, tienen moderada retencion de humedad y no presentan limitacion edafica alguna a excepcion de la climatica. Se los usa para ganaderia con agricultura subordinada. Algunos perfiles de este suelo pueden presentar ligera alcalinidad en profundidad (despues de los 50 cm).
+UBICACION: a 12 Km al Oeste de San Antonio de Litin, departamento Union, provincia de Cordoba.
+A	0-13 cm; color en humedo pardo muy oscuro (10YR2/2); color en seco pardo grisaceo oscuro (10YR4/2); franco; estructura en bloques subangulares medios moderados; duro en seco, friable en humedo; ligeramente plastico, no adhesivo, raices abundantes a muy abundantes; limite inferior abrupto, suave.
+AB	13-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo oscuro (10YR4/2); franco; estructura en bloques subangulares medios moderados fuertes, rompen a bloques; duro en seco, friable en humedo; ligeramente plastico; no adhesivo; barnices humico arcillosos escasos, finos; raices abundantes; limite inferior claro, ondulado.
+Bt	18-44 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); franco a franco arcilloso; estructura en prismas irregulares medios moderados, rompen a prismas y bloques; duro en seco, friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humicos arcillosos abundantes y medios; raices escasas; moteados de FeMn escasos, comunes; finos y precisos; limite gradual, suave.
+BC	44-65 cm; color en humedo pardo oscuro (10YR3/3); franco, estructura en prismas irregulares medios debiles tendencia masivo; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; vestigios de raices; limite gradual, suave.
+C	65-87 cm; color en humedo pardo oscuro (10YR3/3); color en seco pardo amarillento (10YR5/4); franco arenoso, masivo a suelto; no plastico, no adhesivo, crotovinas comunes; vestigios de raices; limite abrupto.
+2	87-107 cm; arenoso; grano simple, suelto, no plastico, no adhesivo.
+3	107 cm a +; color en humedo variable; arenoso; abundantes laminillas de mica en todo el perfil.
+Datos analiticos Serie ARROYO ACEQUION
+LATITUD:32º11'12"
+LONGITUD:62º44'13"
+ALTITUD:137 m.s.n.m.
+|Horizonte                                           |A     |AB    |Bt    |BC    |C     |2      |3       |
+|Profundidad de la muestra (cm)                      |0-13  |13-18 |18-44 |44-65 |65-87 |87-107 |107 a + |
+|Materia Orgánica (%)                                |3,91  |2,43  |1,31  |0,36  |0,24  |0,17   |0,07    |
+|Carbono Orgánico   (%)                              |2,27  |1,41  |0,76  |0,21  |0,14  |0,10   |0,04    |
+|Nitrógeno total (%)                                 |0,204 |0,117 |0,076 |0,041 |0,022 |0,016  |        |
+|Relación C/N                                        |11,2  |12,0  |10,0  |5,1   |6,4   |6,2    |        |
+|Arcilla, <2 μ (%)                                   |22,8  |25,3  |30,4  |16,3  |13,3  |9,9    |6,0     |
+|Limo, 2-50 μ (%)                                    |39,8  |36,3  |28,5  |25,8  |14,0  |8,0    |1,1     |
+|Arena  muy fina, 50-100 μ (%)                       |6,1   |7,5   |13,9  |16    |13,8  |8,5    |2,3     | 
+|Arena fina, 100-250 μ (%)                           |24,7  |25,4  |27,4  |35,1  |47,4  |60,3   |61,3    |
+|Arena media, 250-500 μ (%)                          |5,2   |4,9   |3,7   |3,9   |8,1   |11,05  |27,2    | 
+|Arena gruesa, 500-1000 μ (%)                        |1,8   |1,5   |1,1   |1,05  |1,6   |2,3    |4,1     | 
+|Arena muy gruesa., 1-2 mm (%)                       |      |      |      |      |      |       |        | 
+|Carbonatos, CaCO3 (%)                               |      |      |      |      |      |       |        | 
+|Equivalente de humedad (%)                          |24,8  |23,7  |24,3  |15,2  |9,9   |6,7    |4,7     | 
+|pH en pasta                                         |5,7   |5,8   |6,1   |6,4   |6,5   |6,8    |7,0     |
+|pH en agua (1:2,5)                                  |5,9   |6,2   |6,5   |6,6   |6,7   |7,1    |7,3     | 
+|Cationes de intercambio, meq/100 gr (Ca++)          |11,3  |11,3  |15,5  |8,4   |5,6   |3,7    |1,4     |
+|Cationes de intercambio, meq/100 gr (Mg++)          |2,4   |2,1   |3,3   |1,9   |1,2   |1,2    |1,4     |
+|Cationes de intercambio, meq/100 gr (Na+)           |0,3   |0,2   |0,3   |0,3   |0,2   |0,2    |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)            |2,2   |1,3   |1,2   |0,6   |0,4   |0,3    |0,1     |
+|H+ de cambio (meq/100 gr)                           |3,3   |2,3   |1,8   |1,1   |0,8   |0,6    |0,4     | 
+|Sodio  de intercambio, % (PSI)                      |1,5   |1,1   |1,3   |2,3   |2,3   |3,0    |4,9     | 
+|Suma de bases, meq/100 gr (S)                       |16,2  |14,9  |20,3  |11,2  |7,4   |5,4    |3,1     |
+|Capacidad de intercambio catiónico, meq/100 gr (T)  |20,4  |18,8  |23,1  |13,2  |8,8   |6,7    |4,1     | 
+|Saturación con bases, % (S/T)                       |79    |79    |88    |85    |84    |80     |75      |

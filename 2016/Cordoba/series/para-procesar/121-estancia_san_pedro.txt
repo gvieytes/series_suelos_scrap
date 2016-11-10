@@ -1,0 +1,42 @@
+Serie ESTANCIA SAN PEDRO
+Simbolo: ESP
+CLASIFICACION: Haplustol thapto argico
+TPS: franca gruesa, mixta, termica
+La Serie Estancia San Pedro es un suelo algo excesivamente drenado a bien drenado, desarrollado sobre materiales franco arenosos a francos, con horizontes enterrados de texturas francas y franco limosas propias de areas onduladas de origen fluvial. Esta Serie, por haberse desarrollado sobre materiales fluviales, presenta rasgos muy variables, especialmente en la secuencia de capas aluviales en profundidad. Los primeros 30 cm (capa arable) tienen texturas franco arenosas a francas con estructura en bloques debiles. Le sigue una transicion (horizonte AC) con similar textura y estructura en bloques, tendencia masiva que se extiende hasta 50 cm Se pasa luego mediante un limite abrupto (en clara discontinuidad) a un horizonte mas pesado, (2Bt) de textura franca a franco limosa, con barnices humico arcillosos escasos a abundantes en las caras de los agregados y estructura en prismas irregulares gruesos moderados que continua hasta 73 cm Desde 73 a 100 cm se extiende una transicion (horizonte 2Bt) con estructura en bloques debiles tendencia masiva. El material originario de este suelo enterrado (horizonte 2C) es franco a franco limoso. No presenta alcalinidad ni salinidad en ninguno de los horizontes.
+UBICACION: a 3,5 Km al NO de Estancia La Leoncita, departamento Union, provincia de Cordoba.
+Ap	0-17 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso a franco; estructura en bloques subangulares medios debiles tiende a masivo; raices abundantes; limite inferior abrupto, suave.
+A	17-31 cm; color en humedo pardo muy oscuro (10YR2/2); franco arenoso a franco, estructura en bloques subangulares medios debiles; raices escasas; limite inferior gradual, suave.
+AC	31-50 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso a franco; masivo, tendencia a bloques debiles; raices escasas; limite inferior abrupto, suave.
+2Bt	50-72 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco limoso; estructura en prismas irregulares gruesos moderados; barnices humico arcillosos escasos y medios; raices escasas, limite inferior gradual.
+2BC	72-100 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en prismas y bloques debiles, tendencia masivo; muy friable en humedo; vestigios de barnices arcillosos; vestigios de raices; limite inferior gradual.
+2C	100 cm a +; color en humedo pardo oscuro (10YR3/3); franco a franco limoso; masivo; muy friable en humedo; concreciones de CO3Ca escasas y finas.
+Datos analiticos Serie ESTANCIA SAN PEDRO
+LATITUD:32º06'39"
+LONGITUD:62º36'05"
+ALTITUD:123 m.s.n.m.
+|Horizonte                                                             |Ap      |A       |AC      |2Bt     |2BC     |2C      |
+|Profundidad de la muestra (cm)                                        |0-17    |17-31   |31-50   |50-73   |73-100  |100 a + |
+|Materia Organica (%)                                                  |2,07    |1,79    |1,26    |0,95    |0,69    |0,52    |
+|Carbono Organico (%)                                                  |1,2     |1,04    |0,73    |0,55    |0,4     |0,3     |
+|Nitrogeno total (%)                                                   |0,129   |0,118   |0,076   |0,07    |0,053   |0,042   |
+|Relacion C/N                                                          |9,3     |8,8     |9,6     |7,8     |7,5     |7,1     |
+|Arcilla, <2 u (%)                                                     |7,6     |7,0     |7,8     |14,8    |12,6    |8,2     |
+|Limo, 2-50 u (%)                                                      |44,4    |40,6    |39,8    |49,1    |49,5    |48,3    |
+|Arena muy fina, 50-100 u (%)                                          |11,2    |12,3    |14,6    |19,3    |19,3    |28,0    |
+|Arena fina, 100-250 u (%)                                             |27,9    |29,2    |25,0    |13,1    |14,0    |20,3    |
+|Arena media, 250-500 u (%)                                            |5,0     |5,9     |5,2     |1,8     |1,1     |1,4     |
+|Arena gruesa, 500-1000 u (%)                                          |3,8     |3,9     |4,9     |0,8     |0,6     |0,5     |
+|Arena muy gruesa, 1-2 mm (%)                                          |0,1     |0,3     |0,6     |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |        |        |
+|Equivalente de humedad (%)                                            |14,8    |14,1    |13,6    |19,2    |17,9    |16,4    |
+|pH en pasta                                                           |4,9     |5,5     |5,6     |6,3     |6,8     |7,3     |
+|pH en agua (1:2,5)                                                    |5,0     |5,6     |6,8     |7,1     |7,5     |7,8     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |5,3     |6,2     |6,0     |9,1     |10,5    |10,2    |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,6     |0,9     |1,1     |2,2     |1,1     |0,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,1     |0,1     |0,1     |0,1     |0,3     |1,5     |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,4     |1,4     |1,2     |1,3     |1,1     |1,0     |
+|Cationes de intercambio, meq/100 gr (H+)                              |2,9     |1,7     |0,8     |0,6     |0,3     |        |
+|Sodio de intercambio, % (PSI)                                         |1,0     |1,0     |1,0     |0,7     |2,3     |11,5    |
+|Suma de bases, meq/100 gr (S)                                         |7,4     |8,6     |8,4     |12,7    |13,0    |13,6    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |10,4    |10,0    |9,6     |13,4    |13,1    |13,0    |
+|Saturacion con bases, % (S/T)                                         |71      |86      |87      |95      |99      |100     |

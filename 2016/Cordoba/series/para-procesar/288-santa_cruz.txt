@@ -1,0 +1,39 @@
+Serie SANTA CRUZ
+Simbolo:
+CLASIFICACION: Ustorthent litico paralitico
+TPS: esqueletica, arenosa, calcarea, mixta, termica
+La Serie Santa Cruz es un suelo excesivamente drenado, desarrollado incipientemente sobre rocas graniticas de la Sierra Norte de Cordoba. Se encuentra vinculado a "cerrillos" o "mogotes" dentro o adyacente a la meseta de San Francisco del Chanar. El horizonte superior es muy somero, de 10 cm de espesor; de color pardo grisaceo muy oscuro, de textura franco arenosa gruesa y estructura en bloques con leve reaccion al HCl en la masa del suelo. Continua hacia abajo un horizonte endurecido por material calcareo (tosca, horizonte petrocalcico), quebradizo, duro en humedo y seco penetrable parcialmente por las raices. Por debajo, se encuentra la roca granitica parcialmente alterada con reaccion al HCl. Sus limitantes son, la profundidad efectiva, las texturas gruesas y gravillosas, clima, pendiente y alcalinidad moderada por presencia de CO3Ca libre desde la superficie. La aptitud de uso es exclusivamente para campos de pastoreo sobre especies naturales.
+UBICACION: a 2 Km al Este de Santa Cruz, departamento Rio Seco, en el NE de la provincia de Cordoba.
+A	0 - 10 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso gravilloso; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; pH 8,3; leve reaccion al HCl en la masa del suelo, raices comunes; limite inferior abrupto.
+Ckm	10 - 22 cm; horizonte petrocalcico en lentes, quebradizo y compacto.
+R	22 cm a +; roca granitica alterada.
+Datos analiticos Serie SANTA CRUZ
+LATITUD:29º44'
+LONGITUD:63º42'
+ALTITUD:600 m.s.n.m.
+|Horizonte                                                             |A       |
+|Profundidad de la muestra (cm)                                        |0-10    |
+|Materia Organica (%)                                                  |3,97    |
+|Carbono Organico (%)                                                  |2,3     |
+|Nitrogeno total (%)                                                   |0,25    |
+|Relacion C/N                                                          |9,1     |
+|Arcilla, <2 u (%)                                                     |8,9     |
+|Limo, 2-50 u (%)                                                      |22,8    |
+|Arena muy fina, 50-100 u (%)                                          |10,2    |
+|Arena fina, 100-250 u (%)                                             |26,1    |
+|Arena media, 250-500 u (%)                                            |7,1     |
+|Arena gruesa, 500-1000 u (%)                                          |16,4    |
+|Arena muy gruesa, 1-2 mm (%)                                          |6,9     |
+|Carbonatos, CaCO3 (%)                                                 |1,3     |
+|Equivalente de humedad (%)                                            |10,3    |
+|pH en pasta                                                           |7,4     |
+|pH en agua (1:2,5)                                                    |8,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                              |0,6     |
+|Cationes de intercambio, meq/100 gr (H+)                              |        |
+|Sodio de intercambio, % (PSI)                                         |3,0     |
+|Suma de bases, meq/100 gr (S)                                         |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |6,7     |
+|Saturacion con bases, % (S/T)                                         |        |

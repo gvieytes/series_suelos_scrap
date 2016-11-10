@@ -1,0 +1,49 @@
+Serie WENCESLAO ESCALANTE
+Simbolo:
+CLASIFICACION: Endoacuol tipico
+TPS: franca gruesa, mixta, termica
+La Serie Wenceslao Escalante es un suelo imperfectamente drenado, con fuerte alcalinidad sodica y salinidad, vinculados a sectores relativamente algo mas altos dentro de las depresiones o bajos. Se ha desarrollado a partir de materiales franco a franco arenosos y presenta un perfil con muy poco desarrollo de horizontes geneticos. Los primeros 23 cm (horizonte A) son de color negro, textura y estructura en bloques. Hacia abajo pasa gradualmente (horizonte transicional A/C) al substrato u horizonte C que se encuentra a una profundidad promedio de 40 cm. La fuerte alcalinidad sodica, la salinidad y el drenaje impedido limitan considerablemente la aptitud para el uso de estos suelos.
+UBICACION: a 15,8 Km al SSO de la localidad de Wenceslao Escalante, departamento Union, provincia de Cordoba.
+An	0-23 cm; color en humedo negro (10YR2/1); franco; estructura en bloques subangulares medios debiles; friable en humedo; moteados abundantes, medios y precisos; abundantes pseudomicelios salinos; limite inferior claro, suave.
+ACnz	23-40 cm; color en humedo pardo oscuro (10YR3/3); franco a franco limoso; estructura en bloques subangulares medios muy debiles; muy friable en humedo; moteados abundantes medios, sobresalientes; abundantes pseudomicelios salinos; escasas concreciones calcareas finas; limite inferior gradual, suave.
+Cnz	40-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco arenoso; masivo; muy friable en humedo; moteados abundantes, medios y sobresalientes; escasos nodulos ligeramente cementados; escasas concreciones calcareas finas; limite inferior abrupto, suave.
+Cknz	72 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso a franco; masivo; muy friable en humedo; moteados abundantes, gruesos y sobresalientes; abundantes concreciones calcareas.
+Datos Analiticos Serie WENCESLAO ESCALANTE
+LATITUD:33º18'04"
+LONGITUD:62º50'00"
+ALTITUD:109 m.s.n.m.
+|Horizonte                                                            |An      |ACnz    |Cnz     |Ckz     |
+|Profundidad de la muestra (cm)                                       |0-23    |23-40   |40-72   |72 a +  |
+|Materia Organica (%)                                                 |2,61    |0,65    |0,26    |0,21    |
+|Carbono Organico (%)                                                 |1,52    |0,38    |0,15    |0,12    |
+|Nitrogeno total (%)                                                  |0,152   |0,054   |0,031   |0,029   |
+|Relacion C/N                                                         |10,0    |7,03    |4,8     |4,1     |
+|Arcilla, <2 u (%)                                                    |15,9    |12,3    |11,5    |12,1    |
+|Limo, 2-50 u (%)                                                     |43,2    |48,7    |40,6    |34,8    |
+|Arena muy fina, 50-100 u (%)                                         |37,8    |35,2    |44,3    |48,9    |
+|Arena fina, 100-250 u (%)                                            |1,7     |1,9     |1,4     |3,2     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |0,565   |0,204   |0,08    |
+|Equivalente de humedad (%)                                           |21,2    |24,9    |20,4    |16,6    |
+|pH en pasta                                                          |7,7     |8,0     |8,1     |8,2     |
+|pH en agua (1:2,5)                                                   |7,9     |8,7     |8,8     |8,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |        |        |        |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |11,6    |24,5    |30,4    |32,0    |
+|Suma de bases, meq/100 gr (S)                                        |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,2    |20,4    |16,5    |14,8    |
+|Saturacion con bases, % (S/T)                                        |        |        |        |        |
+|C.EXT.S ME/l-Ca++                                                    |20,0    |19,2    |20,3    |37,5    |
+|C.EXT.S ME/l-Mg++                                                    |10,0    |11,0    |20,8    |20,0    |
+|C.EXT.S ME/l-Na+                                                     |107,0   |254,0   |324,0   |344,0   |
+|C.EXT.S ME/l-K+                                                      |2,1     |2,9     |3,7     |4,1     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |3,0     |1,5     |1,5     |3,0     |
+|C.EXT.S ME/l-SO4=                                                    |71,0    |138,0   |199,0   |198,0   |
+|C.EXT.S ME/l-Cl-                                                     |62,4    |130,0   |174,0   |211,0   |

@@ -1,0 +1,37 @@
+Serie ESTACION MACHA
+Simbolo: EMa
+CLASIFICACION: Ustorthent litico paralitico
+TPS: franca gruesa, mixta, termica
+La Serie Estacion Macha es un suelo debilmente desarrollado sobre rocas conglomeradicas parcialmente consolidadas (posiblemente de edad Cretacica) con pendientes mayores al 15%. Se ubica en los mogotes y/o restos de conos aluviales en forma de cerrillos aislados separados de la montana y en las serranias cercanas a Macha. Presenta un horizonte A de 15 cm de espesor de color oscuro con 1,7% de materia organica, de textura areno franca gruesa con gravilla, estructura en bloques debiles y la roca madre del suelo que es un conglomerado parcialmente meteorizado, continua hacia abajo. Las limitantes son baja retencion de humedad, pendiente, profundidad efectiva y pedregosidad.
+UBICACION: a 4,5 km al Sur del paraje Estacion Macha, departamento Totoral, provincia de Cordoba.
+A	0-15 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); areno franco; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; pH 7,7; raices comunes; limite inferior abrupto.
+R	15 cm a +; roca alterada parcialmente.
+Datos analiticos Serie ESTACION MACHA
+LATITUD:30º31'37"
+LONGITUD:64º16'21"
+ALTITUD:700 m.s.n.m.
+|Horizonte                                                            |A       |
+|Profundidad de la muestra (cm)                                       |0-15    |
+|Materia Organica (%)                                                 |1,72    |
+|Carbono Organico (%)                                                 |1,0     |
+|Nitrogeno total (%)                                                  |0,09    |
+|Relacion C/N                                                         |11,1    |
+|Arcilla, <2 u (%)                                                    |7,3     |
+|Limo, 2-50 u (%)                                                     |15,7    |
+|Arena muy fina, 50-100 u (%)                                         |5,5     |
+|Arena fina, 100-250 u (%)                                            |13,7    |
+|Arena media, 250-500 u (%)                                           |15,6    |
+|Arena gruesa, 500-1000 u (%)                                         |21,9    |
+|Arena muy gruesa, 1-2 mm (%)                                         |18,8    |
+|Carbonatos, CaCO3 (%)                                                |        |
+|Equivalente de humedad (%)                                           |11,6    |
+|pH en agua (1:2,5)                                                   |7,7     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,6    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |
+|Sodio de intercambio, % (PSI)                                        |1,9     |
+|Suma de bases, meq/100 gr (S)                                        |16,1    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,2    |
+|Saturacion con bases, % (S/T)                                        |100     |

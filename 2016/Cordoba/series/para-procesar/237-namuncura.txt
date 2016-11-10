@@ -1,0 +1,41 @@
+Serie NAMUNCURA
+Simbolo:
+CLASIFICACION: Argiudol acuico
+TPS: fina, illitica, termica
+La Serie Namuncura es un suelo profundo, pesado e imperfectamente drenado. Desarrollado sobre materiales franco limosos, con mas de 60% de limo, ocupan la parte central de las lineas de escurrimiento o vias de desague bien manifiestas dentro de los planos altos o lomadas. En superficie el suelo es de textura franco limosa a franco arcillo limosa; de color pardo grisaceo oscuro (horizonte A), con alto contenido de materia organica y estructura en bloques. Luego pasa a un horizonte mas arcilloso (Bt); pardo a pardo oscuro; estructura en prismas gruesos. En la base de este horizonte, a partir de los 110 cm, el suelo se encuentra fuertemente cementado formando un nivel denso y continuo (duripan). Estos suelos presentan moteados de Fe desde la superficie. Por su posicion en areas de bajos y por su escasa permeabilidad, estos suelos suelen anegarse en anos excepcionalmente lluviosos, pero en general, tienen buena provision de humedad en los meses secos. La limitacion principal de estos suelos es su drenaje imperfecto y la presencia de un horizonte cementado en profundidad, el cual contribuye a impedir el drenaje. El alto contenido de limos hace que la estructuracion sea inestable, por lo que los suelos muestran una tendencia a "plancharse". Dentro de la Serie Namuncura existen algunas variaciones en el espesor del horizonte A (de 20 a 28 cm) y del horizonte Bt (de 80 a 100 cm).
+UBICACION: a 13,5 km al NNO de la localidad de Marcos Juarez, departamento Marcos Juarez, provincia de Cordoba.
+Ap	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo (10YR5/2); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; moteados escasos finos debiles; limite inferior abrupto, suave.
+BA	20-26 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en bloques angulares y subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos finos; moteados comunes finos debiles; algo lavado con material decolorado; limite inferior claro, suave.
+Bt	26-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas regulares e irregulares gruesos fuertes que rompe a prismas menores; firme en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes gruesos de color pardo muy oscuro (10YR2/2); moteados comunes finos debiles; limite inferior claro, suave.
+Bt2	75-110 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso a arcillo limoso; estructura en prismas irregulares medios fuertes que rompe a bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" comunes medios moteados comunes finos debiles; limite inferior abrupto.
+BCm	110 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; firme en humedo; barnices "Clay Skins" escasos finos; moteados comunes finos precisos; muy cementado (80% de su volumen).
+Datos analiticos Serie NAMUNCURA
+LATITUD:32º37'07"
+LONGITUD:62º10'50"
+ALTITUD:110 m.s.n.m.
+|Horizonte                                                            |Ap      |BA      |Bt      |Bt2      |BCm       |
+|Profundidad de la muestra (cm)                                       |0-20    |20-26   |26-75   |75-110   |110 a +   |
+|Materia Organica (%)                                                 |3,26    |1,54    |0,68    |0,34     |0,13      |
+|Carbono Organico (%)                                                 |1,90    |0,90    |0,40    |0,20     |0,08      |
+|Nitrogeno total (%)                                                  |        |        |        |         |          |
+|Relacion C/N                                                         |        |        |        |         |          |
+|Arcilla, <2 u (%)                                                    |28,1    |29,9    |34,5    |40,0     |29,7      |
+|Limo, 2-50 u (%)                                                     |62,9    |61,6    |58,2    |51,4     |60,2      |
+|Arena muy fina, 50-100 u (%)                                         |8,3     |7,7     |7,0     |7,8      |9,2       |
+|Arena fina, 100-250 u (%)                                            |0,7     |0,8     |0,3     |0,8      |0,9       |
+|Arena media, 250-500 u (%)                                           |        |        |        |         |          |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |         |          |
+|Equivalente de humedad (%)                                           |33,4    |31,6    |34,1    |33,5     |29,8      |
+|pH en pasta                                                          |5,6     |5,8     |6,5     |6,2      |6,5       |
+|pH en agua (1:2,5)                                                   |6,3     |6,7     |7,2     |7,2      |7,3       |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |10,4    |10,5    |16,5    |16,3     |15,6      |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,1     |3,8     |5,9     |4,9      |5,3       |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,3     |0,3     |0,2      |0,4       |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,1     |2,1     |3,0     |2,7      |3,0       |
+|Cationes de intercambio, meq/100 gr (H+)                             |9,5     |8,2     |5,6     |6,4      |4,3       |
+|Sodio de intercambio, % (PSI)                                        |1,0     |1,5     |1,1     |0,8      |1,6       |
+|Suma de bases, meq/100 gr (S)                                        |15,8    |16,7    |25,7    |24,1     |24,3      |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,0    |20,2    |27,0    |26,4     |25,3      |
+|Saturacion con bases, % (S/T)                                        |76      |83      |95      |91       |96        |

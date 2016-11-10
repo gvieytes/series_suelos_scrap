@@ -1,0 +1,51 @@
+Serie COLONIA MORENO
+Simbolo: CM
+CLASIFICACION: Natralbol tipico
+TPS: limosa fina, mixta, termica
+Se trata de un suelo oscuro, profundo, levemente lavado y acido en superficie pero con moderada alcalinidad sodica y salinidad en el sustrato mas arcilloso. Su drenaje natural es moderado a imperfecto y ocupa las pendientes largas y suaves que bajan hacia el arroyo Tortugas; normalmente se lo encuentra mejor representado en la parte inferior de las pendientes. Normalmente, el agua freatica se encuentra profunda. Estos suelos se han desarrollado a partir de sedimentos loessicos franco limosos. La parte mas superficial del perfil incluye dos horizontes: uno superior (horizonte A) hasta los 15 cm de profundidad, de color pardo grisaceo muy oscuro y estructura en bloques medios, moderados y granular, y otro inferior (horizonte E) algo mas claro y lixiviado, de unos 10 cm de espesor. Ambos horizontes tienen textura franco limosa. A partir de los 25 cm se pasa abruptamente a un material mas arcilloso (horizonte Bt), de color pardo oscuro y estructura columnar y prismatica, el cual se extiende hasta los 70 cm. Esta porcion del perfil es moderadamente alcalina, lo que resulta en una limitacion para el desarrollo normal de las raices; el contenido de sodio intercambiable aumenta con la profundidad pudiendo llegar a un 50% de la capacidad de intercambio cationico. El sustrato (horizonte C) es de color pardusco, de textura franco limosa y presenta un elevado contenido de calcareo libre en la masa del suelo.
+UBICACION: a 6 km al SSO de la localidad de Saira, departamento Marcos Juarez, provincia de Cordoba.
+A	0-14 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados y granular; friable en humedo; no plastico; no adhesivo; moteados escasos, finos y debiles; limite inferior abrupto, suave.
+E	14-22 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; escasos moteados finos y debiles; limite inferior abrupto, ondulado.
+Bt	22-46 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura columnar gruesa fuerte, rompe a prismas irregulares medios moderados; duro en seco; firme en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes de color negro (10YR2/1); moteados comunes, finos y precisos; limite inferior claro, suave.
+Btn	46-70 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso a franco limoso; estructura en prismas irregulares medios moderados a fuertes, rompe a bloques subangulares moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" comunes; moteados escasos, finos, debiles; limite inferior claro, suave.
+BCzn	70-97 cm; color en humedo pardo (7,5YR5/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; no plastico; no adhesivo; barnices "Clay Skins" escasos; escasos moteados finos y debiles; nucleos y bochas cementadas; limite inferior abrupto, suave.
+Ckz	97 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante cantidad de carbonatos libres en la masa; cristales finos de yeso y pseudomicelios salinos comunes; durinodulos finos, comunes.
+Datos Analiticos Serie COLONIA MORENO
+LATITUD:32º27'38"
+LONGITUD:62º07'15"
+ALTITUD:88 m.s.n.m.
+|Horizonte                                                            |A       |E       |Bt      |Btn     |BCzn    |Ckz     |
+|Profundidad de la muestra (cm)                                       |0-14    |14-22   |22-46   |46-70   |70-97   |97 a +  |
+|Materia Organica (%)                                                 |2,97    |2,91    |1,31    |0,45    |0,28    |0,21    |
+|Carbono Organico (%)                                                 |1,72    |1,69    |0,76    |0,26    |0,16    |0,12    |
+|Nitrogeno total (%)                                                  |0,165   |0,154   |0,085   |0,058   |0,040   |0,032   |
+|Relacion C/N                                                         |10,4    |10,9    |8,9     |4,5     |4,0     |3,7     |
+|Arcilla, <2 u (%)                                                    |23,7    |20,2    |33,2    |28,5    |18,4    |12,2    |
+|Limo, 2-50 u (%)                                                     |70,4    |74,4    |63,3    |66,6    |72,5    |74,5    |
+|Arena muy fina, 50-100 u (%)                                         |4,9     |5,6     |3,6     |5,0     |7,2     |9,1     |
+|Arena fina, 100-250 u (%)                                            |1,2     |0,5     |0,8     |0,6     |2,1     |2,3     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |0,2     |0,3     |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |0,1     |0,4     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |4,31    |
+|Equivalente de humedad (%)                                           |26,9    |27,1    |34,3    |32,7    |31,8    |26,1    |
+|pH en pasta                                                          |5,0     |5,3     |6,8     |7,3     |8,2     |8,1     |
+|pH en agua (1:2,5)                                                   |5,3     |5,8     |7,7     |8,9     |9,1     |9,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,6     |7,9     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |2,7     |2,6     |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |2,3     |4,0     |11,0    |11,4    |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,5     |2,8     |2,7     |2,1     |4,0     |3,7     |
+|Cationes de intercambio, meq/100 gr (H+)                             |3,9     |2,8     |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,3     |2,4     |9,3     |16,1    |45,8    |50,7    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |1,79    |8,5     |21,3    |24,7    |
+|Suma de bases, meq/100 gr (S)                                        |13,2    |13,7    |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,4    |16,8    |24,8    |24,8    |24,0    |22,5    |
+|Saturacion con bases, % (S/T)                                        |76      |81      |        |        |        |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |        |13,4    |32,9    |30,0    |
+|C.EXT.S ME/l-Mg++                                                    |        |        |        |7,2     |17,1    |18,8    |
+|C.EXT.S ME/l-Na+                                                     |        |        |        |63,0    |165,0   |205,0   |
+|C.EXT.S ME/l-K+                                                      |        |        |        |1,5     |3,0     |3,6     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |        |3,1     |3,9     |3,1     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |        |37,3    |111,0   |150,0   |
+|C.EXT.S ME/l-Cl-                                                     |        |        |        |47,9    |99,3    |100,0   |

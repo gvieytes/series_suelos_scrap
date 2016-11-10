@@ -1,0 +1,50 @@
+Serie LA FRANCIA
+Simbolo: LFr
+CLASIFICACION: Natrustol tipico
+TPS: limosa fina, mixta, termica
+Es un suelo moderado a imperfectamente drenado, desarrollado sobre sedimentos loessicos de textura franco limosa, asociado a un relieve de planos tendidos y areas ligeramente deprimidas. El horizonte superficial, bien provisto de materia organica, tiene aproximadamente 17 cm de espesor, de textura franco limosa y estructura en bloques. El subsuelo esta representado por un horizonte (Bt) enriquecido en arcilla, de textura franco arcillo limosa y estructura columnar. El material originario (Ck) se encuentra a los 78 cm de profundidad. El perfil presenta alcalinidad sodica a partir de los 42 cm de profundidad y fuerte salinidad desde los 78 cm.
+UBICACION: a 6 Km al SSE de la localidad de San Bartolome, departamento San Justo, provincia de Cordoba.
+Ap	0-17 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente duro en seco; ligeramente plastico; no adhesivo; moteados escasos, finos y precisos; limite inferior abrupto, suave.
+Bt	17-42 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura columnar medias, fuertes; duro en seco; firme en humedo; plastico; ligeramente adhesivo; barnices comunes y medios; moteados comunes, finos y precisos; limite inferior gradual, suave.
+Btn	42-56 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en prismas irregulares medios moderados, ligeramente duro en seco; ligeramente firme en humedo; ligeramente plastico; no adhesivo; barnices comunes y medios; moteados escasos, finos y precisos; limite inferior gradual, suave.
+BCn	56-78 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; ligeramente plastico; no adhesivo; barnices escasos y finos; moteados escasos finos y precisos; escasos nodulos cementados; limite inferior abrupto suave.
+Ckz	78 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante contenido de carbonato pulverulento en la masa del suelo; concreciones de carbonato de calcio escasas.
+Datos analiticos Serie LA FRANCIA
+LATITUD:31º34'22"
+LONGITUD:62º41'31"
+ALTITUD:122 m.s.n.m.
+|Horizonte                                                             |Ap       |Bt      |Btn     |BCn     |Ckz     |
+|Profundidad de la muestra (cm)                                        |0-17     |17-42   |42-56   |56-78   |78 a +  |
+|Materia Organica (%)                                                  |3,45     |1,03    |0,52    |0,17    |        |
+|Carbono Organico (%)                                                  |2,0      |0,6     |0,3     |0,1     |        |
+|Nitrogeno total (%)                                                   |0,16     |0,10    |        |        |        |
+|Relacion C/N                                                          |12,5     |6,0     |        |        |        |
+|Arcilla, <2 u (%)                                                     |24,2     |35,0    |31,9    |24,8    |21,9    |
+|Limo, 2-50 u (%)                                                      |72,1     |62,4    |62,7    |71,5    |72,6    |
+|Arena muy fina, 50-100 u (%)                                          |3,4      |2,8     |3,3     |3,6     |4,8     |
+|Arena fina, 100-250 u (%)                                             |0,4      |0,2     |0,2     |0,3     |0,7     |
+|Arena media, 250-500 u (%)                                            |0,1      |        |        |0,1     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                          |0,1      |        |        |0,1     |0,7     |
+|Arena muy gruesa, 1-2 mm (%)                                          |         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |         |        |        |        |1,0     |
+|Equivalente de humedad (%)                                            |27,7     |29,8    |28,5    |27,6    |26,8    |
+|pH en pasta                                                           |5,4      |6,8     |7,3     |7,4     |7,9     |
+|pH en agua (1:2,5)                                                    |5,8      |7,3     |7,4     |8,0     |8,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |8,9      |12,9    |12,6    |11,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |4,6      |3,7     |2,5     |2,9     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,4      |1,4     |3,2     |3,0     |        |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,9      |2,5     |2,4     |2,5     |        |
+|Cationes de intercambio, meq/100 gr (H+)                              |2,9      |0,8     |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |2,0      |6,5     |15,5    |15,2    |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |         |        |        |3,57    |17,36   |
+|Suma de bases, meq/100 gr (S)                                         |16,8     |20,1    |20,7    |19,7    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |19,9     |21,5    |20,7    |19,7    |19,6    |
+|Saturacion con bases, % (S/T)                                         |84       |95      |100     |100     |        |
+|C.EXT.S ME/l-Ca++                                                     |         |        |        |        |25,06   |
+|C.EXT.S ME/l-Mg++                                                     |         |        |        |        |24,00   |
+|C.EXT.S ME/l-Na+                                                      |         |        |        |        |158,8   |
+|C.EXT.S ME/l-K+                                                       |         |        |        |        |2,4     |
+|C.EXT.S ME/l-CO3=                                                     |         |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |         |        |        |        |3,2     |
+|C.EXT.S ME/l-SO4=                                                     |         |        |        |        |122,5   |
+|C.EXT.S ME/l-Cl-                                                      |         |        |        |        |81,6    |

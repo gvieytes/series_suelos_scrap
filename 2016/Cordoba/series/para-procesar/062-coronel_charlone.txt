@@ -1,0 +1,38 @@
+Serie CORONEL CHARLONE
+Simbolo:
+CLASIFICACION: Haplustol udorthentico
+TPS: franca gruesa, mixta, termica
+Es un suelo profundo desarrollado en un paisaje de lomas arenosas suavemente onduladas. Presenta un drenaje interno algo excesivo y se han originado a partir de sedimentos eolicos de textura franco arenosa. El horizonte superficial (A) o capa arable es de color pardo grisaceo oscuro, textura franco arenosa, estructura en bloques moderados a debiles y buen contenido de materia organica. El material originario (Horizonte C) aparece a los 60 cm de profundidad, de textura franco arenosa y muy friable. Estos suelos son aptos para agricultura con la limitacion climatica natural del area y la moderada susceptibilidad a la erosion eolica.
+UBICACION: a 13,7 Km al Sur de la localidad de Coronel Charlone, departamento General Roca, provincia de Cordoba.
+A	0-29 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; estructura en bloques y granular medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
+AC	29-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques subangulares medios debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
+C	60 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; no plastico; no adhesivo; muy friable en humedo.
+Datos analiticos Serie CORONEL CHARLONE
+LATITUD:34º47'56"
+LONGITUD:63º19'50"
+ALTITUD:131 m.s.n.m.
+|Horizonte                                                            |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                       |0-29    |29-60   |60 a +  |
+|Materia Organica (%)                                                 |2,07    |        |        |
+|Carbono Organico (%)                                                 |1,2     |        |        |
+|Nitrogeno total (%)                                                  |0,1     |        |        |
+|Relacion C/N                                                         |12,0    |        |        |
+|Arcilla, <2 u (%)                                                    |12,3    |13,1    |10,1    |
+|Limo, 2-50 u (%)                                                     |27,3    |24,8    |24,8    |
+|Arena muy fina, 50-100 u (%)                                         |18,6    |20,9    |20,8    |
+|Arena fina, 100-250 u (%)                                            |33,3    |34,0    |36,9    |
+|Arena media, 250-500 u (%)                                           |4,7     |3,6     |4,4     |
+|Arena gruesa, 500-1000 u (%)                                         |1,9     |1,6     |1,8     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |
+|Equivalente de humedad (%)                                           |14,2    |12,9    |11,9    |
+|pH en agua (1:2,5)                                                   |6,5     |6,8     |7,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |7,0     |7,2     |7,3     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7     |1,1     |1,2     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,3     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,1     |0,7     |
+|Cationes de intercambio, meq/100 gr (H+)                             |2,3     |1,3     |1,1     |
+|Sodio de intercambio, % (PSI)                                        |3,1     |2,7     |1,9     |
+|Suma de bases, meq/100 gr (S)                                        |10,6    |9,7     |9,4     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,9    |11,0    |10,5    |
+|Saturacion con bases, % (S/T)                                        |82,2    |88,2    |89,5    |

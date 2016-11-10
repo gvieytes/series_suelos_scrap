@@ -1,0 +1,51 @@
+Serie ARROYO CABRAL
+Simbolo: ACb
+CLASIFICACION: Argiustol tipico
+TPS: franca fina, mixta, termica
+Son suelos profundos, con drenaje moderado, desarrollados sobre materiales fluvioeolicos redepositados, de areas de derrame y paleocauces de textura franco limosa y vinculados a sectores planos a ligeramente deprimidos. El horizonte superficial A (capa arable) de 24 cm de espesor, es de color oscuro, moderado contenido de materia organica, de textura franco a franco limosa y estructura en bloques moderados. Luego pasa en forma clara a un horizonte mas arcilloso (Bt1 y Bt2) que se extiende hasta los 72 cm de profundidad, de color pardo oscuro, estructura prismatica y moderados barnices en la cara de los agregados. Luego pasa en forma transicional (horizonte BCk) al material originario (horizonte Ck) que se encuentra a 104 cm de profundidad, es masivo, friable, de textura franco limosa y con calcareo pulverulento en la masa del suelo y elevado tenor de sodio intercambiable (mas del 50% de la capacidad de intercambio), constituyendo un horizonte alcalino-sodico, como consecuencia de migraciones ascendentes de la capa freatica fluctuante. En general no presentan limitantes en la seccion de control de raices, considerandose su uso agricola-ganadero.
+UBICACION: a 18 km al NE de Arroyo Cabral, departamento General San Martin, provincia de Cordoba.
+Ap	0-13 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en bloques subangulares finos moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto, suave.
+A	13-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+Bt	24-49 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco arcilloso; estructura en prismas medios y gruesos, fuertes; duro en seco; ligeramente plastico; ligeramente adhesivo; barnices humico-arcillosos comunes y medios; limite inferior claro y suave.
+Bt2	49-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios moderados; duro en seco; ligeramente plastico; ligeramente adhesivo; barnices arcillosos comunes, medios; moteados escasos, finos y debiles; limite inferior abrupto.
+BCk	72-104 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas concreciones calcareas finas y moderado contenido pulverulento en la masa; limite inferior gradual.
+Ck	104 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; abundante calcareo pulverulento en la masa del suelo.
+Datos analiticos Serie ARROYO CABRAL
+LATITUD:32º21'08"
+LONGITUD:63º17'57"
+ALTITUD:212 m.s.n.m.
+|Horizonte                                           |Ap      |A       |Bt      |Bt2     |BCk      |Ck        |
+|Profundidad de la muestra (cm)                      |0-13    |13-24   |24-49   |49-72   |72-104   |104 a +   |
+|Materia Organica (%)                                |2,04    |1,72    |1,03    |0,85    |0,51     |          |
+|Carbono Organico (%)                                |1,2     |1,0     |0,6     |0,5     |0,3      |          |
+|Nitrogeno total (%)                                 |0,13    |0,12    |0,09    |0,08    |         |          |
+|Relacion C/N                                        |9,2     |8,3     |6,7     |6,2     |         |          |
+|Arcilla, <2 u (%)                                   |12,9    |16,9    |25,2    |24,6    |13,5     |10,4      |
+|Limo, 2-50 u (%)                                    |48,8    |50,1    |48,6    |50,7    |57,2     |56,9      |
+|Arena muy fina, 50-100 u (%)                        |10,0    |9,3     |7,7     |8,2     |8,7      |11,2      |
+|Arena fina, 100-250 u (%)                           |19,8    |18,0    |14,5    |13,7    |16,7     |16,7      |
+|Arena media, 250-500 u (%)                          |2,7     |2,1     |2,1     |1,7     |1,8      |1,6       |
+|Arena gruesa, 500-1000 u (%)                        |3,5     |3,1     |2,9     |2,3     |2,1      |2,3       |
+|Arena muy gruesa, 1-2 mm (%)                        |0,3     |0,4     |0,4     |0,3     |0,1      |0,5       |
+|Carbonatos, CaCO3 (%)                               |        |        |        |        |0,8      |1,7       |
+|Equivalente de humedad (%)                          |17,8    |22,0    |25,9    |23,1    |22,1     |22,9      |
+|pH en pasta                                         |5,4     |6,0     |6,7     |6,8     |7,6      |8,5       |
+|pH en agua (1:2,5)                                  |5,7     |6,3     |6,9     |7,1     |7,9      |9,2       |
+|Cationes de intercambio, meq/100 gr (Ca++)          |5,2     |7,7     |13,4    |14,0    |         |          |
+|Cationes de intercambio, meq/100 gr (Mg++)          |1,5     |1,2     |1,4     |1,6     |         |          |
+|Cationes de intercambio, meq/100 gr (Na+)           |0,1     |0,1     |0,3     |0,3     |0,4      |10,1      |
+|Cationes de intercambio, meq/100 gr (K+)            |1,6     |1,3     |1,6     |0,9     |1,8      |1,1       |
+|H+ de cambio (meq/100 gr)                           |2,7     |1,6     |0,9     |0,6     |         |          |
+|Sodio de intercambio, % (PSI)                       |0,9     |0,8     |1,7     |1,8     |2,2      |58,4      |
+|Conductividad, mmhos/cm (extracto de saturacion)    |        |        |        |        |         |7,53      |
+|Suma de bases, meq/100 gr (S)                       |8,4     |10,3    |16,7    |16,8    |         |          |
+|Capacidad de intercambio cationico, meq/100 gr (T)  |11,0    |12,1    |17,8    |17,4    |17,9     |17,3      |
+|Saturacion con bases, % (S/T)                       |76      |85      |94      |96      |         |          |
+|C.EXT.S ME/l-Ca++                                   |        |        |        |        |         |5,7       |
+|C.EXT.S ME/l-Mg++                                   |        |        |        |        |         |3,0       |
+|C.EXT.S ME/l-Na+                                    |        |        |        |        |         |78,4      |
+|C.EXT.S ME/l-K+                                     |        |        |        |        |         |0,6       |
+|C.EXT.S ME/l-CO3=                                   |        |        |        |        |         |          |
+|C.EXT.S ME/l-HCO3-                                  |        |        |        |        |         |12,8      |
+|C.EXT.S ME/l-SO4=                                   |        |        |        |        |         |42,0      |
+|C.EXT.S ME/l-Cl-                                    |        |        |        |        |         |32,0      |

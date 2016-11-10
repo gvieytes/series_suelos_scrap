@@ -1,0 +1,44 @@
+Serie GUATIMOZIN
+Simbolo: Gt
+CLASIFICACION: Natracualf tipico
+TPS: limosa fina, mixta, termica
+La Serie Guatimozin representa los suelos imperfectamente drenados, con elevados tenores de sales y sodio, desarrollados sobre materiales limosos, con mas de 50% de limo, que se ubican como aureolas alrededor de cubetas, pozos de infiltracion y planos deprimidos en el SE del departamento Marcos Juarez, provincia de Cordoba. El horizonte superficial esta intensamente lixiviado y decolorado (E) y presenta evidencias de falta de aireacion periodica por saturacion del suelo con agua. La estructura es muy debil y los agregados inestables. A partir de los 25 cm comienza el subsuelo de estructura colunmar y con un notable enriquecimiento en arcilla (horizonte Bt) en el cual el sodio representa entre el 20% y el 40% de los cationes de cambio. Este subsuelo es muy poco permeable, constituyendose en un impedimento para el pasaje del agua a traves del perfil, asi como un medio poco propicio para ser penetrado por las raices. Sales solubles pueden acumularse en esta porcion del subsuelo. Gradualmente se pasa al substrato fuertemente calcareo (horizonte C y Ck) donde el contenido de sodio se mantiene alto y constante. Estos suelos estan sujetos a anegamientos frecuentes y el agua es eliminada del perfil muy lentamente por percolacion o evapotranspiradon ya que, por la posicion que ocupan, el avenamiento superficial (escurrimiento) es inadecuado.
+UBICACION: a 12,2 km al Norte de Arias, departamento Marcos Juarez, provincia de Cordoba.
+Ep	0-17 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; estructura granular debil y bloques subangulares medios; friable en humedo; limite inferior abrupto, suave.
+E	17-26 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; estructura en bloques subangulares medios debiles con tendencia a masivo; friable en humedo; moteados de FeMn comunes, finos y precisos; limite inferior abrupto, ondulado.
+Btn	26-67 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura columnar y semicolumnar media moderada que rompe a prismas y bloques; ligeramente firme en humedo; ligeramente plastico; adhesivo; barnices arcillo humicos abundantes, medios; concreciones calcareas escasas; nucleos cementados escasos; limite inferior claro, suave.
+BCn	67-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; adhesivo; barnices arcillo humicos escasos; concreciones calcareas escasas; moteados de FeMn comunes, medios y precisos; nucleos parcialmente cementados escasos; limite inferior gradual, suave.
+BC	90-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios debiles a masivo; concreciones calcareas comunes; moteados de FeMn comunes, medios y precisos; limite inferior difuso.
+C	120-170 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; concreciones calcareas comunes; moteados de FeMn comunes, medios y precisos; limite inferior abrupto.
+Ck	170 cm a +; color en humedo pardo (7,5YR5/4); masivo; friable en humedo; abundante cantidad de carbonatos libres en la masa del suelo; moteados de FeMn comunes, medios y precisos.
+Datos analiticos Serie GUATIMOZIN
+LATITUD:33º32'00"
+LONGITUD:62º23'50"
+ALTITUD:117 m.s.n.m.
+|Horizonte                                                        |Ep      |E       |Btn     |BCn     |BC      |C       |Ck      |
+|Profundidad de la muestra (cm)                                   |0-17    |17-26   |26-67   |67-90   |90-120  |120-170 |170 a + |
+|Materia Organica (%)                                             |2,69    |1,28    |0,48    |0,22    |0,17    |0,14    |0,14    |
+|Carbono Organico (%)                                             |1,56    |0,74    |0,28    |0,13    |0,10    |0,08    |0,08    |
+|Nitrogeno total (%)                                              |0,106   |0,065   |0,035   |0,039   |0,025   |        |        |
+|Relacion C/N                                                     |15      |11      |8       |3       |4       |        |        |
+|Arcilla, <2 u (%)                                                |14,0    |12,0    |24,5    |20,0    |16,3    |10,8    |12,4    |
+|Limo, 2-50 u (%)                                                 |66,3    |67,5    |61,3    |58,9    |60,6    |57,3    |61,4    |
+|Arena muy fina, 50-100 u (%)                                     |17,4    |18,2    |12,8    |14,2    |16,0    |16,0    |16,6    |
+|Arena fina, 100-250 u (%)                                        |1,0     |0,9     |1,0     |2,4     |3,2     |4,9     |3,2     |
+|Arena media, 250-500 u (%)                                       |        |        |0,3     |1,2     |1,1     |2,0     |1,2     |
+|Arena gruesa, 500-1000 u (%)                                     |        |        |0,5     |3,4     |3,1     |6,3     |3,3     |
+|Arena muy gruesa, 1-2 mm (%)                                     |        |        |        |0,7     |0,8     |2,2     |1,3     |
+|Carbonatos, CaCO3 (%)                                            |        |        |1,07    |5,55    |8,56    |4,29    |3,34    |
+|Equivalente de humedad (%)                                       |24,0    |21,2    |30,7    |30,2    |24,8    |22,6    |23,6    |
+|pH en pasta                                                      |5,7     |6,3     |8,0     |8,4     |8,8     |8,4     |8,2     |
+|pH en agua (1:2,5)                                               |5,9     |6,4     |8,6     |8,6     |9,0     |8,9     |8,7     |
+|Cationes de intercambio, meq/100 gr (Ca++)                       |8,7     |8,2     |        |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                       |1,9     |2,2     |        |        |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                        |0,3     |1,1     |6,0     |5,0     |10,0    |7,0     |5,5     |
+|Cationes de intercambio, meq/100 gr (K+)                         |2,1     |1,8     |2,7     |1,6     |2,5     |2,1     |2,1     |
+|Cationes de intercambio, meq/100 gr (H+)                         |2,5     |1,2     |        |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                    |1,9     |7,5     |20,5    |17,1    |42,0    |29,4    |22,2    |
+|Conductividad, mmhos/cm (extracto de saturacion)                 |        |        |        |2,17    |2,33    |        |        |
+|Suma de bases, meq/100 gr (S)                                    |13,0    |13,3    |        |        |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)               |15,7    |14,6    |29,2    |29,2    |23,8    |23,8    |24,8    |
+|Saturacion con bases, % (S/T)                                    |82      |91      |        |        |        |        |        |

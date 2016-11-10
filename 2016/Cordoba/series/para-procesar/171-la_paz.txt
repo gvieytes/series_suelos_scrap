@@ -1,0 +1,33 @@
+Serie LA PAZ
+Simbolo: LPz
+CLASIFICACION: Haplustol udorthentico paralitico
+TPS: franca fina, mixta, termica
+Es un suelo incipientemente desarrollado sobre sedimentos eolicos muy modificados sobre conglomerados que conforman cerrillos o serranias, correspondientes a antiguos conos aluviales elevados por actividad tectonica. Este suelo se encuentra preferentemente en serranias bajas e intermedias y en los cerrillos normalmente aislados, separados del cuerpo principal de la montana dentro del area del piedemonte. La pendiente oscila entre 3 a 8%, o a veces algo mayor con escurrimiento rapido y drenaje excesivo. Presenta un horizonte Ak de 24 cm de espesor de color pardo grisaceo muy oscuro con 20% de arcilla y aproximadamente 10% de gravas y gravillas. Normalmente tiene carbonato de calcio libre en la masa del suelo. A partir de la profundidad indicada se encuentra la roca conglomeradica parcialmente meteorizada (contacto paralitico). Las limitantes principales son profundidad efectiva, excesivo drenaje, pendiente y susceptibilidad a la erosion hidrica.
+UBICACION: a 16 km al Oeste de Jesus Maria, departamento Totoral, provincia de Cordoba.
+Ak	0-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco, con mas del 10% de gravas de tamano medio; estructura en bloques subangulares finos debiles; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; limite inferior claro, ondulado.
+R	24 cm a +; mas del 30% de gravas (tamano medio 5 cm) y fragmentos de tosca de dimensiones medias a gruesas.
+Datos analiticos Serie LA PAZ
+LATITUD:30º56'
+LONGITUD:64º15'
+ALTITUD:600 m.s.n.m.
+|Horizonte                                                            |Ak      |
+|Profundidad de la muestra (cm)                                       |0-24    |
+|Materia Organica (%)                                                 |10,5    |
+|Carbono Organico (%)                                                 |        |
+|Nitrogeno total (%)                                                  |0,41    |
+|Relacion C/N                                                         |        |
+|Arcilla, <2 u (%)                                                    |20,6    |
+|Limo, 2-50 u (%)                                                     |38,4    |
+|Arena (%)                                                            |38,5    |
+|Carbonatos, CaCO3 (%)                                                |4,3     |
+|Equivalente de humedad (%)                                           |        |
+|pH en agua (1:2,5)                                                   |7,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |0,1     |
+|Sodio de intercambio, % (PSI)                                        |2,6     |
+|Suma de bases, meq/100 gr (S)                                        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,1    |
+|Saturacion con bases, % (S/T)                                        |        |

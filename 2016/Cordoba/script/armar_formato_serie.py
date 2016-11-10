@@ -41,20 +41,16 @@
 
 import string
 
-fileName = 'FN.txt'
-idNro = 'idNumero'
-clasificacion = 'clasif'
-serie = 'serieeee' #Se obtiene de "^Serie"
-simbolo = 'siimbolo' #Se obtiene de "^Simbolo"
-ubicacion = 'ubiccc'
-latitud = 'lattiud'
-longitud = 'loongitud'
-altitud = 'allltitud'
-
-tipoSuelo = 'tpS'
-
-#Serie_Matorrales.psv ->> TIPO DE SUELO...............: LIMOSA FINA, MIXTA, TERMICA
-
+fileName = 'FN.txt' 		#Se obtiene del nombre de archivo (sin el ID)
+idNro = 'idNumero' 		#Se obtiene del nombre del archivo (numero de orden o ID)
+clasificacion = 'clasif' 	#Se obtiene de "^CLASIFICACION:"
+serie = 'serieeee' 		#Se obtiene de "^Serie"
+simbolo = 'siimbolo' 		#Se obtiene de "^Simbolo:"
+ubicacion = 'ubiccc' 		#Se obtiene de "^UBICACION:"
+latitud = 'lattiud'		#Se obtiene de "^LATITUD:" (ojo dar este formato S345826)
+longitud = 'loongitud'		#Se obtiene de "^LONGITUD:" (ojo dar este formato S345826)
+altitud = 'allltitud'		#Se obtiene de "^ALTITUD:"
+tipoSuelo = 'tpS'		#Se obtiene de "^TPS:"
 
 hNomb = 'hNomb'
 hProf = 'hProf'

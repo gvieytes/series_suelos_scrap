@@ -1,0 +1,39 @@
+Serie HUINCA RENANCO
+Simbolo: HR
+CLASIFICACION: Ustipsamment tipico
+TPS: arenosa, mixta, termica
+La Serie Huinca Renanco es un suelo excesivamente drenado, desarrollado sobre materiales arenosos, vinculados a las convexidades de las lomas medanosas onduladas y con pendientes del 1% o mayores. La capa arable (horizonte A) de 21 cm de espesor es de color pardo oscuro, textura arenosa franca y estructura en bloques muy debiles a masivo. Hacia abajo presenta un horizonte de transicion AC, arenoso franco y masivo. El horizonte C (material originario), se encuentra a 43 cm de profundidad y es de textura arenosa franca. El calcareo, por lo general, se encuentra por debajo de los 200 cm. Estos suelos estan en el limite del uso agricola, siendo sus principales limitaciones el clima, la baja retencion de humedad y una grave susceptibilidad a la erosion eolica.
+UBICACION: a 15,3 km al NNO de Huinca Renanco, departamento General Roca, provincia de Cordoba.
+A	0-21 cm; color en humedo pardo oscuro (10YR3/3); areno franco; estructura en bloques subangulares debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
+AC	21-43 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
+C	43 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); areno franco; masivo a grano simple; suelto en humedo; no plastico; no adhesivo.
+Datos analiticos Serie HUINCA RENANCO
+LATITUD:34º41'40"
+LONGITUD:64º25'15"
+ALTITUD:195 m.s.n.m.
+|Horizonte                                                             |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                        |0-21    |21-43   |43 a +  |
+|Materia Organica (%)                                                  |1,26    |0,86    |        |
+|Carbono Organico (%)                                                  |0,73    |0,50    |        |
+|Nitrogeno total (%)                                                   |0,085   |0,054   |        |
+|Relacion C/N                                                          |8,6     |9,2     |        |
+|Arcilla, <2 u (%)                                                     |6,9     |6,5     |5,7     |
+|Limo, 2-50 u (%)                                                      |16,5    |15,3    |16,1    |
+|Arena muy fina, 50-100 u (%)                                          |36,3    |40,8    |40,6    |
+|Arena fina, 100-250 u (%)                                             |37,4    |34,5    |35,3    |
+|Arena media, 250-500 u (%)                                            |1,9     |1,1     |1,0     |
+|Arena gruesa, 500-1000 u (%)                                          |3,0     |1,5     |1,4     |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |0,4     |0,2     |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |
+|Equivalente de humedad (%)                                            |8,8     |7,8     |7,1     |
+|pH en pasta                                                           |5,5     |6,2     |7,0     |
+|pH en agua (1:2,5)                                                    |5,7     |6,3     |7,2     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |4,7     |5,9     |5,6     |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,7     |0,2     |0,7     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |0,2     |0,1     |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,6     |1,3     |0,6     |
+|Cationes de intercambio, meq/100 gr (H+)                              |1,4     |0,7     |0,4     |
+|Sodio de intercambio, % (PSI)                                         |2,3     |2,4     |1,4     |
+|Suma de bases, meq/100 gr (S)                                         |7,2     |7,6     |6,8     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |8,8     |8,2     |7,2     |
+|Saturacion con bases, % (S/T)                                         |81,8    |92,7    |94,4    |

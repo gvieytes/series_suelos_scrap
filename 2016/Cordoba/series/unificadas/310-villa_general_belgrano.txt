@@ -13,7 +13,7 @@ El perfil tipico que responde a esta Serie, fue estudiado a 5 Km al Oeste de Vil
 2k	17 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arcillo limoso; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,1; fuerte reaccion al acido clorhidrico.
 
 Datos analiticos Serie VILLA GENERAL BELGRANO
-Situacion: Latitud: 31º56'S Longitud: 64º37'O - Altitud: 850 m.s.n.m.
+Situacion: Latitud: 31º56'S Longitud: 64º37'O Altitud: 850 m.s.n.m.
 |Horizonte                                                            |1       |2k      |
 |Profundidad de la muestra (cm)                                       |0-17    |17 a +  |
 |Materia Organica (%)                                                 |4,47    |        |

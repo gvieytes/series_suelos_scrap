@@ -1,0 +1,38 @@
+Serie EL SALTO
+Simbolo: ESt
+CLASIFICACION: Haplustol entico
+TPS: limosa gruesa a franca gruesa, mixta, termica
+Esta Serie representa a los suelos bien drenados a algo excesivamente de las lomas onduladas loessicas y pendientes locales medias y cortas de la Plataforma basculada o Pampa Alta. Es un suelos de incipiente desarrollo, el horizonte superficial u horizonte A de 23 cm de espesor con 20% de arcilla y 59,5% de limo, 1,9% materia organica y estructura en bloques. Sigue a continuacion hasta 55 cm una transicion (AC) masivo con tendencia a bloques, donde comienza el material originario con carbonatos de calcio libre diseminado moderadamente alcalino.
+UBICACION: a 4,5 km al SE de Corralito, departamento Tercero Arriba, provincia de Cordoba.
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo, pH 6,7; limite inferior claro, suave.
+AC	23-55 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo tendencia a estructura en bloques debiles; muy friable en humedo; ligeramente plastico; no adhesivo; vestigios de raices; pH 7,2; limite inferior abrupto
+Ck	55 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo; pH 8,0.
+Datos analiticos Serie EL SALTO
+LATITUD:32º03'50"
+LONGITUD:64º09'45"
+ALTITUD:448 m.s.n.m.
+|Horizonte                                                            |A       |AC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-23    |23-55   |55 a +  |
+|Materia Organica (%)                                                 |1,90    |        |        |
+|Carbono Organico (%)                                                 |1,1     |        |        |
+|Nitrogeno total (%)                                                  |0,11    |        |        |
+|Relacion C/N                                                         |10,0    |        |        |
+|Arcilla, <2 u (%)                                                    |20,2    |17,4    |15,5    |
+|Limo, 2-50 u (%)                                                     |59,3    |61,2    |59,8    |
+|Arena muy fina, 50-100 u (%)                                         |18,3    |21,1    |23,4    |
+|Arena fina, 100-250 u (%)                                            |0,7     |0,3     |0,5     |
+|Arena media, 250-500 u (%)                                           |0,2     |0,1     |0,2     |
+|Arena gruesa, 500-1000 u (%)                                         |0,1     |0,1     |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |4,7     |
+|Equivalente de humedad (%)                                           |21,1    |19,6    |18,7    |
+|pH en agua (1:2,5)                                                   |6,7     |7,2     |8,0     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,9    |14,6    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |0,9     |1,1     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,2     |0,9     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,0     |0,7     |        |
+|Sodio de intercambio, % (PSI)                                        |2,4     |2,2     |2,3     |
+|Suma de bases, meq/100 gr (S)                                        |15,7    |17,3    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,7    |18,0    |17,1    |
+|Saturacion con bases, % (S/T)                                        |94,0    |96,1    |        |

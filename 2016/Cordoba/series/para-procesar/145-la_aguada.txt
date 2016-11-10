@@ -1,0 +1,39 @@
+Serie LA AGUADA
+Simbolo: LAg
+CLASIFICACION: Hapludol entico
+TPS: franca gruesa, mixta, termica
+Se trata de suelos profundos y algo excesivamente drenados. Presentan incipiente desarrollo; el horizonte A de 17 cm de profundidad, es franco, con bajo tenor de materia organica, debilmente acido, y con agregados de moderada a debil estabilidad. Pasa transicionalmente (AC) a un horizonte C a los 40 cm, de textura franco arenosa.
+UBICACION: a 3,5 Km al NE de Rodeo Viejo, departamento Rio Cuarto, provincia de Cordoba.
+A	0-17 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo.
+AC	17-40 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; masivo a bloques debiles; friable en humedo; no plastico; no adhesivo.
+C	40 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
+Datos analiticos Serie LA AGUADA
+LATITUD:32º55'00"
+LONGITUD:64º38'30"
+ALTITUD:500 m.s.n.m.
+|Horizonte                                                             |A       |AC      |C       |
+|Profundidad de la muestra (cm)                                        |0-17    |17-40   |40 a +  |
+|Materia Organica (%)                                                  |1,03    |        |        |
+|Carbono Organico (%)                                                  |0,6     |        |        |
+|Nitrogeno total (%)                                                   |0,08    |        |        |
+|Relacion C/N                                                          |7,5     |        |        |
+|Arcilla, <2 u (%)                                                     |11,5    |9,9     |6,8     |
+|Limo, 2-50 u (%)                                                      |40,8    |40,0    |40,4    |
+|Arena muy fina, 50-100 u (%)                                          |45,0    |45,0    |48,5    |
+|Arena fina, 100-250 u (%)                                             |2,6     |2,8     |2,4     |
+|Arena media, 250-500 u (%)                                            |0,3     |0,4     |        |
+|Arena gruesa, 500-1000 u (%)                                          |0,4     |0,5     |0,4     |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |
+|Equivalente de humedad (%)                                            |12,0    |12,6    |10,4    |
+|pH en pasta                                                           |6,2     |6,4     |6,5     |
+|pH en agua (1:2,5)                                                    |6,3     |6,5     |6,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |11,1    |7,9     |7,1     |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |0,6     |1,9     |0,7     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,4     |0,4     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                              |1,1     |1,0     |0,7     |
+|Cationes de intercambio, meq/100 gr (H+)                              |0,6     |0,4     |0,4     |
+|Sodio de intercambio, % (PSI)                                         |2,9     |3,4     |4,3     |
+|Suma de bases, meq/100 gr (S)                                         |13,2    |11,2    |8,9     |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |13,8    |11,6    |9,3     |
+|Saturacion con bases, % (S/T)                                         |95,7    |96,6    |95,7    |

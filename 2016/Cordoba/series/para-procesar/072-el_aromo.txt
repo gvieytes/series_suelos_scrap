@@ -1,0 +1,41 @@
+Serie EL AROMO
+Simbolo: EAo
+CLASIFICACION: Endoacuol tipico
+TPS: franca gruesa, mixta, termica
+Es un suelo con drenaje moderado a imperfecto, moderadamente salino-alcalino en profundidad, desarrollado a partir de materiales franco arenosos a francos vinculados a planos deprimidos de influencia medanosa y a las aureolas de las cubetas y lagunas. La capa arable (horizonte A) de 15 cm de espesor, es de color negro, elevado contenido de materia organica, de textura franca y estructura en bloques. Luego pasa a un horizonte ligeramente mas arcilloso (B no textural), que se extiende hasta los 30 cm, de color pardo a pardo oscuro, estructura en prismas debiles y con escasos barnices humico-arcillosos en las caras de los agregados. La transicion al material originario (horizonte C) es gradual, encontrandose este a una profundidad de 75 cm, es un material franco arenoso, masivo y con calcareo en la masa y en concreciones. Se ha identificado fases moderadamente alcalina subsuperficial.
+UBICACION: a 13,6 Km al SO de Canals, departamento Union, provincia de Cordoba.
+A	0-15 cm; color en humedo negro (10YR2/1); franco; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+Bw	15-30 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en prismas irregulares medios debiles, rompe a bloques; friable en humedo; plastico; adhesivo; escasos barnices humico-arcillosos medios; moteados escasos, finos, precisos; limite inferior abrupto, suave.
+BCk	30-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios, debiles; friable en humedo; escasos barnices arcillosos muy finos; moteados escasos, medios y precisos; abundante calcareo en la masa y escasas concreciones; limite inferior claro, suave.
+Ck	75 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo en la masa y escasas concreciones.
+Datos analiticos Serie EL AROMO
+LATITUD:33º39'08"
+LONGITUD:62º59'12"
+ALTITUD:122 m.s.n.m.
+|Horizonte                                                            |A       |Bw      |BCk     |Ck      |
+|Profundidad de la muestra (cm)                                       |0-15    |15-30   |30-75   |75 a +  |
+|Materia Organica (%)                                                 |4,45    |1,79    |0,38    |0,14    |
+|Carbono Organico (%)                                                 |2,58    |1,04    |0,22    |0,08    |
+|Nitrogeno total (%)                                                  |0,24    |0,11    |0,04    |0,02    |
+|Relacion C/N                                                         |10,8    |9,5     |5,5     |4,0     |
+|Arcilla, <2 u (%)                                                    |18,0    |21,0    |        |        |
+|Limo, 2-50 u (%)                                                     |41,9    |39,1    |        |        |
+|Arena muy fina, 50-100 u (%)                                         |34,4    |34,8    |        |        |
+|Arena fina, 100-250 u (%)                                            |4,0     |4,1     |        |        |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |0,2     |5,0     |3,0     |
+|Equivalente de humedad (%)                                           |24,3    |25,9    |20,2    |16,2    |
+|pH en pasta                                                          |6,5     |7,5     |7,6     |7,8     |
+|pH en agua (1:2,5)                                                   |6,6     |7,6     |7,7     |7,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |17,8    |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7     |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |0,5     |        |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,0     |2,5     |0,7     |        |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,3     |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |1,7     |1,7     |3,1     |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |10,3    |
+|Suma de bases, meq/100 gr (S)                                        |21,9    |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |23,8    |23,2    |16,0    |15,2    |
+|Saturacion con bases, % (S/T)                                        |92      |        |        |        |

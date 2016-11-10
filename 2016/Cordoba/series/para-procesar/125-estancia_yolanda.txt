@@ -1,0 +1,39 @@
+Serie ESTANCIA YOLANDA 
+Simbolo: EYl
+CLASIFICACION: Haplustol tipico
+TPS: franca gruesa, mixta, termica 
+Este suelo se ha desarrollado sobre sedimentos fluviales de derrames distales y medios en ambientes suavemente ondulados, normalmente asociado a otros suelos fluviales situado en las proximidades de paleocauces y cauces actuales vinculados al sistema del rio Suquia (Primero). Presenta un horizonte A o capa arable de 20 cm con textura franca y estructura en bloques. Continua hacia abajo un horizonte debilmente desarrollado (Bw) con estructura de suelo (bloques debiles), con escasos barnices en las caras de los agregados y de textura franca, se extiende hasta 43 cm. Luego de una transicion, el material originario del suelo (C) aparece a 58 cm hasta mas de 80 cm de profundidad.
+UBICACION: a 14 km al Norte de la localidad de Santa Rosa de Rio Primero, departamento Rio Primero, provincia de Cordoba. 
+A	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2), franco, estructura en bloques subangulares medios moderados, friable en humedo, no plastico, no adhesivo, pH 7,5, raices comunes a abundantes, limite inferior claro suave.
+Bw	20-43 cm; color en humedo pardo oscuro (10YR3/3), franco, estructura en prismas y bloques debiles, friable en humedo, ligeramente plastico, no adhesivo, pH 7,6, barnices de arcilla escasos y finos, raices escasas, limite inferior claro.
+BC	43-55 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco; estructura en bloques debiles tendencia masiva, vestigios de barnices arcillosos, vestigios de raices, limite inferior abrupto ondulado.
+C	55 cm a +; color en humedo pardo amarillento oscuro a pardo amarillento (10YR4,5/4), franco a franco limoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 7,5.
+Datos analiticos Serie ESTANCIA YOLANDA
+LATITUD:31º01'31"
+LONGITUD:63º26'06"
+ALTITUD:143 m.s.n.m.
+|Horizonte                                                            |A     |Bw     |BC     |C       |
+|Profundidad de la muestra (cm)                                       |0-20  |20-43  |43-55  |55 a +  |
+|Materia Organica (%)                                                 |0,86  |1,21   |       |        |
+|Carbono Organico (%)                                                 |0,5   |0,7    |       |        |
+|Nitrogeno total (%)                                                  |0,07  |0,09   |       |        |
+|Relacion C/N                                                         |7,8   |8,1    |       |        |
+|Arcilla, <2 u (%)                                                    |22,0  |19,3   |12,9   |19,8    |
+|Limo, 2-50 u (%)                                                     |46,7  |45,0   |44,7   |48,9    |
+|Arena muy fina, 50-100 u (%)                                         |7,0   |6,8    |8,9    |7,8     |
+|Arena fina, 100-250 u (%)                                            |14,0  |14,7   |17,5   |14,1    |
+|Arena media, 250-500 u (%)                                           |8,5   |9,0    |11,4   |7,9     |
+|Arena gruesa, 500-1000 u (%)                                         |2,0   |2,4    |2,8    |0,8     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,3   |0,2    |0,2    |0,2     |
+|Carbonatos, CaCO3 (%)                                                |      |0,3    |       |        |
+|Equivalente de humedad (%)                                           |19,1  |19,3   |15,3   |17,9    |
+|pH en agua (1:2,5)                                                   |7,5   |7,6    |7,3    |7,5     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |11,8  |12,5   |8,4    |10,8    |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7   |1,4    |1,0    |1,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,2   |0,2    |0,2    |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                             |0,9   |1,1    |1,1    |0,8     |
+|Cationes de intercambio, meq/100 gr (H+)                             |      |       |0,6    |        |
+|Sodio de intercambio, % (PSI)                                        |1,2   |1,4    |1,6    |1,3     |
+|Suma de bases, meq/100 gr (S)                                        |14,7  |15,2   |10,6   |13,6    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |14,7  |15,2   |11,2   |13,6    |
+|Saturacion con bases, % (S/T)                                        |100   |100    |94,4   |100     |

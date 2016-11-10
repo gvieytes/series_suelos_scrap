@@ -1,0 +1,40 @@
+Serie LAS BAJADAS
+Simbolo: LBj
+CLASIFICACION: Argiustol tipico
+TPS: franca fina, mixta, termica
+Es un suelo bien drenado que ocupa las lineas de escurrimiento moderadamente manifiestas, normalmente de origen estructural, y algunos sectores de pie de loma en la Pampa Loessica Alta. Se encuentra, sobre el mismo material originario, normalmente asociado a otros suelos de la Serie El Salto y Corralito, esencialmente esta ultima, ocupando la Serie Las Bajadas la parte central de estos desagues. Tambien se puede encontrar asociada a la Serie San Jose en los laterales de los bajos.
+UBICACION: a 5 km al Sur de la localidad de Corralito, departamento Tercero Arriba, provincia de Cordoba.
+A	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices; raices comunes; pH 6,4; limite inferior claro, suave.
+Bt	20-49 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a bloques; friable en humedo; plastico; adhesivo; barnices comunes de arcilla y humus; raices comunes; pH 7; limite inferior claro, suave.
+BC	49-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco arcillo limoso; estructura en bloques y prismas debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; vestigios de raices; pH 7,5; limite inferior abrupto, ondulado.
+Ck	86 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; friable en humedo, violenta reaccion al ClH en la masa del suelo; pH 7,9.
+Datos analiticos Serie LAS BAJADAS
+LATITUD:31º42'29"
+LONGITUD:63º39'00"
+ALTITUD:450 m.s.n.m.
+|Horizonte                                                            |A       |Bt      |BC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-49   |49-86   |86 a +  |
+|Materia Organica (%)                                                 |2,41    |1,55    |1,03    |0,51    |
+|Carbono Organico (%)                                                 |1,4     |0,9     |0,6     |0,3     |
+|Nitrogeno total (%)                                                  |0,17    |        |        |        |
+|Relacion C/N                                                         |8,2     |        |        |        |
+|Arcilla, <2 u (%)                                                    |22,4    |28,7    |21,2    |15,7    |
+|Limo, 2-50 u (%)                                                     |68,4    |62,9    |69,6    |68,2    |
+|Arena muy fina, 50-100 u (%)                                         |8,1     |8,0     |8,6     |12,6    |
+|Arena fina, 100-250 u (%)                                            |0,6     |0,4     |0,7     |1,5     |
+|Arena media, 250-500 u (%)                                           |0,1     |        |0,2     |0,5     |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,2     |0,4     |1,5     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,2     |0,1     |0,2     |0,8     |
+|Carbonatos, CaCO3 (%)                                                |        |        |        |3,78    |
+|Equivalente de humedad (%)                                           |27,5    |30,5    |27,0    |24,3    |
+|pH en pasta                                                          |6,0     |6,6     |7,0     |7,9     |
+|pH en agua (1:2,5)                                                   |6,4     |7,0     |7,5     |8,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,0    |13,8    |13,5    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,5     |4,5     |3,9     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,4     |0,6     |0,5     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,0     |1,6     |2,2     |1,4     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,4     |0,6     |        |        |
+|Sodio de intercambio, % (PSI)                                        |2,0     |1,9     |3,0     |2,7     |
+|Suma de bases, meq/100 gr (S)                                        |18,9    |20,3    |20,2    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |20,3    |21,1    |20,0    |18,4    |
+|Saturacion con bases, % (S/T)                                        |93      |96      |100     |        |

@@ -1,0 +1,39 @@
+Serie ALMAFUERTE
+Simbolo: Aft
+CLASIFICACION: Haplustol tipico
+TPS: franca fina, mixta, termica
+Esta Serie se encuentra dominando en las terrazas altas de los rios Ctalamochita (Tercero) y Soconcho, es bien drenado, sobre un relieve suavemente ondulado a plano, desarrollado sobre sedimentos fluviales de textura franco limosa a franca. Presenta un horizonte superior o capa arable de 23 cm con un contenido de materia organica variable segun el manejo; el perfil modal tiene 1,5%. Posee 20% de arcilla y 38% de limo, el resto arena preferentemente media y gruesa; posee estructura en bloques moderados y color pardo grisaceo oscuro. Sigue a continuacion un horizonte B no textural (Bw) con estructura en bloques y prismas con barnices comunes en las caras de los agregados. Luego de una transicion (horizonte BC), a 90 cm aparece el material originario del suelo que es franco arenoso a franco, masivo, con laminillas de mica en el perfil como una evidencia que caracteriza a los depositos fluviales.
+UBICACION: a 6,2 km al ESE de la localidad de Almafuerte, departamento Calamuchita, provincia de Cordoba.
+A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; ligeramente adhesivo; pH 7,6; limite inferior claro suave; raices comunes a abundantes; limite inferior claro suave.
+Bw	23-55 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en prismas irregulares medios regulares y bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo, pH 7,7; barnices comunes finos; raices escasas; limite inferior gradual.
+BC	55-90 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; no plastico; no adhesivo; pH 7,6; barnices escasos y finos; limite inferior gradual.
+C	90 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a franco; masivo; no plastico; no adhesivo; pH 7,9; friable en humedo; se observa gravilla escasa.
+Datos analiticos Serie ALMAFUERTE
+LATITUD:32º11'28"
+LONGITUD:64º12'11"
+ALTITUD:400 m.s.n.m.
+|Horizonte                                                             |A       |Bw      |BC      |C       |
+|Profundidad de la muestra (cm)                                        |0-23    |23-55   |55-90   |90 a +  |
+|Materia Organica (%)                                                  |1,55    |0,69    |0,34    |        |
+|Carbono Organico (%)                                                  |0,9     |0,4     |0,2     |        |
+|Nitrogeno total (%)                                                   |0,14    |0,09    |        |        |
+|Relacion C/N                                                          |6,4     |4,0     |        |        |
+|Arcilla, <2 u (%)                                                     |19,9    |20,7    |20,1    |14,5    |
+|Limo, 2-50 u (%)                                                      |38,1    |33,0    |34,0    |26,7    |
+|Arena muy fina, 50-100 u (%)                                          |12,7    |9,7     |9,9     |12,6    |
+|Arena fina, 100-250 u (%)                                             |6,7     |7,8     |7,7     |9,6     |
+|Arena media, 250-500 u (%)                                            |10,2    |13,2    |13,3    |14,9    |
+|Arena gruesa, 500-1000 u (%)                                          |8,7     |11,4    |11,8    |12,9    |
+|Arena muy gruesa, 1-2 mm (%)                                          |3,8     |4,6     |4,5     |8,8     |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |
+|Equivalente de humedad (%)                                            |19,6    |18,7    |18,8    |16,2    |
+|pH en agua (1:2,5)                                                    |7,6     |7,7     |7,6     |7,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |11,2    |9,9     |9,7     |8,6     |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |1,8     |2,4     |2,4     |1,9     |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,1     |0,1     |0,1     |0,2     |
+|Cationes de intercambio, meq/100 gr (K+)                              |0,9     |0,6     |0,8     |0,7     |
+|H+ de cambio (meq/100 gr)                                             |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |0,7     |0,8     |0,8     |1,8     |
+|Suma de bases, meq/100 gr (S)                                         |14,0    |13,1    |13,0    |11,3    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,0    |13,1    |13,0    |11,3    |
+|Saturacion con bases, % (S/T)                                         |100     |100     |100     |100     |

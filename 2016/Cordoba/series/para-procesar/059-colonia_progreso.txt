@@ -1,0 +1,50 @@
+Serie COLONIA PROGRESO
+Simbolo: CPg
+CLASIFICACION: Natralbol tipico
+TPS: franca fina, mixta, termica
+Son suelos moderadamente bien drenados y de permeabilidad restringida, que se encuentran en areas deprimidas y de poco gradiente. El escurrimiento superficial es lento y, consecuentemente, el suelo se encharca en los periodos de lluvias. El perfil, desarrollado a partir de materiales franco limosos, presenta la siguiente sucesion de horizontes: un suelo superficial de 20 cm de espesor, bien provisto de materia organica y moderadamente estructurado (A) al cual sigue un horizonte de color claro y lavado (horizonte E) de 10 a 15 cm de espesor y muy pobre en humus. Despues de un limite abrupto, aparece el subsuelo de textura franco arcillo limosa con un 20% de su capacidad de intercambio dominada por sodio. Los materiales originarios estan a 120 cm de la superficie y son ricos en carbonatos libres en la masa (Ck). Algunos individuos de la Serie presentan sales solubles en profundidad, aunque dada la movilidad de estos elementos, las sales pueden aparecer a diferentes profundidades de acuerdo a la epoca del ano. Las limitaciones mas importantes son el drenaje impedido y el sodio, a los que se suma la baja fertilidad natural de la capa arable.
+UBICACION: a 11 km al Sur de la localidad de Isla Verde, departamento Marcos Juarez, provincia de Cordoba.
+A	0-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; limite inferior abrupto, ondulado.
+E	24-33 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco gris pardusco claro (10YR6/2); franco limoso; masivo con tendencia a estructura en bloques debiles; friable en humedo; moteados escasos finos y debiles; limite inferior abrupto, ondulado.
+Btn	33-64 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; estructura columnar media a gruesa moderada, rompe a prismas medios moderados; ligeramente firme en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes medios; moteados abundantes, finos y precisos; limite inferior claro, suave.
+BCn	64-124 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares y bloques debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos medios; moteados comunes, medios, debiles; escasos durinodulos; limite inferior abrupto, ondulado.
+Ck	124 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco limoso; masivo; friable en humedo; moteados comunes, medios, debiles; abundante calcareo libre en la masa del suelo.
+Datos Analiticos Serie COLONIA PROGRESO
+LATITUD:33º18'21"
+LONGITUD:62º18'41"
+ALTITUD:110,5 m.s.n.m.
+|Horizonte                                                             |A       |E       |Btn     |BCn     |Ck      |
+|Profundidad de la muestra (cm)                                        |0-24    |24-33   |33-64   |64-124  |124 a + |
+|Materia Organica (%)                                                  |3,07    |0,87    |0,51    |0,10    |0,12    |
+|Carbono Organico (%)                                                  |1,79    |0,51    |0,30    |0,06    |0,07    |
+|Nitrogeno total (%)                                                   |0,182   |0,070   |0,067   |        |        |
+|Relacion C/N                                                          |9,8     |7,2     |4,5     |        |        |
+|Arcilla, <2 u (%)                                                     |16,9    |13,2    |21,0    |17,1    |11,6    |
+|Limo, 2-50 u (%)                                                      |60,9    |63,6    |56,6    |55,7    |50,0    |
+|Arena muy fina, 50-100 u (%)                                          |22,3    |23,8    |20,4    |24,4    |34,2    |
+|Arena fina, 100-250 u (%)                                             |1,5     |0,5     |1,0     |1,1     |1,9     |
+|Arena media, 250-500 u (%)                                            |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                 |        |        |        |0,09    |2,77    |
+|Equivalente de humedad (%)                                            |23,7    |19      |31,1    |25,3    |18,5    |
+|pH en pasta                                                           |5,9     |6,5     |6,7     |8,1     |8,1     |
+|pH en agua (1:2,5)                                                    |6,1     |6,7     |7,1     |9,1     |9,1     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |8,7     |7,8     |12,0    |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |2,2     |2,3     |2,2     |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |0,3     |0,8     |4,5     |6,4     |        |
+|Cationes de intercambio, meq/100 gr (K+)                              |2,5     |1,6     |3,3     |4,6     |        |
+|Cationes de intercambio, meq/100 gr (H+)                              |        |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                         |1,7     |5,6     |19,9    |32,0    |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |        |5,79    |14,47   |
+|Suma de bases, meq/100 gr (S)                                         |13,7    |12,5    |21,9    |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |17,9    |14,2    |22,6    |20      |15,5    |
+|Saturacion con bases, % (S/T)                                         |76      |88      |96      |        |        |
+|C.EXT.S ME/l-Ca++                                                     |        |        |        |5,7     |15,0    |
+|C.EXT.S ME/l-Mg++                                                     |        |        |        |6,7     |10,0    |
+|C.EXT.S ME/l-Na+                                                      |        |        |        |52,0    |117,0   |
+|C.EXT.S ME/l-K+                                                       |        |        |        |1,9     |3,45    |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |        |4,6     |4,6     |
+|C.EXT.S ME/l-SO4=                                                     |        |        |        |33,6    |73,0    |
+|C.EXT.S ME/l-Cl-                                                      |        |        |        |28,4    |64,8    |

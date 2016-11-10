@@ -1,0 +1,48 @@
+Serie LAS ARRIAS
+Simbolo:
+CLASIFICACION: Haplustol entico
+TPS: franca gruesa, mixta, termica
+La Serie Las Arrias es un suelo bien drenado a algo excesivamente, debilmente desarrollado sobre materiales mixtos de textura franco limosa a franca. Es tipico de areas de derrames planas y en el borde oriental de la planicie fluvio eolica. La parte superficial del suelo (horizonte A) es de textura franco limosa a franca con estructura en bloques subangulares medios moderados a debiles. Le sigue un horizonte de transicion AC hasta 60 cm. El sustrato (C) es franco limoso a franco, presenta laminillas de mica finas, abundantes y material calcareo diseminado en la masa.
+UBICACION: a 7,5 km al Sur de la localidad de Las Arrias, departamento Tulumba, provincia de Cordoba.
+A	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco; estructura en bloques subangulares medios moderados; friable en humedo; pH 6,7; raices muy abundantes; limite inferior claro, suave.
+AC	20-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; pH 7,2; raices abundantes; limite inferior abrupto, suave.
+Ck	60 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; friable en humedo; pH 7,9; violenta reaccion al ClH en la masa del suelo; raices escasas.
+Datos analiticos Serie LAS ARRIAS
+LATITUD:30º27'00"
+LONGITUD:63º35'40"
+ALTITUD:178 m.s.n.m.
+|Horizonte                                                            |A       |AC      |Ck      |
+|Profundidad de la muestra (cm)                                       |0-20    |20-60   |60 a +  |
+|Materia Organica (%)                                                 |2,24    |1,03    |        |
+|Carbono Organico (%)                                                 |1,3     |0,60    |        |
+|Nitrogeno total (%)                                                  |0,12    |        |        |
+|Relacion C/N                                                         |10,8    |        |        |
+|Arcilla, < 2 u (%)                                                   |13,9    |13,5    |13,1    |
+|Limo, 2-50 u (%)                                                     |58,7    |64,7    |63,2    |
+|Arena muy fina, 50-100 u (%)                                         |11,1    |9,6     |8,4     |
+|Arena fina, 100-250 u (%)                                            |12,7    |9,5     |12,3    |
+|Arena media, 250-500 u (%)                                           |1,5     |1,6     |1,2     |
+|Arena gruesa, 500-1000 u, (%)                                        |1,1     |1,0     |0,7     |
+|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |0,1     |        |
+|Carbonatos, CaCO3 (%)                                                |        |        |3,4     |
+|Equivalente de humedad (%)                                           |23,4    |21,9    |21,5    |
+|pH en pasta                                                          |6,6     |7,0     |7,5     |
+|pH en agua (1:2,5)                                                   |6,7     |7,2     |7,9     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |12,3    |12,3    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,3     |1,5     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,4     |
+|Cationes de intercambio, meq/100 gr (K+)                             |1,6     |2,0     |1,9     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,3     |0,4     |        |
+|Sodio de intercambio, % (PSI)                                        |1,8     |1,8     |2,8     |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |4,50    |
+|Suma de bases, meq/100 gr (S)                                        |15,5    |16,1    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |17,0    |16,5    |14,1    |
+|Saturacion con bases, % (S/T)                                        |91      |97      |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |34,2    |
+|C.EXT.S ME/l-Mg++                                                    |        |        |15,3    |
+|C.EXT.S ME/l-Na+                                                     |        |        |10,8    |
+|C.EXT.S ME/l-K+                                                      |        |        |2,8     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |1,6     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |16,0    |
+|C.EXT.S ME/l-Cl-                                                     |        |        |43,8    |

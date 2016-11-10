@@ -1,0 +1,50 @@
+Serie LA FLORIDA
+Simbolo:
+CLASIFICACION: Natracualf tipico
+TPS: fina, illitica, termica
+Son suelos alcalino-sodicos, ligeramente salinos e imperfectamente drenados. Se han desarrollado a partir de sedimentos franco limosos y se vinculan geograficamente a los planos deprimidos del arroyo Tortugas. Los primeros 15 cm de suelo son de color pardo grisaceo oscuro, textura entre franca limosa y franca arcillo limosa y estructura en bloques. Luego pasa bruscamente a un horizonte mas arcilloso (Bt) de color pardo a pardo oscuro, estructura prismatica y abundantes moteados que senalan condiciones hidromorficas. A partir de los 96 cm, estos suelos muestran un horizonte cementado formando un "duripan". Por lo general, estan destinados a pasturas ya que la acumulacion de las limitaciones mencionadas no los hace aptos para los cultivos comunes en la zona. Ocupan manchones de tamano variable en unidades cartograficas compuestas, comunmente asociado con suelos de las Series Colonia Mendiguren y Arroyo Tortugas.
+UBICACION: a 12,5 Km al Oeste de la localidad de Montes de Oca, departamento Belgrano, provincia de Santa Fe.
+A	0-15 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); color en seco gris pardusco claro (10YR6/2); franco arcillo limoso a franco limoso; estructura en bloques angulares y subangulares medios moderados; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados comunes, finos y precisos; limite inferior abrupto, suave.
+Btn	15-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas irregulares medios moderados, rompen en bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" muy abundantes, medios y gruesos; moteados abundantes, finos a medios y precisos; escasas concreciones calcareas finas; limite inferior gradual, suave.
+Btn2	52-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; estructura en prismas irregulares medios debiles y bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes, medios; moteados abundantes, medios y precisos; escasas concreciones calcareas finas; limite inferior gradual, suave.
+BC	72-96 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" escasos y finos; moteados abundantes, finos y precisos; abundantes durinodulos gruesos; concreciones calcareas escasas y finas; limite inferior abrupto, ondulado.
+BCm	96 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso a franco limoso; cementado; duro; ligeramente plastico; ligeramente adhesivo; escasas concreciones calcareas finas; barnices "Clay Skins" escasos y finos; moteados comunes, finos y precisos.
+Datos Analiticos Serie LA FLORIDA
+LATITUD:32º34'
+LONGITUD:61º54'
+ALTITUD:79 m.s.n.m.
+|Horizonte                                                            |A       |Btn     |Btn2    |BC      |BCm     |
+|Profundidad de la muestra (cm)                                       |0-15    |15-52   |52-72   |72-96   |96 a +  |
+|Materia Organica (%)                                                 |4,04    |1,66    |0,82    |0,59    |0,59    |
+|Carbono Organico (%)                                                 |2,35    |0,97    |0,48    |0,34    |0,34    |
+|Nitrogeno total (%)                                                  |0,185   |0,102   |0,068   |0,067   |0,062   |
+|Relacion C/N                                                         |12,7    |10,2    |7,0     |5,0     |5,4     |
+|Arcilla, <2 u (%)                                                    |28,0    |37,2    |34,5    |32,5    |28,6    |
+|Limo, 2-50 u (%)                                                     |70,0    |61,9    |65,2    |59,4    |68,1    |
+|Arena muy fina, 50-100 u (%)                                         |1,7     |1,1     |0,6     |5,0     |2,2     |
+|Arena fina, 100-250 u (%)                                            |0,2     |0,5     |0,5     |2,0     |1,2     |
+|Arena media, 250-500 u (%)                                           |        |        |        |        |        |
+|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |
+|Carbonatos, CaCO3 (%)                                                |        |0,6     |        |        |0,22    |
+|Equivalente de humedad (%)                                           |38,2    |47,6    |43,4    |44,8    |40,1    |
+|pH en pasta                                                          |6,9     |7,7     |7,7     |7,7     |7,6     |
+|pH en agua (1:2,5)                                                   |7,0     |8,1     |8,1     |8,2     |8,3     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |13,4    |        |17,8    |18,7    |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |3,8     |        |3,9     |2,5     |        |
+|Cationes de intercambio, meq/100 gr (Na+)                            |2,1     |0,6     |4,1     |3,2     |2,7     |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,3     |1,4     |2,9     |3,0     |2,1     |
+|Cationes de intercambio, meq/100 gr (H+)                             |1,6     |        |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |9,2     |1,8     |14,3    |12,3    |12,6    |
+|Conductividad, mmhos/cm (extracto de saturacion)                     |        |2,2     |3,0     |5,2     |4,1     |
+|Suma de bases, meq/100 gr (S)                                        |21,6    |        |28,7    |26,8    |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,9    |33,6    |28,7    |26,0    |21,4    |
+|Saturacion con bases, % (S/T)                                        |94,3    |        |100     |100     |        |
+|C.EXT.S ME/l-Ca++                                                    |        |        |        |9,4     |5,4     |
+|C.EXT.S ME/l-Mg++                                                    |        |        |        |8,6     |5,6     |
+|C.EXT.S ME/l-Na+                                                     |        |        |        |42,0    |40,0    |
+|C.EXT.S ME/l-K+                                                      |        |        |        |0,8     |0,9     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |        |        |        |3,0     |1,5     |
+|C.EXT.S ME/l-SO4=                                                    |        |        |        |43,8    |43,8    |
+|C.EXT.S ME/l-Cl-                                                     |        |        |        |15,0    |6,0     |

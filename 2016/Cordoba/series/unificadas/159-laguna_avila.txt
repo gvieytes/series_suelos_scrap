@@ -20,7 +20,7 @@ Btnz	60-88 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, e
 BCkm	88 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; debilmente cementado; concreciones calcareas muy abundantes y gruesas; moteados comunes, medios, precisos y sobresalientes.
 
 Datos analiticos Serie LAGUNA AVILA
-Situacion: Latitud: 32º26'41"S - Longitud: 62º48'30"O - Altitud: 136 m.s.n.m.
+Situacion: Latitud: 32º26'41"S Longitud: 62º48'30"O Altitud: 136 m.s.n.m.
 |Horizonte                                                             |En      |Btn     |Btn2    |Btnz    |BCkm    |
 |Profundidad de la muestra (cm)                                        |0-23    |23-43   |43-60   |60-88   |88 a +  |
 |Materia Organica (%)                                                  |0,79    |0,75    |0,46    |0,24    |0,19    |

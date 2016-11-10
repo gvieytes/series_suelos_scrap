@@ -1,0 +1,48 @@
+Serie EL SILENCIO
+Simbolo: ESi
+CLASIFICACION: Natracualf molico
+TPS: franca fina, mixta, termica
+La Serie El Silencio es un suelo oscuro, pobremente drenado, que ocupa las planicies de inundacion del actual cauce del rio Dulce y los paleocauces mas deprimidos de los bordes orientales de la planicie aluvial de La Rinconada (areas de transicion). Tiene la capa muy proxima a la superficie en la mayoria de los perfiles estudiados, con salinidad y alcalinidad moderada a partir del horizonte superior (A). Este suelo es muy susceptible de sufrir inundaciones de larga duracion por los periodicos desbordes del rio Dulce. La vegetacion dominante y casi exclusiva es el espartillo (hidrohalofita) que soporta condiciones extremas de hidromorfismo ademas de la alcalinidad. Tiene un horizonte superior (A) de 14 cm, es de color pardo grisaceo muy oscuro, textura franco limosa a franca, moderadamente salino alcalino, con 14% de arcilla. Le sigue hasta 32 cm un horizonte mas arcilloso (B textural) con 17% de sodio de intercambio, textura franco arcillosa a franca con 29,6% de arcilla. Luego comienza un horizonte de transicion (BCk) con reaccion al ClH en la masa del suelo saturado con la capa freatica. El escurrimiento es muy lento a estancado y la alcalinidad se mantiene constante en todo el perfil con caracter moderado. Aparentemente los suelos de esta Serie se diferencian de los dominantes del primer Saladillo (Serie El Saladillo) porque ademas de tener mayor peligro de anegamiento tienen menor alcalinidad y/o salinidad. La presencia ciclica de agua dulce impediria que estos procesos lleguen a terminos extremos. En los perfiles correspondientes a esta Serie se han observado variaciones muy notables con respecto al espesor del horizonte A de 7 a 16 cm. Algunos perfiles pueden tener moderada a fuerte salinidad superficial.
+UBICACION: a 14 Km al Oeste del paraje denominado Pozo Verde, en el departamento Tulumba, provincia de Cordoba.
+A	0 - 14 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares tendencia laminar; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados comunes gruesos y sobresalientes; raices muy abundantes; limite inferior claro, suave; pseudomicelios salinos en superficie.
+Btn	14 - 32 cm; color en humedo pardo oscuro (10YR3/3); franco arcilloso a franco; estructura en prismas irregulares medios moderados rompe a prismas; friable en humedo; muy plastico; adhesivo; barnices humico arcillosos abundantes medios; raices abundantes; reaccion en puntos al ClH en la masa del suelo; limite inferior claro.
+BCk	32 cm a +; franco arcilloso a franco; plastico; adhesivo; violenta reaccion al ClH en la masa del suelo; presencia de la capa freatica.
+Datos analiticos Serie EL SILENCIO
+LATITUD:30º22'45"
+LONGITUD:63º07'30"
+ALTITUD:70 m.s.n.m.
+|Horizonte                                                             |A       |Btn     |BCk     |
+|Profundidad de la muestra (cm)                                        |0-14    |14-32   |32 a +  |
+|Materia Organica (%)                                                  |3,01    |        |        |
+|Carbono Organico (%)                                                  |1,75    |        |        |
+|Nitrogeno total (%)                                                   |0,18    |0,10    |        |
+|Relacion C/N                                                          |9,7     |        |        |
+|Arcilla, <2 u (%)                                                     |14,6    |29,6    |27,1    |
+|Limo, 2-50 u (%)                                                      |52,8    |44,9    |48,4    |
+|Arena muy fina, 50-100 u (%)                                          |20,6    |15,7    |13,8    |
+|Arena fina, 100-250 u (%)                                             |12,2    |10,4    |10,9    |
+|Arena media, 250-500 u (%)                                            |0,6     |0,2     |0,4     |
+|Arena gruesa, 500-1000 u (%)                                          |        |        |0,1     |
+|Arena muy gruesa, 1-2 mm (%)                                          |        |        |0,1     |
+|Carbonatos, CaCO3 (%)                                                 |        |0,5     |8,1     |
+|Equivalente de humedad (%)                                            |23,6    |29,2    |16,3    |
+|pH en pasta                                                           |7,0     |7,7     |8,0     |
+|pH en agua (1:2,5)                                                    |7,4     |8,0     |8,6     |
+|Cationes de intercambio, meq/100 gr (Ca++)                            |        |        |        |
+|Cationes de intercambio, meq/100 gr (Mg++)                            |        |        |        |
+|Cationes de intercambio, meq/100 gr (Na+)                             |        |        |        |
+|Cationes de intercambio, meq/100 gr (K+)                              |        |        |        |
+|Cationes de intercambio, meq/100 gr (H+)                              |0,3     |        |        |
+|Sodio de intercambio, % (PSI)                                         |        |        |        |
+|Conductividad, mmhos/cm (extracto de saturacion)                      |9,8     |9,0     |13,5    |
+|Suma de bases, meq/100 gr (S)                                         |        |        |        |
+|Capacidad de intercambio cationico, meq/100 gr (T)                    |15,3    |21,1    |17,3    |
+|Saturacion con bases, % (S/T)                                         |        |        |        |
+|C.EXT.S ME/l-Ca++                                                     |35,2    |32,1    |36,7    |
+|C.EXT.S ME/l-Mg++                                                     |7,65    |7,65    |6,12    |
+|C.EXT.S ME/l-Na+                                                      |76,0    |78,0    |116,0   |
+|C.EXT.S ME/l-K+                                                       |1,4     |1,0     |1,0     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |4,8     |3,2     |4,8     |
+|C.EXT.S ME/l-SO4=                                                     |46,3    |73,4    |53,3    |
+|C.EXT.S ME/l-Cl-                                                      |67,2    |43,2    |78,4    |

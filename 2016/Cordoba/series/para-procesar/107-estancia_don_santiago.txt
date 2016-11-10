@@ -1,0 +1,39 @@
+Serie ESTANCIA DON SANTIAGO
+Simbolo:
+CLASIFICACION: Natrustalf tipico
+TPS: franca fina, mixta, termica
+Este suelo se ha desarrollado sobre sedimentos fluviales o aluviales en derrames y terrazas altas o intermedias vinculadas al rio Suquia (Primero) en las proximidades de la localidad homonima Se encuentra limitado severamente por la presencia de horizontes degradados superficialmente, alcalinidad sodica y drenaje deficiente. Ocupa sectores identificados en el relieve como "bajos" o bien en planos suavemente deprimidos con escurrimiento lento. Normalmente estan vinculados geograficamente a otros suelos de mejor aptitud formando complejos; que se advierten como manchas mas claras en las fotos aereas coincidiendo en el terreno con muy debil desarrollo de la vegetacion natural o antropica. Presenta un horizonte E (A degradado) desde a superficie que se extiende hasta 14 cm de espesor, con color claro, textura franco limosa, estructura masiva a laminar debil con tendencia a bloques y es un horizonte ligeramente alcalino en perfil modal. Continua hacia abajo un horizonte subsuperficial enriquecido en arcillas fuertemente sodicas que se extiende hasta la profundidad de 50 cm. Continua hacia abajo una transicion hacia el material parental (loess) tambien fuertemente alcalino sodico (BC), que se extiende aproximadamente hasta 75 cm de profundidad.
+UBICACION: a 9 km al NE de la localidad de Rio Primero, departamento del mismo nombre, provincia de Cordoba.
+En	0-14 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2), franco limoso, masivo con tendencia a bloques, ligeramente firme en humedo, no plastico, no adhesivo, pH 7,7, raices escasas, limite inferior abrupto ondulado.
+Btn	14-50 cm; color en humedo pardo oscuro (10YR3/3), franco arcillo limoso, estructura en prismas irregulares medios moderados a fuertes, ligeramente firme en humedo, plastico, adhesivo, pH 9,3, barnices humico arcillosos comunes a abundantes en las caras de los agregados, vestigios de raices, limite inferior gradual.
+BCn	50-75 cm; color en humedo pardo amarillento oscuro (10YR4/4), franco arcillo limoso a franco limoso, estructura en prismas y bloques debiles a masivo, friable en humedo, no plastico, no adhesivo, pH 9,4, escasos barnices medios de arcilla y humus, limite inferior gradual.
+C	75 cm a +; color en humedo pardo amarillento (10YR5/4), franco limoso (campana), masivo, muy friable en humedo, no plastico, no adhesivo, pH mayor de 8,3 (campana).
+Datos analiticos Serie ESTANCIA DON SANTIAGO
+LATITUD:31º17'34"
+LONGITUD:63º31'17"
+ALTITUD:220 m.s.n.m.
+|Horizonte                                                            |En      |Btn     |BCn     |
+|Profundidad de la muestra (cm)                                       |0-14    |14-50   |50-75   |
+|Materia Organica (%)                                                 |2,24    |0,69    |        |
+|Carbono Organico (%)                                                 |1,3     |0,4     |        |
+|Nitrogeno total (%)                                                  |0,13    |0,06    |        |
+|Relacion C/N                                                         |10,1    |6,7     |        |
+|Arcilla, <2 u (%)                                                    |28,0    |35,0    |31,1    |
+|Limo, 2-50 u (%)                                                     |58,5    |47,6    |46,1    |
+|Arena muy fina, 50-100 u (%)                                         |8,5     |10,5    |14,9    |
+|Arena fina, 100-250 u (%)                                            |4,1     |3,9     |8,3     |
+|Arena media, 250-500 u (%)                                           |0,4     |0,1     |0,1     |
+|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,1     |        |
+|Arena muy gruesa, 1-2 mm (%)                                         |        |0,1     |        |
+|Carbonatos, CaCO3 (%)                                                |0,3     |1,1     |0,7     |
+|Equivalente de humedad (%)                                           |29,3    |33,9    |31,4    |
+|pH en agua (1:2,5)                                                   |7,7     |9,3     |9,4     |
+|Cationes de intercambio, meq/100 gr (Ca++)                           |8,9     |9,3     |7,0     |
+|Cationes de intercambio, meq/100 gr (Mg++)                           |1,8     |2,2     |1,4     |
+|Cationes de intercambio, meq/100 gr (Na+)                            |2,6     |11,4    |12,0    |
+|Cationes de intercambio, meq/100 gr (K+)                             |2,3     |2,3     |2,2     |
+|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |
+|Sodio de intercambio, % (PSI)                                        |16,4    |45,4    |53,0    |
+|Suma de bases, meq/100 gr (S)                                        |15,6    |25,2    |22,7    |
+|Capacidad de intercambio cationico, meq/100 gr (T)                   |15,6    |25,2    |22,7    |
+|Saturacion con bases, % (S/T)                                        |100     |100     |100     |

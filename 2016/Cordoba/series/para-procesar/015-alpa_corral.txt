@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
 La Serie representa perfiles de suelos bien drenados, que se han desarrollado a partir de materiales loessicos franco limosos y se vincula a relieves de lomas onduladas. Es un suelo de incipiente desarrollo; la capa arable (A) de 24 cm de profundidad, tiene un contenido de materia organica de 1,9%, es debilmente acido y posee agregados de moderada estabilidad. Pasa transicionalmente (AC) a un horizonte C a 56 cm, encontrandose los carbonatos libres en la masa del suelo a partir de 75 cm.
 UBICACION: a 6,75 km al SE de Rio de los Sauces, departamento Calamuchita, provincia de Cordoba.
-A	0-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 AC	24-56 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior gradual suave.
 C	56-75 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto.
 Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; fuerte a violenta reaccion al clorhidrico por la presencia de CO3Ca diseminado en la masa del suelo.

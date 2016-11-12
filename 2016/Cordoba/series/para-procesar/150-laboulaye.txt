@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol udorthentico
 TPS: franca gruesa, mixta, termica
 Estos suelos se encuentran vinculados a lomas planas y ligeramente onduladas. Presentan un buen drenaje interno a algo excesivo y se han desarrollado a partir de sedimentos eolicos de textura franco arenosa. Los primeros 25 cm (horizonte A) que constituye la capa arable, es de color pardo grisaceo muy oscuro, estructura en bloques y moderado contenido de materia organica. El material originario (horizonte C) se encuentra a 55 cm de profundidad, es de textura franco arenosa y muy friable. Este suelo tiene limitaciones ligeras climaticas y por retencion de humedad.
 UBICACION: a 18,2 Km al NO de Villa Rossi, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
-Ap	0-15 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios y finos, debiles; friable en humedo; limite inferior abrupto, suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 A	15-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares, medios y debiles; friable en humedo; limite inferior claro, suave.
 AC	25-55 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; masivo; muy friable en humedo; limite inferior gradual.
 C	55 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo.

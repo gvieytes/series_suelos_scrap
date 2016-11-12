@@ -4,7 +4,7 @@ CLASIFICACION: Hapludol fluventico
 TPS: franca gruesa, mixta, termica
 Es un suelo algo excesivamente bien drenado, relacionado con ambientes bajos alargados. El horizonte A tiene un espesor de 34 cm con moderadamente alto contenido de materia organica (5,22%), de textura franco arenosa y estructura en bloques debiles. Se continua con otra capa un horizonte 2A, franco arenoso y estructura en bloques debiles. Todo el perfil presenta escasa gravilla. La pendiente dominante es del 10 al 25%, con escurrimiento muy rapido, permeabilidad moderadamente rapida y sin peligro de anegamiento.
 UBICACION: a 8 km al SO de Villa Yacanto de Calamuchita, departamento Calamuchita, provincia de Cordoba.
-A	0-34 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; pH 5,6; muy abundantes raices; limite inferior claro suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 2A	34 cm a +; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; estructura en bloques subangulares muy debiles; friable en humedo; pH 6,4; abundantes raices.
 Datos analiticos Serie CALAMUCHITA V
 LATITUD:S321000

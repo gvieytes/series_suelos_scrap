@@ -4,7 +4,7 @@ CLASIFICACION: Udifluvent tipico
 TPS: esqueletica, franca, mixta, termica
 Es un suelo sin desarrollo de perfil genetico, de origen fluvial y relacionado a sectores bajos. Se trata de una sucesion de capas calcicas de texturas variadas, siendo la primera rica en materia organica (4,9%) teniendo una potencia de 16 cm.
 UBICACION: a 6 km al NO de la localidad de Los Reartes, departamento Santa Maria, provincia de Cordoba.
-1k	0-16 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios debiles; blando en seco; pH 8,2; fuerte reaccion al ClH en la masa del suelo; limite inferior abrupto, suave.
+COLOR: color en humedo pardo oscuro (10YR3/3)
 2k	16-33 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios debiles; presencia de gravilla; ligeramente firme en humedo; pH 8,5; fuerte reaccion al ClH en la masa del suelo; limite inferior abrupto, suave.
 3k	33 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; presencia de roca alterada; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,5; fuerte reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LOS REARTES

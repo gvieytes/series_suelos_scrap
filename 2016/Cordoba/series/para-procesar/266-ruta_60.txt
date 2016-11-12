@@ -4,7 +4,7 @@ CLASIFICACION: Argiustol litico paralitico
 TPS: franca fina a franca gruesa, mixta, termica
 La Serie Ruta 60 es un suelo bien drenado y desarrollado subsuperficialmente con enriquecimiento de arcilla, tiene contacto con roca semialterada de conglomerados dentro del metro de profundidad. El material parental del suelo corresponde a derrames fluviales, ocupando las pequenas pendientes cortas con gradientes mayores al 1% (susceptibilidad a la erosion). Presenta un horizonte A de 22 cm, de color oscuro, con 2,1% de materia organica y 12% de arcilla, de textura franco arenosa. Continua hacia abajo un horizonte enriquecido en arcillas iluviales (19%), con estructura en prismas irregulares medios y barnices comunes de arcilla y humus en las caras de los agregados. Tiene textura franco arenosa a franca y se extiende hasta 50 cm de profundidad. Hacia abajo se encuentran las rocas sedimentarias conglomeradicas parcialmente alteradas.
 UBICACION: a 6 km al Norte de Sarmiento, departamento Ischilin, provincia de Cordoba.
-A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 6,7; raices comunes; limite inferior claro, suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 Bt	22-50 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 7,2; barnices (clhm) medios; raices escasas; limite inferior claro.
 2R	50 cm a +; roca sedimentaria moderadamente alterada (conglomerados).
 Datos analiticos Serie RUTA 60

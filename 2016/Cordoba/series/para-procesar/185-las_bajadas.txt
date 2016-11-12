@@ -4,7 +4,7 @@ CLASIFICACION: Argiustol tipico
 TPS: franca fina, mixta, termica
 Es un suelo bien drenado que ocupa las lineas de escurrimiento moderadamente manifiestas, normalmente de origen estructural, y algunos sectores de pie de loma en la Pampa Loessica Alta. Se encuentra, sobre el mismo material originario, normalmente asociado a otros suelos de la Serie El Salto y Corralito, esencialmente esta ultima, ocupando la Serie Las Bajadas la parte central de estos desagues. Tambien se puede encontrar asociada a la Serie San Jose en los laterales de los bajos.
 UBICACION: a 5 km al Sur de la localidad de Corralito, departamento Tercero Arriba, provincia de Cordoba.
-A	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices; raices comunes; pH 6,4; limite inferior claro, suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 Bt	20-49 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a bloques; friable en humedo; plastico; adhesivo; barnices comunes de arcilla y humus; raices comunes; pH 7; limite inferior claro, suave.
 BC	49-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco arcillo limoso; estructura en bloques y prismas debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; vestigios de raices; pH 7,5; limite inferior abrupto, ondulado.
 Ck	86 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; friable en humedo, violenta reaccion al ClH en la masa del suelo; pH 7,9.

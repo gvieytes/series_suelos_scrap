@@ -4,7 +4,7 @@ CLASIFICACION: Ustipsamment tipico
 TPS: arenosa, mixta, termica
 Este suelo es excesivamente drenado con desarrollo muy incipiente en las terrazas de los rios Santa Catalina, Ascochinga y otros menores. Ocupa normalmente la parte alta de un mesorelieve fluvial, conformando pequenas subunidades longitudinales de pocas decenas de metros de ancho correspondientes a antiguos depositos de albardon que integran las terrazas. Los materiales originarios son arenosos, normalmente con arenas sueltas limpias de cauce en profundidad. El escurrimiento es medio, la permeabilidad rapida y la pendiente local (mesorrelieve) puede llegar al 2% y el gradiente general de las unidades cartograficas mixtas que conforman no es mayor a 1%. Las limitantes son muy baja retencion de humedad, drenaje excesivo y clima.
 UBICACION: a 4,9 km al Oeste de la ciudad de Jesus Maria, departamento Totoral, provincia de Cordoba.
-Ap	0-12 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); areno franco; estructura en bloques subangulares medios debiles; limite inferior abrupto, suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 A	12-49 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); areno franco; estructura en bloques subangulares medios moderados; limite inferior abrupto, ondulado.
 2	49 cm a +; arenoso; suelto.
 Datos analiticos Serie PUERTA DE HIERRO II

@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol entico
 TPS: limosa gruesa, mixta, termica
 Son suelos profundos, bien a algo excesivamente drenados, desarrollados sobre materiales franco limosos que ocupan las lomas muy extendidas, casi planas. La capa arable o suelo superficial (horizonte A) tiene 23 cm de espesor, de textura franco limosa y estructura en bloques moderados, regularmente provisto de materia organica. Luego de un horizonte transicional, se alcanza el material originario (Ck) a los 55 cm de profundidad, de textura franco limosa, masivo y abundante material calcareo pulverulento diseminado en la masa del suelo. Los suelos de esta Serie muestran una moderada limitacion climatica, derivada del regimen de precipitacion bajo el cual se encuentran. Estos suelos no presentan otros impedimentos que condicionen el crecimiento de las plantas. La reaccion en todo el perfil es de ligeramente acida a neutra.
 UBICACION: a 6,4 Km al SO de la localidad de Oncativo, departamento Rio Segundo, provincia de Cordoba.
-A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; abundantes raices; limite inferior claro, suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 AC	23-53 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco limoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
 Ck	53 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; fuerte reaccion al acido clorhidrico en la masa del suelo.
 Datos analiticos Serie ONCATIVO

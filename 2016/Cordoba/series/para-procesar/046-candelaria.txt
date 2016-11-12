@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol tipico
 TPS: limosa fina, mixta, termica
 Es un suelo ligeramente desarrollado sobre sedimentos eolicos (loess) en las pendientes regionales de la pampa loessica alta; el drenaje es moderado, siendo la unica limitante significativa la climatica. Tiene un horizonte A de 22 cm franco limoso a franco arcillo limoso y estructura en bloques. Continua un horizonte subsuperficial con estructura en prismas y bloques debiles (Bw). El material originario con calcareo diseminado en la masa del suelo se encuentra a 76 cm.
 UBICACION: a 7 km al SO de Candelaria, departamento Totoral, provincia de Cordoba.
-A	0-22 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6; raices muy abundantes; limite inferior claro.
+COLOR: color en humedo pardo oscuro (10YR3/3)
 Bw	22-45 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso a franco limoso; estructura en prismas y bloques debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,8; barnices escasos a comunes; limite inferior gradual.
 BC	45-76 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso a franco limoso; estructura en bloques debiles; friable en humado; ligeramente plastico, ligeramente adhesivo; pH 6,9; vestigios de barnices; raices escasas; limite inferior abrupto.
 Ck	76 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moderada reaccion al acido clorhidrico.

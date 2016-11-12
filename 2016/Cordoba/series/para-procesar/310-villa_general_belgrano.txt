@@ -4,7 +4,7 @@ CLASIFICACION: Hapludol entico
 TPS: franca fina, mixta, termica
 Se trata de un suelo sin desarrollo de perfil genetico, vinculado a pendientes alargadas y desarrollado a partir de materiales franco arcillo limosos. La capa 1, rica en materia organica (4,47%), es de textura franco arcillo limosa, estructura en bloques subangulares medios moderados y tiene una potencia de 17 cm. Se continua con otra capa de textura franca a franco arcillo limosa con abundante carbonato de calcio diseminado en la masa del suelo.
 UBICACION: a 5 Km al Oeste de Villa General Belgrano, departamento Calamuchita, provincia de Cordoba.
-1	0-17 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en bloques subangulares medios, moderados; friable en humedo; plastico; adhesivo; pH 7,1; raices abundantes; limite inferior abrupto, suave.
+COLOR: color en humedo pardo amarillento oscuro (10YR3/4)
 2k	17 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arcillo limoso; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,1; fuerte reaccion al acido clorhidrico.
 Datos analiticos Serie VILLA GENERAL BELGRANO
 LATITUD:S315600

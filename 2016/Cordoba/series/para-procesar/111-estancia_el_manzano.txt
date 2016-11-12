@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol litico paralitico
 TPS: franca gruesa, mixta, termica
 Es un suelo ampliamente difundido sobre los sedimentos parcialmente litificados conglomeradicos en serranias y mogotes aislados (de edad posiblemente Cretacica) con pendientes que oscilan entre 3 a 10%; esta ubicado en las serranias donde los valores de la pendiente son menores dentro del sector serrano. Presenta un horizonte A de 30 cm de espesor de color oscuro, franco arenoso grueso con 9% de arcilla y estructura en bloques. Continua hacia abajo el material parental del suelo correspondiente a facies de conglomerados (Cretacico) donde se puede penetrar con herramientas manuales y pueden explorar las raices aunque con cierta dificultad. Las limitantes son profundidad efectiva, baja retencion de humedad, muy alta susceptibilidad a la erosion hidrica; la profundidad del horizonte superior es muy variable (oscila entre 20 a 35 cm).
 UBICACION: a 7 km al Norte del paraje Barranca Yaco, departamento Totoral, provincia de Cordoba.
-A	0-30 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; raices comunes; limite inferior claro.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 R	30 cm a +; rocas sedimentarias parcialmente alteradas (contacto paralitico).
 Datos analiticos Serie ESTANCIA EL MANZANO
 LATITUD:S304513

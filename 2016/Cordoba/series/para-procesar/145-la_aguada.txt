@@ -4,7 +4,7 @@ CLASIFICACION: Hapludol entico
 TPS: franca gruesa, mixta, termica
 Se trata de suelos profundos y algo excesivamente drenados. Presentan incipiente desarrollo; el horizonte A de 17 cm de profundidad, es franco, con bajo tenor de materia organica, debilmente acido, y con agregados de moderada a debil estabilidad. Pasa transicionalmente (AC) a un horizonte C a los 40 cm, de textura franco arenosa.
 UBICACION: a 3,5 Km al NE de Rodeo Viejo, departamento Rio Cuarto, provincia de Cordoba.
-A	0-17 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo.
+COLOR: color en humedo pardo oscuro (10YR3/3)
 AC	17-40 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; masivo a bloques debiles; friable en humedo; no plastico; no adhesivo.
 C	40 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie LA AGUADA

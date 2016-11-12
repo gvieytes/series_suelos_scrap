@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol entico
 TPS: limosa gruesa a franca gruesa, mixta, termica
 Esta Serie representa a los suelos bien drenados a algo excesivamente de las lomas onduladas loessicas y pendientes locales medias y cortas de la Plataforma basculada o Pampa Alta. Es un suelos de incipiente desarrollo, el horizonte superficial u horizonte A de 23 cm de espesor con 20% de arcilla y 59,5% de limo, 1,9% materia organica y estructura en bloques. Sigue a continuacion hasta 55 cm una transicion (AC) masivo con tendencia a bloques, donde comienza el material originario con carbonatos de calcio libre diseminado moderadamente alcalino.
 UBICACION: a 4,5 km al SE de Corralito, departamento Tercero Arriba, provincia de Cordoba.
-A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo, pH 6,7; limite inferior claro, suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 AC	23-55 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo tendencia a estructura en bloques debiles; muy friable en humedo; ligeramente plastico; no adhesivo; vestigios de raices; pH 7,2; limite inferior abrupto
 Ck	55 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo; pH 8,0.
 Datos analiticos Serie EL SALTO

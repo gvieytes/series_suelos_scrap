@@ -4,7 +4,7 @@ CLASIFICACION: Ustipsamment tipico
 TPS: arenosa, mixta, termica
 La Serie Huinca Renanco es un suelo excesivamente drenado, desarrollado sobre materiales arenosos, vinculados a las convexidades de las lomas medanosas onduladas y con pendientes del 1% o mayores. La capa arable (horizonte A) de 21 cm de espesor es de color pardo oscuro, textura arenosa franca y estructura en bloques muy debiles a masivo. Hacia abajo presenta un horizonte de transicion AC, arenoso franco y masivo. El horizonte C (material originario), se encuentra a 43 cm de profundidad y es de textura arenosa franca. El calcareo, por lo general, se encuentra por debajo de los 200 cm. Estos suelos estan en el limite del uso agricola, siendo sus principales limitaciones el clima, la baja retencion de humedad y una grave susceptibilidad a la erosion eolica.
 UBICACION: a 15,3 km al NNO de Huinca Renanco, departamento General Roca, provincia de Cordoba.
-A	0-21 cm; color en humedo pardo oscuro (10YR3/3); areno franco; estructura en bloques subangulares debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
+COLOR: color en humedo pardo oscuro (10YR3/3)
 AC	21-43 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
 C	43 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); areno franco; masivo a grano simple; suelto en humedo; no plastico; no adhesivo.
 Datos analiticos Serie HUINCA RENANCO

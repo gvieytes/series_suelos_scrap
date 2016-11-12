@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol litico paralitico
 TPS: franca gruesa, mixta, termica
 Este suelo se ha desarrollado debilmente sobre esquistos metamorficos en las sierras bajas de la vertiente oriental de la Sierra Chica de Cordoba. La pendiente oscila entre 10 a 25% en laderas muy inclinadas con vegetacion del bosque serrano. Es un suelo corto, tiene un horizonte superficial de 20 cm solamente, de color muy oscuro con gravas que no superan el 15% y estructura en bloques subangulares moderados a debiles. Por debajo de la profundidad indicada aparece el material parental del suelo que son rocas de origen metamorfico parcialmente alteradas (contacto litico-paralitico). Las limitantes son profundidad efectiva, fuertes pendientes, pedregosidad, drenaje excesivo, susceptibilidad a la erosion hidrica, baja retencion de humedad.
 UBICACION: a 3 km al Oeste de Villa del Totoral, departamento Totoral, provincia de Cordoba.
-A	0-20 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso grueso (con aproximadamente 10% de gravilla); estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; pH 6,8; raices abundantes; limite inferior claro.
+COLOR: color en humedo gris muy oscuro (10YR3/1)
 R	20 cm a +; roca esquistosa alterada parcialmente (contacto paralitico).
 Datos analiticos Serie RODEO VIEJO
 LATITUD:S304300

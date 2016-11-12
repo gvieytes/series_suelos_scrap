@@ -4,7 +4,7 @@ CLASIFICACION: Udorthent litico
 TPS: esqueletica, arenosa, mixta, termica
 Es un suelo algo excesivamente bien drenado, desarrollado sobre materiales autoctonos, como consecuencia de la alteracion de rocas metamorficas. Esta relacionado con pendientes muy escarpadas. El horizonte superior o capa A, de 12 cm de espesor de textura franco arenosa al tacto y estructura en bloques subangulares debiles. Continua una capa 2, con estructura en bloques muy debiles que se apoyan directamente sobre roca alterada. La pendiente dominante es del 25 al 45%, con escurrimiento muy rapido. Este suelo presenta una permeabilidad moderadamente rapida, sin peligro de anegamiento.
 UBICACION: a 13,5 km al Sur de Villa Yacanto de Calamuchita, departamento Calamuchita, provincia de Cordoba.
-A	0-12 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso (al tacto); estructura en bloques subangulares medios debiles; ligeramente firme; pH 6 (de campana); raices abundantes; 60% de gravilla; limite inferior abrupto ondulado.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 2	12-35 cm; color en humedo pardo oscuro (10YR3/3); arenoso; estructura en bloques subangulares muy debiles; friable en humedo; pH 6; raices abundantes; limite inferior gradual ondulado.
 R	35 cm a +; roca alterada; estructura litica; escasas raices.
 Datos analiticos Serie CALAMUCITA IV

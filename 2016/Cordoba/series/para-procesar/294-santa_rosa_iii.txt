@@ -4,7 +4,7 @@ CLASIFICACION: Hapludol entico
 TPS: franca gruesa, mixta, termica
 La Serie Santa Rosa III es un Hapludol entico, profundo, algo excesivamente drenado desarrollado sobre materiales loessicos, vinculado a lomas onduladas. Es un suelo de incipiente desarrollo. El horizonte superior (A) de 18 cm de potencia presenta un contenido moderadamente bajo de materia organica, de textura franco limosa y estructura en bloques debiles. Este perfil se continua con un horizonte de transicion (AC) franco limoso, estructura en bloques debiles a masiva, el que mediante un limite abrupto pasa a un horizonte C que contiene carbonato de calcio diseminado en la masa del suelo.
 UBICACION: a 7 Km al Sur de Santa Rosa de Calamuchita, departamento Calamuchita, provincia de Cordoba.
-A	0-18 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices muy abundantes; limite inferior claro suave.
+COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
 AC	18-39 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques debiles a masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices abundantes; limite inferior abrupto suave.
 Ck	39 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; friable en humedo; no plastico; no adhesivo; moderada reaccion al acido clorhidrico por la presencia de carbonato de calcio diseminado en la masa del suelo; escasas raices.
 Datos analiticos Serie SANTA ROSA III

@@ -4,7 +4,7 @@ CLASIFICACION: Ustorthent litico paralitico
 TPS: esqueletica, franca, mixta, mesica
 Esta Serie se encuentra ubicada en las laderas muy colinadas y homogeneas de la sierra de Pajarillo que son rocas sedimentarias conglomeradicas (posiblemente de edad Cretacica). Las pendientes oscilan entre 25 a 45% y el suelo es muy somero con contacto con la roca alterada (paralitico) a pocos cm de profundidad. La vegetacion dominante es la de pastizales de altura (festuca especialmente). Las limitantes son pendientes, profundidad efectiva; drenaje excesivo, pedregosidad y clima.
 UBICACION: a 12 km al Este de Charbonier, departamento Ischilin, provincia de Cordoba.
-A	0-10 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso gravillosa (aproximadamente 40% de gravas); estructura en bloques subangulares medios fuertes; friable en humedo; ligeramente plastico; no adhesivo; pH 7,2; raices muy abundantes.
+COLOR: color en humedo gris muy oscuro (10YR3/1)
 R	10 cm a +; roca moderadamente alterada; color variable segun los minerales y el grado de alteracion.
 Datos analiticos Serie PAJARILLO
 LATITUD:S304518

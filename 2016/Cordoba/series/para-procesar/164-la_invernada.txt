@@ -4,7 +4,7 @@ CLASIFICACION: Hapludol tipico
 TPS: franca gruesa, mixta, termica
 La Serie agrupa suelos profundos, bien drenados, desarrollados sobre materiales francos, vinculados a sectores deprimidos. Presentan debil desarrollo; el horizonte A de 22 cm de profundidad tiene un moderado contenido de materia organica. El subsuelo presenta un enriquecimiento de arcilla no muy marcado, encontrandose el material originario (C) a los 51 cm de profundidad.
 UBICACION: a 4 Km al Oeste de Paso del Rio Seco, departamento Rio Cuarto, provincia de Cordoba.
-A	0-22 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior claro suave.
+COLOR: color en humedo pardo oscuro (10YR3/3)
 B	22-51 cm; color en humedo pardo oscuro (10YR3/3); franco a franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; barnices finos muy escasos; limite inferior claro suave.
 C	51 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie LA INVERNADA

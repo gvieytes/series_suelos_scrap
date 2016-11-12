@@ -4,7 +4,7 @@ CLASIFICACION: Argiudol tipico
 TPS: franca fina, mixta, termica
 La Serie agrupa suelos profundos, bien drenados, vinculados a lineas de escurrimiento y areas concavas. Es un suelo fuertemente desarrollado, con una capa superficial de 17 cm (A) con moderado contenido de materia organica, medianamente acido, se continua con un horizonte mas arcilloso (Bt), encontrandose el material originario (C) a los 80 cm.
 UBICACION: a 9,5 Km al SSE de Rodeo Viejo, departamento Rio Cuarto, provincia de Cordoba.
-A	0-17 cm; color en humedo pardo grisaceo muy oscuro a pardo muy oscuro (10YR2,5/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro suave.
+COLOR: color en humedo pardo grisaceo muy oscuro a pardo muy oscuro (10YR2,5/2)
 Bt	17-30 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en prismas debiles que rompen a bloques angulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices escasos medios finos; limite inferior claro suave.
 Bt2	30-51 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas irregulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos medios y finos; limite inferior gradual.
 BC	51-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en prismas gruesos; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; limite inferior gradual.

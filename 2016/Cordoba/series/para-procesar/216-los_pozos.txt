@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol entico
 TPS: franca fina, mixta, termica
 Este suelo se ha desarrollado sobre lomas suavemente onduladas y onduladas a partir de sedimentos eolicos franco limosos con pendientes que oscilan entre 1 a 3%. Tiene un horizonte A de 20 cm de profundidad franco limoso con 17% de arcilla y rico en materia organica. Continua hacia abajo un horizonte de transicion (AC) de textura semejante con estructura en bloques debiles a masivo con 0,3% de material calcareo en la masa del suelo. El material originario es franco limoso, masivo, con 5% de CaCO3 libre (loess); se extiende hacia abajo desde los 40 cm de profundidad.
 UBICACION: a 7 km al NNO de Avellaneda, departamento Ischilin, provincia de Cordoba.
-A	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,1; raices abundantes; limite inferior claro, suave.
+COLOR: color en humedo pardo oscuro (10YR3/3)
 ACk	20-40 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques debiles a masivo; no plastico; no adhesivo; pH 7,7; raices escasas; leve reaccion al ClH en la masa del suelo; limite inferior claro, suave.
 Ck	40 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,2; violenta reaccion al ClH.
 Datos analiticos Serie LOS POZOS

@@ -39,9 +39,18 @@
 #Serie_Matorrales.psv ->> HORIZONTE->CIC ME/100G(T)...: 19,3 | 20,1  | 19,5  | 14,5
 #Serie_Matorrales.psv ->> HORIZONTE->SAT.B % (S/T)....: 93   | 100   | 100   | 100
 
-import string
 
-fileName = 'FN.txt' 		#Se obtiene del nombre de archivo (sin el ID)
+## Imports
+import string
+import sys
+import argparse
+
+## Capturo el nombre del archivo pasado por parametro 
+args = sys.argv[1:]
+
+
+#fileName = 'FN.txt' 		#Se obtiene del nombre de archivo (sin el ID)
+fileName = args 		#Se obtiene del nombre de archivo (sin el ID)
 idNro = 'idNumero' 		#Se obtiene del nombre del archivo (numero de orden o ID)
 clasificacion = 'clasif' 	#Se obtiene de "^CLASIFICACION:"
 serie = 'serieeee' 		#Se obtiene de "^Serie"
@@ -89,7 +98,7 @@ print('{} ->> LATITUD......................: FALTA!'.format( fileName ) )
 print('{} ->> LONGITUD.....................: FALTA!'.format( fileName ) )
 print('{} ->> ALTITUD......................: FALTA!'.format( fileName ) )
 print('{} ->> PENDIENTE....................: FALTA!'.format( fileName ) )
-print('{} ->> DRENAJE......................: FALTA!'.format( fileName, drenaje ) )
+print('{} ->> DRENAJE......................: FALTA!'.format( fileName ) )
 print('{} ->> ESCURRIMIENTO................: FALTA!'.format( fileName ) )
 print('{} ->> PERMEABILIDAD................: FALTA!'.format( fileName ) )
 print('{} ->> TIPO DE SUELO................: {}'.format( fileName, tipoSuelo) )

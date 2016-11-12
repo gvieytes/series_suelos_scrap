@@ -4,7 +4,7 @@ CLASIFICACION: Ustorthent litico paralitico
 TPS: franca gruesa, calcarea, ferralitica, termica
 Es un suelo excesivamente drenado, desarrollado uniformemente sobre sedimentos estratificados (posiblemente de edad Cretacica) rojizos en facie limo arenosa, con pendientes que oscilan entre 3 a 10% (pie de loma-media loma baja) en las sierras de Ischilin-Copacabana. Se caracteriza por tener una alta susceptibilidad a la erosion hidrica, carbonato de calcio libre en la masa del suelo desde la superficie y colores rojizos por la presencia de oxidos de Fe que dan una coloracion rojo pardusco amarillento a toda la formacion. Sustenta una vegetacion de arbustos con debil cobertura y escaso pastizal.
 UBICACION: a 8 km al Norte de Ongamira, departamento Ischilin, provincia de Cordoba.
-A	0-14 cm; color en humedo rojo sombrio (10R3/2); franco arenoso; estructura en bloques subangulares medios moderados, friable en humedo; no plastico; no adhesivo; pH 7,8; moderada reaccion al ClH en la masa del suelo; raices comunes; limite inferior claro, suave.
+COLOR: color en humedo rojo sombrio (10R3/2)
 R	14 cm a +; roca sedimentaria deleznable; franco; de color rojo-pardusco claro; estructura laminar; violenta reaccion al ClH; vestigios de raices; pH 8.
 Datos analiticos Serie ONGAMIRA II
 LATITUD:S304322

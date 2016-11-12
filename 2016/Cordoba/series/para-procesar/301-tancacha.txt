@@ -4,7 +4,7 @@ CLASIFICACION: Ustorthent tipico
 TPS: franca gruesa, mixta, termica
 Son suelos algo excesivamente drenados, desarrollados sobre materiales redepositados de areas de derrame fluvial, estan vinculados a sectores positivos del relieve (lomadas planas y/o ligeramente onduladas). Son de escaso desarrollo genetico, con un horizonte superficial profundo, de color pardo oscuro, franco arenoso, estructura debil y muy pobre contenido de materia organica con su consiguiente baja fertilidad. Luego pasa transicionalmente (horizonte AC) al material originario que se encuentra a 82 cm de profundidad y con abundante calcareo en la masa del suelo a partir de 112 cm. Las limitaciones climaticas, baja fertilidad y baja estabilidad de los agregados restringen su uso agricola a niveles criticos.
 UBICACION: a 1,9 km de la localidad de Tancacha, departamento Tercero Arriba, provincia de Cordoba.
-Ap	0-13 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios, debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
+COLOR: color en humedo pardo oscuro (10YR3/3)
 A	13-40 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios, debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
 AC	40-81 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
 C	81-112 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.

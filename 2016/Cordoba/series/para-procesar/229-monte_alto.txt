@@ -4,7 +4,7 @@ CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
 Los suelos de la Serie Monte Alto, son profundos, oscuros, bien a algo excesivamente drenados, vinculados a lomas planas o ligeramente onduladas. Se han desarrollado a partir de materiales loessicos franco limosos. Presentan una capa arable (horizonte A) de 22 cm de espesor, de color pardo grisaceo muy oscuro, estructura en bloques moderados y buen contenido de materia organica. Luego pasa transicionalmente (horizonte AC) al material originario (horizonte C) que aparece a 50 cm de profundidad y con material calcareo pulverulento en la masa del suelo a partir de 75 cm, es un material de color pardo y textura franco limosa. Son suelos agricolas, cuya unica limitante es la climatica.
 UBICACION: a 5,9 Km al SSE de la localidad de Etruria, departamento General San martin, provincia de Cordoba.
-A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
+COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
 AC	22-50 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares debiles; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
 C	50-75 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; muy friable en humedo; no adhesivo; no plastico; limite inferior abrupto, suave.
 Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante material calcareo pulverulento en la masa del suelo.

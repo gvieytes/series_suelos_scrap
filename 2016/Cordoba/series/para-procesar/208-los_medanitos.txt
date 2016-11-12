@@ -10,8 +10,8 @@ Btn	38-61 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco; estructur
 BCn	61-87 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; escasos barnices arcillosos; moteados abundantes, medios, precisos; limite inferior abrupto, ondulado.
 Ck	87 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, medios, precisos; abundante calcareo libre en la masa.
 Datos analiticos Serie LOS MEDANITOS
-LATITUD:33º33'06"
-LONGITUD:62º43'58"
+LATITUD:S333306
+LONGITUD:O624358
 ALTITUD:118 m.s.n.m.
 |Horizonte                                                            |A       |E       |Btn     |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-19    |19-38   |38-61   |61-87   |87 a +  |

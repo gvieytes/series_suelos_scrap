@@ -8,8 +8,8 @@ A	0-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco 
 AC	21-50 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en bloques subangulares debiles con tendencia a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
 Ck	50 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; moderado contenido de carbonato pulverulento en la masa del suelo.
 Datos analiticos Serie GENERAL CABRERA
-LATITUD:32º49'43"
-LONGITUD:63º51'27"
+LATITUD:S324943
+LONGITUD:O635127
 ALTITUD:288 m.s.n.m.
 |Horizonte                                                             |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-21    |21-50   |50 a +  |

@@ -9,8 +9,8 @@ Bt	23 45 cm; color en humedo pardo oscuro (10YR3/3), franco arcillo limoso, estr
 B/C	45-65 cm; color en humedo pardo a pardo oscuro (10YR4/3), franco limoso, estructura en bloques y prismas debiles, friable en humedo, no plastico, no adhesivo, pH 6,6, escasos barnices de arcilla, raices escasas, limite inferior gradual.
 C	65 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4), franco limoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 6,5, vestigios de raices.
 Datos analiticos Serie LA QUINTA
-LATITUD:31º01'55"
-LONGITUD:63º00'30"
+LATITUD:S310155
+LONGITUD:O630030
 ALTITUD:107 m.s.n.m.
 |Horizonte                                                            |A     |Bt     |B/C    |C       |
 |Profundidad de la muestra (cm)                                       |0-23  |23-45  |45-65  |65 a +  |

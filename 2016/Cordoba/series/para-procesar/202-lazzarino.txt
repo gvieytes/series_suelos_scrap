@@ -11,8 +11,8 @@ ACn	32-44 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco; masivo; mu
 2BC	80-103 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques angulares irregulares medios y moderados; friable en humedo; plastico; adhesivo; concreciones calcareas comunes; limite inferior gradual, ondulado.
 2C	103 cm a +; color en humedo pardo (7,5YR5/4); franco; estructura en bloques angulares irregulares debiles y finos; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados comunes finos y debiles.
 Datos analiticos Serie LAZZARINO
-LATITUD:33º49'16"
-LONGITUD:62º03'00"
+LATITUD:S334916
+LONGITUD:O620300
 ALTITUD:110 m.s.n.m.
 |Horizonte                                                            |A       |A2      |ACn     |2Btn    |2BC      |2C       |
 |Profundidad de la muestra (cm)                                       |0-19    |19-32   |32-44   |44-80   |80-103   |103 a +  |

@@ -10,8 +10,8 @@ Btn	18-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso a franco ar
 BC	52-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados y prismas debiles; friable en humedo; barnices "Clay Skins" escasos y finos; moteados escasos, finos y debiles; escasos durinodulos; escasas concreciones calcareas finas; limite inferior abrupto, ondulado.
 Ck	97 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante calcareo libre en la masa; moteados escasos, finos y debiles; escasos durinodulos finos.
 Datos analiticos Serie EL CANDIL
-LATITUD:32º33'20"
-LONGITUD:62º22'59"
+LATITUD:S323320
+LONGITUD:O622259
 ALTITUD:114 m.s.n.m.
 |Horizonte                                                            |Ap      |E       |Btn     |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-10    |10-18   |18-52   |52-97   |97 a +  |

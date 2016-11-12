@@ -10,8 +10,8 @@ BC	43-72 cm; color en humedo pardo amarillento (10YR5/4); franco limoso; estruct
 C	72-86 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, ondulado.
 Ck	86 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; concreciones calcareas comunes y gruesas y elevado contenido diseminado en la masa.
 Datos analiticos Serie LA LAGUNITA
-LATITUD:32º46'00"
-LONGITUD:62º55'45"
+LATITUD:S324600
+LONGITUD:O625545
 ALTITUD:142 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-16    |16-43   |43-72   |72-86   |86 a +  |

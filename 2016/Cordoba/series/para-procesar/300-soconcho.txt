@@ -9,8 +9,8 @@ Bt	22 52 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en prism
 BC	52-80 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques y prismas debiles; friable en humedo; ligeramente plastico; no adhesivo; barnices arcillosos escasos; vestigios de raices; limite inferior gradual.
 C	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie SOCONCHO
-LATITUD:32º09'25"
-LONGITUD:64º17'39"
+LATITUD:S320925
+LONGITUD:O641739
 ALTITUD:329 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-22    |22-52   |52-80   |80 a +  |

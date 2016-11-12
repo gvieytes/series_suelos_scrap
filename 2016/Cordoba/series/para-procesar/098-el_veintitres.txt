@@ -8,8 +8,8 @@ A	0-17 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5);
 AC	17-45 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares debiles con tendencia a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
 C	45 cm a +; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie EL VEINTITRES
-LATITUD:34º37'55"
-LONGITUD:64º24'33"
+LATITUD:S343755
+LONGITUD:O642433
 ALTITUD:193 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-17    |17-45   |45 a +  |

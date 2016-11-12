@@ -9,8 +9,8 @@ Bw	28-65 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo
 BC	65-98 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo arenoso a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; limite inferior difuso.
 C	98 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; suelto.
 Datos analiticos Serie EL ABOLENGO
-LATITUD:34º14'30"
-LONGITUD:62º11'54"
+LATITUD:S341430
+LONGITUD:O621154
 ALTITUD:106 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-28    |28-65   |65-98   |98 a +  |

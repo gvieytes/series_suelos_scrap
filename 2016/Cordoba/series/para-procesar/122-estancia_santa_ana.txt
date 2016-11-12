@@ -8,8 +8,8 @@ A	0-28 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructu
 AC	28-61 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares finos debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior gradual, ondulado.
 C	61 cm a +; color en humedo pardo a pardo fuerte (7,5YR5/5); franco; masivo; muy friable en humedo.
 Datos analiticos de la Serie ESTANCIA SANTA ANA
-LATITUD:34º13'21"
-LONGITUD:62º07'20"
+LATITUD:S341321
+LONGITUD:O620720
 ALTITUD:121 m.s.n.m
 |Horizonte                                                            |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-28    |28-61   |61 a +  |

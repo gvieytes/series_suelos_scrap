@@ -9,8 +9,8 @@ Bw	18-37 cm; color en humedo pardo oscuro (10YR3/3); franco a franco arcillo are
 BC	37-58 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco arenoso a franco arcillo arenoso; estructura en bloques subangulares medios, moderados a debiles; friable en humedo; vestigios de barnices "Clay Skins" finos; limite inferior gradual, suave.
 C	58 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie LAS ISLETAS
-LATITUD:34º54'
-LONGITUD:64º38'
+LATITUD:S345400
+LONGITUD:O643800
 ALTITUD:141 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-18    |18-37   |37-58   |58 a +  |

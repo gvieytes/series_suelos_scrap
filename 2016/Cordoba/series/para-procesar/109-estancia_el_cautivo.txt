@@ -9,8 +9,8 @@ UBICACION: a 2,5 km al NE de la estancia El Cautivo, departamento Juarez Celman,
 3n	32-49 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; pH 8,9; leve reaccion al ClH en la masa del suelo.
 4n	49 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 9,5; leve reaccion al ClH en la masa del suelo
 Datos analiticos Serie ESTANCIA EL CAUTIVO
-LATITUD:33º24'11"
-LONGITUD:63º46'53"
+LATITUD:S332411
+LONGITUD:O634653
 ALTITUD:213 m.s.n.m.
 |Horizonte                                                            |1       |2       |3n      |4n      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-32   |32-49   |49 a +  |

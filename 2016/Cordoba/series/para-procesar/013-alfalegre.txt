@@ -1,5 +1,5 @@
 Serie ALFALEGRE
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Natracualf molico
 TPS: franca gruesa, mixta, termica
 Es un suelo imperfectamente drenado, moderadamente alcalino a partir de los 24 cm, haciendose fuertemente alcalino desde los 51 cm, vinculado a los bajos alargados. La parte superficial del suelo se divide en dos horizontes; uno superior (horizonte A) hasta los 12 cm, de color pardo oscuro y estructura en bloques subangulares medios, moderados a debiles y otro inferior (horizonte E) mas claro y lixiviado de unos 12 cm de espesor. A los 24 cm se pasa abruptamente a un material mas arcilloso (Bt) de estructura semicolumnar y prismas irregulares medios moderados, de color pardo amarillento oscuro y ligeramente alcalino (10% de sodio intercambiable), luego pasa a un horizonte transicional (BC), fuertemente alcalino sodico, a los 51 cm de profundidad que impiden el desarrollo normal de las raices. Esta Serie no ha sido identificada en Series puras, sino que aparecen en unidades cartograficas compuestas asociados a otros suelos alcalinos, que se describen mas adelante. Dentro de esta Serie existen algunas variaciones en cuanto al espesor del horizonte A y tenores de sodio intercambiable. Algunos presentan sales solubles en profundidad.
@@ -9,8 +9,8 @@ E	12-21 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arenoso
 Bt	24-51 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo arenoso; estructura semicolumnar y prismas irregulares medios, moderados; ligeramente firme en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos, finos; moteados abundantes, gruesos sobresalientes; limite inferior gradual.
 BC	51 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; estructura en bloques subangulares medios, moderados; friable en humedo; no plastico; no adhesivo; escasos barnices "Clay Skins" muy finos; moteados abundantes, gruesos, sobresalientes.
 Datos Analiticos Serie ALFALEGRE
-LATITUD:34º32'37"
-LONGITUD:64º21'55"
+LATITUD:S343237
+LONGITUD:O642155
 ALTITUD:191 m.s.n.m.
 |Horizonte                                                            |A       |E       |Bt      |BC      |
 |Profundidad de la muestra (cm)                                       |0-12    |12-24   |24-51   |51 a +  |

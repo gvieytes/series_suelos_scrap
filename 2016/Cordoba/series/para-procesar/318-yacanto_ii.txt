@@ -1,5 +1,5 @@
 Serie YACANTO II
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Calciudol petrocalcico
 TPS: franca fina, mixta, termica
 Se trata de un suelo imperfectamente drenado, vinculado a pendientes. El horizonte superior o capa 1, de 16 cm de espesor, con moderadamente alto contenido de materia organica (5,94%); de textura franca y estructura en bloques debiles. Continua otra capa con alto contenido de carbonato de calcio compactado. La pendiente dominante es del 1 al 3%, con escurrimiento medio y permeabilidad moderada, sin peligro de anegamiento.
@@ -7,8 +7,8 @@ UBICACION: a 5,5 km al Sur de Villa Yacanto de Calamuchita, departamento Calamuc
 1	0-16 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios debiles; friable en humedo; pH 7,5; limite inferior abrupto ondulado.
 2km	16 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); con abundante carbonato de calcio compactado.
 Datos analiticos Serie YACANTO II
-LATITUD:32º09'
-LONGITUD:64º45'
+LATITUD:S320900
+LONGITUD:O644500
 ALTITUD:1100 m.s.n.m.
 |Horizonte                                                            |1       |2km        |
 |Profundidad de la muestra (cm)                                       |0-16    |16 a +     |

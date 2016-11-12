@@ -9,8 +9,8 @@ Btnz	8 - 26 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso a 
 BCkz	 26 - 57 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso a franco arcilloso; estructura en prismas irregulares medios moderados rompe a prismas y bloques debiles; friable en humedo; plastico; adhesivo; moderada reaccion al ClH en la masa del suelo; barnices humico arcillosos escasos; pseudomicelios salinos y cristales de yeso abundantes; limite inferior gradual, suave.
 Ckz	57 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arcilloso; masivo; friable en humedo; plastico; ligeramente adhesivo; moderada reaccion al ClH en la masa del suelo; cristales de yeso y pseudomicelios salinos comunes.
 Datos analiticos Serie EL SALADILLO
-LATITUD:30º21'
-LONGITUD:63º22'
+LATITUD:S302100
+LONGITUD:O632200
 ALTITUD:80 m.s.n.m.
 |Horizonte                                                             |Enz     |Btnz    |BCkz    |Ckz     |
 |Profundidad de la muestra (cm)                                        |0-8     |8-26    |26-57   |57 a +  |

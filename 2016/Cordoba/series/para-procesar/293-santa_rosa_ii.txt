@@ -1,5 +1,5 @@
 Serie SANTA ROSA II
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol tipico
 TPS: franca gruesa, mixta, termica
 La Serie Santa Rosa II es un Hapludol tipico, profundo, bien drenado, desarrollado a partir de materiales fluvio-eolicos y relacionado con lomas suavemente onduladas, pendientes y bajos alargados y extendidos. Es un suelo de moderado desarrollo. La capa arable (Ap) de 20 cm de potencia es de textura franca y con un contenido moderadamente bajo de materia organica. Mediante sendos limites abruptos, este perfil se continua con dos horizontes iluviales, tambien de textura franca y con presencia de arena gruesa y gravilla. En otros perfiles se ha detectado la presencia de carbonato de calcio en distintas proporciones, en alguno de los horizontes.
@@ -8,8 +8,8 @@ Ap	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloque
 Bw	20-45 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; raices abundantes; limite inferior abrupto suave.
 BC	45 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; escasas raices; presencia de gravilla.
 Datos analiticos Serie SANTA ROSA II
-LATITUD:32º08'20"
-LONGITUD:64º34'00"
+LATITUD:S320820
+LONGITUD:O643400
 ALTITUD:750 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |BC      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-45   |45 a +  |

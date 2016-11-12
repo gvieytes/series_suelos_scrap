@@ -9,8 +9,8 @@ Btn	20-42 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso;
 BCnk	42-61 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; estructura en bloques debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; carbonatos comunes en la masa del suelo; barnices finos escasos; escasas raices; limite inferior gradual, suave.
 Cnk	61 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; violenta reaccion al acido clorhidrico.
 Datos Analiticos Serie PARAJE LOS ZORROS
-LATITUD:32º08'16"
-LONGITUD:63º11'17"
+LATITUD:S320816
+LONGITUD:O631117
 ALTITUD:195 m.s.n.m.
 |Horizonte                                                            |Ep      |Btn     |BCnk    |Cnk     |
 |Profundidad de la muestra (cm)                                       |0-20    |20-42   |42-61   |61 a +  |

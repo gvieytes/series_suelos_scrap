@@ -9,8 +9,8 @@ Btn	20-50 cm; color en humedo pardo oscuro (10YR3/3), franco arcillo limoso, est
 BCnk	50-80 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco arcillo limoso a franco limoso, estructura en prismas y bloques debiles, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 8,6, barnices escasos finos, moderada reaccion al ClH en la masa del suelo, limite inferior gradual.
 Ck	80 cm a +; color en humedo pardo (7,5YR5/4), franco limoso, masivo, no plastico, no adhesivo, muy friable en humedo, pH 8,9, violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie SAGRADA FAMILIA
-LATITUD:31º09'50"
-LONGITUD:63º30'28"
+LATITUD:S310950
+LONGITUD:O633028
 ALTITUD:190 m.s.n.m.
 |Horizonte                                                            |A       |Btn     |BCnk    |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-50   |50-80   |80 a +  |

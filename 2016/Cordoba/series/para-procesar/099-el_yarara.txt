@@ -8,8 +8,8 @@ A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; 
 AC	18-43 cm; color en humedo pardo oscuro (10YR3/3); areno franco; masivo a estructura en bloques muy debiles; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
 C	43 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; masivo a grano simple; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie EL YARARA
-LATITUD:34º13'34"
-LONGITUD:64º28'04"
+LATITUD:S341334
+LONGITUD:O642804
 ALTITUD:239 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-18    |18-43   |43 a +  |

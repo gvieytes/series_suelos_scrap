@@ -10,8 +10,8 @@ Btn	26-48 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco limoso; estructu
 BCkn	48-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; abundante contenido de carbonato pulverulento en la masa del suelo; escasos barnices finos; limite inferior gradual.
 Ck	72 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; abundante carbonato pulverulento en la masa del suelo.
 Datos analiticos Serie AUSONIA
-LATITUD:32º32'21"
-LONGITUD:63º19'12"
+LATITUD:S323221
+LONGITUD:O631912
 ALTITUD:200 m.s.n.m.
 |Horizonte                                                             |A       |E       |Btn     |BCkn    |Ck      |
 |Profundidad de la muestra (cm)                                        |0-20    |20-26   |26-48   |48-72   |72 a +  |

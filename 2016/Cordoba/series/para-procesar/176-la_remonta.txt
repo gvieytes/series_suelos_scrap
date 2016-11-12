@@ -11,8 +11,8 @@ BCn	46-66 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco l
 BCnk	66-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares gruesos debiles rompe a masivo; friable en humedo; barnices "Clay Skins" escasos y finos; moteados comunes, finos y debiles; escasos pseudomicelios salinos; abundante contenido de calcareo libre en la masa; limite inferior difuso.
 Ck	100 cm a +; color en humedo pardo (7,5YR4,5/4); franco; masivo; muy friable en humedo; moteados escasos, finos y debiles; abundante contenido de calcareo libre en la masa y en concreciones medias.
 Datos analiticos Serie LA REMONTA
-LATITUD:32º51'10"
-LONGITUD:62º48'35"
+LATITUD:S325110
+LONGITUD:O624835
 ALTITUD:127 m.s.n.m.
 |Horizonte                                                        |Ap      |E       |Btn     |BCn     |BCnk    |Ck       |
 |Profundidad de la muestra (cm)                                   |0-14    |14-22   |22-46   |46-66   |66-100  |100 a +  |

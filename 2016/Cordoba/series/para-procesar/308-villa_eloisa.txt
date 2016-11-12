@@ -11,8 +11,8 @@ Bt2	40-57 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); color en seco par
 BC	57-96 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo (7,5YR5/4); franco limoso; estructura en prismas irregulares medios debiles que rompe en bloques angulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos; raices escasas; limite inferior difuso.
 C	96 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; nodulos cementados.
 Datos analiticos Serie VILLA ELOISA
-LATITUD:32º57'22"
-LONGITUD:61º39'48"
+LATITUD:S325722
+LONGITUD:O613948
 ALTITUD:112 m.s.n.m.
 |Horizonte                                                             |Ap      |BA      |Bt      |Bt2     |BC      |C       |
 |Profundidad de la muestra (cm)                                        |0-10    |10-23   |23-40   |40-57   |57-96   |96 a +  |

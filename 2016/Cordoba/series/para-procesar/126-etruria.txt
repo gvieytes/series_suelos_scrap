@@ -9,8 +9,8 @@ ACn	23-50 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso 
 Cn	50-78 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,2; moteados escasos, finos y debiles; raices escasas a vestigios; limite inferior abrupto, ondulado.
 Ck	78 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,4; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie ETRURIA
-LATITUD:32º55'08"
-LONGITUD:63º22'01"
+LATITUD:S325508
+LONGITUD:O632201
 ALTITUD:170 m.s.n.m.
 |Horizonte                                                            |A       |ACn     |Cn      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-50   |50-78   |78 a +  |

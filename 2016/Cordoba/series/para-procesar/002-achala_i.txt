@@ -1,5 +1,5 @@
 Serie ACHALA I
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiudol litico
 TPS: esqueletica, franca, mixta, termica
 Es un suelo moderadamente bien dren H+ado, desarrollado sobre materiales originarios autoctonos producto de alteracion de rocas graniticas (Regolita) en las laderas muy onduladas. El horizonte superior (A) tiene 22 cm de espesor, textura franco limosa con dominio de arenas gruesas en esa fraccion, muy rico en materia organica, con estructura en bloques subangulares moderados y granulosa. Le sigue un horizonte subsuperficial enriquecido en arcilla (Bt) con estructura en prismas, que se extienden hasta los 44 cm de profundidad. Continua un horizonte o capa (IIBC) con gran cantidad de gravilla y roca alterada; es considerada como una capa con indicios de edafizacion permeable, con endurecimientos parciales y firme en profundidad. La pendiente dominante es del 3 al 10% con escurrimiento rapido, permeabilidad moderada y moderado a severo peligro de erosion aunque es un suelo con alta estabilidad estructural. Los perfiles de la Serie Achala I se encuentran generalmente humedos.
@@ -8,8 +8,8 @@ A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; e
 Bt	22-44 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices comunes; limite inferior claro suave.
 2BC	44 cm a +; roca alterada donde se observan nitidamente barnices arcillosos escasos; presencia de grava y rocas sueltas.
 Datos analiticos Serie ACHALA I
-LATITUD:31º42'
-LONGITUD:64º51'
+LATITUD:S314200
+LONGITUD:O645100
 ALTITUD:2075 m.s.n.m.
 |Horizonte                                                             |A       |Bt      |
 |Profundidad de la muestra (cm)                                        |0-22    |22-44   |

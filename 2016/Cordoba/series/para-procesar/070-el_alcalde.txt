@@ -9,8 +9,8 @@ Bt	24-44 cm; color en humedo pardo oscuro (10YR3/3), franco arcillo limoso, estr
 BC	44-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4), franco arcillo limoso a franco limoso, estructura en bloques y prismas debiles, friable en humedo, ligeramente plastico, no adhesivo, pH 7,7, barnices escasos de arcilla, raices escasas, limite inferior abrupto ondulado.
 Ck	70 cm a +; color en humedo pardo (7,5YR5/4), franco limoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 8,2, moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie EL ALCALDE
-LATITUD:31º05'12"
-LONGITUD:63º37'53"
+LATITUD:S310512
+LONGITUD:O633753
 ALTITUD:210 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-24    |24-44   |44-70   |70 a +  |

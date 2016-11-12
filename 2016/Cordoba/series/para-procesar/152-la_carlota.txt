@@ -9,8 +9,8 @@ AC	27-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso;
 C	60-100 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 7; limite inferior abrupto, ondulado.
 Ck	100 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso a arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LA CARLOTA
-LATITUD:33º36'44"
-LONGITUD:63º28'01"
+LATITUD:S333644
+LONGITUD:O632801
 ALTITUD:131 m.s.n.m.
 |Horizonte                                                             |Ap      |AC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                        |0-27    |27-60   |60-100   |100 a +   |

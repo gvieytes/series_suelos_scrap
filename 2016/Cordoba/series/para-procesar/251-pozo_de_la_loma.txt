@@ -10,8 +10,8 @@ BC	38-58 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco limoso a
 C	58-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4), franco limoso, masivo., muy friable en humedo, no plastico, no adhesivo, pH 6,7, limite inferior abrupto ondulado.
 Ck	74 cm a +; color en humedo pardo (7,5YR5/4), franco limoso, masivo, muy friable en humedo, pH 7,9, moderada a violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie POZO DE LA LOMA
-LATITUD:31º06'06"
-LONGITUD:63º01'32"
+LATITUD:S310606
+LONGITUD:O630132
 ALTITUD:117 m.s.n.m.
 |Horizonte                                                            |A     |Bw     |BC     |C      |
 |Profundidad de la muestra (cm)                                       |0-18  |18-38  |38-58  |58-74  |

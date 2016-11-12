@@ -9,8 +9,8 @@ Bw	23-55 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en prism
 BC	55-90 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; no plastico; no adhesivo; pH 7,6; barnices escasos y finos; limite inferior gradual.
 C	90 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a franco; masivo; no plastico; no adhesivo; pH 7,9; friable en humedo; se observa gravilla escasa.
 Datos analiticos Serie ALMAFUERTE
-LATITUD:32º11'28"
-LONGITUD:64º12'11"
+LATITUD:S321128
+LONGITUD:O641211
 ALTITUD:400 m.s.n.m.
 |Horizonte                                                             |A       |Bw      |BC      |C       |
 |Profundidad de la muestra (cm)                                        |0-23    |23-55   |55-90   |90 a +  |

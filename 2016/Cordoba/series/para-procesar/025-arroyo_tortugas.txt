@@ -10,8 +10,8 @@ Btnz2	47-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo 
 Btnz3	70-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios debiles y bloques subangulares medios moderados; plastico; adhesivo; barnices "Clay Skins" abundantes, finos; moteados comunes finos a medios precisos; abundantes durinodulos; debilmente cementado; algo gleyzado; abundantes concreciones calcareas; limite inferior claro, suave.
 BCz	105 cm a +; color en humedo pardo grisaceo (2,5Y5/2); franco limoso; estructura en bloques subangulares medios moderados a debiles; ligeramente plastico; ligeramente adhesivo; abundantes rosetas de yeso (SO4Ca); abundantes concreciones de Ca; escasos barnices "Clay Skins" finos; moteados abundantes, medios y precisos; algo gleyzado.
 Datos analiticos Serie Arroyo Tortugas
-LATITUD:32º34'
-LONGITUD:61º56'
+LATITUD:S323400
+LONGITUD:O615600
 ALTITUD:80 m.s.n.m.
 |Horizonte                                                            |A       |Btnz    |Btnz2   |Btnz3    |BCz       |
 |Profundidad de la muestra (cm)                                       |0-13    |13-47   |47-70   |70-105   |105 a +   |

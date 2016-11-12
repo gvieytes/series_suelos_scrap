@@ -1,5 +1,5 @@
 Serie FLORA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argialbol argiacuico
 TPS: franca fina, mixta, termica
 La Serie Flora es un suelo oscuro e imperfectamente drenado, de los bajos del pie del primer escalon estructural, al Norte de la localidad de Saira. Se han desarrollado a partir de sedimentos de textura franco limosa. La parte superficial del suelo, de unos 40 cm de espesor, es de textura franco limosa. La parte superior (horizonte A) esta bien provista de materia organica, es de color pardo grisaceo muy oscuro, estructura en bloques y llega hasta los 27 cm aproximadamente; la parte inferior (horizonte E) es algo mas claro, lixiviado, estructura en bloques debiles con tendencia a masivo y con pequenos moteados de Fe. Hacia abajo, pasa en forma abrupta al horizonte mas arcilloso (Bt), que se extiende hasta los 66 cm, de color pardo oscuro, estructura columnar y abundantes moteados de Fe. La transicion entre el Bt y el material originario (horizonte C) es gradual. Este ultimo se encuentra a una profundidad de 116 cm, de textura franco limosa, suelta, y con abundante calcareo diseminado en la masa.
@@ -12,8 +12,8 @@ B	66-95 cm; color en humedo pardo (7,5YR5/2); franco limoso; estructura en prism
 BC	95-116 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; barnices "Clay Skins" escasos finos; moteados comunes, gruesos y sobresalientes; escasos durinodulos finos; concreciones calcareas comunes, finas y medias; limite inferior abrupto, suave.
 Ck	116 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie FLORA
-LATITUD:32º23'44"
-LONGITUD:63º08'17"
+LATITUD:S322344
+LONGITUD:O630817
 ALTITUD:96 m.s.n.m.
 |Horizonte                                                        |Ap      |A       |E       |Bt      |B       |BC      |Ck      |
 |Profundidad de la muestra (cm)                                   |0-15    |15-27   |27-40   |40-66   |66-95   |95-116  |116 a + |

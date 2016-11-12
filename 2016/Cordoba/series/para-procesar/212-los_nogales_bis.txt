@@ -10,8 +10,8 @@ Btn2	34-48 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); arcillo limoso; 
 BCn	48-80 cm; color en humedo pardo (7,5YR5/4); franco limoso; estructura en prismas irregulares gruesos debiles que rompe en bloques medios moderados; firme en humedo; ligeramente adhesivo; barnices "Clay Skins" escasos; moteados comunes finos y debiles; nodulos comunes cementados; concreciones calcareas abundantes; limite inferior gradual.
 Ck	80 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; firme en humedo; ligeramente adhesivo; nodulos cementados; moderada cantidad de carbonatos libres en la masa del suelo.
 Datos analiticos Serie LOS NOGALES (bis)
-LATITUD:33º02'48"
-LONGITUD:61º34'41"
+LATITUD:S330248
+LONGITUD:O613441
 ALTITUD:58 m.s.n.m.
 |Horizonte                                                            |E       |Btn     |Btn2    |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-15    |15-34   |34-48   |48-80   |80 a +  |

@@ -8,8 +8,8 @@ A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco 
 AC	23-63 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
 C	63 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie ALEJO LEDESMA
-LATITUD:33º37'08"
-LONGITUD:62º34'21"
+LATITUD:S333708
+LONGITUD:O623421
 ALTITUD:123 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |5-23    |23-63   |63 a +  |

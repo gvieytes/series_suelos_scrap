@@ -9,8 +9,8 @@ Btn	19-42 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; es
 BCn	42-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; concreciones de carbonato comunes y medias; escasos barnices finos; moteados de FeMn abundantes, finos a medios; materia organica en los poros y cristales de yeso comunes; limite inferior abrupto, ondulado.
 Ck	74 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al acido clorhidrico en la masa; concreciones de carbonato comunes; moteados de Fe Mn comunes, medios y precisos.
 Datos analiticos Serie CAYUQUEO
-LATITUD:32º48'08"
-LONGITUD:63º07'52"
+LATITUD:S324808
+LONGITUD:O630752
 ALTITUD:155 m.s.n.m.
 |Horizonte                                                             |An      |Btn     |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                        |0-19    |19-42   |42-74   |74 a +  |

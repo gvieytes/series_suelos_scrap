@@ -9,8 +9,8 @@ Bt	21-50 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso a arc
 Bt2	50-70 cm; color en humedo pardo amarillento oscuro (10YR3/4); arcillo limoso a franco arcillo limoso; estructura en prismas regulares medios moderados, rompe a prismas y bloques; friable a firme en humedo; muy plastico; adhesivo; pH 6,9; barnices arcillosos comunes a abundantes; vestigios de raices; limite inferior difuso.
 BC	70 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable a firme en humedo; plastico; adhesivo; pH 7,4; barnices arcillosos comunes.
 Datos analiticos Serie MONTE RALO
-LATITUD:31º55'
-LONGITUD:64º14'
+LATITUD:S315500
+LONGITUD:O641400
 ALTITUD:495 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |Bt2     |BC      |
 |Profundidad de la muestra (cm)                                       |0-21    |21-50   |50-70   |70 a +  |

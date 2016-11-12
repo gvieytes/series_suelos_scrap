@@ -11,8 +11,8 @@ Btn2	64-109 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco p
 BC	109-140 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco rosa a pardo claro (7,5YR6,5/4); franco limoso; estructura en bloques angulares, finos, moderados y debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; moderada cantidad de carbonatos libres en la masa del suelo; concreciones comunes calcareas; limite inferior gradual, suave.
 C	140 cm a +; color en humedo pardo (7,5YR5/4); color en seco rosa a pardo claro (7,5YR6,5/4); franco limoso; estructura de grano simple; muy friable en humedo; moderada cantidad de carbonatos libres en la masa del suelo; concreciones escasas calcareas.
 Datos analiticos Serie VILLADA
-LATITUD:33º25'40"
-LONGITUD:61º03'20"
+LATITUD:S332540
+LONGITUD:O610320
 ALTITUD:75 m.s.n.m.
 |Horizonte                                                            |A       |E       |Btn     |Btn2     |BC         |C         |
 |Profundidad de la muestra (cm)                                       |0-24    |24-31   |31-64   |64-109   |109-140    |140 a +   |

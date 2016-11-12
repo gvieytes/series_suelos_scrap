@@ -11,8 +11,8 @@ AC	30-41 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso
 2BC	90-110 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; limite inferior gradual.
 2C	110 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie LA SARA
-LATITUD:32º25'25"
-LONGITUD:62º28'06"
+LATITUD:S322525
+LONGITUD:O622806
 ALTITUD:114 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |AC      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-60   |60 a +  |

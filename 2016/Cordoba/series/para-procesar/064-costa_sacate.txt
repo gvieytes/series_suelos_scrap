@@ -1,5 +1,5 @@
 Serie COSTA SACATE
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argialbol tipico
 TPS: limosa fina, mixta, termica
 Los suelos de esta Serie son profundos, moderadamente bien drenados, desarrollados sobre sedimentos loessicos de textura franco limosa, que ocupan las pendientes largas y suaves hacia el rio Xanaes (Segundo) y tambien los planos chatos ligeramente deprimidos entre los sectores de antiguos cursos de dicho rio y el cauce actual del mismo. El horizonte superficial, oscuro y bien provisto de materia organica (Ap+A), tiene aproximadamente 25 cm de espesor, es de textura franco arcillo limosa a franco limosa y estructura en bloques. Hacia abajo continua un horizonte lavado y decolorado (E), con baja fertilidad natural y poca capacidad de retencion de humedad, de unos 15 cm de espesor. El subsuelo esta representado por un horizonte de acumulacion de arcilla (Bt), de textura franco arcillo limosa y estructura en prismas con barnices en la cara de los agregados. El material originario del suelo (horizonte Ck) se encuentra a los 95 cm de profundidad, es un sedimento friable de textura franco limosa y con ligera alcalinidad sodica (el sodio representa el 10% de la capacidad de intercambio). A partir de los 68 cm de profundidad aparece abundante carbonato pulverulento diseminado en la masa del suelo y en forma de nodulaciones cementadas (concreciones). En el subsuelo se observan tambien moteados que indican fluctuacion de la capa freatica que periodicamente afecta el perfil. Estas limitaciones se presentan en formas muy leves y afectando las porciones inferiores del perfil, por lo que no constituyen limitaciones de uso importantes.
@@ -11,8 +11,8 @@ Bt	40-68 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco arcillo limoso; e
 BCk	68-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; concreciones de carbonato de calcio comunes y finas; moderado contenido de carbonato pulverulento en la masa; escasos barnices arcillosos finos; debilmente cementado; limite inferior gradual.
 Ck	95 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante contenido de carbonato pulverulento en la masa del suelo.
 Datos analiticos Serie Costa Sacate
-LATITUD:31º38'50"
-LONGITUD:63º50'01"
+LATITUD:S313850
+LONGITUD:O635001
 ALTITUD:320 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |E       |Bt      |BCk     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-14    |14-25   |25-40   |40-68   |68-95   |95 a +  |

@@ -9,8 +9,8 @@ AC	24-56 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura e
 C	56-75 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto.
 Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; fuerte a violenta reaccion al clorhidrico por la presencia de CO3Ca diseminado en la masa del suelo.
 Datos analiticos Serie ALPA CORRAL
-LATITUD:32º34'40"
-LONGITUD:64º32'33"
+LATITUD:S323440
+LONGITUD:O643233
 ALTITUD:720 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-24    |24-56   |56-75   |75 a +  |

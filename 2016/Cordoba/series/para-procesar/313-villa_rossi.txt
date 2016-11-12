@@ -10,8 +10,8 @@ Btn2	35-66 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco; estructura en 
 BCn	66-103 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; estructura en bloques subangulares medios, moderados a debiles; friable en humedo; barnices arcillosos muy escasos; moteados abundantes, medios y precisos; escasas concreciones calcareas muy finas; limite inferior gradual, suave.
 C	103 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; moteados abundantes, medios y precisos; concreciones calcareas escasas y finas.
 Datos analiticos de la Serie VILLA ROSSI
-LATITUD:34º27'54"
-LONGITUD:63º00'58"
+LATITUD:S342754
+LONGITUD:O630058
 ALTITUD:133 m.s.n.m.
 |Horizonte                                                            |E       |Btn     |Btn2    |BCn     |C       |
 |Profundidad de la muestra (cm)                                       |0-18    |18-35   |35-66   |66-103  |103 a + |

@@ -8,8 +8,8 @@ A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco 
 AC	23-49 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso; masivo y estructura en bloques debiles; muy friable en humedo; pH 7,9; raices escasas; limite inferior gradual.
 Ck	49 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a arenoso; masivo; muy friable en humedo; leve reaccion al acido clorhidrico.
 Datos analiticos Serie LOS COMETIERRA
-LATITUD:30º55'35"
-LONGITUD:63º56'55"
+LATITUD:S305535
+LONGITUD:O635655
 ALTITUD:395 m.s.n.m.
 |Horizonte                                                            |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-49   |49 a +  |

@@ -9,8 +9,8 @@ A	0-19 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcilloso
 2ACn	40-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 8,3; moderada reaccion al ClH en la masa del suelo; moteados de FeMn abundantes medios y precisos; raices escasas, limite inferior gradual.
 2Cn	60 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,2; moderada reaccion al ClH en la masa del suelo; moteados de FeMn abundantes medios y precisos.
 Datos analiticos Serie EL ONCE
-LATITUD:33º21'15"
-LONGITUD:63º09'28"
+LATITUD:S332115
+LONGITUD:O630928
 ALTITUD:126 m.s.n.m.
 |Horizonte                                                            |A       |2A      |2ACn    |2Cn     |
 |Profundidad de la muestra (cm)                                       |0-19    |19-40   |40-60   |60 a +  |

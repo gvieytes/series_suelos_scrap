@@ -8,8 +8,8 @@ A	0-26 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5);
 AC	26-53 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios debiles con tendencia masivo; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
 C	53 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso a areno franco; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie OLAETA
-LATITUD:33º00'39"
-LONGITUD:63º57'16"
+LATITUD:S330039
+LONGITUD:O635716
 ALTITUD:311 m.s.n.m.
 |Horizonte                                                             |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                        |0-26    |26-53   |53 a +  |

@@ -10,8 +10,8 @@ Btn2	35-57 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; e
 BCn	57-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco arcillo limoso; estructura en prismas irregulares medios debiles, rompen en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices comunes y medios; concreciones calcareas comunes, medias y gruesas; limite inferior claro, suave.
 BCm	74 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; fuertemente cementado; duro; moteados comunes, gruesos y sobresalientes; concreciones calcareas finas y medias.
 Datos analiticos Serie SANTA ELENA
-LATITUD:32º23'48"
-LONGITUD:62º08'25"
+LATITUD:S322348
+LONGITUD:O620825
 ALTITUD:96 m.s.n.m.
 |Horizonte                                                            |En      |Btn     |Btn2    |BCn     |BCm     |
 |Profundidad de la muestra (cm)                                       |0-14    |14-35   |35-57   |57-74   |74 a +  |

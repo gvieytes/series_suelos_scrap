@@ -1,5 +1,5 @@
 Serie ESTANCIA TODOS LOS SANTOS
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol litico paralitico
 TPS: franca gruesa, mixta, mesica
 Es un suelo escasamente desarrollado en las laderas altas de las Sierras Chicas de Cordoba; zona de pastizales de altura por encima de los 1000 m.s.n.m. Los materiales parentales de los suelos son rocas pertenecientes al complejo metamorfico (rocas esquistosas) con pendientes estimadas entre 20 a 45%. Los suelos son excesivamente drenados, cortos, 30 cm en el perfil modal donde comienza la roca parcialmente alterada. Dicha alteracion que se da de acuerdo al tamano de los minerales que integran la roca, mientras mas fino es mas duro, y la meteorizacion-edafizacion es menor en profundidad, razon por la cual es muy cambiante. El perfil descrito es uno de los mas frecuentes, siendo la profundidad efectiva variable segun la pendiente, tipo de roca metamorfica y exposicion al sol. En general son mas profundos y humedos los suelos que se encuentran en las laderas al Sur con todas las variaciones posibles de acuerdo a los factores mencionados. Presenta este perfil un horizonte A oscuro, franco arenoso, con 8,5% de arcilla y estructura en bloques subangulares moderados a debiles y 3,6% de materia organica. Sigue a continuacion una capa (2) que se extiende de 18 a 30 cm, algo mas clara (2,4% de materia organica), franco arenosa con gravilla escasa (no mas de 10%). A la profundidad indicada se encuentra la roca metamorfica esquistosa con estructura de roca parcialmente alterada. Las limitantes son rocosidad, pendiente, susceptibilidad a la erosion, profundidad efectiva, drenaje excesivo y retencion de humedad.
@@ -8,8 +8,8 @@ A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; 
 2	18-30 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques debiles; muy friable a suelto en humedo; no plastico; no adhesivo; raices escasas; 10% de gravillas; limite inferior claro.
 R	30 cm a+; roca esquistosa alterada con estructura de roca; color de acuerdo al mineral observado; parcialmente penetrable con herramientas manuales.
 Datos analiticos Serie ESTANCIA TODOS LOS SANTOS
-LATITUD:30º47'00"
-LONGITUD:64º20'30"
+LATITUD:S304700
+LONGITUD:O642030
 ALTITUD:1100 m.s.n.m.
 |Horizonte                                                            |A       |2       |
 |Profundidad de la muestra (cm)                                       |0-18    |18-30   |

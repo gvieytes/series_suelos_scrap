@@ -9,8 +9,8 @@ Btnk	21-59 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; e
 BCnk	59-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundante carbonato pulverulento en la masa del suelo; escasas concreciones de carbonato de calcio finas; escasos barnices arcillosos finos; moteados abundantes, finos y precisos; manchas de materia organica; limite inferior gradual, suave.
 Ck	92 cm a +; color en humedo pardo claro (7,5YR6/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante contenido de carbonato pulverulento en la masa del suelo; moteados abundantes, finos y precisos.
 Datos analiticos Serie IMPIRA
-LATITUD:31º48'58"
-LONGITUD:63º35'03"
+LATITUD:S314858
+LONGITUD:O633503
 ALTITUD:255 m.s.n.m.
 |Horizonte                                                            |Ek      |Btnk    |BCnk    |Ck      |
 |Profundidad de la muestra (cm)                                       |0-21    |21-59   |59-92   |92 a +  |

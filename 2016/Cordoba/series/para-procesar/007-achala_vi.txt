@@ -1,5 +1,5 @@
 Serie ACHALA VI
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol cumulico
 TPS: franca fina, mixta, termica
 La Serie Achala VI es un suelo moderadamente bien drenado, desarrollado en su forma mas tipica en laderas con un gradiente mas debil con respecto al resto de las pendientes, o bien en pequenos sectores protegidos por afloramientos. Se caracteriza por tener potente acumulacion proveniente de areas mas altas constituido por dos o mas horizontes oscuros. El primero llega hasta los 24 cm con textura franca a franco arcillosa y estructura en bloques subangulares medios moderados. Le sigue otro horizonte o capa (A2) hasta los 90 cm que se extiende a mayor profundidad de color pardo grisaceo muy oscuro y textura mas pesada.
@@ -7,8 +7,8 @@ UBICACION: en la cuenca estancia San Miguel, departamento San Alberto, provincia
 A	0-24 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco arcilloso; estructura en bloques subangulares medios moderados, friable en humedo; ligeramente plastico; adhesivo; pH 4,6; raices muy abundantes; limite inferior claro suave.
 A2	24 cm a +; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcilloso; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 4,9; napa freatica aproximadamente a 100 cm; raices abundantes.
 Datos analiticos Serie ACHALA VI
-LATITUD:31º44'
-LONGITUD:64º46'
+LATITUD:S314400
+LONGITUD:O644600
 ALTITUD:1900 m.s.n.m.
 |Horizonte                                                            |A       |A2      |
 |Profundidad de la muestra (cm)                                       |0-24    |24-70   |

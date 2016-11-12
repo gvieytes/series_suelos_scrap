@@ -9,8 +9,8 @@ Bw	20-42 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso a franco arc
 BC	42-67 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; vestigios de barnices arcillosos; escasos durinodulos medios; limite inferior abrupto, suave.
 Ck	67 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante carbonato pulverulento en la masa del suelo; cementado localmente el 30% de su volumen.
 Datos analiticos Serie MONTE CRISTO
-LATITUD:31º24'17"
-LONGITUD:63º47'33"
+LATITUD:S312417
+LONGITUD:O634733
 ALTITUD:335 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |22-42   |42-67   |67 a +  |

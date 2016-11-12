@@ -1,5 +1,5 @@
 Serie ALBARDONES
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol fluventico
 TPS: franca gruesa, mixta, termica
 Los suelos que integran esta Serie son algo excesivamente drenados con moderado contenido de sales y alcalis en profundidad (despues de 50 cm). Estan desarrollados incipientemente sobre capas aluviales muy proximas a los antiguos cauces del rio Petri o Dulce. Se pueden identificar por la vegetacion natural, con dominio de monte bien desarrollado (mistol, brea, quebracho, etc.) con algunas halofitas (jume blanco, en especial aislado). Los primeros 18 cm son de un color pardo grisaceo muy oscuro a pardo oscuro de textura franco arenosa fina con estructura en bloques debiles. Le sigue un horizonte de transicion hasta los 47 cm con condiciones naturales similares y estructura con tendencia masiva. Estos dos horizontes estan practicamente exentos de salinidad y alcalinidad. Luego se pasa bruscamente a otra capa fluvial que se extiende hasta 80 cm, tiene estructura en bloques subangulares moderados a debiles, textura franco arenosa fina, moderadamente alcalina y no salina. A mayor profundidad y hasta los 150 cm, hay otra capa con estructura masiva, franco arenosa fina, moderadamente salina y alcalina que se extiende hasta los 200 cm. No se ha observado la capa freatica ni evidencias de ella hasta la profundidad estudiada. Los suelos de esta Serie estan limitados por baja retencion de humedad en los horizontes superficiales. La alcalinidad y salinidad son moderadas por debajo de 50 cm. En algunos perfiles se han observado variaciones con respecto a los espesores de las capas superiores (A-AC) entre 30 y 70 cm; por consiguiente, varian tambien las profundidades de la alcalinidad y salinidad de la capa 2.
@@ -9,8 +9,8 @@ AC	18 - 47 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,
 2n	47 - 80 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arenoso a franco; estructura en bloques subangulares moderados a debiles; vestigios de barnices humico arcillosos; raices escasas; limite inferior abrupto, suave.
 3	80 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arenoso; masivo; vestigios de raices; pseudomicelios salinos escasos.
 Datos analiticos Serie ALBARDONES
-LATITUD:30º06'
-LONGITUD:63º07'
+LATITUD:S300600
+LONGITUD:O630700
 ALTITUD:70 m.s.n.m.
 |Horizonte                                                            |A       |AC      |2n      |3       |
 |Profundidad de la muestra (cm)                                       |0-18    |18-47   |47-80   |80 a +  |

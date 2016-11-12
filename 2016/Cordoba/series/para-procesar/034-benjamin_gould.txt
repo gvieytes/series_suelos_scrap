@@ -11,8 +11,8 @@ BCn	62-103 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructu
 C	103-124 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, medios y debiles; moderada cantidad de calcareo en concreciones finas; limite inferior abrupto, suave.
 Ck	124 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, medios y debiles; abundante calcareo diseminado en la masa.
 Datos analiticos Serie BENJAMIN GOULD
-LATITUD:33º31'21"
-LONGITUD:62º39'08"
+LATITUD:S333121
+LONGITUD:O623908
 ALTITUD:110 m.s.n.m.
 |Horizonte                                                            |E       |E2      |Btn     |BCn      |C          |Ck        |
 |Profundidad de la muestra (cm)                                       |0-19    |19-33   |33-62   |62-103   |103-124    |124 a +   |

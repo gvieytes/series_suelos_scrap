@@ -9,8 +9,8 @@ AC	25-40 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso 
 C	40-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 7,4; vestigios de raices; limite inferior abrupto, ondulado.
 Ck	92 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 8,6; moderada a violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie BAIGORRIA
-LATITUD:32º52'34"
-LONGITUD:64º23'34"
+LATITUD:S325234
+LONGITUD:O642334
 ALTITUD:583 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-25    |25-40   |40-92   |92 a +  |

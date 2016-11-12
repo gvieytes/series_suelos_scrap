@@ -9,8 +9,8 @@ Bw	19-38 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura 
 BC	38-57 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; vestigios de barnices (ClSk); limite inferior abrupto, suave.
 Ck	57 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie SACANTA
-LATITUD:31º41'24"
-LONGITUD:63º12'26"
+LATITUD:S314124
+LONGITUD:O631226
 ALTITUD:192 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-19    |19-38   |38-57   |57 a +  |

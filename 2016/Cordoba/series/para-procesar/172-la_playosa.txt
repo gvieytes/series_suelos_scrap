@@ -10,8 +10,8 @@ Btn	32-65 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo li
 BCzn	65-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso a franco limoso; estructura en prismas irregulares moderados a debiles rompe a bloques; ligeramente plastico; no adhesivo; barnices arcillosos escasos y finos; pseudomicelios salinos comunes; limite inferior abrupto, suave.
 Ckz	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; reaccion violenta al ClH en la masa del suelo; escasos durinodulos finos.
 Datos analiticos Serie LA PLAYOSA
-LATITUD:32º08'20"
-LONGITUD:62º58'11"
+LATITUD:S320820
+LONGITUD:O625811
 ALTITUD:163 m.s.n.m.
 |Horizonte                                                            |Ap      |AB      |Btn     |BCzn    |Ckz     |
 |Profundidad de la muestra (cm)                                       |0-21    |21-32   |32-65   |65-80   |80 a +  |

@@ -10,8 +10,8 @@ BCn	41-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; estructur
 Cn	60-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; moteados comunes, finos y precisos; concreciones calcareas escasas y finas; limite inferior abrupto, ondulado.
 2Ck	97 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; abundante calcareo diseminado en la masa del suelo; escasas concreciones; moteados abundantes, medios y debiles; escasos durinodulos.
 Datos analiticos Serie ALTO ALEGRE
-LATITUD:32º21'47"
-LONGITUD:62º46'13"
+LATITUD:S322147
+LONGITUD:O624613
 ALTITUD:137 m.s.n.m.
 |Horizonte                                                            |En      |Btn     |BCn     |Cn      |2Ck     |
 |Profundidad de la muestra (cm)                                       |0-17    |17-41   |41-60   |60-97   |97 a +  |

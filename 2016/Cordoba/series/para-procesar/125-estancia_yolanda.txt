@@ -9,8 +9,8 @@ Bw	20-43 cm; color en humedo pardo oscuro (10YR3/3), franco, estructura en prism
 BC	43-55 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco; estructura en bloques debiles tendencia masiva, vestigios de barnices arcillosos, vestigios de raices, limite inferior abrupto ondulado.
 C	55 cm a +; color en humedo pardo amarillento oscuro a pardo amarillento (10YR4,5/4), franco a franco limoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 7,5.
 Datos analiticos Serie ESTANCIA YOLANDA
-LATITUD:31º01'31"
-LONGITUD:63º26'06"
+LATITUD:S310131
+LONGITUD:O632606
 ALTITUD:143 m.s.n.m.
 |Horizonte                                                            |A     |Bw     |BC     |C       |
 |Profundidad de la muestra (cm)                                       |0-20  |20-43  |43-55  |55 a +  |

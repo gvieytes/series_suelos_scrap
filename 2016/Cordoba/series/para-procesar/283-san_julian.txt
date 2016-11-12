@@ -1,5 +1,5 @@
 Serie SAN JULIAN
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Natracuol tipico
 TPS: franca gruesa, mixta, termica
 La Serie San Julian es un suelo desarrollado sobre materiales franco arenosos en planos deprimidos y aureolas de lagunas y microdepresiones. El perfil es imperfecta a moderadamente bien drenado, permeabilidad moderadamente lenta, libre de sales y con alcalinidad sodica (con mas de 15% de sodio de intercambio) por debajo de 25 cm de profundidad. La parte superficial del suelo (A) tiene una estructura en bloques debiles, de color pardo grisaceo muy oscuro en humedo, de textura franco arenosa a franca, presenta algunos rasgos de lixiviacion y se extiende hasta 20 cm aproximadamente. Luego comienza un horizonte enriquecido en arcilla Btn (natrico) de textura franco arcillo arenosa a franco arenosa con 22% de arcilla en su composicion granulometrica y alcalinidad sodica. A partir de 43 cm de profundidad y hasta 70 cm continua un material transicional hacia el horizonte C (BC) con aumento notable en la alcalinidad sodica. El sustrato u horizonte C es de textura franco arenosa, con abundantes moteados, pudiendo encontrarse cementado a partir de 100 cm, siendo muy evidente a 130 cm de profundidad, en donde se transforma en un horizonte calcico y con una muy fuerte reaccion alcalina. Las limitaciones estan dadas por el drenaje con anegamientos frecuentes y la alcalinidad sodica subsuperficial que aumenta considerablemente con la profundidad.
@@ -10,8 +10,8 @@ BCn	43-69 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; e
 Cn	69-131 cm; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; pH 10; concreciones de CaCO3 escasas y finas; moteados abundantes finos, medios y precisos; raices escasas; limite inferior abrupto, irregular.
 Ckm	131 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; cementado con carbonato de calcio; pH 10,2; violenta reaccion al ClH en la masa; moteados comunes, finos y precisos.
 Datos Analiticos Serie SAN JULIAN
-LATITUD:33º55'30"
-LONGITUD:62º37'56"
+LATITUD:S335530
+LONGITUD:O623756
 ALTITUD:120 m.s.n.m.
 |Horizonte                                                            |A       |Btn     |BCn     |Cn       |Ckm      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-43   |43-69   |69-131   |131 a +  |

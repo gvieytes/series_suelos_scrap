@@ -10,8 +10,8 @@ Btn	33-64 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; est
 BCn	64-124 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares y bloques debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos medios; moteados comunes, medios, debiles; escasos durinodulos; limite inferior abrupto, ondulado.
 Ck	124 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco limoso; masivo; friable en humedo; moteados comunes, medios, debiles; abundante calcareo libre en la masa del suelo.
 Datos Analiticos Serie COLONIA PROGRESO
-LATITUD:33º18'21"
-LONGITUD:62º18'41"
+LATITUD:S331821
+LONGITUD:O621841
 ALTITUD:110,5 m.s.n.m.
 |Horizonte                                                             |A       |E       |Btn     |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                        |0-24    |24-33   |33-64   |64-124  |124 a + |

@@ -1,5 +1,5 @@
 Serie ACHALA II
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiudol litico
 TPS: esqueletica, franca, mixta, termica
 La Serie Achala II es un suelo moderadamente bien drenado desarrollado sobre materiales de alteracion de rocas graniticas en laderas altas escarpadas. El horizonte superior (A) es de 28 cm muy rico en materia organica, textura franco limosa a franco arcillo limosa y muy bien estructurado. Le sigue a continuacion un horizonte enriquecido en arcilla con barnices escasos en las caras de los agregados y textura franco arcillo limosa. A los 56 cm, hay una discontinuidad litologica compuesta por roca alterada cada vez mas endurecida en profundidad con algunos vestigios de barnices arcillosos. La pendiente predominante es del 10 al 25% con relieve pronunciado, escurrimiento rapido y permeabilidad moderada. A pesar de estas condiciones no se observan evidencias de erosion severa, merced a la alta estabilidad estructural.
@@ -8,8 +8,8 @@ A	0-28 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso a franco arc
 Bt	28-56 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en prismas irregulares; gruesos moteados; friable en humedo; plastico; ligeramente adhesivo; pH 5,1; barnices humico arcillosos escasos medios; raices comunes; limite inferior claro suave.
 2BC	56 cm a +; franco; masivo, no plastico; no adhesivo; moteados comunes medios y debiles.
 Datos analiticos Serie ACHALA II
-LATITUD:31º43'
-LONGITUD:64º47'
+LATITUD:S314300
+LONGITUD:O644700
 ALTITUD:1920 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |2BC     |
 |Profundidad de la muestra (cm)                                       |0-38    |38-56   |56 a +  |

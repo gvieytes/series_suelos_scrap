@@ -9,8 +9,8 @@ Bt	22-58 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco arcillosos
 BC	58-96 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos (ClSk); limite inferior difuso.
 C	96 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie EL CANTOR
-LATITUD:33º32'01"
-LONGITUD:62º11'19"
+LATITUD:S333201
+LONGITUD:O621119
 ALTITUD:115 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-22    |22-58   |58-96   |96 a +  |

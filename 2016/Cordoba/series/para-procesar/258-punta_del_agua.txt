@@ -9,8 +9,8 @@ UBICACION: a 2 km al Este de la localidad de Punta del Agua, departamento Tercer
 2AC	58-92 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
 2C	92 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie PUNTA DEL AGUA
-LATITUD:32º34'48"
-LONGITUD:63º47'37"
+LATITUD:S323448
+LONGITUD:O634737
 ALTITUD:270 m.s.n.m.
 |Horizonte                                                            |1k      |2A      |2AC     |2C      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-58   |58-92   |92 a +  |

@@ -9,8 +9,8 @@ Enk	17-42 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco a franc
 Btnk	42-70 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso a franco; estructura en prismas irregulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 9,6; moderada reaccion al ClH en la masa del suelo; barnices abundantes (clhm) medios; moteados comunes medios y precisos; limite inferior gradual.
 BCnk	70 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a franco; no plastico; no adhesivo; se encuentra saturado con agua.
 Datos analiticos Serie SANTA EUFEMIA
-LATITUD:33º16'24"
-LONGITUD:63º26'45"
+LATITUD:S331624
+LONGITUD:O632645
 ALTITUD:167 m.s.n.m.
 |Horizonte                                                            |Ak      |Enk     |Btnk    |BCnk    |
 |Profundidad de la muestra (cm)                                       |0-17    |17-42   |42-70   |70 a +  |

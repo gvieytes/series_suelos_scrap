@@ -1,5 +1,5 @@
 Serie DEVOTO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argialbol tipico
 TPS: fina, mixta, termica
 Es un suelo con drenaje moderado a imperfecto, desarrollado sobre materiales franco limosos, que ocupan amplios sectores aplanados y ligeramente deprimidos. Esta Serie ha sido reconocida solo en unidades compuestas, integrando mezclas con otros suelos cuya distribucion esta regida por el microrelieve. Los primeros 22 cm son de color oscuro, moderadamente provistos de materia organica, fuertemente acido, de textura franco limosa y estructura en bloques subangulares. Continua hacia abajo un horizonte degradado (E), franco limoso y estructura masiva. A los 31 cm de profundidad pasa abruptamente a un horizonte enriquecido en arcilla dividido en Bt y Bt2, de textura arcillo limosa y estructura columnar. El material originario se encuentra a 157 cm de profundidad, es de textura franco limosa con elevado contenido de calcareo pulverulento en la masa del suelo. Casi todo el perfil presenta sintomas de hidromorfismo, que se manifiesta por la presencia de moteados de Fe y Mn.
@@ -12,8 +12,8 @@ Bt2 	73-116 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo 
 BC	116-157 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en prismas irregulares medios moderados y bloques subangulares; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas concreciones de calcio finas; barnices comunes y finos; moteados abundantes, finos y precisos; limite inferior claro.
 Ck	157 cm a +; color en humedo pardo (7,5YR5/4); franco limoso a franco arcillo limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante contenido de calcareo libre en la masa del suelo; moteados abundantes, finos y precisos.
 Datos analiticos Serie Devoto
-LATITUD:31º36'29"
-LONGITUD:62º07'30"
+LATITUD:S313629
+LONGITUD:O620730
 ALTITUD:104 m.s.n.m.
 |Horizonte                                                  |Ap      |A       |E       |Bt      |Bt2     |BC      |Ck      |
 |Profundidad de la muestra (cm)                             |0-12    |12-22   |22-31   |31-73   |73-116  |116-157 |157 a + |

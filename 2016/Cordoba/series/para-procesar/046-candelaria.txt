@@ -9,8 +9,8 @@ Bw	22-45 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso a fra
 BC	45-76 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso a franco limoso; estructura en bloques debiles; friable en humado; ligeramente plastico, ligeramente adhesivo; pH 6,9; vestigios de barnices; raices escasas; limite inferior abrupto.
 Ck	76 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moderada reaccion al acido clorhidrico.
 Datos analiticos Serie CANDELARIA
-LATITUD:30º52'20"
-LONGITUD:63º52'10"
+LATITUD:S305220
+LONGITUD:O635210
 ALTITUD:317 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-45   |45-76   |76 a +  |

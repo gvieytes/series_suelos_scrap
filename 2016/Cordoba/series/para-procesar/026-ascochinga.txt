@@ -11,8 +11,8 @@ B	54-79 cm; color en humedo pardo oscuro (7,5YR3/3); franco; estructura en bloqu
 2BC	79-98 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares gruesos moderados; friable en humedo; barnices humico arcillosos escasos; pH 7,7; limite inferior abrupto, suave.
 2Ck	98 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; friable en humedo; pH 8,1; violenta reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo.
 Datos analiticos Serie ASCOCHINGA
-LATITUD:30º55'
-LONGITUD:64º14'
+LATITUD:S305500
+LONGITUD:O641400
 ALTITUD:600 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |Bt      |B       |2BC     |2Ck     |
 |Profundidad de la muestra (cm)                                       |0-11    |11-21   |21-54   |54-79   |79-98   |98 a +  |

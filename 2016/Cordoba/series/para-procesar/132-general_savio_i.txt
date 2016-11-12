@@ -9,8 +9,8 @@ A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructu
 2Bt2	43-70 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en prismas irregulares medios moderados a fuertes; friable en humedo; plastico; adhesivo; barnices arcillosos comunes; limite inferior gradual.
 2BC	70 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; estructura en prismas y bloques moderados a debiles; friable en humedo; plastico; ligeramente adhesivo; pH 6,5; barnices arcillosos escasos; se observan gravillas no mas del 10%.
 Datos analiticos Serie GENERAL SAVIO I
-LATITUD:32º11'15"
-LONGITUD:64º10'26"
+LATITUD:S321115
+LONGITUD:O641026
 ALTITUD:397 m.s.n.m.
 |Horizonte                                                             |A       |2Bt     |2Bt2    |2BC     |
 |Profundidad de la muestra (cm)                                        |0-18    |18-43   |43-70   |70 a +  |

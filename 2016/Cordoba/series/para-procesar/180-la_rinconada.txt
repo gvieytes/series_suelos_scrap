@@ -9,8 +9,8 @@ Bkn	 17 - 42 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/
 BCkn	42 - 66 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arcillo limoso a franco limoso; estructura en prismas y bloques irregulares; friable en humedo; plastico; adhesivo; moderada reaccion al ClH en la masa del suelo; barnices humico arcillosos abundantes a escasos finos; raices escasas; cristales de yeso comunes; limite inferior gradual suave.
 Ckz	66 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso a franco limoso; masivo; plastico; ligeramente adhesivo; violenta reaccion la ClH en la masa en el suelo.
 Datos analiticos Serie LA RINCONADA
-LATITUD:30º16'
-LONGITUD:63º09'
+LATITUD:S301600
+LONGITUD:O630900
 ALTITUD:70 m.s.n.m.
 |Horizonte                                                            |E       |Bkn     |BCkn    |Ckz     |
 |Profundidad de la muestra (cm)                                       |0-17    |17-42   |42-66   |66 a +  |

@@ -1,5 +1,5 @@
 Serie LUQUE
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustalf tipico
 TPS: limosa fina, mixta, termica
 Los suelos que responden a esta Serie son profundos, moderadamente bien drenados a imperfectamente drenados, desarrollados a partir de sedimentos loessicos de textura franco limosa. Ocupan un relieve de planos tendidos a ligeramente deprimidos. Presenta un horizonte superficial de 16 cm de espesor, del cual han sido removidos arcilla y humus, por lo cual su color es claro y la estructura debil a masiva. El subsuelo (horizonte Bt y Bt2), presenta un enriquecimiento en arcilla, de textura franco arcillo limosa y estructura columnar media con abundantes barnices en la cara de los agregados. La baja permeabilidad de este horizonte constituye un impedimento para el pasaje del agua a traves del perfil. El pasaje al material originario es gradual, encontrandose este (horizonte Ck) a 86 cm de profundidad. La falta de aireacion del suelo, consecuencia del drenaje deficiente y la inestabilidad de los agregados determina que el rango de cultivos posible sea limitado.
@@ -10,8 +10,8 @@ Bt2	41-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo li
 BC	60-86 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; escasos barnices arcillosos finos; moteados abundantes, finos y precisos; escasos durinodulos; limite inferior abrupto, suave.
 Ck	86 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo.
 Datos Analiticos Serie LUQUE
-LATITUD:31º34'50"
-LONGITUD:63º09'10"
+LATITUD:S313450
+LONGITUD:O630910
 ALTITUD:178 m.s.n.m.
 |Horizonte                                                            |Ap      |Bt      |Bt2     |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-16    |16-41   |41-60   |60-86   |86 a +  |

@@ -9,8 +9,8 @@ Btz	15 - 35 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcil
 BCz	35 - 63 cm; color en humedo pardo (7,5YR5/4); franco arcillo limoso a franco limoso; friable en humedo; barnices arcillosos escasos y finos; reaccion en puntos al ClH en la masa del suelo; limite inferior abrupto, suave.
 Ckz	63 cm a +; color en humedo pardo (7,5YR5/4); franco limoso a franco arcillo limoso; masivo; violenta reaccion al ClH en la masa del suelo; el horizonte esta afectado por la capa freatica.
 Datos analiticos Serie LA ANGELITA
-LATITUD:29º51'
-LONGITUD:63º13'
+LATITUD:S295100
+LONGITUD:O631300
 ALTITUD:80 m.s.n.m.
 |Horizonte                                                            |Az      |Btz     |BCz     |Ckz     |
 |Profundidad de la muestra (cm)                                       |0-15    |15-35   |35-63   |63 a +  |

@@ -8,8 +8,8 @@ A	0-22 cm; color en humedo pardo oscuro (10YR3/3), franco arenoso, estructura en
 AC	22-53 cm; color en humedo pardo oscuro (10YR3/3), franco arenoso, estructura en bloques debiles a masivo, friable en humedo, muy friable en humedo, no plastico, no adhesivo, pH 7,2, vestigios de raices, limite inferior gradual.
 C	53 cm a +; color en humedo pardo amarillento oscuro (10YR4/4), franco arenoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 7,9.
 Datos analiticos Serie LA PARA
-LATITUD:31º13'48"
-LONGITUD:63º26'23"
+LATITUD:S311348
+LONGITUD:O632623
 ALTITUD:197 m.s.n.m.
 |Horizonte                                                            |A     |AC     |C       |
 |Profundidad de la muestra (cm)                                       |0-22  |22-53  |53 a +  |

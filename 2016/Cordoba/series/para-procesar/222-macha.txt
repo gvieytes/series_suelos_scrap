@@ -10,8 +10,8 @@ BC	42-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo lim
 C	62-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; ligeramente plastico; no adhesivo; pH 7; limite inferior abrupto ondulado.
 Ck	85 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; pH 8,2; moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie MACHA
-LATITUD:30º37'39"
-LONGITUD:64º08'45"
+LATITUD:S303739
+LONGITUD:O640845
 ALTITUD:650 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-22    |22-42   |42-62   |62-85   |

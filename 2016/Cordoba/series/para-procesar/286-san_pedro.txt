@@ -8,8 +8,8 @@ A	0 - 23 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura e
 AC	23 - 59 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; estructura en bloques subangulares medios debiles, tendencia masivo; friable en humedo; pH 7,4; raices comunes; limite inferior abrupto, suave.
 Ck	59 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; friable en humedo; pH 8,3; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie SAN PEDRO
-LATITUD:29º45'
-LONGITUD:63º35'
+LATITUD:S294500
+LONGITUD:O633500
 ALTITUD:300 m.s.n.m.
 |Horizonte                                                            |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-59   |59 a +  |

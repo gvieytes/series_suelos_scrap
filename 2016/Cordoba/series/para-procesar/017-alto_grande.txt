@@ -9,8 +9,8 @@ Bw	20-38 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura e
 BCk	38-65 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares debiles gruesos; friable en humedo; ligeramente plastico; no adhesivo; pH 7,6; leve reaccion al ClH en la masa del suelo; vestigios de barnices arcillosos; limite inferior gradual, suave.
 Ck	65 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie ALTO GRANDE
-LATITUD:30º51'59"
-LONGITUD:64º03'57"
+LATITUD:S305159
+LONGITUD:O640357
 ALTITUD:570 m.s.n.m
 |Horizonte                                                            |A       |Bw      | BCk    |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-38   |38-65   |65 a +  |

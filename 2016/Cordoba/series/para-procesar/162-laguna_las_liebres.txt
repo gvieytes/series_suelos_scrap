@@ -10,8 +10,8 @@ Btn2	26-41 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcill
 BCn	41-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, estructura en bloques subangulares medios debiles, tendencia masivo; friable en humedo; ligeramente plastico; no adhesivo; concreciones de Fe y Mn abundantes medias; vestigios de barnices; moteados escasos, finos y debiles; debilmente cementado; limite inferior abrupto, suave.
 Ckn	71 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; violenta reaccion al ClH en la masa del suelo; moteados escasos, finos y debiles; escasos durinodulos.
 Datos analiticos Serie LAGUNA LAS LIEBRES
-LATITUD:32º18'25"
-LONGITUD:62º51'58"
+LATITUD:S321825
+LONGITUD:O625158
 ALTITUD:164 m.s.n.m.
 |Horizonte                                                             |Apn     |Btn     |Btn2    |BCn     |Ckn     |
 |Profundidad de la muestra (cm)                                        |0-13    |13-26   |26-41   |41-71   |71 a +  |

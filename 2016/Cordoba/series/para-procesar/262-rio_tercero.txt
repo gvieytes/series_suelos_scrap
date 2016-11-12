@@ -12,8 +12,8 @@ Btnz	54-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso a 
 BCkz	80-110 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay skins" escasos muy finos; escasos nodulos cementados; moderada cantidad de concreciones calcareas y carbonatos libres en la masa; limite inferior difuso.
 Ck	110-140 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; escasa cantidad de concreciones calcareas y alto contenido de carbonatos libres en la masa.
 Datos Analiticos Serie RIO TERCERO
-LATITUD:32º44'28"
-LONGITUD:62º29'41"
+LATITUD:S324428
+LONGITUD:O622941
 ALTITUD:110 m.s.n.m.
 |Horizonte                                                  |Ap      |A       |E       |Btn     |Btnz    |BCkz    |Ck      |
 |Profundidad de la muestra (cm)                             |0-14    |14-23   |23-32   |32-54   |54-80   |80-110  |110 a + |

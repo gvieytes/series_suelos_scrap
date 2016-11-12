@@ -10,8 +10,8 @@ Btn	34-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arenoso a franco a
 BCn	52-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso; estructura en bloques subangulares muy debiles; muy friable en humedo; barnices muy escasos y finos; moteados comunes, medios y sobresalientes; limite inferior gradual, suave.
 C	75 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso; masivo; muy friable en humedo; moteados comunes, medios y sobresalientes.
 Datos analiticos de la Serie ROSALES
-LATITUD:34º03'45"
-LONGITUD:63º05'12"
+LATITUD:S340345
+LONGITUD:O630512
 ALTITUD:127 m.s.n.m.
 |Horizonte                                                            |A       |E       |Btn     |BCn     |C       |
 |Profundidad de la muestra (cm)                                       |0-23    |23-34   |34-52   |52-75   |75 a +  |

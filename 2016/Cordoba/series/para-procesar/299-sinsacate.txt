@@ -9,8 +9,8 @@ Bt	38-90 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo
 BC	90-120 cm; color en humedo pardo amarillento oscuro (10YR4/4) franco limoso; masivo; friable en humedo; pH 6,7; barnices comunes arcillosos; vestigios de raices; limite inferior gradual.
 C	120 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,6.
 Datos analiticos Serie SINSACATE
-LATITUD:30º54'45"
-LONGITUD:64º06'28"
+LATITUD:S305445
+LONGITUD:O640628
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC       |C       |
 |Profundidad de la muestra (cm)                                       |0-38    |38-90   |90-120   |120 a + |

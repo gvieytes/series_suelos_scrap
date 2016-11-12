@@ -9,8 +9,8 @@ Bt	20-44 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; 
 BC	44-65 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; estructura en bloques y prismas debiles; friable en humedo; no plastico; ligeramente adhesivo; pH 7,4; barnices arcillosos escasos y finos; limite inferior abrupto, ondulado.
 Ck	65 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,2.
 Datos analiticos Serie EL CORTIJO
-LATITUD:30º45'26"
-LONGITUD:64º02'31"
+LATITUD:S304526
+LONGITUD:O640231
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-44   |44-65   |65 a +  |

@@ -1,5 +1,5 @@
 Serie ESTACION SANTA ROSA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiustol tipico
 TPS: franca fina, mixta, termica
 Este suelo se ha desarrollado a partir de derrames de desbordes de paleocauces o cauces actuales pertenecientes al sistema del rio Suquia (Primero), de textura franco arcillo arenosa a franca. El relieve corresponde a planos suavemente inclinados hacia el NE en sentido de la pendiente regional. Presenta un horizonte superior A de 19 cm de textura franca a franco arcillosa con estructura en bloques, continua hacia abajo un horizonte enriquecido en arcillas (Bt) con estructura en prismas irregulares medios moderados, barnices comunes a abundantes en las caras de los agregados, textura franco arcillosa, que se extiende hasta 41 cm de profundidad. Luego de una transicion, aparece el material parental Ck de textura franco arcillo arenosa con violenta reaccion al acido clorhidrico en la masa del suelo. Este suelo, practicamente no tiene limitantes excepto las derivadas de los aspectos climaticos.
@@ -9,8 +9,8 @@ Bt	19-41 cm; color en humedo pardo oscuro (10YR3/3), franco arcilloso, estructur
 BC	41-60 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco arcillo arenoso, estructura en prismas y bloques debiles, ligeramente plastico, ligeramente adhesivo, pH 7,4, barnices arcillosos escasos, raices escasas a vestigios, limite inferior abrupto ondulado.
 Ck	60 cm a +; color en humedo pardo amarillento oscuro (10YR3/4), franco arcillo arenoso, masivo, ligeramente plastico, no adhesivo, pH 7,9, moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie ESTACION SANTA ROSA
-LATITUD:31º08'53"
-LONGITUD:63º25'04"
+LATITUD:S310853
+LONGITUD:O632504
 ALTITUD:169 m.s.n.m.
 |Horizonte                                                            |A     |Bt     |BC     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-19  |19-41  |41-60  |60 a +  |

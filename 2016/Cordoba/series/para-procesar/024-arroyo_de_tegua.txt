@@ -1,5 +1,5 @@
 Serie ARROYO DE TEGUA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol thapto molico
 TPS: franca gruesa, mixta, termica
 Los suelos de esta Serie son profundos, moderadamente bien drenados, desarrollados a partir de sedimentos loessicos de textura franca a franco limosa y cubiertos por materiales redepositados por el arroyo de Tegua, en las terrazas bajas del mismo. La capa arable o suelo superficial (horizonte Ak), tiene 27 cm de espesor, de textura franca a franco limosa, estructura en bloques subangulares medios moderados, moderado tenor de carbonato pulverulento en la masa del suelo. Hacia abajo presenta un cambio de material (horizonte 2Ck) de textura franco limosa, sin estructura y moderado contenido de carbonato en la masa. A 62 cm de profundidad, aparece el suelo original (horizonte 3Ak) de textura franca a franco limosa, estructura en bloques subangulares medios moderados y escaso contenido de carbonato pulverulento. Estos suelos presentan una reaccion moderadamente alcalina en todo el perfil, debido a la presencia de carbonato libre en la masa, lo que, sumado a la limitacion climatica natural del area, restringen su uso agricola.
@@ -8,8 +8,8 @@ Ak	0-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco
 2Ck	27-62 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; moderado contenido de carbonato pulverulento; limite inferior abrupto, suave.
 3Ak	62 cm a +; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escaso contenido de carbonato en la masa del suelo; moteados abundantes, medios y precisos.
 Datos analiticos Serie ARROYO DE TEGUA
-LATITUD:32º35'03"
-LONGITUD:63º48'59"
+LATITUD:S323503
+LONGITUD:O634859
 ALTITUD:277 m.s.n.m.
 |Horizonte                                           |Ak      |2Ck     |3Ak     |
 |Profundidad de la muestra (cm)                      |0-27    |27-62   |62 a +  |

@@ -7,8 +7,8 @@ UBICACION: a 12 km al Este de Charbonier, departamento Ischilin, provincia de Co
 A	0-10 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso gravillosa (aproximadamente 40% de gravas); estructura en bloques subangulares medios fuertes; friable en humedo; ligeramente plastico; no adhesivo; pH 7,2; raices muy abundantes.
 R	10 cm a +; roca moderadamente alterada; color variable segun los minerales y el grado de alteracion.
 Datos analiticos Serie PAJARILLO
-LATITUD:30º45'18"
-LONGITUD:64º26'46"
+LATITUD:S304518
+LONGITUD:O642646
 ALTITUD:1300 m.s.n.m.
 |Horizonte                                                            |A       |
 |Profundidad de la muestra (cm)                                       |0-10    |

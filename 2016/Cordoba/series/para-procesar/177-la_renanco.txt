@@ -10,8 +10,8 @@ Btn	40-60 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo arenoso; es
 BCn	60-86 cm; color en humedo pardo oscuro (10YR3,5/3); franco arenoso; friable en humedo; no plastico; no adhesivo; escasos barnices finos; moteados comunes, medios, precisos; escasas concreciones calcareas finas; limite inferior gradual, suave.
 C	86 cm a +; color en humedo pardo oscuro (10YR3,5/3); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, medios, precisos; escasas concreciones calcareas finas.
 Datos analiticos de la Serie LA RENANCO
-LATITUD:34º36'55"
-LONGITUD:64º22'22"
+LATITUD:S343655
+LONGITUD:O642222
 ALTITUD:187 m.s.n.m.
 |Horizonte                                                            |E       |E2      |Btn     |BCn     |C       |
 |Profundidad de la muestra (cm)                                       |0-15    |15-40   |40-60   |60-86   |86 a +  |

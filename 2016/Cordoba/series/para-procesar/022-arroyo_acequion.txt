@@ -12,8 +12,8 @@ C	65-87 cm; color en humedo pardo oscuro (10YR3/3); color en seco pardo amarille
 2	87-107 cm; arenoso; grano simple, suelto, no plastico, no adhesivo.
 3	107 cm a +; color en humedo variable; arenoso; abundantes laminillas de mica en todo el perfil.
 Datos analiticos Serie ARROYO ACEQUION
-LATITUD:32º11'12"
-LONGITUD:62º44'13"
+LATITUD:S321112
+LONGITUD:O624413
 ALTITUD:137 m.s.n.m.
 |Horizonte                                           |A     |AB    |Bt    |BC    |C     |2      |3       |
 |Profundidad de la muestra (cm)                      |0-13  |13-18 |18-44 |44-65 |65-87 |87-107 |107 a + |

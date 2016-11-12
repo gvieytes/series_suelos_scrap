@@ -1,5 +1,5 @@
 Serie PUESTO JACINTO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol paquico
 TPS: franca gruesa, mixta, termica
 Es un suelo algo excesivamente drenado desarrollado sobre sedimentos aluviales en capas de texturas gruesas en los vallecitos longitudinales interserranos de las sierras bajas de rocas conglomeradicas (posiblemente de edad Cretacica). El escurrimiento es medio a rapido con pendientes que oscilan entre 3 al 10%. Tiene susceptibilidad severa a la erosion hidrica normalmente con la formacion de pequenas carcavas o surcos en la parte central de los pequenos valles. Presenta un horizonte A superficial de 52 cm de profundidad de textura franco arenosa con 10% de arcilla y estructura en bloques moderados a debiles. La parte superior de unos 12 cm de profundidad ha sido arada, mostrando diferencias con el resto del horizonte poco significativas. Desde la profundidad indicada, hasta mas de 1 m se encuentra una capa donde el porcentaje de arenas muy gruesas se duplica (inclusive se observan gravillas) de textura franco arenosa gruesa y 8% de arcilla. Las limitantes estan dadas por la baja a moderada retencion de humedad, pendiente y climatica de caracter moderada.
@@ -8,8 +8,8 @@ Ap	0-12 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso; estructur
 A	12-52 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso; estructura en bloques subangulares medios debiles a moderados; friable en humedo; no plastico; no adhesivo; pH 6,3; raices escasas; limite inferior claro, suave.
 2	52 cm a +; color en humedo pardo oscuro (10YR3/3); franco arenoso a areno franco (con gravillas); masivo tendencia a grano simple; friable a suelto; no plastico; no adhesivo; pH 6,6.
 Datos analiticos Serie PUESTO JACINTO
-LATITUD:30º35'51"
-LONGITUD:64º10'35"
+LATITUD:S303551
+LONGITUD:O641035
 ALTITUD:600 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |2       |
 |Profundidad de la muestra (cm)                                       |0-12    |12-52   |52 a +  |

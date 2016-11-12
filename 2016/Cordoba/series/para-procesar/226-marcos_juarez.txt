@@ -12,8 +12,8 @@ BC	66-94 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 C	94-138 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; escasos durinodulos; limite inferior abrupto.
 Ck	138 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante cantidad de concreciones calcareas y carbonatos libres en la masa.
 Datos analiticos Serie MARCOS JUAREZ
-LATITUD:32º34'35"
-LONGITUD:62º05'37"
+LATITUD:S323435
+LONGITUD:O620537
 ALTITUD:107 m.s.n.m.
 |Horizonte                                                    |Ap      |BA      |Bt      |Bt2     |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                               |0-19    |19-26   |26-47   |47-66   |66-94   |94-138  |138 a + |

@@ -8,8 +8,8 @@ Ap	0-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso;
 AC	25-54 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso a areno franco; estructura en bloques subangulares debiles con tendencia a masivo; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
 C	54 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); areno franco a arenoso; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie CANALS
-LATITUD:33º37'49"
-LONGITUD:62º51'20"
+LATITUD:S333749
+LONGITUD:O625120
 ALTITUD:119 m.s.n.m.
 |Horizonte                                                            |Ap      |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-25    |25-54   |54 a +  |

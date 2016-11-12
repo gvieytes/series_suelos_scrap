@@ -13,8 +13,8 @@ BC	112-133 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco ro
 BCk	133-162 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco rosa (7,5YR7/4); franco limoso; estructura en prismas medios debiles que rompen en bloques subangulares medios moderados; muy friable en humedo; ligeramente plastico; abundantes carbonatos libres en la masa; escasas concreciones calcareas; moteados escasos, finos y precisos; moderadamente cementado en nodulos; limite inferior difuso, suave.
 Ck	162 cm a +; color en humedo pardo (7,5YR5/4); color en seco gris rosado (7,5YR7/2); franco limoso; estructura en grano simple; muy friable en humedo; ligeramente plastico; moderada cantidad de carbonatos libres en la masa; escasas concreciones calcareas.
 Datos analiticos Serie AREQUITO
-LATITUD:33º11'44"
-LONGITUD:61º26'15"
+LATITUD:S331144
+LONGITUD:O612615
 ALTITUD:90 m.s.n.m.
 |Horizonte                                                             |Ap      |A       |B       |Bt      |Btm     |
 |Profundidad de la muestra (cm)                                        |0-13    |13-35   |35-53   |53-80   |80 a +  |

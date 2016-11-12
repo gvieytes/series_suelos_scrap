@@ -1,5 +1,5 @@
 Serie ESTANCIA ADELAIDA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiustol acuico
 TPS: limosa fina, mixta, termica
 La Serie Estancia Adelaida es un suelo bien drenado a algo excesivamente, desarrollado sobre materiales franco limosos de derrames en albardones y areas proximas a paleocauces. El horizonte superficial tiene 21 cm de espesor, es oscuro, de textura franco limosa y estructura en bloques subangulares. Le sigue un horizonte mas arcilloso (Bt ligeramente textural), franco limoso con estructura en prismas y barnices humico arcilloso escasos a abundantes en las caras de los agregados y ligeramente alcalino. A 39 cm, comienza un horizonte de transicion con textura franco limosa y calcareo diseminado en la masa del suelo (BCn), presenta 29% de sodio de intercambio (moderadamente alcalino) y 7,4 mmhos de conductividad (debilmente salino). El horizonte C (material originario) se extiende desde 70 cm hasta aproximadamente 100 cm con textura franco limosa y moderadamente salino/alcalino. A continuacion existen discontinuidades con capas fluviales de texturas francas. Este suelo no presenta sintomas de hidromorfismo ni peligro de anegamiento y/o inundacion.
@@ -10,8 +10,8 @@ BCn	39-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; es
 C	70-103 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; masivo; violenta reaccion al acido clorhidrico en la masa del suelo; moteados de Fe escasos; limite abrupto suave.
 2kn	103 cm a +; franco limoso a franco; masivo; violenta reaccion al acido clorhidrico en la masa del suelo; moteados escasos finos y debiles.
 Datos analiticos Serie ESTANCIA ADELAIDA
-LATITUD:32º12'09"
-LONGITUD:62º52'34"
+LATITUD:S321209
+LONGITUD:O625234
 ALTITUD:149 m.s.n.m.
 |Horizonte                                                             |A       |Bt      |BCn     |C        |2kn       |
 |Profundidad de la muestra (cm)                                        |0-21    |21-39   |39-70   |70-103   |103 a +   |

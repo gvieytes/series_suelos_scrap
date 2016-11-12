@@ -10,8 +10,8 @@ Ap	0-26 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloque
 2BC	74-96 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso a franco arcillo arenoso; estructura en prismas irregulares gruesos moderados a masivo; duro en seco; barnices escasos finos; ligeramente plastico; ligeramente adhesivo; limite inferior gradual, suave.
 3	96 cm a +; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso a arenoso franco; masivo; duro en seco; no plastico; no adhesivo.
 Datos analiticos Serie SAN PABLO
-LATITUD:30º55'50"
-LONGITUD:64º10'00"
+LATITUD:S305550
+LONGITUD:O641000
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                            |Ap      |2Bw     |2Bw2    |2BC     |3       |
 |Profundidad de la muestra (cm)                                       |0-26    |26-38   |38-74   |74-96   |96 a +  |

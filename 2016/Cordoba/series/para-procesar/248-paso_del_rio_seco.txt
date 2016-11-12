@@ -7,8 +7,8 @@ UBICACION: a 4,4 Km al SE de Paso del Rio Seco, departamento Rio Cuarto, provinc
 Ap	0-18 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura de grano simple; no plastico; no adhesivo; limite inferior abrupto suave.
 2	18 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; no plastico; no adhesivo.
 Datos analiticos Serie PASO DEL RIO SECO
-LATITUD:32º52'
-LONGITUD:64º31'
+LATITUD:S325200
+LONGITUD:O643100
 ALTITUD:500 m.s.n.m.
 |Horizonte                                                             |Ap      |2       |
 |Profundidad de la muestra (cm)                                        |0-18    |18 a +  |

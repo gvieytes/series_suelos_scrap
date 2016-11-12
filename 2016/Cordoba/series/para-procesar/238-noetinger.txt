@@ -10,8 +10,8 @@ BC	47-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 C	92-123 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; escasos durinodulos finos; limite inferior abrupto, ondulado.
 Ck	123 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; no plastico; no adhesivo; abundante calcareo libre diseminado en la masa del suelo; escasos durinodulos finos y medios.
 Datos analiticos Serie NOETINGER
-LATITUD:32º28'56"
-LONGITUD:62º20'51"
+LATITUD:S322856
+LONGITUD:O622051
 ALTITUD:112 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                       |0-18    |18-47   |47-92   |92-123   |123 a +   |

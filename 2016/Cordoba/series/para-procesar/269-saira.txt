@@ -12,8 +12,8 @@ BC	64-93 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 Cz	93-140 cm; color en humedo pardo (7,5YR5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moteados comunes medios y debiles; durinodulos escasos y finos; concreciones calcareas escasas y finas; limite inferior abrupto, ondulado.
 2kz	140 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo libre diseminado en la masa.
 Datos analiticos Serie SAIRA
-LATITUD:32º24'41"
-LONGITUD:62º09'09"
+LATITUD:S322441
+LONGITUD:O620909
 ALTITUD:98 m.s.n.m.
 |Horizonte                                                    |Ap      |E/B     |Bt      |Bt2     |BC      |Cz       |2kz      |
 |Profundidad de la muestra (cm)                               |0-21    |21-29   |29-47   |47-64   |64-93   |93-140   |140 a +  |

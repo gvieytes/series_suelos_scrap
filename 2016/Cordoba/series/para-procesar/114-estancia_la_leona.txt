@@ -11,8 +11,8 @@ Btn2	47-63 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo l
 BCn	63-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso a franco limoso; estructura en prismas muy debiles, tendencia masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; concreciones de CO3Ca comunes y finas; moteados abundantes finos y precisos; limite inferior abrupto.
 Ck	95 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; parcialmente cementado (30%), escasos pseudomicelios salinos.
 Datos analiticos Serie ESTANCIA LA LEONA
-LATITUD:32º01'26"
-LONGITUD:62º59'08"
+LATITUD:S320126
+LONGITUD:O625908
 ALTITUD:165 m.s.n.m.
 |Horizonte                                                            |Ap      |E       |Btn     |Btn2    |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-24   |24-47   |47-61   |61-95   |95 a +  |

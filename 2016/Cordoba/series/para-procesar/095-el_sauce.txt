@@ -11,8 +11,8 @@ Btk	55-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; es
 BCk	75-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; barnices arcillosos (ClSk) escasos y finos; moteados abundantes, medios y precisos; abundante calcareo en la masa del suelo; limite inferior gradual.
 Ck	100 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo en la masa del suelo; moteados abundantes, medios y precisos.
 Datos analiticos Serie EL SAUCE
-LATITUD:32º05'06"
-LONGITUD:63º32'02"
+LATITUD:S320506
+LONGITUD:O633202
 ALTITUD:255 m.s.n.m.
 |Horizonte                                                            |E       |E2      |Bt      |Btk     |BCk      |Ck        |
 |Profundidad de la muestra (cm)                                       |0-12    |12-29   |29-55   |55-75   |75-100   |100 a +   |

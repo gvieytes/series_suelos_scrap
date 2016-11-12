@@ -1,5 +1,5 @@
 Serie EL CHACAY
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol entico
 TPS: franca gruesa, mixta, termica
 La Serie El Chacay es un suelo somero, algo excesivamente drenado, desarrollado a partir de materiales de origen coluvial, vinculado a areas fuertemente inclinadas o colinadas. El perfil esta formado por una sucesion de capas; la superior posee moderado tenor de materia organica, es franco arenosa, debilmente estructurada y con gravilla, siguiendole una capa arenosa franca con fragmentos de roca alterada, separadas mediante limites abruptos. A los 63 cm se encuentra la roca firme.
@@ -8,8 +8,8 @@ A	0-40 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura gr
 2C	40-63 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; presencia de fragmentos de roca; friable en humedo; no plastico; no adhesivo.
 3R	63 cm a +.
 Datos analiticos Serie EL CHACAY
-LATITUD:32º54'
-LONGITUD:64º52'
+LATITUD:S325400
+LONGITUD:O645200
 ALTITUD:750 m.s.n.m.
 |Horizonte                                                             |A       |2C      |
 |Profundidad de la muestra (cm)                                        |0-40    |40-63   |

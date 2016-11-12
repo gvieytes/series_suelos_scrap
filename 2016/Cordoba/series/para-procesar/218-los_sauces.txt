@@ -10,8 +10,8 @@ BC	37-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 C	60-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; limite inferior abrupto, suave.
 Ck	80 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; reaccion violenta al ClH de corta duracion.
 Datos analiticos Serie LOS SAUCES
-LATITUD:29º48'
-LONGITUD:63º36'
+LATITUD:S294800
+LONGITUD:O633600
 ALTITUD:297 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-37   |37-60   |60-80   |80 a +  |

@@ -10,8 +10,8 @@ BCn	42-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; es
 C	75-93 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; escasas concreciones calcareas finas y medias; limite inferior abrupto, suave.
 Ck	93 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento diseminado en la masa del suelo.
 Datos analiticos Serie CINTRA
-LATITUD:32º20'29"
-LONGITUD:62º43'14"
+LATITUD:S322029
+LONGITUD:O624314
 ALTITUD:134 m.s.n.m.
 |Horizonte                                                             |A       |Bt      |BCn     |C       |Ck       |
 |Profundidad de la muestra (cm)                                        |0-12    |12-42   |42-75   |75-93   |93 a +   |

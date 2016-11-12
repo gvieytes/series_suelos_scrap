@@ -12,8 +12,8 @@ BC	72-101 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; es
 C	101-148 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; escasos durinodulos finos; limite inferior abrupto, ondulado.
 Ck	148 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante cantidad de carbonatos libres en la masa.
 Datos analiticos Serie HANSEN
-LATITUD:33º01'35"
-LONGITUD:60º47'19"
+LATITUD:S330135
+LONGITUD:O604719
 ALTITUD:35 m.s.n.m.
 |Horizonte                                                            |A       |BA      |Bt      |Bt2     |BC       |C          |
 |Profundidad de la muestra (cm)                                       |0-17    |17-26   |26-49   |49-72   |72-101   |101-148    |

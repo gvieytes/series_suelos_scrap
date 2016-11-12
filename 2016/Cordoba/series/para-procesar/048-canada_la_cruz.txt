@@ -9,8 +9,8 @@ E	18-26 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (1
 Bt	26-67 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura semicolumnar medio, rompe a prismas; firme en humedo; plastico; adhesivo; concreciones de FeMn escasas medias; barnices muy abundantes medios y gruesos; moteados abundantes, finos y precisos; raices escasas; limite gradual, suave.
 Btm	67 cm a +; color en humedo pardo grisaceo oscuro (10YR4/2); franco arcillo limoso a franco arcilloso, cementado 70%; plastico; adhesivo; concreciones de Ca y Mn muy abundantes; barnices humico arcillosos abundantes medios; moteados muy abundantes.
 Datos analiticos Serie CANADA LA CRUZ
-LATITUD:32º05'24"
-LONGITUD:62º44'19"
+LATITUD:S320524
+LONGITUD:O624419
 ALTITUD:137 m.s.n.m.
 |Horizonte                                                            |Ap      |E       |Bt      |Btm     |
 |Profundidad de la muestra (cm)                                       |0-18    |18-26   |26-67   |67 a +  |

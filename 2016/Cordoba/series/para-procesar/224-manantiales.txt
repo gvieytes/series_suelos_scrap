@@ -11,8 +11,8 @@ BCn	52-77 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso; e
 C	77-105 cm; color en humedo pardo (7,5YR4,5/4); areno franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,7; concreciones escasas y finas de carbonato de calcio; limite inferior abrupto.
 Ck	105 cm a +; color en humedo pardo (7,5YR5/4); areno franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,9; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie MANANTIALES
-LATITUD:33º38'33"
-LONGITUD:63º21'38"
+LATITUD:S333833
+LONGITUD:O632138
 ALTITUD:134 m.s.n.m.
 |Horizonte                                                            |Ep      |En      |Btn     |BCn     |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-18    |18-35   |35-52   |52-77   |77-105  |105 a + |

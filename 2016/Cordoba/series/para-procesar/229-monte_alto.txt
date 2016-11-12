@@ -9,8 +9,8 @@ AC	22-50 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; 
 C	50-75 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; muy friable en humedo; no adhesivo; no plastico; limite inferior abrupto, suave.
 Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante material calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie MONTE ALTO
-LATITUD:32º58'19"
-LONGITUD:63º11'48"
+LATITUD:S325819
+LONGITUD:O631148
 ALTITUD:145 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-50   |50-75   |75 a +  |

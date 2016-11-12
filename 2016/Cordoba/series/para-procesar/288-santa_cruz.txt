@@ -1,5 +1,5 @@
 Serie SANTA CRUZ
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Ustorthent litico paralitico
 TPS: esqueletica, arenosa, calcarea, mixta, termica
 La Serie Santa Cruz es un suelo excesivamente drenado, desarrollado incipientemente sobre rocas graniticas de la Sierra Norte de Cordoba. Se encuentra vinculado a "cerrillos" o "mogotes" dentro o adyacente a la meseta de San Francisco del Chanar. El horizonte superior es muy somero, de 10 cm de espesor; de color pardo grisaceo muy oscuro, de textura franco arenosa gruesa y estructura en bloques con leve reaccion al HCl en la masa del suelo. Continua hacia abajo un horizonte endurecido por material calcareo (tosca, horizonte petrocalcico), quebradizo, duro en humedo y seco penetrable parcialmente por las raices. Por debajo, se encuentra la roca granitica parcialmente alterada con reaccion al HCl. Sus limitantes son, la profundidad efectiva, las texturas gruesas y gravillosas, clima, pendiente y alcalinidad moderada por presencia de CO3Ca libre desde la superficie. La aptitud de uso es exclusivamente para campos de pastoreo sobre especies naturales.
@@ -8,8 +8,8 @@ A	0 - 10 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso
 Ckm	10 - 22 cm; horizonte petrocalcico en lentes, quebradizo y compacto.
 R	22 cm a +; roca granitica alterada.
 Datos analiticos Serie SANTA CRUZ
-LATITUD:29º44'
-LONGITUD:63º42'
+LATITUD:S294400
+LONGITUD:O634200
 ALTITUD:600 m.s.n.m.
 |Horizonte                                                             |A       |
 |Profundidad de la muestra (cm)                                        |0-10    |

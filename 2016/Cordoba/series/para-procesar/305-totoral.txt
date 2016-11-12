@@ -9,8 +9,8 @@ Bt	23-56 cm; color en humedo pardo oscuro (10YR3/3); franco arcilloso; estructur
 BC	56-75 cm; color en humedo pardo oscuro a pardo (10YR4/3); franco arcillo limoso; estructura en prismas irregulares moderados a fuertes rompe a prismas y bloques menores; friable en humedo; plastico; ligeramente adhesivo; pH 7,3; escasos barnices arcillosos medios; limite inferior gradual.
 C	75 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,6.
 Datos analiticos Serie TOTORAL
-LATITUD:30º43'
-LONGITUD:64º02'
+LATITUD:S304300
+LONGITUD:O640200
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-23    |23-56   |56-75   |75 a +  |

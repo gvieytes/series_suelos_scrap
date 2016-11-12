@@ -10,8 +10,8 @@ Bt2	42-60 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; est
 BC	60-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas y bloques debiles; ligeramente plastico; adhesivo; pH 7,4; escasos barnices arcillosos finos; limite inferior abrupto, ondulado.
 Ck	95 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; ligeramente plastico; ligeramente adhesivo; pH 8; moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie SANTA CATALINA
-LATITUD:30º55'43"
-LONGITUD:64º05'14"
+LATITUD:S305543
+LONGITUD:O640514
 ALTITUD:500 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |Bt2     |BC      |Ck     |
 |Profundidad de la muestra (cm)                                       |0-24    |24-42   |42-60   |60-95   |95 a + |

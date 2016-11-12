@@ -9,8 +9,8 @@ A	0-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco 
 2AC	50-80 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; pH 6,6; escasas raices; limite inferior gradual.
 2C	80 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo y laminar debil; friable en humedo; no plastico; no adhesivo; pH 6,7.
 Datos analiticos Serie TERCERA USINA
-LATITUD:32º03'10"
-LONGITUD:64º22'30"
+LATITUD:S320310
+LONGITUD:O642230
 ALTITUD:555 m.s.n.m.
 |Horizonte                                                            |A       |2A      |2AC     |2C      |
 |Profundidad de la muestra (cm)                                       |0-25    |25-50   |50-80   |80 a +  |

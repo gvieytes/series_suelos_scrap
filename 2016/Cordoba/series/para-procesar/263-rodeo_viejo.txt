@@ -9,8 +9,8 @@ AC	20-44 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estruct
 C	44-77 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
 Ck	77 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moderado tenor de carbonato en la masa del suelo.
 Datos analiticos Serie RODEO VIEJO
-LATITUD:33º01'13"
-LONGITUD:64º34'32"
+LATITUD:S330113
+LONGITUD:O643432
 ALTITUD:585 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-44   |44-77   |77 a +  |

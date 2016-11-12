@@ -9,8 +9,8 @@ Bt	23-55 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco arcillo limoso; e
 BC	55-94 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; escasos barnices arcillosos finos; limite inferior abrupto.
 Ck	94 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; abundante material calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie JESUS MARIA
-LATITUD:30º53'00"
-LONGITUD:64º11'45"
+LATITUD:S305300
+LONGITUD:O641145
 ALTITUD:630 m.s.n.m.
 |Horizonte                                                             |Ap      |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-23    |23-55   |55-94   |94 a +  |

@@ -10,8 +10,8 @@ Btn2	32-46 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; e
 BCn	46-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; barnices arcillosos escasos y finos; moteados escasos, finos y debiles; escasos durinodulos finos; concreciones calcareas abundantes, medias y gruesas; limite inferior abrupto y suave.
 Ck	74 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; moteados escasos, finos y debiles; escasos durinodulos finos; abundante calcareo pulverulento diseminado en la masa y en concreciones.
 Datos analiticos Serie LA SALADA
-LATITUD:32º22'51"
-LONGITUD:62º51'11"
+LATITUD:S322251
+LONGITUD:O625111
 ALTITUD:146 m.s.n.m.
 |Horizonte                                                            |En      |Btn     |Btn2    |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-9     |9-32    |32-46   |46-74   |74 a +  |

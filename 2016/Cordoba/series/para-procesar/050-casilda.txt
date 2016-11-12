@@ -13,8 +13,8 @@ BC	104-128 cm; color en humedo pardo (7,5YR4,5/4); color en seco pardo (7,5YR5/4
 C	128-180 cm; color en humedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; friable en humedo; debilmente cementado en nodulos; limite inferior abrupto, suave.
 Ck	180 cm a +; color en humedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; moderada cantidad de carbonatos libres en la masa; concreciones calcareas escasas.
 Datos analiticos Serie CASILDA
-LATITUD:33º01'00"
-LONGITUD:61º12'45"
+LATITUD:S330100
+LONGITUD:O611245
 ALTITUD:101 m.s.n.m.
 |Horizonte                                                             |Ap      |B       |Bt      |Bt2     |Bt3      |BC         |BC         |C
 |Profundidad de la muestra (cm)                                        |0-18    |18-27   |27-48   |48-76   |76-104   |104-128    |128-180    |180 a +   |

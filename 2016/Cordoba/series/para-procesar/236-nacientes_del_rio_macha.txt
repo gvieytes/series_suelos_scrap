@@ -8,8 +8,8 @@ En	0-12 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; 
 Btn	12-34 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas regulares medios fuertes rompe a prismas y bloques angulares; duro en seco; ligeramente firme en humedo; plastico; adhesivo; pH 9,2; barnices abundantes de arcillas sodicas y materia organica; moteados comunes, medios precisos; vestigios de raices; limite inferior claro.
 BCn	34 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 9,3; barnices escasos arcillosos en las caras de los agregados; capa freatica aproximadamente a 100 cm.
 Datos analiticos Serie NACIENTES DEL RIO MACHA
-LATITUD:30º35'35"
-LONGITUD:64º11'20"
+LATITUD:S303535
+LONGITUD:O641120
 ALTITUD:650 m.s.n.m.
 |Horizonte                                                            |En      |Btn     |BCn     |
 |Profundidad de la muestra (cm)                                       |0-12    |12-34   |34 a +  |

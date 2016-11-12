@@ -10,8 +10,8 @@ Bt	35-64 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco arcilloso; 
 2BC	64-96 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios gruesos moderados; barnices escasos finos; pH 7,1; limite inferior claro, suave.
 2C	96 cm a +; color en humedo pardo oscuro (10YR3/3); franco; masivo; pH 7,2.
 Datos analiticos Serie LA SENTENCIA I
-LATITUD:30º56'45"
-LONGITUD:64º13'05"
+LATITUD:S305645
+LONGITUD:O641305
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |Bt      |2BC     |2C      |
 |Profundidad de la muestra (cm)                                       |0-21    |21-35   |35-64   |64-96   |96 a +  |

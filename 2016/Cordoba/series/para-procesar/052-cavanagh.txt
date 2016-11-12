@@ -10,8 +10,8 @@ BC	43-74 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco; estructura
 C	74-150 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto, ondulado.
 Ck	150 cm a +; color en humedo pardo (7,5YR5/4); franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo en la masa.
 Datos analiticos Serie CAVANAGH
-LATITUD:33º29'
-LONGITUD:62º24'
+LATITUD:S332900
+LONGITUD:O622400
 ALTITUD:120 m.s.n.m.
 |Horizonte                                                             |Ap      |B       |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                        |0-20    |20-43   |43-74   |74-150   |150 a +   |

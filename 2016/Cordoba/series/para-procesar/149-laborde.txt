@@ -10,8 +10,8 @@ BC	37-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco li
 C	70-130 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; masivo; muy friable en humedo; limite inferior abrupto, suave.
 Ck	130 cm a +; color en humedo pardo (7,5YR5/4); franco a franco arenoso; masivo; muy friable en humedo; abundante calcareo diseminado en la masa del suelo.
 Datos analiticos Serie LABORDE
-LATITUD:33º16'12"
-LONGITUD:62º43'06"
+LATITUD:S331612
+LONGITUD:O624306
 ALTITUD:110 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                       |5-20    |20-37   |37-70   |70-130   |130 a +   |

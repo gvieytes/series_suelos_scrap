@@ -1,5 +1,5 @@
 Serie SAN FRANCISCO DE ASIS
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Natracualf molico
 TPS: limosa fina, mixta, termica
 La Serie San Francisco de Asis es un suelo imperfectamente drenado, fuertemente alcalino a partir de los 17 cm de profundidad y debilmente salino, vinculado a planos levemente deprimidos y los cauces alargados o vias de escurrimiento dentro de dichos planos. Se ha desarrollado a partir de sedimentos franco limosos. La capa arable (horizonte Ap) de 17 cm de espesor, es de color pardo oscuro, franco limoso y estructura en bloques. Luego pasa en forma abrupta a un horizonte Bt algo mas arcilloso, de estructura prismatica y con abundantes barnices humico-arcillosos que recubren las caras de los agregados y que llega hasta los 38 cm de profundidad. El pasaje hacia el material madre (horizonte Ck) es gradual, encontrandose este a una profundidad de 86 cm, es de textura franco limosa, masivo y con abundante calcareo libre diseminado en la masa del suelo. Estos suelos estan muy limitados en su aptitud, por la fuerte alcalinidad sodica y el drenaje imperfecto. Presentan ciertas variaciones en el espesor del horizonte superficial y del horizonte Bt. En muchos casos la estructura del horizonte Bt es semicolumnar. El solum varia entre 62 y 95 cm de espesor.
@@ -10,8 +10,8 @@ Bn	38-53 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 BCn	53-86 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; escasos barnices arcillosos; abundantes concreciones calcareas finas y medias; limite inferior abrupto y suave.
 Ck	86 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; escasos durinodulos finos; abundante calcareo diseminado en la masa del suelo y en concreciones finas.
 Datos analiticos Serie SAN FRANCISCO DE ASIS
-LATITUD:32º25'31"
-LONGITUD:62º57'24"
+LATITUD:S322531
+LONGITUD:O625724
 ALTITUD:158 m.s.n.m.
 |Horizonte                                                            |Ap      |Btn     |Bn      |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-38   |38-53   |53-86   |86 a +  |

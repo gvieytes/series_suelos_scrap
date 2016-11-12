@@ -11,8 +11,8 @@ A	0-18 cm; color en humedo negro (10YR2/1); arcilloso; estructura en bloques sub
 2BCz	70-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios debiles a masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos finos; moteados abundantes, medios, precisos; limite inferior abrupto, suave.
 2Ckz	100 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, finos, precisos; abundante calcareo diseminado en la masa.
 Datos Analiticos Serie SAN JOSE
-LATITUD:33º23'51"
-LONGITUD:62º55'37"
+LATITUD:S332351
+LONGITUD:O625537
 ALTITUD:111 m.s.n.m.
 |Horizonte                                                            |A       |2E      |2Btn    |2Btnz   |2BCz     |2Ckz     |
 |Profundidad de la muestra (cm)                                       |0-18    |18-28   |28-40   |40-70   |70-100   |100 a +  |

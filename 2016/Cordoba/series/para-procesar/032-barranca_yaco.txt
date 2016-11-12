@@ -10,8 +10,8 @@ BC	40-59 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; 
 C	59-78 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,1.
 Ck	78 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; pH 8,2; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie BARRANCA YACO
-LATITUD:30º52'00"
-LONGITUD:64º07'18"
+LATITUD:S305200
+LONGITUD:O640718
 ALTITUD:575 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-40   |40-59   |59-78   |78 a +  |

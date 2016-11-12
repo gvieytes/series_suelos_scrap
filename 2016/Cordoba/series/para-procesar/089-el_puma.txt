@@ -10,8 +10,8 @@ Bt2	42-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo li
 BC	62-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; escasos barnices arcillosos; moteados escasos, finos y debiles; limite inferior gradual, suave.
 Ck	100 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados escasos, finos y debiles; abundante calcareo libre en la masa y en concreciones.
 Datos analiticos Serie EL PUMA
-LATITUD:32º20'44"
-LONGITUD:62º34'11"
+LATITUD:S322044
+LONGITUD:O623411
 ALTITUD:120 m.s.n.m.
 |Horizonte                                                             |A       |Bt      |Bt2     |BC      |
 |Profundidad de la muestra (cm)                                        |0-18    |18-50   |50-86   |86 a +  |

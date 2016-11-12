@@ -7,8 +7,8 @@ UBICACION: a 6 Km al Este de El Guanaco, departamento Rio Seco, provincia de Cor
 1zn	0 - 22 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; masivo tendencia laminar; plastico; ligeramente adhesivo; raices escasas; presencia de caracoles y pseudomicelios salinos superficiales; limite inferior abrupto, suave.
 2zn	22 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; masivo; violenta reaccion de larga duracion al ClH en la masa del suelo; vestigios de raices; capa freatica a 40 cm; abundantes pseudomicelios salinos y caracoles.
 Datos analiticos Serie El JUME
-LATITUD:29º58'00"
-LONGITUD:63º16'40"
+LATITUD:S295800
+LONGITUD:O631640
 ALTITUD:75 m.s.n.m.
 |Horizonte                                                             |1zn      |2zn     |
 |Profundidad de la muestra (cm)                                        |0-22     |22 a +  |

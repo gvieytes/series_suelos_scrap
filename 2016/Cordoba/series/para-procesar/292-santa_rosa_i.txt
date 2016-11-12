@@ -1,5 +1,5 @@
 Serie SANTA ROSA I
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol entico
 TPS: franca gruesa, mixta, termica
 La Serie Santa Rosa I es un suelo profundo, bien drenado, desarrollado a partir de materiales loessicos, vinculado a lomas onduladas. Es un suelo de incipiente desarrollo, de textura franco limosa y carbonato de calcio en todo el perfil. El horizonte superficial (Ak) de 17 cm de potencia presenta un moderado contenido de materia organica, es moderadamente alcalino y tiene una estructura en bloques debiles. Se continua con un horizonte de transicion (ACk) que se asienta sobre el C, ambos de textura franco limosa.
@@ -8,8 +8,8 @@ Ak	0-17 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en
 ACk	17-39 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios muy debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; fuerte reaccion al acido clorhidrico; limite inferior gradual suave.
 Ck	39 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; fuerte reaccion al acido clorhidrico.
 Datos analiticos Serie SANTA ROSA I
-LATITUD:32º08'20"
-LONGITUD:64º32'20"
+LATITUD:S320820
+LONGITUD:O643220
 ALTITUD:680 m.s.n.m.
 |Horizonte                                                            |Ak      |ACk     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-39   |39 a +  |

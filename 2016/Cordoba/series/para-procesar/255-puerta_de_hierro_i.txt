@@ -9,8 +9,8 @@ A	12-55 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillos
 ACk	55-90 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios debiles; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; limite inferior claro, suave.
 2k	90 cm a +; color en humedo pardo oscuro (10YR3/3); franco; masivo; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; presencia de pseudomicelios carbonaticos.
 Datos analiticos Serie PUERTA DE HIERRO I
-LATITUD:30º58'30"
-LONGITUD:64º10'00"
+LATITUD:S305830
+LONGITUD:O641000
 ALTITUD:545 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |ACk     |2k      |
 |Profundidad de la muestra (cm)                                       |0-12    |12-55   |55-90   |90 a +  |

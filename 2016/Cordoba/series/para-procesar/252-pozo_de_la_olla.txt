@@ -9,8 +9,8 @@ Btn	12 - 54 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco a fra
 BCknz	 54 - 82 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques irregulares medios debiles; friable en humedo; ligeramente plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo; barnices arcillosos escasos y finos; abundantes eflorescencias salinas; raices escasas a vestigios; limite inferior claro, suave.
 Ck	82 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; friable en humedo; violenta reaccion al ClH en la masa del suelo; nodulos cementados, pseudomicelios salinos abundantes y cristales de yeso.
 Datos analiticos Serie POZO DE LA OLLA
-LATITUD:30º01'
-LONGITUD:63º03'
+LATITUD:S300100
+LONGITUD:O630300
 ALTITUD:75 m.s.n.m.
 |Horizonte                                                             |E       |Btn     |BCknz   |Ck      |
 |Profundidad de la muestra (cm)                                        |0-12    |12-54   |54-82   |82 a +  |

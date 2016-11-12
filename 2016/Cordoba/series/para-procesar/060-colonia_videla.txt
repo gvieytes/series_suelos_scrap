@@ -10,8 +10,8 @@ Bw	24-46 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso; estructura
 Bw2	46-84 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso a arcillo limoso; estructura en prismas irregulares gruesos, rompe en prismas menores; friable en humedo; plastico; adhesivo; barnices arcillosos comunes y medios; moteados comunes finos y precisos; limite inferior abrupto y suave.
 BCm	84 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; cementado; muy duro en seco; firme en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos medios; moteados comunes medios y precisos.
 Datos analiticos Serie COLONIA VIDELA
-LATITUD:31º58'27"
-LONGITUD:63º48'48"
+LATITUD:S315827
+LONGITUD:O634848
 ALTITUD:291 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |Bw      |Bw2     |BCm     |
 |Profundidad de la muestra (cm)                                       |0-16    |16-24   |24-46   |46-84   |84 a +  |

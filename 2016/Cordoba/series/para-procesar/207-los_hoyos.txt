@@ -8,8 +8,8 @@ A	0 - 25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso 
 AC	25 - 59 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios debiles a masivo; friable en humedo; pH 8,2; escasa reaccion al ClH en la masa del suelo; barnices comunes; limite inferior gradual suave.
 Ck	59 cm a +; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; masivo; friable en humedo; pH 8,3; violenta reaccion al ClH en la masa del suelo; vestigios de raices.
 Datos analiticos Serie LOS HOYOS
-LATITUD:29º51'
-LONGITUD:63º37'
+LATITUD:S295100
+LONGITUD:O633700
 ALTITUD:300 m.s.n.m.
 |Horizonte                                                             |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-25    |25-59   |59 a +  |

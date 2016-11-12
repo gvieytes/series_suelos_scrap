@@ -9,8 +9,8 @@ Bw	33-62 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco; estructura 
 BC	62-104 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco; estructura en bloques subangulares debiles a masivo; pH 7,2; limite inferior abrupto, suave.
 Ck	104 cm a +; color en humedo pardo a pardo oscuro (10YR4/3); franco; masivo; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; pH 7,9.
 Datos analiticos Serie LA SENTENCIA II
-LATITUD:30º56'
-LONGITUD:64º14'
+LATITUD:S305600
+LONGITUD:O641400
 ALTITUD:600 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC       |Ck        |
 |Profundidad de la muestra (cm)                                       |0-33    |33-62   |62-104   |104 a +   |

@@ -1,5 +1,5 @@
 Serie EL EMBRUJO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Duracuol natrico
 TPS: limosa fina, mixta, termica
 La Serie El Embrujo es un suelo imperfectamente drenado, con elevado contenido de sodio intercambiable a partir de 10 cm de profundidad. Se encuentra vinculada a areas deprimidas y lineas de escurrimiento integrando siempre complejos con otros suelos. Presenta un horizonte superior de 10 cm de espesor generalmente alterado por el arado, de textura franco limosa con ligero contenido de sodio de intercambio, seguido del horizonte que forma parte del superficial (A) que se extiende hasta 18 cm aproximadamente con elevado contenido de sodio de intercambio. Luego se pasa a un horizonte mas lixiviado de textura franco limosa con algo menos de arcilla y elevado tenor de sodio de intercambio. Desde 26 cm se extiende, luego de un limite abrupto, un horizonte muy enriquecido en arcilla (horizonte Bt textural) de textura arcillo limosa, estructura semicolumnar y prismas con elevado tenor de sodio de intercambio. El horizonte C aparece a 106 cm de profundidad. Presenta moteados en todo el perfil con ligera cementacion desde 50 cm aumentando a 70% a partir de 80 cm aproximadamente. La alcalinidad sodica superficial y el drenaje deficiente limitan considerablemente el uso de este suelo.
@@ -12,8 +12,8 @@ Btn2	50-78 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo l
 BCm	78-106 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas y bloques subangulares medios moderados; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos finos; moteados abundantes medios y finos; cementado 70%; limite inferior gradual, suave.
 C	106 cm a +; color en humedo pardo (7,5YR5/4); franco limoso, masivo; friable en humedo; moteados abundantes, medios y precisos; abundantes durinodulos y nucleos cementados.
 Datos analiticos Serie EL EMBRUJO
-LATITUD:32º13'53"
-LONGITUD:62º26'46"
+LATITUD:S321353
+LONGITUD:O622646
 ALTITUD:111 m.s.n.m.
 |Horizonte                                                            |Ap      |An      |En      |Btn     |Btn2    |
 |Profundidad de la muestra (cm)                                       |0-21    |21-40   |40-59   |59-78   |78 a +  |

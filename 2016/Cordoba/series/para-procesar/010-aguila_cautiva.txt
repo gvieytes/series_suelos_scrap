@@ -10,8 +10,8 @@ Bt	36-65 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estruct
 BC	65-107 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios debiles con tendencia a masivo; muy friable en humedo; concreciones calcareas finas comunes; moteados de FeMn comunes, finos y precisos; limite inferior abrupto y suave.
 Ck	107 cm a +; color en humedo pardo (7,5YR5/4); franco a franco arenoso; masivo; muy friable en humedo; abundante calcareo en la masa y en concreciones finas; moteados de FeMn comunes, medios y sobresalientes.
 Datos analiticos Serie AGUILA Cautiva
-LATITUD:33º38'00"
-LONGITUD:62º18'49"
+LATITUD:S333800
+LONGITUD:O621849
 ALTITUD:116 m.s.n.m.
 |Horizonte                                                             |A       |E       |Bt      |BC       |Ck        |
 |Profundidad de la muestra (cm)                                        |0-20    |20-36   |36-65   |65-107   |107 a +   |

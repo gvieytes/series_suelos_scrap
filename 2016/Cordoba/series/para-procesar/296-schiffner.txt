@@ -11,8 +11,8 @@ Btn2	52-86 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pa
 BC	86-115 cm; color en humedo pardo fuerte (7,5YR4/6); color en seco pardo claro (7,5YR6/4); franco limoso; estructura en bloques subangulares, finos y medios, moderados; ligeramente duro en seco; friable a muy friable en humedo; ligeramente plastico; adhesivo; moteados abundantes gruesos y sobresalientes; raices escasas, cementaciones.
 C	115 cm a +; color en humedo pardo fuerte (7,5YR4,5/6); color en seco rosa a pardo claro (7,5YR6,5/4); franco limoso; masivo; ligeramente duro en seco; muy friable en humedo; no plastico; ligeramente adhesivo; moteados abundantes gruesos y sobresalientes; cementaciones; presencia de la capa de agua.
 Datos analiticos Serie SCHIFFNER
-LATITUD:31º47'42"
-LONGITUD:62º13'42"
+LATITUD:S314742
+LONGITUD:O621342
 ALTITUD:100 m.s.n.m.
 |Horizonte                                                            |A       |E/Bn    |Btn     |Btn2    |BC       |C        |
 |Profundidad de la muestra (cm)                                       |0-19    |19-26   |26-52   |52-86   |86-115   |115 a +  |

@@ -10,8 +10,8 @@ A	11-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estruct
 BC	40-61 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares y bloques subangulares medios moderados; duro en seco; ligeramente plastico; no adhesivo; vestigios de barnices; limite inferior abrupto, suave.
 Ckn	61 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; no adhesivo; abundante calcareo pulverulento diseminado en la masa del suelo.
 Datos analiticos Serie EL ARANADO
-LATITUD:31º40'39"
-LONGITUD:62º45'59"
+LATITUD:S314039
+LONGITUD:O624559
 ALTITUD:133 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |2Bt     |BC      |Ckn     |
 |Profundidad de la muestra (cm)                                       |0-11    |11-22   |22-40   |40-61   |61 a +  |

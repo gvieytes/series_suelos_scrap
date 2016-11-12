@@ -1,5 +1,5 @@
 Serie ESTANCIA EL GATO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol entico
 TPS: esqueletica, franca, mixta, termica
 La Serie Estancia El Gato es un Haplustol entico, profundo, bien drenado, desarrollado sobre materiales fluviales. El perfil esta formado por una sucesion de capas; la primera comprende dos horizontes, el superior arable (Ap), con moderado tenor de materia organica, moderada estabilidad de los agregados y textura franco limosa. La capa 2 presenta abundante gravilla y una textura franco arenosa. En todo el perfil se observa la presencia de laminillas de mica.
@@ -8,8 +8,8 @@ Ap	0-18 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
 A	18-37 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios debiles; firme en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior abrupto ondulado.
 2C	37 cm a +; color en humedo pardo oscuro a pardo (10YR4/3); franco arenoso; abundante gravilla fina y gravilla; no plastico; no adhesivo.
 Datos Analiticos Serie ESTANCIA EL GATO
-LATITUD:32º52'
-LONGITUD:64º32'
+LATITUD:S325200
+LONGITUD:O643200
 ALTITUD:500 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |2C      |
 |Profundidad de la muestra (cm)                                       |0-18    |18-37   |37 a +  |

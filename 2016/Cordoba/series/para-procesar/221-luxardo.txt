@@ -11,8 +11,8 @@ Bt2	49-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); arcillo limoso; 
 BC 	105-140 cm; color en humedo pardo (7,5YR4,5/4); franco limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; concreciones finas de FeMn; comunes barnices medios; moteados comunes finos y precisos; limite inferior gradual, suave.
 C	140 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; concreciones abundantes y finas de FeMn; moteados abundantes, gruesos y sobresalientes.
 Datos Analiticos Serie LUXARDO
-LATITUD:31º35'24"
-LONGITUD:62º07'07"
+LATITUD:S313524
+LONGITUD:O620707
 ALTITUD:104,3 m.s.n.m.
 |Horizonte                                                         |Ap      |A/B     |Bt      |Bt2     |BC      |C       |
 |Profundidad de la muestra (cm)                                    |0-16    |16-24   |24-49   |49-105  |105-140 |140 a + |

@@ -8,8 +8,8 @@ Ak	0-19 cm; color en humedo gris muy oscuro (10YR3/1); franco; estructura en blo
 ACk	19-46 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques debiles tendencia masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,9; violenta reaccion al ClH; raices escasas; limite inferior gradual.
 Ck	46 cm a +; color en humedo pardo (7,5YR5/4); franco a franco limoso; masivo; friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo; pH 8,1.
 Datos analiticos Serie EL DURAZNO
-LATITUD:30º34'03"
-LONGITUD:64º15'35"
+LATITUD:S303403
+LONGITUD:O641535
 ALTITUD:750 m.s.n.m.
 |Horizonte                                                            |Ak      |ACk     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-19    |19-46   |46 a +  |

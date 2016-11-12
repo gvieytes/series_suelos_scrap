@@ -1,5 +1,5 @@
 Serie VIRA PITA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol tipico
 TPS: franca fina, mixta, termica
 Los suelos que responden a esta Serie son profundos, moderadamente bien drenados, desarrollados a partir de materiales franco limosos, que ocupan la parte central de las lineas de escurrimiento o vias de desague bien manifiestas que disectan los planos altos o lomadas extendidas. El horizonte superficial (Ap + A) es de textura franco arcillo limosa, con moderado contenido de materia organica y bien estructurado. El subsuelo (horizonte B) presenta una estructura de prismas irregulares con barnices en la cara de los agregados. La transicion al material originario es gradual, encontrandose este horizonte (horizonte C) a una profundidad de 85 cm, de textura franco limosa y masivo. Los suelos de la Serie Vira Pita presentan limitaciones moderadas a severas por erosion hidrica en surcos o carcavas ademas de la climatica natural del area. Dada su posicion en el relieve, pueden tener exceso de agua en anos lluviosos pero, en general, pueden tener una mejor provision de humedad en los meses secos.
@@ -11,8 +11,8 @@ BC	56-85 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco limoso; estructur
 C	85-110 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; moteados de Fe escasos, finos y debiles; limite inferior abrupto, suave.
 Ck	110 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante material calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie VIRA PITA
-LATITUD:32º24'10"
-LONGITUD:63º55'43"
+LATITUD:S322410
+LONGITUD:O635543
 ALTITUD:334 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |Bw      |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                       |0-14    |14-27   |27-56   |56-85   |85-110   |110 a +   |

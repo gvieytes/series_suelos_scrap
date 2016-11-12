@@ -1,5 +1,5 @@
 Serie LA CESIRA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Fragiacualf tipico
 TPS: franca fina, mixta, termica
 La Serie La Cesira es un suelo desarrollado sobre materiales eolicos franco arenosos a francos, imperfectamente drenado con alcalinidad sodica subsuperficial y cementacion antes del metro de profundidad. Se la encuentra formando complejos de suelos en areas deprimidas y aureolas de cubetas y lagunas. Presenta un horizonte muy decolorado desde la superficie (E con 12% de arcilla) con poca provision de materia organica, textura franca a franca arenosa y estructura masiva que se extiende hasta los 21 cm. Aqui comienza un horizonte enriquecido en arcilla (Bt con 24% de arcilla, divisible en Bt y Bt2) con alcalinidad sodica y estructura columnar y prismatica muy fuerte, que impide junto con la alcalinidad el desarrollo radicular, se extiende hasta 52 cm. El proceso de cementacion va en aumento a partir de la base de este horizonte (subsuelo) y llega a ser totalmente cementado en el material originario que comienza a partir de 80 cm. Las limitaciones mas notables de estos suelos estan dadas por el problema del drenaje imperfecto, que incluye anegamientos frecuentes (capas cementadas en profundidad y subsuelo arcilloso sodico), el horizonte superior mal estructurado (masivo), casi desprovisto de materia organica y la alcalinidad fuerte subsuperficial. Se han definido fases por alcalinidad sodica superficial (E) en areas mas deprimidas con la capa featica mas proxima a la superficie.
@@ -10,8 +10,8 @@ Btn2	35-52 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco a fran
 BC	52-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; pH 10; moteados de FeMn abundantes, medios y precisos; 40% cementado irreversiblemente; limite inferior abrupto.
 Cm	80 cm a +; color en humedo pardo (7,5YR5/4); franco; cementado totalmente; pH 10.
 Datos analiticos Serie LA CESIRA
-LATITUD:33º51'17"
-LONGITUD:62º57'18"
+LATITUD:S335117
+LONGITUD:O625718
 ALTITUD:125 m.s.n.m.
 |Horizonte                                                             |Ep      |Btn     |Btn2    |BC      |Cm      |
 |Profundidad de la muestra (cm)                                        |0-16    |16-35   |35-52   |52-80   |80 a +  |

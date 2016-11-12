@@ -1,5 +1,5 @@
 Serie YACANTO IV
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol thapto calcico
 TPS: franca fina, mixta, termica
 Este suelo, algo excesivamente drenado, se ha desarrollado sobre materiales loessicos redepositados y vinculado a pendientes. La capa superficial en horizonte A presenta un contenido medio de materia organica (3,6%); 22 cm de espesor; textura franca y estructura en bloques debiles. Se continua el perfil con un horizonte iluvial, Bw, de textura franca y estructura en prismas debiles, al que le siguen dos capas con presencia de carbonato de calcio diseminado en la masa del suelo. La pendiente dominante es del 1 al 3%, el escurrimiento medio; la permeabilidad moderada; sin peligro de anegamiento.
@@ -9,8 +9,8 @@ Bw	22-48 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estruct
 2k	48-67 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,5; moderada reaccion al acido clorhidrico; escasos barnices finos; escasas raices; limite inferior abrupto suave.
 3k	67 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,4; moderada reaccion al acido clorhidrico; escasas raices.
 Datos analiticos Serie YACANTO IV
-LATITUD:32º11'00"
-LONGITUD:64º40'20"
+LATITUD:S321100
+LONGITUD:O644020
 ALTITUD:850 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |2k      |3k      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-40   |40-67   |67 a +  |

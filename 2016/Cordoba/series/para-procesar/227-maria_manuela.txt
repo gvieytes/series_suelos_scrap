@@ -1,5 +1,5 @@
 Serie MARIA MANUELA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiudol acuico
 TPS: fina, illitica, termica
 La Serie Maria Manuela es un suelo oscuro, profundo, moderado a bien drenado, desarrollado en las pendientes muy largas y suaves que terminan en la depresion del arroyo Tortugas. El horizonte superficial (A) es de reaccion medianamente acida y con una coloracion pardo grisacea muy oscura; su textura es franco limosa y se presenta con una estructura en bloques con moderado grado de expresion. Estas caracteristicas se extienden hasta los 15 cm de profundidad, a partir de los cuales se transforma en un horizonte algo degradado (B/A) de color pardo grisaceo y textura franco limosa en el que es posible reconocer algunos escasos barnices arcillosos "Clay skins" sobre las caras de los agregados y algunos moteados de Fe que indican condiciones de hidromorfismo o condiciones reductoras estacionales. A partir de los 25 cm se pasa en forma abrupta al horizonte de enriquecimiento de arcilla (Bt) que es de color pardo oscuro, con textura franco arcillo limosa y estructura en prismas medios moderados. Este horizonte presenta abundantes barnices brillosos que alcanzan a cubrir las caras de los agregados estructurales, y los moteados de Fe que indican falta estacional de oxigeno en la atmosfera del suelo se hacen mas comunes. El horizonte C aparece alrededor de los 120 cm; se trata de un material franco limoso, masivo, de color pardo y con calcareo diseminado en la masa del suelo a partir de los 175 cm de profundidad, donde se hace moderadamente alcalino sodico. En los perfiles correspondientes a esta Serie se han observado variaciones con respecto al espesor del horizonte A (12 a 20 cm); el horizonte B/A con mayor o menor lavado. Algunos suelos presentan un debil tenor de sodio intercambiable y sales en profundidad.
@@ -12,8 +12,8 @@ BC	90-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; es
 C	120-175 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; escasos durinodulos; limite inferior abrupto, ondulado.
 Ck	175 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; elevado contenido de calcareo libre en la masa; escasos durinodulos.
 Datos analiticos Serie MARIA MANUELA
-LATITUD:32º33'26"
-LONGITUD:62º03'11"
+LATITUD:S323326
+LONGITUD:O620311
 ALTITUD:97 m.s.n.m.
 |Horizonte                                                        |A       |B/A     |Bt      |Bt2     |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                   |0-14    |14-24   |24-65   |65-90   |90-120  |120-175 |175 a + |

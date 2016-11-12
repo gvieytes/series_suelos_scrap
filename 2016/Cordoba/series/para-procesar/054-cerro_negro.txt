@@ -8,8 +8,8 @@ A	0-8 cm; color en humedo pardo oscuro (10YR3/3); areno franco gravilloso; estru
 2	8-16 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco gravilloso; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; raices escasas; limite inferior claro (mas de 30% de gravilla).
 R	16 cm a +; roca alterada del complejo metamorfico; colores cambiantes segun el mineral o combinaciones de minerales observados; predominan las rojizas y amarillentas segun el grado de alteracion (contacto litico/paralitico).
 Datos analiticos Serie CERRO NEGRO
-LATITUD:30º46'53"
-LONGITUD:64º15'47"
+LATITUD:S304653
+LONGITUD:O641547
 ALTITUD:1000 m.s.n.m.
 |Horizonte                                                            |A       |2       |
 |Profundidad de la muestra (cm)                                       |0-8     |8-16    |

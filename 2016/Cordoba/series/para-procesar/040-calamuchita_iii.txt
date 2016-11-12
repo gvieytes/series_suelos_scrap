@@ -1,5 +1,5 @@
 Serie CALAMUCHITA III
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Udorthent litico
 TPS: esqueletica, franca, mixta, termica
 Es un suelo moderadamente bien drenado a bien drenado, desarrollado sobre materiales autoctonos, como consecuencia de la alteracion de rocas metamorficas. Ubicado sobre relieves muy pronunciados. El horizonte A de 60 cm de potencia, con moderadamente bajo contenido de materia organica (1,8%), de textura franca arenosa (al tacto) y estructura en bloques subangulares moderados y debiles. Le continua un horizonte de transicion (AC), franco arenoso, masivo, que se apoya directamente sobre roca alterada. La pendiente dominante es del 25 al 45%, con escurrimiento rapido, con permeabilidad moderada a moderadamente rapida, sin peligro de anegamiento.
@@ -8,8 +8,8 @@ A	0-60 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso (
 AC	60-100 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; masivo; friable en humedo; pH 5,9; limite inferior claro suave.
 R	100 cm a +; roca alterada; ligeramente firme.
 Datos analiticos Serie CALAMUCHITA III
-LATITUD:32º14'
-LONGITUD:64º46'
+LATITUD:S321400
+LONGITUD:O644600
 ALTITUD:1100 m.s.n.m.
 |Horizonte                                                            |A       |AC       |
 |Profundidad de la muestra (cm)                                       |0-60    |60-100   |

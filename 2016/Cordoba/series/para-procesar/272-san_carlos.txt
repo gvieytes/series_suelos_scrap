@@ -1,5 +1,5 @@
 Serie SAN CARLOS
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argialbol tipico
 TPS: franca gruesa, mixta, termica
 La Serie San Carlos es un suelo imperfecta a moderadamente bien drenado, vinculado a bajos alargados dentro de las lomas arenosas onduladas. La capa arable (horizonte A), es de 18 cm de espesor, de color pardo oscuro, de textura franco arenosa y estructura en bloques subangulares muy debiles, seguido de un horizonte E, algo mas arenoso y lixiviado. Luego pasa en forma abrupta a una capa mas arcillosa (horizonte Bt), de textura franco arenosa, estructura columnar y de color pardo amarillento oscuro. Este suelo se encuentra libre de sales y alcalinidad.
@@ -10,8 +10,8 @@ E2	34-43 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); areno franco;
 Bt	43-74 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura columnar gruesa, moderada; friable en humedo; moderados barnices gruesos; moteados abundantes, medios, sobresalientes; limite inferior gradual.
 BC	74 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco arenoso a areno franco; estructura en bloques subangulares medios, moderados; friable en humedo; no plastico; no adhesivo; escasos barnices finos; moteados abundantes, gruesos, sobresalientes.
 Datos analiticos de la Serie SAN CARLOS
-LATITUD:34º43'19"
-LONGITUD:64º26'58"
+LATITUD:S344319
+LONGITUD:O642658
 ALTITUD:192 m.s.n.m.
 |Horizonte                                                            |A       |E       |E2      |Bt      |BC      |
 |Profundidad de la muestra (cm)                                       |0-18    |18-34   |34-43   |43-74   |74 a +  |

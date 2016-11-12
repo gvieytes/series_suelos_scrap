@@ -9,8 +9,8 @@ Bw	19-43 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura e
 C	43-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; friable en humedo; pH 7,7; limite inferior abrupto, ondulado.
 Ck	60 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8; moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LA EMILIA
-LATITUD:30º51'16"
-LONGITUD:64º01'07"
+LATITUD:S305116
+LONGITUD:O640107
 ALTITUD:500 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-19    |19-43   |43-60   |60 a +  |

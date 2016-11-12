@@ -9,8 +9,8 @@ Bw	23-45 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estruct
 BC	45-68 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior gradual.
 C	68 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie BUCHARDO
-LATITUD:34º48'38"
-LONGITUD:63º33'27"
+LATITUD:S344838
+LONGITUD:O633327
 ALTITUD:135 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-23    |23-45   |45-68   |68 a +  |

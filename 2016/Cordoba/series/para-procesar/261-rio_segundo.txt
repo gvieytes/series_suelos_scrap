@@ -9,8 +9,8 @@ A	15-35 cm; color en humedo pardo oscuro (10YR3/3); areno franco a arenoso; estr
 AC	35-80 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; estructura de grano simple; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
 C	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/3); areno franco; estructura de grano simple; muy friable en humedo; no plastico; no adhesivo.
 Datos Analiticos Serie RIO SEGUNDO
-LATITUD:31º36'59"
-LONGITUD:63º48'25"
+LATITUD:S313659
+LONGITUD:O634825
 ALTITUD:315 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-15    |15-35   |35-80   |80 a +  |

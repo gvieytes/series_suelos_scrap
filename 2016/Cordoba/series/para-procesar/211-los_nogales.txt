@@ -1,5 +1,5 @@
 Serie LOS NOGALES
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol litico paralitico
 TPS: esqueletica, arenosa, mixta, termica
 Es un suelo algo excesivamente drenado, vinculado a pendientes alargadas, desarrollado sobre materiales franco arenosos. El horizonte A o capa superior, franco arenoso, de estructura granular, presenta un contenido moderadamente alto de materia organica (4,5%). A este horizonte le sigue otra capa, tambien franco arenosa, que se apoya sobre la roca alterada.
@@ -8,8 +8,8 @@ A	0-16 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; 
 2A	16-37 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; estructura granular; friable en humedo; pH 5,7; raices abundantes; limite inferior abrupto, suave.
 3Rr	37 cm a +; roca alterada, suelta; franco arenoso a areno franco (al tacto); friable en humedo; pH 6,2.
 Datos analiticos Serie LOS NOGALES
-LATITUD:31º48'
-LONGITUD:64º38'
+LATITUD:S314800
+LONGITUD:O643800
 ALTITUD:1060 m.s.n.m.
 |Horizonte                                                            |A       |2A      |3Rr     |
 |Profundidad de la muestra (cm)                                       |0-16    |16-37   |37 a +  |

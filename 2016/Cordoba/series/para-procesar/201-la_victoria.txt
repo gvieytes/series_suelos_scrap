@@ -11,8 +11,8 @@ BC	54-73 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco
 Cz	73-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco a franco arenoso; masivo; muy friable en humedo; escasas concreciones calcareas finas; limite inferior abrupto, suave.
 Ckz	90 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco arenoso; masivo; muy friable en humedo; abundante calcareo diseminado en la masa del suelo.
 Datos analiticos Serie LA VICTORIA
-LATITUD:33º18'13"
-LONGITUD:62º56'03"
+LATITUD:S331813
+LONGITUD:O625603
 ALTITUD:114 m.s.n.m.
 |Horizonte                                                            |Ap      |Ez      |Btn     |BC      |Cz      |Ckz     |
 |Profundidad de la muestra (cm)                                       |0-17    |17-30   |30-54   |54-73   |73-90   |90 a +  |

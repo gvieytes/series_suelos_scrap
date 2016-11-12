@@ -9,8 +9,8 @@ Btk	18-54 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; es
 BCkn	54-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas concreciones calcareas finas y abundante calcareo pulverulento en la masa del suelo; escasos barnices arcillosos (ClSk); moteados abundantes, medios y sobresalientes; limite inferior gradual.
 Ck	85 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo y escasas concreciones; moteados abundantes, medios y sobresalientes.
 Datos analiticos Serie JAMES CRAIK
-LATITUD:32º08'41"
-LONGITUD:63º30'45"
+LATITUD:S320841
+LONGITUD:O633045
 ALTITUD:251 m.s.n.m.
 |Horizonte                                                            |Ek      |Btk     |BCkn    |Ck      |
 |Profundidad de la muestra (cm)                                       |0-18    |18-54   |54-85   |85 a +  |

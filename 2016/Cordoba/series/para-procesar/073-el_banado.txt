@@ -10,8 +10,8 @@ Bw	34-80 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura e
 BC	80-120 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; estructura en prismas irregulares medios moderados rompe a prismas y bloques; plastico; ligeramente adhesivo; pH 7; barnices arcillosos abundantes a escasos finos; raices escasas; limite inferior gradual.
 C	120 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; ligeramente plastico; no adhesivo; pH 7; concreciones de CO3Ca escasas y finas; vestigios de raices.
 Datos analiticos Serie EL BANADO
-LATITUD:30º26'
-LONGITUD:63º40'
+LATITUD:S302600
+LONGITUD:O634000
 ALTITUD:273 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |Bw      |BC       |C         |
 |Profundidad de la muestra (cm)                                       |0-20    |20-34   |34-80   |80-120   |120 a +   |

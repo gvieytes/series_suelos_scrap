@@ -9,8 +9,8 @@ Bt	17-37 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura 
 BC	37-63 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares medios y bloques subangulares debiles; concreciones de CO3Ca escasas y muy finas; vestigios de barnices arcillosos; vestigios de raices; limite interior abrupto, suave.
 Ck	63 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie SILVIO PELLICO
-LATITUD:32º12'52"
-LONGITUD:62º57'50"
+LATITUD:S321252
+LONGITUD:O625750
 ALTITUD:164 m.s.n.m.
 |Horizonte                                                             |Ap      |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-17    |17-37   |37-63   |63 a +  |

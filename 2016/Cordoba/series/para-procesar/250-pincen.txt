@@ -10,8 +10,8 @@ Btn	42-64 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco arcillo a
 BCn	64-94 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; estructura en bloques subangulares medios, debiles; muy friable en humedo; no plastico; no adhesivo; vestigios de barnices; moteados comunes, medios debiles; escasas concreciones calcareas finas; limite inferior abrupto.
 Ck	94 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos de la Serie PINCEN
-LATITUD:34º42'07"
-LONGITUD:63º58'55"
+LATITUD:S344207
+LONGITUD:O635855
 ALTITUD:149 m.s.n.m.
 |Horizonte                                                            |A       |E       |Btn     |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-42   |42-64   |64-94   |94 a +  |

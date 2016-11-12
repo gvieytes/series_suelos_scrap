@@ -9,8 +9,8 @@ Bw	30-52 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5
 C	52-92 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; no plastico; no adhesivo; pH 7,7; vestigios de raices; limite inferior abrupto.
 Ck	92 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,4; moderada a violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie ESTANCIA ANA MARIA
-LATITUD:32º29'57"
-LONGITUD:64º11'55"
+LATITUD:S322957
+LONGITUD:O641155
 ALTITUD:510 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-30    |30-52   |52-92   |92 a +  |

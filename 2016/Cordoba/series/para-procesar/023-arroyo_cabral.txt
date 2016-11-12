@@ -11,8 +11,8 @@ Bt2	49-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; es
 BCk	72-104 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas concreciones calcareas finas y moderado contenido pulverulento en la masa; limite inferior gradual.
 Ck	104 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie ARROYO CABRAL
-LATITUD:32º21'08"
-LONGITUD:63º17'57"
+LATITUD:S322108
+LONGITUD:O631757
 ALTITUD:212 m.s.n.m.
 |Horizonte                                           |Ap      |A       |Bt      |Bt2     |BCk      |Ck        |
 |Profundidad de la muestra (cm)                      |0-13    |13-24   |24-49   |49-72   |72-104   |104 a +   |

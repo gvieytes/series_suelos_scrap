@@ -12,8 +12,8 @@ BC	60-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 C	92-104 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; limite inferior abrupto, suave.
 Ck	104 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; moderado contenido de calcareo libre en la masa del suelo.
 Datos analiticos Serie MONTE BUEY
-LATITUD:32º58'15"
-LONGITUD:62º24'10"
+LATITUD:S325815
+LONGITUD:O622410
 ALTITUD:105 m.s.n.m.
 |Horizonte                                                             |Ap + A    |Bt      |B       |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                        |0-22      |22-43   |43-60   |60-92   |92-104   |104 a +   |

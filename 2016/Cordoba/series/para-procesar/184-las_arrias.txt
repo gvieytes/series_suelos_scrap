@@ -1,5 +1,5 @@
 Serie LAS ARRIAS
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
 La Serie Las Arrias es un suelo bien drenado a algo excesivamente, debilmente desarrollado sobre materiales mixtos de textura franco limosa a franca. Es tipico de areas de derrames planas y en el borde oriental de la planicie fluvio eolica. La parte superficial del suelo (horizonte A) es de textura franco limosa a franca con estructura en bloques subangulares medios moderados a debiles. Le sigue un horizonte de transicion AC hasta 60 cm. El sustrato (C) es franco limoso a franco, presenta laminillas de mica finas, abundantes y material calcareo diseminado en la masa.
@@ -8,8 +8,8 @@ A	0-20 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco; estru
 AC	20-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; pH 7,2; raices abundantes; limite inferior abrupto, suave.
 Ck	60 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; friable en humedo; pH 7,9; violenta reaccion al ClH en la masa del suelo; raices escasas.
 Datos analiticos Serie LAS ARRIAS
-LATITUD:30º27'00"
-LONGITUD:63º35'40"
+LATITUD:S302700
+LONGITUD:O633540
 ALTITUD:178 m.s.n.m.
 |Horizonte                                                            |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-60   |60 a +  |

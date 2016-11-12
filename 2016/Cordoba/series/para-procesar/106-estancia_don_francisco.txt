@@ -1,5 +1,5 @@
 Serie ESTANCIA DON FRANCISCO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argialbol tipico
 TPS: franca gruesa, mixta, termica
 Es un suelo moderadamente bien drenado, ligeramente alcalino (no sodico), con alcalinidad sodica solo en profundidad, desarrollado sobre materiales franco arenosos a areno francos, en planos deprimidos de origen eolico y areas intermedias. La parte superficial del suelo (horizonte A), tiene 18 cm de profundidad, textura franco arenosa y estructura en bloques debiles. Le sigue un horizonte decolorado (E albico), de textura algo mas liviana, que termina abruptamente a 38 cm, donde aparece el subsuelo (horizonte B) enriquecido en arcilla, con textura franco arenosa (17,8 de arcilla), 6,8 de Na+ intercambiable y estructura moderada en prismas; este horizonte se extiende hasta los 56 cm de profundidad. El horizonte C aparece a los 84 cm con textura arenosa franca y alcalinidad sodica. Las limitaciones para el uso de este suelo estan dadas por el drenaje moderado, el horizonte decolorado subsuperficial, con bajo tenor de materia organica y su posicion en el relieve (generalmente concavo) que puede sufrir anegamientos frecuentes y alcalinidad sodica en profundidad.
@@ -10,8 +10,8 @@ Bt	38-56 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso; es
 BC	56-84 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; pH 8,2; concreciones de CO3Ca escasas y finas; barnices arcillosos escasos finos; moteados abundantes, medios y precisos; raices comunes; limite inferior gradual, suave.
 C	84 cm a +; color en humedo pardo (7,5YR5/4); areno franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,4; concreciones de Ca escasas y finas; moteados abundantes, medios y precisos; raices escasas.
 Datos analiticos Serie ESTANCIA DON FRANCISCO
-LATITUD:33º57'16"
-LONGITUD:62º33'41"
+LATITUD:S335716
+LONGITUD:O623341
 ALTITUD:118 m.s.n.m.
 |Horizonte                                                            |A       |E       |Bt      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-18    |18-38   |38-56   |56-84   |84 a +  |

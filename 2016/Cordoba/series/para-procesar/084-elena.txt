@@ -10,8 +10,8 @@ A	0-21 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5);
 3AC	59-78 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco limoso, estructura en bloques subangulares debiles a masivo, muy friable en humedo, no plastico, no adhesivo, pH 8,1, raices escasas, limite inferior gradual, leve reaccion al ClH en la masa del suelo.
 3C	78 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso, masivo, pH 8,2, moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie ELENA
-LATITUD:32º33'19"
-LONGITUD:64º27'03"
+LATITUD:S323319
+LONGITUD:O642703
 ALTITUD:675 m.s.n.m.
 |Horizonte                                                            |A       |2       |3A      |3AC     |3C      |
 |Profundidad de la muestra (cm)                                       |0-21    |21-40   |40-59   |59-78   |78 a +  |

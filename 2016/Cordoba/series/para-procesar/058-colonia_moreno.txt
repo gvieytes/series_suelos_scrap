@@ -11,8 +11,8 @@ Btn	46-70 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso a f
 BCzn	70-97 cm; color en humedo pardo (7,5YR5/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; no plastico; no adhesivo; barnices "Clay Skins" escasos; escasos moteados finos y debiles; nucleos y bochas cementadas; limite inferior abrupto, suave.
 Ckz	97 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante cantidad de carbonatos libres en la masa; cristales finos de yeso y pseudomicelios salinos comunes; durinodulos finos, comunes.
 Datos Analiticos Serie COLONIA MORENO
-LATITUD:32º27'38"
-LONGITUD:62º07'15"
+LATITUD:S322738
+LONGITUD:O620715
 ALTITUD:88 m.s.n.m.
 |Horizonte                                                            |A       |E       |Bt      |Btn     |BCzn    |Ckz     |
 |Profundidad de la muestra (cm)                                       |0-14    |14-22   |22-46   |46-70   |70-97   |97 a +  |

@@ -1,5 +1,5 @@
 Serie SAN PANCRACIO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Usthortent litico paralitico
 TPS: esqueletica, franca, mixta, termica
 Se trata de un suelo algo excesivamente drenado, relacionado a lomas onduladas y pendientes alargadas, originado a partir de materiales franco arenosos. El horizonte Ak de 12 cm de espesor, con muy alto contenido de materia organica (12,9%), es de textura franco arenosa y estructura en bloques subangulares medios debiles. Le sigue luego una capa con alto contenido de carbonato de calcio en forma de tosca, discontinua, que se apoya directamente sobre la roca alterada.
@@ -8,8 +8,8 @@ Ak	0-12 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso 
 2km	manto de tosca de potencia variable y discontinua.
 Rr	roca alterada.
 Datos analiticos Serie SAN PANCRACIO
-LATITUD:31º47'10"
-LONGITUD:64º37'55"
+LATITUD:S314710
+LONGITUD:O643755
 ALTITUD:1090 m.s.n.m.
 |Horizonte                                                            |Ak      |
 |Profundidad de la muestra (cm)                                       |0-12    |

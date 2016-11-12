@@ -8,8 +8,8 @@ A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; e
 Bt	18-48 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares fuertes; duro en seco; ligeramente firme en humedo; muy plastico; adhesivo; pH 8,1; barnices humico arcillosos muy abundantes y medios; vestigios de raices; limite inferior gradual.
 Btn	48 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en prismas irregulares fuertes; duro en seco; firme en humedo; muy plastico; adhesivo; pH 8,7; barnices arcillosos abundantes (ClSk); moteados escasos y finos.
 Datos analiticos Serie ESTANCIA LA SELVA
-LATITUD:30º45'40"
-LONGITUD:64º10'51"
+LATITUD:S304540
+LONGITUD:O641051
 ALTITUD:553 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |Btn     |
 |Profundidad de la muestra (cm)                                       |0-18    |18-48   |48 a +  |

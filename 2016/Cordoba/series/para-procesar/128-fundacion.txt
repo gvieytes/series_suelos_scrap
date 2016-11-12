@@ -1,5 +1,5 @@
 Serie FUNDACION
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiustol tipico
 TPS: franca fina, mixta, termica
 Es un suelo bien drenado, desarrollado sobre materiales loessicos y vinculado a pendientes alargadas y lomas onduladas. El horizonte superior A de 27 cm de potencia es de textura franca y estructura en bloques debiles, con un contenido moderadamente alto de materia organica (5,6%). Se continua con otro horizonte enriquecido en arcilla (Bt) de textura franco arcillo limosa y estructura en prismas irregulares. Luego sigue un horizonte de transicion (BC) que mediante un limite abrupto pasa al Ck con abundante carbonato de calcio diseminado en la masa, donde se aprecian procesos de cementacion.
@@ -9,8 +9,8 @@ Bt	27-49 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo 
 BC	49-77 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arcillo limoso; estructura en bloques debiles; friable en humedo; plastico; adhesivo; pH 7,1; barnices abundantes finos; limite inferior abrupto, suave.
 Ck	77 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,2; fuerte reaccion al acido clorhidrico.
 Datos analiticos Serie FUNDACION
-LATITUD:31º47'15"
-LONGITUD:64º37'45'
+LATITUD:S314715
+LONGITUD:O643745
 ALTITUD:1000 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-27    |27-49   |49-77   |77 a +  |

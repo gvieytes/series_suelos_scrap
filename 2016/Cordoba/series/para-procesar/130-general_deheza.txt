@@ -10,8 +10,8 @@ Bw	22-49 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estruct
 BC	49-78 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; vestigios de barnices arcillosos; limite inferior abrupto, suave.
 Ck	78 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie GENERAL DEHEZA
-LATITUD:32º43'59"
-LONGITUD:63º43'10"
+LATITUD:S324359
+LONGITUD:O634310
 ALTITUD:252 m.s.n.m.
 |Horizonte                                                             |Ap      |A       |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-10    |10-22   |22-49   |49-78   |78 a +  |

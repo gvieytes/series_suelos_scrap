@@ -9,8 +9,8 @@ Bw	20-43 cm; color en humedo pardo oscuro (7,5YR3/2)); franco limoso; estructura
 BC	43-77 cm; color en humedo pardo a pardo oscuro (7,5YR4/4)); franco limoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; ligeramente plastico; no adhesivo; vestigios de barnices arcillosos; limite inferior abrupto, suave.
 Ck	77 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie CONSTITUCION
-LATITUD:31º04'
-LONGITUD:64º02'
+LATITUD:S310400
+LONGITUD:O640200
 ALTITUD:460 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-43   |43-77   |77 a +  |

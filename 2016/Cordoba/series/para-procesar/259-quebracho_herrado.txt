@@ -1,5 +1,5 @@
 Serie QUEBRACHO HERRADO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Duracuol argico
 TPS: muy fina, mixta, termica
 Es un suelo profundo, pesado e imperfectamente drenado, desarrollado sobre materiales franco limosos. Ocupa la parte central de las lineas de escurrimiento o via de desague, dentro de los planos altos o lomadas tendidas. El horizonte superficial (de color pardo grisaceo oscuro), es de textura franco arcillo limosa, estructura en bloques y moderadamente provisto de materia organica. Pasa hacia abajo en forma gradual a un horizonte enriquecido en arcilla (Bt) de textura arcillo limosa a arcillosa y estructura en prismas regulares fuertes. A los 90 cm de profundidad se encuentra un horizonte fuertemente cementado (duripan). Todo el perfil presenta moteados de FeMn. Por su posicion en el relieve y su escasa permeabilidad, suele anegarse en anos muy lluviosos, pero estan mejor provisto de humedad en los periodos secos.
@@ -10,8 +10,8 @@ Bt	32-54 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso a arcilloso
 Bt2	54-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); arcilloso; estructura en prismas irregulares medios moderados rompen en bloques subangulares; firme; plastico; adhesivo; concreciones comunes de FeMn finas; barnices abundantes y medios; moteados comunes, medios y precisos; limite inferior abrupto, ondulado.
 BCm	90 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; parcialmente cementado; concreciones de FeMn comunes y finas; moteados comunes, medios y precisos.
 Datos Analiticos Serie QUEBRACHO HERRADO
-LATITUD:31º31'16"
-LONGITUD:62º13'31"
+LATITUD:S313116
+LONGITUD:O621331
 ALTITUD:108,7 m.s.n.m.
 |Horizonte                                                            |A       |BA      |Bt      |Bt2     |BCm     |
 |Profundidad de la muestra (cm)                                       |0-18    |18-32   |32-54   |54-90   |90 a +  |

@@ -1,5 +1,5 @@
 Serie SANTO DOMINGO
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiudol acuico
 TPS: limosa fina, mixta, termica
 La Serie Santo Domingo es un suelo oscuro, profundo y moderada a imperfectamente drenado. Ocupa los planos deprimidos de los bajos o pie del segundo escalon estructural. La capa arable (horizonte Ap) es franco limosa, de color pardo muy oscuro, con estructura en bloques y se extiende hasta unos 15 cm. A esta profundidad se nota un cambio brusco hacia el horizonte arcilloso o Bt. Este alcanza aproximadamente hasta los 60 a 70 cm de profundidad, con debil alcalinidad sodica, estructura prismatica y barnices brillosos y oscuros (Clay skins). La transicion del Bt al horizonte C es muy gradual. El sustrato de este suelo aparece a 100 cm aproximadamente, es un material franco limoso y friable. A partir de los 30 cm, es comun la presencia de moteados finos, de los 60 cm de concreciones calcareas y rosetas de yeso y sales en profundidad. Este suelo esta bien provisto de materia organica en superficie, el Bt es moderadamente textural y al mismo tiempo con ligera alcalinidad sodica que aumenta en profundidad.
@@ -10,8 +10,8 @@ Bt2	29-61 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo li
 BCy	61-94 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares, medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos finos; moteados escasos, finos y debiles; rosetas de yeso comunes; escasas concreciones calcareas; limite inferior difuso.
 Cky	94 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; moteados escasos, finos; rosetas de yeso comunes; elevado contenido de calcareo libre en la masa del suelo.
 Datos analiticos Serie SANTO DOMINGO
-LATITUD:32º41'20"
-LONGITUD:62º22'20"
+LATITUD:S324120
+LONGITUD:O622220
 ALTITUD:107 m.s.n.m.
 |Horizonte                                                            |Ap      |Bt      |Bt2     |BCy     |Cky     |
 |Profundidad de la muestra (cm)                                       |0-14    |14-29   |29-61   |61-94   |94 a +  |

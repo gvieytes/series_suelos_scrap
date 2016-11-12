@@ -8,8 +8,8 @@ Ap	0-19 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estruct
 E	19-57 cm; color en humedo pardo oscuro (10YR3/3); franco; masivo; friable en humedo; muy escasos barnices arcillosos; moteados abundantes, medios y precisos; limite inferior abrupto, ondulado.
 Btn	57 cm a +; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en prismas irregulares medios moderados; ligeramente firme en humedo; barnices arcillosos "Clay Skins" comunes y medios; moteados abundantes, medios y precisos.
 Datos analiticos Serie LOS PORTENOS
-LATITUD:34º37'50"
-LONGITUD:64º44'15"
+LATITUD:S343750
+LONGITUD:O644415
 ALTITUD:240 m.s.n.m.
 |Horizonte                                                            |Ap      |E       |Btn     |
 |Profundidad de la muestra (cm)                                       |0-19    |19-57   |57 a +  |

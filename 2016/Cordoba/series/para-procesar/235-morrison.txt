@@ -10,8 +10,8 @@ Bt	38-68 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura 
 BC	68-86 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios debiles y bloques; friable en humedo; escasos barnices arcillosos; escasos moteados finos y debiles; escasas concreciones calcareas finas, algo poroso; limite inferior abrupto y suave.
 Ckm	86 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; abundante calcareo diseminado en la masa; moteados escasos, finos y debiles; cementado debilmente en el 100% de su volumen.
 Datos analiticos Serie MORRISON
-LATITUD:32º25'31"
-LONGITUD:62º57'27"
+LATITUD:S322531
+LONGITUD:O625727
 ALTITUD:156 m.s.n.m.
 |Horizonte                                                            |Ap      |E       |Bt      |BC      |Ckm     |
 |Profundidad de la muestra (cm)                                       |0-17    |17-38   |38-68   |68-86   |86 a +  |

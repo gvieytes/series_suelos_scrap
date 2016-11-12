@@ -9,8 +9,8 @@ A	15-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso;
 AC	25-55 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; masivo; muy friable en humedo; limite inferior gradual.
 C	55 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo.
 Datos analiticos Serie LABOULAYE
-LATITUD:34º11'29"
-LONGITUD:63º25'15"
+LATITUD:S341129
+LONGITUD:O632515
 ALTITUD:138 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-15    |15-25   |25-55   |55 a +  |

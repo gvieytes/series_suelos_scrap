@@ -8,8 +8,8 @@ A	0-21 cm; color en humedo pardo oscuro (10YR3/3); areno franco; estructura en b
 AC	21-43 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
 C	43 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); areno franco; masivo a grano simple; suelto en humedo; no plastico; no adhesivo.
 Datos analiticos Serie HUINCA RENANCO
-LATITUD:34º41'40"
-LONGITUD:64º25'15"
+LATITUD:S344140
+LONGITUD:O642515
 ALTITUD:195 m.s.n.m.
 |Horizonte                                                             |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                        |0-21    |21-43   |43 a +  |

@@ -10,8 +10,8 @@ BCn	54-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; es
 C	95-115 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, gruesos y sobresalientes; nodulos cementados comunes; concreciones calcareas comunes finas y escasa cantidad de carbonates libres en la masa; limite inferior abrupto, ondulado.
 Ck	115 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, gruesos y sobresalientes; escasas concreciones calcareas finas y abundante cantidad de carbonates libres en la masa.
 Datos analiticos Serie VILLA FRANCISCA
-LATITUD:32º34'11"
-LONGITUD:62º24'35"
+LATITUD:S323411
+LONGITUD:O622435
 ALTITUD:113 m.s.n.m.
 |Horizonte                                                            |En      |Btn     |BCn     |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-11    |11-54   |54-95   |95-115  |115 a + |

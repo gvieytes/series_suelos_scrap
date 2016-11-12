@@ -9,8 +9,8 @@ Bw	23-48 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura 
 C	48-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
 Ck	95 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante material calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie LAS ISLETILLAS
-LATITUD:32º21'17"
-LONGITUD:63º43'22"
+LATITUD:S322117
+LONGITUD:O634322
 ALTITUD:255 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-48   |48-95   |95 a +  |

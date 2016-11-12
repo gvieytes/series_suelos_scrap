@@ -11,8 +11,8 @@ Btn	33-61 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco; estructura colu
 BC	61-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios debiles; muy friable en humedo; ligeramente plastico; no adhesivo; pH 8,6; concreciones de carbonato de Calcio comunes gruesas; barnices escasos de arcilla (ClSk); moteados escasos finos y debiles; se observan pequenos nucleos cementados; limite inferior abrupto.
 Ck	90 cm a +; color en humedo pardo (7,5YR4,5/4); franco; masivo; muy friable en humedo; ligeramente plastico; no adhesivo; pH 9,2; moderada reaccion al ClH en la masa del suelo; concreciones de Carbonato de Calcio comunes gruesas; moteados comunes finos y debiles.
 Datos analiticos Serie ASSUNTA
-LATITUD:33º32'24"
-LONGITUD:63º14'44"
+LATITUD:S333224
+LONGITUD:O631444
 ALTITUD:127,5 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |En      |Btn     |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-27   |27-33   |33-61   |61-90   |90 a +  |

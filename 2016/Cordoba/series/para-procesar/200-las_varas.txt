@@ -11,8 +11,8 @@ Bw2	50-70 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco; estructura en p
 BC	70-110; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; vestigios de barnices finos; moteados escasos, finos y debiles; limite inferior difuso.
 C	110 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moteados escasos, finos y debiles.
 Datos analiticos Serie LAS VARAS
-LATITUD:31º44'37"
-LONGITUD:62º30'26"
+LATITUD:S314437
+LONGITUD:O623026
 ALTITUD:114 m.s.n.m.
 |Horizonte                                                             |Ap      |A       |Bw      |Bw2     |BC      |C       |
 |Profundidad de la muestra (cm)                                        |0-18    |18-28   |28-50   |50-70   |70-110  |110 a + |

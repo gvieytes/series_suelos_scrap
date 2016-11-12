@@ -1,5 +1,5 @@
 Serie ESTANCIA LOS ANDES
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol udorthentico
 TPS: franca gruesa, mixta, termica
 La Serie Estancia Los Andes es un suelo algo excesivamente drenado, con poco desarrollo de sus horizontes geneticos y vinculados a lomas planas y ligeramente onduladas. Se han desarrollado a partir de sedimentos eolicos de textura franco arenosa. La capa arable (horizonte A) de 22 cm de espesor, de color pardo grisaceo oscuro en humedo, de textura franco arenosa y estructura en bloques. Luego pasa gradualmente (horizonte de transicion AC) al material originario que se encuentra a una profundidad de 46 cm, de textura franco arenosa a arenosa franca y estructura masiva. El calcareo se encuentra muy profundo y por lo general por debajo del metro. Estos suelos presentan baja retencion de humedad y drenaje excesivo, que aumentan la sequedad del suelo y por lo tanto presentan limitacion climatica.
@@ -8,8 +8,8 @@ A	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; 
 AC	22-46 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
 C	46 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso a arenoso franco; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie ESTANCIA LOS ANDES
-LATITUD:34º15'33"
-LONGITUD:63º15'19"
+LATITUD:S341533
+LONGITUD:O631519
 ALTITUD:133 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-22    |22-46   |46 a +  |

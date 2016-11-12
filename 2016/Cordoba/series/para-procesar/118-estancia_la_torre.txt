@@ -1,5 +1,5 @@
 Serie ESTANCIA LA TORRE
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
 La Serie Estancia La Torre es un suelo profundo, algo excesivamente drenado, desarrollado sobre materiales de origen eolico, vinculado a sectores ondulados. Es un suelo de incipiente desarrollo, posee un horizonte A de 20 cm con moderadamente bajo tenor de materia organica, debilmente acido, y textura franco limosa. Pasa transicionalmente (AC) a un horizonte C a los 48 cm de textura franco arenosa, con carbonatos libres a partir de los 70 cm de profundidad.
@@ -9,8 +9,8 @@ AC	20-48 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco a franco
 C	48-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
 Ck	70 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos Analiticos Serie ESTANCIA LA TORRE
-LATITUD:32º45'29"
-LONGITUD:64º35'46"
+LATITUD:S324529
+LONGITUD:O643546
 ALTITUD:500 m.s.n.m.
 |Horizonte                                                             |A       |AC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                        |0-20    |20-48   |48-70   |70 a +  |

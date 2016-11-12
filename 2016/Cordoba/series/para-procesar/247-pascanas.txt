@@ -10,8 +10,8 @@ Bt	48-70 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en pris
 BCk	70-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; estructura en bloques subangulares medios gruesos y debiles; muy friable en humedo; no plastico; no adhesivo; pH 8,1; moderada reaccion al ClH en la masa del suelo; barnices arcillosos escasos y finos; moteados de FeMn comunes finos y debiles; limite inferior gradual.
 Ck	105 cm a +; color en humedo pardo (7,5YR4,5/4); franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 8,3; violenta reaccion al ClH en la masa del suelo; escasos durinodulos.
 Datos Analiticos Serie PASCANAS
-LATITUD:33º08'11"
-LONGITUD:63º16'06"
+LATITUD:S330811
+LONGITUD:O631606
 ALTITUD:150 m.s.n.m.
 |Horizonte                                                             |Ap      |E       |Bt      |BCk      |Ck        |
 |Profundidad de la muestra (cm)                                        |0-22    |22-48   |48-70   |70-105   |105 a +   |

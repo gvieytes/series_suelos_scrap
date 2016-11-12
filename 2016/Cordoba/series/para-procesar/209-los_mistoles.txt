@@ -9,8 +9,8 @@ AC	23-46 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco arci
 C	46-75 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo, muy friable en humedo; ligeramente plastico no adhesivo; pH 7,7; raices escasas.
 Ck	75 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; plastico; no adhesivo; pH 8,3.
 Datos analiticos Serie LOS MISTOLES
-LATITUD:30º41'00"
-LONGITUD:63º46'08"
+LATITUD:S304100
+LONGITUD:O634608
 ALTITUD:280 m.s.n.m.
 |Horizonte                                                             |A       |AC      |C       |Ck        |
 |Profundidad de la muestra (cm)                                        |0-23    |23-46   |46-75   |75 a +    |

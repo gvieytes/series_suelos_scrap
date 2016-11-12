@@ -11,8 +11,8 @@ BCnz	57-68 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; e
 BCkzn	63-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; barnices arcillosos escasos y finos; moteados escasos finos, debiles; abundantes durinodulos medios; abundante calcareo diseminado en la masa del suelo; limite inferior abrupto.
 Ckmz	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; cementado; moteados comunes, finos y precisos; abundante calcareo pulverulento diseminado en la masa del suelo y concreciones.
 Datos analiticos Serie CHILIBROSTE
-LATITUD:32º22'28"
-LONGITUD:62º46'27"
+LATITUD:S322228
+LONGITUD:O624627
 ALTITUD:138 m.s.n.m.
 |Horizonte                                                             |Ap      |Btn     |Btnz    |BCnz    |BCkzn   |Ckmz    |
 |Profundidad de la muestra (cm)                                        |0-19    |19-37   |37-57   |57-68   |68-80   |80 a +  |

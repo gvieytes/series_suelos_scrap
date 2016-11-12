@@ -10,8 +10,8 @@ Btn2	50-71 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcilloso
 BCn	71-106 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; estructura en bloques subangulares irregulares debiles y finos; carbonatos libres y en concreciones escasas; moteados comunes, finos y debiles; limite inferior gradual, ondulado.
 Cn	106 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; moteados comunes, finos y debiles.
 Datos analiticos Serie AMENABAR
-LATITUD:34º06'24"
-LONGITUD:62º12'00"
+LATITUD:S340624
+LONGITUD:O621200
 ALTITUD:112 m.s.n.m.
 |Horizonte                                                            |E       |Btn     |Btn2    |BCn      |C         |
 |Profundidad de la muestra (cm)                                       |0-27    |27-50   |50-71   |71-106   |106 a +   |

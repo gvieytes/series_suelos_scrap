@@ -10,8 +10,8 @@ C	38-64 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso; masi
 2	64-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares finos; friable en humedo; plastico; adhesivo; moteados comunes, medios y precisos; limite inferior abrupto, suave.
 3	86 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; masivo; friable en humedo; moteados comunes, medios, debiles; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie EL SARMIENTO
-LATITUD:34º11'28"
-LONGITUD:64º49'14"
+LATITUD:S341128
+LONGITUD:O644914
 ALTITUD:291 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |C       |2       |3       |
 |Profundidad de la muestra (cm)                                       |0-14    |14-38   |38-64   |64-86   |86 a +  |

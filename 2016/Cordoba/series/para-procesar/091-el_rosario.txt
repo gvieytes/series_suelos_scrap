@@ -8,8 +8,8 @@ A	0-28 cm; color en humedo gris muy oscuro (10YR3/1); franco arenoso a franco; e
 2Bt	28-60 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios fuertes; friable en humedo; plastico; adhesivo; pH 6,6; barnices humico arcillosos abundantes y medios; raices comunes; limite inferior claro.
 R	60 cm a +; contacto paralitico, con roca alterada del complejo metamorfico.
 Datos analiticos Serie EL ROSARIO
-LATITUD:30º59'16"
-LONGITUD:64º25'55"
+LATITUD:S305916
+LONGITUD:O642555
 ALTITUD:1450 m.s.n.m.
 |Horizonte                                                            |A       |2Bt     |
 |Profundidad de la muestra (cm)                                       |0-28    |28-60   |

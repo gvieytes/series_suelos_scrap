@@ -9,8 +9,8 @@ A	20-29 cm; color en humedo pardo muy oscuro (10YR2/2); franco a franco limoso; 
 AC	29-62 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en bloques subangulares medios debiles; friable en humedo; limite inferior difuso.
 C	62 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable.
 Datos analiticos Serie LAS PLAYAS
-LATITUD:32º46'
-LONGITUD:62º54'
+LATITUD:S324600
+LONGITUD:O625400
 ALTITUD:142 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-20    |20-29   |29-62   |62 a +  |

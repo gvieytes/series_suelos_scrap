@@ -10,8 +10,8 @@ Btn	42-56 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo li
 BCn	56-78 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; ligeramente plastico; no adhesivo; barnices escasos y finos; moteados escasos finos y precisos; escasos nodulos cementados; limite inferior abrupto suave.
 Ckz	78 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante contenido de carbonato pulverulento en la masa del suelo; concreciones de carbonato de calcio escasas.
 Datos analiticos Serie LA FRANCIA
-LATITUD:31º34'22"
-LONGITUD:62º41'31"
+LATITUD:S313422
+LONGITUD:O624131
 ALTITUD:122 m.s.n.m.
 |Horizonte                                                             |Ap       |Bt      |Btn     |BCn     |Ckz     |
 |Profundidad de la muestra (cm)                                        |0-17     |17-42   |42-56   |56-78   |78 a +  |

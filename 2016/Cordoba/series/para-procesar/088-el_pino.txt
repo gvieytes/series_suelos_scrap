@@ -10,8 +10,8 @@ BC	57-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; estructura
 C	90-118 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; ligeramente plastico; no adhesivo; escasas concreciones calcareas finas y medias; limite inferior abrupto, suave.
 Ck	118 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo; nodulos cementados comunes y finos.
 Datos analiticos Serie EL PINO
-LATITUD:31º54'39"
-LONGITUD:62º34'30"
+LATITUD:S315439
+LONGITUD:O623430
 ALTITUD:120 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                       |0-22    |22-57   |57-90   |90-118   |118 a +   |

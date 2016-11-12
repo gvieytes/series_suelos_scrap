@@ -8,8 +8,8 @@ Ap	0-22 cm; color en humedo pardo muy oscuro (10YR2/2); franco limoso; estructur
 ACk	22-46 cm; color en humedo pardo oscuro (7,5YR3/4); franco limoso; estructura en bloques subangulares finos debiles a moderados; violenta reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; escasos durinodulos; pH 8; raices escasas; limite inferior claro, suave.
 Ck	46 cm a +; color en humedo pardo fuerte (7,5YR4/6); franco limoso; masivo; violenta reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; escasos durinodulos; pH 8,1.
 Datos analiticos Serie LA LONJA
-LATITUD:30º58'45"
-LONGITUD:64º08'00"
+LATITUD:S305845
+LONGITUD:O640800
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                            |Ap      |ACk     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-46   |46 a +  |

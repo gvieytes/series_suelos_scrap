@@ -1,5 +1,5 @@
 Serie LAS SELVAS
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiustol tipico
 TPS: franca gruesa, mixta, termica
 Los suelos que responden a esta Serie son profundos, bien drenados, desarrollados a partir de sedimentos loessicos de textura franca limosa, vinculados a lineas de escurrimiento o vias de desagues bien manifiestas que bisectan los planos altos o lomadas. En superficie el suelo es de textura franco limosa, de color pardo grisaceo oscuro, con escaso a moderado contenido de materia organica y bien estructurado. A la profundidad de 18 cm pasa a un horizonte mas arcilloso (Bt), de estructura prismatica y barnices en la cara de los agregados. La transicion al material originario es gradual, encontrandose este (horizonte Ck) a 62 cm de profundidad, es un material de textura franca limosa y masiva con abundante carbonato en la masa del suelo.
@@ -9,8 +9,8 @@ Bt	18-38 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco limoso; estructur
 BC	38-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; limite inferior abrupto, suave.
 Ck	62 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante contenido de carbonato pulverulento en la masa del suelo.
 Datos Analiticos Serie LAS SELVAS
-LATITUD:32º29'28"
-LONGITUD:63º55'23"
+LATITUD:S322928
+LONGITUD:O635523
 ALTITUD:330 m.s.n.m.
 |Horizonte                                                            |Ap      |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-18    |18-38   |38-62   |62 a +  |

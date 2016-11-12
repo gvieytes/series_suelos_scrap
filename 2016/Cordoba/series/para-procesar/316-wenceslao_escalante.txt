@@ -1,5 +1,5 @@
 Serie WENCESLAO ESCALANTE
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Endoacuol tipico
 TPS: franca gruesa, mixta, termica
 La Serie Wenceslao Escalante es un suelo imperfectamente drenado, con fuerte alcalinidad sodica y salinidad, vinculados a sectores relativamente algo mas altos dentro de las depresiones o bajos. Se ha desarrollado a partir de materiales franco a franco arenosos y presenta un perfil con muy poco desarrollo de horizontes geneticos. Los primeros 23 cm (horizonte A) son de color negro, textura y estructura en bloques. Hacia abajo pasa gradualmente (horizonte transicional A/C) al substrato u horizonte C que se encuentra a una profundidad promedio de 40 cm. La fuerte alcalinidad sodica, la salinidad y el drenaje impedido limitan considerablemente la aptitud para el uso de estos suelos.
@@ -9,8 +9,8 @@ ACnz	23-40 cm; color en humedo pardo oscuro (10YR3/3); franco a franco limoso; e
 Cnz	40-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco arenoso; masivo; muy friable en humedo; moteados abundantes, medios y sobresalientes; escasos nodulos ligeramente cementados; escasas concreciones calcareas finas; limite inferior abrupto, suave.
 Cknz	72 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso a franco; masivo; muy friable en humedo; moteados abundantes, gruesos y sobresalientes; abundantes concreciones calcareas.
 Datos Analiticos Serie WENCESLAO ESCALANTE
-LATITUD:33º18'04"
-LONGITUD:62º50'00"
+LATITUD:S331804
+LONGITUD:O625000
 ALTITUD:109 m.s.n.m.
 |Horizonte                                                            |An      |ACnz    |Cnz     |Ckz     |
 |Profundidad de la muestra (cm)                                       |0-23    |23-40   |40-72   |72 a +  |

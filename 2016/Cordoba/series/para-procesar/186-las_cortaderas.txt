@@ -9,8 +9,8 @@ Bt	22-52 cm; color en humedo pardo oscuro (10YR3/3), franco a franco arcilloso, 
 BCk	52 a 75 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco, estructura en bloques debiles gruesos, friable en humedo, no plastico, no adhesivo, pH 8,5, escasa reaccion al ClH en la masa del suelo, barnices escasos de arcillas iluviales, raices escasas, limite inferior claro.
 Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR4/4), franco, masivo; muy friable en humedo, no plastico, no adhesivo, pH 8,5, moderada reaccion al ClH en la masa del suelo, vestigios de raices.
 Datos analiticos Serie LAS CORTADERAS
-LATITUD:31º14'36"
-LONGITUD:63º32'31"
+LATITUD:S311436
+LONGITUD:O633231
 ALTITUD:210 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BCk     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-52   |52-75   |75 a +  |

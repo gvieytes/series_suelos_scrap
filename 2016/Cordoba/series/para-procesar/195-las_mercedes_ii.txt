@@ -10,8 +10,8 @@ B	48-71 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco arcillo limoso; es
 BC	71-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, moderados; ligeramente duro en seco; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos finos; moteados escasos, finos debiles; escasas concreciones calcareas finas; pH 7,7; limite inferior abrupto, suave.
 Ck	95 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo, moteados escasos, finos debiles; abundante calcareo pulverulento en la masa del suelo; pH 7,8.
 Datos analiticos Serie LAS MERCEDES II
-LATITUD:30º37'10"
-LONGITUD:64º12'00"
+LATITUD:S303710
+LONGITUD:O641200
 ALTITUD:730 m.s.n.m.
 |Horizonte                                                            |Ap      |Bt      |B       |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-21    |21-48   |48-71   |71-95   |95 a +  |

@@ -12,8 +12,8 @@ BC	90-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; es
 C	120-170 cm; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; concreciones calcareas comunes; moteados de FeMn comunes, medios y precisos; limite inferior abrupto.
 Ck	170 cm a +; color en humedo pardo (7,5YR5/4); masivo; friable en humedo; abundante cantidad de carbonatos libres en la masa del suelo; moteados de FeMn comunes, medios y precisos.
 Datos analiticos Serie GUATIMOZIN
-LATITUD:33º32'00"
-LONGITUD:62º23'50"
+LATITUD:S333200
+LONGITUD:O622350
 ALTITUD:117 m.s.n.m.
 |Horizonte                                                        |Ep      |E       |Btn     |BCn     |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                   |0-17    |17-26   |26-67   |67-90   |90-120  |120-170 |170 a + |

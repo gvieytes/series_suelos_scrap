@@ -11,8 +11,8 @@ Btn	33-65 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo lim
 BCn	65-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes y medios; moteados comunes, medios y precisos; escasas concreciones calcareas medias; limite inferior abrupto, suave.
 BCm	85 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco; muy duro en seco; cementado; friable en humedo
 Datos Analiticos Serie ESTANCIA VIEJA
-LATITUD:33º03'05"
-LONGITUD:62º42'17"
+LATITUD:S330305
+LONGITUD:O624217
 ALTITUD:112 m.s.n.m.
 |Horizonte                                                             |En      |En2     |En3     |Btn     |BCn     |BCm     |
 |Profundidad de la muestra (cm)                                        |0-15    |15-23   |23-33   |33-65   |65-85   |85 a +  |

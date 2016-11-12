@@ -10,8 +10,8 @@ Bwk	52-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; es
 BCk	80-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos (ClSk) escasos y finos; moteados comunes, medios y precisos; limite inferior gradual.
 Ck	120 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo y en concreciones; moteados comunes, medios y precisos.
 Datos Analiticos Serie OLIVA
-LATITUD:32º03'06"
-LONGITUD:63º35'52"
+LATITUD:S320306
+LONGITUD:O633552
 ALTITUD:265 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |Bwk     |BCk      |Ck        |
 |Profundidad de la muestra (cm)                                       |0-22    |22-52   |52-80   |80-120   |120 a +   |

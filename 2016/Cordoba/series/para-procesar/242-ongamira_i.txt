@@ -7,8 +7,8 @@ UBICACION: a 7 km al Norte de Ongamira, departamento Ischilin, provincia de Cord
 Ak	0-20 cm; color en humedo pardo rojizo oscuro (5YR3/3); areno franco gravillosa; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; pH 6,9; violenta reaccion al ClH en la masa del suelo; raices comunes; limite inferior abrupto, suave.
 2Rk	20 cm a +; color en humedo rojo amarillento (5YR5/6); areno franco; estructura laminar fina; firme en humedo; no plastico; no adhesivo; pH 8,4; muy fuerte reaccion al ClH en la masa del suelo.
 Datos analiticos Serie ONGAMIRA I
-LATITUD:30º44'41"
-LONGITUD:64º25'25"
+LATITUD:S304441
+LONGITUD:O642525
 ALTITUD:1150 m.s.n.m.
 |Horizonte                                                            |Ak      |2Rk     |
 |Profundidad de la muestra (cm)                                       |0-20    |20 a +  |

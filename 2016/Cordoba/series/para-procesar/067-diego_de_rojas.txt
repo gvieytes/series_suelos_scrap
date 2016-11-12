@@ -9,8 +9,8 @@ Btn	20-45 cm; color en humedo pardo oscuro (10YR3/3), franco arcilloso, estructu
 BCn	45-62 cm; color en humedo pardo amarillento oscuro (10YR4/4), franco, estructura en bloques gruesos debiles, friable en humedo, no plastico, no adhesivo, pH: 8,2, barnices escasos arcillosos, limite inferior abrupto ondulado.
 Ckn	62 cm a +; color en humedo pardo (7,5YR5/4), franco, masivo, friable en humedo, moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie DIEGO DE ROJAS
-LATITUD:31º04'17"
-LONGITUD:63º19'33"
+LATITUD:S310417
+LONGITUD:O631933
 ALTITUD:135 m.s.n.m.
 |Horizonte                                                            |A       |Btn     |BCn     |Ckn     |
 |Profundidad de la muestra (cm)                                       |0-20    |20-45   |45-62   |62 a +  |

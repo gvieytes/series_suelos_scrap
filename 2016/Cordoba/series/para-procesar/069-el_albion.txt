@@ -10,8 +10,8 @@ BC	30-55 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco li
 C	55-128 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; moteados comunes, medios y precisos; abundantes concreciones calcareas medias y finas; limite inferior abrupto.
 Ck	128 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; moteados comunes, medios y precisos; abundante calcareo diseminado en la masa.
 Datos analiticos Serie El Albion
-LATITUD:33º14'34"
-LONGITUD:62º56'36"
+LATITUD:S331434
+LONGITUD:O625636
 ALTITUD:116 m.s.n.m.
 |Horizonte                                                            |E       |Bt      |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                       |0-10    |10-30   |30-55   |55-128   |128 a +   |

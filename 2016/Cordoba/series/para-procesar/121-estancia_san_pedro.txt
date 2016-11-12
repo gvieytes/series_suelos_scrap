@@ -11,8 +11,8 @@ AC	31-50 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso
 2BC	72-100 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en prismas y bloques debiles, tendencia masivo; muy friable en humedo; vestigios de barnices arcillosos; vestigios de raices; limite inferior gradual.
 2C	100 cm a +; color en humedo pardo oscuro (10YR3/3); franco a franco limoso; masivo; muy friable en humedo; concreciones de CO3Ca escasas y finas.
 Datos analiticos Serie ESTANCIA SAN PEDRO
-LATITUD:32º06'39"
-LONGITUD:62º36'05"
+LATITUD:S320639
+LONGITUD:O623605
 ALTITUD:123 m.s.n.m.
 |Horizonte                                                             |Ap      |A       |AC      |2Bt     |2BC     |2C      |
 |Profundidad de la muestra (cm)                                        |0-17    |17-31   |31-50   |50-73   |73-100  |100 a + |

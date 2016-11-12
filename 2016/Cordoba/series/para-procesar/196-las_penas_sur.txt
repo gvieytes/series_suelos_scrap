@@ -1,5 +1,5 @@
 Serie LAS PENAS SUR
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol fluventico
 TPS: franca fina, mixta, termica
 Es un suelo bien drenado, desarrollado sobre sedimentos fluviales y fluvio eolicos de texturas medias en ambientes o formas naturales de terrazas y desagues principales, dentro de la Pampa Alta loessica de la provincia de Cordoba. Esta constituido por capas fluviales parcialmente edafizadas donde la materia organica varia irregularmente con la profundidad. La capa A tiene una estructura en bloques con tendencia laminar, textura franco limosa con 18% de arcilla. Continua la capa 2 que se extiende hasta 55 cm con estructura laminar y bloques y textura franco limosa. Desde la profundidad indicada hasta 82 cm existe una capa parcialmente edafizada (3) con estructura en bloques, textura franco limosa a franca con 22% de arcilla y 2,2% de materia organica. Continua hacia abajo la capa 4 desde 82 cm hasta 104 cm, tiene textura franco limosa, 14% de arcilla y textura franca con vestigios de barnices en las caras de los agregados. La capa 5 va desde 104 a 124 cm, franco limosa con bloques debiles y 17% de arcilla. La capa 6 se extiende hacia abajo desde la profundidad indicada, es masiva con carbonato de calcio libre en la masa del suelo. Fases reconocidas: erosion hidrica y acumulacion.
@@ -11,8 +11,8 @@ A	0-32 cm; color en humedo pardo oscuro (10YR3/3); franco limoso, estructura en 
 5	104-124 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques debiles; ligeramente plastico; no adhesivo; pH 7; limite inferior abrupto.
 6	124 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; ligeramente plastico; ligeramente adhesivo; pH 8; moderada a fuerte reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LAS PENAS SUR
-LATITUD:32º29'25"
-LONGITUD:64º12'19"
+LATITUD:S322925
+LONGITUD:O641219
 ALTITUD:515 m.s.n.m.
 |Horizonte                                                            |A       |2       |3       |4        |5          |6         |
 |Profundidad de la muestra (cm)                                       |0-32    |32-55   |55-82   |82-104   |104-124    |124 a +   |

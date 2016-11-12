@@ -11,8 +11,8 @@ B	65-86 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; estru
 BCm	86-115 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; fuertemente cementado; duro en seco; extremadamente firme en humedo; no plastico; no adhesivo; concreciones calcareas comunes, medias a gruesas; moteados gruesos y sobresalientes.
 Cm	115 cm a +; franco limoso.
 Datos analiticos Serie LA LEONCITA
-LATITUD:33º10'35"
-LONGITUD:62º06'02"
+LATITUD:S331035
+LONGITUD:O620602
 ALTITUD:100 m.s.n.m.
 |Horizonte                                                            |A       |E       |Bt      | B      |BCm      |Cm        |
 |Profundidad de la muestra (cm)                                       |0-26    |26-33   |33-65   |65-86   |86-115   |115 a +   |

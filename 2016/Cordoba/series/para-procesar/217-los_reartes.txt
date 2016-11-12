@@ -1,5 +1,5 @@
 Serie LOS REARTES
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Udifluvent tipico
 TPS: esqueletica, franca, mixta, termica
 Es un suelo sin desarrollo de perfil genetico, de origen fluvial y relacionado a sectores bajos. Se trata de una sucesion de capas calcicas de texturas variadas, siendo la primera rica en materia organica (4,9%) teniendo una potencia de 16 cm.
@@ -8,8 +8,8 @@ UBICACION: a 6 km al NO de la localidad de Los Reartes, departamento Santa Maria
 2k	16-33 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios debiles; presencia de gravilla; ligeramente firme en humedo; pH 8,5; fuerte reaccion al ClH en la masa del suelo; limite inferior abrupto, suave.
 3k	33 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; presencia de roca alterada; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8,5; fuerte reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LOS REARTES
-LATITUD:31º53'
-LONGITUD:64º37'
+LATITUD:S315300
+LONGITUD:O643700
 ALTITUD:900 m.s.n.m.
 |Horizonte                                                            |1k      |2k      |3k      |
 |Profundidad de la muestra (cm)                                       |0-16    |16-33   |33 a +  |

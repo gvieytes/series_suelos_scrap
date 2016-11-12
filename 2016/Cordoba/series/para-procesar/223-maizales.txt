@@ -13,8 +13,8 @@ BC	100-125 cm; color en humedo pardo (7,5YR5/4); franco limoso; estructura en pr
 BC2	125-145 cm; color en humedo pardo (7,5YR4,5/4); franco limoso; estructura en prismas irregulares gruesos, debiles a masivo; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" escasos; moteados comunes, gruesos y precisos; pseudomicelios de carbonatos; limite inferior gradual, ondulado.
 C	145 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; plastico; no adhesivo; concreciones calcareas comunes; nodulos cementados con Fe comunes.
 Datos analiticos Serie MAIZALES
-LATITUD:33º23'10"
-LONGITUD:60º58'15"
+LATITUD:S332310
+LONGITUD:O605815
 ALTITUD:70 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |E       |Bt      |Bt2      |BC        |
 |Profundidad de la muestra (cm)                                       |0-18    |18-35   |35-52   |52-77   |77-105   |105 a +   |

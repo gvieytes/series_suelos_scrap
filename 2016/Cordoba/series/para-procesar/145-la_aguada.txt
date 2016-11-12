@@ -8,8 +8,8 @@ A	0-17 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques
 AC	17-40 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; masivo a bloques debiles; friable en humedo; no plastico; no adhesivo.
 C	40 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie LA AGUADA
-LATITUD:32º55'00"
-LONGITUD:64º38'30"
+LATITUD:S325500
+LONGITUD:O643830
 ALTITUD:500 m.s.n.m.
 |Horizonte                                                             |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                        |0-17    |17-40   |40 a +  |

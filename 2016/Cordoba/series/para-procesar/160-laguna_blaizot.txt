@@ -11,8 +11,8 @@ Btnz	35-52 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo l
 BCnz	52-77 cm; color en humedo pardo (7,5YR5/4); franco limoso a franco arcillo limoso; estructura en prismas y bloques debiles; concreciones de CO3Ca escasas y finas; pseudomicelios salinos abundantes; presencia de cristales de yeso; limite inferior abrupto, ondulado.
 Ckz	77 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; violenta reaccion al ClH en la masa del suelo; concreciones de FeMn y Ca escasas; presencia de bochas cementadas (20%); moteados abundantes, finos y precisos.
 Datos analiticos Serie LAGUNA BLAIZOT
-LATITUD:32º07'57"
-LONGITUD:62º48'17"
+LATITUD:S320757
+LONGITUD:O624817
 ALTITUD:144 m.s.n.m.
 |Horizonte                                                             |Ap      |E       |Bt      |Btnz    |BCnz    |Ckz     |
 |Profundidad de la muestra (cm)                                        |0-18    |18-24   |24-35   |35-52   |52-77   |77 a +  |

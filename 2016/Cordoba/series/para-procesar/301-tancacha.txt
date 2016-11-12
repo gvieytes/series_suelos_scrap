@@ -10,8 +10,8 @@ AC	40-81 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; masivo;
 C	81-112 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
 Ck	112 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo en la masa del suelo.
 Datos analiticos Serie TANCACHA
-LATITUD:32º13'38"
-LONGITUD:63º58'01"
+LATITUD:S321338
+LONGITUD:O635801
 ALTITUD:348 m.s.n.m.
 |Horizonte                                                            |Ap      |A       |AC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                       |0-13    |13-40   |40-81   |81-112   |112 a +   |

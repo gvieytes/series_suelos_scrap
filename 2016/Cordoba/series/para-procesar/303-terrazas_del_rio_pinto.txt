@@ -8,8 +8,8 @@ A	0-23 cm; color en humedo pardo muy oscuro (10YR2/2); franco limoso; estructura
 AC	23-38 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; masivo a estructura en bloques debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,9; raices escasas; limite inferior abrupto, ondulado.
 Ck	38 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; violenta reaccion al ClH en la masa del suelo; pH 7,7.
 Datos analiticos Serie TERRAZAS DEL RIO PINTO
-LATITUD:30º48'15"
-LONGITUD:64º06'00"
+LATITUD:S304815
+LONGITUD:O640600
 ALTITUD:600 m.s.n.m.
 |Horizonte                                                            |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-38   |38 a +  |

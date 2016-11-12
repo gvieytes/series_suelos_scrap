@@ -12,8 +12,8 @@ Bt2	72-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo li
 BC	97-126 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices escasos y finos; limite inferior difuso.
 C	126 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
 Datos analiticos Serie SAN FRANCISCO
-LATITUD:31º13'00"
-LONGITUD:62º10'09"
+LATITUD:S311300
+LONGITUD:O621009
 ALTITUD:107 m.s.n.m.
 |Horizonte                                                     |Ap      |A       |BA      |Bt      |Bt2     |BC      |C       |
 |Profundidad de la muestra (cm)                                |0-10    |10-21   |21-34   |34-72   |72-97   |97-126  |126 a + |

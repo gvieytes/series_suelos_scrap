@@ -8,8 +8,8 @@ A	0 - 14 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso;
 Btn	14 - 32 cm; color en humedo pardo oscuro (10YR3/3); franco arcilloso a franco; estructura en prismas irregulares medios moderados rompe a prismas; friable en humedo; muy plastico; adhesivo; barnices humico arcillosos abundantes medios; raices abundantes; reaccion en puntos al ClH en la masa del suelo; limite inferior claro.
 BCk	32 cm a +; franco arcilloso a franco; plastico; adhesivo; violenta reaccion al ClH en la masa del suelo; presencia de la capa freatica.
 Datos analiticos Serie EL SILENCIO
-LATITUD:30º22'45"
-LONGITUD:63º07'30"
+LATITUD:S302245
+LONGITUD:O630730
 ALTITUD:70 m.s.n.m.
 |Horizonte                                                             |A       |Btn     |BCk     |
 |Profundidad de la muestra (cm)                                        |0-14    |14-32   |32 a +  |

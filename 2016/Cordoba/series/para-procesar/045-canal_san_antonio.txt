@@ -10,8 +10,8 @@ Btn2	40-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pa
 BCn	 72-95 cm; color en humedo pardo fuerte (7,5YR4/6); color en seco pardo fuerte (7,5YR5/6); franco limoso; estructura en bloques subangulares finos y debiles; ligeramente duro en seco; muy friable en humedo; plastico; ligeramente adhesivo; moteados abundantes, medios y precisos; raices escasas; limite abrupto, suave.
 Ck	95 cm a +; color en humedo pardo fuerte (7,5YR5/6); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; blando a ligeramente duro en seco; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas y finas concreciones de carbonatos y de FeMn; moteados abundantes medios y precisos, con la napa de agua.
 Datos analiticos Serie CANAL SAN ANTONIO
-LATITUD:31º47'42"
-LONGITUD:62º13'42"
+LATITUD:S314742
+LONGITUD:O621342
 ALTITUD:100 m.s.n.m.
 |Horizonte                                                             |E       |Btn     |Btn2    |BCn     |Ck      |
 |Profundidad de la muestra (cm)                                        |0-15    |15-40   |40-72   |72-95   |95 a +  |

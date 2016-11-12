@@ -9,8 +9,8 @@ Bw	23-43 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limo
 BC	43-67 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 7; barnices arcillosos vestigios a escasos finos; vestigios de raices; limite inferior claro, suave.
 Ck	67 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; pH 8,2; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LAS MACITAS
-LATITUD:30º04'
-LONGITUD:63º37'
+LATITUD:S300400
+LONGITUD:O633700
 ALTITUD:218 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-43   |43-67   |67 a +  |

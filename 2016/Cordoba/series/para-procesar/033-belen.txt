@@ -9,8 +9,8 @@ Bt	26-60 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo
 BC	60-85 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en bloques debiles a masivo; friable en humedo; plastico; ligeramente adhesivo; pH 6,5; barnices escasos a comunes arcillosos finos; vestigios de raices; limite inferior gradual.
 C	85 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arcillo limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,6; se observan algunos nodulos cementados finos.
 Datos analiticos Serie BELEN
-LATITUD:30º56'31"
-LONGITUD:64º02'02"
+LATITUD:S305631
+LONGITUD:O640202
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-26    |26-60   |60-85   |85 a +  |

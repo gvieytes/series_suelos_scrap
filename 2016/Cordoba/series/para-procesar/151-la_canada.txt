@@ -9,8 +9,8 @@ Bwk	18-44 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,
 BCk	44-69 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco arcillo limoso a franco limoso, estructura en bloques y prismas debiles gruesos, ligeramente plastico, no adhesivo, barnices arcillosos escasos, pH 9, moderada reaccion al ClH en la masa del suelo, limite inferior gradual.
 Ck	69 cm a +; color en humedo pardo (7,5YR5/4), franco limoso a franco arcillo limoso, masivo, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 8,1, fuerte reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LA CANADA
-LATITUD:31º00'05"
-LONGITUD:63º27'10"
+LATITUD:S310005
+LONGITUD:O632710
 ALTITUD:137 m.s.n.m.
 |Horizonte                                                            |Ak    |Bwk    |BCk    |Ck      |
 |Profundidad de la muestra (cm)                                       |0-18  |18-44  |44-69  |69 a +  |

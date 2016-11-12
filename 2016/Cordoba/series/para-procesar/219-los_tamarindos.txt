@@ -1,5 +1,5 @@
 Serie LOS TAMARINDOS
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Endoacuol tipico
 TPS: franca gruesa, mixta, termica
 La Serie Los Tamarindos es un suelo imperfectamente drenado, con moderada alcalinidad sodica y salinidad, desarrollado sobre materiales francos y vinculados a areas ligeramente deprimidas y a bajos de las nacientes del Saladillo. Los primeros 15 cm que constituyen la capa arable (horizonte Ap), es de color gris muy oscuro, de textura franca a franco limosa y estructura en bloques debiles. Hacia abajo pasa claramente a otro horizonte algo mas pesado (horizonte B) que se extiende hasta los 29 cm, de color pardo grisaceo oscuro, estructura en prismas debiles con escasos barnices humico-arcillosos muy finos en las caras de los agregados. La transicion hacia el substrato (horizonte C) es muy gradual. Este ultimo se encuentra a una profundidad promedio de 60 cm, es un material franco a franco limoso suelto y con calcareo diseminado en la masa a partir de los 105 cm de profundidad.
@@ -10,8 +10,8 @@ BCn	29-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estruc
 Cz	60-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; moteados abundantes, medios, sobresalientes; abundantes pseudomicelios salinos; concreciones calcareas comunes y medias; limite inferior abrupto, suave.
 Ckz	105 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, gruesos, sobresalientes; abundantes pseudomicelios salinos; abundante calcareo diseminado en la masa y en concreciones.
 Datos Analiticos Serie LOS TAMARINDOS
-LATITUD:32º17'47"
-LONGITUD:62º41'02"
+LATITUD:S321747
+LONGITUD:O624102
 ALTITUD:111 m.s.n.m.
 |Horizonte                                                             |Ap      |Bn      |BCn     |Cz       |Ckz      |
 |Profundidad de la muestra (cm)                                        |0-15    |15-29   |29-60   |60-105   |105 a +  |

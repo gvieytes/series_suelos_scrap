@@ -8,8 +8,8 @@ A	0-23 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; e
 AC	23-55 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo tendencia a estructura en bloques debiles; muy friable en humedo; ligeramente plastico; no adhesivo; vestigios de raices; pH 7,2; limite inferior abrupto
 Ck	55 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo; pH 8,0.
 Datos analiticos Serie EL SALTO
-LATITUD:32º03'50"
-LONGITUD:64º09'45"
+LATITUD:S320350
+LONGITUD:O640945
 ALTITUD:448 m.s.n.m.
 |Horizonte                                                            |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-23    |23-55   |55 a +  |

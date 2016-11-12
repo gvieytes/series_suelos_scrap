@@ -1,5 +1,5 @@
 Serie SAN IGNACIO IV
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol tipico
 TPS: limosa fina, mixta, termica
 Es un suelo bien drenado, relacionado con areas planas dentro de pendientes largas, originado a partir de materiales fluvio eolicos. La capa superficial, con un contenido moderadamente alto de materia organica (6,12%) es de textura franco arcillo limosa y tiene 22 cm de potencia. Continuan luego dos capas, con la misma textura, pero que contienen mica muy fina. La pendiente dominante es de hasta el 1%, con escurrimiento lento, permeabilidad moderada y se trata de areas muy poco o excepcionalmente inundables.
@@ -8,8 +8,8 @@ Ap	0-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo 
 Bw	22-43 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso; estructura en bloques subangulares medios debiles; friable en humedo; plastico; adhesivo; pH 7,6; muy abundantes barnices medios; abundantes raices; presencia de mica muy fina, limite inferior abrupto suave.
 Bw2	43 cm a +; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arcillo limoso; masivo; friable en humedo; plastico; adhesivo; pH 7,9; abundantes barnices finos; presencia de mica muy fina.
 Datos analiticos Serie SAN IGNACIO IV
-LATITUD:32º08'
-LONGITUD:64º31'
+LATITUD:S320800
+LONGITUD:O643100
 ALTITUD:550 m.s.n.m.
 |Horizonte                                                             |Ap      |Bw      |Bw2     |
 |Profundidad de la muestra (cm)                                        |0-22    |22-43   |43 a +  |

@@ -9,8 +9,8 @@ Btnk	10-35 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso
 BCnk	35-75 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; abundantes concreciones de carbonato de calcio; escasos barnices finos; moteados de Fe comunes, medios y precisos; limite inferior abrupto, suave.
 Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante carbonato pulverulento en la masa del suelo.
 Datos analiticos Serie TICINO
-LATITUD:32º53'27"
-LONGITUD:63º10'08"
+LATITUD:S325327
+LONGITUD:O631008
 ALTITUD:198 m.s.n.m
 |Horizonte                                                             |E       |Btnk    |BCnk    |Ck      |
 |Profundidad de la muestra (cm)                                        |0-10    |10-35   |35-75   |75 a +  |

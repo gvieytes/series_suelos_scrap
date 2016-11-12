@@ -8,8 +8,8 @@ Ak	0 - 22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcill
 ACk	22 - 46 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques debiles, tendencia masivo; friable en humedo; ligeramente plastico, ligeramente adhesivo, pH 7,9; concreciones de CO3Ca escasas; moderada reaccion al ClH en la masa del suelo; raices escasas; limite inferior claro, suave.
 Ck	46 cm a +; color en humedo pardo (7,5YR5/4); franco arcilloso a franco arcillo limoso; masivo; muy friable en humedo; ligeramente plastico, ligeramente adhesivo; pH 8,5; concreciones de CO3Ca abundantes; vestigios de raices.
 Datos analiticos Serie SAN FRANCISCO DEL CHANAR I
-LATITUD:29º47'
-LONGITUD:63º55'
+LATITUD:S294700
+LONGITUD:O635500
 ALTITUD:705 m.s.n.m.
 |Horizonte                                                            |Ak      |ACk     |Ck      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-46   |46 a +  |

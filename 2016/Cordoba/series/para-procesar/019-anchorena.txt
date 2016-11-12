@@ -9,8 +9,8 @@ A2	10-24 cm; color en humedo pardo amarillento oscuro (10YR3/4); arenoso fino; d
 AC	24-44 cm; color en humedo pardo amarillento oscuro (10YR3/4); arenoso fino; escasamente estructurado; rompe a grano suelto; suelto; muy friable en humedo; raices comunes; limite inferior gradual.
 C	44 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); arenoso fino; sin estructura, rompe a grano suelto.
 Datos analiticos Serie ANCHORENA
-LATITUD:35º49'
-LONGITUD:65º24'
+LATITUD:S354900
+LONGITUD:O652400
 ALTITUD:300 m.s.n.m.
 |Horizonte                                                            |A       |A2      |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-10    |10-24   |24-44   |44 a +  |

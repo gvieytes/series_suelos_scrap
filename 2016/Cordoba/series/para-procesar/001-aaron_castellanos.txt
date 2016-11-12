@@ -9,8 +9,8 @@ E	18-32 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso; est
 Btn	32-69 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arcilloso; estructura semicolumnar media, debil; firme en humedo; muy duro en seco; plastico; adhesivo; limite inferior claro, ondulado.
 BCn	69 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arcilloso; estructura en bloques angulares irregulares medios moderados; friable en humedo; duro en seco; plastico; ligeramente adhesivo; moteados de Fe abundantes, medios y precisos; ligeramente cementado.
 Datos analiticos Serie AARON CASTELLANOS
-LATITUD:34º10'21"
-LONGITUD:61º51'00"
+LATITUD:S341021
+LONGITUD:O615100
 ALTITUD:95 m.s.n.m.
 |Horizonte                                                             |A       |E       |Btn     |BCn     |
 |Profundidad de la muestra (cm)                                        |0-18    |18-32   |32-69   |69 a +  |

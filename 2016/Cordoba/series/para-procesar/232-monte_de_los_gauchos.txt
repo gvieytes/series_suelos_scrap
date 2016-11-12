@@ -8,8 +8,8 @@ A	0-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructu
 AC	25-53 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 6,1; raices escasas; limite inferior gradual.
 C	53-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 7.
 Datos analiticos Serie MONTE DE LOS GAUCHOS
-LATITUD:33º39'30"
-LONGITUD:63º55'20"
+LATITUD:S333930
+LONGITUD:O635520
 ALTITUD:225 m.s.n.m.
 |Horizonte                                                             |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                        |0-25    |25-53   |53 a +  |

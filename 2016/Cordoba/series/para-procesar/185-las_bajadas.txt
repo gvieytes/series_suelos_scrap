@@ -9,8 +9,8 @@ Bt	20-49 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estr
 BC	49-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco arcillo limoso; estructura en bloques y prismas debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; vestigios de raices; pH 7,5; limite inferior abrupto, ondulado.
 Ck	86 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; friable en humedo, violenta reaccion al ClH en la masa del suelo; pH 7,9.
 Datos analiticos Serie LAS BAJADAS
-LATITUD:31º42'29"
-LONGITUD:63º39'00"
+LATITUD:S314229
+LONGITUD:O633900
 ALTITUD:450 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-49   |49-86   |86 a +  |

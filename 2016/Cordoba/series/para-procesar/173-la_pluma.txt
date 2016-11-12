@@ -11,8 +11,8 @@ Bnm	47-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; es
 BCnx	70-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios fuertes; duro en seco; firme en humedo; moderada reaccion al acido clorhidrico en la masa; concreciones de Ca escasas y medias; barnices (clhm) escasos y finos; moteados de FeMn comunes, finos y precisos; cementado el 30% del horizonte; limite inferior gradual.
 C	100 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; friable en humedo; moderada reaccion al acido clorhidrico en la masa; moteados de FeMn comunes, finos y precisos.
 Datos analiticos Serie LA PLUMA
-LATITUD:33º32'26"
-LONGITUD:62º13'13"
+LATITUD:S333226
+LONGITUD:O621313
 ALTITUD:111,5 m.s.n.m.
 |Horizonte                                                            |Ap      |E       |Btn     |Bnm     |BCnx     |C        |
 |Profundidad de la muestra (cm)                                       |0-15    |15-25   |25-47   |47-70   |70-100   |100 a +  |

@@ -9,8 +9,8 @@ Bw	20-37 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura e
 BC	37-62 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo tendencia a estructura en bloques debiles; no plastico; no adhesivo; friable en humedo; pH 7,3; limite inferior abrupto, ondulado.
 Ck	62 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; muy friable en humedo; pH 7,7; violenta reaccion al ClH en la masa del suelo.
 Datos analiticos Serie CORRALITO
-LATITUD:32º03'00"
-LONGITUD:64º10'15"
+LATITUD:S320300
+LONGITUD:O641015
 ALTITUD:437 m.s.n.m.
 |Horizonte                                                             |A       |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-20    |20-37   |37-62   |62 a +  |

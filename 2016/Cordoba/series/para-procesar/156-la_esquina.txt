@@ -1,5 +1,5 @@
 Serie LA ESQUINA
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Argiudol tipico
 TPS: franca fina, mixta, termica
 La Serie agrupa suelos profundos, bien drenados, vinculados a lineas de escurrimiento y areas concavas. Es un suelo fuertemente desarrollado, con una capa superficial de 17 cm (A) con moderado contenido de materia organica, medianamente acido, se continua con un horizonte mas arcilloso (Bt), encontrandose el material originario (C) a los 80 cm.
@@ -10,8 +10,8 @@ Bt2	30-51 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estruc
 BC	51-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en prismas gruesos; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; limite inferior gradual.
 C	80 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo.
 Datos analiticos Serie LA ESQUINA
-LATITUD:33º01'22"
-LONGITUD:64º41'41"
+LATITUD:S330122
+LONGITUD:O644141
 ALTITUD:600 m.s.n.m.
 |Horizonte                                                            |A       |Bt      |Bt2     |BC      |C       |
 |Profundidad de la muestra (cm)                                       |0-17    |17-30   |30-51   |51-80   |80 a +  |

@@ -9,8 +9,8 @@ Bt	18-50 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco arci
 BC	50-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco arcillo limoso; estructura en bloques subangulares y prismas debiles; friable en humedo; ligeramente adhesivo; pH 7,0; barnices arcillosos escasos y finos; raices escasas; limite inferior gradual.
 C	86 cm a +; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; masivo; ligeramente plastico; no adhesivo; pH 7,2; vestigios de raices.
 Datos analiticos Serie EL RODEO
-LATITUD:30º13'
-LONGITUD:63º51'
+LATITUD:S301300
+LONGITUD:O635100
 ALTITUD:400 m.s.n.m.
 |Horizonte                                                             |A       |Bt      |BC      |C       |
 |Profundidad de la muestra (cm)                                        |0-18    |18-50   |50-86   |86 a +  |

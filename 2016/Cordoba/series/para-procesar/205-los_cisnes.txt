@@ -12,8 +12,8 @@ AC	34-58 cm; color en humedo pardo a pardo oscuro (10YR4/3); limoso a franco lim
 4	90-110 cm; color en humedo gris muy oscuro (10YR3/1); franco arcillo limoso; estructura en bloques debiles tendencia laminar; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 8; moderada reaccion al ClH en la masa del suelo; raices escasas; limite inferior abrupto, suave.
 5	110 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); limoso a franco limoso; masivo tendencia laminar; friable en humedo; no plastico; no adhesivo; pH 8,1; moderada reaccion al ClH en la masa del suelo.
 Datos analiticos Serie LOS CISNES
-LATITUD:33º21'45"
-LONGITUD:63º27'57"
+LATITUD:S332145
+LONGITUD:O632757
 ALTITUD:153 m.s.n.m.
 |Horizonte                                                    |Ap      |A       |AC      |2       |3       |4       |5        |
 |Profundidad de la muestra (cm)                               |0-16    |16-34   |34-58   |58-71   |71-90   |90-110  |110 a +  |

@@ -8,8 +8,8 @@ Ap	0-20 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estruct
 Bw	20-38 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos; limite inferior abrupto, suave.
 Ck	38 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; masivo; ligeramente plastico; ligeramente adhesivo; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie VILLA HUIDOBRO
-LATITUD:34º54'
-LONGITUD:64º39'
+LATITUD:S345400
+LONGITUD:O643900
 ALTITUD:251 m.s.n.m.
 |Horizonte                                                            |Ap      |Bw      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-20    |20-38   |38 a +  |

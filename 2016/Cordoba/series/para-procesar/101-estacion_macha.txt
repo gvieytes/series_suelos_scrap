@@ -7,8 +7,8 @@ UBICACION: a 4,5 km al Sur del paraje Estacion Macha, departamento Totoral, prov
 A	0-15 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); areno franco; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; pH 7,7; raices comunes; limite inferior abrupto.
 R	15 cm a +; roca alterada parcialmente.
 Datos analiticos Serie ESTACION MACHA
-LATITUD:30º31'37"
-LONGITUD:64º16'21"
+LATITUD:S303137
+LONGITUD:O641621
 ALTITUD:700 m.s.n.m.
 |Horizonte                                                            |A       |
 |Profundidad de la muestra (cm)                                       |0-15    |

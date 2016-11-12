@@ -10,8 +10,8 @@ BC	46-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 C	85-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; limite inferior abrupto, ondulado.
 Ck	120 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante calcareo libre en la masa y en concreciones.
 Datos analiticos Serie LA BELGICA
-LATITUD:33º19'01"
-LONGITUD:62º28'25"
+LATITUD:S331901
+LONGITUD:O622825
 ALTITUD:117 m.s.n.m.
 |Horizonte                                                             |Ap      |Bw      |BC      |C        |Ck        |
 |Profundidad de la muestra (cm)                                        |0-19    |19-44   |44-80   |80-123   |123 a +   |

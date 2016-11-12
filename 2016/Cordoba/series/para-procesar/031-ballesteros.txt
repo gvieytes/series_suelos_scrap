@@ -10,8 +10,8 @@ BC	38-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 C	62-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto, suave.
 Ck	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moderada cantidad de calcareo libre en la masa.
 Datos analiticos Serie BALLESTEROS
-LATITUD:32º30'45'
-LONGITUD:62º58'08"
+LATITUD:S323045
+LONGITUD:O625808
 ALTITUD:160 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                       |0-17    |17-38   |38-62   |62-80   |80 a +  |

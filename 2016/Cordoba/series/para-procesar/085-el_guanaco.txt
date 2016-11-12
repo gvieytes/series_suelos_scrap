@@ -9,8 +9,8 @@ Bw	23 - 42 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco a fr
 BCk	42 - 59 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco; estructura en bloques subangulares medios debiles; reaccion violenta al ClH en la masa del suelo; barnices arcillosos vestigios; eflorescencias salinas abundantes; limite inferior gradual.
 Ckm	59 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; violenta reaccion al ClH en la masa del suelo; concreciones de CO3Ca comunes; nodulos cementados comunes; eflorescencias salinas abundantes; presencia de bochas cementadas (mas del 50%).
 Datos analiticos Serie El Guanaco
-LATITUD:29º57'
-LONGITUD:63º18'
+LATITUD:S295700
+LONGITUD:O631800
 ALTITUD:80 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BCk     |Ckm     |
 |Profundidad de la muestra (cm)                                       |0-23    |23-42   |42-59   |59 a +  |

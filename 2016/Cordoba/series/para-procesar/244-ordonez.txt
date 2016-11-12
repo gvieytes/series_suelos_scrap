@@ -1,5 +1,5 @@
 Serie ORDONEZ
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol udico
 TPS: franca fina, mixta, termica
 La Serie Ordonez, es un suelo oscuro y bien drenado de las lomas casi planas y lineas o vias de escurrimiento poco manifiestas, dentro de un paisaje de lagunas y charcas intercomunicadas, desarrollada sobre materiales loessicos. Tiene una amplia aptitud para cultivos, forrajes y pasturas, aunque ya presenta alguna limitacion climatica. La capa arable de 22 cm de espesor (horizonte A), es de textura franco limosa, estructura en bloques moderados y de color pardo grisaceo muy oscuro. Hacia abajo, pasa a otro horizonte algo mas arcilloso (horizonte Bw) que se extiende aproximadamente hasta los 45 cm, es de color pardo a pardo oscuro, estructura prismatica y con moderada cantidad de barnices en las caras de los agregados. La transicion entre el Bw y el loess del substrato (horizonte C) es gradual. Este ultimo se encuentra a una profundidad de 70 cm, es un material franco limoso, suelto y con moderada cantidad de calcareo libre en la masa y en concreciones a partir de 1 m de profundidad.
@@ -10,8 +10,8 @@ BC	43-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 C	70-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; limite inferior abrupto, ondulado.
 Ck	97 cm a +; color en humedo pardo (7,5YR5/4); franco a franco limoso; masivo; elevado contenido de calcareo libre en la masa y en concreciones
 Datos analiticos Serie ORDONEZ
-LATITUD:32º51'22"
-LONGITUD:62º46'31"
+LATITUD:S325122
+LONGITUD:O624631
 ALTITUD:126 m.s.n.m.
 |Horizonte                                                             |A       |Bw      |BC      |C       |Ck      |
 |Profundidad de la muestra (cm)                                        |0-22    |22-43   |43-70   |70-97   |97 a +  |

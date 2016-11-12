@@ -9,8 +9,8 @@ AC	20-43 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; est
 2	 43-60 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,4; escasa reaccion al ClH en la masa del suelo; vestigios de raices; limite inferior claro, abrupto.
 3	60 cm a +; color en humedo pardo amarillento (10YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,4; ligera reaccion al ClH en la masa del suelo.
 Datos Analiticos Serie LOS PARAISOS
-LATITUD:33º22'20"
-LONGITUD:63º06'46"
+LATITUD:S332220
+LONGITUD:O630646
 ALTITUD:123 m.s.n.m.
 |Horizonte                                                            |A       |AC      |2       |3       |
 |Profundidad de la muestra (cm)                                       |0-20    |20-43   |43-60   |60 a +  |

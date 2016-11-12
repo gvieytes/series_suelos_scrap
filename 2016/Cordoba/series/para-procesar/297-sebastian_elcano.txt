@@ -8,8 +8,8 @@ A	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; e
 AC	18-49 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco limoso; masivo con tendencia a estructura en bloques debiles; friable en humedo; ligeramente plastico; no adhesivo; pH 7,3; raices abundantes; limite inferior abrupto, suave.
 Ck	49 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; no adhesivo; pH 8,3; moderada a violenta reaccion al ClH; raices escasas.
 Datos analiticos Serie SEBASTIAN ELCANO
-LATITUD:30º15'
-LONGITUD:63º41'
+LATITUD:S301500
+LONGITUD:O634100
 ALTITUD:203 m.s.n.m.
 |Horizonte                                                             |A       |AC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-18    |18-49   |49 a +  |

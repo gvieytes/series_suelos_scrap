@@ -9,8 +9,8 @@ Btn	20-51 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; es
 Bn	52-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso a franco arcillo limoso; estructura en prismas irregulares medios moderados rompe a prismas y bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" comunes; limite inferior abrupto, ondulado.
 BCk	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas muy debiles rompe a bloques subangulares y masivo; friable en humedo; barnices "Clay Skins" escasos; abundantes pseudomicelios salinos; moderada cantidad de calcareo en concreciones gruesas y abundante cantidad libre en la masa.
 Datos analiticos Serie GENERAL PAZ
-LATITUD:32º45'09"
-LONGITUD:62º52'30"
+LATITUD:S324509
+LONGITUD:O625230
 ALTITUD:139 m.s.n.m.
 |Horizonte                                                             |E        |Bt      |Bn      |BCk       |
 |Profundidad de la muestra (cm)                                        |0-20     |20-51   |51-80   |80 a +    |

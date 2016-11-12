@@ -1,5 +1,5 @@
 Serie CORONEL CHARLONE
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Haplustol udorthentico
 TPS: franca gruesa, mixta, termica
 Es un suelo profundo desarrollado en un paisaje de lomas arenosas suavemente onduladas. Presenta un drenaje interno algo excesivo y se han originado a partir de sedimentos eolicos de textura franco arenosa. El horizonte superficial (A) o capa arable es de color pardo grisaceo oscuro, textura franco arenosa, estructura en bloques moderados a debiles y buen contenido de materia organica. El material originario (Horizonte C) aparece a los 60 cm de profundidad, de textura franco arenosa y muy friable. Estos suelos son aptos para agricultura con la limitacion climatica natural del area y la moderada susceptibilidad a la erosion eolica.
@@ -8,8 +8,8 @@ A	0-29 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5);
 AC	29-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques subangulares medios debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
 C	60 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; no plastico; no adhesivo; muy friable en humedo.
 Datos analiticos Serie CORONEL CHARLONE
-LATITUD:34º47'56"
-LONGITUD:63º19'50"
+LATITUD:S344756
+LONGITUD:O631950
 ALTITUD:131 m.s.n.m.
 |Horizonte                                                            |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                       |0-29    |29-60   |60 a +  |

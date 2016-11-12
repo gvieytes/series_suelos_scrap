@@ -9,8 +9,8 @@ Bt	21-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; est
 BC	52-76 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco arcillo limoso; estructura en prismas irregulares y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices humicos-arcillosos finos; moteados escasos, finos y debiles; limite inferior abrupto, suave.
 Ck	76 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie MATORRALES
-LATITUD:31º42'26"
-LONGITUD:63º38'47"
+LATITUD:S314226
+LONGITUD:O633847
 ALTITUD:276 m.s.n.m.
 |Horizonte                                                             |Ap      |Bt      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                        |0-21    |21-52   |52-76   |76 a +  |

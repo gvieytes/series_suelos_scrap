@@ -8,8 +8,8 @@ A	0-20 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); 
 AC	20 55 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a areno franco grueso; masivo a suelto; muy friable en humedo; no plastico; no adhesivo; pH 6,9; vestigios de raices; limite inferior gradual.
 C	55 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso grueso; masivo a suelto; muy friable en humedo; no plastico ni adhesivo; pH 8,2.
 Datos analiticos Serie GENERAL SAVIO II
-LATITUD:32º12'14"
-LONGITUD:64º05'47"
+LATITUD:S321214
+LONGITUD:O640547
 ALTITUD:380 m.s.n.m.
 |Horizonte                                                             |A       |AC      |C       |
 |Profundidad de la muestra (cm)                                        |0-20    |20-55   |55 a +  |

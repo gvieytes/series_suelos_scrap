@@ -9,8 +9,8 @@ Bw	22-47 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a
 BC	47-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; vestigios de barnices arcillosos finos; limite inferior abrupto y suave.
 Ck	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo.
 Datos analiticos Serie MANFREDI
-LATITUD:31º57'38"
-LONGITUD:63º43'38"
+LATITUD:S315738
+LONGITUD:O634338
 ALTITUD:284 m.s.n.m.
 |Horizonte                                                            |A       |Bw      |BC      |Ck      |
 |Profundidad de la muestra (cm)                                       |0-22    |22-47   |47-80   |80 a +  |

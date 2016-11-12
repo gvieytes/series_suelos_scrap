@@ -1,5 +1,5 @@
 Serie ACHALA V
-Simbolo:
+Simbolo: FALTA!
 CLASIFICACION: Hapludol entico
 TPS: esqueletica, franca, mixta, termica
 Es un suelo bien drenado desarrollado sobre productos de alteracion de rocas graniticas con algo de transporte de tipo aluvial-coluvial en las laderas pronunciadas de las cuencas de las Ea. San Miguel y La Trinidad. Se caracteriza por tener debil desarrollo de sus horizontes geneticos con una capa superficial oscura de 28 cm de espesor, textura franca gruesa y estructura en bloques subangulares medios moderados. Hasta los 56 cm se extiende otra capa de textura mas gruesa, friable, parcialmente enriquecida en materia organica. A continuacion sigue la capa 3R que consiste en la roca alterada con gravas y bloques de textura franca en la matriz.
@@ -8,8 +8,8 @@ A	0-28 cm; color en humedo gris muy oscuro a pardo grisaceo muy oscuro (10YR3/1,
 2	28-56 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; masivo con tendencia a estructura en bloques debiles; pH 5,1; raices abundantes; limite inferior claro.
 3R	56 cm a +; granito alterado; franco; pH 5,3; muy moteado; se observa gravilla y algunos bloques de roca con menor alteracion.
 Datos analiticos Serie ACHALA V
-LATITUD:31º44'
-LONGITUD:64º46'
+LATITUD:S314400
+LONGITUD:O644600
 ALTITUD:1900 m.s.n.m.
 |Horizonte                                                            |A       |2       |3R      |
 |Profundidad de la muestra (cm)                                       |0-28    |28-56   |56 a +  |

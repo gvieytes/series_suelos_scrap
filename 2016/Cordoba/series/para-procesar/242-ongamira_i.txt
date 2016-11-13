@@ -2,11 +2,8 @@ Serie ONGAMIRA I
 Simbolo: OngI
 CLASIFICACION: Ustorthent litico paralitico
 TPS: esqueletica, arenosa, calcarea, mixta, termica
-Los suelos de esta Serie se han desarrollado debilmente sobre los estratos sedimentarios rojizos de la formacion Ongamira (sedimentitas de edad posiblemente Cretacica). Se caracterizan por tener una vegetacion arbustal (predomina el romerillo) y algo de pastizal subordinado con pendientes que superan el 20%. El perfil del suelo tiene mas de 40% de gravas, con una matriz arenosa franca y con la roca estratificada a no mas de 20 cm de profundidad; esta descrito sobre una facie de areniscas semiconsolidadas. Las limitantes son profundidad efectiva, susceptibilidad a la erosion hidrica, clima, rocosidad, pedregosidad y pH.
 UBICACION: a 7 km al Norte de Ongamira, departamento Ischilin, provincia de Cordoba.
 COLOR: color en humedo pardo rojizo oscuro (5YR3/3)
-2Rk	20 cm a +; color en humedo rojo amarillento (5YR5/6); areno franco; estructura laminar fina; firme en humedo; no plastico; no adhesivo; pH 8,4; muy fuerte reaccion al ClH en la masa del suelo.
-Datos analiticos Serie ONGAMIRA I
 LATITUD:S304441
 LONGITUD:O642525
 ALTITUD:1150 m.s.n.m.

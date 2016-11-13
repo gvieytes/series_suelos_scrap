@@ -2,14 +2,8 @@ Serie AMENABAR
 Simbolo: Am
 CLASIFICACION: Natracualf tipico
 TPS: limosa fina, mixta, termica
-La Serie Amenabar es un suelo profundo, fuertemente sodico desde la superficie, con altos valores de sodio de intercambio. Su drenaje es imperfecto pues ocupa ambientes muy planos, con escurrimiento practicamente nulo o muy lento. En consecuencia esta sometido a frecuentes encharcamientos, cada vez que la precipitacion supera las posibilidades del suelo para eliminar agua a traves del perfil. Esta Serie se encuentra integrando los complejos de suelo que caracterizan los sectores adyacentes a las depresiones y lagunas. La parte superficial de este suelo (horizonte E) es de color grisaceo y de textura franco limosa, con estructura casi laminar y reaccion alcalina, con tenores de sodio que superan el 30% de la capacidad de intercambio cationico. El estrato subsuperficial (horizonte B) representa un nivel de acumulacion de arcilla que por su densidad se constituye en un impedimento para la circulacion del agua en el perfil. El sustrato (horizonte C) aparece alrededor de los 110 cm, con caracteristicas de un material color pardo oscuro en humedo, franco arenoso y masivo. En todo el perfil se encuentran evidencias de hidromorfismo, como concreciones de Fe y Mn, moteados y nodulos de cementacion. El agua freatica es poco profunda y en epocas lluviosas puede ascender hasta 40 o 50 cm de la superficie.
 UBICACION: a 11,5 km al SSE de la Estacion Sancti Spiritu del F.C.G.B.M., en el departamento General Lopez de la provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo oscuro (10YR4/2)
-Btn	27-50 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo arenoso; estructura en prismas compuestos irregulares, gruesos y fuertes tiende a prismas menores y bloques angulares irregulares; concreciones de CO3Ca comunes; moteados comunes, finos y debiles; limite inferior claro, ondulado.
-Btn2	50-71 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcilloso; estructura en bloques angulares irregulares medios moderados tiende a bloques finos; moteados comunes, finos y debiles; carbonatos en concreciones y libres escasas; limite inferior gradual, ondulado.
-BCn	71-106 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; estructura en bloques subangulares irregulares debiles y finos; carbonatos libres y en concreciones escasas; moteados comunes, finos y debiles; limite inferior gradual, ondulado.
-Cn	106 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; moteados comunes, finos y debiles.
-Datos analiticos Serie AMENABAR
 LATITUD:S340624
 LONGITUD:O621200
 ALTITUD:112 m.s.n.m.

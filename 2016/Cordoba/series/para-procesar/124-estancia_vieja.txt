@@ -2,15 +2,8 @@ Serie ESTANCIA VIEJA
 Simbolo: EVj
 CLASIFICACION: Natracualf albico
 TPS: limosa fina, mixta, termica
-La Serie Estancia Vieja es un suelo pobre a imperfectamente drenado, alcalino-sodico desde la superficie y moderada salinidad a partir de los 15 cm de profundidad. Se ha desarrollado a partir de sedimentos franco limosos a francos y se encuentran vinculados a pozos de infiltracion y vias de desague o escurrimiento bien manifiestos. La parte superficial del suelo de 33 cm de espesor, constituye el horizonte E (subdivisible en E, E2 y E3), es de textura franco limosa y de color gris claro cuando estan secos, de estructura laminar los primeros 15 cm y luego en bloques; presentan evidencias de lavado con abundante material decolorado. Luego pasa a un horizonte mucho mas arcilloso (horizonte Bt) que se extiende hasta los 65 cm, de estructura semicolumnar y prismatica. A los 85 cm se encuentra cementado, formando un "duripan". Por lo general, estos suelos son dedicados a pasturas naturales, ya que su aptitud esta muy limitada por la fuerte alcalinidad sodica y el drenaje pobre que impide el desarrollo normal de las raices. Esta Serie presenta variaciones en el espesor del horizonte E y la profundidad en que aparece cementado, aunque por lo general dentro de los 100 cm.
 UBICACION: a 13,2 Km al NO de la estancia La Belgica, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo oscuro (10YR4/2)
-En2	15-23 cm; color en humedo gris oscuro (10YR4/1); franco limoso; estructura en bloques subangulares medios moderados; ligeramente duro en seco; vestigios de barnices humicos; moteados comunes, finos y debiles; limite inferior abrupto, suave.
-En3	23-33 cm; color en humedo gris (10YR5/1); franco limoso; estructura en bloques subangulares medios moderados; ligeramente duro en seco; escasos barnices humico-arcillosos finos; moteados escasos, finos y precisos; limite inferior abrupto, ondulado.
-Btn	33-65 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso; estructura semicolumnar y prismas regulares medios moderados; firme en humedo; plastico; adhesivo; muy abundantes barnices humico arcillosos medios; moteados comunes, finos y precisos; limite inferior claro, suave.
-BCn	65-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes y medios; moteados comunes, medios y precisos; escasas concreciones calcareas medias; limite inferior abrupto, suave.
-BCm	85 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco; muy duro en seco; cementado; friable en humedo
-Datos Analiticos Serie ESTANCIA VIEJA
 LATITUD:S330305
 LONGITUD:O624217
 ALTITUD:112 m.s.n.m.

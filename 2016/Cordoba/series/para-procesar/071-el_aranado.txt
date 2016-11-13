@@ -2,14 +2,8 @@ Serie EL ARANADO
 Simbolo: EAr
 CLASIFICACION: Argiustol ustalfico
 TPS: franca gruesa, mixta, termica
-La Serie El Aranado, es un suelo profundo, bien a moderadamente bien drenado, desarrollado sobre sedimentos fluviales depositados por el rio Xanaes (Segundo). Ocupa las areas planas a ligeramente deprimidas dentro de los paleocauces. El horizonte superficial (Ap + A), tiene un espesor de 22 cm y es de textura franco arenosa a franca, estructura en bloques debiles, escasa cantidad de materia organica y baja capacidad de intercambio cationico. Por debajo se encuentran horizontes que se han desarrollado a partir de sedimentos mas finos de textura franco limosa. Los suelos que responden a esta Serie, por encontrarse en areas de derrame y desarrollados a partir de materiales redepositados, presentan rasgos muy variables, principalmente en lo concerniente a textura y profundidad de las discontinuidades litologicas.
 UBICACION: a 13,8 Km al NE de la localidad del Aranado, departamento San Justo, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-A	11-22 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios debiles; duro en seco; no plastico; no adhesivo; limite inferior claro, ondulado.
-2Bt	22-40 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco a franco limoso; estructura columnar media moderada a fuerte; duro en seco; ligeramente plastico; no adhesivo; barnices humico arcillosos comunes y finos; moteados abundantes, finos y debiles; limite inferior gradual, suave.
-BC	40-61 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares y bloques subangulares medios moderados; duro en seco; ligeramente plastico; no adhesivo; vestigios de barnices; limite inferior abrupto, suave.
-Ckn	61 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; no adhesivo; abundante calcareo pulverulento diseminado en la masa del suelo.
-Datos analiticos Serie EL ARANADO
 LATITUD:S314039
 LONGITUD:O624559
 ALTITUD:133 m.s.n.m.

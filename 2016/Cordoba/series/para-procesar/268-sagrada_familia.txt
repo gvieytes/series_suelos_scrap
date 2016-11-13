@@ -2,13 +2,8 @@ Serie SAGRADA FAMILIA
 Simbolo: SFl
 CLASIFICACION: Natrustol tipico
 TPS: franca fina, mixta, termica (calcarea)
-La Serie Sagrada Familia es un suelo moderadamente bien drenado desarrollado sobre sedimentos eolicos en sectores planos (relieve subnormal) con gradientes que no superan el 0,5% y escurrimiento lento. Es un suelo bien desarrollado con un horizonte Bt con arcillas sodicas en el subsuelo (a partir de 20 cm de profundidad) que afectan el uso del suelo, limitante que se agrega a los aspectos climaticos propios de la region. Presenta un horizonte A de 20 cm de espesor con estructura en bloques, neutro a ligeramente alcalino. Continua hacia abajo el horizonte Btn con enriquecimientos de arcillas iluviales y alcalino sodico, de textura franco arcillo limosa y estructura en prismas irregulares y con la presencia de carbonatos libres en la masa del suelo: se extiende hasta 50 cm de profundidad. El material originario del suelo se encuentra a 80 cm fuertemente alcalino con aumento del pH y de los carbonatos libres.
 UBICACION: a 20 km al NE de la localidad de Rio Primero, departamento del mismo nombre, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btn	20-50 cm; color en humedo pardo oscuro (10YR3/3), franco arcillo limoso, estructura en prismas irregulares fuertes; friable a ligeramente firme en humedo, plastico, adhesivo, pH 8,5, ligera reaccion al ClH en la masa del suelo, barnices comunes de arcilla y humus, vestigios de raices, limite inferior claro y suave.
-BCnk	50-80 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco arcillo limoso a franco limoso, estructura en prismas y bloques debiles, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 8,6, barnices escasos finos, moderada reaccion al ClH en la masa del suelo, limite inferior gradual.
-Ck	80 cm a +; color en humedo pardo (7,5YR5/4), franco limoso, masivo, no plastico, no adhesivo, muy friable en humedo, pH 8,9, violenta reaccion al ClH en la masa del suelo.
-Datos analiticos Serie SAGRADA FAMILIA
 LATITUD:S310950
 LONGITUD:O633028
 ALTITUD:190 m.s.n.m.

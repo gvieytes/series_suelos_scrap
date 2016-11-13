@@ -2,12 +2,8 @@ Serie EL YARARA
 Simbolo: EYr
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-La Serie El Yarara es un suelo algo excesivamente drenado, desarrollado sobre materiales arenosos finos y se encuentra vinculado a lomas arenosas ligeramente onduladas, con pendientes que no superan el 1%. La capa arable (horizonte A) de 18 cm de espesor, es de color pardo grisaceo oscuro, de textura franco arenosa y estructura en bloques subangulares debiles. Hacia abajo pasa gradualmente (horizonte de transicion AC) al material originario (horizonte C), de textura areno-franca. El calcareo se encuentra muy profundo. Los suelos son aptos para agricultura, aunque su uso se encuentra muy limitado por el clima, baja retencion de humedad y la susceptibilidad a la erosion eolica.
 UBICACION: a 16,2 Km al Norte de Del Campillo, departamento General Roca, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	18-43 cm; color en humedo pardo oscuro (10YR3/3); areno franco; masivo a estructura en bloques muy debiles; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual, suave.
-C	43 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; masivo a grano simple; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie EL YARARA
 LATITUD:S341334
 LONGITUD:O642804
 ALTITUD:239 m.s.n.m.

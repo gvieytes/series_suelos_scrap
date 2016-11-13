@@ -2,12 +2,8 @@ Serie EL ROSARIO
 Simbolo: ERs
 CLASIFICACION: Argiustol udico paralitico
 TPS: franca fina, mixta, mesica
-Esta Serie se ha desarrollado en las pampas de altura y laderas con cubierta loessica modificada, ubicadas en la margen Occidental de la Sierra Chica a la altura de la localidad de La Cumbre. El relieve es ondulado a muy ondulado con pendientes que oscilan entre 3 a 8%, lo cual constituye la principal limitante, ademas de encontrarse en la mayoria de los casos con roca (esquistos metamorficos) dentro de la profundidad de 100 cm. Es un suelo algo excesivamente drenado, con la roca alterada a la profundidad de 60 cm en el perfil modal; tiene una vegetacion natural dominante de gramineas (pajonal de altura). Presenta un horizonte superficial de 28 cm de color muy oscuro con 4,1% de materia organica, textura franco arenosa a franca (loess modificado) y estructura en bloques moderados. Sigue a continuacion un loess con mayor grado de pureza (2Bt) con textura franco arcillo limosa, barnices humico arcillosos abundantes y estructura en prismas irregulares fuertes. Luego continua la roca (R) muy meteorizada o alterada con tenores importantes de arcilla que se puede excavar con herramientas manuales aunque con cierta dificultad (contacto paralitico).
 UBICACION: en una pampa de altura de la Sierra Chica, ubicada a 2,7 km al Oeste de la ciudad de La Cumbre, departamento Punilla, provincia de Cordoba.
 COLOR: color en humedo gris muy oscuro (10YR3/1)
-2Bt	28-60 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios fuertes; friable en humedo; plastico; adhesivo; pH 6,6; barnices humico arcillosos abundantes y medios; raices comunes; limite inferior claro.
-R	60 cm a +; contacto paralitico, con roca alterada del complejo metamorfico.
-Datos analiticos Serie EL ROSARIO
 LATITUD:S305916
 LONGITUD:O642555
 ALTITUD:1450 m.s.n.m.

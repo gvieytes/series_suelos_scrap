@@ -2,13 +2,8 @@ Serie YACANTO III
 Simbolo: FALTA!
 CLASIFICACION: Calciudol litico
 TPS: franca gruesa, mixta, termica
-La Serie Yacanto III es un Calciudol litico, algo excesivamente drenada, desarrollada sobre materiales autoctonos y relacionada a ambientes con suaves pendientes. Es un suelo de incipiente desarrollo. El horizonte superficial (A), de textura franca a franco arenosa y estructura en bloques debiles es moderadamente alcalino. Le sigue un horizonte de transicion (AC) con abundante carbonato de calcio diseminado en la masa del suelo, al igual que el horizonte C, que se asienta sobre roca alterada, estando esta a profundidades variables. La pendiente dominante es del 1%, con escurrimiento medio a lento; permeabilidad moderadamente rapida; sin peligro de anegamiento.
 UBICACION: a 8 Km al Este de Villa Yacanto de Calamuchita, departamento Calamuchita, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-ACk	20-51 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco (al tacto); estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 8,2 (de campana); moderada reaccion al acido clorhidrico por la presencia de carbonato de calcio diseminado en la masa del suelo; abundantes raices; limite inferior gradual suave.
-Ck	51-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco (al tacto); masivo; friable en humedo; no plastico; no adhesivo; pH 8,6 (de campana); fuerte reaccion al acido clorhidrico.
-R	80 cm a +; roca alterada.
-Datos analiticos Serie YACANTO III
 LATITUD:S320600
 LONGITUD:O644000
 ALTITUD:1100 m.s.n.m.

@@ -2,13 +2,8 @@ Serie LAS ISLETILLAS
 Simbolo: LI
 CLASIFICACION: Haplustol tipico
 TPS: limosa gruesa, mixta, termica
-Son suelos profundos, bien drenados, desarrollados a partir de materiales loessicos franco limosos y vinculados a vias de escurrimiento que bisectan las lomas suavemente onduladas. La capa arable (horizonte A) de 23 cm de espesor, es de color pardo grisaceo muy oscuro; estructura en bloques, textura franco limosa y moderado contenido de materia organica. Luego pasa a un horizonte algo mas arcilloso (horizonte Bw) de color pardo oscuro y estructura en bloques. El material originario (horizonte C) se encuentra a 48 cm y a partir de 95 cm de profundidad aparece el material calcareo en forma pulverulenta diseminada en la masa del suelo. Son suelos agricolas, presentando moderada limitacion climatica.
 UBICACION: a 8,3 Km al Norte de Hernando, departamento Tercero Arriba, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	23-48 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos (clhm) escasos y finos; limite inferior gradual.
-C	48-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
-Ck	95 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante material calcareo pulverulento en la masa del suelo.
-Datos analiticos Serie LAS ISLETILLAS
 LATITUD:S322117
 LONGITUD:O634322
 ALTITUD:255 m.s.n.m.

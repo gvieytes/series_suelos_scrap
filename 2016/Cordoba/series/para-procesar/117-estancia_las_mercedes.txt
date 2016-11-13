@@ -2,12 +2,8 @@ Serie ESTANCIA LAS MERCEDES
 Simbolo: ELM
 CLASIFICACION: Ustipsamment tipico
 TPS: franca gruesa, mixta, termica
-Suelo algo excesivamente drenado, desarrollado sobre materiales de textura franca y vinculado a lomas arenosas (lomas medanosas). El horizonte A, que constituye la capa arable, es de 17 cm de espesor, de textura arenosa franca, de color pardusco, estructura en bloques subangulares debiles a masivo y pobre en materia organica. Hacia abajo, pasa gradualmente (horizonte transicional AC) al material originario u horizonte C, de textura arenosa franca a arenosa y masiva. La baja retencion de humedad y el drenaje interno algo excesivo, acentuan la limitacion climatica que presenta estos suelos como consecuencia del regimen de humedad que soportan.
 UBICACION: a 19,4 Km al ONO de Villa Rossi, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-AC	17-42 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso a arenoso franco; masivo; muy friable en humedo; limite inferior gradual, suave.
-C	42 cm a +; color en humedo pardo (7,5YR5/4); areno franco a franco arenoso; masivo; muy friable en humedo.
-Datos analiticos Serie ESTANCIA LAS MERCEDES
 LATITUD:S341308
 LONGITUD:O632724
 ALTITUD:136 m.s.n.m.

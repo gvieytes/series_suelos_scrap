@@ -2,13 +2,8 @@ Serie LEGUIZAMON
 Simbolo: FALTA!
 CLASIFICACION: Haplustol udico
 TPS: franca gruesa, mixta, termica
-La Serie Leguizamon es un suelo oscuro, bien drenado, desarrollado sobre materiales franco arenosos en areas planas o en ligeras concavidades dentro de un paisaje de lomas suavemente onduladas del SE de la provincia de Cordoba. Presenta un horizonte superficial (Ap), de 20 cm de espesor, bien estructurado y de textura franca. Le sigue luego un horizonte subsuperficial con ligero incremento de arcilla (Bw, 15% de arcilla), de textura franca a franca arenosa y estructura en bloques debiles a moderados con tendencia prismatica. El material originario se encuentra aproximadamente a 66 cm de profundidad y es de textura franca arenosa (9,6% de arcilla) y esta totalmente desprovisto de sales y de sodio. Este suelo no tiene limitaciones importantes a excepcion de la climatica que se presenta en forma moderada.
 UBICACION: a 9 Km al OSO de la estancia Las Tunas, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	21-40 cm; color en humedo pardo oscuro (7,5YR3/2); franco arenoso a franco; estructura en bloques subangulares medios moderados, friable en humedo; no plastico; no adhesivo; barnices humico arcillosos escasos y finos; limite gradual y suave.
-BC	40-66 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco arenoso a franco; estructura en bloques subangulares medios debiles; friable en humedo; no plastico, no adhesivo, barnices arcillosos muy escasos y finos; limite inferior gradual y suave.
-C	66 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso, masivo, muy friable en humedo, no plastico, no adhesivo.
-Datos analiticos Serie LEGUIZAMON
 LATITUD:S334238
 LONGITUD:O624033
 ALTITUD:125 m.s.n.m.

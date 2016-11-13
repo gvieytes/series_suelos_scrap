@@ -2,12 +2,8 @@ Serie OLAETA
 Simbolo: Ota
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-Se trata de suelos algo excesivamente drenados, desarrollados sobre materiales franco arenosos y que se encuentran vinculados con lomas arenosas con distintos porcentajes de hoyas medanosas estabilizadas dentro de la llanura eolica cordobesa. La capa arable, horizonte A, es de 26 cm de espesor, pardo a pardo oscuro, de textura franco arenosa, continua el horizonte AC, franco arenoso transicional al material originario, el que se encuentra a 53 cm de profundidad, de textura arenosa franca. La capacidad de uso de estos suelos, se encuentra limitada por la baja retencion de humedad y el clima.
 UBICACION: a 6 Km al NNO de la localidad de Olaeta, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-AC	26-53 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios debiles con tendencia masivo; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
-C	53 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso a areno franco; masivo; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie OLAETA
 LATITUD:S330039
 LONGITUD:O635716
 ALTITUD:311 m.s.n.m.

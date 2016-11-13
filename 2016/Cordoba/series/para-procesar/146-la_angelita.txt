@@ -2,13 +2,8 @@ Serie LA ANGELITA
 Simbolo: LAgt
 CLASIFICACION: Natracuol tipico
 TPS: fina a franca fina, mixta, termica
-La Serie La Angelita es un suelo bien provisto de materia organica (A), ocupa sectores del primer Saladillo y las areas planas de transicion que rodean por el Este, Sur y Oeste a la planicie aluvial de La Rinconada. Es imperfectamente drenado y fuertemente salino alcalino desde la superficie donde generalmente se observan eflorescencias salinas. Puede presentar inundaciones de moderada duracion. La vegetacion natural dominante esta representada por jume, salicornia, palo azul, cardon y chanar de poco desarrollo. La parte superficial (horizonte A) de 15 cm es franco limoso a franco arcillo limoso, tiene 2,46% de materia organica, estructura en bloques subangulares debiles y fuerte salinidad y alcalinidad sodica. Le sigue un horizonte mas arcilloso (B textural) franco arcillo limoso con estructura en prismas finos con mayor salinidad y alcalinidad. El Ck es franco limoso, se extiende a partir de 63 cm y esta afectado por la capa freatica. Dentro de la Serie La Angelita existen pocas variaciones de interes: se puede mencionar el espesor del horizonte A de 11 a 17 cm permaneciendo las limitaciones mas serias como alcalinidad, salinidad y drenaje practicamente sin variaciones notables.
 UBICACION: a 13 Km. al ESE de Villa Candelaria, departamento Rio Seco, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-Btz	15 - 35 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en prismas y bloques irregulares rompe a bloques; friable en humedo; plastico; adhesivo; concreciones de CO3Ca escasas y finas; barnices humico arcillosos abundantes y finos; raices escasas; eflorescencias salinas muy abundantes; limite inferior gradual.
-BCz	35 - 63 cm; color en humedo pardo (7,5YR5/4); franco arcillo limoso a franco limoso; friable en humedo; barnices arcillosos escasos y finos; reaccion en puntos al ClH en la masa del suelo; limite inferior abrupto, suave.
-Ckz	63 cm a +; color en humedo pardo (7,5YR5/4); franco limoso a franco arcillo limoso; masivo; violenta reaccion al ClH en la masa del suelo; el horizonte esta afectado por la capa freatica.
-Datos analiticos Serie LA ANGELITA
 LATITUD:S295100
 LONGITUD:O631300
 ALTITUD:80 m.s.n.m.

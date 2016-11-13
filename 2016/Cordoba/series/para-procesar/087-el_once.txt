@@ -2,13 +2,8 @@ Serie EL ONCE
 Simbolo: EOn
 CLASIFICACION: Endoacuol tipico
 TPS: franca gruesa, mixta, termica
-Es un suelo imperfectamente drenado con alcalinidad sodica a partir de 20 cm de profundidad. Se ha desarrollado sobre sedimentos aluviales de derrames provenientes del rio Chocancharaua (Cuarto) en ambientes deprimidos. La textura de la mayor parte del perfil es franco arenosa y presenta la particularidad de poseer una capa fina (franco arcillosa) sobre el suelo debilmente desarrollado (A-2A-2AC-2C). La parte superior del perfil o capa arable tiene 19 cm de espesor, corresponde a la capa I, franco arcillosa con estructura en bloques y moderadamente alcalina. Le sigue el horizonte 2A (enterrado) que se extiende hasta 40 cm de profundidad con textura franco arenosa, estructura en bloques debiles con alcalinidad sodica que aumenta en profundidad. Luego de una transicion (horizonte 2AC) el material originario se encuentra a partir de 60 cm de profundidad, tiene textura franco arenosa es masivo y alcalino sodico. Normalmente la capa freatica se encuentra proxima a la superficie afectando parte del perfil.
 UBICACION: a 16,5 Km al NE de La Carlota, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-2A	19-40 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; pH 8,2; escasa reaccion al ClH en la masa del suelo; moteados de FeMn comunes finos y precisos; raices abundantes; limite inferior claro, suave.
-2ACn	40-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 8,3; moderada reaccion al ClH en la masa del suelo; moteados de FeMn abundantes medios y precisos; raices escasas, limite inferior gradual.
-2Cn	60 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,2; moderada reaccion al ClH en la masa del suelo; moteados de FeMn abundantes medios y precisos.
-Datos analiticos Serie EL ONCE
 LATITUD:S332115
 LONGITUD:O630928
 ALTITUD:126 m.s.n.m.

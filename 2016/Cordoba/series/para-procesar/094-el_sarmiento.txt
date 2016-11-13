@@ -2,14 +2,8 @@ Serie EL SARMIENTO
 Simbolo: ESm
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-La Serie El Sarmiento es un suelo bien drenado, desarrollado sobre materiales fluvio-eolicos franco arenosos finos y vinculados a terrazas altas e intermedias, con pendientes que no superan el 1%. Presentan un horizonte A (capa arable) de 14 cm de espesor, textura franca, buen contenido de materia organica y de color pardo grisaceo oscuro. Luego pasa en forma clara a un horizonte B incipiente, de color pardo oscuro, y con escasos barnices arcillosos muy finos. El material originario se encuentra a 38 cm de profundidad, es de estructura masiva y textura franco arenosa fina. Luego pasa en forma abrupta a una capa de materiales mas finos (franco limosos) constituyendo una discontinuidad litologica. Erosion y clima son las limitaciones principales de estos suelos.
 UBICACION: a 9 km al SSE de Villa Sarmiento, departamento General Roca, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	14-38 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en bloques y prismas finos debiles; friable en humedo; no plastico; no adhesivo; escasos barnices arcillosos muy finos "Clay Skins"; limite inferior claro, suave.
-C	38-64 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso; masivo; friable en humedo; limite inferior abrupto, suave.
-2	64-86 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares finos; friable en humedo; plastico; adhesivo; moteados comunes, medios y precisos; limite inferior abrupto, suave.
-3	86 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; masivo; friable en humedo; moteados comunes, medios, debiles; abundante calcareo pulverulento en la masa del suelo.
-Datos analiticos Serie EL SARMIENTO
 LATITUD:S341128
 LONGITUD:O644914
 ALTITUD:291 m.s.n.m.

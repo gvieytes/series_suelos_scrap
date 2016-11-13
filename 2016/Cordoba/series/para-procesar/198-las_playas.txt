@@ -2,13 +2,8 @@ Serie LAS PLAYAS
 Simbolo: LPy
 CLASIFICACION: Haplustol udorthentico
 TPS: franca gruesa, mixta, termica
-La Serie Las Playas es un suelo oscuro, algo excesivamente drenado, desarrollado sobre materiales francos de las areas de derrame, antiguos cauces sepultados y albardones. La capa arable, hasta una profundidad de 25 a 29 cm (horizonte Ap) es de color pardo muy oscuro, de textura franco a franco limosa y estructura en bloques. Hacia abajo pasa gradualmente (horizonte transicional AC) al substrato u horizonte C que se encuentra a una profundidad promedio de 60 cm.
 UBICACION: a 8,3 km al NNO de Ordonez, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo muy oscuro (10YR2/2)
-A	20-29 cm; color en humedo pardo muy oscuro (10YR2/2); franco a franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; limite inferior claro, suave.
-AC	29-62 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en bloques subangulares medios debiles; friable en humedo; limite inferior difuso.
-C	62 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable.
-Datos analiticos Serie LAS PLAYAS
 LATITUD:S324600
 LONGITUD:O625400
 ALTITUD:142 m.s.n.m.

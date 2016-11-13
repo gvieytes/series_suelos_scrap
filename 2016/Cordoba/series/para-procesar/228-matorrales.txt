@@ -2,13 +2,8 @@ Serie MATORRALES
 Simbolo: Mt
 CLASIFICACION: Argiustol tipico
 TPS: limosa fina, mixta, termica
-Es un suelo profundo, moderadamente bien drenado, desarrollado a partir de materiales loessicos, de textura franco limosa, vinculados a un paisaje de planos chatos ligeramente deprimidos. Los primeros 21 cm (horizonte A) son de color pardo grisaceo oscuro, de textura franco limosa y estructura en bloques moderados. Luego pasa a un horizonte mas arcilloso (Bt textural), que se extiende hasta los 52 cm de profundidad, de textura franco arcillo limosa y estructura en prismas moderados, con barnices en la cara de los agregados y escasos moteados, lo que indica un exceso de agua en el perfil en algunos periodos. La transicion al material originario (horizonte C) es gradual, encontrandose este a una profundidad de 76 cm; se trata de un material franco limoso, masivo y con abundante calcareo pulverulento diseminado en la masa del suelo. Los suelos de esta Serie muestran una moderada limitacion climatica, derivada del regimen de precipitaciones bajo el cual se encuentran. Estos suelos no presentan en general otros impedimentos de orden fisico-quimico que condicionen el crecimiento de las plantas. La reaccion en todo el perfil es ligeramente acida a neutra y el contenido de materia organica es bueno.
 UBICACION: a 13 Km al Oeste de la localidad de Matorrales, departamento Rio Segundo, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2)
-Bt	21-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas irregulares medios moderados y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; comunes barnices humicos-arcillosos finos; moteados escasos, finos y debiles; limite inferior gradual y suave.
-BC	52-76 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco arcillo limoso; estructura en prismas irregulares y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices humicos-arcillosos finos; moteados escasos, finos y debiles; limite inferior abrupto, suave.
-Ck	76 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo.
-Datos analiticos Serie MATORRALES
 LATITUD:S314226
 LONGITUD:O633847
 ALTITUD:276 m.s.n.m.

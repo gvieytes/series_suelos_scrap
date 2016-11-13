@@ -2,14 +2,8 @@ Serie CAVANAGH
 Simbolo: Cv
 CLASIFICACION: Hapludol tipico
 TPS: franca gruesa, mixta, termica
-La Serie Cavanagh son suelos profundos y bien drenados, desarrollados sobre materiales franco arenosos en lomas suavemente onduladas. El horizonte superficial es franco a franco limoso con 20% de arcilla hasta los 19 cm de profundidad. El subsuelo presenta un enriquecimiento muy leve de arcilla y una estructuracion en prismas irregulares debiles, y se extiende hasta 45 cm. Sigue en profundidad un horizonte transicional (horizonte BC) en el cual se produce un decrecimiento en el contenido de arcilla (15%), hasta llegar a los materiales originarios (horizonte C) de textura franca, que aparecen a los 75 cm. El nivel calcareo (horizonte Ck) comienza a partir de 150 cm. Los suelos de la Serie Cavanagh no presentan limitaciones mayores para el uso. La reaccion es proxima a la neutralidad en todo el perfil y se encuentra libre de sales y alcalis. La freatica esta profunda y no interfiere en el drenaje ni en la aireacion del suelo. Sin embargo, existe una ligera limitacion climatica derivada del regimen de precipitaciones y de la textura de los materiales a partir de los cuales se ha desarrollado.
 UBICACION: a 3 km al SE de la localidad de Guatimozin, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-B	20-43 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco a franco limoso; estructura en prismas irregulares medios debiles y bloques subangulares; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices finos arcillo humicos; limite inferior claro, suave.
-BC	43-74 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco; estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; muy escasos barnices arcillo humicos; limite inferior difuso.
-C	74-150 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto, ondulado.
-Ck	150 cm a +; color en humedo pardo (7,5YR5/4); franco a franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo en la masa.
-Datos analiticos Serie CAVANAGH
 LATITUD:S332900
 LONGITUD:O622400
 ALTITUD:120 m.s.n.m.

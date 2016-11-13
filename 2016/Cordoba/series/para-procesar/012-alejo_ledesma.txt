@@ -2,12 +2,8 @@ Serie ALEJO LEDESMA
 Simbolo: ALd
 CLASIFICACION: Haplustol udorthentico
 TPS: franca gruesa, mixta, termica
-Se trata de un suelo liviano y algo excesivamente drenado, que se encuentra asociado a relieves de lomas onduladas a suavemente onduladas modelados sobre materiales franco arenosos que corresponden con areas de antiguos medanos estabilizados. Son suelos poco desarrollados que presentan una capa arable de unos 23 cm de espesor (horizonte A) de textura franca a franco arenosa, color pardo grisaceo oscuro y estructura en bloques moderados. Hacia abajo pasa gradualmente (horizonte de transicion AC) al material originario que se encuentra a una profundidad de unos 60 cm. El calcareo, en forma de carbonato de calcio pulverulento, aparece a 100 cm de profundidad diseminado en la masa del suelo. Tienen un contenido moderado de materia organica, que decrece rapidamente en profundidad y una baja capacidad de intercambio cationico, lo cual conspira en contra de su fertilidad natural. Por otro lado la moderada capacidad de retencion de humedad los hace susceptibles a sequias. Estas limitaciones se presentan en grado leve, por lo que los suelos son utilizados tanto para agricultura como para ganaderia. No presentan otros impedimentos fisicos ni quimicos que afecten el crecimiento de las plantas.
 UBICACION: a 5 km al ESE de la localidad de Alejo Ledesma, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	23-63 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
-C	63 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie ALEJO LEDESMA
 LATITUD:S333708
 LONGITUD:O623421
 ALTITUD:123 m.s.n.m.

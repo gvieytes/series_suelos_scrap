@@ -2,12 +2,8 @@ Serie EL SILENCIO
 Simbolo: ESi
 CLASIFICACION: Natracualf molico
 TPS: franca fina, mixta, termica
-La Serie El Silencio es un suelo oscuro, pobremente drenado, que ocupa las planicies de inundacion del actual cauce del rio Dulce y los paleocauces mas deprimidos de los bordes orientales de la planicie aluvial de La Rinconada (areas de transicion). Tiene la capa muy proxima a la superficie en la mayoria de los perfiles estudiados, con salinidad y alcalinidad moderada a partir del horizonte superior (A). Este suelo es muy susceptible de sufrir inundaciones de larga duracion por los periodicos desbordes del rio Dulce. La vegetacion dominante y casi exclusiva es el espartillo (hidrohalofita) que soporta condiciones extremas de hidromorfismo ademas de la alcalinidad. Tiene un horizonte superior (A) de 14 cm, es de color pardo grisaceo muy oscuro, textura franco limosa a franca, moderadamente salino alcalino, con 14% de arcilla. Le sigue hasta 32 cm un horizonte mas arcilloso (B textural) con 17% de sodio de intercambio, textura franco arcillosa a franca con 29,6% de arcilla. Luego comienza un horizonte de transicion (BCk) con reaccion al ClH en la masa del suelo saturado con la capa freatica. El escurrimiento es muy lento a estancado y la alcalinidad se mantiene constante en todo el perfil con caracter moderado. Aparentemente los suelos de esta Serie se diferencian de los dominantes del primer Saladillo (Serie El Saladillo) porque ademas de tener mayor peligro de anegamiento tienen menor alcalinidad y/o salinidad. La presencia ciclica de agua dulce impediria que estos procesos lleguen a terminos extremos. En los perfiles correspondientes a esta Serie se han observado variaciones muy notables con respecto al espesor del horizonte A de 7 a 16 cm. Algunos perfiles pueden tener moderada a fuerte salinidad superficial.
 UBICACION: a 14 Km al Oeste del paraje denominado Pozo Verde, en el departamento Tulumba, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btn	14 - 32 cm; color en humedo pardo oscuro (10YR3/3); franco arcilloso a franco; estructura en prismas irregulares medios moderados rompe a prismas; friable en humedo; muy plastico; adhesivo; barnices humico arcillosos abundantes medios; raices abundantes; reaccion en puntos al ClH en la masa del suelo; limite inferior claro.
-BCk	32 cm a +; franco arcilloso a franco; plastico; adhesivo; violenta reaccion al ClH en la masa del suelo; presencia de la capa freatica.
-Datos analiticos Serie EL SILENCIO
 LATITUD:S302245
 LONGITUD:O630730
 ALTITUD:70 m.s.n.m.

@@ -2,12 +2,8 @@ Serie EL VEINTITRES
 Simbolo: E23
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-La Serie El Veintitres, es un suelo algo excesivamente drenado, desarrollado sobre materiales franco arenosos y vinculado a las lomas arenosas ligeramente onduladas y onduladas, con pendientes del 1 al 2%. La capa arable de 17 cm de espesor (horizonte A), es de color pardo grisaceo muy oscuro a pardo oscuro, de textura franco arenosa y estructura en bloques debiles. Hacia abajo pasa gradualmente (horizonte de transicion AC) al material originario, que se encuentra a una profundidad de 45 cm, de textura franco arenosa. El calcareo se encuentra generalmente muy profundo. Estos suelos son aptos para agricultura, aunque se encuentran limitados climaticamente, y la debil estructura superficial hace que sean moderadamente susceptibles a la erosion eolica.
 UBICACION: a 21,6 Km al Norte de Huinca Renanco, departamento General Roca, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-AC	17-45 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares debiles con tendencia a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
-C	45 cm a +; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie EL VEINTITRES
 LATITUD:S343755
 LONGITUD:O642433
 ALTITUD:193 m.s.n.m.

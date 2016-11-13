@@ -2,14 +2,8 @@ Serie LAGUNA AVILA
 Simbolo: LAv
 CLASIFICACION: Natracualf albico
 TPS: limosa fina, mixta, termica
-La Serie Laguna Avila es un suelo fuertemente alcalino sodico, con elevado tenor de sales solubles e imperfectamente a pobremente drenado, desarrollado sobre materiales loessicos de textura franco limosa. Se encuentra vinculado a los bajos bien manifiestos y a areas deprimidas. Los primeros 23 cm (horizonte E) es color pardo grisaceo en humedo y gris claro en seco, de textura franco limosa y estructura en bloques debiles con tendencia a masivo. La elevada alcalinidad sodica (alrededor del 60% de la capacidad de intercambio cationico) limita el desarrollo de las raices. Luego pasa a un horizonte mas arcilloso (horizonte Bt fuertemente textural), de color pardo oscuro, estructura en prismas gruesos con abundantes barnices humico arcillosos, elevado contenido de sodio y se extiende hasta los 88 cm. Presenta moteados de Fe desde la superficie, encontrandose cementado a los 88 cm de profundidad, sintoma del drenaje impedido de estos suelos. El elevado tenor de sales, la fuerte alcalinidad y el pobre drenaje limitan considerablemente su aptitud. En el campo se los reconoce con facilidad, ya que ocupan manchones o "peladales" de tamano variable y por el color blanquecino de la capa superficial.
 UBICACION: a 13 Km al SSE de la localidad de Alto Alegre, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo a pardo grisaceo oscuro (10YR4,5/2)
-Btn	23-43 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas regulares gruesos compuestos, rompen a prismas menores y bloques aplanados; friable en humedo; plastico; adhesivo; barnices humico arcillosos abundantes y gruesos de color negro (10YR2/1); moteados comunes finos y debiles; limite inferior claro, suave.
-Btn2	43-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares y bloques subangulares medios moderados a debiles; friable en humedo; plastico; adhesivo; barnices humico arcillosos abundantes medios; moteados comunes, finos y debiles, concreciones calcareas abundantes y medias; limite inferior gradual.
-Btnz	60-88 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, estructura en bloques subangulares medios y gruesos debiles; friable en humedo; ligeramente plastico; adhesivo; barnices arcillosos escasos y finos; moteados comunes, finos y precisos; concreciones calcareas comunes y finas; limite inferior gradual.
-BCkm	88 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; debilmente cementado; concreciones calcareas muy abundantes y gruesas; moteados comunes, medios, precisos y sobresalientes.
-Datos analiticos Serie LAGUNA AVILA
 LATITUD:S322641
 LONGITUD:O624830
 ALTITUD:136 m.s.n.m.

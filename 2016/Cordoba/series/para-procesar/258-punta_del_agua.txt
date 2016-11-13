@@ -2,13 +2,8 @@ Serie PUNTA DEL AGUA
 Simbolo: PA
 CLASIFICACION: Ustifluvent tipico
 TPS: limosa gruesa, mixta, termica
-Los suelos de esta Serie son profundos, moderadamente bien drenados, desarrollados a partir de sedimentos loessicos de textura franco limosa y luego cubiertos por una capa se dedimentos fluviales, vinculados a las terrazas del arroyo de Tegua. Son suelos poco desarrollados que presentan en superficie una capa de depositos fluviales (1k) de espesor variable, de textura franca y sin estructura (masivo), escaso contenido de materia organica y moderado contenido de carbonato pulverulento diseminado en la masa. Debajo de esta capa se encuentra el suelo original, que presenta un horizonte A de color oscuro, con moderado contenido de materia organica, de textura franco limosa y estructura en bloques subangulares medios moderados. Hacia abajo pasa gradualmente al material originario (horizonte C) que se encuentra a una profundidad de 92 cm, de textura franco limosa. La falta de estructura de la capa superficial, la escasa fertilidad y bajo contenido de materia organica, el carbonato diseminado en la masa que determina una reaccion moderadamente alcalina, son factores limitantes para los cultivos normales de la zona, siendo utilizados en pasturas (implantadas o naturales).
 UBICACION: a 2 km al Este de la localidad de Punta del Agua, departamento Tercero Arriba, provincia de Cordoba.
 COLOR: color en humedo pardo amarillento oscuro (10YR4/4)
-2A	23-58 cm; color en humedo gris muy oscuro a pardo grisaceo muy oscuro (10YR3/1,5); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente adhesivo; limite inferior claro, suave.
-2AC	58-92 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
-2C	92 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie PUNTA DEL AGUA
 LATITUD:S323448
 LONGITUD:O634737
 ALTITUD:270 m.s.n.m.

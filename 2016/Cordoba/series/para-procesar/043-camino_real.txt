@@ -2,11 +2,8 @@ Serie CAMINO REAL
 Simbolo: FALTA!
 CLASIFICACION: Calciustol petrocalcico
 TPS: franca fina, mixta, termica
-Es un suelo debilmente desarrollado sobre sedimentos eolicos modificados cubriendo antiguos abanicos aluviales o pequenos mogotes de rocas conglomeradicas con pendientes que oscilan entre 1 a 3%. El perfil es corto con un horizonte A muy oscuro con carbonatos libres en la masa del suelo apoyado directamente sobre un horizonte petrocalcico (tosca) bastante continuo, duro en seco y humedo; tiene textura franco limosa, con 20% de arcilla, estructura en bloques moderados y 18 cm de espesor.
 UBICACION: a 10 km al NO de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Ckm	18 cm a +; horizonte petrocalcico; duro en seco y humedo; por debajo donde se ha podido penetrar se encuentra la roca poco alterada.
-Datos analiticos Serie CAMINO REAL
 LATITUD:S305527
 LONGITUD:O640516
 ALTITUD:550 m.s.n.m.

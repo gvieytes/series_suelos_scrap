@@ -2,13 +2,8 @@ Serie ESTANCIA EL CAUTIVO
 Simbolo: ECt
 CLASIFICACION: Endoacuent tipico
 TPS: franca gruesa, mixta, termica
-Es un suelo imperfectamente drenado, desarrollado debilmente sobre capas depositadas por el viento en depresiones y areas intermedias de la Pampa arenosa anegable en la provincia de Cordoba. El perfil modal tiene alcalinidad sodica a partir de 32 cm de profundidad y evidencias de drenaje deficiente. Esta constituido por una secuencia de capas de texturas medias y gruesas, siendo la superior escasamente provista de materia organica. Presenta una capa superficial (1) de 17 cm de espesor, de textura franco arenosa, color pardo oscuro a pardo amarillento oscuro con estructura en bloques debiles. Sigue hacia abajo la capa (2), de 17 a 32 cm que esta separada de la superior mediante un limite abrupto, tiene color pardo amarillento oscuro, con textura franco arenosa y estructura en bloques muy debiles a masivo. La capa (3), que se extiende de 32 a 49 cm tiene textura franco arcillo arenosa y alcalinidad sodica. Por ultimo, la capa (4) con alcalinidad sodica fuerte, es de textura franco arenosa y se extiende a mas de 90 cm de profundidad.
 UBICACION: a 2,5 km al NE de la estancia El Cautivo, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo amarillento oscuro (10YR3/4)
-2	17-32 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; estructura en bloques subangulares a masivo; friable en humedo; no plastico; no adhesivo; pH 7,1; moteados comunes, medios y precisos; raices comunes; limite inferior abrupto, suave.
-3n	32-49 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; pH 8,9; leve reaccion al ClH en la masa del suelo.
-4n	49 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 9,5; leve reaccion al ClH en la masa del suelo
-Datos analiticos Serie ESTANCIA EL CAUTIVO
 LATITUD:S332411
 LONGITUD:O634653
 ALTITUD:213 m.s.n.m.

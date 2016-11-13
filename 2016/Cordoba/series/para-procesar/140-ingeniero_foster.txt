@@ -2,13 +2,8 @@ Serie INGENIERO FOSTER
 Simbolo: FALTA!
 CLASIFICACION: Haplustol entico
 TPS: arenosa, mixta, termica
-Los suelos de esta Serie se desarrollan en las areas llanas de las planicies arenosas y medanosas del SO de la provincia de Cordoba, limite con la provincia de San Luis. Son geneticamente poco evolucionados, de perfil sencillo del tipo A-Ah-AC-C o Ah-AC-C. Presentan un horizonte superficial molico (A-Ah), moderadamente provisto de materia organica. El horizonte A generalmente de 10 cm de espesor es un deposito de material eolico actual (posterior al ano 1932) y en su base suele encontrarse ceniza volcanica que es comun en el area. A continuacion a los 27 cm de profundidad sigue el horizonte de transicion AC, debilmente estructurado en bloques, con bajo tenor de materia organica. Finalmente a los 53 cm, aparece el horizonte C sin estructura y sin calcareo. Tienen drenaje natural algo excesivo, es decir el agua se infiltra con cierta rapidez y la capacidad de retencion de la humedad es deficiente. El escurrimiento es lento y la permeabilidad estimada rapida. En parte estos suelos se encuentran erosionados por el viento y son muy susceptibles a este tipo de erosion. La textura de todo el perfil es arenosa franca fina, exceptuando la capa superficial actual (A) que es franco arenosa. El carbonato de calcio suele aparecer alrededor del metro de profundidad diseminado en toda la masa y en ocasiones a partir de 150 cm se localiza una plancha discontinua de tosca. Estan libres de sales y la capa de agua freatica se encuentra profunda. Presentan limitaciones climaticas y edaficas bastantes severas, entre las ultimas mencionamos: baja capacidad de retencion de humedad, drenaje algo excesivo y severo riesgo a la erosion eolica.
 UBICACION: a 26,5 Km al SE de Arizona, en el departamento Gobernador Vicente Dupuy, provincia de San Luis.
 COLOR: color en humedo pardo grisaceo oscuro (10YR4/2)
-Ah	8-27 cm; color en humedo pardo oscuro (10YR3/3); areno franco; estructura en bloques subangulares medios moderados; ligeramente duro y friable en humedo; raices comunes; limite inferior claro.
-AC	27-53 cm; color en humedo pardo oscuro (10YR3/3); areno franco; estructura en bloques subangulares medios debiles; blando y friable en humedo; raices escasas; limite inferior difuso.
-C	53 cm a +; color en humedo pardo a pardo oscuro (10YR4/3); areno franco; grano suelto; y muy friable en humedo; raices escasas.
-Datos analiticos de la Serie INGENIERO FOSTER
 LATITUD:S355300
 LONGITUD:O650600
 ALTITUD:300 m.s.n.m.

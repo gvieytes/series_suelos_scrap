@@ -2,15 +2,8 @@ Serie ASCOCHINGA
 Simbolo: Asc
 CLASIFICACION: Argiustol udico
 TPS: franca fina a franca gruesa, mixta, termica
-La Serie Ascochinga es un suelo bien drenado, desarrollado sobre derrames suavemente ondulados periserranos de textura franca con relieve normal y gradientes que normalmente oscilan entre 1 a 2%. Ocupa generalmente situaciones de media loma alta, tiene escurrimiento medio sin peligro de anegamiento. Presenta un horizonte A de 21 cm de espesor, de color oscuro, textura franca y estructura en bloques. Continua hacia abajo un horizonte enriquecido en arcillas iluviales B divisible en Bt y B de color mas claro con barnices abundantes y finos y textura franca que se extiende hasta 79 cm. Luego de una transicion (horizonte BC), el material originario del suelo comienza a 98 cm con carbonatos libres en la masa del suelo. Se encuentra limitado esencialmente por la tendencia natural de endurecerse superficialmente en seco y por la susceptibilidad a la erosion hidrica.
 UBICACION: a 14 km al Oeste de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	11-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares finos medios moderados a debiles; friable en humedo; pH 6,5; limite inferior claro, suave.
-Bt	21-54 cm; color en humedo pardo oscuro (10YR3/3); franco; estructura en bloques subangulares medios gruesos moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices abundantes y finos; pH 6,9; limite inferior claro, suave.
-B	54-79 cm; color en humedo pardo oscuro (7,5YR3/3); franco; estructura en bloques subangulares medios gruesos moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices abundantes a escasos finos; pH 7,1; limite inferior abrupto, ondulado.
-2BC	79-98 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares gruesos moderados; friable en humedo; barnices humico arcillosos escasos; pH 7,7; limite inferior abrupto, suave.
-2Ck	98 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; friable en humedo; pH 8,1; violenta reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo.
-Datos analiticos Serie ASCOCHINGA
 LATITUD:S305500
 LONGITUD:O641400
 ALTITUD:600 m.s.n.m.

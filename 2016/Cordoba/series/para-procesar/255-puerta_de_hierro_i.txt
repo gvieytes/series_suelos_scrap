@@ -2,13 +2,8 @@ Serie PUERTA DE HIERRO I
 Simbolo: PHiI
 CLASIFICACION: Haplustol paquico
 TPS: franca fina, mixta, termica
-La Serie Puerta de Hierro I es un suelo profundo caracterizado por tener horizontes oscuros de mas de 50 cm y textura franco arcillosa. Se encuentra normalmente vinculado a las terrazas de los rios Santa Catalina, Ascochinga y algunos valles fluviales. El relieve es plano concavo, con gradientes menores al 0,5%, escurrimiento lento y bien drenado. Presenta un horizonte A de 55 cm de espesor, franco arcilloso (28% de arcilla y 47% de limo) con estructura en bloques. Continua hacia abajo un horizonte de transicion ACk con reaccion en puntos al ClH, franco limoso con estructura en bloques debiles. A partir de 90 cm aparece una capa de textura franca, con carbonato de calcio libre en la masa del suelo.
 UBICACION: a 5 km al Oeste de Jesus Maria, departamento Colon, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	12-55 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcilloso; estructura en bloques subangulares medios moderados; limite inferior claro, suave.
-ACk	55-90 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares medios debiles; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; limite inferior claro, suave.
-2k	90 cm a +; color en humedo pardo oscuro (10YR3/3); franco; masivo; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; presencia de pseudomicelios carbonaticos.
-Datos analiticos Serie PUERTA DE HIERRO I
 LATITUD:S305830
 LONGITUD:O641000
 ALTITUD:545 m.s.n.m.

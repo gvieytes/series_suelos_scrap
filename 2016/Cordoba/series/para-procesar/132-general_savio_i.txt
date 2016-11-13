@@ -2,13 +2,8 @@ Serie GENERAL SAVIO I
 Simbolo: GSaI
 CLASIFICACION: Argiustol tipico
 TPS: franca fina a fina, mixta, termica
-Los perfiles de esta Serie son bien drenados y desarrollados con importantes enriquecimientos de arcillas iluviales, conformando un horizonte argilico profundo; estan ubicados en los desagues bien manifiestos dentro de las terrazas altas del rio Ctalamochita (Tercero) y otras vias fluviales. Presenta un horizonte A de 18 cm de espesor, de color oscuro, con estructura en bloques y textura franco limosa con 3,6% de materia organica. Continua hacia abajo una capa edafizada que constituye un horizonte B textural divisible en 2Bt1 y 2Bt2 con 29 y 33% de arcillas iluviales y barnices abundantes a muy abundantes en las caras de los agregados; este horizonte se extiende desde la profundidad indicada hasta 70 cm donde aparece una transicion (2BC) de textura franco limosa con arenas gruesas y algunas gravillas escasas que se extiende a mas de 1 m de profundidad.
 UBICACION: a 6,2 km al ESE de la localidad de Rio Tercero, departamento Tercero Arriba, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-2Bt	18-43 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares fuertes que rompen a prismas menores; friable en humedo; plastico; adhesivo; pH 6,2; barnices muy abundantes medios y finos de arcilla y humus; raices escasas; limite inferior gradual.
-2Bt2	43-70 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; estructura en prismas irregulares medios moderados a fuertes; friable en humedo; plastico; adhesivo; barnices arcillosos comunes; limite inferior gradual.
-2BC	70 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; estructura en prismas y bloques moderados a debiles; friable en humedo; plastico; ligeramente adhesivo; pH 6,5; barnices arcillosos escasos; se observan gravillas no mas del 10%.
-Datos analiticos Serie GENERAL SAVIO I
 LATITUD:S321115
 LONGITUD:O641026
 ALTITUD:397 m.s.n.m.

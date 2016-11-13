@@ -2,13 +2,8 @@ Serie CONSTITUCION
 Simbolo: Cnt
 CLASIFICACION: Haplustol tipico
 TPS: limosa fina, mixta, termica
-La Serie Constitucion es un suelo bien drenado, vinculado a lomas suavemente onduladas, con pendientes que no superan el 1%, desarrollado a partir de sedimentos loessicos. Los primeros 20 cm (horizonte A), poseen color pardo grisaceo oscuro, textura franco limosa y estructura en bloques subangulares y granular. Hacia abajo continua una capa mas arcillosa de aproximadamente 20 cm de espesor (horizonte Bw), de color pardo oscuro, estructura en bloques subangulares medios moderados; barnices humico-arcillosos escasos y finos. La transicion al horizonte Ck es gradual y se encuentra a 64 cm de profundidad. Es un sedimento franco limoso, masivo, con abundante material calcareo pulverulento en la masa del suelo. Son suelos agricolas, con buena retencion de humedad, siendo su unica limitacion la climatica.
 UBICACION: a 4 km al Sur de Colonia Caroya, departamento Colon, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	20-43 cm; color en humedo pardo oscuro (7,5YR3/2)); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos, escasos y finos; limite inferior claro suave.
-BC	43-77 cm; color en humedo pardo a pardo oscuro (7,5YR4/4)); franco limoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; ligeramente plastico; no adhesivo; vestigios de barnices arcillosos; limite inferior abrupto, suave.
-Ck	77 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; abundante calcareo pulverulento en la masa del suelo.
-Datos analiticos Serie CONSTITUCION
 LATITUD:S310400
 LONGITUD:O640200
 ALTITUD:460 m.s.n.m.

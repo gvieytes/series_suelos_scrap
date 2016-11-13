@@ -2,11 +2,8 @@ Serie PASO DEL RIO SECO
 Simbolo: PRS
 CLASIFICACION: Ustorthent tipico
 TPS: franca gruesa, mixta, termica
-La Serie agrupa suelos profundos, algo excesivamente drenados, desarrollados sobre materiales fluviales franco arenosos, relacionados a terrazas altas y planicies de derrame fluvial del rio de las Barrancas. El perfil esta formado por una sucesion de capas franco arenosas, separadas mediante limites abruptos, sin estructura, teniendo la capa superior muy bajo contenido de materia organica.
 UBICACION: a 4,4 Km al SE de Paso del Rio Seco, departamento Rio Cuarto, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-2	18 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; no plastico; no adhesivo.
-Datos analiticos Serie PASO DEL RIO SECO
 LATITUD:S325200
 LONGITUD:O643100
 ALTITUD:500 m.s.n.m.

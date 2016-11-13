@@ -2,13 +2,8 @@ Serie RIO SEGUNDO
 Simbolo: RII
 CLASIFICACION: Ustipsamment tipico
 TPS: arenosa, mixta, termica
-La Serie Rio Segundo, es un suelo excesivamente drenado, desarrollado sobre materiales de origen fluvial, derramados por el rio del mismo nombre, de textura arenosa, vinculado a antiguos cauces (paleocauces) y areas planas entre los mismos, donde ocupa las partes mas elevadas dentro de este relieve. La parte superficial del suelo, de unos 35 cm de profundidad (horizonte A) es de textura arenosa, con casi 90% de la fraccion mineral dominada por arena, sin estructura, suelto y muy baja cantidad de materia organica. Luego de un horizonte transicional se alcanza el material originario (horizonte C) que aparece a los 80 cm de profundidad, de textura arenosa franca y estructura en grano simple. La baja retencion de humedad en todo el perfil, su falta de estructura, la escasa fertilidad y bajo contenido de materia organica de estos suelos, son factores limitantes para los cultivos normales de la zona, siendo utilizados en pasturas (pastos naturales).
 UBICACION: a 5,6 Km al NNO de la localidad de Costa Sacate, departamento Rio Segundo, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-A	15-35 cm; color en humedo pardo oscuro (10YR3/3); areno franco a arenoso; estructura en bloques subangulares medios debiles a masivo; friable en humedo; no plastico; no adhesivo; limite inferior gradual.
-AC	35-80 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco; estructura de grano simple; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
-C	80 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/3); areno franco; estructura de grano simple; muy friable en humedo; no plastico; no adhesivo.
-Datos Analiticos Serie RIO SEGUNDO
 LATITUD:S313659
 LONGITUD:O634825
 ALTITUD:315 m.s.n.m.

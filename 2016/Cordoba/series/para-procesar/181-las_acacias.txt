@@ -2,13 +2,8 @@ Serie LAS ACACIAS
 Simbolo: FALTA!
 CLASIFICACION: Fragiacualf tipico
 TPS: franca fina, mixta, termica
-Esta Serie corresponde a un suelo imperfectamente drenado, fuertemente cementado a partir de los 54 cm de profundidad y con alcalinidad sodica superficial. La parte superficial del suelo (horizontes A y E), llega hasta los 28 cm de profundidad, de textura franca y de color pardusco con claros sintomas de eluviacion. Luego pasa en forma abrupta a un horizonte mas arcilloso, de estructura prismatica con ligera cementacion, hasta encontrarse fuertemente cementado en el horizonte BC. El drenaje interno impedido y la fuerte alcalinidad sodica y salinidad superficiales restringen considerablemente el uso del suelo, limitandose los mismos a campos naturales de pastoreo.
 UBICACION: a 8,5 Km al OSO de Estacion Rosales, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-En	18-28 cm; color en humedo pardo oscuro (10YR3/3); franco; masivo; muy friable en humedo; moteados abundantes, finos y precisos; limite inferior abrupto, suave.
-Btn	28-54 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas irregulares y bloques subangulares medios, moderados; barnices humico arcillosos comunes y medios; moteados comunes, finos y precisos; escasas concreciones calcareas, finas; limite inferior abrupto, suave.
-BCm	54 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; fuertemente cementado; duro; concreciones calcareas comunes y finas.
-Datos analiticos de la Serie LAS ACACIAS
 LATITUD:S341151
 LONGITUD:O631421
 ALTITUD:131 m.s.n.m.

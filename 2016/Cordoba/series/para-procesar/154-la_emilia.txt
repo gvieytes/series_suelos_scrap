@@ -2,13 +2,8 @@ Serie LA EMILIA
 Simbolo: LEm
 CLASIFICACION: Haplustol tipico
 TPS: franca fina, mixta, termica
-Este suelo se ha desarrollado sobre sedimentos de derrames fluviales distales bastante alejados de las sierras, al Este de la Ruta Nacional No9, en ambientes de relieves suavemente ondulados. El perfil es bien drenado, se trabaja con facilidad y esta debilmente desarrollado en profundidad, con limitantes climaticas moderadas y moderada a buena retencion de humedad. Presenta un horizonte A de 19 cm de color oscuro, franco limoso y estructura en bloques. Continua hacia abajo hasta los 43 cm un horizonte B no textural con escasos barnices finos en las caras de los agregados y estructura en prismas y bloques debiles. A partir de la profundidad indicada aparece el material originario franco limoso, masivo, con carbonatos libres a partir de los 60 cm.
 UBICACION: a 15 km al NNE de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	19-43 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques y prismas moderados a debiles; friable en humedo; ligeramente plastico; no adhesivo; pH 7,5; escasos barnices finos de arcilla y humus; raices abundantes.
-C	43-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; friable en humedo; pH 7,7; limite inferior abrupto, ondulado.
-Ck	60 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8; moderada reaccion al ClH en la masa del suelo.
-Datos analiticos Serie LA EMILIA
 LATITUD:S305116
 LONGITUD:O640107
 ALTITUD:500 m.s.n.m.

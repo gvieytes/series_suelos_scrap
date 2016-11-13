@@ -2,12 +2,8 @@ Serie ESTANCIA SANTA ANA
 Simbolo: SA
 CLASIFICACION: Hapludol entico
 TPS: franca gruesa, mixta, termica
-La Serie Estancia Santa Ana es un suelo liviano, profundo, y algo excesivamente drenado, que se ha desarrollado en los sedimentos eolicos franco arenosos de origen medanoso que cruzan en forma de cordones con direccion NE-SO. Esta Serie ocupa las crestas y medias lomas del relieve ondulado y participa en algunos complejos ubicados en areas planas e intermedias. Es un suelo de escaso desarrollo que presenta un horizonte superficial de unos 25 cm, oscuro, textura franca, 23% de arcilla y 48% de arenas, estructura en bloques, debil, y con alrededor de 2,5% de materia organica. Al estrato superficial le sigue uno transicional AC franco a franco arenoso, a los 60 cm se alcanza el sustrato u horizonte C con 60% de arena, de la cual el 50% corresponde a las muy finas. Los suelos de esta Serie son de reaccion ligeramente acida y pueden estar levemente afectados por la erosion. Son moderadamente fertiles y las limitaciones de uso que presentan se derivan de su naturaleza arenosa, a bien la capa arable posee un buen contenido de materia organica, la misma decrece muy rapidamente en profundidad dejando al suelo con muy escasos recursos energeticos a partir de los 25 o 30 cm. Una baja capacidad de retencion de la humedad hace a estos suelos susceptibles a la falta de agua, mientras que la pobre estabilidad estructural los hace propensos a la erosion y a las voladuras. Este suelo puede encontrarse integrando unidades complejas en areas de menor escurrimiento, y se han descripto perfiles que presentan moteados de Fe en el horizonte C debido a que son afectados temporariamente por el agua freatica.
 UBICACION: a 13 Km al NNO de la Estacion del FCGBM San Gregorio, en el departamento General Lopez de la provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	28-61 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares finos debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior gradual, ondulado.
-C	61 cm a +; color en humedo pardo a pardo fuerte (7,5YR5/5); franco; masivo; muy friable en humedo.
-Datos analiticos de la Serie ESTANCIA SANTA ANA
 LATITUD:S341321
 LONGITUD:O620720
 ALTITUD:121 m.s.n.m

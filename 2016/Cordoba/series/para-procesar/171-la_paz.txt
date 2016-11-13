@@ -2,11 +2,8 @@ Serie LA PAZ
 Simbolo: LPz
 CLASIFICACION: Haplustol udorthentico paralitico
 TPS: franca fina, mixta, termica
-Es un suelo incipientemente desarrollado sobre sedimentos eolicos muy modificados sobre conglomerados que conforman cerrillos o serranias, correspondientes a antiguos conos aluviales elevados por actividad tectonica. Este suelo se encuentra preferentemente en serranias bajas e intermedias y en los cerrillos normalmente aislados, separados del cuerpo principal de la montana dentro del area del piedemonte. La pendiente oscila entre 3 a 8%, o a veces algo mayor con escurrimiento rapido y drenaje excesivo. Presenta un horizonte Ak de 24 cm de espesor de color pardo grisaceo muy oscuro con 20% de arcilla y aproximadamente 10% de gravas y gravillas. Normalmente tiene carbonato de calcio libre en la masa del suelo. A partir de la profundidad indicada se encuentra la roca conglomeradica parcialmente meteorizada (contacto paralitico). Las limitantes principales son profundidad efectiva, excesivo drenaje, pendiente y susceptibilidad a la erosion hidrica.
 UBICACION: a 16 km al Oeste de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-R	24 cm a +; mas del 30% de gravas (tamano medio 5 cm) y fragmentos de tosca de dimensiones medias a gruesas.
-Datos analiticos Serie LA PAZ
 LATITUD:S305600
 LONGITUD:O641500
 ALTITUD:600 m.s.n.m.

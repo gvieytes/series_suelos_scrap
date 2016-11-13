@@ -2,14 +2,8 @@ Serie CANAL SAN ANTONIO
 Simbolo: CSA
 CLASIFICACION: Natracualf tipico
 TPS: fina, mixta, termica
-Son suelos desarrollados en la planicie baja del arroyo Tortugas, pobremente drenados, superficiales con serias limitaciones para los cultivos, siendo su destino mas aceptable la ganaderia. Presentan moteados en todo el perfil y contenidos variables de sales y sodio que los hace poco productivos. Generalmente en las areas de canadas la capa freatica se encuentra cerca de la superficie lo que dificulta aun mas su drenaje y los hace muy hidromorficos. Tienen en superficie un horizonte E de 15 cm sobre el Bt franco arcillo limoso. Se encuentran en los sectores mas bajos y peor drenados de las areas vecinas al canal de San Antonio.
 UBICACION: a 25 km al NE de Alicia, departamento San Justo, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btn	15-40 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en prismas medios y debiles a moderados que rompen en bloques subangulares medios debiles a moderados; muy duro en seco y friable a firme en humedo; plastico a muy plastico; muy adhesivo; muy abundantes barnices arcillosos y abundantes humicos; moteados abundantes, medios y precisos; raices comunes; limite gradual y suave.
-Btn2	40-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo claro a pardo (7,5YR5,5/4); franco limoso; estructura en bloques subangulares medios a finos y debiles; ligeramente duro a duro en seco; friable en humedo; plastico; adhesivo; escasas y finas concreciones de carbonatos; escasos barnices arcillosos; moteados abundantes, medios y precisos; raices comunes; limite inferior gradual, suave.
-BCn	 72-95 cm; color en humedo pardo fuerte (7,5YR4/6); color en seco pardo fuerte (7,5YR5/6); franco limoso; estructura en bloques subangulares finos y debiles; ligeramente duro en seco; muy friable en humedo; plastico; ligeramente adhesivo; moteados abundantes, medios y precisos; raices escasas; limite abrupto, suave.
-Ck	95 cm a +; color en humedo pardo fuerte (7,5YR5/6); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; blando a ligeramente duro en seco; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; escasas y finas concreciones de carbonatos y de FeMn; moteados abundantes medios y precisos, con la napa de agua.
-Datos analiticos Serie CANAL SAN ANTONIO
 LATITUD:S314742
 LONGITUD:O621342
 ALTITUD:100 m.s.n.m.

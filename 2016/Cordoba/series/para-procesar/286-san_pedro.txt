@@ -2,12 +2,8 @@ Serie SAN PEDRO
 Simbolo: SPd
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-Es un suelo debilmente desarrollado sobre materiales franco limosos de origen fluvial, tipico de las unidades de pie de monte en el plano oriental de la Sierra Norte de Cordoba (abanicos aluviales, conos y planicies de derrames). El primer horizonte, de 23 cm, tiene textura franco limosa con estructura en bloques subangulares medios debiles. Luego de una transicion (AC) el sustrato (horizonte C) se encuentra a 59 cm, es franco limoso, sin estructura, tiene arena gruesa en todo el perfil pero no dominante. No tiene alcalinidad ni salinidad en ningun horizonte. Es un suelo profundo, bien drenado y sin peligro de anegamiento. Dentro de la Serie San Pedro, existen pequenas variaciones en cuanto al espesor de horizontes, de no mas de 6 cm, y ligeras variaciones en el tenor de las arenas medias y gruesas.
 UBICACION: a 8,5 Km. al SO de la localidad de Gutemberg, departamento Rio Seco, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-AC	23 - 59 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; estructura en bloques subangulares medios debiles, tendencia masivo; friable en humedo; pH 7,4; raices comunes; limite inferior abrupto, suave.
-Ck	59 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; friable en humedo; pH 8,3; violenta reaccion al ClH en la masa del suelo.
-Datos analiticos Serie SAN PEDRO
 LATITUD:S294500
 LONGITUD:O633500
 ALTITUD:300 m.s.n.m.

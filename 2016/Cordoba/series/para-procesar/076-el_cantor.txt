@@ -2,13 +2,8 @@ Serie EL CANTOR
 Simbolo: ECn
 CLASIFICACION: Argiudol tipico
 TPS: franca fina, mixta, termica
-Los suelos de la Serie El Cantor son profundos y bien drenados; ocupan los planos altos y lomas extendidas en el SO de Santa Fe y Sur del departamento Marcos Juarez, provincia de Cordoba. Se han desarrollado sobre materiales originarios de textura franca. La capa arable o suelo superficial (A) tiene entre 20 y 25 cm de espesor; es de color pardo oscuro, rico en limos y bien estructurada en condiciones naturales; esta bien provista de materia organica. El subsuelo (horizonte Bt) presenta un enriquecimiento en arcilla no muy marcado pero suficiente como para constituir un nivel de acumulacion de esta fraccion mineral de aproximadamente 30 cm de espesor. Un horizonte transicional (BC) separa al subsuelo de los materiales originales (horizonte C), los cuales aparecen a los 90 o 100 cm de la superficie. Estos materiales son ricos en arenas finas y muy finas, las que constituyen el 40% de la fraccion mineral. Los suelos de la Serie El Cantor no presentan limitaciones de uso. La reaccion del suelo en todo el perfil, se encuentra dentro de un rango proximo a la neutralidad, por lo que no se debe esperar problemas de disponibilidad de nutrientes. La capa freatica se mantiene siempre a varios metros de profundidad y el suelo, se encuentra libre de sales y alcalis.
 UBICACION: a 5,5 Km al OSO de la estacion El Cantor, departamento General Lopez, provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	22-58 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco arcillosos; estructura en prismas irregulares medios moderados que rompen en bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices (ClSk) abundantes; limite inferior gradual.
-BC	58-96 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos (ClSk); limite inferior difuso.
-C	96 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie EL CANTOR
 LATITUD:S333201
 LONGITUD:O621119
 ALTITUD:115 m.s.n.m.

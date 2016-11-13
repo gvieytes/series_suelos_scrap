@@ -2,14 +2,8 @@ Serie LAS MERCEDES I
 Simbolo: McI
 CLASIFICACION: Argiustol tipico
 TPS: franca fina, mixta, termica
-La Serie Las Mercedes I es un suelo profundo, bien drenado, libre de salinidad y/o alcalinidad, desarrollado a partir de materiales de textura franca y vinculados a lomas y pendientes suaves regionales de derrames. La capa arable (horizonte A) de 21 cm de espesor, es de color pardo grisaceo muy oscuro, textura franca y estructura en bloques. Luego pasa a un horizonte mas arcilloso (Bt textural), de textura franco arcillosa, estructura prismatica y con abundantes barnices humico arcillosos que recubren la cara de los agregados. El substrato (horizonte C) se encuentra a 95 cm de profundidad, es un material de textura franca, presentando algunas gravillas. El material calcareo aparece a los 70 cm de profundidad. Son suelos agricolas, con buena retencion de humedad, aunque para cultivos adaptados climaticamente.
 UBICACION: a 1,8 km al Sur de la localidad de Avellaneda, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	21-44 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcilloso; estructura en prismas irregulares gruesos fuertes; duro en seco; plastico; adhesivo; abundantes barnices humico arcillosos medios; pH 6,7; limite inferior gradual.
-B	44-70 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco; estructura en prismas irregulares medios moderados; duro en seco; plastico; adhesivo; barnices arcillosos comunes; pH 7; limite inferior abrupto.
-BCk	70-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios moderados; ligeramente duro en seco; escasos barnices arcillosos; moderada reaccion al ClH en la masa del suelo; pH 7,8; limite inferior gradual.
-Ck	95 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; suelto en seco; muy friable en humedo; abundante material calcareo pulverulento; pH 8,2.
-Datos analiticos Serie LAS MERCEDES I
 LATITUD:S303600
 LONGITUD:O641200
 ALTITUD:740 m.s.n.m.

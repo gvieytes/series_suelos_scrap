@@ -2,13 +2,8 @@ Serie ESTANCIA LA EMILIA
 Simbolo: FALTA!
 CLASIFICACION: Natrustol tipico
 TPS: franca fina, mixta, termica
-Esta Serie corresponde a un suelo con drenaje moderado a imperfecto, con alcalinidad subsuperficial, desarrollado sobre sedimentos eolicos de textura franco arenosa fina, en relieves moderadamente deprimidos, planos y areas intermedias. La capa arable, (horizonte A) de 20 cm de espesor es franco arenosa, de color pardo grisaceo oscuro, con moderado contenido de materia organica. Le sigue hacia abajo hasta la profundidad de 50 cm un horizonte enriquecido en arcilla, iluvial (Bt) alcalino sodico con estructura en prismas fuertes, abundantes barnices de arcilla y humus en las caras de los agregados, la textura es franca. La transicion al material originario (horizonte BC) tiene textura franca aumentando la alcalinidad y se extiende hasta 80 cm de profundidad. El horizonte C o material originario del suelo con carbonatos libres es masivo con textura franca. Se ha observado que algunos perfiles pueden presentar cementaciones parciales en BC y C que no superan el 20% del total.
 UBICACION: a 2 Km al Este de la estancia La Emilia, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btn	20-50 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas fuertes medios rompe a prismas menores; ligeramente plastico; ligeramente adhesivo; pH 8,7; barnices abundantes de arcilla y humus; moteados comunes, finos y precisos; limite inferior gradual suave.
-BCn	50-80 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco; estructura en bloques moderados a debiles, tendencia prismatica; pH 9,5; moteados abundantes; barnices humico arcillosos escasos; limite inferior claro.
-Ck	80 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,8; concreciones de FeMn; violenta reaccion al ClH en la masa del suelo.
-Datos Analiticos Serie ESTANCIA LA EMILIA
 LATITUD:S335755
 LONGITUD:O630922
 ALTITUD:130 m.s.n.m.

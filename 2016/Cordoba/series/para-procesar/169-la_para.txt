@@ -2,12 +2,8 @@ Serie LA PARA
 Simbolo: LPr
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-Este suelo se ha desarrollado sobre sedimentos fluviales y aluviales de textura franco arenosa, preferentemente en los derrames y albardones proximos o adyacentes a vias fluviales actuales o mas o menos recientes (paleocauces), pertenecientes al sistema fluvial del rio Suquia (Primero). El relieve normalmente es elevado en relacion al resto de la llanura eolica y fluvial del area. Presenta un horizonte A o capa arable de textura franco arenosa con estructura en bloques moderados a debiles que se extiende hasta 22 cm. Continua hacia abajo un horizonte de transicion (AC) de textura franco arenosa y estructura masiva tendencia a bloques que se extiende hasta 53 cm. El material originario del suelo se encuentra a la profundidad indicada, masivo, el carbonato de calcio libre aparece a 80 cm de profundidad. Las limitantes en el perfil del suelo consisten en deficiencias en la fertilidad y moderada retencion de humedad por efecto de la textura "gruesa" en todo el perfil.
 UBICACION: a 5 km al NNO del paraje Capilla de la Sagrada Familia, departamento Rio Primero, Provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-AC	22-53 cm; color en humedo pardo oscuro (10YR3/3), franco arenoso, estructura en bloques debiles a masivo, friable en humedo, muy friable en humedo, no plastico, no adhesivo, pH 7,2, vestigios de raices, limite inferior gradual.
-C	53 cm a +; color en humedo pardo amarillento oscuro (10YR4/4), franco arenoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 7,9.
-Datos analiticos Serie LA PARA
 LATITUD:S311348
 LONGITUD:O632623
 ALTITUD:197 m.s.n.m.

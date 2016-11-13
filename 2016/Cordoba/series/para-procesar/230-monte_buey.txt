@@ -2,16 +2,8 @@ Serie MONTE BUEY
 Simbolo: MB
 CLASIFICACION: Argiudol tipico
 TPS: franca fina, mixta, termica
-La Serie Monte Buey es un suelo oscuro y bien drenado de las lomas casi planas (altos planos del segundo escalon), de los cauces o vias de desagues poco manifiestos y de las pendientes hacia el rio Carcarana y arroyo Saladillo. Este suelo desarrollado sobre sedimentos loessicos, es un tipico representante de los buenos suelos de la zona, con una amplia aptitud para cultivos, forrajes y pasturas, aunque ya presenta alguna limitacion climatica. La capa arable hasta una profundidad de 22 a 26 cm (horizonte A), es de textura franco limosa, estructura en bloques y granular, de color pardo oscuro a pardo grisaceo muy oscuro. Hacia abajo, pasa a otro horizonte mas arcilloso (horizonte Bt) que se extiende aproximadamente desde los 25 cm hasta mas o menos 60 cm. Su color es pardo a pardo oscuro, su estructura prismatica y presenta abundantes barnices en las caras de los agregados. La transicion entre el Bt y el loess del sustrato (horizonte C) es gradual. Este ultimo se encuentra a una profundidad de 90 cm; es un material franco limoso, suelto y con moderada cantidad de calcareo libre en la masa a partir de 105 cm de profundidad. Los suelos de la Serie Monte Buey son fertiles, con alto contenido de materia organica y moderada retencion de humedad; se los usa tanto para agricultura como para ganaderia. Tambien se han reconocido fases por pendiente, cuando ocupan posiciones inclinadas del relieve; en los sectores donde presentan sintomas de hidromorfismo, ha sido cartografiada como la fase moderadamente bien drenada. Dentro de la Serie Monte Buey existen algunas variaciones en el espesor del horizonte A entre 18 a 24 cm y la profundidad del solum entre 85 a 100 cm.
 UBICACION: a 6 Km al ESE de la localidad de Monte Buey, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	14-22 cm; color en humedo pardo muy oscuro (10YR2/2); color en seco pardo grisaceo a pardo grisaceo oscuro (10YR4,5/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; limite inferior claro, suave.
-Bt	22-43 cm; color en humedo pardo grisaceo pardo (10YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados que rompe a bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes medios; limite inferior claro, suave.
-B	43-60 cm; color en humedo pardo oscuro a pardo (7,5YR4/2); franco limoso; estructura en bloques subangulares con tendencia a prismas irregulares; friable en humedo; ligeramente plastico; no adhesivo; barnices "Clay Skins" escasos finos; limite inferior gradual.
-BC	60-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares que rompe a masivo; friable en humedo; barnices "Clay Skins" muy escasos y finos; limite inferior gradual.
-C	92-104 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; limite inferior abrupto, suave.
-Ck	104 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; moderado contenido de calcareo libre en la masa del suelo.
-Datos analiticos Serie MONTE BUEY
 LATITUD:S325815
 LONGITUD:O622410
 ALTITUD:105 m.s.n.m.

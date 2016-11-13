@@ -2,14 +2,8 @@ Serie ARROYITO
 Simbolo: FALTA!
 CLASIFICACION: Natracualf tipico
 TPS: fina, mixta, termica
-Suelos imperfectamente drenados, desarrollados a partir de sedimentos loessicos de textura franco limosa a franco arcillo limosa, dentro de un paisaje de planos tendidos ligeramente deprimidos. El horizonte superficial (Ap), presenta sintomas de lixiviacion, lo que indica una saturacion periodica del suelo con agua. La estructura es debil y los agregados inestables. A partir de los 13 cm se encuentra un horizonte enriquecido con arcilla (Btn), de textura franco arcillo limosa a arcillo limosa y estructura columnar gruesa fuerte, con abundantes barnices en la cara de los agregados. Este horizonte es muy poco permeable, constituyendose en un impedimento para el pasaje del agua a traves del perfil. Gradualmente se pasa al material originario (horizonte Ck), encontrandose este a 80 cm de profundidad. El perfil presenta alcalinidad sodica debil a partir de los 13 cm de profundidad incrementandose a partir de los 35 cm de profundidad, donde el sodio alcanza el 18% de los cationes de intercambio. La salinidad es debil en profundidad. Por lo general, estos suelos son dedicados a pasturas, ya que no son aptos para ninguno de los cultivos comunes de la zona.
 UBICACION: a 7,8 km al NO de la localidad de Arroyito, departamento San Justo, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	13-35 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso a arcillo limoso; estructura columnar gruesa fuerte y prismas medios fuertes; friable en humedo; plastico; adhesivo; abundantes barnices medios; moteados abundantes, finos y precisos; limite inferior claro, suave.
-Btn	35-53 cm; color en humedo pardo oscuro (7,5YR3,5/4); franco arcillo limoso; estructura en prismas irregulares medios moderados; plastico; ligeramente adhesivo; barnices arcillosos comunes y medios; moteados abundantes finos y medios precisos; limite inferior gradual, suave.
-BC	53-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos finos; moteados abundantes, finos y precisos; durinodulos comunes; limite inferior abrupto.
-Ck	80 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; ligeramente plastico; no adhesivo; moderado contenido de calcareo pulverulento en la masa del suelo y escasas concreciones de carbonato de calcio.
-Datos analiticos Serie Arroyito
 LATITUD:S312150
 LONGITUD:O630748
 ALTITUD:157 m.s.n.m.

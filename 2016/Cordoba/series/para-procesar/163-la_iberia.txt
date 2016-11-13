@@ -2,15 +2,8 @@ Serie LA IBERIA
 Simbolo: FALTA!
 CLASIFICACION: Argiustol udico
 TPS: franca fina, mixta, termica
-La Serie La Iberia es un suelo bien drenado a algo excesivamente drenado, desarrollado sobre materiales franco o franco arenosos, en reas de derrame. Los 25 primeros cm, que constituyen la capa arable, son de color pargo grisaceo oscuro, textura franco arenosa y estructura en bloques o debilmente granular. Hacia abajo se pasa a un horizonte algo mas arcilloso (Bt) franco a franco arenoso, con estructura moderada en bloques. La profundidad de lo que se considera "solum" (A+B) es de aproximadamente 88 cm. A partir de esta profundidad, y separado por una discontinuidad litologica, comienza un material de textura mas limosa. Los suelos de esta Serie nunca aparecen en las cartas formando unidades puras sino generalmente asociados a la Serie Saira.
 UBICACION: a 8 Km al NNO de la localidad de Saira, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2)
-A	17-25 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arenoso; estructura en bloques subangulares medios debiles tendencia a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior claro, suave.
-Bt	25-55 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco arenoso; estructura en bloques subangulares medios moderados; duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes; limite inferior claro, suave.
-Bt2	55-88 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes, finos; limite inferior claro, suave.
-2	88-119 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso a franco; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; barnices "Clay Skins" escasos y finos; limite inferior abrupto, suave.
-3k	119 cm a +; color en humedo pardo claro a pardo (7,5YR5,5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; abundante calcareo diseminado en la masa del suelo.
-Datos Analiticos Serie LA IBERIA
 LATITUD:S322113
 LONGITUD:O620936
 ALTITUD:96 m.s.n.m.

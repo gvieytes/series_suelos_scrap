@@ -2,16 +2,8 @@ Serie SAN FRANCISCO
 Simbolo: SFr
 CLASIFICACION: Argiudol tipico
 TPS: fina, mixta, termica
-Son suelos profundos, bien a moderadamente bien drenados, desarrollados a partir de materiales loessicos de textura franco limosa, en un paisaje de lomas planas con desniveles comprendidos entre 0,05 y 0,1%. La capa arable (Ap + A), tiene un espesor de 21 cm, de textura franco arcillo limosa y color pardo grisaceo muy oscuro, estructura en bloques subangulares medios moderados a fuertes. Hacia abajo, se encuentra un horizonte enriquecido en arcilla (Bt y Bt2) de textura arcillo limosa y estructura prismatica. La transicion al material original (horizonte C) es gradual, encontrandose este ultimo a una profundidad promedio de 125 cm.
 UBICACION: a 10 Km al NNO de Estacion Luxardo, departamento San Justo, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	10-21 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; raices comunes; limite inferior abrupto, suave.
-BA	21-34 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares finos y bloques subangulares medios y finos moderados; friable en humedo; plastico; adhesivo; barnices escasos y finos; limite inferior claro, suave.
-Bt	34-72 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso; estructura en prismas irregulares medios moderados rompen a bloques subangulares; friable en humedo; plastico; adhesivo; abundantes barnices medios; limite inferior claro, suave.
-Bt2	72-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados rompen a bloques subangulares; friable en humedo; plastico; ligeramente adhesivo; barnices comunes y medios; limite inferior gradual, suave.
-BC	97-126 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices escasos y finos; limite inferior difuso.
-C	126 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie SAN FRANCISCO
 LATITUD:S311300
 LONGITUD:O621009
 ALTITUD:107 m.s.n.m.

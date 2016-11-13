@@ -2,14 +2,8 @@ Serie LA BELGICA
 Simbolo: LBg
 CLASIFICACION: Hapludol tipico
 TPS: franca gruesa, mixta, termica
-Es un suelo oscuro y bien drenado de las lomas casi planas y de las lineas o vias de desague. Este suelo, desarrollado sobre materiales franco limosos, tiene una amplia aptitud para cultivos, forrajes y pasturas, aunque ya presentan alguna limitacion climatica. La capa arable de 20 cm de espesor, es de color pardo muy oscuro, de textura limosa, estructura en bloques y granular. Luego pasa a otro horizonte algo mas arcilloso (horizonte Bw, no textural) que se extiende desde 20 hasta 46 cm. Su color es pardo amarillento oscuro, estructura prismatica y presenta algunos barnices en la cara de los agregados. La transicion entre el Bw y el substrato (horizonte C) es gradual, encontrandose este a una profundidad de 85 cm, es de textura franco limosa, suelta y con abundante calcareo libre en la masa a partir de 120 cm de profundidad. Los suelos de la Serie La Belgica no tienen limitaciones fisico-quimicas para el crecimiento de las plantas, aunque presentan una limitacion de uso de orden climatico, dado el regimen de precipitaciones bajo el cual se encuentran y la capacidad de retencion de humedad de los suelos que decrece rapidamente en profundidad.
 UBICACION: a 16 Km al SO de la localidad de Isla Verde, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo muy oscuro (10YR2/2)
-Bw	20-46 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en prismas irregulares medios debiles a moderados; rompe a bloques; friable en humedo; ligeramente plastico; barnices "Clay Skins" escasos, finos a medios; limite inferior claro, suave.
-BC	46-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, debiles; friable en humedo; barnices "Clay Skins" escasos; limite inferior difuso, suave.
-C	85-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; limite inferior abrupto, ondulado.
-Ck	120 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante calcareo libre en la masa y en concreciones.
-Datos analiticos Serie LA BELGICA
 LATITUD:S331901
 LONGITUD:O622825
 ALTITUD:117 m.s.n.m.

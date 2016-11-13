@@ -2,12 +2,8 @@ Serie LOS PORTENOS
 Simbolo: LPn
 CLASIFICACION: Natralbol tipico
 TPS: franca fina, mixta, termica
-La Serie Los Portenos, es un suelo moderadamente bien drenado a imperfectamente drenado, vinculado a sectores bajos de relieve concavo, dentro de lomas arenosas onduladas. El horizonte Ap (capa arable) de 19 cm de espesor, es de color pardo grisaceo muy oscuro, de textura franca y estructura en bloques, luego pasa en forma abrupta a un horizonte mas claro, de textura franca y estructura masiva (E), a los 57 cm de profundidad y en forma abrupta pasa a un horizonte con mayor contenido de arcilla, estructura prismatica y mas del 20% de sodio intercambiable, que limitan el desarrollo normal de las raices. Presentan moteados desde la superficie, que senalan impedimentos en el drenaje del suelo. El clima y elevado contenido de sodio intercambiable a partir de los 57 cm son las limitaciones de estos suelos.
 UBICACION: a 3 Km al SO de la estacion Pegasano del FCGSM, departamento General Roca, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-E	19-57 cm; color en humedo pardo oscuro (10YR3/3); franco; masivo; friable en humedo; muy escasos barnices arcillosos; moteados abundantes, medios y precisos; limite inferior abrupto, ondulado.
-Btn	57 cm a +; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en prismas irregulares medios moderados; ligeramente firme en humedo; barnices arcillosos "Clay Skins" comunes y medios; moteados abundantes, medios y precisos.
-Datos analiticos Serie LOS PORTENOS
 LATITUD:S343750
 LONGITUD:O644415
 ALTITUD:240 m.s.n.m.

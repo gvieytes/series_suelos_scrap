@@ -2,15 +2,8 @@ Serie VILLA ELOISA
 Simbolo: VE
 CLASIFICACION: Argiudol tipico
 TPS: limosa fina, illitica, termica
-La Serie Villa Eloisa es un suelo oscuro, profundo, bien drenado, que se presenta en las lomas y pendientes de un area muy limitada entre el pilar tectonico de Armstrong y el arroyo Tortugas al Oeste, el rio Carcarana al Sur y la localidad de Villa Eloisa al Este. Corresponde, por lo tanto, al area de confluencia de las dos cuencas. La capa arable tiene menos de 20 cm de espesor, es de textura franco limosa y estructura en bloques subangulares. Esta capa arable, en general, apoya directamente sobre el horizonte Bt aunque en algunos casos puede describirse un horizonte transicional BA, si no ha sido mezclado con la arada. El horizonte Bt se extiende desde los 25 cm de profundidad hasta los 55 o 60 cm, es de color mas rojizo, de textura franco arcillo limosa, estructura en prismas irregulares medios. El sustrato (horizonte C) suele aparecer a los 100 cm de profundidad, es un material loessico, friable y de textura franco limosa. Esta Serie esta definida para una pendiente entre 1 y 3%, area moderadamente ondulada y con una erosion hidrica ligera. Cuando este suelo esta en pendiente, el espesor del Bt puede ser algo menor.
 UBICACION: a 11 Km al Oeste de Villa Eloisa, provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-BA	10-23 cm; color en humedo pardo oscuro (7,5YR3,5/2); color en seco pardo (7,5YR5/2); franco arcillo limoso; estructura en prismas irregulares medios debiles que rompe en bloques angulares y subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos; raices escasas; limite inferior claro, suave.
-Bt	23-40 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); color en seco pardo (7,5YR5/2); franco arcillo limoso; estructura en prismas irregulares medios moderados que rompe en prismas irregulares finos moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes; raices escasas; limite inferior gradual, suave.
-Bt2	40-57 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); color en seco pardo (7,5YR5/2); franco arcillo limoso; estructura en prismas irregulares medios moderados que rompe en prismas irregulares debiles; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes; raices escasas; limite inferior gradual, suave.
-BC	57-96 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo (7,5YR5/4); franco limoso; estructura en prismas irregulares medios debiles que rompe en bloques angulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" escasos; raices escasas; limite inferior difuso.
-C	96 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; nodulos cementados.
-Datos analiticos Serie VILLA ELOISA
 LATITUD:S325722
 LONGITUD:O613948
 ALTITUD:112 m.s.n.m.

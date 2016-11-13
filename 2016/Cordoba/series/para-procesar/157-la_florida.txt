@@ -2,14 +2,8 @@ Serie LA FLORIDA
 Simbolo: FALTA!
 CLASIFICACION: Natracualf tipico
 TPS: fina, illitica, termica
-Son suelos alcalino-sodicos, ligeramente salinos e imperfectamente drenados. Se han desarrollado a partir de sedimentos franco limosos y se vinculan geograficamente a los planos deprimidos del arroyo Tortugas. Los primeros 15 cm de suelo son de color pardo grisaceo oscuro, textura entre franca limosa y franca arcillo limosa y estructura en bloques. Luego pasa bruscamente a un horizonte mas arcilloso (Bt) de color pardo a pardo oscuro, estructura prismatica y abundantes moteados que senalan condiciones hidromorficas. A partir de los 96 cm, estos suelos muestran un horizonte cementado formando un "duripan". Por lo general, estan destinados a pasturas ya que la acumulacion de las limitaciones mencionadas no los hace aptos para los cultivos comunes en la zona. Ocupan manchones de tamano variable en unidades cartograficas compuestas, comunmente asociado con suelos de las Series Colonia Mendiguren y Arroyo Tortugas.
 UBICACION: a 12,5 Km al Oeste de la localidad de Montes de Oca, departamento Belgrano, provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2)
-Btn	15-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas irregulares medios moderados, rompen en bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" muy abundantes, medios y gruesos; moteados abundantes, finos a medios y precisos; escasas concreciones calcareas finas; limite inferior gradual, suave.
-Btn2	52-72 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; estructura en prismas irregulares medios debiles y bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" abundantes, medios; moteados abundantes, medios y precisos; escasas concreciones calcareas finas; limite inferior gradual, suave.
-BC	72-96 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices "Clay Skins" escasos y finos; moteados abundantes, finos y precisos; abundantes durinodulos gruesos; concreciones calcareas escasas y finas; limite inferior abrupto, ondulado.
-BCm	96 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso a franco limoso; cementado; duro; ligeramente plastico; ligeramente adhesivo; escasas concreciones calcareas finas; barnices "Clay Skins" escasos y finos; moteados comunes, finos y precisos.
-Datos Analiticos Serie LA FLORIDA
 LATITUD:S323400
 LONGITUD:O615400
 ALTITUD:79 m.s.n.m.

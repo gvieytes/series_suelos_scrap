@@ -2,17 +2,8 @@ Serie CASILDA
 Simbolo: Ca
 CLASIFICACION: Argiudol tipico
 TPS: fina, illitica, termica
-La Serie Casilda es un suelo oscuro, profundo y bien drenado, que ocupa los planos altos muy suavemente ondulados. El perfil de este suelo presenta un horizonte superficial (Ap) de 18 cm de espesor y textura franco limosa con 20% de arcilla. Le sigue un horizonte transicional (B) algo mas arcilloso y bien estructurado. A los 27 cm de profundidad se encuentra el Bt de 77 cm de espesor, textura franco arcillo limosa a arcillo limosa y estructura en prismas fuertes. El mayor contenido de arcilla del perfil se encuentra en este horizonte y es del 46%. El horizonte C (material originario) aparece entre los 125 y 135 cm de profundidad, con 20% de arcilla y 68% de limo. La capa freatica siempre se encuentra a varios metros de profundidad. Las variaciones se observan principalmente en el espesor y el contenido de arcilla del Bt. Este horizonte puede tener entre 60 y 80 cm, con 42 a 47% de arcilla.
 UBICACION: a 3,5 Km al NO de la localidad de Casilda, departamento Caseros, provincia de Santa Fe.
 COLOR: color en humedo pardo muy oscuro (10YR2/2)
-B	18-27 cm; color en humedo pardo oscuro (10YR3/3); color en seco pardo (10YR5/3); franco arcillo limoso; estructura en prismas irregulares medios fuertes que rompen en bloques subangulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; barnices "clay skins" abundantes; escasas raices; limite inferior claro, suave.
-Bt	27-48 cm; color en humedo pardo oscuro (7,5YR3/2); color en seco pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados que rompen en bloques angulares medios moderados; friable en humedo; plastico; adhesivo; barnices "clay skins" abundantes; raices escasas; limite inferior claro, suave.
-Bt2	48-76 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); color en seco pardo (7,5YR5/2); arcillo limoso; estructura en prismas regulares medios gruesos fuertes que rompen en bloques angulares medios moderados; firme en humedo; muy plastico; muy adhesivo; barnices "clay skins" abundantes; raices escasas; limite inferior gradual, suave.
-Bt3	76-104 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en prismas irregulares medios y moderados que rompen en bloques angulares medios moderados; friable en humedo; plastico; adhesivo; barnices "clay skins" abundantes; debilmente cementado; limite inferior gradual, suave.
-BC	104-128 cm; color en humedo pardo (7,5YR4,5/4); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en prismas regulares medios y debiles que rompen en bloques angulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior gradual, suave.
-C	128-180 cm; color en humedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; friable en humedo; debilmente cementado en nodulos; limite inferior abrupto, suave.
-Ck	180 cm a +; color en humedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; moderada cantidad de carbonatos libres en la masa; concreciones calcareas escasas.
-Datos analiticos Serie CASILDA
 LATITUD:S330100
 LONGITUD:O611245
 ALTITUD:101 m.s.n.m.

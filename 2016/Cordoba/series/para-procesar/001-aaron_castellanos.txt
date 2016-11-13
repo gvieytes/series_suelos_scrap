@@ -2,13 +2,8 @@ Serie AARON CASTELLANOS
 Simbolo: AC
 CLASIFICACION: Natralbol tipico
 TPS: limosa fina, mixta, termica
-La Serie Aaron Castellanos es un suelo profundo de textura media y pobremente drenado, levemente acido en superficie y alcalino sodico en el subsuelo. Ocupa la periferia o aureolas de las depresiones y los planos bajos y tendidos de drenaje impedido. El suelo en superficie es de textura franca a franco arenosa, en sus primeros 18 cm es mas pardo grisaceo oscuro (horizonte A) y moderadamente estructurado, mientras que en su base y hasta los 30 cm se hace mas claro (grisaceo), masivo y menos arcilloso (horizonte E). En profundidad aumenta la cantidad de arcilla, encontrandose el horizonte mas pesado del perfil (horizonte Btn), que tiene un espesor de alrededor de 35 cm, textura franco arcillosa, con estructura semicolumnar debil. Su reaccion es alcalina por exceso de sodio en el complejo de intercambio. La transicion hacia el material originario es muy gradual. El horizonte C comienza antes de 1 m de profundidad, es franco y presenta caracteristicas de hidromorfismo. Se encuentra comunmente en todo el perfil moteados de Fe y el tenor de sodio se mantiene elevado en profundidad, donde aparecen tambien concreciones de CO3Ca y nodulos cementados. En este suelo la capa freatica puede hallarse cercana a la superficie y en general satura la parte inferior del perfil gran parte del ano. Las limitaciones de uso principales estan dadas por las malas condiciones fisicas del subsuelo determinadas por la presencia de sodio, el drenaje imperfecto condicionado por la freatica cercana, la permeabilidad restringida en el subsuelo, y el anegamiento resultante de la lentitud con que elimina el agua superficial por escurrimiento.
 UBICACION: en el departamento General Lopez, provincia de Santa Fe, a 18,5 km al SSE de la Estacion Sancti Spiritu del FCGBM.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-E	18-32 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso; estructura en bloques subangulares fuertes; muy friable en humedo; duro en seco; limite inferior abrupto, ondulado.
-Btn	32-69 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arcilloso; estructura semicolumnar media, debil; firme en humedo; muy duro en seco; plastico; adhesivo; limite inferior claro, ondulado.
-BCn	69 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arcilloso; estructura en bloques angulares irregulares medios moderados; friable en humedo; duro en seco; plastico; ligeramente adhesivo; moteados de Fe abundantes, medios y precisos; ligeramente cementado.
-Datos analiticos Serie AARON CASTELLANOS
 LATITUD:S341021
 LONGITUD:O615100
 ALTITUD:95 m.s.n.m.

@@ -2,13 +2,8 @@ Serie ACHALA III
 Simbolo: FALTA!
 CLASIFICACION: Endoacuol litico paralitico
 TPS: esqueletica, franca, mixta, termica
-Es un suelo imperfectamente drenado desarrollado sobre rocas graniticas alteradas. Se lo encuentra en sectores altos del relieve pero en posiciones concavas, caracterizados por la presencia de humedad en todo el perfil durante la mayor parte del tiempo. Tiene un horizonte superior muy enriquecido en materia organica parcialmente descompuesta de unos 8 cm de espesor con gran cantidad de raices y textura franco arcillo limosa. Le sigue a continuacion un horizonte ligeramente enriquecido en arcilla hasta los 29 cm con estructura en prismas. A mayor profundidad continua una capa mas arenosa endurecida (granito parcialmente alterado) con algunos barnices y gravilla abundante. Este suelo tiene escurrimiento medio a lento con baja permeabilidad por la presencia de la roca granitica semi-alterada, nutre las aguas de escurrimiento de areas mas altas y todo el perfil esta humedo a mojado. Puede sufrir anegamientos frecuentes de corta duracion.
 UBICACION: en la parte alta y Sur de la estancia La Trinidad, departamento San Alberto, provincia de Cordoba.
 COLOR: color en humedo gris muy oscuro (10YR3/1)
-Bw	8-29 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en prismas regulares gruesos que rompen a prismas; friable en humedo, plastico; adhesivo; pH 5,5; barnices humico arcillosos abundantes medios; raices abundantes; limite inferior abrupto suave.
-2BC	29-50 cm; franco limoso con arena de tipo media gruesa; masivo; ligeramente firme en profundidad; no plastico; no adhesivo; barnices humico arcillosos escasos y finos; vestigios de raices.
-3R	50 cm a +; roca parcialmente alterada.
-Datos analiticos Serie ACHALA III
 LATITUD:S314200
 LONGITUD:O645120
 ALTITUD:2083 m.s.n.m.

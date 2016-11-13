@@ -2,13 +2,8 @@ Serie TERCERA USINA
 Simbolo: TU
 CLASIFICACION: Haplustol paquico
 TPS: franca gruesa, mixta, termica
-Ocupa parcialmente las terrazas altas de los rios Soconcho y Ctalamochita (Tercero) en un relieve muy suavemente inclinado hacia las vias fluviales indicadas asociado con otros suelos. Se pueden observar capas de granulometrias intermedias no extremas, donde varian los porcentajes de arcilla y limo y el tamano de la fraccion arena. Este suelo es bien drenado a algo excesivamente drenado, caracterizandose principalmente por tener el horizonte superior engrosado con materia organica hasta la profundidad de 50 cm; por debajo no presenta desarrollo de otros horizontes geneticos. Las limitantes son exclusivamente climaticas presentado buenas caracteristicas o propiedades para el desarrollo de los cultivos comunes de la region.
 UBICACION: a 7 km al NO de Las Bajadas, departamento Calamuchita, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-2A	25-50 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; friable en humedo; no plastico; no adhesivo; pH 6,4; raices escasas; limite inferior claro.
-2AC	50-80 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; pH 6,6; escasas raices; limite inferior gradual.
-2C	80 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo y laminar debil; friable en humedo; no plastico; no adhesivo; pH 6,7.
-Datos analiticos Serie TERCERA USINA
 LATITUD:S320310
 LONGITUD:O642230
 ALTITUD:555 m.s.n.m.

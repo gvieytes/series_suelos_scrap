@@ -2,15 +2,8 @@ Serie LA VICTORIA
 Simbolo: LVt
 CLASIFICACION: Natralbol tipico
 TPS: franca gruesa, mixta, termica
-La Serie La Victoria es un suelo salino alcalino, moderadamente bien drenado, desarrollado sobre materiales franco a franco arenosos, de areas deprimidas ubicadas en un pequeno sector SO. La parte superficial del suelo de 30 cm de espesor, es de textura franca a franco arenosa. La parte superior (horizonte Ap) es de color pardo oscuro, estructura en bloques y llega hasta los 17 cm aproximadamente, la parte inferior (horizonte E) es algo mas claro, estructura masiva a bloques debiles y con moteados finos de Fe. Luego pasa en forma abrupta a un horizonte mas arcilloso (horizonte Bt), de textura franca, de color pardo amarillento oscuro y estructura prismatica con escasos barnices humico arcillosos; la base de este horizonte se extiende hasta los 54 cm. El material originario (horizonte C) aparece a los 73 cm de profundidad; es de textura franca a franco arenosa, masiva, muy friable y con abundante calcareo diseminado en la masa del suelo a partir de los 90 cm de profundidad. La alcalinidad sodica y la salinidad limitan el uso de este suelo.
 UBICACION: a 21,3 km al SO de Wenceslao Escalante, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Ez	17-30 cm; color en humedo pardo (10YR5/3); franco arenoso a franco; masivo con tendencia a estructura en bloques debiles; muy friable en humedo; moteados comunes, finos y precisos; limite inferior abrupto, suave.
-Btn	30-54 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas irregulares medios moderados, rompen en bloques; friable en humedo; abundantes barnices humico arcillosos medios; moteados abundantes, medios y precisos; escasas concreciones calcareas muy finas; limite inferior gradual, suave.
-BC	54-73 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arenoso; estructura en bloques subangulares medios debiles; muy friable en humedo; escasos barnices arcillosos finos; moteados comunes, medios y precisos; pequenos nucleos cementados; escasas concreciones calcareas muy finas; limite inferior gradual, suave.
-Cz	73-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco a franco arenoso; masivo; muy friable en humedo; escasas concreciones calcareas finas; limite inferior abrupto, suave.
-Ckz	90 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco arenoso; masivo; muy friable en humedo; abundante calcareo diseminado en la masa del suelo.
-Datos analiticos Serie LA VICTORIA
 LATITUD:S331813
 LONGITUD:O625603
 ALTITUD:114 m.s.n.m.

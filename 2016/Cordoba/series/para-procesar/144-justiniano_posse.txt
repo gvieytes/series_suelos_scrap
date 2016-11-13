@@ -2,14 +2,8 @@ Serie JUSTINIANO POSSE
 Simbolo: JP
 CLASIFICACION: Duracuol argico
 TPS: fina, illitica, termica
-La Serie Justiniano Posse es un suelo algo profundo e imperfectamente drenado, desarrollado sobre materiales franco limosos y se vincula a los pozos o charcos de infiltracion y a la parte central de las lineas o vias de desague bien manifiestos dentro de un paisaje de lagunas intercomunicadas y de planos altos. En superficie el suelo es de textura franco limosa a franco arcillo limosa; los primeros 28 cm (horizonte A) son de color pardo oscuro, con alto contenido de materia organica, mientras que en su base y hasta los 40 cm se hace mas claro y con material decolorado (horizonte E); este cuando esta seco es duro y presenta abundantes moteados. Hacia abajo aumenta bruscamente el contenido de arcilla (horizonte Bt), de textura arcillo limosa a franca arcillo limosa y estructura prismatica gruesa; en la base de este horizonte, a partir de los 90 cm se encuentra fuertemente cementado formando un "duripan". Por su posicion en areas de relieve concavo y por su escasa permeabilidad, suele anegarse cuando llueve. Dentro de la Serie Justiniano Posse existen algunas variaciones en el espesor del horizonte A (de 15 a 32 cm) con contenidos de arcilla que oscilan entre 28 a 35%. Algunos suelos de esta Serie acusan la presencia de un debil tenor de sodio intercambiable y sales solubles en profundidad.
 UBICACION: a 11,4 Km al ENE de la localidad de Justiniano Posse, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	15-28 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados abundantes, finos y precisos; limite inferior claro, suave.
-E	28-40 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios moderados con debil tendencia laminar; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados abundantes finos y precisos; limite inferior abrupto, suave.
-Bt	40-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); arcillo limoso; estructura en prismas gruesos y medios moderados, rompe a prismas menores; duro en seco; friable en humedo; plastico; adhesivo; barnices abundantes, gruesos de color negro (10YR2/1); moteados abundantes, finos y precisos; limite inferior abrupto, suave.
-Btm	90 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); arcillo limoso; muy cementado; extremadamente duro en seco; escasa cantidad de carbonatos libres en la masa.
-Datos Analiticos Serie JUSTINIANO POSSE
 LATITUD:S325146
 LONGITUD:O623313
 ALTITUD:111 m.s.n.m.

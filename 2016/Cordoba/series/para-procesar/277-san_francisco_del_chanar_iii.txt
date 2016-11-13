@@ -2,12 +2,8 @@ Serie SAN FRANCISCO DEL CHANAR III
 Simbolo: FALTA!
 CLASIFICACION: Calciustol petrocalcico
 TPS: franca fina a limosa fina, mixta, termica
-Este suelo es algo excesivamente drenado, desarrollado sobre sedimentos eolicos de textura franco limosa a franco arcillo limosa, en los sectores de lomas onduladas y pendientes de la meseta de San Francisco del Chanar. El horizonte superior, de 24 cm de espesor es franco limoso, con estructura en bloques subangulares moderados, de color oscuro, con 4,9% de CO3Ca libre y 1,3% de materia organica. Sigue hacia abajo un horizonte algo mas claro, de textura franco arcillo limosa a franco limosa con 9,3% de carbonatos libres. A una profundidad de 40 cm continua un horizonte cementado (Ckm) con carbonato de calcio, duro en seco y humedo, quebradizo, dificilmente penetrable con herramientas manuales y raices. Este suelo se encuentra limitado por profundidad efectiva, clima, fertilidad natural y susceptibilidad a la erosion hidrica.
 UBICACION: a 4 Km. al Este de San Francisco del Chanar, en el departamento Sobremonte, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-ACk	24 - 40 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso a franco limoso; estructura en bloques debiles a masivo; friable en humedo; ligeramente plastico, ligeramente adhesivo, pH 7,7; violenta reaccion al ClH en la masa del suelo; vestigios de raices; limite inferior abrupto.
-Ckm	40 cm a +; horizonte petrocalcico quebradizo, compacto y en lentes.
-Datos analiticos Serie SAN FRANCISCO DEL CHANAR III
 LATITUD:S294700
 LONGITUD:O635900
 ALTITUD:715 m.s.n.m.

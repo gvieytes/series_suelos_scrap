@@ -2,15 +2,8 @@ Serie SAN JOSE
 Simbolo: SJo
 CLASIFICACION: Natracuol tipico
 TPS: limosa fina, mixta, termica
-La Serie San Jose es un suelo imperfectamente drenado, salino alcalino y se vincula a los bajos de las nacientes del Saladillo. Presenta una capa superficial muy arcillosa de 18 cm de espesor, de color negro, con elevado contenido de materia organica, producto de la acumulacion de materiales arrastrados de las partes altas formando una clara discontinuidad con el resto del perfil. Luego pasa en forma abrupta a un horizonte mas claro (E), con bajo contenido de materia organica, de textura franca y estructura en bloques debiles con tendencia a masiva. El horizonte Bt, de textura franco arcillosa, de color pardo, estructura semicolumnar y prismatica con abundantes barnices humico-arcillosos, se extiende de 28 a 70 cm de profundidad. El material originario (horizonte Ck) se encuentra a 100 cm de profundidad, de textura franco arenosa, masiva y con abundante calcareo diseminado en la masa del suelo. La fuerte alcalinidad sodica, el elevado contenido de sales solubles y el drenaje impedido limitan considerablemente la aptitud de estos suelos.
 UBICACION: a 13 km al NO de la estancia La Noria, departamento Union, provincia de Cordoba.
 COLOR: color en humedo negro (10YR2/1)
-2E	18-28 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco; estructura en bloques subangulares medios debiles, rompen a masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; moteados comunes, finos, precisos; limite inferior abrupto, ondulado.
-2Btn	28-40 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcilloso; estructura semicolumnar medios moderados, rompe a prismas irregulares; ligeramente firme en humedo; plastico; adhesivo; muy abundantes barnices humico-arcillosos medios y gruesos; moteados comunes, finos, precisos; limite inferior claro, suave.
-2Btnz	40-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcilloso; estructura en bloques subangulares medios moderados; friable en humedo; abundantes barnices arcillosos finos y medios; moteados abundantes, finos, precisos; limite inferior gradual, suave.
-2BCz	70-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; estructura en bloques subangulares medios debiles a masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos finos; moteados abundantes, medios, precisos; limite inferior abrupto, suave.
-2Ckz	100 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, finos, precisos; abundante calcareo diseminado en la masa.
-Datos Analiticos Serie SAN JOSE
 LATITUD:S332351
 LONGITUD:O625537
 ALTITUD:111 m.s.n.m.

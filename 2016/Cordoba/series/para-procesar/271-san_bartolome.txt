@@ -2,13 +2,8 @@ Serie SAN BARTOLOME
 Simbolo: FALTA!
 CLASIFICACION: Argiustol tipico
 TPS: franca gruesa, mixta, termica
-Esta Serie agrupa suelos profundos, bien drenados, desarrollados a partir de materiales loessicos franco limosos, vinculados a relieves concavos y vias de escurrimiento. Es un suelo bien desarrollado, con un horizonte A de 23 cm de profundidad con moderado contenido de materia organica. Se continua con un horizonte argilico (Bt) de textura franca a franco limosa. Despues de un horizonte transicional BC, el horizonte C aparece a 74 cm.
 UBICACION: a 1 Km al SO de San Bartolome, departamento Rio Cuarto, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	23-46 cm; color en humedo pardo oscuro (7,5YR3/2); franco a franco limoso; estructura en prismas irregulares medios moderados que rompen a bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundantes barnices finos; limite inferior gradual.
-BC	46-74 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices finos; limite inferior gradual.
-C	74 cm a +; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo.
-Datos analiticos Serie SAN BARTOLOME
 LATITUD:S324555
 LONGITUD:O644425
 ALTITUD:750 m.s.n.m.

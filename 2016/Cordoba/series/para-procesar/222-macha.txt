@@ -2,14 +2,8 @@ Serie MACHA
 Simbolo: Mch
 CLASIFICACION: Argiustol tipico
 TPS: franca fina, mixta, termica
-Este suelo se ha desarrollado a partir de sedimentos loessicos de textura franco limosa, en situaciones relativamente altas del relieve, sobre depositos eolicos profundos que cubren abanicos, conos y cerrillos. La situacion en el relieve ha impedido la influencia fluvial posterior a la depositacion del loess, de manera que este se encuentra en su forma mas pura. La pendiente normalmente se encuentra en 1% o algo mas, inclusive hasta 3% en fases moderadamente inclinadas. Presenta un horizonte A o capa arable de 22 cm de espesor de textura franco limosa con 23% de arcilla y 65% de limo, practicamente sin arenas gruesas. Sigue hacia abajo un horizonte subsuperficial enriquecido en arcillas iluviales (Bt) de textura franco arcillo limosa y 30% de arcillas con estructura en prismas, se extiende hasta 42 cm. Luego de una transicion (horizonte BC), el material parental del suelo se encuentra a 62 cm, es franco limoso con 21% de arcilla. El material calcareo pulverulento comienza a 85 cm de profundidad (Ck).
 UBICACION: a 4 km al Sur de Macha, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	22-42 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; plastico; ligeramente adhesivo; pH 6,7; barnices comunes de arcilla y humus; raices comunes; limite inferior gradual.
-BC	42-62 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco arcillo limoso a franco limoso; estructura en bloques y prismas debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,9; escasos barnices arcillosos finos; vestigios de raices; limite inferior gradual.
-C	62-85 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; ligeramente plastico; no adhesivo; pH 7; limite inferior abrupto ondulado.
-Ck	85 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; pH 8,2; moderada reaccion al ClH en la masa del suelo.
-Datos analiticos Serie MACHA
 LATITUD:S303739
 LONGITUD:O640845
 ALTITUD:650 m.s.n.m.

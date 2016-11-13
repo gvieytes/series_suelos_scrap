@@ -2,14 +2,8 @@ Serie LOS SAUCES
 Simbolo: LSc
 CLASIFICACION: Haplustol tipico
 TPS: franca gruesa, mixta, termica
-La Serie Los Sauces es un suelo desarrollado sobre materiales franco limosos a francos de origen aluvial propia de los abanicos y paleocauces proximos a la Sierra Norte y en la Planicie Fluvio Eolica. Los perfiles de esta Serie son profundos, bien desarrollados, con buena retencion de humedad y sin salinidad ni alcalinidad. El horizonte superior tiene 17 cm de espesor, de color pardo grisaceo muy oscuro, textura franco limosa con 11% de arena y estructura en bloques subangulares medios moderados y granular. El horizonte inmediato subsuperficial (Bw) se extiende hasta 37 cm, tiene textura franco limosa y estructura en prismas irregulares. El material originario se encuentra a 60 cm y con el material calcareo a 80 cm.
 UBICACION: a 15 km al Este de la localidad de Villa Maria de Rio Seco, departamento Rio Seco, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	17-37 cm; color en humedo pardo oscuro (10YR3/3); franco limoso a franco; estructura en prismas irregulares medios debiles a moderados rompe a bloques; friable en humedo; no plastico; no adhesivo; barnices humico arcillosos escasos a comunes finos; raices abundantes; limite inferior claro, suave.
-BC	37-60 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; barnices arcillosos finos; raices escasas; limite inferior gradual.
-C	60-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; limite inferior abrupto, suave.
-Ck	80 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; reaccion violenta al ClH de corta duracion.
-Datos analiticos Serie LOS SAUCES
 LATITUD:S294800
 LONGITUD:O633600
 ALTITUD:297 m.s.n.m.

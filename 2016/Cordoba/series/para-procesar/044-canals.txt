@@ -2,12 +2,8 @@ Serie CANALS
 Simbolo: Cs
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-Suelos algo excesivamente drenados, desarrollados sobre materiales areno francos de origen eolico y se encuentran vinculados a lomadas onduladas y suavemente onduladas que presentan distintos porcentajes de hoyas medanosas estabilizadas dentro de la tipica llanura eolica cordobesa. La capa arable (horizonte Ap) de 25 cm de espesor, es de color pardo a pardo oscuro, de textura franco arenosa y estructura en bloques debiles. Hacia abajo pasa gradualmente (horizonte transicional AC) al material originario que se encuentra a una profundidad de 54 cm, de textura arenosa y el calcareo en la masa aparece por lo general por debajo de los 100 cm. La capacidad de uso de estos suelos esta limitada por la baja retencion de humedad (textura gruesa) y el clima. Se ha identificado la fase moderadamente bien drenada en bajos suavemente deprimidos y la fase ligera a moderadamente erosionada por viento vinculadas a lomas y relictos medanosos.
 UBICACION: a 8 km al Sur de la localidad de Canals, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	25-54 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso a areno franco; estructura en bloques subangulares debiles con tendencia a masivo; friable en humedo; no plastico; no adhesivo; limite inferior difuso.
-C	54 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); areno franco a arenoso; masivo; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie CANALS
 LATITUD:S333749
 LONGITUD:O625120
 ALTITUD:119 m.s.n.m.

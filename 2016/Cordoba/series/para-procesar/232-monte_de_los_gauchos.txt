@@ -2,12 +2,8 @@ Serie MONTE DE LOS GAUCHOS
 Simbolo: MGa
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-La Serie Monte de los Gauchos es un suelo bien a algo excesivamente drenado, desarrollado sobre sedimentos eolicos franco a franco arenosos en lomas extendidas suavemente onduladas de la Pampa arenosa en la provincia de Cordoba. Presenta un horizonte A o capa arable de 25 cm de espesor, color pardo grisaceo muy oscuro, textura franca, estructura en bloques moderados. Hacia abajo continua una transicion (AC) que se extiende hasta 53 cm de profundidad de similar textura y estructura masiva con tendencia a bloques debiles. El material originario del suelo es franco arenoso, masivo y se extiende hasta 110 cm sin la presencia de material calcareo.
 UBICACION: a 4,1 km al SO de Monte de los Gauchos, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	25-53 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques debiles a masivo; friable en humedo; no plastico; no adhesivo; pH 6,1; raices escasas; limite inferior gradual.
-C	53-90 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 7.
-Datos analiticos Serie MONTE DE LOS GAUCHOS
 LATITUD:S333930
 LONGITUD:O635520
 ALTITUD:225 m.s.n.m.

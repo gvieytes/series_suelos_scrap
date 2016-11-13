@@ -2,14 +2,8 @@ Serie LOS NOGALES (bis)
 Simbolo: LNg
 CLASIFICACION: Natracualf tipico
 TPS: fina, illitica, termica
-La Serie Los Nogales es un suelo medianamente profundo que tiene reaccion alcalina a poca profundidad y cuyo drenaje es imperfecto. Se lo encuentra asociado a otros suelos, en las pendientes que van a las terrazas del rio Carcarana, ocupando la posicion mas proxima a las mismas y en las terrazas intermedias de este rio. La parte superficial de 20 cm de espesor (E) es de colores claros en seco y textura franco limosa, con moteados precisos. Este horizonte pasa abruptamente a otro mas pesado (Btn) de textura arcillo limosa con 47% de arcilla, color pardo a pardo oscuro, y estructura en columnas moderadas, con abundantes barnices y moteados. Este horizonte es de fuerte reaccion alcalina por el exceso de sodio. La transicion al sustrato (horizonte C) es gradual y contiene abundantes concreciones calcareas. El horizonte C es de textura franco limosa, y presenta ligera cementacion en forma de "bochas". En suelos de esta Serie los tenores de Sodio intercambiable alcanzan un 46% en el Btn y aumentan en profundidad. Como todas las Series desarrolladas en ambientes hidromorficos son muy variables en el grado de expresion de las caracteristicas vinculadas al drenaje (profundidad de los moteados, espesor y evidencia del horizonte E, profundidad de la capa freatica, contenido de sodio de intercambio), las que se admiten en la variabilidad de estos suelos.
 UBICACION: a 3 Km al SE de la localidad de San Ricardo, departamento Iriondo, provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btn	15-34 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura semicolumnar medios moderados a debiles; firme en humedo; plastico; adhesivo; barnices abundantes "Clay Skins" gruesos de color pardo grisaceo oscuro (10YR4/2); moteados comunes finos y precisos; limite inferior claro, ondulado.
-Btn2	34-48 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); arcillo limoso; estructura en prismas irregulares medios debiles que rompe en bloques medios finos; firme en humedo; plastico; adhesivo; barnices "Clay Skins" comunes de color pardo muy oscuro (10YR2/2); moteados comunes finos y debiles; escasas microconcreciones calcareas; limite inferior claro, ondulado.
-BCn	48-80 cm; color en humedo pardo (7,5YR5/4); franco limoso; estructura en prismas irregulares gruesos debiles que rompe en bloques medios moderados; firme en humedo; ligeramente adhesivo; barnices "Clay Skins" escasos; moteados comunes finos y debiles; nodulos comunes cementados; concreciones calcareas abundantes; limite inferior gradual.
-Ck	80 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; firme en humedo; ligeramente adhesivo; nodulos cementados; moderada cantidad de carbonatos libres en la masa del suelo.
-Datos analiticos Serie LOS NOGALES (bis)
 LATITUD:S330248
 LONGITUD:O613441
 ALTITUD:58 m.s.n.m.

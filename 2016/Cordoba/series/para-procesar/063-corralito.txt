@@ -2,13 +2,8 @@ Serie CORRALITO
 Simbolo: Clt
 CLASIFICACION: Haplustol tipico
 TPS: limosa gruesa, mixta, termica
-Esta Serie corresponde a suelos profundos dominantes en las lomas muy suavemente onduladas y pendientes regionales de la plataforma basculada o Pampa Loessica Alta. Es un suelo bien drenado, desarrollado sobre loess franco limoso a franco, con horizonte subsuperficial estructurado en bloques debiles; es profundo, bien drenado y susceptible en diferente grado a la erosion hidrica. Conforma siempre unidades compuestas con otras Series y/o fases de la misma Serie. El proceso erosivo se manifiesta normalmente en forma de surcos y/o zanjas. Presenta un horizonte superior de color oscuro (a veces muy degradado tanto fisica como quimicamente) de color pardo grisaceo oscuro, textura franco limosa y pH ligeramente acido, que se extiende hasta 20 cm. Continua hacia abajo un horizonte subsuperficial con estructura en bloques debiles de textura franco limosa (Bw), con escasos barnices en las caras de los agregados que se extiende hasta 37 cm. Luego de una transicion (BC), aparece el horizonte C o material originario con carbonatos libres en la masa del suelo.
 UBICACION: a 3,5 km al SE de la localidad de Corralito, departamento Tercero Arriba, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	20-37 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; estructura en bloques debiles; friable en humedo; ligeramente plastico; no adhesivo; barnices escasos de arcilla y humus; pH 7,2; raices escasas; limite inferior gradual.
-BC	37-62 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; masivo tendencia a estructura en bloques debiles; no plastico; no adhesivo; friable en humedo; pH 7,3; limite inferior abrupto, ondulado.
-Ck	62 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; no plastico; no adhesivo; muy friable en humedo; pH 7,7; violenta reaccion al ClH en la masa del suelo.
-Datos analiticos Serie CORRALITO
 LATITUD:S320300
 LONGITUD:O641015
 ALTITUD:437 m.s.n.m.

@@ -2,13 +2,8 @@ Serie LA PAYANCA
 Simbolo: FALTA!
 CLASIFICACION: Argiustol udico
 TPS: franca gruesa, mixta, termica
-Los suelos de la Serie La Payanca, presentan buen drenaje interno y se encuentran vinculados a amplias lomadas planas a suavemente onduladas con pendientes inferiores al 1%. Se han desarrollado a partir de materiales eolicos de textura franca. La capa arable (horizonte A) es de 27 cm de espesor, textura franca, estructura en bloques, color pardo grisaceo oscuro y buen contenido de materia organica. Luego pasa en forma muy clara, a un horizonte algo mas arcilloso (B textural), de estructura prismatica y color pardusco que se extiende hasta los 52 cm de profundidad, para pasar gradualmente al material originario que se encuentra a 70 cm de profundidad. Estos suelos son los mas productivos del area, presentando unicamente una ligera limitacion climatica. No ha sido identificada en unidades puras, sino en unidades compuestas asociadas a otros suelos libres de sales o alcalis.
 UBICACION: a 19,15 km al Oeste de la estancia La Oriental, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	27-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en prismas irregulares, moderados a debiles que rompen a bloques subangulares; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos escasos y finos; limite inferior claro, suave.
-BC	52-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; barnices arcillosos muy escasos y finos; limite inferior gradual, suave.
-C	70 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo
-Datos analiticos Serie LA PAYANCA
 LATITUD:S340102
 LONGITUD:O631325
 ALTITUD:134 m.s.n.m.

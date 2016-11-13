@@ -2,13 +2,8 @@ Serie BUCHARDO
 Simbolo: Bch
 CLASIFICACION: Haplustol udico
 TPS: franca gruesa, mixta, termica
-La Serie Buchardo es un suelo bien drenado, desarrollado sobre materiales franco arenosos finos, vinculados a lomadas casi planas a muy ligeramente onduladas. La capa arable (horizonte A) de 23 cm de espesor, es de color pardo grisaceo oscuro en humedo, de textura franca y estructura en bloques subangulares medios moderados. Luego pasa en forma clara a un horizonte algo mas arcilloso (horizonte B), de estructura en prismas irregulares y bloques subangulares medios moderados, de color pardo amarillento oscuro; luego pasa en forma gradual a un horizonte de transicion (horizonte BC). El material originario (horizonte C) se encuentra a 68 cm de profundidad, de textura franco arenosa. Los suelos de la Serie Buchardo presentan mayor retencion de humedad y mejor estructura superficial con respecto a los demas suelos de lomas del area, siendo su uso eminentemente agricola, aunque se encuentran ligeramente limitados por condiciones climaticas.
 UBICACION: a 11 Km al SO de la localidad de Buchardo, departamento General Roca, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	23-45 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en prismas irregulares moderados y bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices "Clay Skins" finos; limite inferior gradual.
-BC	45-68 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; limite inferior gradual.
-C	68 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie BUCHARDO
 LATITUD:S344838
 LONGITUD:O633327
 ALTITUD:135 m.s.n.m.

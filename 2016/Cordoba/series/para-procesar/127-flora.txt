@@ -2,16 +2,8 @@ Serie FLORA
 Simbolo: FALTA!
 CLASIFICACION: Argialbol argiacuico
 TPS: franca fina, mixta, termica
-La Serie Flora es un suelo oscuro e imperfectamente drenado, de los bajos del pie del primer escalon estructural, al Norte de la localidad de Saira. Se han desarrollado a partir de sedimentos de textura franco limosa. La parte superficial del suelo, de unos 40 cm de espesor, es de textura franco limosa. La parte superior (horizonte A) esta bien provista de materia organica, es de color pardo grisaceo muy oscuro, estructura en bloques y llega hasta los 27 cm aproximadamente; la parte inferior (horizonte E) es algo mas claro, lixiviado, estructura en bloques debiles con tendencia a masivo y con pequenos moteados de Fe. Hacia abajo, pasa en forma abrupta al horizonte mas arcilloso (Bt), que se extiende hasta los 66 cm, de color pardo oscuro, estructura columnar y abundantes moteados de Fe. La transicion entre el Bt y el material originario (horizonte C) es gradual. Este ultimo se encuentra a una profundidad de 116 cm, de textura franco limosa, suelta, y con abundante calcareo diseminado en la masa.
 UBICACION: a 3,5 Km al ONO de la localidad de Saira, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	15-27 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; moteados escasos, finos y debiles; limite inferior claro, suave.
-E	27-40 cm; color en humedo pardo grisaceo oscuro (10YR4/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques subangulares medios debiles, tendencia a masivo; moteados escasos, finos y debiles; limite inferior abrupto, suave.
-Bt	40-66 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura columnar gruesa moderada, rompe a prismas irregulares medios moderados; friable a firme en humedo; plastico; adhesivo; barnices "Clay Skins" comunes medios; moteados comunes, gruesos y sobresalientes; moteados comunes a abundantes, finos y precisos; limite inferior claro, suave.
-B	66-95 cm; color en humedo pardo (7,5YR5/2); franco limoso; estructura en prismas irregulares medios moderados, rompe a bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices "Clay Skins" comunes y medios; moteados comunes, gruesos y sobresalientes; concreciones calcareas escasas y finas; limite inferior gradual, suave.
-BC	95-116 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; barnices "Clay Skins" escasos finos; moteados comunes, gruesos y sobresalientes; escasos durinodulos finos; concreciones calcareas comunes, finas y medias; limite inferior abrupto, suave.
-Ck	116 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie FLORA
 LATITUD:S322344
 LONGITUD:O630817
 ALTITUD:96 m.s.n.m.

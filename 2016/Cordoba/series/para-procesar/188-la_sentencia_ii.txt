@@ -2,13 +2,8 @@ Serie LA SENTENCIA II
 Simbolo: LStII
 CLASIFICACION: Haplustol udico
 TPS: franca fina, mixta, termica
-Esta Serie se encuentra vinculada a los sistemas de derrames fluviales de los rios Santa Catalina y Ascochinga sobre sedimentos de textura franca. Tiene escurrimiento lento, es bien drenada y sin peligro de anegamiento. Presenta un horizonte superficial de 33 cm de espesor, oscuro, de textura franca y estructura en bloques. Continua hacia abajo un horizonte ligeramente enriquecido en arcillas de textura franca, estructura en bloques y prismas con barnices escasos en las caras de los agregados. Luego de una transicion (BC), el material parental del suelo con carbonatos libres se encuentra a 104 cm, es franco y masivo.
 UBICACION: a 17 km al Oeste de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	33-62 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco; estructura en bloques y prismas medios debiles; barnices escasos finos; pH 6,8; limite inferior claro, suave.
-BC	62-104 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco; estructura en bloques subangulares debiles a masivo; pH 7,2; limite inferior abrupto, suave.
-Ck	104 cm a +; color en humedo pardo a pardo oscuro (10YR4/3); franco; masivo; moderada reaccion al ClH por la presencia de CaCO3 disuelto en la masa del suelo; pH 7,9.
-Datos analiticos Serie LA SENTENCIA II
 LATITUD:S305600
 LONGITUD:O641400
 ALTITUD:600 m.s.n.m.

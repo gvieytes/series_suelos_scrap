@@ -2,13 +2,8 @@ Serie EL CORTIJO
 Simbolo: ECj
 CLASIFICACION: Argiustol tipico
 TPS: franca fina a franca gruesa, mixta, termica
-Esta Serie se ha desarrollado sobre sedimentos de derrames distales en el piedemonte oriental de las sierras chicas de Cordoba, de textura franco limosa a franca, ubicada en sectores suavemente elevados, laterales de lobulos de derrames y pequenas pendientes sin escorrentias regionales actuales por razones topograficas. Es un suelo bien a algo excesivamente drenado, con horizontes subsuperficiales cortos y el material originario a 65 cm de profundidad. Tiene un horizonte superficial o capa arable de 20 cm de espesor, franco limosa a franca con 14% de arcilla y estructura en bloques subangulares. Continua hacia abajo un horizonte Bt enriquecido en arcillas iluviales, franco limoso con estructura en prismas y bloques y barnices comunes en las caras de los agregados. Luego de una transicion (horizonte BC), el material originario del suelo se encuentra a 65 cm de profundidad, es franco limoso a franco con 14% de arcilla, y material calcareo pulverulento escaso a partir de los 80 cm.
 UBICACION: a 6,4 km al SSE de Villa del Totoral, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	20-44 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso; estructura en bloques subangulares moderados y prismas; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,3; barnices humico arcillosos escasos a comunes; raices escasas; limite inferior gradual, suave.
-BC	44-65 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; estructura en bloques y prismas debiles; friable en humedo; no plastico; ligeramente adhesivo; pH 7,4; barnices arcillosos escasos y finos; limite inferior abrupto, ondulado.
-Ck	65 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; pH 8,2.
-Datos analiticos Serie EL CORTIJO
 LATITUD:S304526
 LONGITUD:O640231
 ALTITUD:550 m.s.n.m.

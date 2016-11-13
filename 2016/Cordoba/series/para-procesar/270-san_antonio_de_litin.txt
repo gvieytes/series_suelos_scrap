@@ -2,16 +2,8 @@ Serie SAN ANTONIO DE LITIN
 Simbolo: FALTA!
 CLASIFICACION: Argialbol tipico
 TPS: limosa fina, mixta, termica
-La Serie San Antonio de Litin es un suelo moderado a imperfectamente drenado, desarrollado sobre materiales franco limosos, que ocupa amplios sectores aplanados y deprimidos en unidades compuestas. No tiene alcalinidad ni salinidad en ningun horizonte. Los primeros 21 cm son de color pardo grisaceo muy oscuro, textura franco limosa (20% de arcilla), rico en materia organica, con estructura en bloques debiles. Le sigue hasta 29 cm un horizonte decolorado (E), de textura franco limosa (17%) de arcilla) y estructura masiva. A continuacion y hasta 73 cm existe un horizonte enriquecido en arcilla (B divisible en Bt y Bt2) con 36% de arcilla, estructura en prismas y textura franco arcillo limosa. El material originario se encuentra a 106 cm de profundidad, esta parcialmente cementado y con elevado contenido de calcareo libre en la masa del suelo. El perfil presenta moteados rojizos y parduscos desde 13 cm de profundidad.
 UBICACION: a 5,6 Km al ENE de la estancia La Violeta, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	13-21 cm; color en humedo gris muy oscuro (10YR3/1); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; moteados escasos, finos y debiles; abundantes raices; limite inferior claro, suave.
-E	21-29 cm; color en humedo pardo grisaceo oscuro (10YR4/2); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y debiles; abundantes raices; limite inferior abrupto, ondulado.
-Bt	25-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas irregulares medios fuertes; duro en seco; firme en humedo; plastico; adhesivo; abundantes barnices humico arcillosos medios; moteados comunes, finos y debiles; limite inferior claro, suave.
-Bt2	52-73 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas, irregulares medios moderados, rompen a bloques subangulares medios; ligeramente duro en seco; firme en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes, y medios; moteados comunes, finos y precisos; durinodulos comunes; limite inferior gradual, suave.
-BC	73-106 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas irregulares debiles y bloques subangulares medios moderados; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; moteados abundantes, medios y precisos; abundantes durinodulos.
-Ckm	106 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; cementado; moteados abundantes, gruesos y sobresalientes; abundante calcareo libre en la masa.
-Datos analiticos Serie SAN ANTONIO DE LITIN
 LATITUD:S320632
 LONGITUD:O622559
 ALTITUD:110 m.s.n.m.

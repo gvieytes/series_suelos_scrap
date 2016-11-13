@@ -2,16 +2,8 @@ Serie ESTANCIA DONA LUCIA
 Simbolo: FALTA!
 CLASIFICACION: Natralbol tipico
 TPS: fina, mixta, termica
-Son suelos imperfectamente drenados, desarrollados sobre materiales franco limosos, asociados a un relieve de lomas aplanadas a ligeramente deprimidas. La capa arable, de 15 cm de espesor, es de textura franco limosa y estructura en bloques subangulares, presenta algunos sintomas de lixiviacion y fuerte reaccion acida. Le sigue hacia abajo un horizonte decolorado (E) de textura franco limosa y estructura masiva. Desde los 22 cm de profundidad y hasta los 60 cm se extiende un horizonte enriquecido en arcilla, de textura arcillo limosa y estructura columnar gruesa muy fuerte. Esta porcion del perfil es moderadamente alcalina, lo que representa una limitacion para el normal desarrollo de las raices. El sustrato (horizonte C) es de textura franco limosa y a partir de los 139 cm de profundidad, presenta abundante calcareo pulverulento en la masa del suelo. El drenaje imperfecto, la alcalinidad sodica desde los 22 cm y la fuerte salinidad desde los 60 cm de profundidad, limitan la capacidad de uso de esta tierra.
 UBICACION: a 3,7 Km al SSE de la localidad de Quebracho Herrado, departamento San Justo, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-E	15-22 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco limoso; masivo con tendencia a estructura en bloques; duro en seco; friable en humedo; no plastico; no adhesivo; moteados de FeMn abundantes, finos y precisos; raices comunes; limite inferior abrupto, ondulado.
-Btn	22-47 cm; color en humedo pardo oscuro (7,5YR3/2); arcillo limoso; estructura columnar gruesa fuerte que rompe en prismas regulares; firme en humedo; plastico; adhesivo; barnices abundantes; moteados abundantes, medios y precisos; escasas raices; limite inferior claro, suave.
-Bt	47-60 cm; color en humedo pardo oscuro (7,5YR3,5/2); arcillo limoso; estructura en prismas regulares medios moderados; ligeramente firme en humedo; plastico; adhesivo; escasas concreciones de FeMn finas; barnices comunes y finos; moteados de FeMn comunes, gruesos y precisos; limite inferior gradual, suave.
-BC	60-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; concreciones escasas y finas de FeMn; escasos barnices finos; moteados comunes, gruesos y precisos; abundantes pseudomicelios salinos; limite inferior gradual, suave.
-C	100-139 cm; color en humedo pardo (7,5YR5/4); franco arcillo limoso; masivo; muy friable en humedo; ligeramente plastico; no adhesivo; concreciones de calcio escasas y finas; moteados de FeMn comunes, gruesos y precisos; limite inferior abrupto, ondulado.
-Ck	139 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante carbonato de calcio diseminado en la masa del suelo; moteados comunes, gruesos y precisos.
-Datos Analiticos Serie ESTANCIA DONA LUCIA
 LATITUD:S313443
 LONGITUD:O621225
 ALTITUD:106 m.s.n.m.

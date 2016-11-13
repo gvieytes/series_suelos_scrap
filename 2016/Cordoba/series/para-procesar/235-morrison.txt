@@ -2,14 +2,8 @@ Serie MORRISON
 Simbolo: Mo
 CLASIFICACION: Duracuol argico
 TPS: limosa gruesa, mixta, termica
-La Serie Morrison es un suelo imperfectamente drenado, desarrollado sobre materiales franco limosos y vinculado a las vias de escurrimiento bien manifiestas o bajos alargados de los planos levemente deprimidos. El horizonte superficial (horizonte Ap) es de color pardo grisaceo muy oscuro, de textura franco limosa y estructura en bloques subangulares debiles con tendencia a masivo; estas caracteristicas se extienden hasta los 17 cm, donde aparece un horizonte algo degradado (horizonte E) de textura franco limosa y estructura laminar debil a masivo. A los 38 cm pasa con limite abrupto a un horizonte mas arcilloso (horizonte Bt) de color pardo oscuro, textura franco limosa y estructura prismatica con abundantes barnices humico-arcillosos que recubren la cara de los agregados. El horizonte Ckm se encuentra a los 86 cm de profundidad, es un material franco limoso, masivo y con abundante calcareo diseminado en la masa del suelo. Presentan moteados de Fe desde la superficie y se encuentran cementados debilmente a partir de los 86 cm
 UBICACION: a 11 km al SSO de la localidad de Alto Alegre, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-E	17-38 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura laminar fina y media debil a masivo; friable en humedo; moteados escasos, finos y debiles; limite inferior abrupto y suave.
-Bt	38-68 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura en prismas irregulares medios moderados, rompen en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundantes barnices humico-arcillosos medios; moteados escasos, finos y debiles; limite inferior claro y suave.
-BC	68-86 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios debiles y bloques; friable en humedo; escasos barnices arcillosos; escasos moteados finos y debiles; escasas concreciones calcareas finas, algo poroso; limite inferior abrupto y suave.
-Ckm	86 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; abundante calcareo diseminado en la masa; moteados escasos, finos y debiles; cementado debilmente en el 100% de su volumen.
-Datos analiticos Serie MORRISON
 LATITUD:S322531
 LONGITUD:O625727
 ALTITUD:156 m.s.n.m.

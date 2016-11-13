@@ -2,12 +2,8 @@ Serie TERRAZAS DEL RIO PINTO
 Simbolo: TRP
 CLASIFICACION: Haplustol entico
 TPS: franca fina, mixta, termica
-Este suelo, de reducida representatividad geografica, se encuentra vinculado a los ambientes fluviales de terrazas y derrames del rio Pinto y otros, en situacion de relieve plano a suavemente ondulado, asociado a otros suelos que ocupan las partes altas. Es bien drenado, debil a moderadamente desarrollado (perfil de tipo A-AC-C) y de buena capacidad de retencion de humedad, sobre sedimentos de textura franco limosa. Presenta un horizonte A de 23 cm de espesor, rico en materia organica de textura franco limosa con 18% de arcilla y estructura en bloques. Sigue a continuacion un horizonte de transicion AC algo mas claro con textura franco limosa (20% de arcilla) y estructura en bloques debiles. El material originario comienza a los 38 cm con CaCO3 libre en la masa del suelo.
 UBICACION: a 4 km al Sur de Sarmiento, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo muy oscuro (10YR2/2)
-AC	23-38 cm; color en humedo pardo oscuro (10YR3/3); franco limoso; masivo a estructura en bloques debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,9; raices escasas; limite inferior abrupto, ondulado.
-Ck	38 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; violenta reaccion al ClH en la masa del suelo; pH 7,7.
-Datos analiticos Serie TERRAZAS DEL RIO PINTO
 LATITUD:S304815
 LONGITUD:O640600
 ALTITUD:600 m.s.n.m.

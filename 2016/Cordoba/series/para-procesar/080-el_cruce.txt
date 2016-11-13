@@ -2,12 +2,8 @@ Serie EL CRUCE
 Simbolo: FALTA!
 CLASIFICACION: Haplustol udorthentico
 TPS: esqueletica, franca, mixta, termica
-La Serie El Cruce esta vinculada a derrames intermedios ondulados con pendientes que oscilan entre 0,5 a 1% en situacion de loma a media loma alta. Es un suelo algo excesivamente drenado, con debil desarrollo y textura franca y esqueletica franca en capas subsuperficiales. Presenta un horizonte A de 22 cm de textura franco arenosa (11% arcilla y 20% de limo), con estructura en bloques. Continua hacia abajo una transicion (AC) hasta los 47 cm, franco arenosa. A partir de los 47 cm aparece una capa de gravas (70%) con matriz franco arenosa.
 UBICACION: a 9 km al ONO de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	22-47 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso; estructura en bloques subangulares medios moderados; friable en humedo; pH 7,5; limite inferior claro, suave.
-2C	47 cm a +; color en humedo pardo oscuro (10YR3/3); esqueletico franco arenoso con mas de 70% de gravas.
-Datos analiticos Serie EL CRUCE
 LATITUD:S305500
 LONGITUD:O641030
 ALTITUD:600 m.s.n.m.

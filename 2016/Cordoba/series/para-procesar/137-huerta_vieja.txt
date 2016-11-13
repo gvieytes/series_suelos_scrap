@@ -2,12 +2,8 @@ Serie HUERTA VIEJA
 Simbolo: FALTA!
 CLASIFICACION: Hapludol litico
 TPS: franca gruesa, mixta, termica
-La Serie corresponde a un suelo somero, excesivamente drenado, desarrollado sobre materiales originarios autoctonos arenoso francos, como consecuencia de la alteracion de rocas metamorficas, vinculado a areas fuertemente onduladas o inclinadas. Es un suelo de incipiente desarrollo, con un horizonte superficial (A+A2) de 37 cm de espesor con moderado contenido de materia organica y medianamente acido, que se asienta sobre la roca firme.
 UBICACION: a 1 Km al ESE de Huerta Vieja, departamento Calamuchita, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A2	15-37 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arenoso a arenoso franco; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
-2R	37 cm a +
-Datos analiticos Serie HUERTA VIEJA
 LATITUD:S323100
 LONGITUD:O643900
 ALTITUD:850 m.s.n.m.

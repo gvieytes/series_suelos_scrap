@@ -2,13 +2,8 @@ Serie BAIGORRIA
 Simbolo: Bag
 CLASIFICACION: Haplustol udorthentico franca gruesa
 TPS: mixta, termica
-Los suelos que corresponden a esta Serie son algo excesivamente drenados desarrollados a partir de sedimentos eolicos muy homogeneos de textura franco arenosa a areno franca fina en lomas suavemente onduladas en las proximidades de la localidad homonima. Presenta un horizonte A o capa arable de 25 cm de profundidad con estructura en bloques moderados a debiles, textura franco arenosa. Sigue en profundidad una transicion (AC) que se extiende hasta 40 cm con estructura masiva tendencia a bloques. Continua hacia abajo el material originario del suelo, con material calcareo a 90 cm de profundidad. Los suelos de la Serie Baigorria presentan limitaciones moderadas derivadas esencialmente de su capacidad de retencion de humedad y susceptibilidad a la erosion eolica y en menor medida climaticas generales para toda la region.
 UBICACION: a 4,2 Km al SO de la localidad de Coronel Baigorria, departamento Rio Cuarto, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-AC	25-40 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso a franco; masivo tendencia a bloques; muy friable en humedo; no plastico; no adhesivo; pH 7; raices comunes; limite inferior gradual suave.
-C	40-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 7,4; vestigios de raices; limite inferior abrupto, ondulado.
-Ck	92 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; pH 8,6; moderada a violenta reaccion al ClH en la masa del suelo.
-Datos analiticos Serie BAIGORRIA
 LATITUD:S325234
 LONGITUD:O642334
 ALTITUD:583 m.s.n.m.

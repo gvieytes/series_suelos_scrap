@@ -2,16 +2,8 @@ Serie ARROYO ACEQUION
 Simbolo: AAq
 CLASIFICACION: Argiustol udico
 TPS: franca fina a franca gruesa, mixta, termica
-La Serie Arroyo Acequion es un Argiustol udico, bien drenado, desarrollado sobre materiales francos en ambientes suavemente ondulados y ligeramente deprimidos de areas de derrame fluviales proximas a San Antonio de Litin y Silvio Pellico. Los primeros 13 cm son de textura franco limosa con 22% de arcilla y estructura en bloques subangulares medios moderados. Le sigue una transicion (horizonte AB), con un ligero incremento en el tenor de arcilla hasta 18 cm. Continua hasta 44 cm un horizonte mas enriquecido en arcilla (Bt textural) con estructura en prismas irregulares, barnices abundantes en las caras de los agregados y textura franca a franco arcillosa. La transicion hacia el horizonte C es muy gradual. Este ultimo se encuentra a una profundidad de 65 cm con textura franco a franco arenosa. A 87 cm existe una discontinuidad con capas fluviales arenosas. Estas lentes de texturas mas gruesas pueden aparecer a mayor profundidad. Los suelos de la Serie Arroyo Acequion, a pesar de encontrarse desarrollados sobre materiales mas livianos que los limosos eolicos, tienen moderada retencion de humedad y no presentan limitacion edafica alguna a excepcion de la climatica. Se los usa para ganaderia con agricultura subordinada. Algunos perfiles de este suelo pueden presentar ligera alcalinidad en profundidad (despues de los 50 cm).
 UBICACION: a 12 Km al Oeste de San Antonio de Litin, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo muy oscuro (10YR2/2)
-AB	13-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo oscuro (10YR4/2); franco; estructura en bloques subangulares medios moderados fuertes, rompen a bloques; duro en seco, friable en humedo; ligeramente plastico; no adhesivo; barnices humico arcillosos escasos, finos; raices abundantes; limite inferior claro, ondulado.
-Bt	18-44 cm; color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2); franco a franco arcilloso; estructura en prismas irregulares medios moderados, rompen a prismas y bloques; duro en seco, friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humicos arcillosos abundantes y medios; raices escasas; moteados de FeMn escasos, comunes; finos y precisos; limite gradual, suave.
-BC	44-65 cm; color en humedo pardo oscuro (10YR3/3); franco, estructura en prismas irregulares medios debiles tendencia masivo; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; vestigios de raices; limite gradual, suave.
-C	65-87 cm; color en humedo pardo oscuro (10YR3/3); color en seco pardo amarillento (10YR5/4); franco arenoso, masivo a suelto; no plastico, no adhesivo, crotovinas comunes; vestigios de raices; limite abrupto.
-2	87-107 cm; arenoso; grano simple, suelto, no plastico, no adhesivo.
-3	107 cm a +; color en humedo variable; arenoso; abundantes laminillas de mica en todo el perfil.
-Datos analiticos Serie ARROYO ACEQUION
 LATITUD:S321112
 LONGITUD:O624413
 ALTITUD:137 m.s.n.m.

@@ -2,14 +2,8 @@ Serie LAS MERCEDES II
 Simbolo: McII
 CLASIFICACION: Argiustol tipico
 TPS: franca fina a fina, mixta, termica
-La Serie Las Mercedes II es un suelo profundo, moderadamente bien drenado, libre de salinidad y/o alcalinidad, desarrollado sobre materiales franco limosos y vinculados a bajos alargados bien manifiestos y/o desagues principales en el valle de Avellaneda y proximidades. La capa arable de 21 cm de espesor es de color pardo grisaceo muy oscuro, de textura franco limosa, estructura en bloques y rico en materia organica. Luego pasa a un horizonte con alto contenido de arcilla, barnices humico arcillosos comunes y de color pardo oscuro que se extiende hasta los 71 cm. El material originario se encuentra a 95 cm de profundidad, de textura franco limosa, masivo y con abundante calcareo pulverulento.
 UBICACION: a 2 km al Sur de la localidad de Avellaneda, departamento Ischilin, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	21-48 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura en prismas irregulares y bloques subangulares fuertes; duro en seco; plastico; adhesivo; barnices humico-arcillosos comunes finos; moteados escasos, finos debiles; pH 7; limite inferior gradual.
-B	48-71 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco arcillo limoso; estructura en bloques subangulares medios fuertes; ligeramente duro; plastico; adhesivo; barnices arcillosos escasos y finos; moteados escasos, finos debiles; pH 7,2; limite inferior gradual.
-BC	71-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios, moderados; ligeramente duro en seco; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos finos; moteados escasos, finos debiles; escasas concreciones calcareas finas; pH 7,7; limite inferior abrupto, suave.
-Ck	95 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo, moteados escasos, finos debiles; abundante calcareo pulverulento en la masa del suelo; pH 7,8.
-Datos analiticos Serie LAS MERCEDES II
 LATITUD:S303710
 LONGITUD:O641200
 ALTITUD:730 m.s.n.m.

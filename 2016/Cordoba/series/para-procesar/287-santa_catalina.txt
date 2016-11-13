@@ -2,14 +2,8 @@ Serie SANTA CATALINA
 Simbolo: SCt
 CLASIFICACION: Argiustol udico
 TPS: franca fina, mixta, termica
-La Serie Santa Catalina es un suelo desarrollado sobre derrames aluviales de texturas finas y medias, proveniente de los sistemas de los rios Santa Catalina, Ascochinga y otros menores, con pendientes regionales muy suaves hacia el Este. La capa arable, de excelente aptitud para los cultivos, es de 24 cm de espesor, franco limosa, estructura en bloques moderados, rica en materia organica. El horizonte B continua hacia abajo, divisible en Bt y Bt2, y se extiende hasta los 60 cm de profundidad; tiene textura franco arcillo limosa, estructura en prismas irregulares medios fuerte y barnices abundantes en las caras de los agregados. Luego de una transicion (horizonte BC) el material originario con carbonatos libres se encuentra a 95 cm. El perfil del suelo practicamente no tiene limitantes a excepcion de la climatica moderada a leve con ligera susceptibilidad a la erosion hidrica.
 UBICACION: a 2 km al Norte de la ciudad de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo muy oscuro (10YR2/2)
-Bt	24-42 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en prismas irregulares medios fuertes; plastico; adhesivo; barnices humico arcillosos muy abundantes medios; raices abundantes; pH 7,2; limite inferior gradual.
-Bt2	42-60 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en prismas irregulares medios moderados; plastico; adhesivo; pH 7,3; barnices humico arcillosos medios; raices escasas; limite inferior gradual.
-BC	60-95 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en prismas y bloques debiles; ligeramente plastico; adhesivo; pH 7,4; escasos barnices arcillosos finos; limite inferior abrupto, ondulado.
-Ck	95 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; ligeramente plastico; ligeramente adhesivo; pH 8; moderada reaccion al ClH en la masa del suelo.
-Datos analiticos Serie SANTA CATALINA
 LATITUD:S305543
 LONGITUD:O640514
 ALTITUD:500 m.s.n.m.

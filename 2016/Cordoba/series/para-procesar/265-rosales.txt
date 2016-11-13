@@ -2,14 +2,8 @@ Serie ROSALES
 Simbolo: Rs
 CLASIFICACION: Natralbol tipico
 TPS: franca gruesa, mixta, termica
-Los suelos de esta Serie se vinculan a paisajes muy planos a ligeramente deprimidos, cuyo escurrimiento superficial es lento. El drenaje interno es imperfecto y presenta alcalinidad sodica (mas del 20% de sodio intercambiable) a partir de los 34 cm de profundidad. La capa arable de 23 cm de espesor es de color pardo grisaceo oscuro, estructura en bloques con buen contenido de materia organica. Luego pasa en forma abrupta a un horizonte E, mas claro, debilmente estructurado y pobre contenido de materia organica, extendiendose hasta los 34 cm de profundidad. El horizonte Bt (natrico) va de 34 a 52 cm, es de color pardusco y estructura semicolumnar, pasando gradualmente (horizonte de transicion BC) al material originario, encontrandose este a 75 cm de profundidad. Estos suelos se encuentran en el limite agricola, ya que la presencia de alcalinidad sodica a partir de los 34 cm, impide el desarrollo normal de las raices, particularmente en los cultivos de raices profundas.
 UBICACION: a 7,75 Km al OSO de Ea. La Oriental, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-E	23-34 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco arenoso; estructura en bloques subangulares muy debiles a masivo; muy friable en humedo; no plastico; no adhesivo; moteados comunes, medios y precisos; limite inferior abrupto, ondulado.
-Btn	34-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco arenoso a franco arcillo arenoso; estructura semicolumnar y prismas moderados; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes y finos; moteados abundantes, medios y sobresalientes; limite inferior claro, suave.
-BCn	52-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arenoso; estructura en bloques subangulares muy debiles; muy friable en humedo; barnices muy escasos y finos; moteados comunes, medios y sobresalientes; limite inferior gradual, suave.
-C	75 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso; masivo; muy friable en humedo; moteados comunes, medios y sobresalientes.
-Datos analiticos de la Serie ROSALES
 LATITUD:S340345
 LONGITUD:O630512
 ALTITUD:127 m.s.n.m.

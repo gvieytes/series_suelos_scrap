@@ -2,13 +2,8 @@ Serie BELEN
 Simbolo: Be
 CLASIFICACION: Argiustol udico
 TPS: franca fina a fina, mixta, termica
-Los suelos de esta Serie se han desarrollado sobre materiales originarios de derrames distales con textura franco arcillo limosa a franca. Son suelos bien drenados, ubicados en relieves planos o suavemente deprimidos de excelente aptitud para el desarrollo de los cultivos. Presenta un horizonte superficial de 26 cm de espesor con 29% de arcilla, textura franco arcillo limosa a franco limosa y estructura en bloques fuertes. Continua hacia abajo hasta los 60 cm el horizonte enriquecido en arcillas iluviales (Bt), con abundantes a muy abundantes barnices humico-arcillosos en las caras de los agregados y estructura en prismas fuertes. El horizonte de transicion BC se extiende hasta los 85 cm y el material parental del suelo, de textura franco arcillo limosa a franca, continua hacia abajo hasta mas de 110 cm sin carbonatos libres.
 UBICACION: a 8 km al NO de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo gris muy oscuro (10YR3/1)
-Bt	26-60 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco arcillo limoso; estructura en prismas regulares medios moderados a fuertes; friable en humedo; muy plastico; adhesivo; pH 6,6; barnices humico arcillosos muy abundantes a abundantes medios; raices comunes; limite inferior gradual.
-BC	60-85 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo limoso; estructura en bloques debiles a masivo; friable en humedo; plastico; ligeramente adhesivo; pH 6,5; barnices escasos a comunes arcillosos finos; vestigios de raices; limite inferior gradual.
-C	85 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arcillo limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,6; se observan algunos nodulos cementados finos.
-Datos analiticos Serie BELEN
 LATITUD:S305631
 LONGITUD:O640202
 ALTITUD:550 m.s.n.m.

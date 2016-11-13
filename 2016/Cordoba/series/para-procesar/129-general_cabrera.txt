@@ -2,12 +2,8 @@ Serie GENERAL CABRERA
 Simbolo: GC
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-Los suelos de esta Serie son profundos, algo excesivamente drenados, desarrollados a partir de sedimentos eolicos de textura franca arenosa, vinculados a lomas extendidas, casi planas. Son suelos poco desarrollados que presentan un horizonte superficial (A) de 21 cm de espesor, de textura franca a franca arenosa y estructura en bloques subangulares medios moderados, escasamente provisto de materia organica. Hacia abajo pasa gradualmente al material originario (horizonte Ck) que se encuentra a una profundidad de 50 cm, de textura franca arenosa, masiva y moderado contenido de carbonato pulverulento en la masa del suelo. Muestran una ligera susceptibilidad a la erosion eolica, debido a la baja estabilidad de los agregados y al escaso contenido de materia organica, ademas la baja retencion de humedad acentua la limitacion climatica, derivada del regimen de precipitacion pluvial, bajo el cual se encuentran. La fertilidad natural de estos suelos es en general moderada.
 UBICACION: a 2,5 Km al SE de la localidad de General Cabrera, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	21-50 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en bloques subangulares debiles con tendencia a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
-Ck	50 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arenoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; moderado contenido de carbonato pulverulento en la masa del suelo.
-Datos analiticos Serie GENERAL CABRERA
 LATITUD:S324943
 LONGITUD:O635127
 ALTITUD:288 m.s.n.m.

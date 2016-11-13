@@ -2,11 +2,8 @@ Serie LA ARGENTINA
 Simbolo: LAr
 CLASIFICACION: Endoacuol tipico
 TPS: limosa fina, mixta, termica
-Es un suelo imperfectamente drenado a pobremente drenado desarrollado sobre sedimentos eolicos en los sectores deprimidos con influencia de la capa freatica ubicados al norte de la localidad de Rio Primero. Esta severa a gravemente limitado por el drenaje y por una muy fuerte alcalinidad sodica desde la superficie. Presenta un horizonte superior A de unos 18 cm, de color oscuro, con textura franco arcillo limosa con 33% de arcilla, moderadamente alcalino. Con moteados escasos a fuertes. Sigue a continuacion un horizonte subsuperficial Bw normalmente afectado por la capa freatica, fuertemente alcalino con textura franco arcillo limosa con 29% que se extiende hasta 49 cm. La capa freatica en el momento del muestreo de campo se encontraba a la profundidad indicada precedentemente.
 UBICACION: a 21 Km al NNE de la localidad de Rio Primero, departamento del mismo nombre, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bwkn	18-49 cm, color en humedo pardo oscuro (10YR3/3); franco arcillo limoso, estructura en prismas irregulares medios, friable en humedo, plastico, adhesivo, pH 8,9, barnices comunes de arcillas sodicas, finos, raices escasas, saturado por agua desde la base del horizonte.
-Datos analiticos Serie LA ARGENTINA
 LATITUD:S310950
 LONGITUD:O633043
 ALTITUD:180 m.s.n.m.

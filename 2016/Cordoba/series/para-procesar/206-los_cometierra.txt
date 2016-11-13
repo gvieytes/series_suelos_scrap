@@ -2,12 +2,8 @@ Serie LOS COMETIERRA
 Simbolo: LCm
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa a arenosa, mixta, termica
-La Serie Los Cometierra es un suelo desarrollado incipientemente sobre derrames fluviales y albardones distales de los rios Jesus Maria, Los Mistoles y otros menores. Normalmente ocupa situaciones en el terreno suavemente elevadas con drenaje algo excesivo. La capa arable de 23 cm de espesor, tiene textura franca a franco arenosa; continua hacia abajo un horizonte de transicion (AC) que se extiende hasta 49 cm con estructura muy debil a masiva. A partir de la profundidad indicada se encuentra el material originario (Ck), masivo con textura franco arenosa a arenosa y ligero contenido de carbonatos libres en la masa del suelo (1%). Este suelo presenta dos limitantes fundamentales: moderada a baja retencion de humedad, que incluye drenaje algo excesivo y la climatica general para toda la region.
 UBICACION: a 7 km al SSO del paraje Los Cometierra, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	23-49 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arenoso; masivo y estructura en bloques debiles; muy friable en humedo; pH 7,9; raices escasas; limite inferior gradual.
-Ck	49 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a arenoso; masivo; muy friable en humedo; leve reaccion al acido clorhidrico.
-Datos analiticos Serie LOS COMETIERRA
 LATITUD:S305535
 LONGITUD:O635655
 ALTITUD:395 m.s.n.m.

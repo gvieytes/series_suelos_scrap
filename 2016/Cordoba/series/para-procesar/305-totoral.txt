@@ -2,13 +2,8 @@ Serie TOTORAL
 Simbolo: Tt
 CLASIFICACION: Argiustol udico
 TPS: franca fina, mixta, termica
-Este suelo se ha desarrollado sobre el abanico aluvial y derrames del rio Totoral. El relieve es plano con muy suave pendiente regional menor al 0,3%. Los materiales parentales de los suelos tienen textura franco arcillo limosa a franco limosa. Es un suelo bien drenado, con excelente capacidad de retencion de humedad teniendo como unica limitante la climatica de caracter moderada. Presenta un horizonte superior o capa arable del suelo de 23 cm de espesor, franco, con 25% de arcilla y 27% de limo, tiene estructura en bloques subangulares y esta muy bien provisto de materia organica. Continua hacia abajo hasta los 56 cm de profundidad el horizonte enriquecido en arcillas aluviales de textura franco arcillosa (33% de arcilla) con estructura en prismas. El horizonte de transicion (BC) tiene textura franco arcillo limosa (30% de arcilla), con estructura en prismas y bloques y llega a los 75 cm. Desde la profundidad expresada hasta mas de 100 cm se encuentra el material parental del suelo, masivo, con textura franco arcillo limosa y 28% de arcilla.
 UBICACION: a 4 km al Este de Villa del Totoral, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo gris muy oscuro (10YR3/1)
-Bt	23-56 cm; color en humedo pardo oscuro (10YR3/3); franco arcilloso; estructura en prismas irregulares; friable en humedo; plastico; adhesivo; pH 7,2; barnices comunes de arcilla y humus; raices comunes; limite inferior gradual.
-BC	56-75 cm; color en humedo pardo oscuro a pardo (10YR4/3); franco arcillo limoso; estructura en prismas irregulares moderados a fuertes rompe a prismas y bloques menores; friable en humedo; plastico; ligeramente adhesivo; pH 7,3; escasos barnices arcillosos medios; limite inferior gradual.
-C	75 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; masivo; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,6.
-Datos analiticos Serie TOTORAL
 LATITUD:S304300
 LONGITUD:O640200
 ALTITUD:550 m.s.n.m.

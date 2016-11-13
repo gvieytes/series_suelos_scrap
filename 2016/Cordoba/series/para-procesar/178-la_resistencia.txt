@@ -2,13 +2,8 @@ Serie LA RESISTENCIA
 Simbolo: FALTA!
 CLASIFICACION: Endoacuol tipico
 TPS: limosa fina a limosa gruesa, calcarea, mixta, termica
-La Serie La Resistencia representa los suelos imperfectamente drenados, desarrollados a partir de sedimentos loessicos de textura franco limosa, vinculados a planos deprimidos y sectores concavos. El horizonte superficial (Ap + Ak), esta lavado y decolorado y presenta sintomas de falta aireacion periodica por saturacion del suelo con agua. La estructura es debil y los agregados inestables. Luego de un horizonte transicional, se alcanza el material originario (Ck) a 55 cm de profundidad, de textura franco limosa. El perfil presenta alcalinidad sodica a partir de 19 cm y el carbonato de calcio, se encuentra en forma pulverulenta desde la superficie, incrementando su tenor en profundidad. Estos suelos estan sujetos a anegamientos frecuentes y el agua se elimina del perfil muy lentamente por percolacion o evapotranspiracion ya que, por la posicion que ocupan en el paisaje, el escurrimiento superficial es inadecuado. Por lo general, estos suelos son dedicados a pasturas naturales e implantadas resistentes a las condiciones de alcalinidad y drenaje impedido.
 UBICACION: a 11 km al Norte de la localidad de Dalmacio Velez Sarsfield, departamento Tercero Arriba, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-Ank	19-31 cm; color en humedo pardo grisaceo oscuro (10YR3,5/3); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundante carbonato pulverulento en la masa del suelo; moteados de Fe escasos y finos; muy lavado; limite inferior claro y suave.
-ACnk	31-55 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; abundante carbonato de calcio pulverulento en la masa; moteados de Fe comunes y precisos; limite inferior gradual.
-Ck	55 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso; masivo; muy friable en humedo; ligeramente plastico; ligeramente adhesivo; abundante contenido de carbonato de calcio en la masa; moteados de Fe comunes, finos y precisos.
-Datos analiticos Serie LA RESISTENCIA
 LATITUD:S323031
 LONGITUD:O633500
 ALTITUD:239 m.s.n.m.

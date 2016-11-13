@@ -2,13 +2,8 @@ Serie LA CARLOTA
 Simbolo: LCt
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-La Serie La Carlota es un suelo algo excesivamente drenado desarrollado sobre sedimentos eolicos de textura franco arenosa a arenosa. Ocupa las lomadas y esta asociada geograficamente especialmente con sus fases erosionadas por el viento y otros suelos de lomas e intrazonales. Tiene escaso desarrollo, presentando un horizonte superficial de 30 cm de espesor (A o capa arable) de color oscuro, textura franco arenosa a franca con 7,8% de arcilla y 35% de limo, estructura en bloques moderados a debiles y esta bien provisto de materia organica. Le sigue en profundidad un horizonte de transicion (AC) de textura franco arenosa donde disminuye la materia organica que gradualmente pasa al material originario (horizonte C) que aparece a 60 cm de profundidad con 57% de arenas y 10% de arcilla. A 100 cm presenta un 3,6% de CO3Ca libre en la masa del suelo. Los perfiles de esta Serie tienen reaccion neutra o ligeramente acida hasta el Ck y pueden estar afectados por erosion eolica en diverso grado. Son moderadamente fertiles y las limitantes principales para su uso se derivan de la textura franco arenosa, que implica susceptibilidad a la erosion eolica ademas de los aspectos climaticos. Obviamente las texturas livianas con moderada a baja retencion de humedad acentuan la sequia edafica.
 UBICACION: a 30 Km al SO de la ciudad de La Carlota, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	27-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques debiles tendencia masivo; friable en humedo; no plastico; no adhesivo; pH 7; raices escasas; limite inferior gradual.
-C	60-100 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 7; limite inferior abrupto, ondulado.
-Ck	100 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso a arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; violenta reaccion al ClH en la masa del suelo.
-Datos analiticos Serie LA CARLOTA
 LATITUD:S333644
 LONGITUD:O632801
 ALTITUD:131 m.s.n.m.

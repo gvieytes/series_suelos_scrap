@@ -2,14 +2,8 @@ Serie LOS TAMARINDOS
 Simbolo: FALTA!
 CLASIFICACION: Endoacuol tipico
 TPS: franca gruesa, mixta, termica
-La Serie Los Tamarindos es un suelo imperfectamente drenado, con moderada alcalinidad sodica y salinidad, desarrollado sobre materiales francos y vinculados a areas ligeramente deprimidas y a bajos de las nacientes del Saladillo. Los primeros 15 cm que constituyen la capa arable (horizonte Ap), es de color gris muy oscuro, de textura franca a franco limosa y estructura en bloques debiles. Hacia abajo pasa claramente a otro horizonte algo mas pesado (horizonte B) que se extiende hasta los 29 cm, de color pardo grisaceo oscuro, estructura en prismas debiles con escasos barnices humico-arcillosos muy finos en las caras de los agregados. La transicion hacia el substrato (horizonte C) es muy gradual. Este ultimo se encuentra a una profundidad promedio de 60 cm, es un material franco a franco limoso suelto y con calcareo diseminado en la masa a partir de los 105 cm de profundidad.
 UBICACION: a 12,8 km al SSO de Monte Maiz, departamento Union, provincia de Cordoba.
 COLOR: color en humedo gris muy oscuro (10YR3/1)
-Bn	15-29 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco; estructura en prismas irregulares, medios, debiles rompe a bloques; friable en humedo; no plastico; no adhesivo; escasos barnices humico-arcillosos medios; moteados comunes, finos y debiles; concreciones calcareas comunes y finas; limite inferior gradual, suave.
-BCn	29-60 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques subangulares debiles a masivo; friable en humedo; no plastico; no adhesivo; vestigios de barnices finos; moteados comunes, medios, precisos; abundantes pseudomicelios salinos; concreciones calcareas comunes, medias; limite inferior gradual suave.
-Cz	60-105 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco a franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; moteados abundantes, medios, sobresalientes; abundantes pseudomicelios salinos; concreciones calcareas comunes y medias; limite inferior abrupto, suave.
-Ckz	105 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, gruesos, sobresalientes; abundantes pseudomicelios salinos; abundante calcareo diseminado en la masa y en concreciones.
-Datos Analiticos Serie LOS TAMARINDOS
 LATITUD:S321747
 LONGITUD:O624102
 ALTITUD:111 m.s.n.m.

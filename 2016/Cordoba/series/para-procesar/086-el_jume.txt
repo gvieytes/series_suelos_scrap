@@ -2,11 +2,8 @@ Serie EL JUME
 Simbolo: Eju
 CLASIFICACION: Endoacuent tipico
 TPS: franca fina, mixta, termica
-La Serie El Jume es un suelo pobremente drenado, sin desarrollo de horizontes geneticos, formado por capas aluviales con dominio de texturas pesadas; generalmente tiene la capa freatica afectando el perfil muy proxima a la superficie. Es sodico, fuertemente salino desde la superficie y susceptible a sufrir inundaciones y/o anegamientos. Ocupa un area alargada en sentido Norte-Sur correspondiente a la parte mas baja dentro del primer Saladillo. La vegetacion natural consiste exclusivamente en halofitas muy resistentes a las limitaciones extremas indicadas, en especial jume colorado y salicornia. La capa 1 superficial se extiende hasta 22 cm, es franco arcillo limosa con mas del 15% de sodio de intercambio y 88,6 mmhos de conductividad. La capa siguiente se extiende hasta la capa freatica (30 cm) con texturas similares aumentando el sodio de intercambio y el material calcareo diseminado en la masa. Es normal la presencia en todo el perfil de pseudomicelios salinos. Dentro de la Serie El Jume existen algunas variaciones en cuanto a los espesores de las capas pero las condiciones de drenaje pobre, anegamientos muy frecuentes, alcalinidad y salinidad muy alta son un denominador comun para todos los perfiles de la Serie.
 UBICACION: a 6 Km al Este de El Guanaco, departamento Rio Seco, provincia de Cordoba.
 COLOR: color en humedo pardo amarillento oscuro (10YR3/4)
-2zn	22 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arcillo limoso; masivo; violenta reaccion de larga duracion al ClH en la masa del suelo; vestigios de raices; capa freatica a 40 cm; abundantes pseudomicelios salinos y caracoles.
-Datos analiticos Serie El JUME
 LATITUD:S295800
 LONGITUD:O631640
 ALTITUD:75 m.s.n.m.

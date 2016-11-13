@@ -2,14 +2,8 @@ Serie CRISPI
 Simbolo: Cri
 CLASIFICACION: Natracualf tipico
 TPS: fina, mixta, termica
-Son suelos imperfecta a pobremente drenados, desarrollados en las areas planas en los sectores mas deprimidos del microrrelieve. Superficialmente tiene un horizonte A de 15 cm sobre un Bt arcillo limoso, con signos de hidromorfismo bien manifiesto y materia organica dispersada y acumulada en las paredes de las estructuras. Este subgrupo molico se diferencia del tipico por poseer un horizonte superior menos lixiviado, en consecuencia tambien algo mas enriquecido en materia organica y por lo tanto ligeramente mas productivo. Normalmente se los encuentra con otros suelos de mayor productividad por lo que son arados y manejados de acuerdo a las posibilidades de los acompanantes, provocando en estos un deterioro que se traduce en la perdida de su capacidad original productiva y en la aparicion de los "manchones" mas deprimidos donde se encuentra este suelo y caracteristico de estos complejos donde las aptitudes son muy diferentes.
 UBICACION: a 7 km al NNE de la localidad de Crispi, provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo oscuro (10YR4/2)
-Btn	16-45 cm; color en humedo pardo oscuro (7,5YR3/2); color en seco pardo a pardo oscuro (7,5YR4/2); arcillo limoso; estructura en prismas medios moderados a debiles que rompen en bloques subangulares medios y moderados; duro a muy duro; firme; muy plastico; adhesivo; barnices arcillo humico muy abundantes; moteados abundantes, precisos y medios; raices comunes; limite inferior claro, suave.
-Btn2	45-75 cm; color en humedo pardo (7,5YR4,5/2); color en seco pardo (7,5YR5/4); franco arcillo limoso; estructura en bloques subangulares medios a moderados, debiles y finos; duro; friable en humedo; adhesivo y plastico; escasas concreciones de carbonatos medias a finas de FeMn; escasos barnices arcillosos; moteados abundantes, precisos y medios; raices escasas; limite inferior gradual.
-BC	75-125 cm; color en humedo pardo (7,5YR5/4); color en seco pardo claro a pardo (7,5YR5,5/4); franco arcillo limoso; estructura en bloques subangulares medios, finos y debiles; ligeramente duro; muy friable a friable en humedo; plastico; ligeramente adhesivo; moteados abundantes precisos y gruesos; concreciones de FeMn comunes; limite inferior gradual.
-Ck	125 cm a +; color en humedo pardo (7,5YR5/4); color en seco pardo claro (7,5YR6/4); franco limoso; masivo; blando muy friable en humedo; no plastico; ligeramente adhesivo; carbonatos en la masa; moteados abundantes, precisos y gruesos; nivel freatico fluctuando en dicho horizonte.
-Datos analiticos Serie CRISPI
 LATITUD:S314124
 LONGITUD:O620018
 ALTITUD:104 m.s.n.m.

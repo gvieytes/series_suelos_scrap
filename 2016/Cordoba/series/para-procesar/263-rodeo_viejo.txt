@@ -2,13 +2,8 @@ Serie RODEO VIEJO
 Simbolo: RoV
 CLASIFICACION: Haplustol entico
 TPS: franca gruesa, mixta, termica
-La Serie corresponde a suelos profundos, algo excesivamente drenados, desarrollados sobre materiales francos, y se vincula a relieves de lomas onduladas. Es un suelo de incipiente desarrollo, con un horizonte A de 20 cm con bajo contenido de materia organica, debilmente acido y con debil estabilidad de los agregados. Pasa transicionalmente (AC) a un horizonte C a los 44 cm encontrando carbonatos libres diseminados en la masa del suelo a los 77 cm.
 UBICACION: a 7 Km al SSE de La Aguada, departamento Rio Cuarto, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-AC	20-44 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques debiles a masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior gradual.
-C	44-77 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; limite inferior abrupto.
-Ck	77 cm a +; color en humedo pardo (7,5YR5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moderado tenor de carbonato en la masa del suelo.
-Datos analiticos Serie RODEO VIEJO
 LATITUD:S330113
 LONGITUD:O643432
 ALTITUD:585 m.s.n.m.

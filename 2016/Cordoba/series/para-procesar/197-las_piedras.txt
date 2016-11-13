@@ -2,12 +2,8 @@ Serie LAS PIEDRAS
 Simbolo: FALTA!
 CLASIFICACION: Argiustol paquico
 TPS: franca gruesa, mixta, termica
-Esta Serie se encuentra ubicada en los vallecitos de las sierras bajas del complejo de rocas metamorficas de la margen oriental de la Sierra Chica de Cordoba. Los perfiles son algo excesivamente drenados con pendientes normalmente mayores al 3%. El material originario es de tipo fluvial y se caracteriza por tener un importante desarrollo en profundidad y con horizontes superficiales acumulados. Tiene un horizonte A o capa arable de 40 cm, lo que demuestra procesos de acumulacion del sedimento aluvional muy dinamico de estos valles; tiene textura franco arenosa gruesa con 12% de arcillas y solo 5% de limo, estructura en bloques subangulares moderados y color muy oscuro. Continua un horizonte enriquecido en arcillas iluviales de textura franco arenosa con 16% de arcilla y 21% de limo con estructura en prismas moderados y barnices comunes gruesos en las caras de los agregados. Este horizonte subsuperficial es divisible en Bt y Bt2, muy semejantes, que se diferencian por el mayor contenido de gravas de este ultimo, que se extiende hasta mas de 90 cm de profundidad.
 UBICACION: a 24 km al NO de la ciudad de Jesus Maria, departamento Totoral, provincia de Cordoba.
 COLOR: color en humedo pardo muy oscuro (10YR2/2)
-Bt	40-60 cm; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; estructura en prismas irregulares medios gruesos; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 6,4; barnices comunes medios de arcilla y humus; raices escasas; limite inferior gradual.
-Bt2	60 cm a +; color en humedo pardo oscuro pardo amarillento oscuro (10YR3/3,5); franco arenoso a franco; estructura en prismas irregulares moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices escasos a comunes; se observa aproximadamente un 10% de gravilla.
-Datos analiticos Serie LAS PIEDRAS
 LATITUD:S304849
 LONGITUD:O641333
 ALTITUD:700 m.s.n.m.

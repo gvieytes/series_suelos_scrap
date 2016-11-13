@@ -2,13 +2,8 @@ Serie ETRURIA
 Simbolo: Et
 CLASIFICACION: Endoacuol tipico
 TPS: franca gruesa, mixta, termica
-La Serie Etruria es un suelo moderadamente bien drenado desarrollado sobre materiales eolicos de textura franca a franco limosa. Esta vinculada a lomas aplanadas, areas intermedias y lineas de escurrimiento poco manifiestas dentro de la transicion entre la Pampa Limosa y la Pampa Arenosa Cordobesa. Los primeros 23 cm son de color pardo grisaceo muy oscuro, de textura franco limosa a franca y estructura en bloques moderados. Luego pasa a un horizonte de transicion (AC) que se extiende hasta 53 cm con estructura debil, 14,5% de arcilla y 17% de sodio de intercambio que se mantiene en profundidad aproximadamente constante hasta 78 cm donde comienza el Ck con carbonato de calcio libre en la masa del suelo. A partir de esta profundidad disminuye levemente el sodio; este horizonte tiene textura franca a franco limosa con 13% de arcilla y 52% de limo. La capa freatica se encuentra afectando al perfil aproximadamente a 120 cm.
 UBICACION: a 11,5 km al Oeste de Etruria, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-ACn	23-50 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco; estructura en bloques subangulares medios debiles; muy friable en humedo; no plastico; no adhesivo; pH 8,1; raices comunes; limite inferior gradual.
-Cn	50-78 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,2; moteados escasos, finos y debiles; raices escasas a vestigios; limite inferior abrupto, ondulado.
-Ck	78 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco limoso a franco; masivo; muy friable en humedo; no plastico; no adhesivo; pH 9,4; violenta reaccion al ClH en la masa del suelo.
-Datos analiticos Serie ETRURIA
 LATITUD:S325508
 LONGITUD:O632201
 ALTITUD:170 m.s.n.m.

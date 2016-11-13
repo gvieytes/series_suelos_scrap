@@ -2,14 +2,8 @@ Serie NOETINGER
 Simbolo: Ntg
 CLASIFICACION: Argiustol udico
 TPS: limosa fina, mixta, termica
-La Serie Noetinger es un suelo bien drenado, de las lomas casi planas y vias de desague poco manifiestas. Se encuentra vinculada a lomas aplanadas y ligeramente deprimidas. La capa arable de 18 a 22 cm de espesor (horizonte A), tiene textura franco limosa, estructura en bloques-granular y color pardo grisaceo muy oscuro. Hacia abajo pasa a otro horizonte mas arcilloso (horizonte Bt) que se extiende aproximadamente desde 20 hasta 47 cm de profundidad, de color pardo oscuro, estructura prismatica, presenta abundantes barnices en las caras de los agregados. La transicion entre el Bt y el substrato (horizonte C) es gradual, este ultimo se encuentra a una profundidad de 92 cm; es un material franco limoso, suelto, y con calcareo libre en la masa a partir de 123 cm de profundidad. Dentro de la Serie Noetinger existen algunas variaciones en el espesor del horizonte A y el Bt; la profundidad del solum oscila entre 80 y 95 cm. Los tenores de arcilla del horizonte Bt varian entre el 30 y 34%.
 UBICACION: a 13 Km al SO de la localidad de Noetinger, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	18-47 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso, estructura en prismas irregulares medios moderados, rompen a bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices abundantes medios; limite inferior claro, suave.
-BC	47-92 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; barnices escasos y finos; limite inferior difuso.
-C	92-123 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; escasos durinodulos finos; limite inferior abrupto, ondulado.
-Ck	123 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; no plastico; no adhesivo; abundante calcareo libre diseminado en la masa del suelo; escasos durinodulos finos y medios.
-Datos analiticos Serie NOETINGER
 LATITUD:S322856
 LONGITUD:O622051
 ALTITUD:112 m.s.n.m.

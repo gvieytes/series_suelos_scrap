@@ -2,11 +2,8 @@ Serie LOS MOLLES
 Simbolo: FALTA!
 CLASIFICACION: Ustorthent litico paralitico
 TPS: esqueletica, franca, mixta, termica
-Es un suelo excesivamente drenado desarrollado incipientemente sobre las laderas altas graniticas de las sierras de Las Penas, con gradientes muy variables que oscilan entre 10 al 40% encontrandose normalmente por encima de la cota de 650 hasta lo mas alto de la sierra en este sector (unos 780 m). Presenta una capa u horizonte unico (A) de 18 cm de espesor (muy variable) de textura esqueletica franco arenosa gruesa, con 5% de materia organica y estructura en bloques muy debiles, continua hacia abajo la roca granitica normalmente alterada en diverso grado.
 UBICACION: a 18 Km al NO de Almafuerte, departamento Calamuchita, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-R	18 cm a +; Roca alterada.
-Datos analiticos Serie LOS MOLLES
 LATITUD:S320351
 LONGITUD:O642332
 ALTITUD:650 m.s.n.m.

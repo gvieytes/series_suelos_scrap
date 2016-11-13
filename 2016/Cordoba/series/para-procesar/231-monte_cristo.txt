@@ -2,13 +2,8 @@ Serie MONTE CRISTO
 Simbolo: MCt
 CLASIFICACION: Haplustol tipico
 TPS: limosa fina, mixta, termica
-Es un suelo profundo, bien drenado desarrollado a partir de sedimentos loessicos de textura franco limosa sobre un paisaje de lomas planas muy extendidas ubicadas al Norte del rio Xanaes (Primero). La capa arable u horizonte superficial (A) tiene 20 cm de espesor, de color pardo grisaceo muy oscuro, con estructura en bloques subangulares. El subsuelo, horizonte Bw, presenta un leve enriquecimiento de arcillas iluviales con estructura en bloques debiles y escasos barnices en las caras de los agregados que se extiende hasta 42 cm de profundidad. Luego de una transicion (BC), el material originario del suelo se encuentra a 70 cm de profundidad, es franco limoso, masivo, con material calcareo libre en la masa del suelo. La reaccion en todo el perfil es ligeramente acida a neutra. No presenta alcalinidad ni salinidad en todo el perfil.
 UBICACION: a 4,7 km al Oeste de la localidad de Capilla de los Remedios, departamento Rio Primero, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	20-42 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso a franco arcillo limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices humicos arcillosos finos; limite inferior claro, suave.
-BC	42-67 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; no plastico; no adhesivo; vestigios de barnices arcillosos; escasos durinodulos medios; limite inferior abrupto, suave.
-Ck	67 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante carbonato pulverulento en la masa del suelo; cementado localmente el 30% de su volumen.
-Datos analiticos Serie MONTE CRISTO
 LATITUD:S312417
 LONGITUD:O634733
 ALTITUD:335 m.s.n.m.

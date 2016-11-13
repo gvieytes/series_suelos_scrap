@@ -2,15 +2,8 @@ Serie LAS MARINAS
 Simbolo: FALTA!
 CLASIFICACION: Argialbol tipico
 TPS: franca fina, mixta, termica
-Son suelos con drenaje interno moderado y vinculados a planos chatos extendidos o muy ligeramente deprimidos. Se han desarrollado a partir de sedimentos eolicos de textura franca. La parte superficial o capa arable llega hasta los 26 cm, de color pardo grisaceo oscuro, estructura en bloques moderados, textura franca y moderado contenido de materia organica. A partir de los 26 cm hasta los 34 cm, con limite abrupto se encuentra un horizonte E, de colores mas claros, con menor contenido de materia organica y arcilla que el superficial. Luego en forma abrupta pasa a un horizonte con mayor contenido de arcilla (horizonte Bt textural) que se extiende hasta los 71 cm de profundidad, es de color pardo oscuro, textura franca y estructura semicolumnar gruesa. El material originario se encuentra a 100 cm de profundidad. Esta Serie no se encuentra en unidades puras sino en unidades compuestas, generalmente asociados a suelos alcalinos sodicos y/o salino alcalinos con tenores variables de sales solubles y Na intercambiable, aunque tambien puede ocurrir asociada a suelos totalmente libres de sales o alcalis.
 UBICACION: a 21,5 Km al ESE de Melo, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-A	14-26 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; limite inferior claro, suave.
-E	26-34 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; estructura en bloques subangulares debiles a masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y debiles; limite inferior abrupto, suave.
-Bt	34-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura semicolumnar medios y gruesos, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes y medios; moteados abundantes, finos y precisos; limite inferior gradual, suave.
-Bt2	52-71 cm; color en humedo pardo oscuro (7,5YR3,5/2); franco; estructura en bloques subangulares, medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; moteados abundantes, medios y precisos; concreciones calcareas comunes y finas; limite inferior gradual, suave.
-BC	71-100 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moteados abundantes, finos y precisos; concreciones calcareas comunes, medias y finas.
-Datos analiticos Serie LAS MARINAS
 LATITUD:S342442
 LONGITUD:O631345
 ALTITUD:125 m.s.n.m.

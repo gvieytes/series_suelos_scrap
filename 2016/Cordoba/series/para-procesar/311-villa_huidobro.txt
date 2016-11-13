@@ -2,12 +2,8 @@ Serie VILLA HUIDOBRO
 Simbolo: VHd
 CLASIFICACION: Haplustol tipico
 TPS: franca fina, mixta, termica
-La Serie Villa Huidobro, es un suelo bien drenado, desarrollado sobre materiales francos y vinculado a lomas planas y pendientes al Sur-Sudoeste de Villa Huidobro. La capa arable de 20 cm de espesor es de color pardo grisaceo muy oscuro y estructura en bloques moderados, luego pasa a un horizonte B (cambico) de color pardo amarillento oscuro y estructura en bloques. El material originario (horizonte C) se encuentra a 38 cm de profundidad, es de textura franca y con abundante calcareo pulverulento en la masa. Son suelos agricolas, con moderado contenido de materia organica y buena retencion de humedad, siendo el clima su principal limitacion.
 UBICACION: a 8,5 Km al SO de Villa Huidobro, departamento General Roca, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	20-38 cm; color en humedo pardo amarillento oscuro (10YR3/4); franco; estructura en bloques subangulares medios, moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices arcillosos; limite inferior abrupto, suave.
-Ck	38 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco; masivo; ligeramente plastico; ligeramente adhesivo; abundante calcareo pulverulento en la masa del suelo.
-Datos analiticos Serie VILLA HUIDOBRO
 LATITUD:S345400
 LONGITUD:O643900
 ALTITUD:251 m.s.n.m.

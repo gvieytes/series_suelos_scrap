@@ -2,14 +2,8 @@ Serie OLIVA
 Simbolo: Olv
 CLASIFICACION: Haplustol acuico
 TPS: franca fina, mixta, termica
-La Serie Oliva, es un suelo imperfectamente drenado y vinculado a planos deprimidos y bajos extendidos, desarrollados a partir de materiales loessicos franco limosos. Presentan alcalinidad sodica en profundidad. La capa arable de 22 cm de espesor, es de color pardo grisaceo oscuro, franco limosa, estructura en bloques y buen contenido de materia organica. Luego pasa en forma clara a un horizonte algo mas arcilloso (Bw y Bwk) que se extiende hasta los 80 cm de profundidad, presentando calcareo pulverulento a partir de los 52 cm. El material originario aparece a los 120 cm, es de color pardo, textura franco limosa, con abundante calcareo y elevada alcalinidad sodica. Son suelos agricolas, aunque presentan limitaciones por su drenaje imperfecto.
 UBICACION: a 2,8 Km OSO de la localidad de Oliva, departamento Tercero Arriba, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	22-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; adhesivo; barnices arcillosos (ClSk) comunes y medios; moteados comunes, finos y medios precisos; limite inferior abrupto, suave.
-Bwk	52-80 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; estructura en prismas irregulares medios, debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos (ClSk) comunes y finos; moteados comunes, medios y precisos; abundante calcareo en la masa del suelo.
-BCk	80-120 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos (ClSk) escasos y finos; moteados comunes, medios y precisos; limite inferior gradual.
-Ck	120 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento en la masa del suelo y en concreciones; moteados comunes, medios y precisos.
-Datos Analiticos Serie OLIVA
 LATITUD:S320306
 LONGITUD:O633552
 ALTITUD:265 m.s.n.m.

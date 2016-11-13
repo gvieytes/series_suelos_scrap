@@ -2,13 +2,8 @@ Serie RAYO CORTADO
 Simbolo: FALTA!
 CLASIFICACION: Haplustol paquico
 TPS: limosa fina, mixta, termica
-La Serie Rayo Cortado es un suelo oscuro inclusive subsuperficialmente, profundo y bien drenado con carbonato de calcio pulverulento a partir de 20 cm aumentando a mayor profundidad. Ocupa los planos fluviales del flanco oriental de la Sierra Norte de Cordoba. El horizonte superior (A) tiene 21 cm de espesor, de color pardo grisaceo muy oscuro, franco limoso, estructura en bloques subangulares medios moderados y granular y rico en materia organica. El horizonte desarrollado subsuperficialmente es franco limoso con estructura en bloques subangulares y prismas moderados con carbonato de calcio en la masa del suelo. La transicion al material originario (BCk) tiene CO3Ca en mayor proporcion, franco limoso y estructura en bloques debiles; se extiende hasta el metro de profundidad. Presenta arenas gruesas y gravas en todo el perfil: es un suelo bien drenado sin salinidad ni alcalinidad en ningun horizonte. Por ser un material originario formado por arrastre de corrientes fluviales de pie de monte, puede presentar algunas variantes en las proporciones de las arenas sin observarse limites abruptos. Por lo general en el A y BC hay arenas mas gruesas que en el resto del perfil y es comun la presencia de gravilla.
 UBICACION: a 9,5 km al SSO de la localidad de El Rodeo, departamento Tulumba, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bwk	21 - 46 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco limoso; estructura en bloques subangulares medios, debiles y prismas moderados que rompen a bloques; ligeramente duro en seco; friable en humedo; ligeramente plastico; ligeramente adhesivo; pH 7,9; violenta reaccion al ClH en la masa del suelo; barnices humico arcillosos; raices comunes; limite inferior gradual, suave.
-BCk	46 - 100 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco limoso; estructura en bloques subangulares debiles; ligeramente duro; ligeramente plastico; no adhesivo; pH 8,2; barnices arcillosos escasos; raices escasas a vestigios; limite inferior gradual.
-Ck	100 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco limoso a franco; masivo; ligeramente duro en seco; ligeramente plastico; pH 8,2; violenta a moderada reaccion al ClH en la masa del suelo.
-Datos analiticos Serie RAYO CORTADO
 LATITUD:S301515
 LONGITUD:O635400
 ALTITUD:450 m.s.n.m.

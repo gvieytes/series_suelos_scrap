@@ -2,12 +2,8 @@ Serie ACHALA IV
 Simbolo: FALTA!
 CLASIFICACION: Argiudol acuico
 TPS: fina, mixta, termica
-Es un suelo moderadamente bien drenado desarrollado sobre capas pluviales de pequenas terrazas planas o ligeramente inclinadas no inundables en las margenes de las vias de drenaje. Ocupa porciones alargadas de pocas docenas de metros de ancho. El horizonte superior (A) tiene 24 cm de espesor; es franco arcillo limoso con estructura en bloques subangulares medios moderados; muy rico en materia organica. Le sigue hasta los 110 cm un horizonte muy enriquecido en arcilla, divisible en dos (Bt1 y Bt2). El primero tiene estructura en prismas regulares gruesos, con textura arcillo limosa a arcillosa. El segundo tiene estructura similar con menor cantidad de arcilla (textura arcillo limosa). El escurrimiento es lento a medio recibiendo aportes hidricos abundantes de sectores mas positivos de relieve. Es un suelo moderadamente bien drenado, fuertemente desarrollado, con sintomas de hidromorfismo, con permeabilidad lenta identificado en los bordes de los cauces. Se caracteriza por tener un gran desarrollo con el horizonte B fuertemente textural, algunos perfiles tienen hasta 2 m de espesor.
 UBICACION: en una terraza de la parte baja de la cuenca estancia San Miguel, departamento San Alberto, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	24-60 cm; color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5); franco arcillo limoso a arcilloso; estructura en prismas regulares gruesos que rompen a prismas; firme en humedo; muy plastico; adhesivo; pH 4,8; barnices humico arcillosos muy abundantes gruesos; moteados de FeMn comunes medios y sobresalientes; raices escasas; limite inferior gradual.
-Bt2	60 cm a +; arcillo limoso; estructura en prismas regulares medios a gruesos fuertes que rompen a prismas; firme en humedo; plastico; adhesivo; barnices humico arcillosos muy abundantes medios; muy moteado; vestigios de raices.
-Datos analiticos Serie ACHALA IV
 LATITUD:S314400
 LONGITUD:O644600
 ALTITUD:1900 m.s.n.m.

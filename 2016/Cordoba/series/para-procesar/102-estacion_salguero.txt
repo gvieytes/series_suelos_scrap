@@ -2,13 +2,8 @@ Serie ESTACION SALGUERO
 Simbolo: FALTA!
 CLASIFICACION: Natracuol tipico
 TPS: franca gruesa, mixta, termica
-La Serie Estacion Salguero es un suelo imperfectamente drenado, fuertemente salino y alcalino sodico y vinculado a sectores de bajos, con escurrimiento muy lento y facilmente anegable. El horizonte superficial (A) se extiende hasta los 24 cm de profundidad, es de color pardo grisaceo oscuro, bien provisto de materia organica, libre de alcalinidad sodica y debilmente salino. Luego pasa abruptamente a un horizonte mas arcilloso (B textural) de color pardusco, estructura prismatica y con fuerte alcalinidad y salinidad. El material originario se encuentra a los 91 cm de profundidad aproximadamente, es un material franco arenoso y con abundante calcareo pulverulento en la masa del suelo. El drenaje impedido y la fuerte alcalinidad y salinidad subsuperficial, limitan el uso de estos suelos, fundamentalmente a cultivos y pasturas adaptadas a las limitaciones indicadas.
 UBICACION: a 17 Km al NO de Villa Rossi, departamento Presidente Roque Saenz Pena, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btn	24-55 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en prismas irregulares, medios debiles y bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos comunes y finos; moteados abundantes, finos y precisos; concreciones calcareas comunes y finas; limite inferior gradual, suave.
-BCz	55-91 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); estructura en bloques subangulares, medios moderados; friable en humedo; barnices arcillosos escasos y finos; moteados abundantes, finos y precisos; concreciones calcareas comunes y finas; limite inferior abrupto suave.
-Ck	91 cm a +; color en humedo pardo (7,5YR5/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes finos y precisos; concreciones calcareas comunes, y finas y abundante calcareo pulverulento en la masa del suelo.
-Datos analiticos Serie ESTACION SALGUERO
 LATITUD:S341320
 LONGITUD:O632548
 ALTITUD:135 m.s.n.m.

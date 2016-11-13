@@ -2,14 +2,8 @@ Serie CINTRA
 Simbolo: Ct
 CLASIFICACION: Argiustol acuico
 TPS: franca fina, mixta, termica
-La Serie Cintra es un suelo liviano, moderadamente bien drenado con exceso de sodio de intercambio desde 40-50 cm de profundidad. Se encuentra vinculado a planos ligeramente deprimidos que bordean a las areas de derrame fluvial. El horizonte superficial tiene 12 cm de espesor, de textura franco limosa y estructura en bloques subangulares debiles; le sigue un horizonte algo mas arcilloso (Bt ligeramente textural) con estructura moderada prismatica que rompe a bloques con abundantes barnices. El material originario del suelo aparece a 75 cm de profundidad, con escasas concreciones calcareas finas y abundante carbonato de calcio diseminado en la masa a partir de 93 cm aproximadamente. El tenor de sodio de intercambio aumenta en profundidad presentando 11% a partir de 12 cm y hasta 50% en la base del solum. La permeabilidad es moderada, pero su posicion en el relieve le confiere algo de hidromorfismo.
 UBICACION: a 19 Km al Oeste de la localidad de Chilibroste, departamento Union, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	12-42 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en prismas irregulares medios moderados, rompen a bloques subangulares medios moderados; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices humico arcillosos abundantes y finos; moteados comunes, medios y debiles; limite inferior claro, suave.
-BCn	42-75 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco limoso; estructura en bloques subangulares medios debiles; muy friable en humedo; no plastico; no adhesivo; barnices arcillosos escasos y finos; moteados comunes medios y debiles; limite inferior gradual, suave.
-C	75-93 cm; color en humedo pardo a pardo oscuro (7,5YR4/3); franco limoso; masivo; muy friable en humedo; no plastico; no adhesivo; escasas concreciones calcareas finas y medias; limite inferior abrupto, suave.
-Ck	93 cm a +; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso, masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo pulverulento diseminado en la masa del suelo.
-Datos analiticos Serie CINTRA
 LATITUD:S322029
 LONGITUD:O624314
 ALTITUD:134 m.s.n.m.

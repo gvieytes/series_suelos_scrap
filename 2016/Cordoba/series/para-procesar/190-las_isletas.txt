@@ -2,13 +2,8 @@ Serie LAS ISLETAS
 Simbolo: LIt
 CLASIFICACION: Haplustol tipico
 TPS: franca gruesa, mixta, termica
-La Serie Las Isletas es un suelo bien drenado de las lomas planas y ocupan un amplio sector al Sur y SO de Villa Huidobro. La capa arable de 18 cm de espesor (horizonte A) es de color pardo grisaceo muy oscuro, textura franca y estructura en bloques y granular moderados. Luego pasa en forma clara a un horizonte ligeramente mas arcilloso (Bw cambico, no textural), de color pardo oscuro y estructura en prismas debiles y bloques. El pasaje al material madre (horizonte C) es gradual, encontrandose este a 58 cm de profundidad, de color pardo amarillento oscuro a pardo oscuro y textura franco arenosa. Es un suelo apto para cultivos adaptados climaticamente, con buen contenido de materia organica y buena retencion de humedad.
 UBICACION: a 8 Km al SO de Villa Huidobro, departamento General Roca, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	18-37 cm; color en humedo pardo oscuro (10YR3/3); franco a franco arcillo arenoso; estructura en prismas irregulares medios, debiles y bloques; friable en humedo; ligeramente plastico; ligeramente adhesivo; escasos barnices humico-arcillosos, medios; limite inferior claro, suave.
-BC	37-58 cm; color en humedo pardo oscuro a pardo amarillento oscuro (10YR3/3,5); franco arenoso a franco arcillo arenoso; estructura en bloques subangulares medios, moderados a debiles; friable en humedo; vestigios de barnices "Clay Skins" finos; limite inferior gradual, suave.
-C	58 cm a +; color en humedo pardo amarillento oscuro (10YR3/4); franco arenoso; masivo; friable en humedo; no plastico; no adhesivo.
-Datos analiticos Serie LAS ISLETAS
 LATITUD:S345400
 LONGITUD:O643800
 ALTITUD:141 m.s.n.m.

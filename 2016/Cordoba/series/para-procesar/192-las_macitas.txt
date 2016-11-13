@@ -2,13 +2,8 @@ Serie LAS MACITAS
 Simbolo: LMc
 CLASIFICACION: Haplustol tipico
 TPS: limosa fina, mixta, termica
-La Serie Las Macitas es un suelo debil a moderadamente desarrollado sobre materiales franco limosos de origen eolico con ligera influencia fluvial. Se la encuentra en las lineas de escurrimiento moderadas a debilmente manifiestas y microareas de derrame en la planicie fluvio eolica. Es un suelo bien drenado encontrandose casi siempre en areas planas o ligeramente concavas pero sin ningun tipo de problema de anegamiento ni acumulacion de sales ni alcalis. La parte superficial presenta un horizonte A de 23 cm con textura franco limosa, estructura en bloques moderados y color pardo grisaceo muy oscuro. El horizonte subsuperficial que llega hasta 43 cm (Bw cambico) es algo mas arcilloso con estructura en prismas debiles, textura franco arcillo limosa a franco limosa. El horizonte Ck se encuentra a 67 cm de profundidad, es franco limoso, masivo con algunas evidencias de endurecimiento a mas de 100 cm de profundidad, presenta calcareo diseminado en la masa y algunos pseudomicelios salinos que los datos analiticos no detectan.
 UBICACION: a 11 km al Norte de Sebastian Elcano, departamento Rio Seco, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bw	23-43 cm; color en humedo pardo a pardo oscuro (10YR4/3); franco arcillo limoso; estructura en prismas irregulares medios debiles; friable en humedo; plastico; adhesivo; pH 6,8; barnices humico arcillosos escasos a abundantes finos; raices escasas; limite inferior claro, suave.
-BC	43-67 cm; color en humedo pardo amarillento oscuro (10YR3,5/4); franco limoso; estructura en bloques subangulares medios moderados; friable en humedo; ligeramente plastico; no adhesivo; pH 7; barnices arcillosos vestigios a escasos finos; vestigios de raices; limite inferior claro, suave.
-Ck	67 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; pH 8,2; violenta reaccion al ClH en la masa del suelo.
-Datos analiticos Serie LAS MACITAS
 LATITUD:S300400
 LONGITUD:O633700
 ALTITUD:218 m.s.n.m.

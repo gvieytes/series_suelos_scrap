@@ -2,12 +2,8 @@ Serie CERRO NEGRO
 Simbolo: CN
 CLASIFICACION: Ustorthent litico paralitico
 TPS: esqueletica, franca, mixta, termica
-Este suelo se ha desarrollado incipientemente sobre rocas del complejo metamorfico de las serranias de la vertiente oriental de la Sierra Chica de Cordoba y de Ischilin. Ocupa laderas muy inclinadas/colinadas y se caracteriza esencialmente por su profundidad efectiva muy somera, pedregosidad y textura de matriz franco arenosa a areno franca gruesa.
 UBICACION: a 8 km al Oeste del paraje Canada de Rio Pinto, departamento Ischilin, provincia de Cordoba.
 COLOR: color en humedo pardo oscuro (10YR3/3)
-2	8-16 cm; color en humedo pardo amarillento oscuro (10YR3/4); areno franco gravilloso; estructura en bloques debiles; friable en humedo; no plastico; no adhesivo; raices escasas; limite inferior claro (mas de 30% de gravilla).
-R	16 cm a +; roca alterada del complejo metamorfico; colores cambiantes segun el mineral o combinaciones de minerales observados; predominan las rojizas y amarillentas segun el grado de alteracion (contacto litico/paralitico).
-Datos analiticos Serie CERRO NEGRO
 LATITUD:S304653
 LONGITUD:O641547
 ALTITUD:1000 m.s.n.m.

@@ -2,13 +2,8 @@ Serie DIEGO DE ROJAS
 Simbolo: DRj
 CLASIFICACION: Natrustol tipico
 TPS: franca fina, mixta, termica (fluvial)
-Este suelo se ha desarrollado sobre sedimentos fluviales o aluviales en ambientes de derrames o terrazas antiguas vinculadas al rio Suquia (Primero). Ocupa un relieve relativamente deprimido o planos normalmente conformando complejos de suelos con otros de diferente aptitud en una distribucion muy heterogenea. Presenta un horizonte A de 20 cm de espesor de color oscuro con textura franca a franco limosa y estructura en bloques. Continua hacia abajo el horizonte subsuperficial (Btn) con enriquecimiento de arcillas sodicas (pH 8) con estructura en prismas y barnices comunes a abundantes en las caras de los agregados, se extiende hasta 45 cm. Luego de una transicion, el material originario del suelo aparece a 62 cm de profundidad con moderada reaccion al ClH en la masa del suelo.
 UBICACION: a 7 km al Este de la localidad de Diego de Rojas, departamento Rio Primero, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btn	20-45 cm; color en humedo pardo oscuro (10YR3/3), franco arcilloso, estructura en prismas irregulares medios, friable en humedo, plastico, adhesivo, pH 8, barnices humico arcillosos comunes a abundantes, raices escasas, limite inferior claro suave.
-BCn	45-62 cm; color en humedo pardo amarillento oscuro (10YR4/4), franco, estructura en bloques gruesos debiles, friable en humedo, no plastico, no adhesivo, pH: 8,2, barnices escasos arcillosos, limite inferior abrupto ondulado.
-Ckn	62 cm a +; color en humedo pardo (7,5YR5/4), franco, masivo, friable en humedo, moderada reaccion al ClH en la masa del suelo.
-Datos analiticos Serie DIEGO DE ROJAS
 LATITUD:S310417
 LONGITUD:O631933
 ALTITUD:135 m.s.n.m.

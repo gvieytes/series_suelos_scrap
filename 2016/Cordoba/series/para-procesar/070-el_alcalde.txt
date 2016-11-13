@@ -2,13 +2,8 @@ Serie EL ALCALDE
 Simbolo: EAd
 CLASIFICACION: Argiustol tipico
 TPS: franca fina, mixta, termica
-Es un suelo bien drenado desarrollado sobre sedimentos eolicos puros en ambientes de lomas muy suavemente onduladas o muy extendidas en el departamento Rio Primero. Es el mejor representante individual de los buenos suelos de la region en estudio, extendiendose hacia el Este. Posee buena retencion de humedad, se trabaja con facilidad siendo la unica limitante con caracter moderado la climatica por las altas temperaturas estivales principalmente. Presenta un horizonte superficial A de 24 cm de profundidad de color pardo grisaceo muy oscuro, estructura en bloques, textura franco limosa franco limosa, estructura en bloques con 26% de arcilla. Continua hacia abajo hasta 44 cm un horizonte enriquecido en arcillas iluviales (34%) de textura franco arcillo limosa, con barnices comunes a abundantes de arcilla y humus en las caras de los agregados. Continua hacia abajo una transicion (B/C) estando el material parental a profundidad de 70 cm, franco limoso, masivo con moderada reaccion al ClH en la masa del suelo.
 UBICACION: a 4 km al NNE del paraje homonimo, departamento Rio Primero, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	24-44 cm; color en humedo pardo oscuro (10YR3/3), franco arcillo limoso, estructura en prismas irregulares medios moderados, friable en humedo, plastico, adhesivo, pH 6,4, barnices de arcilla y humus comunes, raices comunes, limite inferior claro y suave.
-BC	44-70 cm; color en humedo pardo a pardo oscuro (7,5YR4/4), franco arcillo limoso a franco limoso, estructura en bloques y prismas debiles, friable en humedo, ligeramente plastico, no adhesivo, pH 7,7, barnices escasos de arcilla, raices escasas, limite inferior abrupto ondulado.
-Ck	70 cm a +; color en humedo pardo (7,5YR5/4), franco limoso, masivo, muy friable en humedo, no plastico, no adhesivo, pH 8,2, moderada reaccion al ClH en la masa del suelo.
-Datos analiticos Serie EL ALCALDE
 LATITUD:S310512
 LONGITUD:O633753
 ALTITUD:210 m.s.n.m.

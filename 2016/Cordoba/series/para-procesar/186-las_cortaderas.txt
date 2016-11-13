@@ -2,13 +2,8 @@ Serie LAS CORTADERAS
 Simbolo: LCr
 CLASIFICACION: Argiustol tipico
 TPS: franca fina, mixta, termica (calcarea)
-Esta Serie de suelos se ha desarrollado a partir de derrames distales de desbordes correspondientes a loess redepositados con influencia fluvial que se advierte por la incorporacion de un porcentaje menor de fracciones de arenas gruesas en relacion a los loess tipicos de la region. Domina en amplios sectores suavemente concavos y aplanados con complejos o asociaciones con otras Series de aptitud o capacidad de uso semejantes. El valor del gradiente raramente supera la pendiente regional menor al 0,5 %. Presenta superficialmente un horizonte A de 22 cm de espesor, franca a franco limosa, de color oscuro, franco limoso y estructura en bloques subangulares. Continua hacia abajo hasta 52 cm de profundidad un horizonte subsuperficial enriquecido moderadamente en arcillas iluviales con barnices comunes a abundantes en las caras de los agregados (Bt) de textura franca a franco arcillosa, con ligera reaccion al acido clorhidrico en la masa del suelo. El material originario del suelo se encuentra a 75 cm de profundidad con carbonatos libres no salino y no sodico.
 UBICACION: a 15 km al NE de la localidad de Rio Primero, departamento del mismo nombre, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Bt	22-52 cm; color en humedo pardo oscuro (10YR3/3), franco a franco arcilloso, estructura en prismas irregulares medios moderados, friable en humedo, ligeramente plastico, ligeramente adhesivo, pH 8,3, ligera reaccion al ClH en la masa del suelo, escasas concreciones de carbonato de calcio finas, barnices de arcilla y humus comunes a abundantes, escasas raices, limite inferior gradual.
-BCk	52 a 75 cm; color en humedo pardo amarillento oscuro (10YR3/4), franco, estructura en bloques debiles gruesos, friable en humedo, no plastico, no adhesivo, pH 8,5, escasa reaccion al ClH en la masa del suelo, barnices escasos de arcillas iluviales, raices escasas, limite inferior claro.
-Ck	75 cm a +; color en humedo pardo amarillento oscuro (10YR4/4), franco, masivo; muy friable en humedo, no plastico, no adhesivo, pH 8,5, moderada reaccion al ClH en la masa del suelo, vestigios de raices.
-Datos analiticos Serie LAS CORTADERAS
 LATITUD:S311436
 LONGITUD:O633231
 ALTITUD:210 m.s.n.m.

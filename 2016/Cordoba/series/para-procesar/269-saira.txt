@@ -2,16 +2,8 @@ Serie SAIRA
 Simbolo: Sr
 CLASIFICACION: Argiacuol tipico
 TPS: franca fina, mixta, termica
-La Serie Saira es un suelo moderadamente bien drenado, desarrollado a partir de materiales redepositados (fluvio eolicos) de texturas franco a franco limosas. Esta vinculado a zonas ligeramente deprimidas y depresiones de las areas de derrame. Los primeros 21 cm que constituyen la capa arable, tienen color grisaceo muy oscuro, textura franco limosa y estructura en bloques. Desde 21 a 29 cm el perfil se torna mas claro con moderado lavado (horizontes E/B) que cuando esta seco es duro y presenta abundantes moteados. Luego se pasa en forma abrupta a un horizonte mas arcilloso de color pardo oscuro y estructura columnar que se extiende hasta 64 cm. La transicion hacia el material originario (horizonte C): es gradual, encontrandose a una profundidad promedio de 93 cm. Los perfiles de la Serie Saira, presentan moderado contenido de sodio intercambiable y sales solubles a partir de 47 cm aumentando en profundidad.
 UBICACION: a 4,7 Km al OSO de la localidad de Saira, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-E/B	21-29 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco limoso; estructura en bloques subangulares medios debiles, tendencia masivo; friable en humedo; no plastico; no adhesivo; moteados comunes, finos y debiles; limite interior abrupto, suave.
-Bt	2947 cm; color en humedo pardo oscuro (7,5YR3/2); franco arcillo limoso; estructura columnar gruesa, rompe a prismas irregulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay skins" abundantes y medios; moteados comunes finos y debiles; limite inferior claro, suave.
-Bt2	47-64 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados, rompen a bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay skins" abundantes y medios; moteados comunes, finos y precisos; limite inferior gradual, suave.
-BC	64-93 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios debiles; friable en humedo; ligeramente plastico; ligeramente adhesivo; barnices arcillosos escasos y finos; moteados comunes, finos y debiles; concreciones calcareas escasas y finas; durinodulos escasos y finos; limite inferior abrupto, ondulado.
-Cz	93-140 cm; color en humedo pardo (7,5YR5/4); franco; masivo; muy friable en humedo; no plastico; no adhesivo; moteados comunes medios y debiles; durinodulos escasos y finos; concreciones calcareas escasas y finas; limite inferior abrupto, ondulado.
-2kz	140 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo libre diseminado en la masa.
-Datos analiticos Serie SAIRA
 LATITUD:S322441
 LONGITUD:O620909
 ALTITUD:98 m.s.n.m.

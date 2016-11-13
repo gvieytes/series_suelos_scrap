@@ -2,15 +2,8 @@ Serie COLONIA MENDIGUREN
 Simbolo: FALTA!
 CLASIFICACION: Natracualf tipico
 TPS: fina, illitica, termica
-Los suelos de la Serie Colonia Mendiguren se han desarrollado a partir de materiales franco limosos finos, dentro de la Depresion del arroyo Tortugas. Son fuertemente alcalino-sodicos y con drenaje natural imperfecto a pobre. El horizonte superficial tiene unos 14 cm de espesor, es de color pardo grisaceo, de textura franco limosa y estructura en bloques. El perfil pasa bruscamente hacia abajo a un horizonte mas arcilloso (Bt), de color pardo a pardo oscuro y estructura prismatica, que se extiende hasta los 50 cm de profundidad. El material originario (horizonte C) se encuentra a los 76 cm y es de color pardo, de textura franco limosa y contiene abundante material calcareo diseminado en la masa del suelo a partir de los 108 cm de profundidad. La fuerte alcalinidad sodica desde la superficie, que impide el desarrollo normal de las raices, y el pobre drenaje de estos suelos, son factores limitantes para los cultivos normales en la zona, por lo que siempre se destina estos suelos a campos naturales de pastoreo. En los mapas aparece como unidades compuestas formando complejos con otros suelos alcalino-sodicos.
 UBICACION: a 11 Km al OSO de la localidad de Montes de Oca, provincia de Santa Fe.
 COLOR: color en humedo pardo grisaceo oscuro a pardo grisaceo muy oscuro (10YR3,5/2)
-Btn	14-33 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso a arcillo limoso; estructura en prismas irregulares medios moderados a debiles, rompen en bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes y gruesos; moteados comunes, finos y precisos; concreciones calcareas escasas y finas; limite inferior claro, suave.
-Btn2	33-50 cm; color en humedo pardo a pardo oscuro (7,5YR4/2); franco arcillo limoso; estructura en prismas irregulares medios moderados, rompen en bloques subangulares medios moderados; friable en humedo; plastico; adhesivo; barnices "Clay Skins" abundantes y medios; moteados comunes, finos y precisos; escasas concreciones calcareas finas; limite inferior claro, suave.
-BCn	50-76 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco arcillo limoso; estructura en bloques subangulares medios moderados a debiles; friable en humedo; ligeramente adhesivo; barnices "Clay Skins" escasos y finos; moteados abundantes, gruesos y precisos; muy poroso; escasas concreciones calcareas finas; limite inferior gradual, suave.
-C	76-106 cm; color en humedo pardo (7,5YR4,5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; moteados abundantes, gruesos y precisos; escasas concreciones calcareas finas; sectores debilmente cementados; limite inferior abrupto, suave.
-Ck	106 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; friable en humedo; no plastico; no adhesivo; abundante calcareo diseminado en la masa; moteados abundantes, gruesos y precisos; debilmente cementado.
-Datos Analiticos Serie COLONIA MENDIGUREN
 LATITUD:S323700
 LONGITUD:O615200
 ALTITUD:78 m.s.n.m.

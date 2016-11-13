@@ -2,13 +2,8 @@ Serie LOS OLMOS
 Simbolo: FALTA!
 CLASIFICACION: Natracuol tipico
 TPS: franca gruesa, mixta, termica
-Se trata de un suelo pobre a imperfectamente drenado y alcalino sodico a partir de 17 cm de profundidad. Se ha desarrollado sobre sedimentos eolicos franco arenosos a arenoso franco en sectores deprimidos, dentro de la gran unidad geomorfologica de la pampa arenosa cordobesa, normalmente la capa freatica esta afectando el perfil del suelo. La parte superficial del suelo de 19 cm de espesor (horizonte A) tiene textura franco arenosa a franca, estructura en bloques, color pardo muy oscuro. Continua hasta 38 cm un horizonte enriquecido en arcilla (Bt textural), con barnices de arcilla y humus abundantes en las caras de los agregados y alcalinidad sodica, posee estructura en prismas y textura franco arcillo arenosa. El horizonte C o material originario se encuentra a 58 cm de profundidad, con textura franco arenosa a arenosa. No se observa salinidad en el perfil modal.
 UBICACION: a 9,5 Km al SE de la localidad de La Carlota, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-Btnk	19-38 cm; color en humedo pardo oscuro (10YR3/3); franco arcillo arenoso; estructura en prismas irregulares medios moderados y bloques irregulares; friable en humedo; ligeramente plastico; no adhesivo; pH 8,8; moderada reaccion al ClH en la masa del suelo; barnices abundantes (clhm) medios y finos; moteados de FeMn abundantes medios y precisos; raices escasas; limite inferior claro, suave.
-BCnk	38-58 cm; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso; estructura en bloques subangulares debiles; friable en humedo; no plastico; no adhesivo; pH 9,1; moderada reaccion al ClH en la masa del suelo; escasos barnices arcillosos; moteados abundantes medios y precisos; limite inferior gradual.
-Cnk	58 cm a +; color en humedo pardo amarillento oscuro (10YR4/4); franco arenoso a arenoso; masivo; friable en humedo; no plastico; no adhesivo; pH 9,6; moderada reaccion al ClH en la masa del suelo.
-Datos analiticos Serie LOS OLMOS
 LATITUD:S332737
 LONGITUD:O631421
 ALTITUD:135 m.s.n.m.

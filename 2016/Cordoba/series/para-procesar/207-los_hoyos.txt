@@ -2,12 +2,8 @@ Serie LOS HOYOS
 Simbolo: LHy
 CLASIFICACION: Haplustol paquico
 TPS: franca gruesa, mixta, termica
-La Serie Los Hoyos es un suelo oscuro, profundo, desarrollado incipientemente sobre materiales franco arenosos a francos. Se la encuentra en las formaciones de pie de monte y areas de derrame del flanco Este de la Sierra Norte de Cordoba. La parte superficial del suelo (horizonte A) es franco limoso a franco, tiene una estructura en bloques subangulares medios debiles y color pardo grisaceo muy oscuro. Le sigue a continuacion una transicion hacia el sustrato (horizonte AC) de textura franca y estructura debil. A partir de 59 cm comienza el material originario de textura franco arenosa y material calcareo diseminado en la masa. Se caracteriza por tener arena media, gruesa y gravilla en todo el perfil en especial subsuperficialmente. El drenaje es algo excesivo y el escurrimiento dominante de lento a medio. La limitacion observada desde el punto de vista estrictamente edafico es la baja a moderada retencion de humedad. Dentro de la Serie Los Hoyos existen variaciones notables en el espesor del horizonte A (de 18 a 25 cm). Por otra parte, el horizonte AC puede o no presentar CO3Ca pulverulento diseminado en la masa y cambios menores en los tenores de las arenas gruesas y medias siempre dentro de las texturas indicadas. Esta Serie presenta una fase moderadamente erosionada por agua integrando la composicion edafica de las unidades inclinadas de pie de monte como por ejemplo los conos aluviales. En fase inclinada integra los abanicos aluviales caracterizados por pendientes suaves y largas.
 UBICACION: a 7 Km. al Sur de la localidad de los Hoyos, en el departamento Rio Seco, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-AC	25 - 59 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); franco; estructura en bloques subangulares medios debiles a masivo; friable en humedo; pH 8,2; escasa reaccion al ClH en la masa del suelo; barnices comunes; limite inferior gradual suave.
-Ck	59 cm a +; color en humedo pardo oscuro (10YR3/3); franco arenoso a franco; masivo; friable en humedo; pH 8,3; violenta reaccion al ClH en la masa del suelo; vestigios de raices.
-Datos analiticos Serie LOS HOYOS
 LATITUD:S295100
 LONGITUD:O633700
 ALTITUD:300 m.s.n.m.

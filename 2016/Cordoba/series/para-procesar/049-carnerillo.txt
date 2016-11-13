@@ -2,14 +2,8 @@ Serie CARNERILLO
 Simbolo: FALTA!
 CLASIFICACION: Natracualf tipico
 TPS: franca gruesa, mixta, termica
-Esta Serie corresponde a suelos imperfectamente drenados, desarrollados a partir de sedimentos de origen eolico, de textura franca arenosa, vinculados a sectores deprimidos anegables. En el horizonte superficial, decolorado, notamos evidencias de falta de aireacion periodica por saturacion del suelo con agua. A partir de los 25 cm de profundidad se encuentra un horizonte enriquecido en arcilla (Bt) de textura franca y estructura en prismas medios moderados poco permeables, constituyendose en un impedimento para el paso del agua a traves del perfil del suelo. Generalmente se pasa al horizonte Ck. El perfil presenta fuerte alcalinidad sodica a partir de los 16 cm de profundidad. Estos suelos estan sujetos a anegamientos frecuentes por la posicion que ocupan en el paisaje y el escurrimiento superficial muy lento o nulo. Por lo general estos suelos son dedicados a pasturas (pastos naturales) ya que no son aptos para ningun cultivo.
 UBICACION: a 8 Km al Oeste de Estancia El Iman, departamento Juarez Celman, provincia de Cordoba.
 COLOR: color en humedo pardo amarillento oscuro (10YR3/4)
-En2	16-25 cm; color en humedo pardo grisaceo oscuro (10YR3,5/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; moteados de FeMn comunes medios y precisos; limite inferior abrupto, suave.
-Btn	25-46 cm; color en humedo pardo oscuro (7,5YR3/2); franco; estructura en prismas irregulares medios moderados; friable en humedo; ligeramente plastico; adhesivo; comunes concreciones de carbonato de calcio finas; comunes barnices humico arcillosos medios; moteados de FeMn comunes medios y precisos; limite inferior gradual.
-BCn	46-63 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco a franco arenoso; estructura en bloques subangulares medios debiles; friable en humedo; no plastico; no adhesivo; comunes concreciones de CO3Ca finas; escasos barnices; moteados de FeMn comunes, medios y precisos; limite inferior abrupto, suave.
-Ckn	63 cm a +; color en humedo pardo (7,5YR4,5/4); franco arenoso; masivo; muy friable en humedo; no plastico; no adhesivo; moderado contenido de carbonato pulverulento en la masa del suelo; moteados de FeMn abundantes, medios y precisos a sobresalientes.
-Datos analiticos Serie CARNERILLO
 LATITUD:S325419
 LONGITUD:O634242
 ALTITUD:238 m.s.n.m.

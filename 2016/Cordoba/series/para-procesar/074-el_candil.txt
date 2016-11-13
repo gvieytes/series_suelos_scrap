@@ -2,14 +2,8 @@ Serie EL CANDIL
 Simbolo: ECd
 CLASIFICACION: Natralbol tipico
 TPS: limosa fina, mixta, termica
-La Serie El Candil es un suelo moderadamente bien drenado, desarrollado sobre materiales franco limosos de los planos chatos y deprimidos. Tienen moderada alcalinidad sodica a partir de los 20 cm aumentando considerablemente en profundidad y con moderado contenido de sales solubles a partir de los 50 cm aproximadamente. La parte superficial del suelo se divide en dos horizontes: uno superior (horizonte Ap) hasta los 10 cm de color pardo grisaceo muy oscuro y estructura en bloques subangulares y otro inferior (horizonte E) algo mas claro y duro en seco de mas o menos 8 cm de espesor; ambos horizontes tienen textura franco limosa. A los 18 cm pasa abruptamente a un material mas arcilloso (horizonte Bt), de color pardo oscuro y estructura columnar gruesa, que se extiende hasta los 52 cm Esta parte del perfil es moderadamente alcalino sodico, limitando el desarrollo normal de las raices. El substrato (horizonte Ck) se encuentra aproximadamente a 97 cm de profundidad, es de color pardo, de textura franco limosa y con abundante calcareo libre en la masa.
 UBICACION: a 13,5 km al NNO de Leones, departamento Marcos Juarez, provincia de Cordoba.
 COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-E	0-18 cm; color en humedo pardo grisaceo muy oscuro (10YR3/2); color en seco pardo grisaceo (10YR5/2); franco limoso; estructura en bloques angulares medios moderados; friable en humedo; moteados escasos, finos y debiles; limite inferior abrupto, ondulado.
-Btn	18-52 cm; color en humedo pardo oscuro (7,5YR3/2); franco limoso a franco arcillo limoso; estructura columnar gruesa fuerte, rompe en prismas irregulares medios moderados; firme; plastico; adhesivo; barnices "Clay Skins" abundantes y gruesos; moteados comunes, finos y precisos; escasas concreciones calcareas finas; limite inferior claro, suave.
-BC	52-97 cm; color en humedo pardo a pardo oscuro (7,5YR4/4); franco limoso; estructura en bloques subangulares medios moderados y prismas debiles; friable en humedo; barnices "Clay Skins" escasos y finos; moteados escasos, finos y debiles; escasos durinodulos; escasas concreciones calcareas finas; limite inferior abrupto, ondulado.
-Ck	97 cm a +; color en humedo pardo (7,5YR5/4); franco limoso; masivo; muy friable en humedo; abundante calcareo libre en la masa; moteados escasos, finos y debiles; escasos durinodulos finos.
-Datos analiticos Serie EL CANDIL
 LATITUD:S323320
 LONGITUD:O622259
 ALTITUD:114 m.s.n.m.

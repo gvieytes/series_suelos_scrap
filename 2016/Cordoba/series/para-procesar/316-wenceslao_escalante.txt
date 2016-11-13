@@ -34,11 +34,11 @@ ALTITUD:109 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                        |        |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                   |22,2    |20,4    |16,5    |14,8    |
 |Saturacion con bases, % (S/T)                                        |        |        |        |        |
-|C.EXT.S ME/l-Ca++                                                    |20,0    |19,2    |20,3    |37,5    |
-|C.EXT.S ME/l-Mg++                                                    |10,0    |11,0    |20,8    |20,0    |
-|C.EXT.S ME/l-Na+                                                     |107,0   |254,0   |324,0   |344,0   |
-|C.EXT.S ME/l-K+                                                      |2,1     |2,9     |3,7     |4,1     |
-|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                   |3,0     |1,5     |1,5     |3,0     |
-|C.EXT.S ME/l-SO4=                                                    |71,0    |138,0   |199,0   |198,0   |
-|C.EXT.S ME/l-Cl-                                                     |62,4    |130,0   |174,0   |211,0   |
+|C.EXT.S ME/l-Ca++                                                    |20,0    |19,2    |20,3    |37,5    |
+|C.EXT.S ME/l-Mg++                                                    |10,0    |11,0    |20,8    |20,0    |
+|C.EXT.S ME/l-Na+                                                     |107,0   |254,0   |324,0   |344,0   |
+|C.EXT.S ME/l-K+                                                      |2,1     |2,9     |3,7     |4,1     |
+|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                   |3,0     |1,5     |1,5     |3,0     |
+|C.EXT.S ME/l-SO4=                                                    |71,0    |138,0   |199,0   |198,0   |
+|C.EXT.S ME/l-Cl-                                                     |62,4    |130,0   |174,0   |211,0   |

@@ -34,11 +34,11 @@ ALTITUD:135 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |10,5    |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |13,2    |20,1    |        |13,0    |
 |Saturacion con bases, % (S/T)                                         |79,5    |        |        |        |
-|C.EXT.S ME/l-Ca++                                                     |24,9    |30,4    |15,9    |8,8     |
-|C.EXT.S ME/l-Mg++                                                     |14,4    |27,2    |8,0     |5,4     |
-|C.EXT.S ME/l-Na+                                                      |12,0    |112,8   |188,0   |122,0   |
-|C.EXT.S ME/l-K+                                                       |6,0     |1,4     |1,6     |1,0     |
-|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                    |1,6     |9,6     |4,8     |8,0     |
-|C.EXT.S ME/l-SO4=                                                     |10,9    |70,7    |105,2   |68,2    |
-|C.EXT.S ME/l-Cl-                                                      |43,2    |89,0    |100,0   |59,2    |
+|C.EXT.S ME/l-Ca++                                                     |24,9    |30,4    |15,9    |8,8     |
+|C.EXT.S ME/l-Mg++                                                     |14,4    |27,2    |8,0     |5,4     |
+|C.EXT.S ME/l-Na+                                                      |12,0    |112,8   |188,0   |122,0   |
+|C.EXT.S ME/l-K+                                                       |6,0     |1,4     |1,6     |1,0     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |1,6     |9,6     |4,8     |8,0     |
+|C.EXT.S ME/l-SO4=                                                     |10,9    |70,7    |105,2   |68,2    |
+|C.EXT.S ME/l-Cl-                                                      |43,2    |89,0    |100,0   |59,2    |

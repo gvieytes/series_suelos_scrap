@@ -34,11 +34,11 @@ ALTITUD:238 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |13,7    |        |        |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |13,7    |7,9     |12,6    |9,5     |7,1     |
 |Saturacion con bases, % (S/T)                                         |100     |        |        |        |        |
-|C.EXT.S ME/l-Ca++                                                     |        |        |        |        |2,2     |
-|C.EXT.S ME/l-Mg++                                                     |        |        |        |        |6,2     |
-|C.EXT.S ME/l-Na+                                                      |        |        |        |        |77,3    |
-|C.EXT.S ME/l-K+                                                       |        |        |        |        |1,6     |
-|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                    |        |        |        |        |9,6     |
-|C.EXT.S ME/l-SO4=                                                     |        |        |        |        |42,9    |
-|C.EXT.S ME/l-Cl-                                                      |        |        |        |        |32,0    |
+|C.EXT.S ME/l-Ca++                                                     |        |        |        |        |2,2     |
+|C.EXT.S ME/l-Mg++                                                     |        |        |        |        |6,2     |
+|C.EXT.S ME/l-Na+                                                      |        |        |        |        |77,3    |
+|C.EXT.S ME/l-K+                                                       |        |        |        |        |1,6     |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |        |        |9,6     |
+|C.EXT.S ME/l-SO4=                                                     |        |        |        |        |42,9    |
+|C.EXT.S ME/l-Cl-                                                      |        |        |        |        |32,0    |

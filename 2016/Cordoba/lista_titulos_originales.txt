@@ -1,0 +1,38 @@
+Arcilla, <2 u (%)
+Arena (%)
+Arena fina, 100-250 u (%)
+Arena gruesa, 500-1000 u (%)
+Arena media, 250-500 u (%)
+Arena muy fina, 50-100 u (%)
+Arena muy gruesa, 1-2 mm (%)
+Capacidad de intercambio cationico, meq/100 gr (T)
+Carbonatos, CaCO3 (%)
+Carbono Organico (%)
+Cationes de intercambio, meq/100 gr (Ca++)
+Cationes de intercambio, meq/100 gr (H+)
+Cationes de intercambio, meq/100 gr (K+)
+Cationes de intercambio, meq/100 gr (Mg++)
+Cationes de intercambio, meq/100 gr (Na+)
+    C.EXT.S ME/l-Ca++
+    C.EXT.S ME/l-Cl-
+    C.EXT.S ME/l-CO3=
+    C.EXT.S ME/l-HCO3-
+    C.EXT.S ME/l-K+
+    C.EXT.S ME/l-Mg++
+    C.EXT.S ME/l-Na+
+    C.EXT.S ME/l-SO4=
+Conductividad, mmhos/cm (extracto de saturacion)
+Equivalente de humedad (%)
+Gravilla, > 2 mm (%)
+	H+ de cambio (meq/100 gr)
+Horizonte
+Limo, 2-50 u (%)
+Materia Organica (%)
+Nitrogeno total (%)
+pH en agua (1:2,5)
+pH en pasta
+Profundidad de la muestra (cm)
+Relacion C/N
+Saturacion con bases, % (S/T)
+Sodio de intercambio, % (PSI)
+Suma de bases, meq/100 gr (S)

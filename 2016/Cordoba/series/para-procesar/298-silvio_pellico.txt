@@ -34,11 +34,11 @@ ALTITUD:164 m.s.n.m.
 |Suma de bases, meq/100 gr (S)                                         |16,2    |17,6    |        |        |
 |Capacidad de intercambio cationico, meq/100 gr (T)                    |18,5    |18,7    |16,9    |13,9    |
 |Saturacion con bases, % (S/T)                                         |88      |94      |        |        |
-|C.EXT.S ME/l-Ca++                                                     |        |        |        |20,64   |
-|C.EXT.S ME/l-Mg++                                                     |        |        |        |19,36   |
-|C.EXT.S ME/l-Na+                                                      |        |        |        |27,80   |
-|C.EXT.S ME/l-K+                                                       |        |        |        |2,20    |
-|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                    |        |        |        |4,64    |
-|C.EXT.S ME/l-SO4=                                                     |        |        |        |52,20   |
-|C.EXT.S ME/l-Cl-                                                      |        |        |        |10,72   |
+|C.EXT.S ME/l-Ca++                                                     |        |        |        |20,64   |
+|C.EXT.S ME/l-Mg++                                                     |        |        |        |19,36   |
+|C.EXT.S ME/l-Na+                                                      |        |        |        |27,80   |
+|C.EXT.S ME/l-K+                                                       |        |        |        |2,20    |
+|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |
+|C.EXT.S ME/l-HCO3-                                                    |        |        |        |4,64    |
+|C.EXT.S ME/l-SO4=                                                     |        |        |        |52,20   |
+|C.EXT.S ME/l-Cl-                                                      |        |        |        |10,72   |

@@ -1,0 +1,14 @@
+calamuchita_i ->> ID............................: 038
+calamuchita_i ->> CLASIFICACION.................: Udipsamment litico
+calamuchita_i ->> SERIE.........................: CALAMUCHITA I (FALTA!)
+calamuchita_i ->> UBICACION.....................: FALTA!
+calamuchita_i ->> PROVINCIA.....................: CORDOBA
+calamuchita_i ->> LATITUD.......................: FALTA!
+calamuchita_i ->> LONGITUD......................: FALTA!
+calamuchita_i ->> ALTITUD.......................: FALTA!
+calamuchita_i ->> PENDIENTE.....................: FALTA!
+calamuchita_i ->> DRENAJE.......................: FALTA!
+calamuchita_i ->> ESCURRIMIENTO.................: FALTA!
+calamuchita_i ->> PERMEABILIDAD.................: FALTA!
+calamuchita_i ->> TIPO DE SUELO.................: fragmentaria, termica
+calamuchita_i ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)

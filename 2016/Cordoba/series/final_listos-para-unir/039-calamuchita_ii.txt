@@ -1,0 +1,14 @@
+calamuchita_ii ->> ID............................: 039
+calamuchita_ii ->> CLASIFICACION.................: Udipsamment litico paralitico
+calamuchita_ii ->> SERIE.........................: CALAMUCHITA II (FALTA!)
+calamuchita_ii ->> UBICACION.....................: FALTA!
+calamuchita_ii ->> PROVINCIA.....................: CORDOBA
+calamuchita_ii ->> LATITUD.......................: FALTA!
+calamuchita_ii ->> LONGITUD......................: FALTA!
+calamuchita_ii ->> ALTITUD.......................: FALTA!
+calamuchita_ii ->> PENDIENTE.....................: FALTA!
+calamuchita_ii ->> DRENAJE.......................: FALTA!
+calamuchita_ii ->> ESCURRIMIENTO.................: FALTA!
+calamuchita_ii ->> PERMEABILIDAD.................: FALTA!
+calamuchita_ii ->> TIPO DE SUELO.................: fragmentaria, termica
+calamuchita_ii ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)

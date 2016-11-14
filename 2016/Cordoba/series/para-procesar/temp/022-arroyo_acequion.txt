@@ -1,35 +1,40 @@
-Serie ARROYO ACEQUION
-Simbolo: AAq
-CLASIFICACION: Argiustol udico
-TPS: franca fina a franca gruesa, mixta, termica
-UBICACION: a 12 Km al Oeste de San Antonio de Litin, departamento Union, provincia de Cordoba.
-COLOR: color en humedo pardo muy oscuro (10YR2/2)
-LATITUD:S321112
-LONGITUD:O624413
-ALTITUD:137 m.s.n.m.
-|Horizonte                                           |A     |AB    |Bt    |BC    |C     |2      |3       |
-|Profundidad de la muestra (cm)                      |0-13  |13-18 |18-44 |44-65 |65-87 |87-107 |107 a + |
-|Materia Organica (%)                                |3,91  |2,43  |1,31  |0,36  |0,24  |0,17   |0,07    |
-|Carbono Organico (%)                                |2,27  |1,41  |0,76  |0,21  |0,14  |0,10   |0,04    |
-|Nitrogeno total (%)                                 |0,204 |0,117 |0,076 |0,041 |0,022 |0,016  |        |
-|Relacion C/N                                        |11,2  |12,0  |10,0  |5,1   |6,4   |6,2    |        |
-|Arcilla, <2 u (%)                                   |22,8  |25,3  |30,4  |16,3  |13,3  |9,9    |6,0     |
-|Limo, 2-50 u (%)                                    |39,8  |36,3  |28,5  |25,8  |14,0  |8,0    |1,1     |
-|Arena muy fina, 50-100 u (%)                        |6,1   |7,5   |13,9  |16    |13,8  |8,5    |2,3     | 
-|Arena fina, 100-250 u (%)                           |24,7  |25,4  |27,4  |35,1  |47,4  |60,3   |61,3    |
-|Arena media, 250-500 u (%)                          |5,2   |4,9   |3,7   |3,9   |8,1   |11,05  |27,2    | 
-|Arena gruesa, 500-1000 u (%)                        |1,8   |1,5   |1,1   |1,05  |1,6   |2,3    |4,1     | 
-|Arena muy gruesa, 1-2 mm (%)                        |      |      |      |      |      |       |        | 
-|Carbonatos, CaCO3 (%)                               |      |      |      |      |      |       |        | 
-|Equivalente de humedad (%)                          |24,8  |23,7  |24,3  |15,2  |9,9   |6,7    |4,7     | 
-|pH en pasta                                         |5,7   |5,8   |6,1   |6,4   |6,5   |6,8    |7,0     |
-|pH en agua (1:2,5)                                  |5,9   |6,2   |6,5   |6,6   |6,7   |7,1    |7,3     | 
-|Cationes de intercambio, meq/100 gr (Ca++)          |11,3  |11,3  |15,5  |8,4   |5,6   |3,7    |1,4     |
-|Cationes de intercambio, meq/100 gr (Mg++)          |2,4   |2,1   |3,3   |1,9   |1,2   |1,2    |1,4     |
-|Cationes de intercambio, meq/100 gr (Na+)           |0,3   |0,2   |0,3   |0,3   |0,2   |0,2    |0,2     |
-|Cationes de intercambio, meq/100 gr (K+)            |2,2   |1,3   |1,2   |0,6   |0,4   |0,3    |0,1     |
-|Cationes de intercambio, meq/100 gr (H+)            |3,3   |2,3   |1,8   |1,1   |0,8   |0,6    |0,4     | 
-|Sodio de intercambio, % (PSI)                       |1,5   |1,1   |1,3   |2,3   |2,3   |3,0    |4,9     | 
-|Suma de bases, meq/100 gr (S)                       |16,2  |14,9  |20,3  |11,2  |7,4   |5,4    |3,1     |
-|Capacidad de intercambio cationico, meq/100 gr (T)  |20,4  |18,8  |23,1  |13,2  |8,8   |6,7    |4,1     | 
-|Saturacion con bases, % (S/T)                       |79    |79    |88    |85    |84    |80     |75      |
+arroyo_acequion.txt ->> ID............................: 022
+arroyo_acequion.txt ->> CLASIFICACION.................: Argiustol udico
+arroyo_acequion.txt ->> SERIE.........................: ARROYO ACEQUION (AAq)
+arroyo_acequion.txt ->> UBICACION.....................: a 12 Km al Oeste de San Antonio de Litin, departamento Union, provincia de Cordoba.
+arroyo_acequion.txt ->> PROVINCIA.....................: CORDOBA
+arroyo_acequion.txt ->> LATITUD.......................: S321112
+arroyo_acequion.txt ->> LONGITUD......................: O624413
+arroyo_acequion.txt ->> ALTITUD.......................: 137 m.s.n.m.
+arroyo_acequion.txt ->> PENDIENTE.....................: FALTA!
+arroyo_acequion.txt ->> DRENAJE.......................: FALTA!
+arroyo_acequion.txt ->> ESCURRIMIENTO.................: FALTA!
+arroyo_acequion.txt ->> PERMEABILIDAD.................: FALTA!
+arroyo_acequion.txt ->> TIPO DE SUELO.................: franca fina a franca gruesa, mixta, termica
+arroyo_acequion.txt ->> COLOR ........................: color en humedo pardo muy oscuro (10YR2/2)
+arroyo_acequion.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A     |AB    |Bt    |BC    |C     |2      |3       |
+arroyo_acequion.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-13  |13-18 |18-44 |44-65 |65-87 |87-107 |107 a + |
+arroyo_acequion.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 3,91  |2,43  |1,31  |0,36  |0,24  |0,17   |0,07    |
+arroyo_acequion.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 2,27  |1,41  |0,76  |0,21  |0,14  |0,10   |0,04    |
+arroyo_acequion.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,204 |0,117 |0,076 |0,041 |0,022 |0,016  |        |
+arroyo_acequion.txt ->> HORIZONTE->RELACIÓN C/N.......: 11,2  |12,0  |10,0  |5,1   |6,4   |6,2    |        |
+arroyo_acequion.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 22,8  |25,3  |30,4  |16,3  |13,3  |9,9    |6,0     |
+arroyo_acequion.txt ->> HORIZONTE->LIMO 2-50 (%)......: 39,8  |36,3  |28,5  |25,8  |14,0  |8,0    |1,1     |
+arroyo_acequion.txt ->> HORIZONTE->AMF 50-100 (%).....: 6,1   |7,5   |13,9  |16    |13,8  |8,5    |2,3     | 
+arroyo_acequion.txt ->> HORIZONTE->AF 100-250 (%).....: 24,7  |25,4  |27,4  |35,1  |47,4  |60,3   |61,3    |
+arroyo_acequion.txt ->> HORIZONTE->AM 250-500 (%).....: 5,2   |4,9   |3,7   |3,9   |8,1   |11,05  |27,2    | 
+arroyo_acequion.txt ->> HORIZONTE->AG 500-1000 (%)....: 1,8   |1,5   |1,1   |1,05  |1,6   |2,3    |4,1     | 
+arroyo_acequion.txt ->> HORIZONTE->AMG 1-2 mm (%).....:       |      |      |      |      |       |        | 
+arroyo_acequion.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:       |      |      |      |      |       |        | 
+arroyo_acequion.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 24,8  |23,7  |24,3  |15,2  |9,9   |6,7    |4,7     | 
+arroyo_acequion.txt ->> HORIZONTE->PH PASTA...........: 5,7   |5,8   |6,1   |6,4   |6,5   |6,8    |7,0     |
+arroyo_acequion.txt ->> HORIZONTE->PH H2O 1:2,5.......: 5,9   |6,2   |6,5   |6,6   |6,7   |7,1    |7,3     | 
+arroyo_acequion.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 11,3  |11,3  |15,5  |8,4   |5,6   |3,7    |1,4     |
+arroyo_acequion.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 2,4   |2,1   |3,3   |1,9   |1,2   |1,2    |1,4     |
+arroyo_acequion.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3   |0,2   |0,3   |0,3   |0,2   |0,2    |0,2     |
+arroyo_acequion.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,2   |1,3   |1,2   |0,6   |0,4   |0,3    |0,1     |
+arroyo_acequion.txt ->> HORIZONTE->CI ME/100G-H +.....: 3,3   |2,3   |1,8   |1,1   |0,8   |0,6    |0,4     | 
+arroyo_acequion.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 1,5   |1,1   |1,3   |2,3   |2,3   |3,0    |4,9     | 
+arroyo_acequion.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 16,2  |14,9  |20,3  |11,2  |7,4   |5,4    |3,1     |
+arroyo_acequion.txt ->> HORIZONTE->CIC ME/100G(T).....: 20,4  |18,8  |23,1  |13,2  |8,8   |6,7    |4,1     | 
+arroyo_acequion.txt ->> HORIZONTE->SAT.B % (S/T)......: 79    |79    |88    |85    |84    |80     |75      |

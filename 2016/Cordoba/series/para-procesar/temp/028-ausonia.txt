@@ -1,44 +1,49 @@
-Serie AUSONIA
-Simbolo: Au
-CLASIFICACION: Natralbol tipico
-TPS: limosa gruesa, mixta, termica
-UBICACION: a 12 km al NE de Colonia La Palestina, departamento General San Martin, provincia de Cordoba.
-COLOR: color en humedo pardo oscuro (10YR3/3)
-LATITUD:S323221
-LONGITUD:O631912
-ALTITUD:200 m.s.n.m.
-|Horizonte                                                             |A       |E       |Btn     |BCkn    |Ck      |
-|Profundidad de la muestra (cm)                                        |0-20    |20-26   |26-48   |48-72   |72 a +  |
-|Materia Organica (%)                                                  |2,24    |1,20    |0,51    |0,17    |        |
-|Carbono Organico (%)                                                  |1,3     |0,7     |0,3     |0,1     |        |
-|Nitrogeno total (%)                                                   |0,15    |0,11    |0,08    |        |        |
-|Relacion C/N                                                          |8,7     |6,4     |3,7     |        |        |
-|Arcilla, <2 u (%)                                                     |12,3    |11,2    |14,6    |11,7    |8,1     |
-|Limo, 2-50 u (%)                                                      |68,0    |69,9    |64,9    |64,2    |64,9    |
-|Arena muy fina, 50-100 u (%)                                          |16,3    |17,9    |14,6    |20,4    |23,6    |
-|Arena fina, 100-250 u (%)                                             |1,5     |1,6     |2,8     |1,4     |1,2     |
-|Arena media, 250-500 u (%)                                            |0,2     |        |0,4     |0,2     |        |
-|Arena gruesa, 500-1000 u (%)                                          |0,3     |        |1,1     |0,2     |        |
-|Arena muy gruesa, 1-2 mm (%)                                          |        |        |0,2     |        |        |
-|Carbonatos, CaCO3 (%)                                                 |        |        |1,3     |3,1     |4,3     |
-|Equivalente de humedad (%)                                            |15,1    |19,3    |25,1    |24,8    |22,6    |
-|pH en pasta                                                           |5,6     |6,3     |8,2     |8,9     |8,9     |
-|pH en agua (1:2,5)                                                    |5,8     |6,5     |8,8     |9,5     |9,6     |
-|Cationes de intercambio, meq/100 gr (Ca++)                            |8,6     |6,7     |        |        |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                            |0,5     |1,5     |        |        |        |
-|Cationes de intercambio, meq/100 gr (Na+)                             |0,2     |0,6     |5,8     |7,6     |        |
-|Cationes de intercambio, meq/100 gr (K+)                              |3,1     |2,0     |4,0     |4,5     |        |
-|Cationes de intercambio, meq/100 gr (H+)                              |2,3     |1,6     |        |        |        |
-|Sodio de intercambio, % (PSI)                                         |1,4     |4,8     |30,5    |42,5    |37,5    |
-|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |        |4,41    |8,23    |
-|Suma de bases, meq/100 gr (S)                                         |12,5    |10,8    |        |        |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,6    |12,5    |19,0    |17,9    |15,7    |
-|Saturacion con bases, % (S/T)                                         |86      |86      |        |        |        |
-|C.EXT.S ME/l-Ca++                                                     |        |        |        |3,3     |4,9     |
-|C.EXT.S ME/l-Mg++                                                     |        |        |        |1,6     |1,7     |
-|C.EXT.S ME/l-Na+                                                      |        |        |        |39,9    |76,8    |
-|C.EXT.S ME/l-K+                                                       |        |        |        |1,8     |0,8     |
-|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                    |        |        |        |12,4    |14,4    |
-|C.EXT.S ME/l-SO4=                                                     |        |        |        |12,3    |27,4    |
-|C.EXT.S ME/l-Cl-                                                      |        |        |        |22,4    |44,8    |
+ausonia.txt ->> ID............................: 028
+ausonia.txt ->> CLASIFICACION.................: Natralbol tipico
+ausonia.txt ->> SERIE.........................: AUSONIA (Au)
+ausonia.txt ->> UBICACION.....................: a 12 km al NE de Colonia La Palestina, departamento General San Martin, provincia de Cordoba.
+ausonia.txt ->> PROVINCIA.....................: CORDOBA
+ausonia.txt ->> LATITUD.......................: S323221
+ausonia.txt ->> LONGITUD......................: O631912
+ausonia.txt ->> ALTITUD.......................: 200 m.s.n.m.
+ausonia.txt ->> PENDIENTE.....................: FALTA!
+ausonia.txt ->> DRENAJE.......................: FALTA!
+ausonia.txt ->> ESCURRIMIENTO.................: FALTA!
+ausonia.txt ->> PERMEABILIDAD.................: FALTA!
+ausonia.txt ->> TIPO DE SUELO.................: limosa gruesa, mixta, termica
+ausonia.txt ->> COLOR ........................: color en humedo pardo oscuro (10YR3/3)
+ausonia.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |E       |Btn     |BCkn    |Ck      |
+ausonia.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-20    |20-26   |26-48   |48-72   |72 a +  |
+ausonia.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 2,24    |1,20    |0,51    |0,17    |        |
+ausonia.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,3     |0,7     |0,3     |0,1     |        |
+ausonia.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,15    |0,11    |0,08    |        |        |
+ausonia.txt ->> HORIZONTE->RELACIÓN C/N.......: 8,7     |6,4     |3,7     |        |        |
+ausonia.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 12,3    |11,2    |14,6    |11,7    |8,1     |
+ausonia.txt ->> HORIZONTE->LIMO 2-50 (%)......: 68,0    |69,9    |64,9    |64,2    |64,9    |
+ausonia.txt ->> HORIZONTE->AMF 50-100 (%).....: 16,3    |17,9    |14,6    |20,4    |23,6    |
+ausonia.txt ->> HORIZONTE->AF 100-250 (%).....: 1,5     |1,6     |2,8     |1,4     |1,2     |
+ausonia.txt ->> HORIZONTE->AM 250-500 (%).....: 0,2     |        |0,4     |0,2     |        |
+ausonia.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,3     |        |1,1     |0,2     |        |
+ausonia.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |0,2     |        |        |
+ausonia.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |1,3     |3,1     |4,3     |
+ausonia.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 15,1    |19,3    |25,1    |24,8    |22,6    |
+ausonia.txt ->> HORIZONTE->PH PASTA...........: 5,6     |6,3     |8,2     |8,9     |8,9     |
+ausonia.txt ->> HORIZONTE->PH H2O 1:2,5.......: 5,8     |6,5     |8,8     |9,5     |9,6     |
+ausonia.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 8,6     |6,7     |        |        |        |
+ausonia.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 0,5     |1,5     |        |        |        |
+ausonia.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,2     |0,6     |5,8     |7,6     |        |
+ausonia.txt ->> HORIZONTE->CI ME/100G-K +.....: 3,1     |2,0     |4,0     |4,5     |        |
+ausonia.txt ->> HORIZONTE->CI ME/100G-H +.....: 2,3     |1,6     |        |        |        |
+ausonia.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 1,4     |4,8     |30,5    |42,5    |37,5    |
+ausonia.txt ->> HORIZONTE->CONDUCT mmhos/cm...:         |        |        |4,41    |8,23    |
+ausonia.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 12,5    |10,8    |        |        |        |
+ausonia.txt ->> HORIZONTE->CIC ME/100G(T).....: 14,6    |12,5    |19,0    |17,9    |15,7    |
+ausonia.txt ->> HORIZONTE->SAT.B % (S/T)......: 86      |86      |        |        |        |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-Ca++..:         |        |        |3,3     |4,9     |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-Mg++..:         |        |        |1,6     |1,7     |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-Na+...:         |        |        |39,9    |76,8    |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-K+....:         |        |        |1,8     |0,8     |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-CO3=..:         |        |        |        |        |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-HCO3-.:         |        |        |12,4    |14,4    |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-SO4=..:         |        |        |12,3    |27,4    |
+ausonia.txt ->> HORIZONTE->C.EXT.S ME/l-Cl-...:         |        |        |22,4    |44,8    |

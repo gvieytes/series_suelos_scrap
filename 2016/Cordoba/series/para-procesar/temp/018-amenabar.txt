@@ -1,35 +1,40 @@
-Serie AMENABAR
-Simbolo: Am
-CLASIFICACION: Natracualf tipico
-TPS: limosa fina, mixta, termica
-UBICACION: a 11,5 km al SSE de la Estacion Sancti Spiritu del F.C.G.B.M., en el departamento General Lopez de la provincia de Santa Fe.
-COLOR: color en humedo pardo grisaceo oscuro (10YR4/2)
-LATITUD:S340624
-LONGITUD:O621200
-ALTITUD:112 m.s.n.m.
-|Horizonte                                                            |E       |Btn     |Btn2    |BCn      |C         |
-|Profundidad de la muestra (cm)                                       |0-27    |27-50   |50-71   |71-106   |106 a +   |
-|Materia Organica (%)                                                 |0,96    |0,09    |0,07    |         |          |
-|Carbono Organico (%)                                                 |0,56    |0,05    |0,04    |         |          |
-|Nitrogeno total (%)                                                  |0,054   |        |        |         |          |
-|Relacion C/N                                                         |10      |        |        |         |          |
-|Arcilla, <2 u (%)                                                    |10,7    |25,1    |14,9    |11,2     |8,9       |
-|Limo, 2-50 u (%)                                                     |17,4    |11,4    |10,5    |10,4     |8,9       |
-|Arena muy fina, 50-100 u (%)                                         |68,5    |56,9    |65,1    |69,7     |72,1      |
-|Arena fina, 100-250 u (%)                                            |5,3     |6,4     |9,4     |8,6      |10,0      |
-|Arena media, 250-500 u (%)                                           |0,1     |0,1     |0,1     |0,1      |0,1       |
-|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                |        |0,1     |        |         |          |
-|Equivalente de humedad (%)                                           |9,4     |23,0    |14,8    |10,2     |8,2       |
-|pH en pasta                                                          |6,9     |8,3     |8,9     |9,3      |9,0       |
-|pH en agua (1:2,5)                                                   |7,3     |9,1     |9,7     |9,9      |10,0      |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |3,7     |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |2,5     |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |5,4     |7,4     |7,1      |4,9       |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,6     |3,5     |3,3     |3,1      |3,1       |
-|Cationes de intercambio, meq/100 gr (H+)                             |2,0     |        |        |         |          |
-|Sodio de intercambio, % (PSI)                                        |5,1     |19,6    |38,9    |37,2     |46,2      |
-|Suma de bases, meq/100 gr (S)                                        |9,2     |        |        |         |          |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |7,9     |27,5    |19,0    |19,1     |10,6      |
-|Saturacion con bases, % (S/T)                                        |100     |        |        |         |          |
+amenabar.txt ->> ID............................: 018
+amenabar.txt ->> CLASIFICACION.................: Natracualf tipico
+amenabar.txt ->> SERIE.........................: AMENABAR (Am)
+amenabar.txt ->> UBICACION.....................: a 11,5 km al SSE de la Estacion Sancti Spiritu del F.C.G.B.M., en el departamento General Lopez de la provincia de Santa Fe.
+amenabar.txt ->> PROVINCIA.....................: CORDOBA
+amenabar.txt ->> LATITUD.......................: S340624
+amenabar.txt ->> LONGITUD......................: O621200
+amenabar.txt ->> ALTITUD.......................: 112 m.s.n.m.
+amenabar.txt ->> PENDIENTE.....................: FALTA!
+amenabar.txt ->> DRENAJE.......................: FALTA!
+amenabar.txt ->> ESCURRIMIENTO.................: FALTA!
+amenabar.txt ->> PERMEABILIDAD.................: FALTA!
+amenabar.txt ->> TIPO DE SUELO.................: limosa fina, mixta, termica
+amenabar.txt ->> COLOR ........................: color en humedo pardo grisaceo oscuro (10YR4/2)
+amenabar.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: E       |Btn     |Btn2    |BCn      |C         |
+amenabar.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-27    |27-50   |50-71   |71-106   |106 a +   |
+amenabar.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 0,96    |0,09    |0,07    |         |          |
+amenabar.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 0,56    |0,05    |0,04    |         |          |
+amenabar.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,054   |        |        |         |          |
+amenabar.txt ->> HORIZONTE->RELACIÓN C/N.......: 10      |        |        |         |          |
+amenabar.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 10,7    |25,1    |14,9    |11,2     |8,9       |
+amenabar.txt ->> HORIZONTE->LIMO 2-50 (%)......: 17,4    |11,4    |10,5    |10,4     |8,9       |
+amenabar.txt ->> HORIZONTE->AMF 50-100 (%).....: 68,5    |56,9    |65,1    |69,7     |72,1      |
+amenabar.txt ->> HORIZONTE->AF 100-250 (%).....: 5,3     |6,4     |9,4     |8,6      |10,0      |
+amenabar.txt ->> HORIZONTE->AM 250-500 (%).....: 0,1     |0,1     |0,1     |0,1      |0,1       |
+amenabar.txt ->> HORIZONTE->AG 500-1000 (%)....:         |        |        |         |          |
+amenabar.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |         |          |
+amenabar.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |0,1     |        |         |          |
+amenabar.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 9,4     |23,0    |14,8    |10,2     |8,2       |
+amenabar.txt ->> HORIZONTE->PH PASTA...........: 6,9     |8,3     |8,9     |9,3      |9,0       |
+amenabar.txt ->> HORIZONTE->PH H2O 1:2,5.......: 7,3     |9,1     |9,7     |9,9      |10,0      |
+amenabar.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 3,7     |        |        |         |          |
+amenabar.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 2,5     |        |        |         |          |
+amenabar.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,4     |5,4     |7,4     |7,1      |4,9       |
+amenabar.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,6     |3,5     |3,3     |3,1      |3,1       |
+amenabar.txt ->> HORIZONTE->CI ME/100G-H +.....: 2,0     |        |        |         |          |
+amenabar.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 5,1     |19,6    |38,9    |37,2     |46,2      |
+amenabar.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 9,2     |        |        |         |          |
+amenabar.txt ->> HORIZONTE->CIC ME/100G(T).....: 7,9     |27,5    |19,0    |19,1     |10,6      |
+amenabar.txt ->> HORIZONTE->SAT.B % (S/T)......: 100     |        |        |         |          |

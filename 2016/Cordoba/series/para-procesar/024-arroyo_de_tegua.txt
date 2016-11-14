@@ -1,35 +1,40 @@
-Serie ARROYO DE TEGUA
-Simbolo: FALTA!
-CLASIFICACION: Haplustol thapto molico
-TPS: franca gruesa, mixta, termica
-UBICACION: a 1 km al Sur de la localidad de Punta del Agua, departamento Tercero Arriba, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S323503
-LONGITUD:O634859
-ALTITUD:277 m.s.n.m.
-|Horizonte                                           |Ak      |2Ck     |3Ak     |
-|Profundidad de la muestra (cm)                      |0-27    |27-62   |62 a +  |
-|Materia Organica (%)                                |2,41    |0,17    |        |
-|Carbono Organico (%)                                |1,4     |0,1     |        |
-|Nitrogeno total (%)                                 |0,16    |0,03    |        |
-|Relacion C/N                                        |8,7     |3,3     |        |
-|Arcilla, <2 u (%)                                   |20,2    |11,7    |15,8    |
-|Limo, 2-50 u (%)                                    |49,4    |56,0    |49,5    |
-|Arena muy fina, 50-100 u (%)                        |26,8    |28,6    |31,4    |
-|Arena fina, 100-250 u (%)                           |2,3     |1,6     |1,6     |
-|Arena media, 250-500 u (%)                          |0,2     |0,1     |0,05    |
-|Arena gruesa, 500-1000 u (%)                        |0,2     |0,2     |0,05    |
-|Arena muy gruesa, 1-2 mm (%)                        |        |        |        |
-|Carbonatos, CaCO3 (%)                               |1,3     |1,7     |0,9     |
-|Equivalente de humedad (%)                          |27,3    |14,5    |23,9    |
-|pH en pasta                                         |7,8     |8,0     |7,9     |
-|pH en agua (1:2,5)                                  |8,1     |8,2     |8,1     |
-|Cationes de intercambio, meq/100 gr (Ca++)          |        |        |        |
-|Cationes de intercambio, meq/100 gr (Mg++)          |        |        |        |
-|Cationes de intercambio, meq/100 gr (Na+)           |0,3     |0,2     |0,2     |
-|Cationes de intercambio, meq/100 gr (K+)            |3,0     |1,7     |1,4     |
-|Cationes de intercambio, meq/100 gr (H+)            |        |        |        |
-|Sodio de intercambio, % (PSI)                       |1,4     |1,9     |1,2     |
-|Suma de bases, meq/100 gr (S)                       |        |        |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)  |21,3    |10,3    |16,5    |
-|Saturacion con bases, % (S/T)                       |        |        |        |
+arroyo_de_tegua.txt ->> ID............................: 024
+arroyo_de_tegua.txt ->> CLASIFICACION.................: Haplustol thapto molico
+arroyo_de_tegua.txt ->> SERIE.........................: ARROYO DE TEGUA (FALTA!)
+arroyo_de_tegua.txt ->> UBICACION.....................: a 1 km al Sur de la localidad de Punta del Agua, departamento Tercero Arriba, provincia de Cordoba.
+arroyo_de_tegua.txt ->> PROVINCIA.....................: CORDOBA
+arroyo_de_tegua.txt ->> LATITUD.......................: S323503
+arroyo_de_tegua.txt ->> LONGITUD......................: O634859
+arroyo_de_tegua.txt ->> ALTITUD.......................: 277 m.s.n.m.
+arroyo_de_tegua.txt ->> PENDIENTE.....................: FALTA!
+arroyo_de_tegua.txt ->> DRENAJE.......................: FALTA!
+arroyo_de_tegua.txt ->> ESCURRIMIENTO.................: FALTA!
+arroyo_de_tegua.txt ->> PERMEABILIDAD.................: FALTA!
+arroyo_de_tegua.txt ->> TIPO DE SUELO.................: franca gruesa, mixta, termica
+arroyo_de_tegua.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+arroyo_de_tegua.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: Ak      |2Ck     |3Ak     |
+arroyo_de_tegua.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-27    |27-62   |62 a +  |
+arroyo_de_tegua.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 2,41    |0,17    |        |
+arroyo_de_tegua.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,4     |0,1     |        |
+arroyo_de_tegua.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,16    |0,03    |        |
+arroyo_de_tegua.txt ->> HORIZONTE->RELACIÓN C/N.......: 8,7     |3,3     |        |
+arroyo_de_tegua.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 20,2    |11,7    |15,8    |
+arroyo_de_tegua.txt ->> HORIZONTE->LIMO 2-50 (%)......: 49,4    |56,0    |49,5    |
+arroyo_de_tegua.txt ->> HORIZONTE->AMF 50-100 (%).....: 26,8    |28,6    |31,4    |
+arroyo_de_tegua.txt ->> HORIZONTE->AF 100-250 (%).....: 2,3     |1,6     |1,6     |
+arroyo_de_tegua.txt ->> HORIZONTE->AM 250-500 (%).....: 0,2     |0,1     |0,05    |
+arroyo_de_tegua.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,2     |0,2     |0,05    |
+arroyo_de_tegua.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |
+arroyo_de_tegua.txt ->> HORIZONTE->CALCAREO CaCO3(%)..: 1,3     |1,7     |0,9     |
+arroyo_de_tegua.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 27,3    |14,5    |23,9    |
+arroyo_de_tegua.txt ->> HORIZONTE->PH PASTA...........: 7,8     |8,0     |7,9     |
+arroyo_de_tegua.txt ->> HORIZONTE->PH H2O 1:2,5.......: 8,1     |8,2     |8,1     |
+arroyo_de_tegua.txt ->> HORIZONTE->CI ME/100G-Ca ++...:         |        |        |
+arroyo_de_tegua.txt ->> HORIZONTE->CI ME/100G-Mg ++...:         |        |        |
+arroyo_de_tegua.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3     |0,2     |0,2     |
+arroyo_de_tegua.txt ->> HORIZONTE->CI ME/100G-K +.....: 3,0     |1,7     |1,4     |
+arroyo_de_tegua.txt ->> HORIZONTE->CI ME/100G-H +.....:         |        |        |
+arroyo_de_tegua.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 1,4     |1,9     |1,2     |
+arroyo_de_tegua.txt ->> HORIZONTE->SUM.B. ME/100G(S)..:         |        |        |
+arroyo_de_tegua.txt ->> HORIZONTE->CIC ME/100G(T).....: 21,3    |10,3    |16,5    |
+arroyo_de_tegua.txt ->> HORIZONTE->SAT.B % (S/T)......:         |        |        |

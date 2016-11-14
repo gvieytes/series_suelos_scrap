@@ -1,44 +1,49 @@
-Serie ALFALEGRE
-Simbolo: FALTA!
-CLASIFICACION: Natracualf molico
-TPS: franca gruesa, mixta, termica
-UBICACION: a 31 Km. al Norte de Huinca Renanco, departamento General Roca, provincia de Cordoba.
-COLOR: color en humedo pardo oscuro (10YR3/3)
-LATITUD:S343237
-LONGITUD:O642155
-ALTITUD:191 m.s.n.m.
-|Horizonte                                                            |A       |E       |Bt      |BC      |
-|Profundidad de la muestra (cm)                                       |0-12    |12-24   |24-51   |51 a +  |
-|Materia Organica (%)                                                 |1,79    |0,93    |0,59    |0,33    |
-|Carbono Organico (%)                                                 |1,04    |0,54    |0,34    |0,19    |
-|Nitrogeno total (%)                                                  |0,130   |0,073   |0,043   |        |
-|Relacion C/N                                                         |8,0     |7,4     |7,9     |        |
-|Arcilla, <2 u (%)                                                    |11,8    |11,6    |21,2    |13,1    |
-|Limo, 2-50 u (%)                                                     |42,3    |36,8    |27,4    |32,3    |
-|Arena muy fina, 50-100 u (%)                                         |33,1    |28,4    |35,2    |32,7    |
-|Arena fina, 100-250 u (%)                                            |13,6    |24,0    |16,4    |22,3    |
-|Arena media, 250-500 u (%)                                           |0,2     |0,2     |0,3     |0,3     |
-|Arena gruesa, 500-1000 u (%)                                         |0,2     |0,2     |0,3     |0,5     |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |0,54    |
-|Equivalente de humedad (%)                                           |17,6    |16,9    |21,8    |17,8    |
-|pH en pasta                                                          |7,1     |7,3     |7,3     |8,5     |
-|pH en agua (1:2,5)                                                   |7,2     |7,4     |7,6     |8,6     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |5,2     |5,6     |5,5     |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |4,2     |3,4     |6,7     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,4     |1,4     |        |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |1,3     |2,1     |        |
-|Cationes de intercambio, meq/100 gr (H+)                             |0,4     |0,2     |        |        |
-|Sodio de intercambio, % (PSI)                                        |2,4     |3,7     |8,9     |        |
-|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |11,05   |
-|Suma de bases, meq/100 gr (S)                                        |12,1    |10,7    |15,7    |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,5    |10,9    |15,7    |11,3    |
-|Saturacion con bases, % (S/T)                                        |97      |98      |100     |        |
-|C.EXT.S ME/l-Ca++                                                    |        |        |        |6,72    |
-|C.EXT.S ME/l-Mg++                                                    |        |        |        |4,16    |
-|C.EXT.S ME/l-Na+                                                     |        |        |        |98,0    |
-|C.EXT.S ME/l-K+                                                      |        |        |        |1,20    |
-|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                   |        |        |        |6,40    |
-|C.EXT.S ME/l-SO4=                                                    |        |        |        |40,96   |
-|C.EXT.S ME/l-Cl-                                                     |        |        |        |64,64   |
+alfalegre.txt ->> ID............................: 013
+alfalegre.txt ->> CLASIFICACION.................: Natracualf molico
+alfalegre.txt ->> SERIE.........................: ALFALEGRE (FALTA!)
+alfalegre.txt ->> UBICACION.....................: a 31 Km. al Norte de Huinca Renanco, departamento General Roca, provincia de Cordoba.
+alfalegre.txt ->> PROVINCIA.....................: CORDOBA
+alfalegre.txt ->> LATITUD.......................: S343237
+alfalegre.txt ->> LONGITUD......................: O642155
+alfalegre.txt ->> ALTITUD.......................: 191 m.s.n.m.
+alfalegre.txt ->> PENDIENTE.....................: FALTA!
+alfalegre.txt ->> DRENAJE.......................: FALTA!
+alfalegre.txt ->> ESCURRIMIENTO.................: FALTA!
+alfalegre.txt ->> PERMEABILIDAD.................: FALTA!
+alfalegre.txt ->> TIPO DE SUELO.................: franca gruesa, mixta, termica
+alfalegre.txt ->> COLOR ........................: color en humedo pardo oscuro (10YR3/3)
+alfalegre.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |E       |Bt      |BC      |
+alfalegre.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-12    |12-24   |24-51   |51 a +  |
+alfalegre.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 1,79    |0,93    |0,59    |0,33    |
+alfalegre.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,04    |0,54    |0,34    |0,19    |
+alfalegre.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,130   |0,073   |0,043   |        |
+alfalegre.txt ->> HORIZONTE->RELACIÓN C/N.......: 8,0     |7,4     |7,9     |        |
+alfalegre.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 11,8    |11,6    |21,2    |13,1    |
+alfalegre.txt ->> HORIZONTE->LIMO 2-50 (%)......: 42,3    |36,8    |27,4    |32,3    |
+alfalegre.txt ->> HORIZONTE->AMF 50-100 (%).....: 33,1    |28,4    |35,2    |32,7    |
+alfalegre.txt ->> HORIZONTE->AF 100-250 (%).....: 13,6    |24,0    |16,4    |22,3    |
+alfalegre.txt ->> HORIZONTE->AM 250-500 (%).....: 0,2     |0,2     |0,3     |0,3     |
+alfalegre.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,2     |0,2     |0,3     |0,5     |
+alfalegre.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |        |
+alfalegre.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |0,54    |
+alfalegre.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 17,6    |16,9    |21,8    |17,8    |
+alfalegre.txt ->> HORIZONTE->PH PASTA...........: 7,1     |7,3     |7,3     |8,5     |
+alfalegre.txt ->> HORIZONTE->PH H2O 1:2,5.......: 7,2     |7,4     |7,6     |8,6     |
+alfalegre.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 5,2     |5,6     |5,5     |        |
+alfalegre.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 4,2     |3,4     |6,7     |        |
+alfalegre.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3     |0,4     |1,4     |        |
+alfalegre.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,4     |1,3     |2,1     |        |
+alfalegre.txt ->> HORIZONTE->CI ME/100G-H +.....: 0,4     |0,2     |        |        |
+alfalegre.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 2,4     |3,7     |8,9     |        |
+alfalegre.txt ->> HORIZONTE->CONDUCT mmhos/cm...:         |        |        |11,05   |
+alfalegre.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 12,1    |10,7    |15,7    |        |
+alfalegre.txt ->> HORIZONTE->CIC ME/100G(T).....: 12,5    |10,9    |15,7    |11,3    |
+alfalegre.txt ->> HORIZONTE->SAT.B % (S/T)......: 97      |98      |100     |        |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-Ca++..:         |        |        |6,72    |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-Mg++..:         |        |        |4,16    |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-Na+...:         |        |        |98,0    |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-K+....:         |        |        |1,20    |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-CO3=..:         |        |        |        |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-HCO3-.:         |        |        |6,40    |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-SO4=..:         |        |        |40,96   |
+alfalegre.txt ->> HORIZONTE->C.EXT.S ME/l-Cl-...:         |        |        |64,64   |

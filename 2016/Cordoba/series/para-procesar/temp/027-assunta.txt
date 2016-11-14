@@ -1,36 +1,41 @@
-Serie ASSUNTA
-Simbolo: As
-CLASIFICACION: Natralbol tipico
-TPS: franca gruesa, mixta, termica
-UBICACION: a 19,5 Km al Sur de la ciudad de La Carlota, departamento Juarez Celman, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S333224
-LONGITUD:O631444
-ALTITUD:127,5 m.s.n.m.
-|Horizonte                                                            |Ap      |A       |En      |Btn     |BC      |Ck      |
-|Profundidad de la muestra (cm)                                       |0-17    |17-27   |27-33   |33-61   |61-90   |90 a +  |
-|Materia Organica (%)                                                 |1,72    |1,72    |        |        |        |        |
-|Carbono Organico (%)                                                 |1,0     |1,0     |        |        |        |        |
-|Nitrogeno total (%)                                                  |0,19    |        |        |        |        |        |
-|Relacion C/N                                                         |5,3     |        |        |        |        |        |
-|Arcilla, <2 u (%)                                                    |4,5     |11,0    |8,0     |16,2    |20,5    |12,7    |
-|Limo, 2-50 u (%)                                                     |37,2    |47,8    |50,3    |40,9    |45,8    |46,2    |
-|Arena muy fina, 50-100 u (%)                                         |48,3    |34,9    |36,2    |39,7    |31,0    |34,4    |
-|Arena fina, 100-250 u (%)                                            |8,2     |4,0     |3,9     |3,9     |2,5     |2,1     |
-|Arena media, 250-500 u (%)                                           |0,3     |0,6     |        |        |        |0,6     |
-|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |        |        |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |1,9     |
-|Equivalente de humedad (%)                                           |15,1    |18,0    |14,0    |22,5    |27,0    |22,8    |
-|pH en pasta                                                          |5,1     |5,2     |6,4     |7,0     |7,8     |7,9     |
-|pH en agua (1:2,5)                                                   |5,8     |6,0     |6,9     |7,8     |8,9     |9,2     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |7,0     |5,7     |3,3     |        |        |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |2,0     |1,1     |2,7     |        |        |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |1,8     |1,8     |        |        |        |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,0     |1,5     |1,5     |        |        |        |
-|Cationes de intercambio, meq/100 gr (H+)                             |1,6     |2,1     |0,5     |        |        |        |
-|Sodio de intercambio, % (PSI)                                        |3,1     |14,8    |18,4    |        |        |        |
-|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |6,6     |11,8    |15,2    |13,3    |
-|Suma de bases, meq/100 gr (S)                                        |11,4    |10,1    |9,3     |        |        |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |13      |12,2    |9,8     |17,3    |19,9    |12,0    |
-|Saturacion con bases, % (S/T)                                        |94,2    |82,8    |94,9    |        |        |        |
+assunta.txt ->> ID............................: 027
+assunta.txt ->> CLASIFICACION.................: Natralbol tipico
+assunta.txt ->> SERIE.........................: ASSUNTA (As)
+assunta.txt ->> UBICACION.....................: a 19,5 Km al Sur de la ciudad de La Carlota, departamento Juarez Celman, provincia de Cordoba.
+assunta.txt ->> PROVINCIA.....................: CORDOBA
+assunta.txt ->> LATITUD.......................: S333224
+assunta.txt ->> LONGITUD......................: O631444
+assunta.txt ->> ALTITUD.......................: 127,5 m.s.n.m.
+assunta.txt ->> PENDIENTE.....................: FALTA!
+assunta.txt ->> DRENAJE.......................: FALTA!
+assunta.txt ->> ESCURRIMIENTO.................: FALTA!
+assunta.txt ->> PERMEABILIDAD.................: FALTA!
+assunta.txt ->> TIPO DE SUELO.................: franca gruesa, mixta, termica
+assunta.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+assunta.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: Ap      |A       |En      |Btn     |BC      |Ck      |
+assunta.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-17    |17-27   |27-33   |33-61   |61-90   |90 a +  |
+assunta.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 1,72    |1,72    |        |        |        |        |
+assunta.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,0     |1,0     |        |        |        |        |
+assunta.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,19    |        |        |        |        |        |
+assunta.txt ->> HORIZONTE->RELACIÓN C/N.......: 5,3     |        |        |        |        |        |
+assunta.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 4,5     |11,0    |8,0     |16,2    |20,5    |12,7    |
+assunta.txt ->> HORIZONTE->LIMO 2-50 (%)......: 37,2    |47,8    |50,3    |40,9    |45,8    |46,2    |
+assunta.txt ->> HORIZONTE->AMF 50-100 (%).....: 48,3    |34,9    |36,2    |39,7    |31,0    |34,4    |
+assunta.txt ->> HORIZONTE->AF 100-250 (%).....: 8,2     |4,0     |3,9     |3,9     |2,5     |2,1     |
+assunta.txt ->> HORIZONTE->AM 250-500 (%).....: 0,3     |0,6     |        |        |        |0,6     |
+assunta.txt ->> HORIZONTE->AG 500-1000 (%)....:         |        |        |        |        |        |
+assunta.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |        |        |        |
+assunta.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |        |        |1,9     |
+assunta.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 15,1    |18,0    |14,0    |22,5    |27,0    |22,8    |
+assunta.txt ->> HORIZONTE->PH PASTA...........: 5,1     |5,2     |6,4     |7,0     |7,8     |7,9     |
+assunta.txt ->> HORIZONTE->PH H2O 1:2,5.......: 5,8     |6,0     |6,9     |7,8     |8,9     |9,2     |
+assunta.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 7,0     |5,7     |3,3     |        |        |        |
+assunta.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 2,0     |1,1     |2,7     |        |        |        |
+assunta.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,4     |1,8     |1,8     |        |        |        |
+assunta.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,0     |1,5     |1,5     |        |        |        |
+assunta.txt ->> HORIZONTE->CI ME/100G-H +.....: 1,6     |2,1     |0,5     |        |        |        |
+assunta.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 3,1     |14,8    |18,4    |        |        |        |
+assunta.txt ->> HORIZONTE->CONDUCT mmhos/cm...:         |        |6,6     |11,8    |15,2    |13,3    |
+assunta.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 11,4    |10,1    |9,3     |        |        |        |
+assunta.txt ->> HORIZONTE->CIC ME/100G(T).....: 13      |12,2    |9,8     |17,3    |19,9    |12,0    |
+assunta.txt ->> HORIZONTE->SAT.B % (S/T)......: 94,2    |82,8    |94,9    |        |        |        |

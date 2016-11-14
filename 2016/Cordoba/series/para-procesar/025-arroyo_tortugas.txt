@@ -1,44 +1,49 @@
-Serie ARROYO TORTUGAS
-Simbolo: ATg
-CLASIFICACION: Natracualf tipico
-TPS: limosa fina, mixta, termica
-UBICACION: a 16,2 km al Oeste de la localidad de Montes de Oca, departamento Marcos Juarez, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S323400
-LONGITUD:O615600
-ALTITUD:80 m.s.n.m.
-|Horizonte                                                            |A       |Btnz    |Btnz2   |Btnz3    |BCz       |
-|Profundidad de la muestra (cm)                                       |0-13    |13-47   |47-70   |70-105   |105 a +   |
-|Materia Organica (%)                                                 |4,52    |0,98    |0,55    |0,50     |0,22      |
-|Carbono Organico (%)                                                 |2,63    |0,57    |0,32    |0,29     |0,13      |
-|Nitrogeno total (%)                                                  |0,167   |0,078   |0,054   |0,05     |0,037     |
-|Relacion C/N                                                         |15,7    |7,3     |5,9     |5,8      |3,5       |
-|Arcilla, <2 u (%)                                                    |22,4    |35,2    |29,4    |         |          |
-|Limo, 2-50 u (%)                                                     |70,0    |62,1    |66,4    |         |          |
-|Arena muy fina, 50-100 u (%)                                         |6,2     |2,2     |2,9     |         |          |
-|Arena fina, 100-250 u (%)                                            |1,4     |0,3     |0,5     |         |          |
-|Arena media, 250-500 u (%)                                           |        |        |        |         |          |
-|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                |        |        |2,35    |3,29     |1,85      |
-|Equivalente de humedad (%)                                           |35,0    |45,0    |39,8    |46,7     |47,8      |
-|pH en pasta                                                          |7,0     |7,3     |7,6     |7,7      |7,8       |
-|pH en agua (1:2,5)                                                   |7,5     |7,7     |8,0     |8,0      |8,1       |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |13,6    |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |3,1     |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (Na+)                            |3,1     |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,2     |        |        |         |          |
-|Cationes de intercambio, meq/100 gr (H+)                             |0,8     |        |        |         |          |
-|Sodio de intercambio, % (PSI)                                        |13,6    |        |        |         |          |
-|Conductividad, mmhos/cm (extracto de saturacion)                     |7,12    |17,2    |20,12   |20,1     |17,2      |
-|Suma de bases, meq/100 gr (S)                                        |22,0    |        |        |         |          |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |22,8    |28,0    |23,0    |27,0     |27,9      |
-|Saturacion con bases, % (S/T)                                        |96      |        |        |         |          |
-|C.EXT.S ME/l-Ca++                                                    |9,7     |25,9    |27,5    |28,3     |25,1      |
-|C.EXT.S ME/l-Mg++                                                    |12,8    |26,7    |27,5    |23,7     |20,5      |
-|C.EXT.S ME/l-Na+                                                     |45,0    |170,0   |200,0   |200,0    |182,0     |
-|C.EXT.S ME/l-K+                                                      |2,0     |3,2     |2,8     |2,2      |2,9       |
-|C.EXT.S ME/l-CO3=                                                    |        |        |        |         |          |
-|C.EXT.S ME/l-HCO3-                                                   |9,2     |3,0     |2,2     |2,2      |1,5       |
-|C.EXT.S ME/l-SO4=                                                    |49,3    |160,0   |187,0   |182,0    |176,0     |
-|C.EXT.S ME/l-Cl-                                                     |12,0    |64,0    |66,6    |68,8     |52,8      |
+arroyo_tortugas.txt ->> ID............................: 025
+arroyo_tortugas.txt ->> CLASIFICACION.................: Natracualf tipico
+arroyo_tortugas.txt ->> SERIE.........................: ARROYO TORTUGAS (ATg)
+arroyo_tortugas.txt ->> UBICACION.....................: a 16,2 km al Oeste de la localidad de Montes de Oca, departamento Marcos Juarez, provincia de Cordoba.
+arroyo_tortugas.txt ->> PROVINCIA.....................: CORDOBA
+arroyo_tortugas.txt ->> LATITUD.......................: S323400
+arroyo_tortugas.txt ->> LONGITUD......................: O615600
+arroyo_tortugas.txt ->> ALTITUD.......................: 80 m.s.n.m.
+arroyo_tortugas.txt ->> PENDIENTE.....................: FALTA!
+arroyo_tortugas.txt ->> DRENAJE.......................: FALTA!
+arroyo_tortugas.txt ->> ESCURRIMIENTO.................: FALTA!
+arroyo_tortugas.txt ->> PERMEABILIDAD.................: FALTA!
+arroyo_tortugas.txt ->> TIPO DE SUELO.................: limosa fina, mixta, termica
+arroyo_tortugas.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+arroyo_tortugas.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |Btnz    |Btnz2   |Btnz3    |BCz       |
+arroyo_tortugas.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-13    |13-47   |47-70   |70-105   |105 a +   |
+arroyo_tortugas.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 4,52    |0,98    |0,55    |0,50     |0,22      |
+arroyo_tortugas.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 2,63    |0,57    |0,32    |0,29     |0,13      |
+arroyo_tortugas.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,167   |0,078   |0,054   |0,05     |0,037     |
+arroyo_tortugas.txt ->> HORIZONTE->RELACIÓN C/N.......: 15,7    |7,3     |5,9     |5,8      |3,5       |
+arroyo_tortugas.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 22,4    |35,2    |29,4    |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->LIMO 2-50 (%)......: 70,0    |62,1    |66,4    |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->AMF 50-100 (%).....: 6,2     |2,2     |2,9     |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->AF 100-250 (%).....: 1,4     |0,3     |0,5     |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->AM 250-500 (%).....:         |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->AG 500-1000 (%)....:         |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |2,35    |3,29     |1,85      |
+arroyo_tortugas.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 35,0    |45,0    |39,8    |46,7     |47,8      |
+arroyo_tortugas.txt ->> HORIZONTE->PH PASTA...........: 7,0     |7,3     |7,6     |7,7      |7,8       |
+arroyo_tortugas.txt ->> HORIZONTE->PH H2O 1:2,5.......: 7,5     |7,7     |8,0     |8,0      |8,1       |
+arroyo_tortugas.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 13,6    |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 3,1     |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->CI ME/100G-Na +....: 3,1     |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,2     |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->CI ME/100G-H +.....: 0,8     |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 13,6    |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->CONDUCT mmhos/cm...: 7,12    |17,2    |20,12   |20,1     |17,2      |
+arroyo_tortugas.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 22,0    |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->CIC ME/100G(T).....: 22,8    |28,0    |23,0    |27,0     |27,9      |
+arroyo_tortugas.txt ->> HORIZONTE->SAT.B % (S/T)......: 96      |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-Ca++..: 9,7     |25,9    |27,5    |28,3     |25,1      |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-Mg++..: 12,8    |26,7    |27,5    |23,7     |20,5      |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-Na+...: 45,0    |170,0   |200,0   |200,0    |182,0     |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-K+....: 2,0     |3,2     |2,8     |2,2      |2,9       |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-CO3=..:         |        |        |         |          |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-HCO3-.: 9,2     |3,0     |2,2     |2,2      |1,5       |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-SO4=..: 49,3    |160,0   |187,0   |182,0    |176,0     |
+arroyo_tortugas.txt ->> HORIZONTE->C.EXT.S ME/l-Cl-...: 12,0    |64,0    |66,6    |68,8     |52,8      |

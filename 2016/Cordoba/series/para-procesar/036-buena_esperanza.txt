@@ -1,34 +1,39 @@
-Serie BUENA ESPERANZA
-Simbolo: BE
-CLASIFICACION: Ustipsamment tipico
-TPS: arenosa, mixta, termica
-UBICACION: y muestreada a 10,5 Km al NO de la localidad de Buena Esperanza, en el departamento Gobernador Vicente Dupuy muy proximo al limite con el departamento General Pedernera, provincia de San Luis.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S343900
-LONGITUD:O651800
-ALTITUD:320 m.s.n.m.
-|Horizonte                                                            |Ap      |AC      |C       |
-|Profundidad de la muestra (cm)                                       |0-20    |20-45   |45 a +  |
-|Materia Organica (%)                                                 |0,90    |0,61    |0,41    |
-|Carbono Organico (%)                                                 |0,50    |0,34    |0,23    |
-|Nitrogeno total (%)                                                  |0,07    |0,06    |0,07    |
-|Relacion C/N                                                         |6,0     |5,0     |3,0     |
-|Arcilla, <2 u (%)                                                    |5,41    |4,43    |2,79    |
-|Limo, 2-50 u (%)                                                     |11,21   |9,12    |9,45    |
-|Arena muy fina, 50-100 u (%)                                         |4,37    |5,59    |3,26    |
-|Arena fina, 100-250 u (%)                                            |63,87   |65,37   |68,01   |
-|Arena media, 250-500 u (%)                                           |7,91    |8,72    |9,26    |
-|Arena gruesa, 500-1000 u (%)                                         |1,52    |1,48    |1,76    |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |0,14    |0,14    |0,14    |
-|pH en pasta                                                          |6,0     |6,50    |7,0     |
-|pH en agua (1:2,5)                                                   |6,50    |7,0     |7,50    |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |3,79    |4,09    |4,40    |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |1,44    |1,57    |1,44    |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,30    |0,40    |0,48    |
-|Cationes de intercambio, meq/100 gr (K+)                             |1,16    |2,26    |2,06    |
-|Cationes de intercambio, meq/100 gr (H+)                             |1,0     |0,6     |        |
-|Sodio de intercambio, % (PSI)                                        |5,4     |4,5     |5,5     |
-|Suma de bases, meq/100 gr (S)                                        |5,23    |8,32    |8,38    |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |5,60    |8,80    |8,80    |
-|Saturacion con bases, % (S/T)                                        |93      |95      |95      |
+buena_esperanza.txt ->> ID............................: 036
+buena_esperanza.txt ->> CLASIFICACION.................: Ustipsamment tipico
+buena_esperanza.txt ->> SERIE.........................: BUENA ESPERANZA (BE)
+buena_esperanza.txt ->> UBICACION.....................: a 10,5 Km al NO de la localidad de Buena Esperanza, en el departamento Gobernador Vicente Dupuy muy proximo al limite con el departamento General Pedernera, provincia de San Luis.
+buena_esperanza.txt ->> PROVINCIA.....................: CORDOBA
+buena_esperanza.txt ->> LATITUD.......................: S343900
+buena_esperanza.txt ->> LONGITUD......................: O651800
+buena_esperanza.txt ->> ALTITUD.......................: 320 m.s.n.m.
+buena_esperanza.txt ->> PENDIENTE.....................: FALTA!
+buena_esperanza.txt ->> DRENAJE.......................: FALTA!
+buena_esperanza.txt ->> ESCURRIMIENTO.................: FALTA!
+buena_esperanza.txt ->> PERMEABILIDAD.................: FALTA!
+buena_esperanza.txt ->> TIPO DE SUELO.................: arenosa, mixta, termica
+buena_esperanza.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+buena_esperanza.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: Ap      |AC      |C       |
+buena_esperanza.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-20    |20-45   |45 a +  |
+buena_esperanza.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 0,90    |0,61    |0,41    |
+buena_esperanza.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 0,50    |0,34    |0,23    |
+buena_esperanza.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,07    |0,06    |0,07    |
+buena_esperanza.txt ->> HORIZONTE->RELACIÓN C/N.......: 6,0     |5,0     |3,0     |
+buena_esperanza.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 5,41    |4,43    |2,79    |
+buena_esperanza.txt ->> HORIZONTE->LIMO 2-50 (%)......: 11,21   |9,12    |9,45    |
+buena_esperanza.txt ->> HORIZONTE->AMF 50-100 (%).....: 4,37    |5,59    |3,26    |
+buena_esperanza.txt ->> HORIZONTE->AF 100-250 (%).....: 63,87   |65,37   |68,01   |
+buena_esperanza.txt ->> HORIZONTE->AM 250-500 (%).....: 7,91    |8,72    |9,26    |
+buena_esperanza.txt ->> HORIZONTE->AG 500-1000 (%)....: 1,52    |1,48    |1,76    |
+buena_esperanza.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |
+buena_esperanza.txt ->> HORIZONTE->CALCAREO CaCO3(%)..: 0,14    |0,14    |0,14    |
+buena_esperanza.txt ->> HORIZONTE->PH PASTA...........: 6,0     |6,50    |7,0     |
+buena_esperanza.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,50    |7,0     |7,50    |
+buena_esperanza.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 3,79    |4,09    |4,40    |
+buena_esperanza.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,44    |1,57    |1,44    |
+buena_esperanza.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,30    |0,40    |0,48    |
+buena_esperanza.txt ->> HORIZONTE->CI ME/100G-K +.....: 1,16    |2,26    |2,06    |
+buena_esperanza.txt ->> HORIZONTE->CI ME/100G-H +.....: 1,0     |0,6     |        |
+buena_esperanza.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 5,4     |4,5     |5,5     |
+buena_esperanza.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 5,23    |8,32    |8,38    |
+buena_esperanza.txt ->> HORIZONTE->CIC ME/100G(T).....: 5,60    |8,80    |8,80    |
+buena_esperanza.txt ->> HORIZONTE->SAT.B % (S/T)......: 93      |95      |95      |

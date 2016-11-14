@@ -1,34 +1,39 @@
-Serie ANCHORENA
-Simbolo: An
-CLASIFICACION: Ustipsamment tipico
-TPS: arenosa, mixta, termica
-UBICACION: a 13,5 Km al SO de la localidad de Arizona, en el departamento Gobernador Vicente Dupuy, provincia de San Luis.
-COLOR: color en humedo pardo oscuro (10YR3/3)
-LATITUD:S354900
-LONGITUD:O652400
-ALTITUD:300 m.s.n.m.
-|Horizonte                                                            |A       |A2      |AC      |C       |
-|Profundidad de la muestra (cm)                                       |0-10    |10-24   |24-44   |44 a +  |
-|Materia Organica (%)                                                 |0,74    |0,46    |0,34    |0,13    |
-|Carbono Organico (%)                                                 |0,43    |0,27    |0,20    |0,08    |
-|Nitrogeno total (%)                                                  |0,085   |0,05    |0,035   |0,025   |
-|Relacion C/N                                                         |5       |5       |6       |3       |
-|Arcilla, <2 u (%)                                                    |4,08    |2,99    |3,65    |2,87    |
-|Limo, 2-50 u (%)                                                     |30,45   |6,88    |5,61    |5,79    |
-|Arena muy fina, 50-100 u (%)                                         |10,91   |12,74   |14,0    |12,61   |
-|Arena fina, 100-250 u (%)                                            |43,0    |67,52   |66,20   |67,66   |
-|Arena media, 250-500 u (%)                                           |1,98    |2,98    |3,04    |2,60    |
-|Arena gruesa, 500-1000 u (%)                                         |0,40    |0,30    |0,34    |0,24    |
-|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |0,10    |0,02    |0,10    |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |0,23    |
-|pH en pasta                                                          |6,30    |7,00    |7,40    |8,00    |
-|pH en agua (1:2,5)                                                   |6,60    |7,60    |8,20    |8,30    |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |3,09    |4,31    |4,88    |6,84    |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |1,44    |1,44    |1,57    |1,57    |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,20    |0,20    |0,26    |0,36    |
-|Cationes de intercambio, meq/100 gr (K+)                             |0,38    |0,54    |0,54    |0,54    |
-|Cationes de intercambio, meq/100 gr (H+)                             |0,8     |        |        |        |
-|Sodio de intercambio, % (PSI)                                        |3,3     |2,8     |3,3     |3,6     |
-|Suma de bases, meq/100 gr (S)                                        |5,11    |6,49    |7,25    |9,31    |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |6,0     |7,20    |8,0     |10,0    |
-|Saturacion con bases, % (S/T)                                        |85      |90      |91      |93      |
+anchorena.txt ->> ID............................: 019
+anchorena.txt ->> CLASIFICACION.................: Ustipsamment tipico
+anchorena.txt ->> SERIE.........................: ANCHORENA (An)
+anchorena.txt ->> UBICACION.....................: a 13,5 Km al SO de la localidad de Arizona, en el departamento Gobernador Vicente Dupuy, provincia de San Luis.
+anchorena.txt ->> PROVINCIA.....................: CORDOBA
+anchorena.txt ->> LATITUD.......................: S354900
+anchorena.txt ->> LONGITUD......................: O652400
+anchorena.txt ->> ALTITUD.......................: 300 m.s.n.m.
+anchorena.txt ->> PENDIENTE.....................: FALTA!
+anchorena.txt ->> DRENAJE.......................: FALTA!
+anchorena.txt ->> ESCURRIMIENTO.................: FALTA!
+anchorena.txt ->> PERMEABILIDAD.................: FALTA!
+anchorena.txt ->> TIPO DE SUELO.................: arenosa, mixta, termica
+anchorena.txt ->> COLOR ........................: color en humedo pardo oscuro (10YR3/3)
+anchorena.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |A2      |AC      |C       |
+anchorena.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-10    |10-24   |24-44   |44 a +  |
+anchorena.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 0,74    |0,46    |0,34    |0,13    |
+anchorena.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 0,43    |0,27    |0,20    |0,08    |
+anchorena.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,085   |0,05    |0,035   |0,025   |
+anchorena.txt ->> HORIZONTE->RELACIÓN C/N.......: 5       |5       |6       |3       |
+anchorena.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 4,08    |2,99    |3,65    |2,87    |
+anchorena.txt ->> HORIZONTE->LIMO 2-50 (%)......: 30,45   |6,88    |5,61    |5,79    |
+anchorena.txt ->> HORIZONTE->AMF 50-100 (%).....: 10,91   |12,74   |14,0    |12,61   |
+anchorena.txt ->> HORIZONTE->AF 100-250 (%).....: 43,0    |67,52   |66,20   |67,66   |
+anchorena.txt ->> HORIZONTE->AM 250-500 (%).....: 1,98    |2,98    |3,04    |2,60    |
+anchorena.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,40    |0,30    |0,34    |0,24    |
+anchorena.txt ->> HORIZONTE->AMG 1-2 mm (%).....: 0,1     |0,10    |0,02    |0,10    |
+anchorena.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |0,23    |
+anchorena.txt ->> HORIZONTE->PH PASTA...........: 6,30    |7,00    |7,40    |8,00    |
+anchorena.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,60    |7,60    |8,20    |8,30    |
+anchorena.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 3,09    |4,31    |4,88    |6,84    |
+anchorena.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,44    |1,44    |1,57    |1,57    |
+anchorena.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,20    |0,20    |0,26    |0,36    |
+anchorena.txt ->> HORIZONTE->CI ME/100G-K +.....: 0,38    |0,54    |0,54    |0,54    |
+anchorena.txt ->> HORIZONTE->CI ME/100G-H +.....: 0,8     |        |        |        |
+anchorena.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 3,3     |2,8     |3,3     |3,6     |
+anchorena.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 5,11    |6,49    |7,25    |9,31    |
+anchorena.txt ->> HORIZONTE->CIC ME/100G(T).....: 6,0     |7,20    |8,0     |10,0    |
+anchorena.txt ->> HORIZONTE->SAT.B % (S/T)......: 85      |90      |91      |93      |

@@ -1,35 +1,40 @@
-Serie ALTO GRANDE
-Simbolo: AGr
-CLASIFICACION: Haplustol tipico
-TPS: franca fina, mixta, termica
-UBICACION: a 14 km al Norte de Jesus Maria, departamento Totoral, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S305159
-LONGITUD:O640357
-ALTITUD:570 m.s.n.m
-|Horizonte                                                            |A       |Bw      | BCk    |Ck      |
-|Profundidad de la muestra (cm)                                       |0-20    |20-38   |38-65   |65 a +  |
-|Materia Organica (%)                                                 |3,28    |1,72    |        |        |
-|Carbono Organico (%)                                                 |1,9     |1,0     |        |        |
-|Nitrogeno total (%)                                                  |0,19    |0,10    |        |        |
-|Relacion C/N                                                         |10,0    |10,0    |        |        |
-|Arcilla, <2 u (%)                                                    |19,0    |21,4    |17,0    |20,4    |
-|Limo, 2-50 u (%)                                                     |56,5    |58,1    |61,2    |59,1    |
-|Arena muy fina, 50-100 u (%)                                         |7,3     |6,7     |6,6     |5,7     |
-|Arena fina, 100-250 u (%)                                            |4,0     |3,4     |2,9     |2,7     |
-|Arena media, 250-500 u (%)                                           |4,5     |2,7     |3,2     |2,9     |
-|Arena gruesa, 500-1000 u (%)                                         |6,9     |5,6     |4,6     |4,5     |
-|Arena muy gruesa, 1-2 mm (%)                                         |2,1     |2,6     |2,2     |2,6     |
-|Carbonatos, CaCO3 (%)                                                |        |        |3,6     |7,8     |
-|Equivalente de humedad (%)                                           |21,7    |22,0    |22,4    |22,4    |
-|pH en pasta                                                          |6,9     |7,1     |7,3     |7,3     |
-|pH en agua (1:2,5)                                                   |7,3     |7,4     |7,6     |7,7     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |18,5    |22,7    |        |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |0,4     |0,7     |        |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,3     |0,3     |0,3     |
-|Cationes de intercambio, meq/100 gr (K+)                             |1,5     |1,1     |1,0     |1,1     |
-|Cationes de intercambio, meq/100 gr (H+)                             |0,4     |0,2     |        |        |
-|Sodio de intercambio, % (PSI)                                        |1,9     |1,2     |1,2     |1,2     |
-|Suma de bases, meq/100 gr (S)                                        |20,8    |24,8    |        |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |21,2    |25,0    |24,8    |24,9    |
-|Saturacion con bases, % (S/T)                                        |98,1    |99,2    |        |        |
+alto_grande.txt ->> ID............................: 017
+alto_grande.txt ->> CLASIFICACION.................: Haplustol tipico
+alto_grande.txt ->> SERIE.........................: ALTO GRANDE (AGr)
+alto_grande.txt ->> UBICACION.....................: a 14 km al Norte de Jesus Maria, departamento Totoral, provincia de Cordoba.
+alto_grande.txt ->> PROVINCIA.....................: CORDOBA
+alto_grande.txt ->> LATITUD.......................: S305159
+alto_grande.txt ->> LONGITUD......................: O640357
+alto_grande.txt ->> ALTITUD.......................: 570 m.s.n.m
+alto_grande.txt ->> PENDIENTE.....................: FALTA!
+alto_grande.txt ->> DRENAJE.......................: FALTA!
+alto_grande.txt ->> ESCURRIMIENTO.................: FALTA!
+alto_grande.txt ->> PERMEABILIDAD.................: FALTA!
+alto_grande.txt ->> TIPO DE SUELO.................: franca fina, mixta, termica
+alto_grande.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+alto_grande.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |Bw      | BCk    |Ck      |
+alto_grande.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-20    |20-38   |38-65   |65 a +  |
+alto_grande.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 3,28    |1,72    |        |        |
+alto_grande.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,9     |1,0     |        |        |
+alto_grande.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,19    |0,10    |        |        |
+alto_grande.txt ->> HORIZONTE->RELACIÓN C/N.......: 10,0    |10,0    |        |        |
+alto_grande.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 19,0    |21,4    |17,0    |20,4    |
+alto_grande.txt ->> HORIZONTE->LIMO 2-50 (%)......: 56,5    |58,1    |61,2    |59,1    |
+alto_grande.txt ->> HORIZONTE->AMF 50-100 (%).....: 7,3     |6,7     |6,6     |5,7     |
+alto_grande.txt ->> HORIZONTE->AF 100-250 (%).....: 4,0     |3,4     |2,9     |2,7     |
+alto_grande.txt ->> HORIZONTE->AM 250-500 (%).....: 4,5     |2,7     |3,2     |2,9     |
+alto_grande.txt ->> HORIZONTE->AG 500-1000 (%)....: 6,9     |5,6     |4,6     |4,5     |
+alto_grande.txt ->> HORIZONTE->AMG 1-2 mm (%).....: 2,1     |2,6     |2,2     |2,6     |
+alto_grande.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |3,6     |7,8     |
+alto_grande.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 21,7    |22,0    |22,4    |22,4    |
+alto_grande.txt ->> HORIZONTE->PH PASTA...........: 6,9     |7,1     |7,3     |7,3     |
+alto_grande.txt ->> HORIZONTE->PH H2O 1:2,5.......: 7,3     |7,4     |7,6     |7,7     |
+alto_grande.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 18,5    |22,7    |        |        |
+alto_grande.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 0,4     |0,7     |        |        |
+alto_grande.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,4     |0,3     |0,3     |0,3     |
+alto_grande.txt ->> HORIZONTE->CI ME/100G-K +.....: 1,5     |1,1     |1,0     |1,1     |
+alto_grande.txt ->> HORIZONTE->CI ME/100G-H +.....: 0,4     |0,2     |        |        |
+alto_grande.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 1,9     |1,2     |1,2     |1,2     |
+alto_grande.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 20,8    |24,8    |        |        |
+alto_grande.txt ->> HORIZONTE->CIC ME/100G(T).....: 21,2    |25,0    |24,8    |24,9    |
+alto_grande.txt ->> HORIZONTE->SAT.B % (S/T)......: 98,1    |99,2    |        |        |

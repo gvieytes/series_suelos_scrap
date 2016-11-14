@@ -1,44 +1,49 @@
-Serie AREQUITO
-Simbolo: Aq
-CLASIFICACION: Argiudol acuico
-TPS: fina, illitica, termica
-UBICACION: a 6 Km al SE de la localidad de Arequito, FCBM, departamento Caseros, provincia de Santa Fe.
-COLOR: color en humedo pardo muy oscuro (10YR2/2)
-LATITUD:S331144
-LONGITUD:O612615
-ALTITUD:90 m.s.n.m.
-|Horizonte                                                             |Ap      |A       |B       |Bt      |Btm     |
-|Profundidad de la muestra (cm)                                        |0-13    |13-35   |35-53   |53-80   |80 a +  |
-|Materia Organica (%)                                                  |2,44    |1,12    |1,02    |        |        |
-|Carbono Organico (%)                                                  |1,42    |0,65    |0,59    |        |        |
-|Nitrogeno total (%)                                                   |0,142   |0,075   |0,056   |        |        |
-|Relacion C/N                                                          |10,0    |8,7     |10,5    |        |        |
-|Arcilla, <2 u (%)                                                     |22,8    |38,9    |36,5    |26,3    |26,1    |
-|Limo, 2-50 u (%)                                                      |73,8    |59,2    |62,0    |68,9    |70,8    |
-|Arena muy fina, 50-100 u (%)                                          |2,8     |1,3     |1,6     |2,9     |2,6     |
-|Arena fina, 100-250 u (%)                                             |0,6     |0,6     |0,6     |1,1     |1,0     |
-|Arena media, 250-500 u (%)                                            |        |        |0,2     |0,2     |0,2     |
-|Arena gruesa, 500-1000 u (%)                                          |        |        |0,4     |0,7     |0,7     |
-|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |0,4     |0,2     |
-|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |1,61    |
-|Equivalente de humedad (%)                                            |23,8    |29,3    |31,3    |26,3    |25,1    |
-|pH en pasta                                                           |6,1     |7,0     |7,6     |8,5     |8,6     |
-|pH en agua (1:2,5)                                                    |6,3     |7,8     |8,5     |9,2     |9,1     |
-|Cationes de intercambio, meq/100 gr (Ca++)                            |9,1     |15,4    |13,3    |12,8    |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                            |1,1     |2,1     |1,9     |1,9     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                             |0,3     |2,1     |4,0     |2,6     |1,6     |
-|Cationes de intercambio, meq/100 gr (K+)                              |2,2     |2,5     |2,4     |2,5     |2,6     |
-|Cationes de intercambio, meq/100 gr (H+)                              |2,2     |        |        |        |        |
-|Sodio de intercambio, % (PSI)                                         |2,0     |9,5     |18,7    |13,2    |9,1     |
-|Conductividad, mmhos/cm (extracto de saturacion)                      |        |        |        |        |4,13    |
-|Suma de bases, meq/100 gr (S)                                         |12,7    |22,2    |21,6    |19,8    |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                    |15,3    |22,1    |21,4    |19,7    |17,6    |
-|Saturacion con bases, % (S/T)                                         |83      |100     |100     |100     |        |
-|C.EXT.S ME/l-Ca++                                                     |        |        |        |        |13,28   |
-|C.EXT.S ME/l-Mg++                                                     |        |        |        |        |0,80    |
-|C.EXT.S ME/l-Na+                                                      |        |        |        |        |30,40   |
-|C.EXT.S ME/l-K+                                                       |        |        |        |        |0,80    |
-|C.EXT.S ME/l-CO3=                                                     |        |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                    |        |        |        |        |4,80    |
-|C.EXT.S ME/l-SO4=                                                     |        |        |        |        |36,99   |
-|C.EXT.S ME/l-Cl-                                                      |        |        |        |        |4,62    |
+arequito.txt ->> ID............................: 020
+arequito.txt ->> CLASIFICACION.................: Argiudol acuico
+arequito.txt ->> SERIE.........................: AREQUITO (Aq)
+arequito.txt ->> UBICACION.....................: a 6 Km al SE de la localidad de Arequito, FCBM, departamento Caseros, provincia de Santa Fe.
+arequito.txt ->> PROVINCIA.....................: CORDOBA
+arequito.txt ->> LATITUD.......................: S331144
+arequito.txt ->> LONGITUD......................: O612615
+arequito.txt ->> ALTITUD.......................: 90 m.s.n.m.
+arequito.txt ->> PENDIENTE.....................: FALTA!
+arequito.txt ->> DRENAJE.......................: FALTA!
+arequito.txt ->> ESCURRIMIENTO.................: FALTA!
+arequito.txt ->> PERMEABILIDAD.................: FALTA!
+arequito.txt ->> TIPO DE SUELO.................: fina, illitica, termica
+arequito.txt ->> COLOR ........................: color en humedo pardo muy oscuro (10YR2/2)
+arequito.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: Ap      |A       |B       |Bt      |Btm     |
+arequito.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-13    |13-35   |35-53   |53-80   |80 a +  |
+arequito.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 2,44    |1,12    |1,02    |        |        |
+arequito.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,42    |0,65    |0,59    |        |        |
+arequito.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,142   |0,075   |0,056   |        |        |
+arequito.txt ->> HORIZONTE->RELACIÓN C/N.......: 10,0    |8,7     |10,5    |        |        |
+arequito.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 22,8    |38,9    |36,5    |26,3    |26,1    |
+arequito.txt ->> HORIZONTE->LIMO 2-50 (%)......: 73,8    |59,2    |62,0    |68,9    |70,8    |
+arequito.txt ->> HORIZONTE->AMF 50-100 (%).....: 2,8     |1,3     |1,6     |2,9     |2,6     |
+arequito.txt ->> HORIZONTE->AF 100-250 (%).....: 0,6     |0,6     |0,6     |1,1     |1,0     |
+arequito.txt ->> HORIZONTE->AM 250-500 (%).....:         |        |0,2     |0,2     |0,2     |
+arequito.txt ->> HORIZONTE->AG 500-1000 (%)....:         |        |0,4     |0,7     |0,7     |
+arequito.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |0,4     |0,2     |
+arequito.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |        |1,61    |
+arequito.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 23,8    |29,3    |31,3    |26,3    |25,1    |
+arequito.txt ->> HORIZONTE->PH PASTA...........: 6,1     |7,0     |7,6     |8,5     |8,6     |
+arequito.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,3     |7,8     |8,5     |9,2     |9,1     |
+arequito.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 9,1     |15,4    |13,3    |12,8    |        |
+arequito.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,1     |2,1     |1,9     |1,9     |        |
+arequito.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3     |2,1     |4,0     |2,6     |1,6     |
+arequito.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,2     |2,5     |2,4     |2,5     |2,6     |
+arequito.txt ->> HORIZONTE->CI ME/100G-H +.....: 2,2     |        |        |        |        |
+arequito.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 2,0     |9,5     |18,7    |13,2    |9,1     |
+arequito.txt ->> HORIZONTE->CONDUCT mmhos/cm...:         |        |        |        |4,13    |
+arequito.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 12,7    |22,2    |21,6    |19,8    |        |
+arequito.txt ->> HORIZONTE->CIC ME/100G(T).....: 15,3    |22,1    |21,4    |19,7    |17,6    |
+arequito.txt ->> HORIZONTE->SAT.B % (S/T)......: 83      |100     |100     |100     |        |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-Ca++..:         |        |        |        |13,28   |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-Mg++..:         |        |        |        |0,80    |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-Na+...:         |        |        |        |30,40   |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-K+....:         |        |        |        |0,80    |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-CO3=..:         |        |        |        |        |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-HCO3-.:         |        |        |        |4,80    |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-SO4=..:         |        |        |        |36,99   |
+arequito.txt ->> HORIZONTE->C.EXT.S ME/l-Cl-...:         |        |        |        |4,62    |

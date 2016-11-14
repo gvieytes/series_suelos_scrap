@@ -1,44 +1,49 @@
-Serie ALTO ALEGRE
-Simbolo: AA
-CLASIFICACION: Natracualf albico
-TPS: franca fina, mixta, termica
-UBICACION: a 10,6 km al Este de Alto Alegre, departamento Union, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo oscuro (10YR4/2)
-LATITUD:S322147
-LONGITUD:O624613
-ALTITUD:137 m.s.n.m.
-|Horizonte                                                            |En      |Btn     |BCn     |Cn      |2Ck     |
-|Profundidad de la muestra (cm)                                       |0-17    |17-41   |41-60   |60-97   |97 a +  |
-|Materia Organica (%)                                                 |0,73    |0,48    |0,17    |0,17    |0,10    |
-|Carbono Organico (%)                                                 |0,43    |0,28    |0,10    |0,10    |0,06    |
-|Nitrogeno total (%)                                                  |0,060   |0,043   |0,031   |0,031   |        |
-|Relacion C/N                                                         |7,1     |6,5     |3,2     |3,2     |        |
-|Arcilla, <2 u (%)                                                    |17,5    |19,5    |17,8    |17,7    |11,8    |
-|Limo, 2-50 u (%)                                                     |41,5    |45,2    |40,7    |37,3    |58,0    |
-|Arena muy fina, 50-100 u (%)                                         |7,2     |7,0     |7,1     |8,0     |17,3    |
-|Arena fina, 100-250 u (%)                                            |26,6    |22,7    |25,2    |30,0    |9,0     |
-|Arena media, 250-500 u (%)                                           |4,6     |3,7     |7,0     |5,4     |0,9     |
-|Arena gruesa, 500-1000 u (%)                                         |2,4     |2,1     |2,8     |2,1     |0,5     |
-|Arena muy gruesa, 1-2 mm (%)                                         |0,1     |        |0,2     |        |        |
-|Carbonatos, CaCO3 (%)                                                |0,16    |0,73    |0,51    |0,09    |2,70    |
-|Equivalente de humedad (%)                                           |21,6    |29,8    |25,6    |21,2    |22,1    |
-|pH en pasta                                                          |8,6     |8,9     |8,9     |8,6     |8,6     |
-|pH en agua (1:2,5)                                                   |9,6     |9,8     |9,7     |9,5     |9,5     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |        |        |        |6,1     |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |        |        |        |1,1     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |7,2     |16,4    |11,4    |7,6     |7,9     |
-|Cationes de intercambio, meq/100 gr (K+)                             |1,6     |2,4     |2,3     |1,8     |2,4     |
-|Cationes de intercambio, meq/100 gr (H+)                             |        |        |        |        |        |
-|Sodio de intercambio, % (PSI)                                        |57,1    |83,7    |68,7    |48,7    |56,4    |
-|Conductividad, mmhos/cm (extracto de saturacion)                     |        |4,54    |        |        |        |
-|Suma de bases, meq/100 gr (S)                                        |        |        |        |16,6    |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |12,6    |19,6    |16,6    |15,6    |14      |
-|Saturacion con bases, % (S/T)                                        |        |        |        |100     |        |
-|C.EXT.S ME/l-Ca++                                                    |        |3,0     |        |        |        |
-|C.EXT.S ME/l-Mg++                                                    |        |0,8     |        |        |        |
-|C.EXT.S ME/l-Na+                                                     |        |47,0    |        |        |        |
-|C.EXT.S ME/l-K+                                                      |        |0,35    |        |        |        |
-|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                   |        |15,0    |        |        |        |
-|C.EXT.S ME/l-SO4=                                                    |        |35,6    |        |        |        |
-|C.EXT.S ME/l-Cl-                                                     |        |1,5     |        |        |        |
+alto_alegre.txt ->> ID............................: 016
+alto_alegre.txt ->> CLASIFICACION.................: Natracualf albico
+alto_alegre.txt ->> SERIE.........................: ALTO ALEGRE (AA)
+alto_alegre.txt ->> UBICACION.....................: a 10,6 km al Este de Alto Alegre, departamento Union, provincia de Cordoba.
+alto_alegre.txt ->> PROVINCIA.....................: CORDOBA
+alto_alegre.txt ->> LATITUD.......................: S322147
+alto_alegre.txt ->> LONGITUD......................: O624613
+alto_alegre.txt ->> ALTITUD.......................: 137 m.s.n.m.
+alto_alegre.txt ->> PENDIENTE.....................: FALTA!
+alto_alegre.txt ->> DRENAJE.......................: FALTA!
+alto_alegre.txt ->> ESCURRIMIENTO.................: FALTA!
+alto_alegre.txt ->> PERMEABILIDAD.................: FALTA!
+alto_alegre.txt ->> TIPO DE SUELO.................: franca fina, mixta, termica
+alto_alegre.txt ->> COLOR ........................: color en humedo pardo grisaceo oscuro (10YR4/2)
+alto_alegre.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: En      |Btn     |BCn     |Cn      |2Ck     |
+alto_alegre.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-17    |17-41   |41-60   |60-97   |97 a +  |
+alto_alegre.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 0,73    |0,48    |0,17    |0,17    |0,10    |
+alto_alegre.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 0,43    |0,28    |0,10    |0,10    |0,06    |
+alto_alegre.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,060   |0,043   |0,031   |0,031   |        |
+alto_alegre.txt ->> HORIZONTE->RELACIÓN C/N.......: 7,1     |6,5     |3,2     |3,2     |        |
+alto_alegre.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 17,5    |19,5    |17,8    |17,7    |11,8    |
+alto_alegre.txt ->> HORIZONTE->LIMO 2-50 (%)......: 41,5    |45,2    |40,7    |37,3    |58,0    |
+alto_alegre.txt ->> HORIZONTE->AMF 50-100 (%).....: 7,2     |7,0     |7,1     |8,0     |17,3    |
+alto_alegre.txt ->> HORIZONTE->AF 100-250 (%).....: 26,6    |22,7    |25,2    |30,0    |9,0     |
+alto_alegre.txt ->> HORIZONTE->AM 250-500 (%).....: 4,6     |3,7     |7,0     |5,4     |0,9     |
+alto_alegre.txt ->> HORIZONTE->AG 500-1000 (%)....: 2,4     |2,1     |2,8     |2,1     |0,5     |
+alto_alegre.txt ->> HORIZONTE->AMG 1-2 mm (%).....: 0,1     |        |0,2     |        |        |
+alto_alegre.txt ->> HORIZONTE->CALCAREO CaCO3(%)..: 0,16    |0,73    |0,51    |0,09    |2,70    |
+alto_alegre.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 21,6    |29,8    |25,6    |21,2    |22,1    |
+alto_alegre.txt ->> HORIZONTE->PH PASTA...........: 8,6     |8,9     |8,9     |8,6     |8,6     |
+alto_alegre.txt ->> HORIZONTE->PH H2O 1:2,5.......: 9,6     |9,8     |9,7     |9,5     |9,5     |
+alto_alegre.txt ->> HORIZONTE->CI ME/100G-Ca ++...:         |        |        |6,1     |        |
+alto_alegre.txt ->> HORIZONTE->CI ME/100G-Mg ++...:         |        |        |1,1     |        |
+alto_alegre.txt ->> HORIZONTE->CI ME/100G-Na +....: 7,2     |16,4    |11,4    |7,6     |7,9     |
+alto_alegre.txt ->> HORIZONTE->CI ME/100G-K +.....: 1,6     |2,4     |2,3     |1,8     |2,4     |
+alto_alegre.txt ->> HORIZONTE->CI ME/100G-H +.....:         |        |        |        |        |
+alto_alegre.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 57,1    |83,7    |68,7    |48,7    |56,4    |
+alto_alegre.txt ->> HORIZONTE->CONDUCT mmhos/cm...:         |4,54    |        |        |        |
+alto_alegre.txt ->> HORIZONTE->SUM.B. ME/100G(S)..:         |        |        |16,6    |        |
+alto_alegre.txt ->> HORIZONTE->CIC ME/100G(T).....: 12,6    |19,6    |16,6    |15,6    |14      |
+alto_alegre.txt ->> HORIZONTE->SAT.B % (S/T)......:         |        |        |100     |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-Ca++..:         |3,0     |        |        |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-Mg++..:         |0,8     |        |        |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-Na+...:         |47,0    |        |        |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-K+....:         |0,35    |        |        |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-CO3=..:         |        |        |        |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-HCO3-.:         |15,0    |        |        |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-SO4=..:         |35,6    |        |        |        |
+alto_alegre.txt ->> HORIZONTE->C.EXT.S ME/l-Cl-...:         |1,5     |        |        |        |

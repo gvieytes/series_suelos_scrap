@@ -1,35 +1,40 @@
-Serie ACHALA II
-Simbolo: FALTA!
-CLASIFICACION: Argiudol litico
-TPS: esqueletica, franca, mixta, termica
-UBICACION: en la parte alta de la cuenca de la estancia San Miguel, departamento San Alberto, provincia de Cordoba.
-COLOR: color en humedo gris muy oscuro (10YR3/1)
-LATITUD:S314300
-LONGITUD:O644700
-ALTITUD:1920 m.s.n.m.
-|Horizonte                                                            |A       |Bt      |2BC     |
-|Profundidad de la muestra (cm)                                       |0-38    |38-56   |56 a +  |
-|Materia Organica (%)                                                 |12,41   |7,93    |        |
-|Carbono Organico (%)                                                 |7,2     |4,6     |        |
-|Nitrogeno total (%)                                                  |0,53    |0,45    |        |
-|Relacion C/N                                                         |13,58   |10,22   |        |
-|Arcilla, <2 u (%)                                                    |29,6    |35,6    |15,2    |
-|Limo, 2-50 u (%)                                                     |46,5    |36,1    |37,7    |
-|Arena muy fina, 50-100 u (%)                                         |1,40    |2,65    |4,80    |
-|Arena fina, 100-250 u (%)                                            |6,4     |7,9     |14,15   |
-|Arena media, 250-500 u (%)                                           |2,75    |2,90    |5,65    |
-|Arena gruesa, 500-1000 u (%)                                         |7,10    |7,55    |14,40   |
-|Arena muy gruesa, 1-2 mm (%)                                         |4,35    |5,50    |9,20    |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |
-|Equivalente de humedad (%)                                           |36,8    |30,2    |19,0    |
-|pH en pasta                                                          |4,9     |5,2     |5,1     |
-|pH en agua (1:2,5)                                                   |4,8     |5,1     |5,1     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |14,0    |10,9    |5,0     |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |0,8     |0,4     |0,4     |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,1     |
-|Cationes de intercambio, meq/100 gr (K+)                             |0,4     |0,1     |0,1     |
-|Cationes de intercambio, meq/100 gr (H+)                             |10,9    |9,3     |4,4     |
-|Sodio de intercambio, % (PSI)                                        |1,1     |1,4     |1,1     |
-|Suma de bases, meq/100 gr (S)                                        |15,5    |11,7    |5,6     |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |26,4    |21,0    |9,0     |
-|Saturacion con bases, % (S/T)                                        |59      |56      |62      |
+achala_ii.txt ->> ID............................: 003
+achala_ii.txt ->> CLASIFICACION.................: Argiudol litico
+achala_ii.txt ->> SERIE.........................: ACHALA II (FALTA!)
+achala_ii.txt ->> UBICACION.....................: en la parte alta de la cuenca de la estancia San Miguel, departamento San Alberto, provincia de Cordoba.
+achala_ii.txt ->> PROVINCIA.....................: CORDOBA
+achala_ii.txt ->> LATITUD.......................: S314300
+achala_ii.txt ->> LONGITUD......................: O644700
+achala_ii.txt ->> ALTITUD.......................: 1920 m.s.n.m.
+achala_ii.txt ->> PENDIENTE.....................: FALTA!
+achala_ii.txt ->> DRENAJE.......................: FALTA!
+achala_ii.txt ->> ESCURRIMIENTO.................: FALTA!
+achala_ii.txt ->> PERMEABILIDAD.................: FALTA!
+achala_ii.txt ->> TIPO DE SUELO.................: esqueletica, franca, mixta, termica
+achala_ii.txt ->> COLOR ........................: color en humedo gris muy oscuro (10YR3/1)
+achala_ii.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |Bt      |2BC     |
+achala_ii.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-38    |38-56   |56 a +  |
+achala_ii.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 12,41   |7,93    |        |
+achala_ii.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 7,2     |4,6     |        |
+achala_ii.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,53    |0,45    |        |
+achala_ii.txt ->> HORIZONTE->RELACIÓN C/N.......: 13,58   |10,22   |        |
+achala_ii.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 29,6    |35,6    |15,2    |
+achala_ii.txt ->> HORIZONTE->LIMO 2-50 (%)......: 46,5    |36,1    |37,7    |
+achala_ii.txt ->> HORIZONTE->AMF 50-100 (%).....: 1,40    |2,65    |4,80    |
+achala_ii.txt ->> HORIZONTE->AF 100-250 (%).....: 6,4     |7,9     |14,15   |
+achala_ii.txt ->> HORIZONTE->AM 250-500 (%).....: 2,75    |2,90    |5,65    |
+achala_ii.txt ->> HORIZONTE->AG 500-1000 (%)....: 7,10    |7,55    |14,40   |
+achala_ii.txt ->> HORIZONTE->AMG 1-2 mm (%).....: 4,35    |5,50    |9,20    |
+achala_ii.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |
+achala_ii.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 36,8    |30,2    |19,0    |
+achala_ii.txt ->> HORIZONTE->PH PASTA...........: 4,9     |5,2     |5,1     |
+achala_ii.txt ->> HORIZONTE->PH H2O 1:2,5.......: 4,8     |5,1     |5,1     |
+achala_ii.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 14,0    |10,9    |5,0     |
+achala_ii.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 0,8     |0,4     |0,4     |
+achala_ii.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3     |0,3     |0,1     |
+achala_ii.txt ->> HORIZONTE->CI ME/100G-K +.....: 0,4     |0,1     |0,1     |
+achala_ii.txt ->> HORIZONTE->CI ME/100G-H +.....: 10,9    |9,3     |4,4     |
+achala_ii.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 1,1     |1,4     |1,1     |
+achala_ii.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 15,5    |11,7    |5,6     |
+achala_ii.txt ->> HORIZONTE->CIC ME/100G(T).....: 26,4    |21,0    |9,0     |
+achala_ii.txt ->> HORIZONTE->SAT.B % (S/T)......: 59      |56      |62      |

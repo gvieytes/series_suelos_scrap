@@ -1,35 +1,40 @@
-Serie BENJAMIN GOULD
-Simbolo: BGd
-CLASIFICACION: Natracualf tipico; franca gruesa
-TPS: mixta, termica
-UBICACION: a 9,5 km al NNO de Alejo Ledesma, departamento Marcos Juarez, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo oscuro (10YR4/2)
-LATITUD:S333121
-LONGITUD:O623908
-ALTITUD:110 m.s.n.m.
-|Horizonte                                                            |E       |E2      |Btn     |BCn      |C          |Ck        |
-|Profundidad de la muestra (cm)                                       |0-19    |19-33   |33-62   |62-103   |103-124    |124 a +   |
-|Materia Organica (%)                                                 |1,70    |0,49    |0,46    |0,24     |0,21       |0,21      |
-|Carbono Organico (%)                                                 |0,99    |0,29    |0,27    |0,14     |0,12       |0,12      |
-|Nitrogeno total (%)                                                  |0,106   |0,041   |0,041   |0,027    |0,019      |0,019     |
-|Relacion C/N                                                         |9,3     |7,1     |6,5     |5,2      |6,3        |6,3       |
-|Arcilla, <2 u (%)                                                    |4,0     |5,0     |14,0    |10,4     |6,8        |6,8       |
-|Limo, 2-50 u (%)                                                     |46,6    |45,0    |43,7    |42,0     |43,2       |44,6      |
-|Arena muy fina, 50-100 u (%)                                         |41,5    |44,8    |36,7    |41,3     |48,0       |42,2      |
-|Arena fina, 100-250 u (%)                                            |5,3     |1,8     |3,7     |3,8      |0,1        |4,0       |
-|Arena media, 250-500 u (%)                                           |0,6     |0,3     |0,4     |0,2      |0,1        |0,1       |
-|Arena gruesa, 500-1000 u (%)                                         |0,7     |0,3     |0,8     |0,3      |0,1        |0,7       |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |0,2     |0,1      |           |0,5       |
-|Carbonatos, CaCO3 (%)                                                |        |        |1,39    |1,71     |0,28       |2,46      |
-|Equivalente de humedad (%)                                           |15,1    |14,3    |21,0    |19,5     |17,3       |17,7      |
-|pH en pasta                                                          |5,8     |7,0     |7,8     |8,6      |9,2        |9,3       |
-|pH en agua (1:2,5)                                                   |6,0     |7,2     |8,3     |9,1      |9,4        |9,5       |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |8,3     |10,9    |        |         |           |          |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |1,6     |1,1     |        |         |           |          |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,4     |0,6     |        |8,4      |9,1        |11,5      |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,8     |1,6     |2,7     |2,2      |2,1        |1,9       |
-|Cationes de intercambio, meq/100 gr (H+)                             |3,4     |0,5     |        |         |           |          |
-|Sodio de intercambio, % (PSI)                                        |2,4     |4,0     |        |37,5     |46,9       |56,4      |
-|Suma de bases, meq/100 gr (S)                                        |13,1    |14,2    |        |         |           |          |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |16,5    |15,0    |28,3    |22,4     |19,4       |20,4      |
-|Saturacion con bases, % (S/T)                                        |79      |95      |        |         |           |          |
+benjamin_gould.txt ->> ID............................: 034
+benjamin_gould.txt ->> CLASIFICACION.................: Natracualf tipico; franca gruesa
+benjamin_gould.txt ->> SERIE.........................: BENJAMIN GOULD (BGd)
+benjamin_gould.txt ->> UBICACION.....................: a 9,5 km al NNO de Alejo Ledesma, departamento Marcos Juarez, provincia de Cordoba.
+benjamin_gould.txt ->> PROVINCIA.....................: CORDOBA
+benjamin_gould.txt ->> LATITUD.......................: S333121
+benjamin_gould.txt ->> LONGITUD......................: O623908
+benjamin_gould.txt ->> ALTITUD.......................: 110 m.s.n.m.
+benjamin_gould.txt ->> PENDIENTE.....................: FALTA!
+benjamin_gould.txt ->> DRENAJE.......................: FALTA!
+benjamin_gould.txt ->> ESCURRIMIENTO.................: FALTA!
+benjamin_gould.txt ->> PERMEABILIDAD.................: FALTA!
+benjamin_gould.txt ->> TIPO DE SUELO.................: mixta, termica
+benjamin_gould.txt ->> COLOR ........................: color en humedo pardo grisaceo oscuro (10YR4/2)
+benjamin_gould.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: E       |E2      |Btn     |BCn      |C          |Ck        |
+benjamin_gould.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-19    |19-33   |33-62   |62-103   |103-124    |124 a +   |
+benjamin_gould.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 1,70    |0,49    |0,46    |0,24     |0,21       |0,21      |
+benjamin_gould.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 0,99    |0,29    |0,27    |0,14     |0,12       |0,12      |
+benjamin_gould.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,106   |0,041   |0,041   |0,027    |0,019      |0,019     |
+benjamin_gould.txt ->> HORIZONTE->RELACIÓN C/N.......: 9,3     |7,1     |6,5     |5,2      |6,3        |6,3       |
+benjamin_gould.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 4,0     |5,0     |14,0    |10,4     |6,8        |6,8       |
+benjamin_gould.txt ->> HORIZONTE->LIMO 2-50 (%)......: 46,6    |45,0    |43,7    |42,0     |43,2       |44,6      |
+benjamin_gould.txt ->> HORIZONTE->AMF 50-100 (%).....: 41,5    |44,8    |36,7    |41,3     |48,0       |42,2      |
+benjamin_gould.txt ->> HORIZONTE->AF 100-250 (%).....: 5,3     |1,8     |3,7     |3,8      |0,1        |4,0       |
+benjamin_gould.txt ->> HORIZONTE->AM 250-500 (%).....: 0,6     |0,3     |0,4     |0,2      |0,1        |0,1       |
+benjamin_gould.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,7     |0,3     |0,8     |0,3      |0,1        |0,7       |
+benjamin_gould.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |0,2     |0,1      |           |0,5       |
+benjamin_gould.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |1,39    |1,71     |0,28       |2,46      |
+benjamin_gould.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 15,1    |14,3    |21,0    |19,5     |17,3       |17,7      |
+benjamin_gould.txt ->> HORIZONTE->PH PASTA...........: 5,8     |7,0     |7,8     |8,6      |9,2        |9,3       |
+benjamin_gould.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,0     |7,2     |8,3     |9,1      |9,4        |9,5       |
+benjamin_gould.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 8,3     |10,9    |        |         |           |          |
+benjamin_gould.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,6     |1,1     |        |         |           |          |
+benjamin_gould.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,4     |0,6     |        |8,4      |9,1        |11,5      |
+benjamin_gould.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,8     |1,6     |2,7     |2,2      |2,1        |1,9       |
+benjamin_gould.txt ->> HORIZONTE->CI ME/100G-H +.....: 3,4     |0,5     |        |         |           |          |
+benjamin_gould.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 2,4     |4,0     |        |37,5     |46,9       |56,4      |
+benjamin_gould.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 13,1    |14,2    |        |         |           |          |
+benjamin_gould.txt ->> HORIZONTE->CIC ME/100G(T).....: 16,5    |15,0    |28,3    |22,4     |19,4       |20,4      |
+benjamin_gould.txt ->> HORIZONTE->SAT.B % (S/T)......: 79      |95      |        |         |           |          |

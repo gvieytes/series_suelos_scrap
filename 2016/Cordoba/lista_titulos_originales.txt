@@ -1,38 +1,37 @@
-Arcilla, <2 u (%)
-Arena (%)
-Arena fina, 100-250 u (%)
-Arena gruesa, 500-1000 u (%)
-Arena media, 250-500 u (%)
-Arena muy fina, 50-100 u (%)
-Arena muy gruesa, 1-2 mm (%)
-Capacidad de intercambio cationico, meq/100 gr (T)
-Carbonatos, CaCO3 (%)
-Carbono Organico (%)
-Cationes de intercambio, meq/100 gr (Ca++)
-Cationes de intercambio, meq/100 gr (H+)
-Cationes de intercambio, meq/100 gr (K+)
-Cationes de intercambio, meq/100 gr (Mg++)
-Cationes de intercambio, meq/100 gr (Na+)
-    C.EXT.S ME/l-Ca++
-    C.EXT.S ME/l-Cl-
-    C.EXT.S ME/l-CO3=
-    C.EXT.S ME/l-HCO3-
-    C.EXT.S ME/l-K+
-    C.EXT.S ME/l-Mg++
-    C.EXT.S ME/l-Na+
-    C.EXT.S ME/l-SO4=
-Conductividad, mmhos/cm (extracto de saturacion)
-Equivalente de humedad (%)
-Gravilla, > 2 mm (%)
-	H+ de cambio (meq/100 gr)
-Horizonte
-Limo, 2-50 u (%)
-Materia Organica (%)
-Nitrogeno total (%)
-pH en agua (1:2,5)
-pH en pasta
-Profundidad de la muestra (cm)
-Relacion C/N
-Saturacion con bases, % (S/T)
-Sodio de intercambio, % (PSI)
-Suma de bases, meq/100 gr (S)
+s#Arcilla, <2 u (%)                                  #HORIZONTE->ARCILLA <2 u (%)...:#
+s#Arena (%)                                          #HORIZONTE->ARENA (%)..........:#
+s#Arena fina, 100-250 u (%)                          #HORIZONTE->AF 100-250 (%).....:#
+s#Arena gruesa, 500-1000 u (%)                       #HORIZONTE->AG 500-1000 (%)....:#
+s#Arena media, 250-500 u (%)                         #HORIZONTE->AM 250-500 (%).....:#
+s#Arena muy fina, 50-100 u (%)                       #HORIZONTE->AMF 50-100 (%).....:#
+s#Arena muy gruesa, 1-2 mm (%)                       #HORIZONTE->AMG 1-2 mm (%).....:#
+s#Capacidad de intercambio cationico, meq/100 gr (T) #HORIZONTE->CIC ME/100G(T).....:#
+s#Carbonatos, CaCO3 (%)                              #HORIZONTE->CALCAREO CaCO3(%)..:#
+s#Carbono Organico (%)                               #HORIZONTE->CARBONO ORGÁN.(%)..:#
+s#Cationes de intercambio, meq/100 gr (Ca++)         #HORIZONTE->CI ME/100G-Ca ++...:#
+s#Cationes de intercambio, meq/100 gr (H+)           #HORIZONTE->CI ME/100G-H +.....:#
+s#Cationes de intercambio, meq/100 gr (K+)           #HORIZONTE->CI ME/100G-K +.....:#
+s#Cationes de intercambio, meq/100 gr (Mg++)         #HORIZONTE->CI ME/100G-Mg ++...:#
+s#Cationes de intercambio, meq/100 gr (Na+)          #HORIZONTE->CI ME/100G-Na +....:#
+s#C.EXT.S ME/l-Ca++                                  #HORIZONTE->C.EXT.S ME/l-Ca++..:#
+s#C.EXT.S ME/l-Cl-                                   #HORIZONTE->C.EXT.S ME/l-Cl-...:#
+s#C.EXT.S ME/l-CO3=                                  #HORIZONTE->C.EXT.S ME/l-CO3=..:#
+s#C.EXT.S ME/l-HCO3-                                 #HORIZONTE->C.EXT.S ME/l-HCO3-.:#
+s#C.EXT.S ME/l-K+                                    #HORIZONTE->C.EXT.S ME/l-K+....:#
+s#C.EXT.S ME/l-Mg++                                  #HORIZONTE->C.EXT.S ME/l-Mg++..:#
+s#C.EXT.S ME/l-Na+                                   #HORIZONTE->C.EXT.S ME/l-Na+...:#
+s#C.EXT.S ME/l-SO4=                                  #HORIZONTE->C.EXT.S ME/l-SO4=..:#
+s#Conductividad, mmhos/cm (extracto de saturacion)   #HORIZONTE->CONDUCT mmhos/cm...:#
+s#Equivalente de humedad (%)                         #HORIZONTE->EQUIV. HUMEDAD(%)..:#
+s#Gravilla, > 2 mm (%)                               #HORIZONTE->GRAVILLA >2 mm (%).:#
+s#Horizonte                                          #HORIZONTE->PROFUNDIDADES(CM)..:#
+s#Limo, 2-50 u (%)                                   #HORIZONTE->LIMO 2-50 (%)......:#
+s#Materia Organica (%)                               #HORIZONTE->MATERIA ORGÁN.(%)..:#
+s#Nitrogeno total (%)                                #HORIZONTE->NITRÓGENO TOT.(%)..:#
+s#pH en agua (1:2,5)                                 #HORIZONTE->PH H2O 1:2,5.......:#
+s#pH en pasta                                        #HORIZONTE->PH PASTA...........:#
+s#Profundidad de la muestra (cm)                     #HORIZONTE->PROFUNDIDADES(CM)..:#
+s#Relacion C/N                                       #HORIZONTE->RELACIÓN C/N.......:#
+s#Saturacion con bases, % (S/T)                      #HORIZONTE->SAT.B % (S/T)......:#
+s#Sodio de intercambio, % (PSI)                      #HORIZONTE->NA CAMBIO % (PSI)..:#
+s#Suma de bases, meq/100 gr (S)                      #HORIZONTE->SUM.B. ME/100G(S)..:#

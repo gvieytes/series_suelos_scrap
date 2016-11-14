@@ -1,34 +1,39 @@
-Serie ALMAFUERTE
-Simbolo: Aft
-CLASIFICACION: Haplustol tipico
-TPS: franca fina, mixta, termica
-UBICACION: a 6,2 km al ESE de la localidad de Almafuerte, departamento Calamuchita, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S321128
-LONGITUD:O641211
-ALTITUD:400 m.s.n.m.
-|Horizonte                                                             |A       |Bw      |BC      |C       |
-|Profundidad de la muestra (cm)                                        |0-23    |23-55   |55-90   |90 a +  |
-|Materia Organica (%)                                                  |1,55    |0,69    |0,34    |        |
-|Carbono Organico (%)                                                  |0,9     |0,4     |0,2     |        |
-|Nitrogeno total (%)                                                   |0,14    |0,09    |        |        |
-|Relacion C/N                                                          |6,4     |4,0     |        |        |
-|Arcilla, <2 u (%)                                                     |19,9    |20,7    |20,1    |14,5    |
-|Limo, 2-50 u (%)                                                      |38,1    |33,0    |34,0    |26,7    |
-|Arena muy fina, 50-100 u (%)                                          |12,7    |9,7     |9,9     |12,6    |
-|Arena fina, 100-250 u (%)                                             |6,7     |7,8     |7,7     |9,6     |
-|Arena media, 250-500 u (%)                                            |10,2    |13,2    |13,3    |14,9    |
-|Arena gruesa, 500-1000 u (%)                                          |8,7     |11,4    |11,8    |12,9    |
-|Arena muy gruesa, 1-2 mm (%)                                          |3,8     |4,6     |4,5     |8,8     |
-|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |
-|Equivalente de humedad (%)                                            |19,6    |18,7    |18,8    |16,2    |
-|pH en agua (1:2,5)                                                    |7,6     |7,7     |7,6     |7,9     |
-|Cationes de intercambio, meq/100 gr (Ca++)                            |11,2    |9,9     |9,7     |8,6     |
-|Cationes de intercambio, meq/100 gr (Mg++)                            |1,8     |2,4     |2,4     |1,9     |
-|Cationes de intercambio, meq/100 gr (Na+)                             |0,1     |0,1     |0,1     |0,2     |
-|Cationes de intercambio, meq/100 gr (K+)                              |0,9     |0,6     |0,8     |0,7     |
-|Cationes de intercambio, meq/100 gr (H+)                              |        |        |        |        |
-|Sodio de intercambio, % (PSI)                                         |0,7     |0,8     |0,8     |1,8     |
-|Suma de bases, meq/100 gr (S)                                         |14,0    |13,1    |13,0    |11,3    |
-|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,0    |13,1    |13,0    |11,3    |
-|Saturacion con bases, % (S/T)                                         |100     |100     |100     |100     |
+almafuerte.txt ->> ID............................: 014
+almafuerte.txt ->> CLASIFICACION.................: Haplustol tipico
+almafuerte.txt ->> SERIE.........................: ALMAFUERTE (Aft)
+almafuerte.txt ->> UBICACION.....................: a 6,2 km al ESE de la localidad de Almafuerte, departamento Calamuchita, provincia de Cordoba.
+almafuerte.txt ->> PROVINCIA.....................: CORDOBA
+almafuerte.txt ->> LATITUD.......................: S321128
+almafuerte.txt ->> LONGITUD......................: O641211
+almafuerte.txt ->> ALTITUD.......................: 400 m.s.n.m.
+almafuerte.txt ->> PENDIENTE.....................: FALTA!
+almafuerte.txt ->> DRENAJE.......................: FALTA!
+almafuerte.txt ->> ESCURRIMIENTO.................: FALTA!
+almafuerte.txt ->> PERMEABILIDAD.................: FALTA!
+almafuerte.txt ->> TIPO DE SUELO.................: franca fina, mixta, termica
+almafuerte.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+almafuerte.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |Bw      |BC      |C       |
+almafuerte.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-23    |23-55   |55-90   |90 a +  |
+almafuerte.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 1,55    |0,69    |0,34    |        |
+almafuerte.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 0,9     |0,4     |0,2     |        |
+almafuerte.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,14    |0,09    |        |        |
+almafuerte.txt ->> HORIZONTE->RELACIÓN C/N.......: 6,4     |4,0     |        |        |
+almafuerte.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 19,9    |20,7    |20,1    |14,5    |
+almafuerte.txt ->> HORIZONTE->LIMO 2-50 (%)......: 38,1    |33,0    |34,0    |26,7    |
+almafuerte.txt ->> HORIZONTE->AMF 50-100 (%).....: 12,7    |9,7     |9,9     |12,6    |
+almafuerte.txt ->> HORIZONTE->AF 100-250 (%).....: 6,7     |7,8     |7,7     |9,6     |
+almafuerte.txt ->> HORIZONTE->AM 250-500 (%).....: 10,2    |13,2    |13,3    |14,9    |
+almafuerte.txt ->> HORIZONTE->AG 500-1000 (%)....: 8,7     |11,4    |11,8    |12,9    |
+almafuerte.txt ->> HORIZONTE->AMG 1-2 mm (%).....: 3,8     |4,6     |4,5     |8,8     |
+almafuerte.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |        |
+almafuerte.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 19,6    |18,7    |18,8    |16,2    |
+almafuerte.txt ->> HORIZONTE->PH H2O 1:2,5.......: 7,6     |7,7     |7,6     |7,9     |
+almafuerte.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 11,2    |9,9     |9,7     |8,6     |
+almafuerte.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,8     |2,4     |2,4     |1,9     |
+almafuerte.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,1     |0,1     |0,1     |0,2     |
+almafuerte.txt ->> HORIZONTE->CI ME/100G-K +.....: 0,9     |0,6     |0,8     |0,7     |
+almafuerte.txt ->> HORIZONTE->CI ME/100G-H +.....:         |        |        |        |
+almafuerte.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 0,7     |0,8     |0,8     |1,8     |
+almafuerte.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 14,0    |13,1    |13,0    |11,3    |
+almafuerte.txt ->> HORIZONTE->CIC ME/100G(T).....: 14,0    |13,1    |13,0    |11,3    |
+almafuerte.txt ->> HORIZONTE->SAT.B % (S/T)......: 100     |100     |100     |100     |

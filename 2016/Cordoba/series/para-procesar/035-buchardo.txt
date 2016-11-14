@@ -1,34 +1,39 @@
-Serie BUCHARDO
-Simbolo: Bch
-CLASIFICACION: Haplustol udico
-TPS: franca gruesa, mixta, termica
-UBICACION: a 11 Km al SO de la localidad de Buchardo, departamento General Roca, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S344838
-LONGITUD:O633327
-ALTITUD:135 m.s.n.m.
-|Horizonte                                                            |A       |Bw      |BC      |C       |
-|Profundidad de la muestra (cm)                                       |0-23    |23-45   |45-68   |68 a +  |
-|Materia Organica (%)                                                 |1,96    |0,89    |0,43    |        |
-|Carbono Organico (%)                                                 |1,14    |0,52    |0,25    |        |
-|Nitrogeno total (%)                                                  |0,124   |0,078   |        |        |
-|Relacion C/N                                                         |9,2     |6,7     |        |        |
-|Arcilla, <2 u (%)                                                    |16,5    |16,7    |13,3    |11,2    |
-|Limo, 2-50 u (%)                                                     |34,7    |34,9    |33,3    |34,2    |
-|Arena muy fina, 50-100 u (%)                                         |24,0    |22,4    |24,2    |25,3    |
-|Arena fina, 100-250 u (%)                                            |24,0    |25,7    |26,6    |27,3    |
-|Arena media, 250-500 u (%)                                           |1,1     |0,8     |0,8     |0,7     |
-|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,8     |0,9     |0,8     |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
-|pH en pasta                                                          |5,6     |6,3     |6,6     |7,0     |
-|pH en agua (1:2,5)                                                   |6,0     |6,6     |6,7     |7,2     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |7,1     |8,5     |9,4     |9,1     |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |1,3     |1,1     |0,7     |0,8     |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,2     |0,1     |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |1,6     |1,0     |0,8     |
-|Cationes de intercambio, meq/100 gr (H+)                             |2,0     |1,2     |0,7     |0,6     |
-|Sodio de intercambio, % (PSI)                                        |1,5     |1,6     |1,7     |0,9     |
-|Suma de bases, meq/100 gr (S)                                        |11,0    |11,4    |11,3    |10,8    |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |13,0    |12,8    |12,0    |11,4    |
-|Saturacion con bases, % (S/T)                                        |85      |89      |94      |95      |
+buchardo.txt ->> ID............................: 035
+buchardo.txt ->> CLASIFICACION.................: Haplustol udico
+buchardo.txt ->> SERIE.........................: BUCHARDO (Bch)
+buchardo.txt ->> UBICACION.....................: a 11 Km al SO de la localidad de Buchardo, departamento General Roca, provincia de Cordoba.
+buchardo.txt ->> PROVINCIA.....................: CORDOBA
+buchardo.txt ->> LATITUD.......................: S344838
+buchardo.txt ->> LONGITUD......................: O633327
+buchardo.txt ->> ALTITUD.......................: 135 m.s.n.m.
+buchardo.txt ->> PENDIENTE.....................: FALTA!
+buchardo.txt ->> DRENAJE.......................: FALTA!
+buchardo.txt ->> ESCURRIMIENTO.................: FALTA!
+buchardo.txt ->> PERMEABILIDAD.................: FALTA!
+buchardo.txt ->> TIPO DE SUELO.................: franca gruesa, mixta, termica
+buchardo.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+buchardo.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |Bw      |BC      |C       |
+buchardo.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-23    |23-45   |45-68   |68 a +  |
+buchardo.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 1,96    |0,89    |0,43    |        |
+buchardo.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,14    |0,52    |0,25    |        |
+buchardo.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,124   |0,078   |        |        |
+buchardo.txt ->> HORIZONTE->RELACIÓN C/N.......: 9,2     |6,7     |        |        |
+buchardo.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 16,5    |16,7    |13,3    |11,2    |
+buchardo.txt ->> HORIZONTE->LIMO 2-50 (%)......: 34,7    |34,9    |33,3    |34,2    |
+buchardo.txt ->> HORIZONTE->AMF 50-100 (%).....: 24,0    |22,4    |24,2    |25,3    |
+buchardo.txt ->> HORIZONTE->AF 100-250 (%).....: 24,0    |25,7    |26,6    |27,3    |
+buchardo.txt ->> HORIZONTE->AM 250-500 (%).....: 1,1     |0,8     |0,8     |0,7     |
+buchardo.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,4     |0,8     |0,9     |0,8     |
+buchardo.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |        |
+buchardo.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |        |
+buchardo.txt ->> HORIZONTE->PH PASTA...........: 5,6     |6,3     |6,6     |7,0     |
+buchardo.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,0     |6,6     |6,7     |7,2     |
+buchardo.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 7,1     |8,5     |9,4     |9,1     |
+buchardo.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,3     |1,1     |0,7     |0,8     |
+buchardo.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,2     |0,2     |0,2     |0,1     |
+buchardo.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,4     |1,6     |1,0     |0,8     |
+buchardo.txt ->> HORIZONTE->CI ME/100G-H +.....: 2,0     |1,2     |0,7     |0,6     |
+buchardo.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 1,5     |1,6     |1,7     |0,9     |
+buchardo.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 11,0    |11,4    |11,3    |10,8    |
+buchardo.txt ->> HORIZONTE->CIC ME/100G(T).....: 13,0    |12,8    |12,0    |11,4    |
+buchardo.txt ->> HORIZONTE->SAT.B % (S/T)......: 85      |89      |94      |95      |

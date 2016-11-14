@@ -1,35 +1,40 @@
-Serie AARON CASTELLANOS
-Simbolo: AC
-CLASIFICACION: Natralbol tipico
-TPS: limosa fina, mixta, termica
-UBICACION: en el departamento General Lopez, provincia de Santa Fe, a 18,5 km al SSE de la Estacion Sancti Spiritu del FCGBM.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S341021
-LONGITUD:O615100
-ALTITUD:95 m.s.n.m.
-|Horizonte                                                             |A       |E       |Btn     |BCn     |
-|Profundidad de la muestra (cm)                                        |0-18    |18-32   |32-69   |69 a +  |
-|Materia Organica (%)                                                  |2,43    |0,61    |        |        |
-|Carbono Organico (%)                                                  |1,41    |0,38    |        |        |
-|Nitrogeno total (%)                                                   |0,150   |0,055   |        |        |
-|Relacion C/N                                                          |10      |7       |        |        |
-|Arcilla, <2 u (%)                                                     |15,9    |13,6    |27,5    |20,9    |
-|Limo, 2-50 u (%)                                                      |27,7    |25,5    |21,1    |25,2    |
-|Arena muy fina, 50-100 u (%)                                          |54,3    |58,5    |48,7    |50,7    |
-|Arena fina, 100-250 u (%)                                             |2,2     |2,3     |2,7     |3,2     |
-|Arena media, 250-500 u (%)                                            |0,1     |0,1     |        |        |
-|Arena gruesa, 500-1000 u (%)                                          |        |        |        |        |
-|Arena muy gruesa, 1-2 mm (%)                                          |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                 |        |        |        |        |
-|Equivalente de humedad (%)                                            |18,5    |12,6    |25,6    |22,9    |
-|pH en pasta                                                           |5,9     |6,9     |8,4     |8,5     |
-|pH en agua (1:2,5)                                                    |6,9     |7,9     |9,2     |9,3     |
-|Cationes de intercambio, meq/100 gr (Ca++)                            |7,0     |10,8    |        |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                            |2,8     |3,0     |        |        |
-|Cationes de intercambio, meq/100 gr (Na+)                             |0,4     |0,4     |9,0     |11,0    |
-|Cationes de intercambio, meq/100 gr (K+)                              |2,3     |2,2     |4,7     |5,1     |
-|Cationes de intercambio, meq/100 gr (H+)                              |4,4     |2,0     |        |        |
-|Sodio de intercambio, % (PSI)                                         |2,8     |2,4     |35,6    |46,4    |
-|Suma de bases, meq/100 gr (S)                                         |12,5    |16,4    |        |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                    |14,1    |16,6    |25,3    |23,7    |
-|Saturacion con bases, % (S/T)                                         |88      |98      |        |        |
+aaron_castellanos.txt ->> ID............................: 001
+aaron_castellanos.txt ->> CLASIFICACION.................: Natralbol tipico
+aaron_castellanos.txt ->> SERIE.........................: AARON CASTELLANOS (AC)
+aaron_castellanos.txt ->> UBICACION.....................: en el departamento General Lopez, provincia de Santa Fe, a 18,5 km al SSE de la Estacion Sancti Spiritu del FCGBM.
+aaron_castellanos.txt ->> PROVINCIA.....................: CORDOBA
+aaron_castellanos.txt ->> LATITUD.......................: S341021
+aaron_castellanos.txt ->> LONGITUD......................: O615100
+aaron_castellanos.txt ->> ALTITUD.......................: 95 m.s.n.m.
+aaron_castellanos.txt ->> PENDIENTE.....................: FALTA!
+aaron_castellanos.txt ->> DRENAJE.......................: FALTA!
+aaron_castellanos.txt ->> ESCURRIMIENTO.................: FALTA!
+aaron_castellanos.txt ->> PERMEABILIDAD.................: FALTA!
+aaron_castellanos.txt ->> TIPO DE SUELO.................: limosa fina, mixta, termica
+aaron_castellanos.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+aaron_castellanos.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |E       |Btn     |BCn     |
+aaron_castellanos.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-18    |18-32   |32-69   |69 a +  |
+aaron_castellanos.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 2,43    |0,61    |        |        |
+aaron_castellanos.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,41    |0,38    |        |        |
+aaron_castellanos.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,150   |0,055   |        |        |
+aaron_castellanos.txt ->> HORIZONTE->RELACIÓN C/N.......: 10      |7       |        |        |
+aaron_castellanos.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 15,9    |13,6    |27,5    |20,9    |
+aaron_castellanos.txt ->> HORIZONTE->LIMO 2-50 (%)......: 27,7    |25,5    |21,1    |25,2    |
+aaron_castellanos.txt ->> HORIZONTE->AMF 50-100 (%).....: 54,3    |58,5    |48,7    |50,7    |
+aaron_castellanos.txt ->> HORIZONTE->AF 100-250 (%).....: 2,2     |2,3     |2,7     |3,2     |
+aaron_castellanos.txt ->> HORIZONTE->AM 250-500 (%).....: 0,1     |0,1     |        |        |
+aaron_castellanos.txt ->> HORIZONTE->AG 500-1000 (%)....:         |        |        |        |
+aaron_castellanos.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |        |
+aaron_castellanos.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |        |
+aaron_castellanos.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 18,5    |12,6    |25,6    |22,9    |
+aaron_castellanos.txt ->> HORIZONTE->PH PASTA...........: 5,9     |6,9     |8,4     |8,5     |
+aaron_castellanos.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,9     |7,9     |9,2     |9,3     |
+aaron_castellanos.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 7,0     |10,8    |        |        |
+aaron_castellanos.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 2,8     |3,0     |        |        |
+aaron_castellanos.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,4     |0,4     |9,0     |11,0    |
+aaron_castellanos.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,3     |2,2     |4,7     |5,1     |
+aaron_castellanos.txt ->> HORIZONTE->CI ME/100G-H +.....: 4,4     |2,0     |        |        |
+aaron_castellanos.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 2,8     |2,4     |35,6    |46,4    |
+aaron_castellanos.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 12,5    |16,4    |        |        |
+aaron_castellanos.txt ->> HORIZONTE->CIC ME/100G(T).....: 14,1    |16,6    |25,3    |23,7    |
+aaron_castellanos.txt ->> HORIZONTE->SAT.B % (S/T)......: 88      |98      |        |        |

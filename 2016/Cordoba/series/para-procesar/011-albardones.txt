@@ -1,44 +1,49 @@
-Serie ALBARDONES
-Simbolo: FALTA!
-CLASIFICACION: Haplustol fluventico
-TPS: franca gruesa, mixta, termica
-UBICACION: a unos 10 km al SSO de Pozo de la Olla, departamento Rio Seco, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-LATITUD:S300600
-LONGITUD:O630700
-ALTITUD:70 m.s.n.m.
-|Horizonte                                                            |A       |AC      |2n      |3       |
-|Profundidad de la muestra (cm)                                       |0-18    |18-47   |47-80   |80 a +  |
-|Materia Organica (%)                                                 |1,96    |0,46    |0,79    |        |
-|Carbono Organico (%)                                                 |1,14    |0,27    |0,46    |        |
-|Nitrogeno total (%)                                                  |0,11    |0,06    |        |        |
-|Relacion C/N                                                         |10,3    |4,5     |        |        |
-|Arcilla, <2 u (%)                                                    |9,2     |9,1     |11,0    |7,9     |
-|Limo, 2-50 u (%)                                                     |35,0    |32,4    |33,1    |32,6    |
-|Arena muy fina, 50-100 u (%)                                         |30,4    |22,7    |30,6    |22,4    |
-|Arena fina, 100-250 u (%)                                            |26,8    |37,4    |26,5    |38,0    |
-|Arena media, 250-500 u (%)                                           |        |        |        |        |
-|Arena gruesa, 500-1000 u (%)                                         |        |        |        |        |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |        |
-|Equivalente de humedad (%)                                           |14,7    |12,7    |15,7    |11,3    |
-|pH en pasta                                                          |6,0     |6,5     |7,0     |7,2     |
-|pH en agua (1:2,5)                                                   |6,2     |6,8     |7,5     |7,6     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |5,6     |5,5     |6,7     |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |0,8     |1,2     |1,0     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,9     |2,0     |        |
-|Cationes de intercambio, meq/100 gr (K+)                             |0,9     |0,6     |0,8     |        |
-|Cationes de intercambio, meq/100 gr (H+)                             |1,8     |0,8     |0,3     |        |
-|Sodio de intercambio, % (PSI)                                        |3,2     |9,8     |18,2    |        |
-|Conductividad, mmhos/cm (extracto de saturacion)                     |        |        |        |13,5    |
-|Suma de bases, meq/100 gr (S)                                        |7,6     |8,2     |10,5    |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |9,4     |9,2     |11,0    |8,5     |
-|Saturacion con bases, % (S/T)                                        |81      |89      |95      |        |
-|C.EXT.S ME/l-Ca++                                                    |        |        |        |29,0    |
-|C.EXT.S ME/l-Mg++                                                    |        |        |        |4,5     |
-|C.EXT.S ME/l-Na+                                                     |        |        |        |104,0   |
-|C.EXT.S ME/l-K+                                                      |        |        |        |1,4     |
-|C.EXT.S ME/l-CO3=                                                    |        |        |        |        |
-|C.EXT.S ME/l-HCO3-                                                   |        |        |        |2,4     |
-|C.EXT.S ME/l-SO4=                                                    |        |        |        |14,5    |
-|C.EXT.S ME/l-Cl-                                                     |        |        |        |123,0   |
+albardones.txt ->> ID............................: 011
+albardones.txt ->> CLASIFICACION.................: Haplustol fluventico
+albardones.txt ->> SERIE.........................: ALBARDONES (FALTA!)
+albardones.txt ->> UBICACION.....................: a unos 10 km al SSO de Pozo de la Olla, departamento Rio Seco, provincia de Cordoba.
+albardones.txt ->> PROVINCIA.....................: CORDOBA
+albardones.txt ->> LATITUD.......................: S300600
+albardones.txt ->> LONGITUD......................: O630700
+albardones.txt ->> ALTITUD.......................: 70 m.s.n.m.
+albardones.txt ->> PENDIENTE.....................: FALTA!
+albardones.txt ->> DRENAJE.......................: FALTA!
+albardones.txt ->> ESCURRIMIENTO.................: FALTA!
+albardones.txt ->> PERMEABILIDAD.................: FALTA!
+albardones.txt ->> TIPO DE SUELO.................: franca gruesa, mixta, termica
+albardones.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
+albardones.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |AC      |2n      |3       |
+albardones.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-18    |18-47   |47-80   |80 a +  |
+albardones.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 1,96    |0,46    |0,79    |        |
+albardones.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,14    |0,27    |0,46    |        |
+albardones.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,11    |0,06    |        |        |
+albardones.txt ->> HORIZONTE->RELACIÓN C/N.......: 10,3    |4,5     |        |        |
+albardones.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 9,2     |9,1     |11,0    |7,9     |
+albardones.txt ->> HORIZONTE->LIMO 2-50 (%)......: 35,0    |32,4    |33,1    |32,6    |
+albardones.txt ->> HORIZONTE->AMF 50-100 (%).....: 30,4    |22,7    |30,6    |22,4    |
+albardones.txt ->> HORIZONTE->AF 100-250 (%).....: 26,8    |37,4    |26,5    |38,0    |
+albardones.txt ->> HORIZONTE->AM 250-500 (%).....:         |        |        |        |
+albardones.txt ->> HORIZONTE->AG 500-1000 (%)....:         |        |        |        |
+albardones.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |        |
+albardones.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |        |
+albardones.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 14,7    |12,7    |15,7    |11,3    |
+albardones.txt ->> HORIZONTE->PH PASTA...........: 6,0     |6,5     |7,0     |7,2     |
+albardones.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,2     |6,8     |7,5     |7,6     |
+albardones.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 5,6     |5,5     |6,7     |        |
+albardones.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 0,8     |1,2     |1,0     |        |
+albardones.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3     |0,9     |2,0     |        |
+albardones.txt ->> HORIZONTE->CI ME/100G-K +.....: 0,9     |0,6     |0,8     |        |
+albardones.txt ->> HORIZONTE->CI ME/100G-H +.....: 1,8     |0,8     |0,3     |        |
+albardones.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 3,2     |9,8     |18,2    |        |
+albardones.txt ->> HORIZONTE->CONDUCT mmhos/cm...:         |        |        |13,5    |
+albardones.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 7,6     |8,2     |10,5    |        |
+albardones.txt ->> HORIZONTE->CIC ME/100G(T).....: 9,4     |9,2     |11,0    |8,5     |
+albardones.txt ->> HORIZONTE->SAT.B % (S/T)......: 81      |89      |95      |        |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-Ca++..:         |        |        |29,0    |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-Mg++..:         |        |        |4,5     |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-Na+...:         |        |        |104,0   |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-K+....:         |        |        |1,4     |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-CO3=..:         |        |        |        |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-HCO3-.:         |        |        |2,4     |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-SO4=..:         |        |        |14,5    |
+albardones.txt ->> HORIZONTE->C.EXT.S ME/l-Cl-...:         |        |        |123,0   |

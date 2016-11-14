@@ -1,35 +1,40 @@
-Serie BAIGORRIA
-Simbolo: Bag
-CLASIFICACION: Haplustol udorthentico franca gruesa
-TPS: mixta, termica
-UBICACION: a 4,2 Km al SO de la localidad de Coronel Baigorria, departamento Rio Cuarto, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
-LATITUD:S325234
-LONGITUD:O642334
-ALTITUD:583 m.s.n.m.
-|Horizonte                                                            |A       |AC      |C       |Ck      |
-|Profundidad de la muestra (cm)                                       |0-25    |25-40   |40-92   |92 a +  |
-|Materia Organica (%)                                                 |2,06    |0,86    |        |        |
-|Carbono Organico (%)                                                 |1,2     |0,5     |        |        |
-|Nitrogeno total (%)                                                  |0,08    |        |        |        |
-|Relacion C/N                                                         |12,5    |        |        |        |
-|Arcilla, <2 u (%)                                                    |9,0     |7,8     |5,1     |4,0     |
-|Limo, 2-50 u (%)                                                     |51,9    |51,7    |50,2    |50,9    |
-|Arena muy fina, 50-100 u (%)                                         |38,0    |38,3    |43,5    |35,7    |
-|Arena fina, 100-250 u (%)                                            |3,2     |3,3     |2,1     |7,8     |
-|Arena media, 250-500 u (%)                                           |0,1     |        |        |        |
-|Arena gruesa, 500-1000 u (%)                                         |0,4     |0,1     |        |0,1     |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |        |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |3,8     |
-|Equivalente de humedad (%)                                           |15,2    |12,7    |12,4    |6,6     |
-|pH en pasta                                                          |6,4     |6,8     |7,2     |8,4     |
-|pH en agua (1:2,5)                                                   |6,7     |7,0     |7,4     |8,6     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |8,2     |8,5     |8,8     |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |1,2     |0,9     |1,7     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,2     |0,2     |0,2     |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,1     |1,8     |1,4     |0,9     |
-|Cationes de intercambio, meq/100 gr (H+)                             |1,4     |1,1     |0,7     |        |
-|Sodio de intercambio, % (PSI)                                        |2,3     |1,6     |1,6     |2,5     |
-|Suma de bases, meq/100 gr (S)                                        |11,8    |11,4    |12,1    |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |13,2    |12,5    |12,8    |7,9     |
-|Saturacion con bases, % (S/T)                                        |89,4    |91,2    |94,5    |        |
+baigorria.txt ->> ID............................: 029
+baigorria.txt ->> CLASIFICACION.................: Haplustol udorthentico franca gruesa
+baigorria.txt ->> SERIE.........................: BAIGORRIA (Bag)
+baigorria.txt ->> UBICACION.....................: a 4,2 Km al SO de la localidad de Coronel Baigorria, departamento Rio Cuarto, provincia de Cordoba.
+baigorria.txt ->> PROVINCIA.....................: CORDOBA
+baigorria.txt ->> LATITUD.......................: S325234
+baigorria.txt ->> LONGITUD......................: O642334
+baigorria.txt ->> ALTITUD.......................: 583 m.s.n.m.
+baigorria.txt ->> PENDIENTE.....................: FALTA!
+baigorria.txt ->> DRENAJE.......................: FALTA!
+baigorria.txt ->> ESCURRIMIENTO.................: FALTA!
+baigorria.txt ->> PERMEABILIDAD.................: FALTA!
+baigorria.txt ->> TIPO DE SUELO.................: mixta, termica
+baigorria.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro a pardo oscuro (10YR3/2,5)
+baigorria.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |AC      |C       |Ck      |
+baigorria.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-25    |25-40   |40-92   |92 a +  |
+baigorria.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 2,06    |0,86    |        |        |
+baigorria.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,2     |0,5     |        |        |
+baigorria.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,08    |        |        |        |
+baigorria.txt ->> HORIZONTE->RELACIÓN C/N.......: 12,5    |        |        |        |
+baigorria.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 9,0     |7,8     |5,1     |4,0     |
+baigorria.txt ->> HORIZONTE->LIMO 2-50 (%)......: 51,9    |51,7    |50,2    |50,9    |
+baigorria.txt ->> HORIZONTE->AMF 50-100 (%).....: 38,0    |38,3    |43,5    |35,7    |
+baigorria.txt ->> HORIZONTE->AF 100-250 (%).....: 3,2     |3,3     |2,1     |7,8     |
+baigorria.txt ->> HORIZONTE->AM 250-500 (%).....: 0,1     |        |        |        |
+baigorria.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,4     |0,1     |        |0,1     |
+baigorria.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |        |
+baigorria.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |3,8     |
+baigorria.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 15,2    |12,7    |12,4    |6,6     |
+baigorria.txt ->> HORIZONTE->PH PASTA...........: 6,4     |6,8     |7,2     |8,4     |
+baigorria.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,7     |7,0     |7,4     |8,6     |
+baigorria.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 8,2     |8,5     |8,8     |        |
+baigorria.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,2     |0,9     |1,7     |        |
+baigorria.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3     |0,2     |0,2     |0,2     |
+baigorria.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,1     |1,8     |1,4     |0,9     |
+baigorria.txt ->> HORIZONTE->CI ME/100G-H +.....: 1,4     |1,1     |0,7     |        |
+baigorria.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 2,3     |1,6     |1,6     |2,5     |
+baigorria.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 11,8    |11,4    |12,1    |        |
+baigorria.txt ->> HORIZONTE->CIC ME/100G(T).....: 13,2    |12,5    |12,8    |7,9     |
+baigorria.txt ->> HORIZONTE->SAT.B % (S/T)......: 89,4    |91,2    |94,5    |        |

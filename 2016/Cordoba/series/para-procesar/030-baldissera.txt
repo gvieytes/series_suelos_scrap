@@ -1,35 +1,40 @@
-Serie BALDISSERA
-Simbolo: Bds
-CLASIFICACION: Argiudol tipico
-TPS: franca fina, mixta, termica
-UBICACION: a 2,5 km al Sur de Baldissera, departamento Marcos Juarez, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S330836
-LONGITUD:O621735
-ALTITUD:111 m.s.n.m.
-|Horizonte                                                            |A       |Bt      |BC      |C        |Ck        |
-|Profundidad de la muestra (cm)                                       |0-19    |19-45   |45-81   |81-127   |127 a +   |
-|Materia Organica (%)                                                 |3,38    |1,18    |0,41    |0,24     |0,16      |
-|Carbono Organico (%)                                                 |1,97    |0,69    |0,24    |0,14     |0,09      |
-|Nitrogeno total (%)                                                  |0,16    |0,09    |0,05    |0,033    |          |
-|Relacion C/N                                                         |12,3    |7,6     |4,8     |4,2      |          |
-|Arcilla, <2 u (%)                                                    |22,7    |31,3    |20,0    |11,9     |8,25      |
-|Limo, 2-50 u (%)                                                     |60,2    |52,1    |64,9    |62,6     |61,2      |
-|Arena muy fina, 50-100 u (%)                                         |14,5    |15,6    |17,2    |23,7     |27,1      |
-|Arena fina, 100-250 u (%)                                            |0,5     |0,4     |0,6     |1,4      |1,7       |
-|Arena media, 250-500 u (%)                                           |        |        |        |         |          |
-|Arena gruesa, 500-1000 u (%)                                         |        |        |        |         |          |
-|Arena muy gruesa, 1-2 mm (%)                                         |        |        |        |         |          |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |         |2,36      |
-|Equivalente de humedad (%)                                           |27,4    |28,3    |22,4    |20,8     |18,8      |
-|pH en pasta                                                          |6,2     |6,5     |6,8     |7,1      |7,8       |
-|pH en agua (1:2,5)                                                   |6,5     |6,7     |7,1     |7,3      |8,2       |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |12,8    |15,2    |13,3    |13,6     |          |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |3,2     |2,2     |2,6     |2,3      |          |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,2     |0,2     |0,2     |0,2      |0,3       |
-|Cationes de intercambio, meq/100 gr (K+)                             |2,4     |2,2     |1,6     |1,9      |2,0       |
-|Cationes de intercambio, meq/100 gr (H+)                             |2,7     |1,6     |1,1     |0,9      |          |
-|Sodio de intercambio, % (PSI)                                        |1,0     |1,0     |1,1     |1,1      |1,9       |
-|Suma de bases, meq/100 gr (S)                                        |18,6    |19,8    |17,7    |18,0     |          |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |19,6    |20,8    |18,4    |18,4     |15,9      |
-|Saturacion con bases, % (S/T)                                        |94,8    |95,1    |96,1    |97       |          |
+baldissera.txt ->> ID............................: 030
+baldissera.txt ->> CLASIFICACION.................: Argiudol tipico
+baldissera.txt ->> SERIE.........................: BALDISSERA (Bds)
+baldissera.txt ->> UBICACION.....................: a 2,5 km al Sur de Baldissera, departamento Marcos Juarez, provincia de Cordoba.
+baldissera.txt ->> PROVINCIA.....................: CORDOBA
+baldissera.txt ->> LATITUD.......................: S330836
+baldissera.txt ->> LONGITUD......................: O621735
+baldissera.txt ->> ALTITUD.......................: 111 m.s.n.m.
+baldissera.txt ->> PENDIENTE.....................: FALTA!
+baldissera.txt ->> DRENAJE.......................: FALTA!
+baldissera.txt ->> ESCURRIMIENTO.................: FALTA!
+baldissera.txt ->> PERMEABILIDAD.................: FALTA!
+baldissera.txt ->> TIPO DE SUELO.................: franca fina, mixta, termica
+baldissera.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+baldissera.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |Bt      |BC      |C        |Ck        |
+baldissera.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-19    |19-45   |45-81   |81-127   |127 a +   |
+baldissera.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 3,38    |1,18    |0,41    |0,24     |0,16      |
+baldissera.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,97    |0,69    |0,24    |0,14     |0,09      |
+baldissera.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,16    |0,09    |0,05    |0,033    |          |
+baldissera.txt ->> HORIZONTE->RELACIÓN C/N.......: 12,3    |7,6     |4,8     |4,2      |          |
+baldissera.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 22,7    |31,3    |20,0    |11,9     |8,25      |
+baldissera.txt ->> HORIZONTE->LIMO 2-50 (%)......: 60,2    |52,1    |64,9    |62,6     |61,2      |
+baldissera.txt ->> HORIZONTE->AMF 50-100 (%).....: 14,5    |15,6    |17,2    |23,7     |27,1      |
+baldissera.txt ->> HORIZONTE->AF 100-250 (%).....: 0,5     |0,4     |0,6     |1,4      |1,7       |
+baldissera.txt ->> HORIZONTE->AM 250-500 (%).....:         |        |        |         |          |
+baldissera.txt ->> HORIZONTE->AG 500-1000 (%)....:         |        |        |         |          |
+baldissera.txt ->> HORIZONTE->AMG 1-2 mm (%).....:         |        |        |         |          |
+baldissera.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |         |2,36      |
+baldissera.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 27,4    |28,3    |22,4    |20,8     |18,8      |
+baldissera.txt ->> HORIZONTE->PH PASTA...........: 6,2     |6,5     |6,8     |7,1      |7,8       |
+baldissera.txt ->> HORIZONTE->PH H2O 1:2,5.......: 6,5     |6,7     |7,1     |7,3      |8,2       |
+baldissera.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 12,8    |15,2    |13,3    |13,6     |          |
+baldissera.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 3,2     |2,2     |2,6     |2,3      |          |
+baldissera.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,2     |0,2     |0,2     |0,2      |0,3       |
+baldissera.txt ->> HORIZONTE->CI ME/100G-K +.....: 2,4     |2,2     |1,6     |1,9      |2,0       |
+baldissera.txt ->> HORIZONTE->CI ME/100G-H +.....: 2,7     |1,6     |1,1     |0,9      |          |
+baldissera.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 1,0     |1,0     |1,1     |1,1      |1,9       |
+baldissera.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 18,6    |19,8    |17,7    |18,0     |          |
+baldissera.txt ->> HORIZONTE->CIC ME/100G(T).....: 19,6    |20,8    |18,4    |18,4     |15,9      |
+baldissera.txt ->> HORIZONTE->SAT.B % (S/T)......: 94,8    |95,1    |96,1    |97       |          |

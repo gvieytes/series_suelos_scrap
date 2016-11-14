@@ -1,35 +1,40 @@
-Serie ACHALA III
-Simbolo: FALTA!
-CLASIFICACION: Endoacuol litico paralitico
-TPS: esqueletica, franca, mixta, termica
-UBICACION: en la parte alta y Sur de la estancia La Trinidad, departamento San Alberto, provincia de Cordoba.
-COLOR: color en humedo gris muy oscuro (10YR3/1)
-LATITUD:S314200
-LONGITUD:O645120
-ALTITUD:2083 m.s.n.m.
-|Horizonte                                                            |A       |Bw      |2BC     |
-|Profundidad de la muestra (cm)                                       |0-8     |8-29    |29-50   |
-|Materia Organica (%)                                                 |29,83   |9,14    |1,21    |
-|Carbono Organico (%)                                                 |17,3    |5,3     |0,7     |
-|Nitrogeno total (%)                                                  |1,65    |0,39    |        |
-|Relacion C/N                                                         |10,5    |13,6    |        |
-|Arcilla, <2 u (%)                                                    |33,6    |34,4    |10,4    |
-|Limo, 2-50 u (%)                                                     |62,5    |53,0    |55,2    |
-|Arena muy fina, 50-100 u (%)                                         |0,40    |0,85    |4,40    |
-|Arena fina, 100-250 u (%)                                            |0,60    |2,95    |7,60    |
-|Arena media, 250-500 u (%)                                           |0,30    |1,35    |2,70    |
-|Arena gruesa, 500-1000 u (%)                                         |0,95    |3,75    |10,50   |
-|Arena muy gruesa, 1-2 mm (%)                                         |0,75    |2,90    |8,30    |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |
-|Equivalente de humedad (%)                                           |78,6    |36,4    |19,5    |
-|pH en pasta                                                          |5,2     |5,4     |6,0     |
-|pH en agua (1:2,5)                                                   |5,3     |5,5     |6,1     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |34,5    |26,7    |9,5     |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |2,1     |3,1     |0,5     |
-|Cationes de intercambio, meq/100 gr (Na+)                            |1,2     |0,7     |0,3     |
-|Cationes de intercambio, meq/100 gr (K+)                             |0,5     |0,1     |0,05    |
-|Cationes de intercambio, meq/100 gr (H+)                             |12,6    |6,5     |1,5     |
-|Sodio de intercambio, % (PSI)                                        |2,4     |1,9     |2,5     |
-|Suma de bases, meq/100 gr (S)                                        |38,3    |30,6    |10,4    |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |50,79   |37,1    |11,9    |
-|Saturacion con bases, % (S/T)                                        |75      |82      |87      |
+achala_iii.txt ->> ID............................: 004
+achala_iii.txt ->> CLASIFICACION.................: Endoacuol litico paralitico
+achala_iii.txt ->> SERIE.........................: ACHALA III (FALTA!)
+achala_iii.txt ->> UBICACION.....................: en la parte alta y Sur de la estancia La Trinidad, departamento San Alberto, provincia de Cordoba.
+achala_iii.txt ->> PROVINCIA.....................: CORDOBA
+achala_iii.txt ->> LATITUD.......................: S314200
+achala_iii.txt ->> LONGITUD......................: O645120
+achala_iii.txt ->> ALTITUD.......................: 2083 m.s.n.m.
+achala_iii.txt ->> PENDIENTE.....................: FALTA!
+achala_iii.txt ->> DRENAJE.......................: FALTA!
+achala_iii.txt ->> ESCURRIMIENTO.................: FALTA!
+achala_iii.txt ->> PERMEABILIDAD.................: FALTA!
+achala_iii.txt ->> TIPO DE SUELO.................: esqueletica, franca, mixta, termica
+achala_iii.txt ->> COLOR ........................: color en humedo gris muy oscuro (10YR3/1)
+achala_iii.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: A       |Bw      |2BC     |
+achala_iii.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-8     |8-29    |29-50   |
+achala_iii.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 29,83   |9,14    |1,21    |
+achala_iii.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 17,3    |5,3     |0,7     |
+achala_iii.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 1,65    |0,39    |        |
+achala_iii.txt ->> HORIZONTE->RELACIÓN C/N.......: 10,5    |13,6    |        |
+achala_iii.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 33,6    |34,4    |10,4    |
+achala_iii.txt ->> HORIZONTE->LIMO 2-50 (%)......: 62,5    |53,0    |55,2    |
+achala_iii.txt ->> HORIZONTE->AMF 50-100 (%).....: 0,40    |0,85    |4,40    |
+achala_iii.txt ->> HORIZONTE->AF 100-250 (%).....: 0,60    |2,95    |7,60    |
+achala_iii.txt ->> HORIZONTE->AM 250-500 (%).....: 0,30    |1,35    |2,70    |
+achala_iii.txt ->> HORIZONTE->AG 500-1000 (%)....: 0,95    |3,75    |10,50   |
+achala_iii.txt ->> HORIZONTE->AMG 1-2 mm (%).....: 0,75    |2,90    |8,30    |
+achala_iii.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |
+achala_iii.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..: 78,6    |36,4    |19,5    |
+achala_iii.txt ->> HORIZONTE->PH PASTA...........: 5,2     |5,4     |6,0     |
+achala_iii.txt ->> HORIZONTE->PH H2O 1:2,5.......: 5,3     |5,5     |6,1     |
+achala_iii.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 34,5    |26,7    |9,5     |
+achala_iii.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 2,1     |3,1     |0,5     |
+achala_iii.txt ->> HORIZONTE->CI ME/100G-Na +....: 1,2     |0,7     |0,3     |
+achala_iii.txt ->> HORIZONTE->CI ME/100G-K +.....: 0,5     |0,1     |0,05    |
+achala_iii.txt ->> HORIZONTE->CI ME/100G-H +.....: 12,6    |6,5     |1,5     |
+achala_iii.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 2,4     |1,9     |2,5     |
+achala_iii.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 38,3    |30,6    |10,4    |
+achala_iii.txt ->> HORIZONTE->CIC ME/100G(T).....: 50,79   |37,1    |11,9    |
+achala_iii.txt ->> HORIZONTE->SAT.B % (S/T)......: 75      |82      |87      |

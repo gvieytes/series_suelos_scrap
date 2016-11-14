@@ -1,30 +1,35 @@
-Serie ASCOCHINGA
-Simbolo: Asc
-CLASIFICACION: Argiustol udico
-TPS: franca fina a franca gruesa, mixta, termica
-UBICACION: a 14 km al Oeste de Jesus Maria, departamento Totoral, provincia de Cordoba.
-COLOR: color en humedo pardo grisaceo muy oscuro (10YR3/2)
-LATITUD:S305500
-LONGITUD:O641400
-ALTITUD:600 m.s.n.m.
-|Horizonte                                                            |Ap      |A       |Bt      |B       |2BC     |2Ck     |
-|Profundidad de la muestra (cm)                                       |0-11    |11-21   |21-54   |54-79   |79-98   |98 a +  |
-|Materia Organica (%)                                                 |2,59    |2,24    |        |        |        |        |
-|Carbono Organico (%)                                                 |1,5     |1,3     |        |        |        |        |
-|Nitrogeno total (%)                                                  |0,14    |0,14    |        |        |        |        |
-|Relacion C/N                                                         |11      |9       |        |        |        |        |
-|Arcilla, <2 u (%)                                                    |14,3    |15,3    |19,4    |16,4    |16      |10,5    |
-|Limo, 2-50 u (%)                                                     |36,5    |39,8    |31,3    |33,7    |34,5    |37,1    |
-|Arena (%)                                                            |46,4    |41,9    |46,9    |47,4    |48      |50      |
-|Carbonatos, CaCO3 (%)                                                |        |        |        |        |        |5,9     |
-|Equivalente de humedad (%)                                           |        |        |        |        |        |        |
-|pH en agua (1:2,5)                                                   |7,1     |6,5     |6,9     |7,1     |7,7     |8,1     |
-|Cationes de intercambio, meq/100 gr (Ca++)                           |7,7     |7,6     |12      |8,9     |8,9     |        |
-|Cationes de intercambio, meq/100 gr (Mg++)                           |1,7     |2,6     |0,9     |1,9     |1,3     |        |
-|Cationes de intercambio, meq/100 gr (Na+)                            |0,3     |0,3     |0,2     |0,2     |0,1     |0,15    |
-|Cationes de intercambio, meq/100 gr (K+)                             |1,2     |0,5     |0,4     |0,4     |0,2     |0,3     |
-|Cationes de intercambio, meq/100 gr (H+)                             |0,5     |0,9     |0,5     |0,3     |        |        |
-|Sodio de intercambio, % (PSI)                                        |2,6     |2,5     |1,4     |1,6     |0,9     |1,5     |
-|Suma de bases, meq/100 gr (S)                                        |10,9    |11,0    |13,5    |11,4    |10,5    |        |
-|Capacidad de intercambio cationico, meq/100 gr (T)                   |11,4    |11,9    |14      |12,7    |10,6    |9,8     |
-|Saturacion con bases, % (S/T)                                        |96      |92      |96      |98      |99      |        |
+ascochinga.txt ->> ID............................: 026
+ascochinga.txt ->> CLASIFICACION.................: Argiustol udico
+ascochinga.txt ->> SERIE.........................: ASCOCHINGA (Asc)
+ascochinga.txt ->> UBICACION.....................: a 14 km al Oeste de Jesus Maria, departamento Totoral, provincia de Cordoba.
+ascochinga.txt ->> PROVINCIA.....................: CORDOBA
+ascochinga.txt ->> LATITUD.......................: S305500
+ascochinga.txt ->> LONGITUD......................: O641400
+ascochinga.txt ->> ALTITUD.......................: 600 m.s.n.m.
+ascochinga.txt ->> PENDIENTE.....................: FALTA!
+ascochinga.txt ->> DRENAJE.......................: FALTA!
+ascochinga.txt ->> ESCURRIMIENTO.................: FALTA!
+ascochinga.txt ->> PERMEABILIDAD.................: FALTA!
+ascochinga.txt ->> TIPO DE SUELO.................: franca fina a franca gruesa, mixta, termica
+ascochinga.txt ->> COLOR ........................: color en humedo pardo grisaceo muy oscuro (10YR3/2)
+ascochinga.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: Ap      |A       |Bt      |B       |2BC     |2Ck     |
+ascochinga.txt ->> HORIZONTE->PROFUNDIDADES(CM)..: 0-11    |11-21   |21-54   |54-79   |79-98   |98 a +  |
+ascochinga.txt ->> HORIZONTE->MATERIA ORGÁN.(%)..: 2,59    |2,24    |        |        |        |        |
+ascochinga.txt ->> HORIZONTE->CARBONO ORGÁN.(%)..: 1,5     |1,3     |        |        |        |        |
+ascochinga.txt ->> HORIZONTE->NITRÓGENO TOT.(%)..: 0,14    |0,14    |        |        |        |        |
+ascochinga.txt ->> HORIZONTE->RELACIÓN C/N.......: 11      |9       |        |        |        |        |
+ascochinga.txt ->> HORIZONTE->ARCILLA <2 u (%)...: 14,3    |15,3    |19,4    |16,4    |16      |10,5    |
+ascochinga.txt ->> HORIZONTE->LIMO 2-50 (%)......: 36,5    |39,8    |31,3    |33,7    |34,5    |37,1    |
+ascochinga.txt ->> HORIZONTE->ARENA (%)..........: 46,4    |41,9    |46,9    |47,4    |48      |50      |
+ascochinga.txt ->> HORIZONTE->CALCAREO CaCO3(%)..:         |        |        |        |        |5,9     |
+ascochinga.txt ->> HORIZONTE->EQUIV. HUMEDAD(%)..:         |        |        |        |        |        |
+ascochinga.txt ->> HORIZONTE->PH H2O 1:2,5.......: 7,1     |6,5     |6,9     |7,1     |7,7     |8,1     |
+ascochinga.txt ->> HORIZONTE->CI ME/100G-Ca ++...: 7,7     |7,6     |12      |8,9     |8,9     |        |
+ascochinga.txt ->> HORIZONTE->CI ME/100G-Mg ++...: 1,7     |2,6     |0,9     |1,9     |1,3     |        |
+ascochinga.txt ->> HORIZONTE->CI ME/100G-Na +....: 0,3     |0,3     |0,2     |0,2     |0,1     |0,15    |
+ascochinga.txt ->> HORIZONTE->CI ME/100G-K +.....: 1,2     |0,5     |0,4     |0,4     |0,2     |0,3     |
+ascochinga.txt ->> HORIZONTE->CI ME/100G-H +.....: 0,5     |0,9     |0,5     |0,3     |        |        |
+ascochinga.txt ->> HORIZONTE->NA CAMBIO % (PSI)..: 2,6     |2,5     |1,4     |1,6     |0,9     |1,5     |
+ascochinga.txt ->> HORIZONTE->SUM.B. ME/100G(S)..: 10,9    |11,0    |13,5    |11,4    |10,5    |        |
+ascochinga.txt ->> HORIZONTE->CIC ME/100G(T).....: 11,4    |11,9    |14      |12,7    |10,6    |9,8     |
+ascochinga.txt ->> HORIZONTE->SAT.B % (S/T)......: 96      |92      |96      |98      |99      |        |

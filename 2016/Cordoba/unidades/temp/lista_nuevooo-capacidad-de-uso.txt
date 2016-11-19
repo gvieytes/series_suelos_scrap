@@ -2,3231 +2,4647 @@ NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores
 Capacidad de Uso: VIIws
 --
+2
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Identifica areas de menor difusion y algo mas elevadas que la unidad anterior pero
 --
+3
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+4
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+5
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 semipermanentes
 Capacidad de Uso: VIIws
 --
+6
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+7
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Fisiograficamente corresponden con sectores deprimidos, incluidas charcas y pequenas
 --
+8
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vlws
+Este complejo fisiograficamente corresponde con sectores deprimidos, incluidas charcas y
 --
+9
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+10
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+11
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinos
+Capacidad de Uso: VIws
 --
+12
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidad muy poco extendida, que corresponde a areas de pendientes cortas con
 --
+13
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Esta unidad tiene un rumbo aproximado NNW-SSE. Es un area deprimida de unos 400 m
 --
+14
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+15
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIec
 --
+16
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+17
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
+18
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+19
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 enterrados y suelos en capas
+Capacidad de Uso: VIec
 --
+20
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores
+Capacidad de Uso: IIIec
 --
+21
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 moderadamente erosionada
 Capacidad de Uso: IVec
 --
+22
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+23
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+24
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
+25
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
+26
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
+Pendiente regional muy suave y extendida al Sur del embalse del Rio Tercero donde los
 --
+27
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
+Esta unidad cartografica esta representada por colectores secundarios, la mayoria de
 --
+28
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIec
 --
+29
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lllws
 --
+30
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 PROGRESO y GUATIMOZIN
 Capacidad de Uso: IVws
 --
+31
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Es un area deprimida de unos 500 m de ancho, muy inundable por el arroyo del mismo
 --
+32
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidad de amplia distribucion vinculada a las terrazas altas de los rios Tercero y otros;
 --
+33
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+34
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+35
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+36
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIes
 --
+37
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIes
+--
+38
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+39
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+40
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+41
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+42
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Con este simbolo se senalan los sectores correspondientes a lomadas eolicas
 --
+43
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIc
 --
+44
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
 --
+45
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lllsc
+Esta unidad corresponde a un area con influencia medanosa modelada sobre materiales
 --
+46
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIlec
 --
+47
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+48
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+49
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta asociacion se encuentra en las lomas suavemente onduladas con drenaje algo
 --
+50
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+51
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 moderadamente alcalinos subsuperficial
+Capacidad de Uso: IIIsc
 --
+52
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Son ambientes de lomas aplanadas con complejos de suelos y/o areas intermedias que
 --
+53
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+54
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+Estas unidades son complejos de suelos que se vinculan a lomas arenosas, de relieve
 --
+55
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+Unidad cartografica que representa areas bajas, amplias, de base plana, ubicadas en las
 --
+56
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lllws
 --
+57
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llw
 --
+58
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Se trata de unidades mixtas (suelos desarrollados sobre sedimentos aluviales y eolicos)
 --
+59
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 Aptitud Forestal: 1
 --
+60
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 CALAMUCHITA IV y SAN IGNACIO IV
 Capacidad de Uso: IIIec
+Aptitud Forestal: 1
 --
+61
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 CALAMUCHITA IV; SAN IGNACIO III y SAN IGNACIO IV
 Capacidad de Uso: IVec
 --
+62
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Esta unidad cartografica se encuentra ubicada en el sector Norte de los derrames del rio
 --
+63
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+La delineacion mas importante de este complejo de suelos aluviales corresponde a la faja
 --
+64
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+65
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+66
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+Esta unidad ocupa la depresion de San Antonio - Arroyo Tortugas (bajo o pie del primer
+--
+67
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIws
+Corresponden fisiograficamente con bajos o vias de escurrimiento dentro de la depresion
+--
+68
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+69
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+70
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+71
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIws
---
+72
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+73
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta unidad cartografica "pura" esta compuesta por la serie Ballesteros vinculada a un
 --
+74
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta fase ocupa las lineas de escurrimiento o vias de desagues que disectan las lomadas
 --
+75
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+La serie Ballesteros es un suelo bien drenado, oscuro, que ocupa las lomadas o planos
 --
+76
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+77
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+78
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+79
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+80
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+81
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos de paleocauces
+Capacidad de Uso: IVsc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+82
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+83
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+--
+84
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+85
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+86
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+87
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+88
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
+Unidades de importante representatividad correspondiente a lomas con un gradiente
 --
+89
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 erosionada por agua
 Capacidad de Uso: IVes
 --
+90
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 desbordes de rios y arroyos de texturas variadas
 Capacidad de Uso: IVsc
 --
+91
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
 --
+92
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+93
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+Estas unidades cartograficas corresponden a pendientes cortas e irregulares hacia
 --
+94
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Son lineas de escurrimiento poco manifiestas de pocas decenas de metros de ancho
 --
+95
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+96
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+97
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Se vincula a amplios sectores planos o muy suavemente ondulados y esta integrado por
 --
+98
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+99
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+100
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Esta Unidad corresponde a un paisaje de lomas planas muy suavemente onduladas. La
 --
+101
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIc
+La consociacion Baldissera se asocia a lomas suavemente onduladas, de origen eolico y
 --
+102
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIc
+La fase inclinada de la serie Baldissera corresponde a pendientes cortas con gradientes
 --
+103
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: llw
+Domina la fase moderadamente bien drenada de la serie Baldissera. Corresponden con
+--
+104
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: llw
+Domina la fase moderadamente bien drenada de la serie Baldissera. Corresponde con
+--
+105
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llw
 --
+106
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: llw
+Capacidad de Uso: VIes
+Esta unidad contiene suelos de la Serie Buena Esperanza y ocupa el sector Oeste de la
 --
+107
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: llw
+Capacidad de Uso: VIes
+Esta unidad contiene suelos de la Serie Buena Esperanza y ocupa el sector Oeste de la
 --
+108
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIes
---
+109
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Esta unidad cartografica esta constituida por suelos en su mayoria de la Serie Buena
 --
+110
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+111
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+112
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+113
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+114
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 depositos recientes
+Capacidad de Uso: IVec
 --
+115
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+116
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+117
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+118
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+119
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+120
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vllws
 --
+121
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+122
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+123
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+124
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+125
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+126
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIws
 --
+127
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIsc
+Esta unidad comprende sectores de bajos correspondientes a antiguos cauces del Rio
 --
+128
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: 8
 --
+129
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+130
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
 --
+131
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 II y otros suelos de textura arenosa franca poco desarrollados
 Capacidad de Uso: IVsc
 --
+132
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidades cartograficas ubicadas al Este de la Ruta Nacional No9. Es una pendiente
 --
+133
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 acumulada; LA EMILIA; EL CORTIJO en fase inclinada y suelos menores arenosos poco
 desarrollados
+Capacidad de Uso: IVec
 --
+134
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+135
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 PINTO y LAS MERCEDES II
 Capacidad de Uso: IIIec
 --
+136
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+137
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: 8
 --
+138
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Este complejo indeterminado, se vincula a las lagunas y que estan formados por suelos
 --
+139
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos y limosos salino sodicos
 Capacidad de Uso: VIws
 --
+140
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
 --
+141
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores imperfectamente drenados
+Capacidad de Uso: VIIws
 --
+142
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores imperfectamente drenados
 Capacidad de Uso: VIws
 --
+143
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
+Con este simbolo se identifican en las fotocartas a extensos interfluvios. Los materiales
 --
+144
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
 --
+145
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
+Unidades cartograficas constituidas por lomas y pendientes regionales muy suavemente
 --
+146
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Amplias unidades cartograficas ubicadas en la faja del cambio regional dentro de las
 --
+147
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+148
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 poco evolucionados de texturas franco arenosas
 Capacidad de Uso: IVsc
 --
+149
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Amplias unidades cartograficas con suelos desarrollados exclusivamente sobre
 --
+150
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 por agua
 Capacidad de Uso: IVec
 --
+151
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
+Amplias unidades muy representativas de la pendiente regional de la Pampa Loessica
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIec
---
+152
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+153
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIec
 --
+154
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIc
+Capacidad de Uso: IVec
 --
+155
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIw
+Capacidad de Uso: VIec
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIw
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIes
---
+156
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+157
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIw
+--
+158
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIw
+--
+159
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+160
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+161
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+162
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+163
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+164
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+165
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+166
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+167
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+168
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+169
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIes
+--
+170
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIc
+Unidades cartograficas que corresponden a lomas o interfluvios de origen eolico con
+--
+171
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+172
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+173
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+174
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+175
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Este complejo corresponde fisiograficamente con vias de avenamiento que encausan los
 --
+176
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+177
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+178
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+179
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+180
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+181
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+182
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Se designan con este nombre a las unidades que ocupa los planos aluviales del Arroyo
 --
+183
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+184
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Esta unidad cartografica cubre pequenas porciones correspondiendo a planos tendidos
 --
+185
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 imperfectamente drenados
 Capacidad de Uso: VIws
 --
+186
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 vinculados a paleocauces
 Capacidad de Uso: VIIsc
 --
+187
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 lineal severa y paleocauces hidromorficos
 Capacidad de Uso: VIIes
 --
+188
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Comprende cauces activos o de aguas permanentes de los Rios Macha, Totoral y otros
 --
+189
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+Unidades cartograficas muy heterogeneas con suelos desarrollados sobre sedimentos
 --
+190
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 aluviales
 Capacidad de Uso: VIes
 --
+191
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 erosion lineal (surcos y zanjas profundas)
 Capacidad de Uso: VIes
 --
+192
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 moderadamente bien drenada
 Capacidad de Uso: VIsc
 --
+193
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 a afloramientos y rocas sedimentarias conglomeradicas, con suelos aluviales profundos
 Capacidad de Uso: IVes
 --
+194
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Rios Santa Catalina, Aacochinga y otros suelos muy inclinados
 Capacidad de Uso: VIIes
 --
+195
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 PIEDRAS; ASCOCHINGA en fase acumulada y suelos menores aluviales arenosos
 Capacidad de Uso: IVes
 --
+196
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 (margen Occidental)
 Capacidad de Uso: VIIes
 --
+197
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+198
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 abanicos aluviales, paleocauces, derrames fluviales y terrazas de llanura
 Capacidad de Uso: IVsc
 --
+199
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIsc
+Son pequenas unidades cartograficas que corresponden a vallecitos entre laderas
 --
+200
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Cruz
 Capacidad de Uso: IVec
 --
+201
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 y otros
 Capacidad de Uso: VIIws
 --
+202
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 mogotes y serranias bajas vinculados a la Sierra de las Penas
 Capacidad de Uso: VIIes
 --
+203
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 rocas metamorficas de la Sierra de las Penas en los limites con el pie de monte
 Capacidad de Uso: VIIes
 --
+204
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 rocosos de areas muy escarpadas sobre rocas metamorficas de la Sierra de las Penas
 Capacidad de Uso: VIIes
 --
+205
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Penas
 Capacidad de Uso: VIIes
 --
+206
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de las Penas
 Capacidad de Uso: VIIes
 --
+207
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 sectores bajos e intermedios de la Sierra de las Penas
 Capacidad de Uso: VIIes
 --
+208
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Este complejo esta gravemente limitado con aptitud para campos naturales de pastoreo
 --
+209
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Este complejo indeterminado se ubica en areas aisladas en aureolas internas de lagunas
 --
+210
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIsc
+Este complejo se ubica en el pie de monte de la sierra vinculado al Rio Pisco Huasi, al
 --
+211
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Con este simbolo se ha mapeado una unidad que constituye el area de inundacion de
 --
+212
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIsc
+Esta unidad, con escasa representatividad geografica, se encuentra ubicada en el area de
 --
+213
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Este complejo de suelos esta vinculado sectores deprimidos semejantes a la unidad
 --
+214
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Jesus Maria, Los Mistoles y otros
 Capacidad de Uso: VIes
 --
+215
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 diferenciados y loessicos zonales, parcialmente sepultados por sedimentacion reciente
 Capacidad de Uso: VIsc
 --
+216
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Chicas hacia el Valle de Calamuchita
 Capacidad de Uso: VIIes
 --
+217
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 metamorfico
 Capacidad de Uso: VIIes
 --
+218
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
+Pequena unidad correspondiente a los depositos de pie de monte de las Sierras Chicas,
 --
+219
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 y otros
 Capacidad de Uso: VIsc
 --
+220
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estos complejos poseen relieves muy heterogeneos e irregulares por la presencia de
 --
+221
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 los rios Tercero y otros
 Capacidad de Uso: VIIes
 --
+222
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+Unica delineacion en las partes altas de las Sierras Chicas, correspondiente a las
 --
+223
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 conglomeradicas (sedimentarias) de la Sierra de Las Penas y otras
 Capacidad de Uso: VIIes
 --
+224
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos de lomas
 Capacidad de Uso: IVsc
 --
+225
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de depresiones y terrazas bajas inundables y/o vinculados al nacimiento de arroyos
 Capacidad de Uso: VIIws
 --
+226
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 moderadamente alcalinos y areas deprimidas vinculadas a arroyos permanentes y
 semipermanentes
+Capacidad de Uso: VIws
 --
+227
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Ambientes menores ubicados a ambos lados del cauce actual del rio. Se caracteriza
 --
+228
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Loessica Alta
 Capacidad de Uso: VIws
 --
+229
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+En estos desagues o colectores principales dominan suelos con horizonte enriquecidos en
 --
+230
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Esta Unidad ocupa un pequeno sector dentro de la terraza intermedia del Rio Carcarana
 --
+231
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estas unidades cartograficas generalmente constituyen el "pie" de las pendientes
 --
+232
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estas unidades cartograficas generalmente constituyen el "pie" de las pendientes
 --
+233
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Este complejo esta localizado en areas reducidas, que corresponden a los albardones del
 --
+234
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+El complejo Laguna Sancti Spiritu corresponde a los ambientes que rodean a la laguna
 --
+235
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+La unidad Co192 comprende las areas inundables vecinas a una serie de lagunas de
 --
+236
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Esta unidad es una pequena area vecina a las lagunas innominadas. Son terrenos
 --
+237
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
+El Complejo Arroyo Tortugas corresponde al plano aluvial de este arroyo. Comprende los
 --
+238
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII/VIIes
 Aptitud Forestal: 5
 --
+239
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 V y afloramientos rocosos
 Capacidad de Uso: VIIes
+Aptitud Forestal: 2
 --
+240
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 II; CALAMUCHITA III y CALAMUCHITA V
 Capacidad de Uso: VIIes/VIII
 --
+241
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 CALAMUCHITA II; CALAMUCHITA III; CALAMUCHITA V y suelos organicos del Orden de
 los Histosoles y LOS NOGALES
+Capacidad de Uso: VIIes
 --
+242
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIsc/VIII
 Aptitud Forestal: 4
 --
+243
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIIsc
 Aptitud Forestal: 5
 --
+244
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
+Esta unidad es una combinacion de los complejos B2 y D1 que por razones de la escala
 --
+245
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 IV y rocas aflorantes
 Capacidad de Uso: VIIes/VIII
+Aptitud Forestal: 3
 --
+246
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 III; YACANTO IV; CALAMUCHITA III y SAN IGNACIO IV
 Capacidad de Uso: IVes/VIes
 --
+247
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 III; YACANTO IV; CALAMUCHITA III; SAN IGNACIO IV; FUNDACION y SAN
 PANCRACIO
+Capacidad de Uso: IVes/VIes
 --
+248
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 afloramientos de tosca
 Capacidad de Uso: VIIes/VIes
+Aptitud Forestal: 5
 --
+249
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 CALAMUCHITA III y SANTA ROSA II
 Capacidad de Uso: VIIes
+Aptitud Forestal:
 --
+250
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 y afloramientos rocosos
 Capacidad de Uso: VIes/VIIes
+Aptitud Forestal: 3
 --
+251
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 SAN IGNACIO I; YACANTO III y rocas aflorantes
 Capacidad de Uso: VIIes/VIes
+Aptitud Forestal: 3
 --
+252
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 SANTA ROSA II; SAN IGNACIO I; YACANTO III; LOS REARTES y VILLA GENERAL
 BELGRANO
+Capacidad de Uso: VIes/VIIes
 --
+253
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 carbonato de calcio
 Capacidad de Uso: VIIes
+Aptitud Forestal:
 --
+254
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ACHALA IV; ACHALA V; ACHALA VI y ACHALA VII
 Capacidad de Uso: VIIes
+Aptitud Forestal:
 --
+255
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Ustorthentes liticos, tipicos y paraliticos y Haplustoles liticos, enticos y fluventicos
 Capacidad de Uso: VIIes/VIII
+Aptitud Forestal:
 --
+256
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 Aptitud Forestal: 2
 --
+257
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 CHACAY en fase profunda y muy pedregosa; HUERTA VIEJA en fase profunda y
 extremadamente pedregosa; YACANTO III y afloramientos rocosos
+Capacidad de Uso: VIIes
 --
+258
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 rocas aflorantes y suelos fluviales
 Capacidad de Uso: VIsc
+Aptitud Forestal: 3
 --
+259
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Esta unidad corresponde con relieves deprimidos y concavos de pendiente nula o muy
+--
+260
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+261
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+262
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Estos complejos se encuentran vinculados a sectores deprimidos en el sudeste del area,
+--
+263
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+264
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
+265
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+266
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+267
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+268
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+269
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 en fase ligera a moderadamente erosionada
 Capacidad de Uso: VIws
 --
+270
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Esta consociacion corresponde a los suelos que ocupan la periferia de ciertas
 --
+271
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Con esta denominacion se indican las terrazas fluviales intermedias de los rios Suquia y
 --
+272
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+Constituye una unidad simple, es decir, integrada por una sola serie de suelos. La serie
+--
+273
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+Esta asociacion comprende amplias lomadas de origen eolico con la presencia de
+--
+274
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+275
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Esta fase se vincula a los bajos alargados y pequenos pozos o charcas de infiltracion
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
+276
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
+Esta asociacion se vincula a pequenas lomas aisladas, de la serie Canals, en la que el
 --
+277
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+Unidades amplias de suelos zonales. Se ubican en planicies altas con pequenos relieves
+--
+278
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+279
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
+280
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+281
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+282
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estas unidades estan ubicadas en la depresion de la Canada de San Antonio y en la
 --
+283
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estas unidades estan ubicadas en la depresion de la Canada de San Antonio y en la
 --
+284
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+285
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+286
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+287
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIc
+La serie Cavanagh pura es el suelo dominante dentro del triangulo que definen las
 --
+288
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIlws
 --
+289
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llws
 --
+290
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vw
+Esta unidad esta restringida a sectores concavos (pozos de infiltracion) que generalmente
 --
+291
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vws
 --
+292
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+293
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+294
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+295
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+296
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+297
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+298
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+299
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+300
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+301
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+Este complejos fisiograficamente se vincula con lineas de avenamiento temporarias muy
+--
+302
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
+303
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+304
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+305
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 capas no geneticas con alcalinidad subsuperficial
 Capacidad de Uso: IVsc
 --
+306
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+Los sectores cartografiados con este simbolo son los representativos de pendientes
 --
+307
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIsc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIes
---
+308
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+309
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIws
+Capacidad de Uso: IVsc
 --
+310
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+311
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIes
+Los suelos de estas unidades se han desarrollado a partir de sedimentos eolicos de
+--
+312
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIes
+Los suelos de estas unidades se han desarrollado a partir de sedimentos eolicos de
+--
+313
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIes
+Estas unidades tienen en comun suelos que responden al perfil modal de la Serie El
+--
+314
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVes
+Los suelos de esta unidades se han desarrollado a partir de sedimentos eolicos de textura
+--
+315
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIes
+Estas unidades tienen en comun suelos que responden al perfil modal de la Serie El
+--
+316
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVes
+Estas unidades tienen suelos que responden al perfil modal de la Serie El Veintitres,
+--
+317
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIes
+Estas unidades tienen en comun suelos que responden al perfil modal de la Serie El
+--
+318
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVsc
+Estas unidades tienen en comun suelos que responden al perfil modal de la Serie El
+--
+319
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIws
+--
+320
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+321
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+322
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+323
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+324
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIws
+Estos complejos se encuentran relacionados fisiograficamente con ambientes netamente
+--
+325
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIws
---
+326
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 desarrollados
+Capacidad de Uso: IVsc
 --
+327
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Sectores pertenecientes a la Pampa Alta loessica con influencia fluvial con relieve
 --
+328
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
 --
+329
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+Unidades cartograficas correspondientes a colectores de primer orden o principales, con
 --
+330
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 subsuelo
+Capacidad de Uso: VIec
 --
+331
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Estos complejos de suelos comprenden sectores planos ligeramente deprimidos
+--
+332
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Estos complejos de suelos comprenden sectores planos ligeramente deprimidos
+--
+333
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
+334
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+335
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ZORROS y EL PUMA
 Capacidad de Uso: VIsc
 --
+336
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
+Esta asociacion se vincula a vias de escurrimiento bien manifiestas con suelos
 --
+337
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores areno francos poco diferenciados
 Capacidad de Uso: IVsc
 --
+338
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+339
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+340
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+341
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+342
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+343
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+344
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+345
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 BARRANCA YACO; LAS MERCEDES I y otros suelos aluviales y regoliticos
 Capacidad de Uso: IVes
 --
+346
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
+El paisaje dominante es de planos altos suavemente ondulados, con pendientes que no
 --
+347
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llw
 --
+348
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+349
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llws
+La fase moderadamente bien drenada de la serie El Cantor corresponde a lineas de
 --
+350
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+351
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 SANTA EUFEMIA; BENJAMIN GOULD y suelos menores hidromorficos cementados en
 profundidad y alcalinos
+Capacidad de Uso: VIIws
 --
+352
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos salino-sodicos con drenaje deficiente y lagunas semipermanentes
 Capacidad de Uso: VIIws
 --
+353
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+354
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 y suelos salino-sodicos imperfectamente drenados
 Capacidad de Uso: VIIws
 --
+355
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+356
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
+357
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+358
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
 --
+359
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Esta unidad corresponde a vias de desague moderadamente manifiestas de relieve plano
 --
+360
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Unidades cartograficas muy semejantes a las descriptas anteriormente en relacion al
 --
+361
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+362
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+Con este simbolo se indican las unidades cartograficas constituidas unicamente por
 --
+363
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 degradados
+Capacidad de Uso: VIws
 --
+364
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+365
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+366
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
 --
+367
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+368
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+369
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 LAS LIEBRES y LA PLAYOSA en fase poco anegable
 Capacidad de Uso: VIws
 --
+370
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+371
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+372
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+373
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
+374
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinidad superficial
 Capacidad de Uso: VIIws
 --
+375
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+376
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+377
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+378
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinidad y/o salinidad variable
+Capacidad de Uso: IVws
 --
+379
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+380
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+381
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 MONTE GRANDE
 Capacidad de Uso: IIIw
 --
+382
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+383
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+384
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+385
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+386
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
 --
+387
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+388
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+389
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+390
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+391
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+392
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 y suelos menores aluviales
 Capacidad de Uso: IVc
 --
+393
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+394
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+395
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores salino alcalinos con capas arcillosas
 Capacidad de Uso: VIIws
 --
+396
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Capacidad de Uso: 66
+--
+397
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
+398
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+399
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+400
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 inundables moderadamente alcalinos en capas arcillosas
 Capacidad de Uso: VIIws
 --
+401
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de suelos menores halo-hidromorficos arcillosos
 Capacidad de Uso: VIIws
 --
+402
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+403
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+404
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ligeramente salinos
 Capacidad de Uso: IIIsc
 --
+405
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinos
 Capacidad de Uso: VIws
 --
+406
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+407
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+408
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVsc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIew
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVec
---
+409
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIec
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
+410
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVes
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIsc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-alcalina de superficie; LAS PLAYAS y suelos arenosos moderadamente alcalinos fluviales
-de paleocauces
---
+411
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+412
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVsc
+--
+413
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+414
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+415
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIew
+Se encuentra en un sector de pendientes con inclinacion hacia la depresion de San
+--
+416
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
+--
+417
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIec
+--
+418
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVc
+Unidad cartografica ubicada al Este de la localidad de Las Penas. Los suelos se han
+--
+419
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVc
+Sectores amplios bastante alejados de las sierras del Oeste, donde los suelos de lomas
+--
+420
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIws
+Este complejo ocupa pequenos sectores vinculados a los pozos de infiltracion dentro de
+--
+421
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIc
+Superficies amplias originadas o relacionadas geneticamente a partir de derrames de
+--
+422
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIes
+Esta unidad esta constituida por suelos desarrollados a partir de sedimentos eolicos de
+--
+423
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVes
+Esta unidad esta constituida por suelos desarrollados a partir de sedimentos eolicos de
+--
+424
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVes
+Estas unidades estan constituidas por suelos desarrollados a partir de sedimentos eolicos
+--
+425
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+Los suelos de esta unidad son algo excesivamente drenados, desarrollados a partir de
+--
+426
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIec
+--
+427
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+--
+428
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+--
+429
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
+Esta unidad cartografica esta vinculada a un paisaje de pendientes cortas hacia el Arroyo
+--
+430
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIes
+Esta unidad presenta un relieve suavemente ondulado a ondulado, los suelos pertenecen
+--
+431
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+--
+432
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+433
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIws
+--
+434
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+435
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+--
+436
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+alcalina de superficie; LAS PLAYAS y suelos arenosos moderadamente alcalinos fluviales
+de paleocauces
+Capacidad de Uso: VIIws
+--
+437
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+438
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVes
+--
+439
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores
 Capacidad de Uso: VIsc
 --
+440
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores con fragipan
 Capacidad de Uso: Vlws
 --
+441
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 en fase moderadamente bien drenada
 Capacidad de Uso: Vlws
 --
+442
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 PLUMA y suelos menores alcalinos
 Capacidad de Uso: Vllws
 --
+443
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vlws
+Estos complejos ocupan areas bajas anegables alrededor de lagunas permanentes y
 --
+444
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
+Berrotaran
 --
+445
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: I
+Ambiente alto y plano-extendido con un suave microrrelieve ondulado que las pendientes
+--
+446
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: I
+Con el simbolo Ha1 aparecen cartografiadas, unidades alargadas que corresponden a
+--
+447
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: I
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: I
---
+448
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
 --
+449
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
+450
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: I
+Esta unidad ocupa lomas amplias surcadas por pequenos ejes de avenamiento. Tiene
+--
+451
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: I
---
+452
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIe
 --
+453
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llw
 --
+454
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+455
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+456
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIe
+La unidad Ha11 es una consociacion de la serie Hansen, de la que se han cartografia do
 --
+457
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+Con el simbolo Ha12 aparecen cartografiadas unidades alargadas que corresponden a
 --
+458
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIe
+La unidad cartografica identificada con el simbolo Ha13 corresponde a perfiles de la serie
 --
+459
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
 --
+460
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
+461
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+Estas unidades representan a lo ejes de drenaje bien definidos, orientados de sudoeste a
 --
+462
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
 --
+463
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 diferenciados (A-C)
 Capacidad de Uso: VIes
 --
+464
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+465
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+Estos complejos estan asociados a un paisaje de lomadas arenosas onduladas, donde la
 --
+466
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+Estos complejos estan asociados a un paisaje de lomadas arenosas onduladas, donde la
 --
+467
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+468
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos poco diferenciados
 Capacidad de Uso: VIes
 --
+469
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+La caracteristica que distingue a estas unidades es el paisaje de lomadas medanosas
 --
+470
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Estos complejos estan asociados a un paisaje de lomadas arenosas onduladas, donde la
 --
+471
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+472
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+473
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+474
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+Con este simbolo, se senalan en los mapas sectores correspondientes a lomas arenosas
 --
+475
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+476
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+La primera unidad corresponde a un paisaje de lomas muy suavemente onduladas, las
 --
+477
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos poco diferenciados
 Capacidad de Uso: VIes
 --
+478
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 IMPIRA en fase sodica de superficie y suelos enterrados y capas arenosas
 Capacidad de Uso: VIws
 --
+479
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 superficie; MATORRALES en fase moderadamente sodica en profundidad y suelos en
 capas arenosas salinas y alcalinas de superficie
+Capacidad de Uso: VIws
 --
+480
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores
 Capacidad de Uso: VIIws
 --
+481
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Unidad cartografica amplia constituida por lomas suavemente onduladas. Esta
 --
+482
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Esta unidad cartografica, como puede observarse, tiene los mismos componentes
 --
+483
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Este complejo corresponde a areas deprimidas, periodicamente inundables con un nivel
 --
+484
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Unidades menores en areas deprimidas inundables periodicamente. Esta compuesto en la
 --
+485
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinos
 Capacidad de Uso: VIIws
 --
+486
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+487
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: Vw
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIII
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIII
---
+488
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+489
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: Vw
+La serie Justiniano Posse es un suelo desarrollado sobre materiales franco limosos
+--
+490
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIws
+--
+491
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIII
+--
+492
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIII
+--
+493
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIec
+El Paisaje de la unidad esta compuesto por lomas suavemente onduladas, con gradientes
+--
+494
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVe
+Esta unidad corresponde a un paisaje de pendientes medias, entre 1.000 a 2.000 metros
 --
+495
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIe
 --
+496
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
 --
+497
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+498
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+499
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+500
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+501
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIIws
+Este complejo se encuentra vinculado a los bajos y areas deprimidas en las proximidades
 --
+502
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Con este simbolo se indican en las fotocartas a los suelos pertenecientes a la serie
 --
+503
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta fase ocupa pequenos sectores en pendientes cortas hacia vias de desague bien
 --
+504
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta unidad ocupa las vias de desague o de escurrimiento poco manifiestas que
 --
+505
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+Estas dos fases ocupan las vias de desague o de escurrimiento poco y/o bien manifiestos
 --
+506
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+507
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Esta unidad ocupa sectores planos del centro borde del area que bordean la depresion
 --
+508
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+509
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+510
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+511
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+512
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+513
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llw
+Esta fase de la serie Laborde esta representada por varias delineaciones pequenas en los
 --
+514
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lllws
 --
+515
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIc
+La serie La Belgica pura se presenta en unidades amplias de lomas suavemente
 --
+516
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Unidad de representacion minima que se ha cartografiado como una fase por pendiente
 --
+517
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llw
+Esta unidad se corresponde con vias de escurrimiento del agua superficial. Las unidades
 --
+518
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: llw
+Esta unidad se corresponde con vias de escurrimiento del agua superficial. Las unidades
 --
+519
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lllws
 --
+520
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+521
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta unidad ocupa la parte superior de las pendientes hacia el A?. Saladillo, en el sector
 --
+522
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+523
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+524
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+525
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+526
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 con acumulacion superficial
+Capacidad de Uso: IVec
 --
+527
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+528
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
+529
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+En esta unidad simple o consociacion, la Serie Laboulaye es la unica integrante y se
 --
+530
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Este complejo comprende sectores de muy buena aptitud agricola dentro del area. Se
 --
+531
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores
 Capacidad de Uso: IIIsc
 --
+532
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+533
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Al igual que las unidades anteriores estos complejos, de excelente aptitud agricola, se
 --
+534
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Este complejo de suelos conforma unidades amplias correspondiente a lomas
 --
+535
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lllsc
+Este complejo se corresponde fisiograficamente con areas planas a muy suavemente
 --
+536
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Los suelos que integran esta unidad estan relacionados con un relieve de lomas
 --
+537
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores
+Capacidad de Uso: VIws
 --
+538
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+539
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I-1
+Corresponden con areas de buen drenaje, de lomadas modeladas en materiales franco
 --
+540
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIe
+En las pendientes que conectan el area de lomadas con la Depresion de San Antonio -
 --
+541
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 drenada
 Capacidad de Uso: I-2
 --
+542
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 fase ligeramente erosionada
 Capacidad de Uso: IIew
 --
+543
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+544
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Fisiograficamente se vinculan con areas deprimidas que eventualmente pueden
 --
+545
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
 --
+546
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Es un ambiente relativamente plano y deprimido con pequenas ondulaciones
 --
+547
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos poco diferenciados
 Capacidad de Uso: VIsc
 --
+548
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 imperfectamente drenada y/o SAGRADA FAMILIA variante calcarea y suelos
 menores moderadamente salino sodicos
+Capacidad de Uso: IVws
 --
+549
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+550
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores fluviales y eolicos de texturas medias moderadamente desarrollados
 Capacidad de Uso: IVsc
 --
+551
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+552
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Esta unidad cartografica, constituida por una sola serie de suelos (consociacion), se la
 --
+553
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+554
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+555
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+556
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+557
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos e imperfectamente drenados y alcalinos
+Capacidad de Uso: VIes
 --
+558
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+559
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+560
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+561
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIes
 --
+562
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 imperfectamente drenados
+Capacidad de Uso: IVec
 --
+563
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+564
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+565
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidad cartografica de derrames fluviales con pendientes regionales muy suaves menor
 --
+566
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+567
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 erosionados
+Capacidad de Uso: IIIec
 --
+568
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de suelos menores arenosos y franco arenosos poco diferenciados
 Capacidad de Uso: IIIc
 --
+569
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+570
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+571
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidades cartograficas correspondientes a la Pampa Loessica Alta. La pendiente regional
 --
+572
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidad cartografica perteneciente a La Planicie Fluvio Eolica o Pampa Loessica Alta con
 --
+573
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Corresponde a un sector muy deprimido, relacionado directamente con la laguna La
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
+574
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+575
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+576
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+577
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+578
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+579
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+El complejo identificado con el simbolo LGa2 esta integrado por la serie La Gaviota como
 --
+580
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Con este simbolo se identifica a amplios derrames fluviales en el pie de monte, con
 --
+581
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Este complejo constituye lomadas suavemente onduladas en el pie de monte, proximas a
 --
+582
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 VIRA PITA
 Capacidad de Uso: VIec
 --
+583
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
+Este complejo abarca unidades individualmente pequenas. Corresponden a sectores
 --
+584
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIec
 --
+585
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+586
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+587
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+588
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Con este simbolo se senalan en las fotocartas algun sectores vinculados a los pozos o
 --
+589
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
+Con este simbolo se han cartografiado sectores den de las lagunas y charcas, que sufren
 --
+590
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+El paisaje de esta unidad se caracteriza por un relieve de lomas planas muy extendidas,
 --
+591
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIws
+Esta unidad esta vinculada a las terrazas bajas e inundables del Ao de Tegua. Los suelos
+--
+592
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVc
+Son vias de escurrimiento o desagues moderadamente manifiestas. Los suelos que la
+--
+593
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVc
+Esta asociacion corresponde a las vias de escurrimiento moderadamente manifiestas de
+--
+594
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVc
+Esta unidad cartografica se vincula a planos fluviales al pie de las sierras, en posiciones
+--
+595
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Estas tres unidades se encuentran vinculadas a bajos alargados o aureolas externas de
+--
+596
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+597
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Estas tres unidades se encuentran vinculadas a bajos alargados o aureolas externas de
+--
+598
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+599
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+600
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+601
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+602
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+603
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+604
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+605
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+--
+606
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+607
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+608
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVc
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+609
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 con alcalinidad desde superficie
 Capacidad de Uso: VIIes
 --
+610
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
+Unidades cartograficas amplias, con suelos mayoritariamente desarrollados sobre
 --
+611
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
+Unidad ubicada en las proximidades del paraje Los Mistoles, semejante a la unidad
 --
+612
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vlws
+El complejo La Pluma - Aguila Cautiva esta representado por bajos de forma alargada sin
 --
+613
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 sodicos subsuperficial
+Capacidad de Uso: IVsc
 --
+614
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos poco diferenciados de paleocauces
 Capacidad de Uso: VIws
 --
+615
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+616
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos poco diferenciados
 Capacidad de Uso: VIes
 --
+617
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+618
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+619
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+620
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores arenosos poco diferenciados en capas
 Capacidad de Uso: VIsc
 --
+621
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores franco arenosos poco diferenciados
 Capacidad de Uso: IVsc
 --
+622
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+623
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+624
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+625
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores alcalinos en profundidad
 Capacidad de Uso: IVws
 --
+626
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+627
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+628
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+629
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Ubicado en un pequeno sector de derrame, con materiales franco que dieron origen a un
 --
+630
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Con este simbolo se han cartografiado pequenos sectores, donde los suelos de esta serie
 --
+631
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+632
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Con este simbolo se designa la unidad comprendida dentro del paleocauce meandroso,
 --
+633
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+634
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+635
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Fisiograficamente, esta unidad esta relacionada con areas deprimidas, bajos y aureolas
 --
+636
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+637
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+638
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 aluviales cementados salino alcalinos
 Capacidad de Uso: VIws
 --
+639
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Las areas intermedias ligeramente concavas, ubicadas en las aureolas de las charcas y
 --
+640
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Con este simbolo se han cartografiado a pequenos sectores, donde los suelos de esta
 --
+641
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+En esta fase, los suelos de la serie La Remonta estan vinculados a pequenos bajos
 --
+642
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+En algunos sectores de las aureolas mas proximas al centro de las lagunas, los suelos de
 --
+643
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+Con este simbolo se han cartografiado, sectores que ocupan pequenas areas en la zona,
 --
+644
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Este complejo, de escasa representatividad se encuentra en algunos bajos alargados
 --
+645
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
+Esta unidad ocupa la parte central del A?. El Chato y algunos pozos de infiltracion. Esta
+--
+646
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIws
---
+647
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+648
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+La unidad identificada con este simbolo en los mapas, corresponde a vias de
 --
+649
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+650
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Esta unidad esta vinculada a las areas de derrame y antiguos cauces (paleocauces) que
 --
+651
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores
 Capacidad de Uso: IVws
 --
+652
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
 --
+653
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+654
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estas unidades estan vinculadas a planos deprimidos en contacto con areas de derrames
 --
+655
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estas unidades estan vinculadas a planos deprimidos en contacto con areas de derrames
 --
+656
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Estas tres unidades estan relacionadas a sectores deprimidos anegables parcialmente en
 --
+657
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
 --
+658
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Esta unidad cartografica se encuentra ubicada en sectores intermedios entre los derrames
 --
+659
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+660
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vllws
+Estos complejos de suelos indiferenciados en conjunto cubren unos pocos centenares de
 --
+661
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 en capas
 Capacidad de Uso: IVsc
 --
+662
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 salinidad subsuperficial
 Capacidad de Uso: VIws
 --
+663
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Estos complejos corresponden a los sectores francamente deprimidos de las margenes
 --
+664
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Estos complejos corresponden fisiograficamente a sectores moderadamente deprimidos o
 --
+665
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+666
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+667
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+668
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+669
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Dentro del area de influencia de la Consociacion Monte Alto se encuentran estos
 --
+670
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 con alcalinidad subsuperficial
 Capacidad de Uso: VIws
 --
+671
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+672
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+673
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalina y capas sin edafizacion con alcalinidad subsuperficial
 Capacidad de Uso: VIIws
 --
+674
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Fisiograficamente son areas intermedias vinculadas a ambientes aun mas deprimidos que
 --
+675
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+676
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+677
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+678
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+La unidad Lz1 tiene una escasa significacion areal. Las series que integran estos
 --
+679
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+680
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Este complejo corresponde con planos bajos tendidos en los cuales pequenas hoyas
 --
+681
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+682
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinos de superficie
 Capacidad de Uso: VIIws
 --
+683
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: Vw
+La serie La Leoncita es un suelo profundo, pesado e imperfectamente drenado,
+--
+684
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: Vw
+Esta asociacion de suelos esta representada por pequenas unidades. Son areas
+--
+685
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vw
 --
+686
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vw
+En ciertos sectores de los pozos de infiltracion, especialmente en la parte central, los
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: Vw
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: Vw
---
+687
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+La serie La Lagunita, es un suelo moderadamente bien drenado, oscuro, desarrollado
 --
+688
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
+Esta fase ocupa las lineas de escurrimiento o vias de desague que disectan las areas de
 --
+689
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+690
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+691
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+692
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+693
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+694
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+695
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
+Unidades cartograficas ubicadas al Oeste de Jesus Maria representadas por pendientes y
 --
+696
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
 --
+697
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
 --
+698
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+La serie Monte Alto se encuentra en un paisaje correspondiente a lomas extendidas con
 --
+699
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+700
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Esta asociacion trata de pequenas vias de escurrimiento o de avenamiento temporario
 --
+701
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+702
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinos cementados
+Capacidad de Uso: IVws
 --
+703
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+704
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+705
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+706
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+707
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+708
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
+--
+709
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores enterrados por sedimentacion reciente
+Capacidad de Uso: IVsc
 --
+710
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+711
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
 --
+712
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+713
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
 --
+714
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 petrocalcicos
+Capacidad de Uso: VIec
 --
+715
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Con este simbolo se han cartografiado algunos sectores correspondientes a los planos
 --
+716
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 inundable
 Capacidad de Uso: IIw
 --
+717
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Con este simbolo se han cartografiado sectores de pendientes cortas hacia las lineas de
 --
+718
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+719
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+720
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+721
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
 --
+722
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+En las lineas de escurrimiento o vias de desague poco manifiestos, el suelo Monte Buey,
 --
+723
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+724
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
 --
+725
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidades cartograficas muy difundidas en el valle de Avellaneda constituyendo las
 --
+726
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+727
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+728
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+729
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+730
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos recientes
+Capacidad de Uso: IVec
 --
+731
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+La serie MONTE CRISTO fue cartografiada al Norte del Rio Suquia y esta vinculada a un
 --
+732
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Los suelos de esta unidad son profundos y bien drenados y ocupan los sectores
 --
+733
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
+Esta asociacion ocupa las lineas de escurrimiento o vias de desague bien manifiestas que
 --
+734
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
+735
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de transicion
 Capacidad de Uso: IIIc
 --
+736
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+737
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+738
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIc
+Sectores amplios suavemente elevados formando parte de la pendiente regional
+--
+739
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIc
---
+740
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIsc
 --
+741
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Los suelos de esta unidad son profundos, bien drenados y ocupan los sectores
 --
+742
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
+Esta asociacion esta presente en las lineas de escurrimiento o via de desague bien
 --
+743
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+744
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+745
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+746
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 subsuperficial
+Capacidad de Uso: IVws
 --
+747
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+748
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
+Esta asociacion se localiza donde el relieve es plano a muy suavemente ondulado con
 --
+749
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+750
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+751
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+752
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+753
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 diferenciados
+Capacidad de Uso: VIes
 --
+754
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+755
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+756
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: I
+La unidad cartografiada con el simbolo MJ corresponde a la consociacion de Marcos
+--
+757
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
+758
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: I
+Esta fase ocupa dos pequenos sectores muy chatos en los planos altos, donde la
+--
+759
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: I
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: I
---
+760
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+761
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIs
 --
+762
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
 --
+763
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+764
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIs
 --
+765
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+766
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+767
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIe
+Esta unidad se trata de una consociacion de la serie Marcos Juarez en su fase por
 --
+768
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+769
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
 --
+770
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 derrame fluvial
 Capacidad de Uso: VIws
 --
+771
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
 --
+772
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 FRANCISCO DE ASIS y LA MASCOTA
 Capacidad de Uso: VIws
 --
+773
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+774
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+775
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+776
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de suelos menores cementados
 Capacidad de Uso: VIws
 --
+777
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+778
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIec
 --
+779
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Los suelos de esta unidad ocupan areas muy planas ubicadas al Sur de Santiago Temple
 --
+780
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos en capas
+Capacidad de Uso: IIIws
 --
+781
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 capas arenosas
 Capacidad de Uso: IVsc
 --
+782
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+783
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+784
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+785
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIlc
 --
+786
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+787
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
 --
+788
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+789
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+790
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores con alcalinidad y/o salinidad variable
+Capacidad de Uso: IVsc
 --
+791
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
 --
+792
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+793
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+794
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
+Este complejo de suelos muy inundables incluye tambien porcentajes no determinados de
 --
+795
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+La serie Noetinger es un suelo oscuro y bien drenado de las lomas casi planas (altos
 --
+796
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+797
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+798
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
 --
+799
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta unidad ocupa un pequeno sector de pendientes hacia los bajos del segundo escalon
 --
+800
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+801
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+802
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 con fuerte alcalinidad sodica de superficie
 Capacidad de Uso: VIws
 --
+803
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 valles
 Capacidad de Uso: VIIes
 --
+804
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIc
+La consociacion Oncativo esta vinculada a un relieve de lomas muy suavemente
+--
+805
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIc
---
+806
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+807
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+808
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+809
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+810
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+811
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
+Esta unidad esta vinculada a un paisaje de pendientes cortas hacia el curso del Arroyo
 --
+812
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Al Norte del Rio Ctalamochita (Tercero), en un relieve de lomas extendidas a planas, esta
 --
+813
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Esta unidad se caracteriza por un relieve ligeramente ondulado, donde estan presentes
 --
+814
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
+Esta unidad presenta un relieve ondulado a suavemente ondulado. Esta Serie es algo
 --
+815
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Unidades de relieve suavemente deprimido donde los suelos de la serie Olaeta, por la
 --
+816
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+Relieve ondulado, asociado con lomas medanosas con los suelos de la serie Olaeta, los
 --
+817
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinidad subsuperficial e imperfectamente drenados
 Capacidad de Uso: IVws
 --
+818
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 moderadamente alcalina en profundidad
 Capacidad de Uso: IVws
 --
+819
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalina en profundidad y OLAETA en fase moderadamente alcalina en profundidad
 Capacidad de Uso: IVws
 --
+820
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 anegable
 Capacidad de Uso: VIes
 --
+821
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 capas sin edafizacion con alcalinidad superficial
 Capacidad de Uso: VIws
 --
+822
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+823
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+824
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+825
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+826
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+827
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIes
 --
+828
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 diferenciados
+Capacidad de Uso: VIes
 --
+829
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
+Son pequenas unidades cartograficas de relieve convexo que se han podido separar
 --
+830
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
+Esta unidad cartografica comprende un pequeno sector de suelos "zonales"
 --
+831
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: lIc
+Con este simbolo se han cartografiado pendientes cortas hacia lineas de escurrimiento y
 --
+832
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+Estas dos fases se vinculan a las vias de desague que surcan las lomadas y presentan
 --
+833
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+Son vias de desague o vias de escurrimiento poco manifiestas, tienen un ancho medio de
 --
+834
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Ilw
 --
+835
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+836
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+837
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+838
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+839
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+840
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIw
+Estas unidades se encuentran en el centro-sur del area y se vinculan a los planos
 --
+841
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+842
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 TEGUA
 Capacidad de Uso: VIsc
 --
+843
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores profundos de valles interserranos y someros de laderas
+Capacidad de Uso: IVec
 --
+844
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores bien drenados
 Capacidad de Uso: IIIsc
 --
+845
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+846
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
 --
+847
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIII
 --
+848
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+849
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+850
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+851
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+852
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 RENANCO en fase moderadamente salina e ITALO en fase moderadamente salina y
 alcalina en profundidad
+Capacidad de Uso: VIIws
 --
+853
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 SECO; ESTANCIA EL GATO y suelos con distinto grado de desarrollo y textura variada
 Capacidad de Uso: VIes
 --
+854
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 variada
+Capacidad de Uso: IVsc
 --
+855
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+Este simbolo identifica a vias de desague o de escurrimiento temporario moderadamente
+--
+856
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVws
---
+857
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos salinos y sodicos
 Capacidad de Uso: VIsc
 --
+858
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 paleocauces
 Capacidad de Uso: VIsc
 --
+859
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinos
 Capacidad de Uso: IVsc
 --
+860
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 salino y sodicos
 Capacidad de Uso: VIIws
 --
+861
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 con dominio de suelos arenosos y alcalinos
 Capacidad de Uso: VIIws
 --
+862
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Lomas extendidas de amplia distribucion en la Carta, suavemente onduladas, con suelos
 --
+863
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+864
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+865
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+866
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Arroyo Quetru Leuvu
 Capacidad de Uso: VIIws
 --
+867
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIe
+Pendientes fuertemente inclinadas, con escurrimiento muy r pido y gradiente entre el 10 y
 --
+868
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 acidas y/o con alcalinidad subsuperficial
 Capacidad de Uso: IVsc
 --
+869
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Esta unidad se caracteriza por un patron muy intrincado de suelos (aluviales, thapticos,
 --
+870
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Ocupa sectores adyacentes al Rio Dulce, siendo menos inundable que la unidad anterior;
 --
+871
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 textura variada
 Capacidad de Uso: VIs/VIIs
 --
+872
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
+Este complejo aparece vinculado a un paisaje de pendientes cortas y pronunciadas entre
 --
+873
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIsc
+La unidad cartografica indicada con este simbolo corresponde a terrazas altas del Rio
 --
+874
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 fase salina en profundidad; IMPIRA; suelos enterrados y capas fluviales
 Capacidad de Uso: VIsc
 --
+875
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 contrastante
 Capacidad de Uso: IVsc
 --
+876
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinidad subsuperficial
 Capacidad de Uso: VIsc
 --
+877
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Con este simbolo se identifican en las fotocartas a un conjunto de suelos aluviales de un
 --
+878
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+879
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+880
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIe
 --
+881
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+882
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Este complejo ocupa una proporcion reducida ubicada en un paisaje de lomas muy
 --
+883
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+884
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+885
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Este complejo se encuentra en un relieve de planos extendidos, constituidos por suelos
 --
+886
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+887
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+888
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de suelos menores
 Capacidad de Uso: VIIws
 --
+889
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Unidad cartografica con dominio de la serie Rosales (alcalina subsuperficial con drenaje
 --
+890
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+891
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+892
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+893
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+894
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+895
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+896
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+897
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vlws
 --
+898
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+899
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vlws
 --
+900
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vlws
 --
+901
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
+Conforman ambientes de relieve subnormal o plano concavos con escurrimiento lento, el
 --
+902
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+903
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+904
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+905
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+906
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+907
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+908
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+909
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVs
 --
+910
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIes
+Con este simbolo se han cartografiado sectores de las partes bajas de las pendientes;
+--
+911
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVs
+--
+912
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVs
+Estas fases se manifiestan en las lineas de escurrimiento o vias de desague que
+--
+913
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVs
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVs
---
+914
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIes
---
+915
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVs
 --
+916
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Popopis
 Capacidad de Uso: VIIws
 --
+917
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Popopis
 Capacidad de Uso: VIII
 --
+918
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIs
+Con este simbolo aparecen cartografiada la consociacion SA representa la aparicion de
 --
+919
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
+920
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIs
+La asociacion SA3 corresponde a los ambientes de transicion entre los suelos limo-
+--
+921
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIs
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIs
---
+922
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+El paisaje dominante es de lomas suavemente onduladas muy extendidas, con
 --
+923
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+924
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+925
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 moderadamente alcalinos
 Capacidad de Uso: IIIc
 --
+926
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+Unidad asociada a lomas aplanadas, de origen loessico de textura franco limosa, con
 --
+927
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
 --
+928
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+929
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVw
 --
+930
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+931
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIws
 --
+932
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+933
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+934
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
+--
+935
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores fluviales
 Capacidad de Uso: IIIc
 --
+936
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+937
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIec
 --
+938
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+939
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+940
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Abarca una superficie de ubicada al N de la localidad de Colonia Prosperidad, en un
 --
+941
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVc
+Esta unidad cartografica esta integrada en su totalidad por la Serie Sebastian Elcano. Se
+--
+942
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVc
---
+943
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores
 Capacidad de Uso: IVc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IVsc
---
+944
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+945
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+946
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVsc
+--
+947
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
 --
+948
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVsc
+Esta asociacion identifica a lomas suavemente onduladas, en el area proxima al pie de
+--
+949
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVec
+--
+950
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVc
+Unidad cartografica ubicada al Este de la localidad de la Posta
 --
+951
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 moderadamente alcalinos
 Capacidad de Uso: VIws
 --
+952
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 semipermanentes
 Capacidad de Uso: VIIws
 --
+953
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: VIIws
+Estos complejos de suelos representan un grupo de unidades cartograficas ampliamente
+--
+954
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: VIIws
---
+955
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 de suelos menores cementados y/o erosionados severamente
 Capacidad de Uso: VIws
 --
+956
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 FRANCISCA
 Capacidad de Uso: VIIws
 --
+957
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 GRANDE; VILLA FRANCISCA y ACHALAY
 Capacidad de Uso: VIIws
 --
+958
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Esta unidad ocupa un sector de bajo alargado bien definido al norte de la localidad de
 --
+959
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ACHALAY
 Capacidad de Uso: VIIws
 --
+960
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+961
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+962
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+963
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIsc
 --
+964
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
 --
+965
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+966
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+967
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+968
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 --
+969
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVsc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+970
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalinos
+Capacidad de Uso: VIsc
 --
+971
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 CANDELARIA variante calcarea en fase ligeramente erosionada y moderadamente
+Capacidad de Uso: VIes
 --
+972
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIc
 --
+973
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIws
 --
+974
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+975
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
 --
+976
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIsc
 --
+977
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+978
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIws
 --
+979
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+980
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalina y LA VICTORIA en fase fuertemente alcalina
 Capacidad de Uso: VIIws
 --
+981
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 alcalina y WENCESLAO ESCALANTE
 Capacidad de Uso: VIIws
 --
+982
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
+Esta unidad cartografica se vincula a las depresiones y bajos de las nacientes del
 --
+983
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Este complejo corresponde a los planos bajos de las lagunas y la Canada Santa Lucia,
 --
+984
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIsc
+Este complejo se ubica a ambas margenes del Rio Ctalamochita (Tercero) y esta
 --
+985
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Rio Tercero y paleocauces
 Capacidad de Uso: IIIsc
 --
+986
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
+Son laderas escarpadas o colinadas del basamento cristalino granitico, con valles en
 --
+987
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
+Comprende un pequeno sector ubicado al NO de la meseta de San Francisco del Chanar,
 --
+988
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIes
+Ambiente de laderas muy escarpadas, aridas y semiaridas, donde se observan
 --
+989
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vllws
+Estos complejos de suelos indiferenciados, fisiograficamente corresponden con el area de
 --
+990
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
 --
+991
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 y otros suelos arenosos poco evolucionados
 Capacidad de Uso: IVes
 --
+992
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 SAUCES en fase inclinada; LOS HOYOS en fase moderadamente erosionada y suelos
 arenosos poco diferenciados con gravas
+Capacidad de Uso: VIes
 --
+993
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIsc
 --
+994
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores
 Capacidad de Uso: IVws
 --
+995
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+996
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIws
 --
+997
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+998
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores erosionados y con acumulacion
+Capacidad de Uso: IVec
 --
+999
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIw
+Las pendientes suaves y cortas que circundan a los ejes de avenamiento secundarios,
 --
+1000
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Este complejo se encuentra representado en bajos y aureolas internas de cubetas y
 --
+1001
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores moderadamente bien drenados con alcalinidad subsuperficial
 Capacidad de Uso: VIws
 --
+1002
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+1003
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 arenosos y arenosos
 Capacidad de Uso: IVsc
+Indices de Productividad: 27
 --
+1004
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVec
+Ocupa los sectores correspondientes a sectores convexos de los paleoalbardones y
 --
+1005
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
+Esta unidad se encuentra en los albardones formados por los paleocauces. Son suelos
 --
+1006
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIes
+Esta unidad esta bien representada por un area reducida de medanos estabilizados y
 --
+1007
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
+Son areas deprimidas proximas a lagunas o que corresponden a aureolas de lagunas. Las
 --
+1008
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+1009
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVsc
 --
+1010
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 suelos menores arenosos poco diferenciados y fases acumuladas de ambas Series
 Capacidad de Uso: IVsc
 --
+1011
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Estas unidades cartograficas pertenecen a los abanicos aluviales de relieves muy
 --
+1012
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidades cartograficas de reducida representatividad correspondientes a las terrazas
 --
+1013
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 franco limosos con alcalinidad sodica superficial
 Capacidad de Uso: VIsc
 --
+1014
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
---
+1015
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVws
 --
+1016
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IVws
+--
+1017
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: I
 --
+1018
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIe
+Con el simbolo VE2 han sido cartografiados los perfiles de la serie Villa Eloisa ubica dos
 --
+1019
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 erosionada
 Capacidad de Uso: IIe
 --
+1020
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 erosionada
 Capacidad de Uso: IIe
 --
+1021
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+1022
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIsc
+La Serie Villa Huidobro, es un suelo bien drenado vinculado a un paisaje de lomas planas,
 --
+1023
+NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Capacidad de Uso: IIIc
+Esta unidad esta vinculada a un paisaje de lomas planas a suavemente onduladas, con
+--
+1024
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
 --
-NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Capacidad de Uso: IIIc
---
+1025
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IVes
 --
+1026
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 subsuperficialmente
+Capacidad de Uso: IVsc
 --
+1027
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+La serie Villa del Rosario ocupa un relieve de lomas planas muy extendidas, con
 --
+1028
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: IIIc
+Unidad ubicada en los alrededores de la localidad de Luque. Ocupa un paisaje de lomas
 --
+1029
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: Vllws
 --
+1030
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+1031
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIws
 --
+1032
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 fase salina
 Capacidad de Uso: VIws
 --
+1033
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 menores hidromorficos salino sodicos
 Capacidad de Uso: VIIws
 --
+1034
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Capacidad de Uso: VIIsc
+Unidad de poca extension ubicada al SO de la localidad de Villa del Transito

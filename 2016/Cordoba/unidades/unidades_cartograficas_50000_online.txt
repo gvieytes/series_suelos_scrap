@@ -1186,13 +1186,6 @@ moderadamente erosionada de la misma serie en i cual los primeros cm. de la capa
 arable han sudo algo de desagregacion de su estructura por la accion erosiva del viento
 Por ultimo, en las partes mas concavas del relieve se encuentra la serie Leguizamon de
 mejor aptitud agricola
-Esta unidad cartografica presenta mucha similitud en el paisaje y en el contenido edafico
-con la inmediata del este identificada con el simbolo SA3 (Capacidad de Uso: IIs) pero los
-aspectos climaticos (sequias estivales con suelos de moderada a baja capacidad de
-retencion de humedad), erosion actual selectiva, y susceptibilidad moderada a la erosion
-eolica general limitan o restringen la eleccion de cultivos labrados. No obstante, son
-productivos y adoptando practicas de manejo y conservacion adecuadas producen
-buenos rendimientos en los cultivos
 La Cesira
 
 
@@ -7752,8 +7745,6 @@ paleocauce han depositado parcialmente material calcareo, conformando lo que le
 llamamos una "variante" calcarea de la misma serie modificando el pH de neutro a
 moderadamente alcalino. Limitantes: baja fertilidad, pH moderadamente alcalino por la
 presencia de carbonatos de calcio parcial y factibilidad de inundaciones de corta duracion
-Aptitud: Capacidad de Uso: en general en el limite agricola, no obstante en pequenos
-sectores sin la sedimentacion indicada el suelo normal tiene mejor aptitud
 Rio Primero
 
 
@@ -9494,7 +9485,6 @@ Complejo de Series EL SAUCE 60% y MANFREDI en fase moderadamente bien drenada
 40%
 Simbolo: ESa1
 Capacidad de Uso: IVws
-Capacidad de Uso: 66
 Esta unidad esta vinculada a un relieve deprimido, sujeto a anegamientos ocasionales de
 corta duracion pero que limitan la oportunidad del laboreo. El agua escurre hacia estos
 sectores donde partes mas elevadas y la capa freatica puede afectar ocasionalmente
@@ -11833,7 +11823,7 @@ Complejo de Series LA ARGENTINA 40%, SAGRADA FAMILIA (calcarea) en fase
 inundable 30% y ESTANCIA LA OLGA 30%
 Simbolo: LAr2
 Capacidad de Uso: VIws
-Indice de Productividad : 15
+Indice de Productividad: 15
 Unidades Cartograficas representadas esencialmente por un bajo estructural muy bien
 manifiesto y de relieve netamente concavo, severamente limitado por la presencia de
 alcalinidad sodica desde la superficie o inmediatamente por debajo de la capa arable
@@ -14271,8 +14261,6 @@ encuentra en una situacion en el relieve un tanto mas deprimida y con inundacion
 periodicas de moderada a larga duracion. Puede presentar inclusiones en pequenas
 concavidades que pueden ser consideradas como verdaderas lagunas semipermanentes:
 algunas mas importantes o mayores se han podido separar en las fotocartas
-Capacidad de Uso: Campos naturales de pastoreo en y/o eventualmente incorporacion de
-especies adaptadas a las limitantes indicadas
 Colonia La Providencia
 
 
@@ -22465,10 +22453,7 @@ Rio Primero
 968
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
-Complejo de Series SAGRADA FAMILIA 40%; SAGRADA FAMILIA en fase
-moderadamente alcalina en superficie 20%; LA QUINTA en fase moderadamente
-alcalina en profundidad 20% y COSTA SACATE en fase alcalina en profundidad
-20%
+Complejo de Series SAGRADA FAMILIA 40%; SAGRADA FAMILIA en fase moderadamente alcalina en superficie 20%; LA QUINTA en fase moderadamente alcalina en profundidad 20% y COSTA SACATE en fase alcalina en profundidad 20%
 Simbolo: SFl4
 Capacidad de Uso: IVsc
 Indice de Productividad: 34
@@ -23298,7 +23283,7 @@ Complejo de Series TANCACHA 50% y 50% de suelos fluviales y fluvio eolicos franc
 arenosos y arenosos
 Simbolo: Tch1
 Capacidad de Uso: IVsc
-Indices de Productividad: 27
+Indice de Productividad: 27
 Esta unidad esta desarrollada en su totalidad sobre materiales fluviales de terrazas altas y
 derrames del rio Tercero, donde la Serie Tancacha, de textura franco arenosa a franca
 ocupa un lugar preponderante. El resto de los suelos poseen texturas franco arenosas a
@@ -23672,7 +23657,7 @@ Complejo de Series VILLA FRANCISCA 40%; SAIRA 25%; LAGUNA BLAIZOT 25% y
 10% de suelos menores fluviales
 Simbolo: VFr
 Capacidad de Uso: VIIws
-Indice de Productividad 20
+Indice de Productividad: 20
 Son areas bajas anegables proximas a los derrames, compuesta por materiales
 originarios mixtos (fluvio eolicos) donde la serie Villa Francisca, que es imperfectamente
 drenada, con alcalinidad superficial y capa arable degradada ocupa una proporcion muy
@@ -23991,8 +23976,3 @@ Corresponde a terrazas bajas inundables y erosionadas con suelos arenosos
 El uso esta gravemente limitado, siendo apto como campos naturales de pastoreo o bien,
 para la implantacion de pasturas adaptadas a las rigurosas limitantes
 Arroyito
-
-
-
-
-1035

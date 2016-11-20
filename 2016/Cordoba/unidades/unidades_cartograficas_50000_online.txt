@@ -1,4 +1,4 @@
-Indice de Productividad:
+1
 NUEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 Complejo de Series ALTO ALEGRE 60%; LA PRIMAVERA 30% y 10% de suelos
@@ -9485,6 +9485,7 @@ Complejo de Series EL SAUCE 60% y MANFREDI en fase moderadamente bien drenada
 40%
 Simbolo: ESa1
 Capacidad de Uso: IVws
+Indice de Productividad:
 Esta unidad esta vinculada a un relieve deprimido, sujeto a anegamientos ocasionales de
 corta duracion pero que limitan la oportunidad del laboreo. El agua escurre hacia estos
 sectores donde partes mas elevadas y la capa freatica puede afectar ocasionalmente

@@ -1,0 +1,74 @@
+SERIES:
+Hay 3 series que no tienen tabla en el DOC
+
+008 - Achala VII
+038 - Calamuchita I
+039 - Calamuchita II
+
+
+
+
+================================================================================
+================================================================================
+
+
+
+
+UNIDADES: 
+Unidades que no suman 100 en el Porcentaje de sus series
+
+--------------------------------------------
+50%
+
+Simbolo: Co38
+Capacidad de Uso: VIIws
+Indice de Productividad: 4
+Descripcion: Complejo indeterminado
+Series: de suelos halo-hidromorficos con de banados
+Porcentajes: 50%
+--------------------------------------------
+
+--------------------------------------------
+90%
+
+Simbolo: DRj3
+Capacidad de Uso: IVsc
+Indice de Productividad: 37
+Descripcion: Complejo de Series
+Series: DIEGO DE ROJAS | DIEGO DE ROJAS (variante calcarea) en fase sodica en profundidad | ESTACION SANTA ROSA en fase con alcalinidad sodica en profundidad | ESTANCIA DON SANTIAGO
+Porcentajes: 30% | 20% | 20% | 20%
+--------------------------------------------
+
+--------------------------------------------
+90%
+
+Simbolo: ECt3
+Capacidad de Uso: VIws
+Indice de Productividad: 20
+Descripcion: Complejo de Series
+Series: ESTANCIA EL CAUTIVO | BENJAMIN GOULD | SANTA EUFEMIA | suelos menores salino-sodicos
+Porcentajes: 40% | 20% | 20% | 10%
+--------------------------------------------
+
+--------------------------------------------
+110%
+
+Simbolo: LMd10
+Capacidad de Uso: VIws
+Indice de Productividad: 30
+Descripcion: Complejo de Series
+Series: LOS MEDANITOS | LOS MEDANITOS en fase imperfectamente drenada | OLAETA en fase moderadamente erosionada por viento | BENJAMIN GOULD
+Porcentajes: 40% | 20% | 30% | 20%
+--------------------------------------------
+
+--------------------------------------------
+90%
+
+Simbolo: McII2
+Capacidad de Uso: IIIc
+Indice de Productividad: 63
+Descripcion: Complejo de Series
+Series: LAS MERCEDES II | BARRANCA YACO en fase muy poco inundable y acumulada | suelos menores
+Porcentajes: 40% | 30% | 20%
+--------------------------------------------
+

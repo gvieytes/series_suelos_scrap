@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SAGRADA FAMILIA | SAGRADA FAMILIA en fase moderadamente alcalina en superficie | LA QUINTA en fase moderadamente alcalina en profundidad | COSTA SACATE en fase alcalina en profundidad
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: SFl4
+Capacidad de Uso: IVsc
+Indice de Productividad: 34

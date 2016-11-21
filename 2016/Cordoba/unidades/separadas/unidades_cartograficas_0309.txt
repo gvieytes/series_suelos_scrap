@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: DIEGO DE ROJAS en fase moderadamente salina | DIEGO DE ROJAS en fase imperfectamente drenada calcarea | ESTANCIA DON SANTIAGO | suelos menores salinos sodicos
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: DRj4
+Capacidad de Uso: VIws
+Indice de Productividad: 19

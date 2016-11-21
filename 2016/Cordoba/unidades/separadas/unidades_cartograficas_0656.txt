@@ -1,0 +1,6 @@
+Descripcion: Lagunas semipermanentes
+Series:
+Porcentajes:
+Simbolo: Lsp
+Capacidad de Uso: VIII
+Indice de Productividad: 2

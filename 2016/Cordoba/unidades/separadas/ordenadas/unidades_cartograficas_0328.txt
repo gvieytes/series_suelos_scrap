@@ -1,0 +1,6 @@
+Simbolo: EAM2
+Capacidad de Uso: VIes
+Indice de Productividad: 32
+Descripcion: Complejo indiferenciado de Series
+Series: ESTANCIA ANA MARIA en fase severamente erosionada | LAS GAMAS en fase erosionada y/o acumulada | LAS PENAS SUR en fase erosionada y/o acumulada y suelos menores en capas con lechos arenosos y/o con sedimentacion esteril
+Porcentajes:

@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase moderadamente inclinadas de Series
+Series: ALTO GRANDE | MACHA | LOS POZOS
+Porcentajes: 40% | 30% | 30%
+Simbolo: AGr1
+Capacidad de Uso: IVec
+Indice de Productividad: 67

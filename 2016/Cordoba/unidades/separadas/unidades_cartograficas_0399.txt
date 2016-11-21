@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL SILENCIO | LA ANGELITA | suelos menores inundables moderadamente alcalinos en capas arcillosas
+Porcentajes: 50% | 20% | 30%
+Simbolo: ESi1
+Capacidad de Uso: VIIws
+Indice de Productividad: 5

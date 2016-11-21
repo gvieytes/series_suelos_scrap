@@ -1,0 +1,6 @@
+Simbolo: Cdl8
+Capacidad de Uso: IVec
+Indice de Productividad: 58
+Descripcion: Consociacion
+Series: CANDELARIA en fase moderadamente inclinada y ligeramente erosionada por agua
+Porcentajes:

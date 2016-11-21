@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MATORRALES en fase sodica en profundidad | COSTA SACATE | IMPIRA | COLONIA VIDELA
+Porcentajes: 40% | 20% | 30% | 10%
+Simbolo: Mt9
+Capacidad de Uso: VIws
+Indice de Productividad: 44

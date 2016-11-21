@@ -1,0 +1,6 @@
+Simbolo: Bag1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 42
+Descripcion: Asociacion en fase muy poco anegable y acumulada de Series
+Series: BAIGORRIA | OLAETA
+Porcentajes: 50% | 50%

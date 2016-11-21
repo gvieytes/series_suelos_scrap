@@ -1,0 +1,6 @@
+Simbolo: McI2
+Capacidad de Uso: IIIec
+Indice de Productividad: 65
+Descripcion: Asociacion en fase moderadamente inclinada de Series
+Series: LAS MERCEDES I | MACHA en fase ligeramente erosionada | LAS MERCEDES II | LOS POZOS
+Porcentajes: 40% | 20% | 20% | 20%

@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase muy inundable de Series
+Series: ROSALES en fase salina | ESTANCIA LA ALICIA | suelos menores fuertemente salino sodicos
+Porcentajes: 40% | 30% | 30%
+Simbolo: Rs26
+Capacidad de Uso: VIIws
+Indice de Productividad: 5

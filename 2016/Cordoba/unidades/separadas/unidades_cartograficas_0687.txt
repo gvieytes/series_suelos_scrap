@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA LAGUNITA en fase poco anegable
+Porcentajes:
+Simbolo: LLg1
+Capacidad de Uso: IIIws
+Indice de Productividad: 62

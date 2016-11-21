@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SACANTA | ONCATIVO | suelos menores moderadamente alcalinos
+Porcentajes: 40% | 40% | 20%
+Simbolo: Sc3
+Capacidad de Uso: IIIc
+Indice de Productividad: 66

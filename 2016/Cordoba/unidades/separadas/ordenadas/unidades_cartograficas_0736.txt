@@ -1,0 +1,6 @@
+Simbolo: Mch2
+Capacidad de Uso: IVec
+Indice de Productividad: 65
+Descripcion: Asociacion en fase moderadamente inclinada de Series
+Series: MACHA | ALTO GRANDE en fase ligeramente erosionada | LOS POZOS
+Porcentajes: 50% | 25% | 25%

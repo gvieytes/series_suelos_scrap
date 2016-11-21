@@ -1,0 +1,6 @@
+Simbolo: TRP2
+Capacidad de Uso: IVsc
+Indice de Productividad: 65
+Descripcion: Complejo de Series
+Series: TERRAZAS DEL RIO PINTO | LA EMILIA | LOS COMETIERRA
+Porcentajes: 50% | 30% | 20%

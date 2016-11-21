@@ -1,0 +1,6 @@
+Simbolo: ESt2
+Capacidad de Uso: IVec
+Indice de Productividad: 59
+Descripcion: Asociacion de Series
+Series: EL SALTO | CORRALITO en fase ligera a moderadamente erosionada
+Porcentajes: 50% | 50%

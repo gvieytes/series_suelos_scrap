@@ -1,0 +1,6 @@
+Simbolo: ACo14
+Capacidad de Uso: VIec
+Indice de Productividad: 16
+Descripcion: Complejo en fase moderadamente erosionada por agua y acumulada de Series
+Series: ALPA CORRAL | ALPA CORRAL en fase severamente erosionada por agua | ELENA en fase severamente erosionada y acumulada | suelos menores aluviales
+Porcentajes: 40% | 20% | 20% | 20%

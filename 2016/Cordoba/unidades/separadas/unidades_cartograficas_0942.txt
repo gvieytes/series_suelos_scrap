@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SEBASTIAN ELCANO | LAS MACITAS | suelos menores
+Porcentajes: 55% | 35% | 10%
+Simbolo: SEc2
+Capacidad de Uso: IVc
+Indice de Productividad: 61

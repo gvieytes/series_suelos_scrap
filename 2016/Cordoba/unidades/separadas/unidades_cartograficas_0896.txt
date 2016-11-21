@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ROSALES en fase anegable | ESTANCIA DON FRANCISCO en fase anegable | LA CESIRA | suelos menores.
+Porcentajes: 30% | 20% | 30% | 20%
+Simbolo: Rs16
+Capacidad de Uso: Vlws
+Indice de Productividad: 11

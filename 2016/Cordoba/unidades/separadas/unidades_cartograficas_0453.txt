@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: HANSEN en fase moderadamente bien drenada | CAFFERATA | suelos menores salino alcalinos
+Porcentajes: 30% | 50% | 20%
+Simbolo: Ha9
+Capacidad de Uso: IVws
+Indice de Productividad:

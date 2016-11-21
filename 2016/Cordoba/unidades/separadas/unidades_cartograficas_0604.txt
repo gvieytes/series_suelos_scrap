@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS MEDANITOS | LOS MEDANITOS en fase imperfectamente drenada | OLAETA en fase moderadamente erosionada por viento | BENJAMIN GOULD
+Porcentajes: 40% | 20% | 30% | 20%
+Simbolo: LMd10
+Capacidad de Uso: VIws
+Indice de Productividad: 30

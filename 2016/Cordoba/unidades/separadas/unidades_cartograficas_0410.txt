@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ETRURIA | MONTE ALTO en fase moderadamente alcalina en profundidad | LA VICTORIA
+Porcentajes: 50% | 25% | 25%
+Simbolo: Et1
+Capacidad de Uso: VIws
+Indice de Productividad: 26

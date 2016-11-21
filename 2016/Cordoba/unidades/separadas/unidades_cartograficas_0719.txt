@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE BUEY | MONTE BUEY en fase moderadamente bien drenada | MONTE BUEY en fase ligeramente salina en profundidad
+Porcentajes: 50% | 40% | 10%
+Simbolo: MB5
+Capacidad de Uso: IIw
+Indice de Productividad: 85

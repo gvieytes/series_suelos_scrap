@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: CALAMUCHITA IV | HUERTA VIEJA | EL CHACAY | rocas aflorantes y suelos fluviales
+Porcentajes:
+Simbolo: CoN
+Capacidad de Uso: VIsc
+Indice de Productividad: 11

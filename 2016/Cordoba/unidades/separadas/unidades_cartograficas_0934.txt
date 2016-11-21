@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SOCONCHO | SOCONCHO en fase acumulada | suelos menores fluviales
+Porcentajes: 40% | 40% | 20%
+Simbolo: Scn1
+Capacidad de Uso: IIIc
+Indice de Productividad: 66

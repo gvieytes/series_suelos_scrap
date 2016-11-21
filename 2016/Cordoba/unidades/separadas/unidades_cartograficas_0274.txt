@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: CANALS en fase bien drenada y muy poco inundable
+Porcentajes:
+Simbolo: Cs3
+Capacidad de Uso: IIIsc
+Indice de Productividad: 61

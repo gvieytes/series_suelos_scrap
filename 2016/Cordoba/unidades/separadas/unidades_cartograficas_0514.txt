@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA BELGICA
+Porcentajes:
+Simbolo: LBg
+Capacidad de Uso: lIc
+Indice de Productividad: 90

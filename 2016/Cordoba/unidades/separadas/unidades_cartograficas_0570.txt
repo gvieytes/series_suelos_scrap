@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LA EMILIA | BARRANCA YACO
+Porcentajes: 70% | 30%
+Simbolo: LEm8
+Capacidad de Uso: IIIc
+Indice de Productividad: 68

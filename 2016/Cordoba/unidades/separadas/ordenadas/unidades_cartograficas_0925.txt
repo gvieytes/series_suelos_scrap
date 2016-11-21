@@ -1,0 +1,6 @@
+Simbolo: Sc4
+Capacidad de Uso: IIIsc
+Indice de Productividad: 76
+Descripcion: Complejo de Series
+Series: SACANTA | MATORRALES | COSTA SACATE
+Porcentajes: 50% | 30% | 20%

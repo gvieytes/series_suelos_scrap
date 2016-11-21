@@ -1,0 +1,6 @@
+Simbolo: Sch7
+Capacidad de Uso: VIws
+Indice de Productividad: 4
+Descripcion: Complejo en fase inundable de Series
+Series: SCHIFFNER | COLONIA MENDIGUREN | CHILIBROSTE
+Porcentajes: 40% | 40% | 20%

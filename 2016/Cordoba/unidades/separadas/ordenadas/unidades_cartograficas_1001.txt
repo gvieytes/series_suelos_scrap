@@ -1,0 +1,6 @@
+Simbolo: Tc3
+Capacidad de Uso: VIIws
+Indice de Productividad: 8
+Descripcion: Complejo de Series
+Series: TICINO | TICINO en fase salina y sodica de superficie | LA RESISTENCIA en fase salina y sodica de superficie
+Porcentajes: 30% | 40% | 30%

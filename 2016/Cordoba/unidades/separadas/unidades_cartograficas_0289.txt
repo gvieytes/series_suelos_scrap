@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: COLONIA VIDELA
+Porcentajes:
+Simbolo: CVa
+Capacidad de Uso: Vw
+Indice de Productividad: 32

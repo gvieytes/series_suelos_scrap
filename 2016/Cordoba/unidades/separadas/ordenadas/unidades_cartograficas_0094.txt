@@ -1,0 +1,6 @@
+Simbolo: Bag11
+Capacidad de Uso: IVes
+Indice de Productividad: 32
+Descripcion: Asociacion de Series
+Series: BAIGORRIA en fase ligeramente erosionada por agua | LA AGUADA en fase moderada a severamente erosionada
+Porcentajes: 50% | 50%

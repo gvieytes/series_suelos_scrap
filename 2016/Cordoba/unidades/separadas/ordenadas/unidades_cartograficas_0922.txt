@@ -1,0 +1,6 @@
+Simbolo: Sc1
+Capacidad de Uso: IVws
+Indice de Productividad: 52
+Descripcion: Complejo de Series
+Series: SACANTA | SACANTA en fase moderadamente salina en profundidad | LA PLAYOSA | suelos menores
+Porcentajes: 40% | 30% | 20% | 10%

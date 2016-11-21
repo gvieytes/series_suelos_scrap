@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: BARRANCA YACO | JESUS MARIA | EL CORTIJO
+Porcentajes: 50% | 30% | 20%
+Simbolo: BYc4
+Capacidad de Uso: IIIc
+Indice de Productividad: 70

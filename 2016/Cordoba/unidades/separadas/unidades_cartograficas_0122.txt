@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: BENJAMIN GOULD | LOS OLMOS | LOS MEDANITOS | MANANTIALES
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: BGd7
+Capacidad de Uso: VIws
+Indice de Productividad: 22

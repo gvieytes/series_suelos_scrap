@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: MARCOS JUAREZ
+Porcentajes:
+Simbolo: MJ
+Capacidad de Uso: I
+Indice de Productividad: 90

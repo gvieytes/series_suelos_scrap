@@ -1,0 +1,6 @@
+Descripcion: Mallines
+Series:
+Porcentajes:
+Simbolo: Mll
+Capacidad de Uso: VIII
+Indice de Productividad: 1

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ROSALES | ESTANCIA LA ALICIA | LEGUIZAMON
+Porcentajes: 50% | 30% | 20%
+Simbolo: Rs8
+Capacidad de Uso: IVws
+Indice de Productividad: 36

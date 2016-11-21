@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ESTANCIA EL MANZANO | LA PAZ | ESTACION MACHA
+Porcentajes: 40% | 40% | 20%
+Simbolo: EMz2
+Capacidad de Uso: VIes
+Indice de Productividad: 10

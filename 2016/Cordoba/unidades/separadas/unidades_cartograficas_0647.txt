@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA REYNA | LA FRANCIA | COLONIA VIDELA
+Porcentajes: 40% | 30% | 30%
+Simbolo: LRy
+Capacidad de Uso: IVws
+Indice de Productividad: 45

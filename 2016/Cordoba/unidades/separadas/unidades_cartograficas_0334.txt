@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: EL ARANADO | VILLA SAN ESTEBAN | PARAJE LOS ZORROS | EL PUMA
+Porcentajes:
+Simbolo: EAr
+Capacidad de Uso: VIsc
+Indice de Productividad: 43

@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos loessicos y afloramientos de rocas cristalinas
+Porcentajes:
+Simbolo: CoL
+Capacidad de Uso: VIIes
+Indice de Productividad: 8

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LABORDE | LABORDE en fase ligeramente salina
+Porcentajes: 60% | 40%
+Simbolo: Lb5
+Capacidad de Uso: IIIsc
+Indice de Productividad: 67

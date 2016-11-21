@@ -1,0 +1,6 @@
+Simbolo: Ip2
+Capacidad de Uso: VIIws
+Indice de Productividad: 14
+Descripcion: Complejo de Series
+Series: IMPIRA | IMPIRA en fase alcalina de superficie | suelos menores
+Porcentajes: 50% | 40% | 10%

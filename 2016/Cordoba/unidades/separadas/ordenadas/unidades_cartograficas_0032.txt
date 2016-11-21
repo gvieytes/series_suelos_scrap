@@ -1,0 +1,6 @@
+Simbolo: Aft2
+Capacidad de Uso: IVec
+Indice de Productividad: 61
+Descripcion: Asociacion de Series
+Series: ALMAFUERTE | SOCONCHO | GENERAL SAVIO II en fase ligeramente erosionada por agua
+Porcentajes: 50% | 35% | 15%

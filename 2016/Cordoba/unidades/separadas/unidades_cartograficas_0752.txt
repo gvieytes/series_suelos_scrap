@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase moderada a ligeramente erosionada por viento de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | suelos menores arenosos poco diferenciados
+Porcentajes: 40% | 40% | 20%
+Simbolo: MGa5
+Capacidad de Uso: VIes
+Indice de Productividad: 38

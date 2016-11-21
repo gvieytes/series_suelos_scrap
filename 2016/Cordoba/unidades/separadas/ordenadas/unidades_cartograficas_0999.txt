@@ -1,0 +1,6 @@
+Simbolo: Tc1
+Capacidad de Uso: VIIws
+Indice de Productividad: 9
+Descripcion: Complejo en fase fuertemente alcalina de Series
+Series: TICINO | CAYUQUEO
+Porcentajes: 60% | 40%

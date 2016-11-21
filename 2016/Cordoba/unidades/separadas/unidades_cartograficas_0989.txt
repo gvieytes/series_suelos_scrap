@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SAN PABLO | EL CRUCE | LA SENTENCIA II en fase ligera a moderadamente erosionada
+Porcentajes: 40% | 30% | 30%
+Simbolo: SPb1
+Capacidad de Uso: VIes
+Indice de Productividad: 52

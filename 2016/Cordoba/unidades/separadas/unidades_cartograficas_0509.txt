@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LABORDE en fase moderadamente bien drenada | LOS MEDANITOS | suelos menores
+Porcentajes: 45% | 45% | 10%
+Simbolo: Lb8
+Capacidad de Uso: IIIws
+Indice de Productividad: 52

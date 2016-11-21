@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL PINO | EL PINO en fase moderadamente bien drenada | LA PLAYOSA | suelos menores fluviales
+Porcentajes: 40% | 30% | 20% | 10%
+Simbolo: EPi1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 60

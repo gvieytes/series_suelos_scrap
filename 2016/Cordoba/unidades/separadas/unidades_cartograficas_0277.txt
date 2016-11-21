@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: CANALS | ESTANCIA DON FRANCISCO | LEGUIZAMON
+Porcentajes: 60% | 20% | 20%
+Simbolo: Cs6
+Capacidad de Uso: IIIsc
+Indice de Productividad: 48

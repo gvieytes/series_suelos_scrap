@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase ligera a moderadamente erosionada por agua de Series
+Series: ELENA | SAN BARTOLOME
+Porcentajes: 60% | 40%
+Simbolo: El3
+Capacidad de Uso: IVec
+Indice de Productividad: 56

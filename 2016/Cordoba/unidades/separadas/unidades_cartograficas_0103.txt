@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BALDISSERA en fase moderadamente bien drenada y muy poco inundable
+Porcentajes:
+Simbolo: Bds3
+Capacidad de Uso: llw
+Indice de Productividad: 77

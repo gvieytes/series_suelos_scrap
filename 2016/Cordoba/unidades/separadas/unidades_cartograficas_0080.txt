@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: BALLESTEROS en fase alcalina en profundidad | LAS PLAYAS | LA LAGUNITA en fase alcalina en profundidad | suelos menores arenosos de paleocauces
+Porcentajes: 30% | 20% | 30% | 20%
+Simbolo: Ba8
+Capacidad de Uso: IVsc
+Indice de Productividad: 56

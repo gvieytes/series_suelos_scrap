@@ -1,0 +1,6 @@
+Simbolo: SFr3
+Capacidad de Uso: IIIsc
+Indice de Productividad: 60
+Descripcion: Complejo de Series
+Series: SAN FRANCISCO en fase moderadamente bien drenada | LUXARDO | DEVOTO | DEVOTO en fase sodica en profundidad
+Porcentajes: 40% | 20% | 20% | 20%

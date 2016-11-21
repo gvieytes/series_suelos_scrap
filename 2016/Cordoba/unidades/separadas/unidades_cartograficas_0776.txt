@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE RALO | LAS BAJADAS en fase acumulada y ligeramente erosionada
+Porcentajes: 60% | 40%
+Simbolo: MRl1
+Capacidad de Uso: IVec
+Indice de Productividad: 68

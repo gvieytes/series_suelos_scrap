@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: EL SALTO en fase ligeramente erosionada por agua | EL SALTO en fase moderadamente erosionada | EL SALTO en fase severamente erosionada
+Porcentajes: 40% | 40% | 20%
+Simbolo: ESt4
+Capacidad de Uso: IVec
+Indice de Productividad: 48

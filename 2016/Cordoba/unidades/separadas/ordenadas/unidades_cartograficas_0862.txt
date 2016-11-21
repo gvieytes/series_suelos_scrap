@@ -1,0 +1,6 @@
+Simbolo: PzL2
+Capacidad de Uso: IIIsc
+Indice de Productividad: 61
+Descripcion: Asociacion de Series
+Series: POZO DE LA LOMA | LA QUINTA | SAGRADA FAMILIA variante calcarea
+Porcentajes: 40% | 40% | 20%

@@ -1,0 +1,6 @@
+Simbolo: CSA4
+Capacidad de Uso: VIIws
+Indice de Productividad: 4
+Descripcion: Complejo en fase inundable de Series
+Series: CANAL SAN ANTONIO | SCHIFFNER
+Porcentajes: 70% | 30%

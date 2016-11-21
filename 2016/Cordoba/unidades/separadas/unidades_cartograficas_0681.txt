@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Laguna Larga de suelos en capas y suelos enterrados salinos y alcalinos de superficie
+Porcentajes:
+Simbolo: LL
+Capacidad de Uso: VIIws
+Indice de Productividad: 3

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ONCATIVO | BALLESTEROS | VILLA MARIA
+Porcentajes: 50% | 30% | 20%
+Simbolo: Ot8
+Capacidad de Uso: IIIsc
+Indice de Productividad: 72

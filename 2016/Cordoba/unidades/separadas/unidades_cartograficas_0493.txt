@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA AGUADA en fase moderada a severamente erosionada
+Porcentajes:
+Simbolo: LAg1
+Capacidad de Uso: IVe
+Indice de Productividad: 30

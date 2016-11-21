@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ONCATIVO | MANFREDI en fase moderadamente bien drenada
+Porcentajes: 70% | 30%
+Simbolo: Ot1
+Capacidad de Uso: IIIc
+Indice de Productividad: 66

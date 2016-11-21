@@ -1,0 +1,6 @@
+Simbolo: Clt5
+Capacidad de Uso: VIec
+Indice de Productividad: 39
+Descripcion: Asociacion de Series
+Series: CORRALITO en fase moderada a severamente erosionada (zanjas y surcos) | LAS BAJADAS en fase severamente erosionada (zanjas) | EL SALTO en fase moderadamente erosionada
+Porcentajes: 50% | 30% | 20%

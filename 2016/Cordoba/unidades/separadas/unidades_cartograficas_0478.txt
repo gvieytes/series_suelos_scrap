@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: IMPIRA (dominante) | IMPIRA en fase sodica de superficie | MATORRALES en fase moderadamente sodica en profundidad y suelos en capas arenosas salinas y alcalinas de superficie
+Porcentajes:
+Simbolo: Ip1
+Capacidad de Uso: VIws
+Indice de Productividad: 23

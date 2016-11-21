@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL ALBION | WENCESLAO ESCALANTE | ESTANCIA VIEJA
+Porcentajes: 40% | 30% | 30%
+Simbolo: EAb1
+Capacidad de Uso: VIIws
+Indice de Productividad: 7

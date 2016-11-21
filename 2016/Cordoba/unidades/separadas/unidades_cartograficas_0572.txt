@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: La Felipa de suelos hidromorficos salino alcalinos
+Porcentajes:
+Simbolo: LFpa
+Capacidad de Uso: VIIws
+Indice de Productividad: 2

@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LA AGUADA en fase ligera a moderadamente erosionada por agua | LA INVERNADA en fase acumulada y moderada a severamente erosionada por agua
+Porcentajes: 60% | 40%
+Simbolo: LAg3
+Capacidad de Uso: IVec
+Indice de Productividad: 39

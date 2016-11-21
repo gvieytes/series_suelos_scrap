@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SILVIO PELLICO | SILVIO PELLICO en fase moderadamente salina en profundidad | SILVIO PELLICO en fase moderadamente bien drenada | SACANTA
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: SPe
+Capacidad de Uso: IIIsc
+Indice de Productividad: 63

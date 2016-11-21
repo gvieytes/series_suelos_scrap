@@ -1,0 +1,6 @@
+Simbolo: PRS1
+Capacidad de Uso: IVsc
+Indice de Productividad: 42
+Descripcion: Complejo de Series
+Series: PASO DEL RIO SECO | ESTANCIA EL GATO | ESTANCIA LA TORRE | suelos menores con distinto grado de desarrollo y textura variada
+Porcentajes: 30% | 30% | 20% | 20%

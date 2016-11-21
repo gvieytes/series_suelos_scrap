@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA SENTENCIA II | PUERTA DE HIERRO I | LA SENTENCIA I | suelos menores fluviales en capas
+Porcentajes: 40% | 30% | 20% | 10%
+Simbolo: LStII1
+Capacidad de Uso: IIIc
+Indice de Productividad: 64

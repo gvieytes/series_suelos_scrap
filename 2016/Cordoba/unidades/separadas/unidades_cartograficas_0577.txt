@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA FRANCIA en fase salina | ESTANCIA LA LEONA | EL PUMA en fase salina y sodica en profundidad
+Porcentajes: 50% | 20% | 30%
+Simbolo: LFr4
+Capacidad de Uso: VIws
+Indice de Productividad: 25

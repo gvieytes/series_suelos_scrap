@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: NOETINGER
+Porcentajes:
+Simbolo: Ntg
+Capacidad de Uso: IIc
+Indice de Productividad: 90

@@ -1,0 +1,6 @@
+Simbolo: Sc
+Capacidad de Uso: IIIc
+Indice de Productividad: 80
+Descripcion: Consociacion
+Series: SACANTA
+Porcentajes:

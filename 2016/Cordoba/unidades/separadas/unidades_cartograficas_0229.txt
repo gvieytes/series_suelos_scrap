@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Rio Carcarana 1 en fase anegable
+Porcentajes:
+Simbolo: Co134
+Capacidad de Uso: VIIws
+Indice de Productividad:

@@ -1,0 +1,6 @@
+Simbolo: GC9
+Capacidad de Uso: IVes
+Indice de Productividad: 42
+Descripcion: Asociacion de Series
+Series: GENERAL CABRERA en fase moderadamente erosionada por agua | GENERAL DEHEZA en fase moderadamente erosionada por agua
+Porcentajes: 50% | 50%

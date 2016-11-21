@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: CANALS
+Porcentajes:
+Simbolo: Cs
+Capacidad de Uso: IIIsc
+Indice de Productividad: 45

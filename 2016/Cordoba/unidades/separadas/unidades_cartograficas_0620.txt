@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA PARA | ESTANCIA YOLANDA | suelos menores franco arenosos poco diferenciados
+Porcentajes: 50% | 30% | 20%
+Simbolo: LPr2
+Capacidad de Uso: IVsc
+Indice de Productividad: 43

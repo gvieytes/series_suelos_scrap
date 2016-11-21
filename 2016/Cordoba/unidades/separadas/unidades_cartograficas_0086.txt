@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase inclinada y ligera a moderadamente erosionada de Series
+Series: BAIGORRIA | OLAETA
+Porcentajes: 70% | 30%
+Simbolo: Bag3
+Capacidad de Uso: IVes
+Indice de Productividad: 35

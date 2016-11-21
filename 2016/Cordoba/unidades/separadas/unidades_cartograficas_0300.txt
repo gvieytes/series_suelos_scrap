@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: CHILIBROSTE | SANTA ELENA | EL EMBRUJO
+Porcentajes: 40% | 30% | 30%
+Simbolo: Chb9
+Capacidad de Uso: VIws
+Indice de Productividad: 9

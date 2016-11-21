@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: CHRISTOPHERSEN
+Porcentajes:
+Simbolo: Cr
+Capacidad de Uso: VIIws
+Indice de Productividad:

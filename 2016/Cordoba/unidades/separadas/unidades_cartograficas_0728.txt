@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LAS MERCEDES II | LAS MERCEDES II en fase moderadamente bien drenada | LAS MERCEDES I acumulada
+Porcentajes: 50% | 30% | 20%
+Simbolo: McII3
+Capacidad de Uso: IVws
+Indice de Productividad: 64

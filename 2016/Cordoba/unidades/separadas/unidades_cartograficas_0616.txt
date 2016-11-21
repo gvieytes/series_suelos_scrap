@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase moderada a fuertemente inclinada de Series
+Series: LOS POZOS | CAMINO REAL | LOS POZOS variante calcarea
+Porcentajes: 50% | 25% | 25%
+Simbolo: LPo1
+Capacidad de Uso: VIes
+Indice de Productividad: 50

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ALTO GRANDE variante calcarea moderada a severamente erosionada | MACHA en fase moderadamente inclinada | MACHA variante calcarea moderadamente erosionada
+Porcentajes: 60% | 20% | 20%
+Simbolo: AGr2
+Capacidad de Uso: VIes
+Indice de Productividad: 46

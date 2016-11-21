@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Monte Lena de suelos salinos y alcalinos en areas deprimidas de derrame fluvial
+Porcentajes:
+Simbolo: ML
+Capacidad de Uso: VIws
+Indice de Productividad: 38

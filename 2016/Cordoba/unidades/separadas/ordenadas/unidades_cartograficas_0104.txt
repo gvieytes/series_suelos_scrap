@@ -1,0 +1,6 @@
+Simbolo: Bds4
+Capacidad de Uso: llw
+Indice de Productividad: 83
+Descripcion: Asociacion de Series
+Series: BALDISSERA en fase moderadamente bien drenada | NAMUNCURA
+Porcentajes: 70% | 30%

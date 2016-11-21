@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: EL TACO | SEBASTIAN ELCANO en fase moderadamente inclinada
+Porcentajes: 60% | 40%
+Simbolo: ETc1
+Capacidad de Uso: IVec
+Indice de Productividad: 60

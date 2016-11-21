@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SACANTA en fase salina en profundidad | IMPIRA e IMPIRA en fase sodica de superficie
+Porcentajes: 40% | 40% | 20%
+Simbolo: Sc8
+Capacidad de Uso: VIws
+Indice de Productividad: 28

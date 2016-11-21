@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: OLAETA en fase ligera a moderadamente erosionada por viento
+Porcentajes:
+Simbolo: Ota16
+Capacidad de Uso: IVes
+Indice de Productividad: 36

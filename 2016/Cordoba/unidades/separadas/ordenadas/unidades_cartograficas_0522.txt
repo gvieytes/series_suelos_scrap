@@ -1,0 +1,6 @@
+Simbolo: LBj2
+Capacidad de Uso: IVec
+Indice de Productividad: 57
+Descripcion: Asociacion en fase moderadamente erosionada y acumulada de Series
+Series: LAS BAJADAS | CORRALITO | suelos menores
+Porcentajes: 60% | 30% | 10%

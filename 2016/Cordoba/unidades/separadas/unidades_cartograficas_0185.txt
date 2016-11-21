@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos aluviales arenosos poco desarrollados y en capas vinculados a paleocauces
+Porcentajes:
+Simbolo: Co16
+Capacidad de Uso: VIIsc
+Indice de Productividad: 15

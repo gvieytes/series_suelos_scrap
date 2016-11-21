@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: DIEGO DE ROJAS | DIEGO DE ROJAS (variante calcarea) en fase sodica en profundidad | ESTACION SANTA ROSA en fase con alcalinidad sodica en profundidad | ESTANCIA DON SANTIAGO
+Porcentajes: 30% | 20% | 20% | 20%
+Simbolo: DRj3
+Capacidad de Uso: IVsc
+Indice de Productividad: 37

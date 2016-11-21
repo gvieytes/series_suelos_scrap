@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: EL CANTOR en fase moderadamente bien drenada
+Porcentajes:
+Simbolo: ECn3
+Capacidad de Uso: llws
+Indice de Productividad: 77

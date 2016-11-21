@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ALEJO LEDESMA | LEGUIZAMON
+Porcentajes: 80% | 20%
+Simbolo: ALd7
+Capacidad de Uso: IIc
+Indice de Productividad: 75

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS MEDANITOS | ESTANCIA DON FRANCISCO | CANALS en fase moderadamente bien drenada | LEGUIZAMON
+Porcentajes: 50% | 20% | 15% | 15%
+Simbolo: LMd4
+Capacidad de Uso: IVws
+Indice de Productividad: 41

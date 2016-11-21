@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LABORDE en fase ligeramente inclinada
+Porcentajes:
+Simbolo: Lb1
+Capacidad de Uso: IIc
+Indice de Productividad: 73

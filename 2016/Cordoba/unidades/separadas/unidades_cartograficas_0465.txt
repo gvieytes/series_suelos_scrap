@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: HUINCA RENANCO | ITALO | PINCEN
+Porcentajes: 55% | 30% | 15%
+Simbolo: HR3
+Capacidad de Uso: IVes
+Indice de Productividad: 28

@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: Reduccion de Serie OLAETA y capas arenosas ligeramente acidas y/o con alcalinidad subsuperficial
+Porcentajes:
+Simbolo: Rd
+Capacidad de Uso: IVsc
+Indice de Productividad: 31

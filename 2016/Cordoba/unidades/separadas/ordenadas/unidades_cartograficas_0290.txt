@@ -1,0 +1,6 @@
+Simbolo: CVa1
+Capacidad de Uso: Vws
+Indice de Productividad: 37
+Descripcion: Complejo de Series
+Series: COLONIA VIDELA en fase moderadamente alcalina | HERNANDO en fase moderadamente bien drenada
+Porcentajes: 60% | 40%

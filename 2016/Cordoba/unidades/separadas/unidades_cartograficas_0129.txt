@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase suave a moderadamente inclinada de Series
+Series: BARRANCA YACO | LAS MERCEDES I | LA EMILIA | RUTA 60
+Porcentajes: 40% | 20% | 20% | 6020%
+Simbolo: BYc2
+Capacidad de Uso: IIIes
+Indice de Productividad: 56

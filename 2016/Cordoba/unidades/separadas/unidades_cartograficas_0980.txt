@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: SAN JOSE | LOS TAMARINDOS en fase fuertemente alcalina | WENCESLAO ESCALANTE
+Porcentajes:
+Simbolo: SJo1
+Capacidad de Uso: VIIws
+Indice de Productividad: 5

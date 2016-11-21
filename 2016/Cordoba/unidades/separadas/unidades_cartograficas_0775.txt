@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MORRISON | CANADA LA CRUZ | EL SAUCE | suelos menores cementados
+Porcentajes: 30% | 25% | 20% | 25%
+Simbolo: Mo4
+Capacidad de Uso: VIws
+Indice de Productividad: 38

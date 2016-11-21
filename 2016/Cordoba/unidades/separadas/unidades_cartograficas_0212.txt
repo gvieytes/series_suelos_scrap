@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos halo-hidromorficos muy inundables
+Porcentajes:
+Simbolo: Co43
+Capacidad de Uso: VIIws
+Indice de Productividad: 5

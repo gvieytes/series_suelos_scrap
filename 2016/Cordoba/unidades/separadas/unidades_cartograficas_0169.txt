@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: CONSTITUCION | LA EMILIA | EL ALCALDE
+Porcentajes: 60% | 20% | 20%
+Simbolo: Cnt1
+Capacidad de Uso: IIIc
+Indice de Productividad: 64

@@ -1,0 +1,6 @@
+Simbolo: GC
+Capacidad de Uso: IIIsc
+Indice de Productividad: 52
+Descripcion: Consociacion
+Series: GENERAL CABRERA
+Porcentajes:

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: OLAETA en fase moderadamente erosionada | OLAETA en fase severamente erosionada | ESTANCIA LAS MERCEDES
+Porcentajes: 40% | 20% | 40%
+Simbolo: Ota11
+Capacidad de Uso: VIes
+Indice de Productividad: 30

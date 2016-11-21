@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ORDONEZ en fase ligeramente inclinada
+Porcentajes:
+Simbolo: Oz1
+Capacidad de Uso: lIc
+Indice de Productividad: 85

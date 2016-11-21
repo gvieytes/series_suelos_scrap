@@ -1,0 +1,6 @@
+Simbolo: AsB
+Capacidad de Uso: IIIec
+Indice de Productividad: 48
+Descripcion: Asociacion de Series
+Series: SANTA ROSA I | SANTA ROSA II | SANTA ROSA III | CALAMUCHITA IV | SAN IGNACIO IV
+Porcentajes:

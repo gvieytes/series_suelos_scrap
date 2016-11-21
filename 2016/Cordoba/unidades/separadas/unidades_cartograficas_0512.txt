@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LABORDE en fase moderadamente bien drenada y ligeramente inundable
+Porcentajes:
+Simbolo: Lb11
+Capacidad de Uso: llw
+Indice de Productividad: 69

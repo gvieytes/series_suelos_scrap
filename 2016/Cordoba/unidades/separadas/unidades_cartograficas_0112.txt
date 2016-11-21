@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: BELEN en fase acumulada | SINSACATE en fase ligeramente erosionada por agua
+Porcentajes: 60% | 40%
+Simbolo: Be2
+Capacidad de Uso: IIIec
+Indice de Productividad: 58

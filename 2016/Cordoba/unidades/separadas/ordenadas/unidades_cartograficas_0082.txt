@@ -1,0 +1,6 @@
+Simbolo: Ba10
+Capacidad de Uso: IIIsc
+Indice de Productividad: 65
+Descripcion: Complejo de Series
+Series: BALLESTEROS | BALLESTEROS en fase moderadamente bien drenada | AUSONIA
+Porcentajes: 40% | 30% | 30%

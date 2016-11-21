@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: SAN PABLO | ASCOCHINGA | PUERTA DE HIERRO II y otros suelos arenosos poco evolucionados
+Porcentajes:
+Simbolo: SPb2
+Capacidad de Uso: IVes
+Indice de Productividad: 42

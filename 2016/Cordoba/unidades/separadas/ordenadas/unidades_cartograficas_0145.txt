@@ -1,0 +1,6 @@
+Simbolo: Cdl4
+Capacidad de Uso: IIIc
+Indice de Productividad: 64
+Descripcion: Asociacion de Series
+Series: CANDELARIA | LOS MISTOLES | LA EMILIA
+Porcentajes: 50% | 20% | 30%

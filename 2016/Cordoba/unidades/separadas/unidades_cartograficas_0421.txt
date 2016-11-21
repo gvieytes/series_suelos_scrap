@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: EL YARARA
+Porcentajes:
+Simbolo: EYr
+Capacidad de Uso: IIIes
+Indice de Productividad: 22

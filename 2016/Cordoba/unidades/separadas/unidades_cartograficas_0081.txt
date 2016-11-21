@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: BALLESTEROS | BALLESTEROS en fase salina y sodica en profundidad | VILLA MARIA | VILLA MARIA en fase salina sodica en profundidad
+Porcentajes: 20% | 30% | 30% | 20%
+Simbolo: Ba9
+Capacidad de Uso: IIIsc
+Indice de Productividad: 59

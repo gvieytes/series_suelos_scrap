@@ -1,0 +1,6 @@
+Simbolo: Clt2
+Capacidad de Uso: IVec
+Indice de Productividad: 58
+Descripcion: Asociacion de Series
+Series: CORRALITO en fase ligeramente erosionada (surcos) | CORRALITO en fase moderadamente erosionada | EL SALTO en fase moderadamente erosionada
+Porcentajes: 40% | 40% | 20%

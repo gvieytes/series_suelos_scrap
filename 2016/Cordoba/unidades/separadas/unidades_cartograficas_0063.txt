@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: COLONIA MORENO | LA FLORIDA | LA FLORIDA en fase moderadamente alcalina
+Porcentajes: 60% | 20% | 20%
+Simbolo: ATg
+Capacidad de Uso: IVws
+Indice de Productividad: 25

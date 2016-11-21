@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de abanicos aluviales distales con suelos franco arenosos poco diferenciados y loessicos zonales, parcialmente sepultados por sedimentacion reciente
+Porcentajes:
+Simbolo: Co45
+Capacidad de Uso: VIsc
+Indice de Productividad: 32

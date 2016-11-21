@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA CARLOTA
+Porcentajes:
+Simbolo: LCt
+Capacidad de Uso: IIIsc
+Indice de Productividad: 43

@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Arroyo El Tala y otros
+Porcentajes:
+Simbolo: AT
+Capacidad de Uso: IVsc
+Indice de Productividad: 51

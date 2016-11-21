@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase engrosada de Series
+Series: NOETINGER | EL CHAJA | ACHALAY
+Porcentajes: 20% | 40% | 40%
+Simbolo: Ntg6
+Capacidad de Uso: VIws
+Indice de Productividad: 52

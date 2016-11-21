@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase ligera a moderadamente inclinada de Series
+Series: ALTO GRANDE en fase ligeramente erosionada | JESUS MARIA | SANTA CATALINA
+Porcentajes: 40% | 30% | 30%
+Simbolo: AGr6
+Capacidad de Uso: IIIec
+Indice de Productividad: 64

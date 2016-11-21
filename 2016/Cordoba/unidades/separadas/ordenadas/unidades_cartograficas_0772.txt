@@ -1,0 +1,6 @@
+Simbolo: Mo1
+Capacidad de Uso: VIIws
+Indice de Productividad: 13
+Descripcion: Complejo en fase anegable de Series
+Series: MORRISON | SAN FRANCISCO DE ASIS | suelos menores degradados salinos y sodicos
+Porcentajes: 20% | 50% | 30%

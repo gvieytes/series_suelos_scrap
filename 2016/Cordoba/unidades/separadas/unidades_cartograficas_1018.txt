@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: VILLA ELOISA en fase suavemente ondulada y ligera a moderadamente erosionada
+Porcentajes:
+Simbolo: VE3
+Capacidad de Uso: IIe
+Indice de Productividad:

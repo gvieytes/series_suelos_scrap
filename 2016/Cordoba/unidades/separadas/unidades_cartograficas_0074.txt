@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BALLESTEROS en fase ligeramente inclinada
+Porcentajes:
+Simbolo: Ba2
+Capacidad de Uso: IIc
+Indice de Productividad: 85

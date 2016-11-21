@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ASSUNTA | B. GOULD | MANANTIALES
+Porcentajes: 40% | 30% | 30%
+Simbolo: As1
+Capacidad de Uso: VIws
+Indice de Productividad: 16

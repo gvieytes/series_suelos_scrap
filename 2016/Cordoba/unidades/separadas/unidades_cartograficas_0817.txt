@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: OLAETA | LA VICTORIA | OLAETA en fase moderadamente alcalina en profundidad
+Porcentajes:
+Simbolo: Ota5
+Capacidad de Uso: IVws
+Indice de Productividad: 26

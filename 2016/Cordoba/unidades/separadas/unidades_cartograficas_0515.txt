@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA BELGICA en fase ligeramente inclinada
+Porcentajes:
+Simbolo: LBg1
+Capacidad de Uso: IIc
+Indice de Productividad: 90

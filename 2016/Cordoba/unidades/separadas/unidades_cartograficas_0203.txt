@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: El Divisadero | Los Molles | suelos esqueleticos y rocosos de areas muy escarpadas sobre rocas metamorficas de la Sierra de las Penas.
+Porcentajes:
+Simbolo: Co34
+Capacidad de Uso: VIIes
+Indice de Productividad: 7

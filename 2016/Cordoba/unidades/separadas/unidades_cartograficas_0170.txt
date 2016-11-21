@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LAS PLAYAS en fase bien drenada | LA LAGUNITA | GENERAL PAZ
+Porcentajes: 30% | 40% | 30%
+Simbolo: Co1
+Capacidad de Uso: IVws
+Indice de Productividad: 65

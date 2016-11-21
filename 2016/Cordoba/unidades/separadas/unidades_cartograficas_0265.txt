@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: COLONIA PROGRESO | LABORDE en fase moderadamente bien drenada
+Porcentajes: 60% | 40%
+Simbolo: CPg7
+Capacidad de Uso: IVws
+Indice de Productividad: 48

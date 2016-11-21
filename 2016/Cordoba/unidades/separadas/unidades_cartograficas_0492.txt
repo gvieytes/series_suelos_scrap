@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA AGUADA | LA INVERNADA
+Porcentajes: 60% | 40%
+Simbolo: LAg
+Capacidad de Uso: IIIec
+Indice de Productividad: 46

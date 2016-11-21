@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SACANTA | SACANTA en fase moderadamente salina en profundidad | MATORRALES en fase moderadamente bien drenada y/o salina en profundidad
+Porcentajes: 30% | 30% | 40%
+Simbolo: Sc11
+Capacidad de Uso: IIIsc
+Indice de Productividad: 56

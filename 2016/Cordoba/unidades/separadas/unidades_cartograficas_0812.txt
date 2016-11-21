@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: OLAETA
+Porcentajes:
+Simbolo: Ota
+Capacidad de Uso: IIIsc
+Indice de Productividad: 38

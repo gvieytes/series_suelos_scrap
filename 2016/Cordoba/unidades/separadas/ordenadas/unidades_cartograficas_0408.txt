@@ -1,0 +1,6 @@
+Simbolo: ESt3
+Capacidad de Uso: VIec
+Indice de Productividad: 34
+Descripcion: Asociacion de Series
+Series: EL SALTO en fase moderadamente erosionada por agua | EL SALTO en fase severamente erosionada por agua | EL SALTO en fase gravemente erosionada por agua
+Porcentajes: 40% | 30% | 30%

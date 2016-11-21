@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA FRANCIA | CANADA LA CRUZ | ESTANCIA LA LEONA | LAGUNA LAS LIEBRES
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: LFr2
+Capacidad de Uso: VIws
+Indice de Productividad: 27

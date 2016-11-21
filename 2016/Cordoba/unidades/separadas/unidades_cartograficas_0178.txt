@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MARCOS JUAREZ en fase moderadamente bien drenada | EL CHAJA | ACHALAY
+Porcentajes: 30% | 50% | 20%
+Simbolo: Co9
+Capacidad de Uso: IVws
+Indice de Productividad: 64

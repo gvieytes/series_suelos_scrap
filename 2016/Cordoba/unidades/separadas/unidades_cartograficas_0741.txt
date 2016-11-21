@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MANFREDI | LA REYNA
+Porcentajes: 50% | 50%
+Simbolo: Mf1
+Capacidad de Uso: IIIw
+Indice de Productividad: 71

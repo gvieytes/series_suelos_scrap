@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: en fase poco anegable de Series EL PUMA | EL CHAJA | MONTE GRANDE
+Porcentajes:
+Simbolo: EPm1
+Capacidad de Uso: IIIw
+Indice de Productividad: 50

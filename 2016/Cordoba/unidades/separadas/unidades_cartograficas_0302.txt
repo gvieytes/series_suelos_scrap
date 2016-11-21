@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase anegable de Series
+Series: CHILIBROSTE | SANTA ELENA | EL EMBRUJO
+Porcentajes: 40% | 20% | 40%
+Simbolo: Chb11
+Capacidad de Uso: VIIws
+Indice de Productividad: 5

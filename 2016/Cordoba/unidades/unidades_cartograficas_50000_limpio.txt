@@ -210,7 +210,7 @@ Capacidad de Uso: VIes
 Indice de Productividad: 46
 Descripcion: Complejo en fase moderadamente erosionada de Series
 Series: ALTO GRANDE | RUTA 60 | CANADA DE RIO PINTO | suelos menores fluviales erosionados
-Porcentajes: 40% | 6020% | 20% | 20%
+Porcentajes: 40% | 20% | 20% | 20%
 Simbolo: AGr3
 Capacidad de Uso: VIes
 Indice de Productividad: 39
@@ -774,7 +774,7 @@ Capacidad de Uso: IIIec
 Indice de Productividad: 66
 Descripcion: Complejo en fase suave a moderadamente inclinada de Series
 Series: BARRANCA YACO | LAS MERCEDES I | LA EMILIA | RUTA 60
-Porcentajes: 40% | 20% | 20% | 6020%
+Porcentajes: 40% | 20% | 20% | 20%
 Simbolo: BYc2
 Capacidad de Uso: IIIes
 Indice de Productividad: 56

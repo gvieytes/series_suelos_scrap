@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Capilla de los Remedios de suelos fluviales en capas
+Porcentajes:
+Simbolo: CRe
+Capacidad de Uso: IVsc
+Indice de Productividad: 28

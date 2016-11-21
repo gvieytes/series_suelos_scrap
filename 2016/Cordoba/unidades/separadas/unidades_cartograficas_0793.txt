@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Nacientes del Saladillo
+Porcentajes:
+Simbolo: NSd
+Capacidad de Uso: VIII
+Indice de Productividad: 2

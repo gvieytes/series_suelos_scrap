@@ -1,0 +1,6 @@
+Simbolo: LRi
+Capacidad de Uso: VIws
+Indice de Productividad: 16
+Descripcion: Complejo de Series
+Series: LA RINCONADA | POZO VERDE | LOS AIBALES | EL ZAPALLAR | suelos menores
+Porcentajes: 20% | 25% | 20% | 25% | 10%

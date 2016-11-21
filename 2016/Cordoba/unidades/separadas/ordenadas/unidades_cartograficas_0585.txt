@@ -1,0 +1,6 @@
+Simbolo: LI4
+Capacidad de Uso: IIIec
+Indice de Productividad: 75
+Descripcion: Asociacion de Series
+Series: LAS ISLETILLAS | HERNANDO en fase ligeramente erosionada y parcialmente acumulada
+Porcentajes: 60% | 40%

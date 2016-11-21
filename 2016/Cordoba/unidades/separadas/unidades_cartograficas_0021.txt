@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ALPA CORRAL en fase moderadamente erosionada | SAN BARTOLOME | ELENA
+Porcentajes: 70% | 15% | 15%
+Simbolo: ACo8
+Capacidad de Uso: IVec
+Indice de Productividad: 56

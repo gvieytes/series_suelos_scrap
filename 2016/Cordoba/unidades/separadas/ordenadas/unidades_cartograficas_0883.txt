@@ -1,0 +1,6 @@
+Simbolo: Rs3
+Capacidad de Uso: IVws
+Indice de Productividad: 33
+Descripcion: Complejo de Series
+Series: ROSALES en fase salina | LAS MARINAS | ESTANCIA LA ALICIA en fase salina
+Porcentajes: 50% | 30% | 20%

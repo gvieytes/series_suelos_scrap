@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ONCATIVO en fase ligeramente erosionada
+Porcentajes:
+Simbolo: Ot7
+Capacidad de Uso: IIIec
+Indice de Productividad: 59

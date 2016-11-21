@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MACHA | MACHA en fase ligera a moderadamente inclinada
+Porcentajes: 60% | 40%
+Simbolo: Mch1
+Capacidad de Uso: IIIec
+Indice de Productividad: 69

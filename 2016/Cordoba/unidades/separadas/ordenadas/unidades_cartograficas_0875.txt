@@ -1,0 +1,6 @@
+Simbolo: RIV
+Capacidad de Uso: VIsc
+Indice de Productividad: 19
+Descripcion: Complejo indeterminado
+Series: Rio Cuarto de capas arenosas acidas y capas arenosas con alcalinidad subsuperficial
+Porcentajes:

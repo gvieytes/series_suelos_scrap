@@ -1,0 +1,6 @@
+Simbolo: Rs11
+Capacidad de Uso: IVws
+Indice de Productividad: 24
+Descripcion: Complejo en fase ligeramente anegable de Series
+Series: ROSALES | ROSALES en fase salina | VILLA ROSSI | suelos menores
+Porcentajes: 50% | 20% | 20% | 10%

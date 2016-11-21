@@ -1,0 +1,6 @@
+Simbolo: BGd4
+Capacidad de Uso: Vllws
+Indice de Productividad: 8
+Descripcion: Complejo de Series
+Series: BENJAMIN GOULD en fase fuertemente alcalina | LA CESIRA en fase fuertemente alcalina | suelos menores salino alcalinos
+Porcentajes: 40% | 40% | 20%

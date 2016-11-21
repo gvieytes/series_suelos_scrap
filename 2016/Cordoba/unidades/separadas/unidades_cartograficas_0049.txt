@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ALEJO LEDESMA | ALEJO LEDESMA en fase engrosada | CANALS
+Porcentajes: 40% | 30% | 30%
+Simbolo: ALd8
+Capacidad de Uso: IIIsc
+Indice de Productividad: 65

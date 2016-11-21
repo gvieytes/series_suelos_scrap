@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: AGUILA CAUTIVA | COLONIA PROGRESO | BALDISSERA en fase moderadamente bien drenada
+Porcentajes: 30% | 20% | 50%
+Simbolo: ACt
+Capacidad de Uso: lllws
+Indice de Productividad: 65

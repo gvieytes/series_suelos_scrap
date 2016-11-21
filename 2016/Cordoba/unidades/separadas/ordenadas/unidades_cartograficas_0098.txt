@@ -1,0 +1,6 @@
+Simbolo: Bch2
+Capacidad de Uso: IIIsc
+Indice de Productividad: 55
+Descripcion: Complejo de Series
+Series: BUCHARDO | CORONEL CHARLONE | ITALO | PINCEN
+Porcentajes: 30% | 30% | 20% | 20%

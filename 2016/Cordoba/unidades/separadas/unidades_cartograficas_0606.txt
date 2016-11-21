@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS MEDANITOS | ESTANCIA DON FRANCISCO | OLAETA
+Porcentajes: 20% | 40% | 40%
+Simbolo: LMd12
+Capacidad de Uso: IVws
+Indice de Productividad: 31

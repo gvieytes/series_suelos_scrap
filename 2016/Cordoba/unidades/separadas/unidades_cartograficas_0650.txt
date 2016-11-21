@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA SARA | ALTO ALEGRE | LA PRIMAVERA | suelos menores
+Porcentajes: 40% | 30% | 20% | 10%
+Simbolo: LS1
+Capacidad de Uso: IVws
+Indice de Productividad: 34

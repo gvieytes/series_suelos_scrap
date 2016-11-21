@@ -1,0 +1,6 @@
+Simbolo: HR12
+Capacidad de Uso: VIes
+Indice de Productividad: 12
+Descripcion: Complejo de Series
+Series: HUINCA RENANCO | HUINCA RENANCO en fase severamente erosionada | HUINCA RENANCO en fase acumulada
+Porcentajes: 40% | 40% | 20%

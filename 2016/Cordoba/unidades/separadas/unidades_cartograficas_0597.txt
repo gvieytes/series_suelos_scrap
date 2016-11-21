@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS MEDANITOS | ESTANCIA DON FRANCISCO | BENJAMIN GOULD
+Porcentajes: 60% | 25% | 15%
+Simbolo: LMd3
+Capacidad de Uso: IVws
+Indice de Productividad: 30

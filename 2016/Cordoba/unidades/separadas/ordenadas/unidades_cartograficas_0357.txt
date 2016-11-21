@@ -1,0 +1,6 @@
+Simbolo: EJu
+Capacidad de Uso: VIII
+Indice de Productividad: 2
+Descripcion: Complejo de Series
+Series: EL JUME | EL SALADILLO en fase muy inundable | LA ANGELITA en fase muy inundable | suelos menores
+Porcentajes: 40% | 20% | 30% | 10%

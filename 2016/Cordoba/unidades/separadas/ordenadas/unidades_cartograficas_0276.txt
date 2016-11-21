@@ -1,0 +1,6 @@
+Simbolo: Cs5
+Capacidad de Uso: IIIsc
+Indice de Productividad: 52
+Descripcion: Asociacion de Series
+Series: CANALS | LEGUIZAMON
+Porcentajes: 80% | 20%

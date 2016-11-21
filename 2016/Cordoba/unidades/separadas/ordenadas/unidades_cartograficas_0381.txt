@@ -1,0 +1,6 @@
+Simbolo: EPm2
+Capacidad de Uso: IVws
+Indice de Productividad: 48
+Descripcion: Complejo de Series
+Series: EL PUMA | EL EMBRUJO | EL CHAJA | ACHALAY
+Porcentajes: 30% | 30% | 30% | 10%

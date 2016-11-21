@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LAZZARINO | SAN GREGORIO | AARON CASTELLANOS
+Porcentajes: 50% | 30% | 20%
+Simbolo: Lz2
+Capacidad de Uso: IVws
+Indice de Productividad:

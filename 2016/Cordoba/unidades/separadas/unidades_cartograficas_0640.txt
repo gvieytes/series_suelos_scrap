@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA REMONTA en fase engrosada
+Porcentajes:
+Simbolo: LRe2
+Capacidad de Uso: IVws
+Indice de Productividad: 23

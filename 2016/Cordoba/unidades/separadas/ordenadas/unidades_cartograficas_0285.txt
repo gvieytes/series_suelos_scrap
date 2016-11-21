@@ -1,0 +1,6 @@
+Simbolo: Ct2
+Capacidad de Uso: VIws
+Indice de Productividad: 17
+Descripcion: Complejo de Series
+Series: CINTRA | SANTA ELENA | CHILIBROSTE
+Porcentajes: 30% | 35% | 35%

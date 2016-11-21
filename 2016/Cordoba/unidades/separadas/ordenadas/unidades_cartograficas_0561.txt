@@ -1,0 +1,6 @@
+Simbolo: LCt10
+Capacidad de Uso: IVec
+Indice de Productividad: 34
+Descripcion: Complejo de Series
+Series: LA CARLOTA | OLAETA en fase moderadamente erosionada por viento | ESTANCIA DON FRANCISCO | suelos menores imperfectamente drenados
+Porcentajes: 40% | 30% | 20% | 10%

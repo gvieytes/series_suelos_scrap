@@ -1,0 +1,6 @@
+Simbolo: Cdl2
+Capacidad de Uso: IVec
+Indice de Productividad: 61
+Descripcion: Asociacion de Series
+Series: CANDELARIA en fase moderadamente inclinada | CANDELARIA enfase ligeramente erosionada | CANDELARIA en fase moderadamente erosionada por agua
+Porcentajes: 40% | 30% | 30%

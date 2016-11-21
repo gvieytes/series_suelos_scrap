@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BAIGORRIA en fase ligera a moderadamente erosionada (surcos)
+Porcentajes:
+Simbolo: Bag4
+Capacidad de Uso: IIIes
+Indice de Productividad: 45

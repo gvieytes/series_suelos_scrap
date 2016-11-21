@@ -1,0 +1,6 @@
+Descripcion: Paleocauces
+Series:
+Porcentajes:
+Simbolo: Plc
+Capacidad de Uso: VIII
+Indice de Productividad:

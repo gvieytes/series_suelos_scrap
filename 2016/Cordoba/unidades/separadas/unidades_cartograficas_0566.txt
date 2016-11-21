@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligera a moderadamente inclinada de Series
+Series: LA EMILIA | BARRANCA YACO | CANDELARIA | suelos menores ligeramente erosionados
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: LEm4
+Capacidad de Uso: IIIec
+Indice de Productividad: 63

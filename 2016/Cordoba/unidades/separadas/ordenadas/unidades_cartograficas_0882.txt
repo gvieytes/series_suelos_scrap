@@ -1,0 +1,6 @@
+Simbolo: Rs2
+Capacidad de Uso: IVws
+Indice de Productividad: 40
+Descripcion: Complejo de Series
+Series: ROSALES | ROSALES en fase salina | LAS MARINAS
+Porcentajes: 30% | 40% | 30%

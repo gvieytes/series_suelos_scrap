@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: RODEO VIEJO en fase moderada a severamente erosionada
+Porcentajes:
+Simbolo: RoV1
+Capacidad de Uso: IVec
+Indice de Productividad: 30

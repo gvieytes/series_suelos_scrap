@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LUXARDO | CRISPI | QUEBRACHO HERRADO | ESTANCIA DONA LUCIA
+Porcentajes: 30% | 20% | 20% | 30%
+Simbolo: Lx1
+Capacidad de Uso: VIws
+Indice de Productividad: 34

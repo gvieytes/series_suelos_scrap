@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LAS BAJADAS en fase moderadamente erosionada (surcos) | CORRALITO en fase moderadamente erosionada | suelos menores
+Porcentajes: 50% | 40% | 10%
+Simbolo: LBj6
+Capacidad de Uso: IVec
+Indice de Productividad: 57

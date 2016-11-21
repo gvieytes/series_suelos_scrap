@@ -1,0 +1,6 @@
+Simbolo: LMc1
+Capacidad de Uso: IVc
+Indice de Productividad: 70
+Descripcion: Asociacion de Series
+Series: LAS MACITAS | EL RODEO
+Porcentajes: 60% | 40%

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL CANTOR en fase moderadamente bien drenada | AGUILA CAUTIVA | LA PLUMA
+Porcentajes: 60% | 20% | 20%
+Simbolo: ECn2
+Capacidad de Uso: IVws
+Indice de Productividad:

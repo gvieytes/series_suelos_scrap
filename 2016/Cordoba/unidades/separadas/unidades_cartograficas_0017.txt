@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ALPA CORRAL en fase moderadamente erosionada
+Porcentajes:
+Simbolo: ACo4
+Capacidad de Uso: IVec
+Indice de Productividad: 50

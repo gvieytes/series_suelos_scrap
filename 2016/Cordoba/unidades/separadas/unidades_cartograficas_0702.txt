@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MONTE ALTO en fase moderadamente bien drenada | LAS SELVAS en fase moderadamente bien drenada | LA REMONTA
+Porcentajes: 40% | 30% | 30%
+Simbolo: MA5
+Capacidad de Uso: IVws
+Indice de Productividad: 54

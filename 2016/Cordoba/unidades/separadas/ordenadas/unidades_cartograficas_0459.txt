@@ -1,0 +1,6 @@
+Simbolo: Ha15
+Capacidad de Uso: I
+Indice de Productividad:
+Descripcion: Asociacion de Series
+Series: HANSEN en fase moderadamente bien drenada | HANSEN en fase ligeramente erosionada
+Porcentajes: 20% | 80%

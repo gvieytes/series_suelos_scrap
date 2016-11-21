@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ALPA CORRAL en fase moderadamente erosionada | ALPA CORRAL en fase severamente erosionada
+Porcentajes: 60% | 40%
+Simbolo: ACo10
+Capacidad de Uso: VIec
+Indice de Productividad: 43

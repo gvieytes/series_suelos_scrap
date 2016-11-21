@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligera a severamente erosionada de Series
+Series: RIO TERCERO | HANSEN
+Porcentajes: 70% | 30%
+Simbolo: RT5
+Capacidad de Uso: VIes
+Indice de Productividad: 34

@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: RIO SEGUNDO | PILAR y capas fluviales
+Porcentajes:
+Simbolo: RII
+Capacidad de Uso: VIsc
+Indice de Productividad: 17

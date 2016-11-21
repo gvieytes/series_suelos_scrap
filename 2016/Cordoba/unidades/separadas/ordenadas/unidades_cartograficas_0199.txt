@@ -1,0 +1,6 @@
+Simbolo: Co30
+Capacidad de Uso: IVec
+Indice de Productividad: 48
+Descripcion: Complejo indeterminado
+Series: de suelos de planos fluviales, derrames y terrazas del Valle de la Cruz
+Porcentajes:

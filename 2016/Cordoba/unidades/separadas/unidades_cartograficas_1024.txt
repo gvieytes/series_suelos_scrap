@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: VILLA HUIDOBRO | EL VEINTITRES | HUINCA RENANCO
+Porcentajes: 40% | 30% | 30%
+Simbolo: VHd6
+Capacidad de Uso: IVes
+Indice de Productividad: 40

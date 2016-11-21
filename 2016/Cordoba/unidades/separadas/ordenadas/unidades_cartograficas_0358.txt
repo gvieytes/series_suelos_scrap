@@ -1,0 +1,6 @@
+Simbolo: El1
+Capacidad de Uso: IIIc
+Indice de Productividad: 69
+Descripcion: Asociacion de Series
+Series: ELENA | SAN BARTOLOME | EL CANO
+Porcentajes: 50% | 30% | 20%

@@ -1,0 +1,6 @@
+Simbolo: El2
+Capacidad de Uso: IVws
+Indice de Productividad: 35
+Descripcion: Asociacion en fase inundable de Series
+Series: ELENA | SAN BARTOLOME
+Porcentajes: 60% | 40%

@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ALPA CORRAL en fase moderadamente ondulada y ligera a moderadamente erosionada
+Porcentajes:
+Simbolo: ACo7
+Capacidad de Uso: IVec
+Indice de Productividad: 48

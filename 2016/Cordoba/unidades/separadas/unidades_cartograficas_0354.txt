@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: EL DURAZNO en fase moderadamente inclinada y ligeramente erosionada | MACHA en fase moderadamente inclinada | CAMINO REAL
+Porcentajes: 50% | 25% | 25%
+Simbolo: EDu1
+Capacidad de Uso: VIes
+Indice de Productividad: 34

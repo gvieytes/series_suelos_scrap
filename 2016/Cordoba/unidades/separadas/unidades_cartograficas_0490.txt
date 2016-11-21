@@ -1,0 +1,6 @@
+Descripcion: Lagunas
+Series:
+Porcentajes:
+Simbolo: L
+Capacidad de Uso: VIII
+Indice de Productividad: 1

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SAGRADA FAMILIA | SAGRADA FAMILIA en fase fuertemente alcalina | ESTANCIA LA OLGA | CANDELARIA variante calcarea
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: SFl2
+Capacidad de Uso: VIws
+Indice de Productividad: 32

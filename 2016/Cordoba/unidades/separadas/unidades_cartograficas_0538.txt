@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LOS CARDOS
+Porcentajes:
+Simbolo: LCd
+Capacidad de Uso: I-1
+Indice de Productividad: 90

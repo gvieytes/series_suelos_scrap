@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: AGUILA CAUTIVA | CAVANAGH | COLONIA PROGRESO | GUATIMOZIN
+Porcentajes:
+Simbolo: ACt2
+Capacidad de Uso: IVws
+Indice de Productividad: 52

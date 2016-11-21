@@ -1,0 +1,6 @@
+Simbolo: Rs13
+Capacidad de Uso: VIws
+Indice de Productividad: 40
+Descripcion: Complejo de Series
+Series: ROSALES | LAS MARINAS | LOS OLMOS | VILLA ROSSI
+Porcentajes: 40% | 30% | 15% | 15%

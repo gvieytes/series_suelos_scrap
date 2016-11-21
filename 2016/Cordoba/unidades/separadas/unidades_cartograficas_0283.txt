@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: CINTRA | NOETINGER en fase moderadamente bien drenada | CHILIBROSTE | EL CHAJA
+Porcentajes: 60% | 20% | 10% | 10%
+Simbolo: Ct
+Capacidad de Uso: IIIws
+Indice de Productividad: 46

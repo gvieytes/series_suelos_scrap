@@ -1,0 +1,6 @@
+Simbolo: LMd13
+Capacidad de Uso: VIIws
+Indice de Productividad: 17
+Descripcion: Complejo de Series
+Series: LOS MEDANITOS en fase moderadamente inundable | MANANTIALES en fase inundable | OLAETA en fase moderadamente alcalina en profundidad
+Porcentajes: 40% | 40% | 20%

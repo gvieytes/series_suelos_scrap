@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BALDISSERA
+Porcentajes:
+Simbolo: Bds
+Capacidad de Uso: lIc
+Indice de Productividad:

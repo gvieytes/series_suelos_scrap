@@ -1,0 +1,6 @@
+Simbolo: LBj4
+Capacidad de Uso: IIIec
+Indice de Productividad: 73
+Descripcion: Asociacion de Series
+Series: LAS BAJADAS | LAS BAJADAS en fase acumulada | LAS BAJADAS en fase ligera a moderadamente erosionada
+Porcentajes: 40% | 30% | 30%

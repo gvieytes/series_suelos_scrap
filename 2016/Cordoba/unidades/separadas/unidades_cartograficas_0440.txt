@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: GUATIMOZIN | COLONIA PROGRESO | CAVANAGH en fase moderadamente bien drenada
+Porcentajes:
+Simbolo: Gt2
+Capacidad de Uso: Vlws
+Indice de Productividad: 46

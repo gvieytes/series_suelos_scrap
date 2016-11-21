@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase muy escarpada y colinada de Series
+Series: CERRO NEGRO | roca expuesta
+Porcentajes: 50% | 50%
+Simbolo: CN9
+Capacidad de Uso: VIIes
+Indice de Productividad: 1

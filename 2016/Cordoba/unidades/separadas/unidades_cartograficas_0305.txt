@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: DIVISA DE MAYO | CANADA DEL UCLE
+Porcentajes: 70% | 30%
+Simbolo: DM2
+Capacidad de Uso: IIw
+Indice de Productividad:

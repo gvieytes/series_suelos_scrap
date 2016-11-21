@@ -1,0 +1,6 @@
+Simbolo: An9
+Capacidad de Uso: VIes
+Indice de Productividad: 9
+Descripcion: Complejo de Series
+Series: ANCHORENA | suelos arenosos sin edafizar
+Porcentajes: 50% | 50%

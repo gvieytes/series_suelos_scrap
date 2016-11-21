@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ITALO | PINCEN | EL VEINTITRES
+Porcentajes: 40% | 40% | 20%
+Simbolo: It1
+Capacidad de Uso: IVsc
+Indice de Productividad: 43

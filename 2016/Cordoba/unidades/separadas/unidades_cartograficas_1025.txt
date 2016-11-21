@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: VILLA HUIDOBRO | VILLA HUIDOBRO en fase sodica en profundidad | EL VEINTITRES | suelos menores salinos sodicos subsuperficialmente
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: VHd7
+Capacidad de Uso: IVsc
+Indice de Productividad: 43

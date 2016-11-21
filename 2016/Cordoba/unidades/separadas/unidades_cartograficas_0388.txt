@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL PUMA | CHILIBROSTE LA PLAYOSA | SAN ANTONIO DE LITIN
+Porcentajes: 20% | 30% | 30% | 20%
+Simbolo: EPm9
+Capacidad de Uso: IVsc
+Indice de Productividad: 35

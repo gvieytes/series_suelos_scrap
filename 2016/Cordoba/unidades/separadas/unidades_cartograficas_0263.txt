@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase poco anegable de Series
+Series: COLONIA PROGRESO | CASTRO URDIALES | LOS TAMARINDOS
+Porcentajes: 30% | 40% | 30%
+Simbolo: CPg5
+Capacidad de Uso: IVws
+Indice de Productividad: 22

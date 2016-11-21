@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MACHA | TERRAZAS DEL RIO PINTO | CANDELARIA
+Porcentajes: 40% | 30% | 30%
+Simbolo: Mch4
+Capacidad de Uso: IIIc
+Indice de Productividad: 69

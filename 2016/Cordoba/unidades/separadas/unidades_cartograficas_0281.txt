@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: CANAL SAN ANTONIO fases salina y alcalina
+Porcentajes:
+Simbolo: CSA3
+Capacidad de Uso: VIIws
+Indice de Productividad: 3

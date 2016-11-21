@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente inundable de Series
+Series: LABORDE | LABORDE en fase ligeramente salina
+Porcentajes: 60% | 40%
+Simbolo: Lb4
+Capacidad de Uso: IIIws
+Indice de Productividad: 64

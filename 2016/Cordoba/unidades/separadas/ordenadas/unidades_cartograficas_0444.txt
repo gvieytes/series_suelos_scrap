@@ -1,0 +1,6 @@
+Simbolo: Ha
+Capacidad de Uso: I
+Indice de Productividad: 90
+Descripcion: Consociacion
+Series: HANSEN
+Porcentajes:

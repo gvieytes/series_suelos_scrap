@@ -1,0 +1,6 @@
+Simbolo: TRP1
+Capacidad de Uso: IVsc
+Indice de Productividad: 50
+Descripcion: Complejo en fase moderada a suavemente inclinada de Series
+Series: TERRAZAS DEL RIO PINTO | LA LONJA | suelos menores aluviales calcareos
+Porcentajes: 40% | 40% | 20%

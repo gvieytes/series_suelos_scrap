@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: BALLESTEROS en fase moderadamente bien drenada | EL CANDIL | SAN FRANCISCO DE ASIS
+Porcentajes: 70% | 20% | 10%
+Simbolo: Ba3
+Capacidad de Uso: IVws
+Indice de Productividad: 61

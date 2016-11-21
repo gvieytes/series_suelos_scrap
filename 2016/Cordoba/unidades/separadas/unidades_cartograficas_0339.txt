@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL CANDIL | VILLA FRANCISCA | SANTA ELENA | ACHALAY
+Porcentajes: 10% | 25% | 40% | 25%
+Simbolo: ECd2
+Capacidad de Uso: VIIws
+Indice de Productividad: 9

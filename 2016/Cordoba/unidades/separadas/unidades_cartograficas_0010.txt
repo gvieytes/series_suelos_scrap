@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ARROYO CABRAL | ARROYO CABRAL en fase moderadamente sodica | LA PRIMAVERA | suelos menores salino alcalinos
+Porcentajes: 30% | 20% | 30% | 20%
+Simbolo: ACb
+Capacidad de Uso: VIws
+Indice de Productividad: 34

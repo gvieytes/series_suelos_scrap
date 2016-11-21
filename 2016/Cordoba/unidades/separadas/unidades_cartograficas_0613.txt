@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: LOS PARAISOS | EL ONCE | MANANTIALES y suelos arenosos poco diferenciados de paleocauces
+Porcentajes:
+Simbolo: LPa2
+Capacidad de Uso: VIws
+Indice de Productividad: 26

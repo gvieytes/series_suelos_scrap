@@ -1,0 +1,6 @@
+Simbolo: HR9
+Capacidad de Uso: VIes
+Indice de Productividad: 19
+Descripcion: Complejo de Series
+Series: HUINCA RENANCO | LOS PORTENOS | LA RENANCO | suelos arenosos poco diferenciados y relictos medanosos
+Porcentajes: 50% | 20% | 10% | 20%

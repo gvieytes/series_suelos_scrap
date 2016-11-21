@@ -1,0 +1,6 @@
+Simbolo: HR10
+Capacidad de Uso: VIes
+Indice de Productividad: 9
+Descripcion: Complejo en fase severamente erosionada de Series
+Series: HUINCA RENANCO | EL YARARA | suelos arenosos poco diferenciados y relictos medanosos
+Porcentajes: 40% | 20% | 40%

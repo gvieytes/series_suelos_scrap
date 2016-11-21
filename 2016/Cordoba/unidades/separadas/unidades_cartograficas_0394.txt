@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL SALADILLO | LA ANGELITA | EL JUME | suelos menores salino alcalinos con capas arcillosas
+Porcentajes: 55% | 25% | 10% | 10%
+Simbolo: ESad
+Capacidad de Uso: VIIws
+Indice de Productividad: 4

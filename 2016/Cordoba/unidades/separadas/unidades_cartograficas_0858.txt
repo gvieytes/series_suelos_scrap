@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Pampayasta 2 de suelos arenosos y limosos moderadamente alcalinos
+Porcentajes:
+Simbolo: Pyt2
+Capacidad de Uso: IVsc
+Indice de Productividad: 50

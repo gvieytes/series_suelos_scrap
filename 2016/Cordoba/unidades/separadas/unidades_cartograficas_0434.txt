@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: GENERAL DEHEZA | OLAETA | ESTANCIA DON FRANCISCO
+Porcentajes: 40% | 30% | 30%
+Simbolo: GDz1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 39

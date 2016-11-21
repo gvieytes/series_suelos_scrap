@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase moderada a severamente erosionada de Series
+Series: RODEO VIEJO | EL CANO
+Porcentajes: 60% | 40%
+Simbolo: RoV
+Capacidad de Uso: IVec
+Indice de Productividad: 39

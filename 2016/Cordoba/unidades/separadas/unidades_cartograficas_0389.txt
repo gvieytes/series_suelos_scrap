@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL PUMA | EL PUMA en fase sodica en el subsuelo | SAN ANTONIO DE LITIN | LA FRANCIA
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: EPm10
+Capacidad de Uso: IIIsc
+Indice de Productividad: 52

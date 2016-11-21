@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Bajos de las Junturas de suelos arenosos de paleocauces
+Porcentajes:
+Simbolo: BJ
+Capacidad de Uso: VIsc
+Indice de Productividad: 22

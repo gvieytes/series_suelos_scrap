@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: EL ALCALDE | CANDELARIA | LA EMILIA
+Porcentajes: 50% | 25% | 25%
+Simbolo: EAd2
+Capacidad de Uso: IIIc
+Indice de Productividad: 71

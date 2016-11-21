@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Laguna La Teresa
+Porcentajes:
+Simbolo: LT
+Capacidad de Uso: Vllws
+Indice de Productividad: 5

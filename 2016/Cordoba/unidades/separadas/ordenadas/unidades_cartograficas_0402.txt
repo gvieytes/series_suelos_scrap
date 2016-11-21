@@ -1,0 +1,6 @@
+Simbolo: ESi4
+Capacidad de Uso: VIIws
+Indice de Productividad: 4
+Descripcion: Complejo en fase muy inundable de Series
+Series: EL SILENCIO | POZO VERDE | suelos aluviales salinos sodicos inundables
+Porcentajes: 30% | 30% | 40%

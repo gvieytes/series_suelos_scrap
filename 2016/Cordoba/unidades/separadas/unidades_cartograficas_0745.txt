@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MANFREDI | MANFREDI en fase moderadamente alcalina en profundidad | OLIVA | suelos menores con alcalinidad sodica subsuperficial
+Porcentajes: 30% | 25% | 25% | 20%
+Simbolo: Mf5
+Capacidad de Uso: IVws
+Indice de Productividad: 57

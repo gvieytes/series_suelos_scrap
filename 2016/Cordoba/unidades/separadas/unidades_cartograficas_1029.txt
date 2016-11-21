@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: VILLA ROSSI en fase pobremente drenada | LA CESIRA en fase fuertemente alcalina | ESTANCIA LA ALICIA
+Porcentajes: 50% | 30% | 20%
+Simbolo: VRs1
+Capacidad de Uso: VIIws
+Indice de Productividad: 8

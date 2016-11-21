@@ -1,0 +1,6 @@
+Simbolo: Mt5
+Capacidad de Uso: IVws
+Indice de Productividad: 53
+Descripcion: Complejo de Series
+Series: MATORRALES | IMPIRA | COSTA SACATE | MATORRALES en fase moderadamente sodica en profundidad
+Porcentajes: 30% | 30% | 20% | 20%

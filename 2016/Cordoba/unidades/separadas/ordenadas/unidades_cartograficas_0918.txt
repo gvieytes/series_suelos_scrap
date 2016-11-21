@@ -1,0 +1,6 @@
+Simbolo: SA2
+Capacidad de Uso: I
+Indice de Productividad:
+Descripcion: Complejo de Series
+Series: ESTANCIA SANTA ANA en fase moderadamente bien drenada | SAN GREGORIO | LAZZARINO
+Porcentajes: 60% | 20% | 20%

@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase moderada a severamente erosionada de Series
+Series: ALPA CORRAL | EL CANO | suelos menores aluviales
+Porcentajes: 60% | 20% | 20%
+Simbolo: ACo11
+Capacidad de Uso: VIec
+Indice de Productividad: 27

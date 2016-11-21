@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: SEBASTIAN ELCANO
+Porcentajes:
+Simbolo: SEc
+Capacidad de Uso: IVc
+Indice de Productividad: 63

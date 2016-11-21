@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: BUCHARDO | CORONEL CHARLONE | PINCEN | SAN CARLOS
+Porcentajes: 40% | 30% | 15% | 15%
+Simbolo: Bch1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 53

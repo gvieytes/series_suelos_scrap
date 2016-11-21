@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase anegable de Series
+Series: ROSALES | ESTANCIA LA ALICIA | ESTACION SALGUERO
+Porcentajes: 30% | 30% | 40%
+Simbolo: Rs10
+Capacidad de Uso: VIws
+Indice de Productividad: 10

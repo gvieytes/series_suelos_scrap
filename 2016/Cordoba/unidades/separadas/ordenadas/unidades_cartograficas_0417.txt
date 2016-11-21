@@ -1,0 +1,6 @@
+Simbolo: ETc3
+Capacidad de Uso: IVc
+Indice de Productividad: 57
+Descripcion: Asociacion de Series
+Series: EL TACO | LOS MISTOLES
+Porcentajes: 70% | 30%

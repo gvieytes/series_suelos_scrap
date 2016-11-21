@@ -1,0 +1,6 @@
+Simbolo: EBn
+Capacidad de Uso: IVc
+Indice de Productividad: 66
+Descripcion: Asociacion de Series
+Series: EL BANADO | EL RODEO | LOS SAUCES
+Porcentajes: 40% | 30% | 30%

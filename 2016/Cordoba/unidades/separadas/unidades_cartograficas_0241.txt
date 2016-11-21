@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: desarrollado sobre roca granitica
+Porcentajes:
+Simbolo: CoB3
+Capacidad de Uso: VIIsc/VIII
+Indice de Productividad: 2

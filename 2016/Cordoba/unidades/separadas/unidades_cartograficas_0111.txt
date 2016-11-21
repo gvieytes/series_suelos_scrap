@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase ligera a moderadamente inclinada de Series
+Series: BELEN | SANTA CATALINA | EL CRUCE
+Porcentajes: 55% | 30% | 15%
+Simbolo: Be1
+Capacidad de Uso: IIIec
+Indice de Productividad: 58

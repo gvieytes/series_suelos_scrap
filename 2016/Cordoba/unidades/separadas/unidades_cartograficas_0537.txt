@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LAGUNA BLAIZOT | LAGUNA LAS LIEBRES | CANADA LA CRUZ | SAN ANTONIO DE LITIN
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: LBz1
+Capacidad de Uso: VIws
+Indice de Productividad: 26

@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: CANDELARIA | LOS MISTOLES
+Porcentajes: 80% | 20%
+Simbolo: Cdl7
+Capacidad de Uso: IIIc
+Indice de Productividad: 64

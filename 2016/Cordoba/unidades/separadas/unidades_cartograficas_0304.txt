@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Arroyo Chucul de suelos franco arenosos poco desarrollados y capas no geneticas con alcalinidad subsuperficial
+Porcentajes:
+Simbolo: Chu
+Capacidad de Uso: IVsc
+Indice de Productividad: 31

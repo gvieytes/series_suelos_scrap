@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase gravemente erosionada de Series
+Series: LA AGUADA | LA INVERNADA | LA ESQUINA | suelos menores enterrados o con acumulacion
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: LAg2
+Capacidad de Uso: VIe
+Indice de Productividad: 14

@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase engrosada de Series
+Series: MONTE BUEY | JUSTINIANO POSSE
+Porcentajes: 70% | 30%
+Simbolo: MB4
+Capacidad de Uso: IIw
+Indice de Productividad: 81

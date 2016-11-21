@@ -1,0 +1,6 @@
+Simbolo: PLZ1
+Capacidad de Uso: IVws
+Indice de Productividad: 41
+Descripcion: Complejo de Series
+Series: PARAJE LOS ZORROS | CINTRA | SACANTA | AUSONIA
+Porcentajes: 30% | 20% | 20% | 30%

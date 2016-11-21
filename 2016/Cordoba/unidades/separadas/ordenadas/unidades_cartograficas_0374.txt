@@ -1,0 +1,6 @@
+Simbolo: EOn1
+Capacidad de Uso: VIws
+Indice de Productividad: 19
+Descripcion: Complejo de Series
+Series: EL ONCE | LA VICTORIA | LOS OLMOS | ASSUNTA
+Porcentajes: 40% | 30% | 15% | 15%

@@ -1,0 +1,6 @@
+Simbolo: M
+Capacidad de Uso: VIII
+Indice de Productividad: 5
+Descripcion: Medanos
+Series:
+Porcentajes:

@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de las terrazas bajas no inundables del rio Tercero y otros
+Porcentajes:
+Simbolo: Co50
+Capacidad de Uso: VIIws
+Indice de Productividad: 14

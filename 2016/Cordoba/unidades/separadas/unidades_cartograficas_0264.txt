@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: COLONIA PROGRESO | LOS TAMARINDOS | CASTRO URDIALES
+Porcentajes: 20% | 50% | 30%
+Simbolo: CPg6
+Capacidad de Uso: VIws
+Indice de Productividad: 22

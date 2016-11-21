@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase poco anegable de Series
+Series: MATORRALES en fase alcalina en profundidad | SACANTA en fase moderadamente bien drenada | PARAJE LOS ZORROS | suelos menores con alcalinidad y/o salinidad variable
+Porcentajes: 40% | 20% | 30% | 10%
+Simbolo: Mt12
+Capacidad de Uso: VIws
+Indice de Productividad: 38

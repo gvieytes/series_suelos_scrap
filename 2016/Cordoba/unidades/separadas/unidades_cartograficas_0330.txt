@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL AROMO | EL AROMO en fase fuertemente alcalina
+Porcentajes: 80% | 20%
+Simbolo: EAo
+Capacidad de Uso: IVws
+Indice de Productividad: 51

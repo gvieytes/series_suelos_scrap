@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase moderada a fuertemente erosionada de Series
+Series: LAS ISLETILLAS | VIRA PITA
+Porcentajes:
+Simbolo: LI
+Capacidad de Uso: VIec
+Indice de Productividad: 37

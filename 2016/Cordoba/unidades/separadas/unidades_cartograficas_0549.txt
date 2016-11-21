@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LAS CORTADERAS | LOS COMETIERRA | suelos menores fluviales y eolicos de texturas medias moderadamente desarrollados
+Porcentajes: 40% | 30% | 30%
+Simbolo: LCr2
+Capacidad de Uso: IVsc
+Indice de Productividad: 49

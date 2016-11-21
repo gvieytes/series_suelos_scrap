@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BUENA ESPERANZA en fase llana
+Porcentajes:
+Simbolo: BE
+Capacidad de Uso: VIes
+Indice de Productividad: 7

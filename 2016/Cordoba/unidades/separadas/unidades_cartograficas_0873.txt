@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: RIO SEGUNDO | PILAR | SACANTA | SACANTA en fase salina en profundidad | IMPIRA | suelos enterrados y capas fluviales
+Porcentajes:
+Simbolo: RII1
+Capacidad de Uso: VIsc
+Indice de Productividad: 33

@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de derrames fluviales o terrazas altas no inundables asociados a suelos de lomas
+Porcentajes:
+Simbolo: Co54
+Capacidad de Uso: IVsc
+Indice de Productividad: 42

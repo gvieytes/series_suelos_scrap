@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase ligera a moderadamente erosionada de Series
+Series: LAS ISLETILLAS | MONTE ALTO
+Porcentajes: 60% | 40%
+Simbolo: LI3
+Capacidad de Uso: IVec
+Indice de Productividad: 60

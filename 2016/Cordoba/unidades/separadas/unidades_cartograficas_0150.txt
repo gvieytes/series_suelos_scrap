@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: CORRALITO en fase ligeramente erosionada por agua (surcos)
+Porcentajes:
+Simbolo: Clt1
+Capacidad de Uso: IIIec
+Indice de Productividad: 64

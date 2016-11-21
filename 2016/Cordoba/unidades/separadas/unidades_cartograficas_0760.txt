@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente erosionada de Series
+Series: MARCOS JUAREZ | RIO TERCERO
+Porcentajes: 90% | 10%
+Simbolo: MJ5
+Capacidad de Uso: IIs
+Indice de Productividad: 75

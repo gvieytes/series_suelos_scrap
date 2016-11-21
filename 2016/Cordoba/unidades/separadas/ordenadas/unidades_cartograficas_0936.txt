@@ -1,0 +1,6 @@
+Simbolo: SCt1
+Capacidad de Uso: IIIec
+Indice de Productividad: 64
+Descripcion: Complejo de Series
+Series: SANTA CATALINA | EL CRUCE en fase moderadamente inclinada | LA SENTENCIA II en fase moderadamente inclinada
+Porcentajes: 75% | 15% | 10%

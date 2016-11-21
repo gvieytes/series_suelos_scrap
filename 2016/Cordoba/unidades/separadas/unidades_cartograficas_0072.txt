@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BALLESTEROS
+Porcentajes:
+Simbolo: Ba
+Capacidad de Uso: IIc
+Indice de Productividad: 80

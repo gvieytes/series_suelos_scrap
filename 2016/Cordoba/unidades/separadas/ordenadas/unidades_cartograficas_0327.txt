@@ -1,0 +1,6 @@
+Simbolo: EAM1
+Capacidad de Uso: IVec
+Indice de Productividad: 58
+Descripcion: Complejo de Series
+Series: ESTANCIA ANA MARIA en fase ligeramente erosionada | MONTE ALTO en fase ligeramente erosionada | LAS PENAS SUR en fase moderadamente erosionada
+Porcentajes: 40% | 40% | 20%

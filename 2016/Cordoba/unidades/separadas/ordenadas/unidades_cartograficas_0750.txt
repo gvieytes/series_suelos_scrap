@@ -1,0 +1,6 @@
+Simbolo: MGa3
+Capacidad de Uso: IIIsc
+Indice de Productividad: 50
+Descripcion: Asociacion de Series
+Series: MONTE DE LOS GAUCHOS | OLAETA | LA CARLOTA
+Porcentajes: 40% | 30% | 30%

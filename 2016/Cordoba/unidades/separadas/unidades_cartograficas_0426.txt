@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: GENERAL CABRERA en fase ligeramente anegable | GENERAL DEHEZA
+Porcentajes: 50% | 50%
+Simbolo: GC2
+Capacidad de Uso: IIIsc
+Indice de Productividad: 50

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: JAMES CRAIK | COLONIA VIDELA | HERNANDO en fase imperfectamente drenada
+Porcentajes: 50% | 30% | 20%
+Simbolo: JCk4
+Capacidad de Uso: VIws
+Indice de Productividad: 35

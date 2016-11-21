@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LAS PLAYAS en fase ligeramente inclinada
+Porcentajes:
+Simbolo: LPy1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 73

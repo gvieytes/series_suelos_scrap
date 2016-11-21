@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: La Querencia
+Porcentajes:
+Simbolo: LQ
+Capacidad de Uso: VIIws
+Indice de Productividad: 12

@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de Sierras altas sobre rocas graniticas
+Porcentajes:
+Simbolo: CoB4
+Capacidad de Uso: VIIIsc
+Indice de Productividad: 2

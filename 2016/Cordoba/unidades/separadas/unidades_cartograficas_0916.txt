@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos salinos alcalinos de terrazas bajas inundables del Rio Popopis
+Porcentajes:
+Simbolo: RV2
+Capacidad de Uso: VIII
+Indice de Productividad: 3

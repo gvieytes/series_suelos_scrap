@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA LEONCITA en fase ligeramente alcalina
+Porcentajes:
+Simbolo: LLe3
+Capacidad de Uso: Vw
+Indice de Productividad: 39

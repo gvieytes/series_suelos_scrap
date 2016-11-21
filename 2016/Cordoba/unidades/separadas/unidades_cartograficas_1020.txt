@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: VILLA FRANCISCA | SAIRA | LAGUNA BLAIZOT | suelos menores fluviales
+Porcentajes: 40% | 25% | 25% | 10%
+Simbolo: VFr
+Capacidad de Uso: VIIws
+Indice de Productividad: 20

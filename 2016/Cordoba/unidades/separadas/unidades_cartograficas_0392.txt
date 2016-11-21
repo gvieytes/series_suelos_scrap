@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL RODEO | SAN PEDRO | LOS HOYOS en fase inclinada | suelos menores arenosos
+Porcentajes: 30% | 30% | 30% | 10%
+Simbolo: ERo1
+Capacidad de Uso: IVec
+Indice de Productividad: 57

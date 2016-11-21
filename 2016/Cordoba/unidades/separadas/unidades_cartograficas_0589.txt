@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LAS ISLETAS
+Porcentajes:
+Simbolo: LIt
+Capacidad de Uso: IIIc
+Indice de Productividad: 67

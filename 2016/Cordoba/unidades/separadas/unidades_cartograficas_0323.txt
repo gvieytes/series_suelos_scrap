@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL ALBION | ESTANCIA VIEJA
+Porcentajes: 60% | 40%
+Simbolo: EAb2
+Capacidad de Uso: VIIws
+Indice de Productividad: 9

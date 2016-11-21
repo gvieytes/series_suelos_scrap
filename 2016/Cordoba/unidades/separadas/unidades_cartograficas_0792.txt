@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: NACIENTES DEL RIO MACHA | ESTANCIA LA SELVA | LAS MERCEDES II en fase moderadamente bien drenada
+Porcentajes: 40% | 30% | 30%
+Simbolo: NRM1
+Capacidad de Uso: VIws
+Indice de Productividad: 36

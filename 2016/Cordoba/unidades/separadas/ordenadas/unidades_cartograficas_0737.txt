@@ -1,0 +1,6 @@
+Simbolo: Mch3
+Capacidad de Uso: IIIc
+Indice de Productividad: 63
+Descripcion: Asociacion de Series
+Series: MACHA | CANDELARIA | LOS MISTOLES
+Porcentajes: 40% | 30% | 30%

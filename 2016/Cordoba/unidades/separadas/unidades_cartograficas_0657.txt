@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA SENTENCIA I | SAN PABLO | EL CRUCE
+Porcentajes: 65% | 25% | 10%
+Simbolo: LStI1
+Capacidad de Uso: IVsc
+Indice de Productividad: 62

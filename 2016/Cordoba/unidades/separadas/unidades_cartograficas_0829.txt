@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ORDONEZ
+Porcentajes:
+Simbolo: Oz
+Capacidad de Uso: IIc
+Indice de Productividad: 85

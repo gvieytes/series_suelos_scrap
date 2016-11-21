@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ROSALES | VILLA ROSSI | ESTANCIA LA ALICIA | suelos menores
+Porcentajes: 40% | 30% | 20% | 10%
+Simbolo: Rs9
+Capacidad de Uso: VIws
+Indice de Productividad: 22

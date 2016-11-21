@@ -1,0 +1,6 @@
+Simbolo: M+L
+Capacidad de Uso: VIII
+Indice de Productividad: 3
+Descripcion: Lagunas y Medanos
+Series:
+Porcentajes:

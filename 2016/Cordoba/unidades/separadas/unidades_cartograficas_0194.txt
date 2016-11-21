@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: JESUS MARIA en fase moderadamente inclinada | LAS PIEDRAS | ASCOCHINGA en fase acumulada y suelos menores aluviales arenosos
+Porcentajes:
+Simbolo: Co25
+Capacidad de Uso: IVes
+Indice de Productividad: 49

@@ -1,0 +1,6 @@
+Simbolo: LEm2
+Capacidad de Uso: IIIc
+Indice de Productividad: 69
+Descripcion: Asociacion de Series
+Series: LA EMILIA | EL CORTIJO | BARRANCA YACO
+Porcentajes: 50% | 25% | 25%

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS CARDOS en fase moderadamente bien drenada | LANDETA | EL TREBOL
+Porcentajes: 40% | 30% | 30%
+Simbolo: LCd5
+Capacidad de Uso: IIw
+Indice de Productividad: 81

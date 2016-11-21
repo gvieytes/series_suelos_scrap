@@ -1,0 +1,6 @@
+Simbolo: Playa
+Capacidad de Uso: VIII
+Indice de Productividad:
+Descripcion: Playa
+Series:
+Porcentajes:

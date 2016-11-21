@@ -1,0 +1,6 @@
+Simbolo: SEc6
+Capacidad de Uso: IVec
+Indice de Productividad: 46
+Descripcion: Asociacion de Series
+Series: SEBASTIAN ELCANO en fase ligeramente inclinada y moderadamente alcalina en profundidad | LAS ARRIAS en fase ligeramente inclinada
+Porcentajes: 60% | 40%

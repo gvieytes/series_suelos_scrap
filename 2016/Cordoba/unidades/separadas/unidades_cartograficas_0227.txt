@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos inundables en desagues principales de la Pampa Loessica Alta
+Porcentajes:
+Simbolo: Co58
+Capacidad de Uso: VIws
+Indice de Productividad: 12

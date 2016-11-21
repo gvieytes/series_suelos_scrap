@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: HUINCA RENANCO
+Porcentajes:
+Simbolo: HR11
+Capacidad de Uso: IVes
+Indice de Productividad:

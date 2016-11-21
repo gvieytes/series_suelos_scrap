@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Arroyo Saladillo de suelos aluviales salino alcalinos
+Porcentajes:
+Simbolo: Co12
+Capacidad de Uso: VIIws
+Indice de Productividad: 6

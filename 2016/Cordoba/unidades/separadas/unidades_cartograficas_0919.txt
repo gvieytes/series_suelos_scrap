@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ESTANCIA SANTA ANA | EL ABOLENGO
+Porcentajes: 80% | 20%
+Simbolo: SA3
+Capacidad de Uso: IIs
+Indice de Productividad: 59

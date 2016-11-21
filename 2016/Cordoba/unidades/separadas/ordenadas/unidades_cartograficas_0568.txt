@@ -1,0 +1,6 @@
+Simbolo: LEm6
+Capacidad de Uso: IIIc
+Indice de Productividad: 65
+Descripcion: Asociacion de Series
+Series: LA EMILIA | BARRANCA YACO | LOS MISTOLES | TERRAZAS DEL RIO PINTO
+Porcentajes: 40% | 20% | 20% | 20%

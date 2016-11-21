@@ -1,0 +1,6 @@
+Simbolo: Et2
+Capacidad de Uso: IVsc
+Indice de Productividad: 43
+Descripcion: Complejo de Series
+Series: ETRURIA | MONTE ALTO en fase moderadamente bien drenada | MONTE ALTO | LA VICTORIA
+Porcentajes: 30% | 20% | 30% | 20%

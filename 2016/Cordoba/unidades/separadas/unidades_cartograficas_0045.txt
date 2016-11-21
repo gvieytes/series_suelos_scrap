@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ALEJO LEDESMA | ALEJO LEDESMA en fase ligera a moderadamente erosionada por viento | LEGUIZAMON
+Porcentajes: 60% | 20% | 20%
+Simbolo: ALd4
+Capacidad de Uso: IIlec
+Indice de Productividad: 72

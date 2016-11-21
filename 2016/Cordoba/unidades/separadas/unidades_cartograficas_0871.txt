@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Rio Primero de suelos fuertemente erosionados
+Porcentajes:
+Simbolo: RI
+Capacidad de Uso: VIIes
+Indice de Productividad: 8

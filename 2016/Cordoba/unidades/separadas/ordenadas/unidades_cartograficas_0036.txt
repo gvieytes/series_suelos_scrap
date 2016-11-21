@@ -1,0 +1,6 @@
+Simbolo: AGr4
+Capacidad de Uso: VIes
+Indice de Productividad: 43
+Descripcion: Complejo de Series
+Series: ALTO GRANDE en fase moderada a severamente erosionada | EL CORTIJO en fase moderada a severamente erosionada | LA EMILIA en fase ligeramente erosionada
+Porcentajes: 40% | 30% | 30%

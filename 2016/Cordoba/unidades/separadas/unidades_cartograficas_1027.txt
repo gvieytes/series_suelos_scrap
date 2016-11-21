@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: VILLA DEL ROSARIO | SACANTA
+Porcentajes: 60% | 40%
+Simbolo: VRo1
+Capacidad de Uso: IIIc
+Indice de Productividad: 73

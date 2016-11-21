@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: La Josefina de suelos anegables salinos y sodicos de superficie
+Porcentajes:
+Simbolo: LJf
+Capacidad de Uso: VIIws
+Indice de Productividad: 2

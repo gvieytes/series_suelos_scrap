@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase anegable de Series
+Series: ROSALES | ESTANCIA LA ALICIA | suelos menores
+Porcentajes: 50% | 30% | 20%
+Simbolo: Rs7
+Capacidad de Uso: VIIws
+Indice de Productividad: 12

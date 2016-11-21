@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: GENERAL CABRERA en fase muy poco anegable | LA VICTORIA | PASCANAS
+Porcentajes: 40% | 40% | 20%
+Simbolo: GC7
+Capacidad de Uso: IVws
+Indice de Productividad: 39

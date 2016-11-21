@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: HANSEN en fase ligeramente erosionada
+Porcentajes:
+Simbolo: Ha2
+Capacidad de Uso: I
+Indice de Productividad: 81

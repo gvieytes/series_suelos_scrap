@@ -1,0 +1,6 @@
+Simbolo: An8
+Capacidad de Uso: VIes
+Indice de Productividad: 12
+Descripcion: Complejo de Series
+Series: ANCHORENA e INGENIERO FOSTER
+Porcentajes: 60% | 40%

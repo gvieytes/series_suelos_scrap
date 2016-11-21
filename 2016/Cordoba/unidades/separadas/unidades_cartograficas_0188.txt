@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos de valles serranos y nacientes del Rio Macha
+Porcentajes:
+Simbolo: Co19
+Capacidad de Uso: VIes
+Indice de Productividad: 33

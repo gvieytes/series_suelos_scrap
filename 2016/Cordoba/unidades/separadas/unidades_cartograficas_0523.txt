@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LAS BAJADAS en fase acumulada | MONTE RALO en fase acumulada | suelos menores ligera a moderadamente erosionados
+Porcentajes: 60% | 20% | 20%
+Simbolo: LBj3
+Capacidad de Uso: IIIec
+Indice de Productividad: 70

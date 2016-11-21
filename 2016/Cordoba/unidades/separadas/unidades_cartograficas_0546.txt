@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: LOS COMETIERRA | BARRANCA YACO y suelos arenosos poco diferenciados
+Porcentajes:
+Simbolo: LCm1
+Capacidad de Uso: VIsc
+Indice de Productividad: 43

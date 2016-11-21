@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: GENERAL CABRERA | OLAETA en fase moderadamente alcalina en profundidad
+Porcentajes: 50% | 50%
+Simbolo: GC6
+Capacidad de Uso: IIIsc
+Indice de Productividad: 40

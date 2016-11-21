@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SEBASTIAN ELCANO en fase moderadamente alcalina en profundidad | LAS MACITAS en fase moderadamente salina en profundidad | suelos menores
+Porcentajes: 60% | 20% | 20%
+Simbolo: SEc3
+Capacidad de Uso: IVsc
+Indice de Productividad: 39

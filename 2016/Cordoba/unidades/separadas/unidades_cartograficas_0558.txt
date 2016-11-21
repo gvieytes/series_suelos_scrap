@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA CARLOTA | LA CARLOTA en fase acumulada | LOS MEDANITOS
+Porcentajes: 30% | 50% | 20%
+Simbolo: LCt7
+Capacidad de Uso: IIIsc
+Indice de Productividad: 41

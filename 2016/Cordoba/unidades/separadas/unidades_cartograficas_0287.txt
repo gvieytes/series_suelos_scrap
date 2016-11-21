@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: CAVANAGH | LA BELGICA en fase moderadamente bien drenada y poco inundable
+Porcentajes: 60% | 40%
+Simbolo: Cv1
+Capacidad de Uso: lIlws
+Indice de Productividad: 78

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ESTANCIA LA SELVA | LA EMILIA en fase moderadamente salina en profundidad | suelos menores moderados a fuertemente alcalinos degradados
+Porcentajes: 40% | 30% | 30%
+Simbolo: ELS1
+Capacidad de Uso: VIws
+Indice de Productividad: 32

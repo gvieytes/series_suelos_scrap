@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: LA CANADA, SAGRADA FAMILIA en fase imperfectamente drenada y/o SAGRADA FAMILIA variante calcarea y suelos menores moderadamente salino sodicos
+Porcentajes:
+Simbolo: LCn1
+Capacidad de Uso: IVws
+Indice de Productividad: 35

@@ -1,0 +1,6 @@
+Simbolo: RoV2
+Capacidad de Uso: VIe
+Indice de Productividad: 15
+Descripcion: Complejo en fase gravemente erosionada de Series
+Series: RODEO VIEJO | EL CANO | SAN BARTOLOME | suelos enterrados y/o acumulados
+Porcentajes: 30% | 30% | 20% | 20%

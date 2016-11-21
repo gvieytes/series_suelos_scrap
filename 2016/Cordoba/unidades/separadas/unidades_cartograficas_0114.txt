@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: BELEN en fase fase acumulada | en fase moderadamente inclinada de Series JESUS MARIA | ALTO GRANDE
+Porcentajes: 50% | 25% | 25%
+Simbolo: Be4
+Capacidad de Uso: IIIec
+Indice de Productividad: 65

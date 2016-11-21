@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ONCATIVO | EL SAUCE | MANFREDI en fase moderadamente bien drenada
+Porcentajes: 40% | 30% | 30%
+Simbolo: Ot5
+Capacidad de Uso: IIIws
+Indice de Productividad: 66

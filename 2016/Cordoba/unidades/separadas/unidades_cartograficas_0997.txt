@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SINSACATE en fase moderada a severamente erosionada | SANTA CATALINA en fase ligeramente erosionada y/o acumulada | suelos menores erosionados y con acumulacion
+Porcentajes: 40% | 30% | 30%
+Simbolo: Ssc1
+Capacidad de Uso: IVec
+Indice de Productividad: 44

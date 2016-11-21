@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: ESTANCIA EL CAUTIVO en fase fuertemente alcalina | suelos salino-sodicos con drenaje deficiente y lagunas semipermanentes
+Porcentajes:
+Simbolo: ECt2
+Capacidad de Uso: VIIws
+Indice de Productividad: 6

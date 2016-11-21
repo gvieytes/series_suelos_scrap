@@ -1,0 +1,6 @@
+Simbolo: Sr
+Capacidad de Uso: IVws
+Indice de Productividad: 39
+Descripcion: Complejo de Series
+Series: SAIRA | SAIRA en fase moderadamente alcalina | suelos menores
+Porcentajes: 70% | 20% | 10%

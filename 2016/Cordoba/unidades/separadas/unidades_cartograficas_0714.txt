@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: MONTE BUEY
+Porcentajes:
+Simbolo: MB
+Capacidad de Uso: IIc
+Indice de Productividad: 68

@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: de series PILAR (dominante) | RIO SEGUNDO | MATORRALES y capas arenosas
+Porcentajes:
+Simbolo: Mt2
+Capacidad de Uso: IVsc
+Indice de Productividad: 37

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ETRURIA | MONTE ALTO en fase moderadamente alcalina en profundidad | GENERAL CABRERA
+Porcentajes: 50% | 30% | 20%
+Simbolo: Et3
+Capacidad de Uso: IVws
+Indice de Productividad: 35

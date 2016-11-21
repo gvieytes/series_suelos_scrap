@@ -1,0 +1,6 @@
+Simbolo: GC1
+Capacidad de Uso: IIIec
+Indice de Productividad: 51
+Descripcion: Asociacion de Series
+Series: GENERAL CABRERA | GENERAL CABRERA en fase por erosion hidrica ligera
+Porcentajes: 80% | 20%

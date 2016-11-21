@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: HUINCA RENANCO | EL YARARA
+Porcentajes: 80% | 20%
+Simbolo: HR13
+Capacidad de Uso: IVes
+Indice de Productividad: 16

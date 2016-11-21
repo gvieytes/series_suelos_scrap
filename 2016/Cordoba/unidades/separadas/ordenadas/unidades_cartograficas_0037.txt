@@ -1,0 +1,6 @@
+Simbolo: AGr5
+Capacidad de Uso: IVec
+Indice de Productividad: 56
+Descripcion: Asociacion en fase ligera a moderadamente erosionada de Series
+Series: ALTO GRANDE | JESUS MARIA | BARRANCA YACO
+Porcentajes: 50% | 25% | 25%

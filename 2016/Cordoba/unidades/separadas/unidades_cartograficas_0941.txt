@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SEBASTIAN ELCANO | LAS ARRIAS | LAS MACITAS
+Porcentajes: 80% | 10% | 10%
+Simbolo: SEc1
+Capacidad de Uso: IVc
+Indice de Productividad: 62

@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase gravemente erosionada de Series
+Series: ALPA CORRAL | EL CANO | SAN BARTOLOME | suelos menores enterrados y/o acumulados
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: ACo3
+Capacidad de Uso: VIec
+Indice de Productividad: 17

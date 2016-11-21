@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Rio Carcarana 2
+Porcentajes:
+Simbolo: Co135
+Capacidad de Uso: VIIws
+Indice de Productividad:

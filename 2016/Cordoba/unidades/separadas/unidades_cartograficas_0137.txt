@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Colonia Bremen de suelos salino alcalinos
+Porcentajes:
+Simbolo: CBm
+Capacidad de Uso: VIIws
+Indice de Productividad: 7

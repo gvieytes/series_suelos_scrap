@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: HANSEN en fase moderadamente bien drenada y muy poco inundable
+Porcentajes:
+Simbolo: Ha12
+Capacidad de Uso: IIw
+Indice de Productividad: 77

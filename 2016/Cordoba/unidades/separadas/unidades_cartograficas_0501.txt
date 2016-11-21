@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LABORDE
+Porcentajes:
+Simbolo: Lb
+Capacidad de Uso: IIc
+Indice de Productividad: 73

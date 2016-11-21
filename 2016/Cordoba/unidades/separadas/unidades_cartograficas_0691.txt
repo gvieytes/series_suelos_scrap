@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LAGUNA DE LAS LIEBRES | SAN ANTONIO DE LITIN | CHILIBROSTE | LA PLAYOSA
+Porcentajes: 20% | 30% | 20% | 30%
+Simbolo: LLi3
+Capacidad de Uso: VIws
+Indice de Productividad: 28

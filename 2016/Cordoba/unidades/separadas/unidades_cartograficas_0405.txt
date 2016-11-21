@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ESTANCIA SAN PEDRO | ESTANCIA ADELAIDA | SILVIO PELLICO | suelos menores
+Porcentajes: 25% | 25% | 25% | 25%
+Simbolo: ESP1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 49

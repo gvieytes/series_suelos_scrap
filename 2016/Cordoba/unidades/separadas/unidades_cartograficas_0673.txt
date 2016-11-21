@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA VICTORIA | SANTA EUFEMIA | CARNERILLO
+Porcentajes: 40% | 30% | 30%
+Simbolo: LVt11
+Capacidad de Uso: VIws
+Indice de Productividad: 12

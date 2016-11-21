@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BUENA ESPERANZA en fase con capa freatica alta y fluctuante
+Porcentajes:
+Simbolo: BE4
+Capacidad de Uso: VIIws
+Indice de Productividad: 7

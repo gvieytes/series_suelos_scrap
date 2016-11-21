@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase moderadamente inclinada de Series
+Series: ALTO GRANDE | JESUS MARIA | LA LONJA en fase muy inclinada
+Porcentajes: 40% | 30% | 30%
+Simbolo: AGr8
+Capacidad de Uso: IVsc
+Indice de Productividad: 50

@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: en fase gravemente erosionada de Series PASO DEL RIO SECO | ESTANCIA EL GATO y suelos con distinto grado de desarrollo y textura variada
+Porcentajes:
+Simbolo: PRS
+Capacidad de Uso: VIes
+Indice de Productividad: 12

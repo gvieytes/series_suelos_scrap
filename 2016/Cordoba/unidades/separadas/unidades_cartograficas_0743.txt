@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MANFREDI | HERNANDO en fase moderadamente bien drenada | suelos menores cementados y alcalinos en profundidad
+Porcentajes: 30% | 40% | 30%
+Simbolo: Mf3
+Capacidad de Uso: IVws
+Indice de Productividad: 57

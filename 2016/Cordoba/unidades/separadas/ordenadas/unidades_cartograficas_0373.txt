@@ -1,0 +1,6 @@
+Simbolo: End
+Capacidad de Uso: VIIws
+Indice de Productividad: 3
+Descripcion: Complejo indeterminado
+Series: Ensenada de suelos indiferenciados salino-alcalinos y capas con alcalinidad superficial
+Porcentajes:

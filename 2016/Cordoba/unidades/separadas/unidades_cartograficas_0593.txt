@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LAS MACITAS | LOS SAUCES
+Porcentajes: 50% | 50%
+Simbolo: LMc2
+Capacidad de Uso: IVc
+Indice de Productividad: 69

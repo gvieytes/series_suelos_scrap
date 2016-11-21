@@ -1,0 +1,6 @@
+Simbolo: SEc8
+Capacidad de Uso: IVec
+Indice de Productividad: 53
+Descripcion: Asociacion en fase ligeramente inclinada de Series
+Series: SEBASTIAN ELCANO | LAS ARRIAS | LAS MACITAS en fase moderadamente salina en profundidad
+Porcentajes: 40% | 40% | 20%

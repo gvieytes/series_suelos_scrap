@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SANTA EUFEMIA en fase engrosada | LA VICTORIA | suelos menores cementados y/o erosionados severamente
+Porcentajes: 40% | 40% | 20%
+Simbolo: SEf5
+Capacidad de Uso: VIws
+Indice de Productividad: 13

@@ -1,0 +1,6 @@
+Simbolo: RT1
+Capacidad de Uso: VIes
+Indice de Productividad: 11
+Descripcion: Consociacion
+Series: RIO TERCERO en fase moderada a gravemente erosionada
+Porcentajes:

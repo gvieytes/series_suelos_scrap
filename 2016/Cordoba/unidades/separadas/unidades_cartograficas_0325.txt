@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: EL ALCALDE | EL ALCALDE en fase por acumulacion (reciente) | EL ALCALDE variante calcarea | suelos menores eolicos poco desarrollados
+Porcentajes: 40% | 30% | 20% | 10%
+Simbolo: EAd1
+Capacidad de Uso: IVsc
+Indice de Productividad: 54

@@ -1,0 +1,6 @@
+Simbolo: LLo1
+Capacidad de Uso: VIec
+Indice de Productividad: 44
+Descripcion: Complejo en fase moderadamente inclinada y ligera a moderadamente erosionada de Series
+Series: LA LONJA | ALTO GRANDE | BELEN en fase acumulada | suelos menores
+Porcentajes: 30% | 30% | 30% | 10%

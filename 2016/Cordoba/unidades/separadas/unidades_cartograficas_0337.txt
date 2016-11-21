@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL CANDIL | MARCOS JUAREZ en fase moderadamente bien drenada | EL CHAJA | ACHALAY
+Porcentajes: 35% | 30% | 25% | 10%
+Simbolo: ECd
+Capacidad de Uso: IVws
+Indice de Productividad: 53

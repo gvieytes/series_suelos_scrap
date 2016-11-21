@@ -1,0 +1,6 @@
+Simbolo: ACo2
+Capacidad de Uso: IVec
+Indice de Productividad: 49
+Descripcion: Complejo en fase moderadamente erosionada de Series
+Series: ALPA CORRAL | EL CANO | SAN BARTOLOME | suelos menores
+Porcentajes: 60% | 20% | 10% | 10%

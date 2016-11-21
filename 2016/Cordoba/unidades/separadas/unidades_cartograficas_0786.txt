@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente acumulada de Series
+Series: MATORRALES | COSTA SACATE | LA REYNA
+Porcentajes: 40% | 30% | 30%
+Simbolo: Mt8
+Capacidad de Uso: IIIw
+Indice de Productividad: 70

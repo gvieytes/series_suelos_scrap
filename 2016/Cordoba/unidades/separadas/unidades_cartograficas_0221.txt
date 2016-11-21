@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de pampas de altura en las Sierras Chicas de Cordoba
+Porcentajes:
+Simbolo: Co52
+Capacidad de Uso: VIes
+Indice de Productividad: 26

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LABOULAYE | ROSALES | LEGUIZAMON
+Porcentajes: 30% | 50% | 20%
+Simbolo: Lby6
+Capacidad de Uso: lllsc
+Indice de Productividad: 51

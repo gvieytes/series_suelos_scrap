@@ -1,0 +1,6 @@
+Simbolo: Clt3
+Capacidad de Uso: IIIec
+Indice de Productividad: 66
+Descripcion: Asociacion de Series
+Series: CORRALITO | CORRALITO en fase ligeramente erosionada por agua (surcos) | EL SALTO en fase ligeramente erosionada por agua
+Porcentajes: 60% | 20% | 20%

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MONTE ALTO en fase moderadamente bien drenada | LAS ISLETILLAS en fase moderadamente bien drenada | LA RESISTENCIA
+Porcentajes: 30% | 40% | 30%
+Simbolo: MA8
+Capacidad de Uso: VIws
+Indice de Productividad: 58

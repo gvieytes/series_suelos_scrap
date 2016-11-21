@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BALLESTEROS en fase muy poco inundable
+Porcentajes:
+Simbolo: Ba1
+Capacidad de Uso: IIc
+Indice de Productividad: 81

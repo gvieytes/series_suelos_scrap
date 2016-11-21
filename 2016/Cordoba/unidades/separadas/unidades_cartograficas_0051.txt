@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ALEJO LEDESMA | PASCANAS | LA VICTORIA
+Porcentajes: 50% | 25% | 25%
+Simbolo: ALd10
+Capacidad de Uso: IVsc
+Indice de Productividad: 57

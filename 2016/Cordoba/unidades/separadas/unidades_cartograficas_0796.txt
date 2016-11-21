@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente erosionada de Series
+Series: NOETINGER | EL CANDIL | EL CHAJA
+Porcentajes: 20% | 50% | 30%
+Simbolo: Ntg2
+Capacidad de Uso: IVsc
+Indice de Productividad: 48

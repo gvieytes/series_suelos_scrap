@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LAS ISLETILLAS en fase severamente erosionada | VIRA PITA en fase engrosada y moderadamente erosionada | HERNANDO en fase acumulada | carcavas y surcos profundos
+Porcentajes: 30% | 40% | 20% | 10%
+Simbolo: LI2
+Capacidad de Uso: VIec
+Indice de Productividad: 24

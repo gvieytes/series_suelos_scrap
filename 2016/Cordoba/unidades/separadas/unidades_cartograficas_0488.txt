@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: JUSTINIANO POSSE
+Porcentajes:
+Simbolo: JP
+Capacidad de Uso: Vw
+Indice de Productividad:

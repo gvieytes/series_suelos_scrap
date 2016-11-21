@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SOCONCHO en fase ligera a moderadamente erosionada | SOCONCHO en fase acumulada | suelos menores fluviales
+Porcentajes: 40% | 40% | 20%
+Simbolo: Scn2
+Capacidad de Uso: IVec
+Indice de Productividad: 53

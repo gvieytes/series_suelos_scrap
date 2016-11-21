@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series:
+Porcentajes:
+Simbolo: Co193
+Capacidad de Uso: VIIws
+Indice de Productividad: 6

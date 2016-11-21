@@ -1,0 +1,6 @@
+Simbolo: Be3
+Capacidad de Uso: IVec
+Indice de Productividad: 50
+Descripcion: Asociacion de Series
+Series: BELEN en fase ligeramente erosionada y acumulada | SINSACATE en fase moderadamente erosionada | lechos arenosos de depositos recientes
+Porcentajes: 60% | 30% | 10%

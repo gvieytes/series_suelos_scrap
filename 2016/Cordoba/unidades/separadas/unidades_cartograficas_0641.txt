@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA REMONTA en fase imperfectamente drenada
+Porcentajes:
+Simbolo: LRe3
+Capacidad de Uso: IVws
+Indice de Productividad: 20

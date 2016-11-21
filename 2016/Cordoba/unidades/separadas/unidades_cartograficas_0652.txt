@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS SAUCES | SEBASTIAN ELCANO | LOS HOYOS | SAN PEDRO
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: LSc1
+Capacidad de Uso: IVsc
+Indice de Productividad: 62

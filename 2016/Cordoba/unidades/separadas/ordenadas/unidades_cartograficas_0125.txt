@@ -1,0 +1,6 @@
+Simbolo: BGd10
+Capacidad de Uso: VIIws
+Indice de Productividad: 8
+Descripcion: Complejo de Series
+Series: BENJAMIN GOULD en fase muy inundable | OLAETA en fase moderadamente alcalina | SANTA EUFEMIA en fase muy inundable | LOS MEDANITOS en fase inundable y fuertemente alcalina .
+Porcentajes: 30% | 20% | 20% | 30%

@@ -1,0 +1,6 @@
+Simbolo: MA7
+Capacidad de Uso: IVsc
+Indice de Productividad: 51
+Descripcion: Complejo en fase moderadamente bien drenada de Series
+Series: MONTE ALTO | ONCATIVO | AUSONIA
+Porcentajes: 30% | 30% | 40%

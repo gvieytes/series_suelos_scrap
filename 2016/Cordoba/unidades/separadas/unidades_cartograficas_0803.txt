@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ONCATIVO
+Porcentajes:
+Simbolo: Ot
+Capacidad de Uso: IIIc
+Indice de Productividad: 65

@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LOS CARDOS en fase ligeramente erosionada
+Porcentajes:
+Simbolo: LCd2
+Capacidad de Uso: IIe
+Indice de Productividad: 81

@@ -1,0 +1,6 @@
+Simbolo: LCt1
+Capacidad de Uso: IIIec
+Indice de Productividad: 42
+Descripcion: Asociacion de Series
+Series: LA CARLOTA | CANALS | CANALS en fase moderadamente erosionada por viento
+Porcentajes: 50% | 25% | 25%

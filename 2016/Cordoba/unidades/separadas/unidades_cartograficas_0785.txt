@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente erosionada de Series
+Series: MATORRALES | VILLA DEL ROSARIO
+Porcentajes: 60% | 40%
+Simbolo: Mt7
+Capacidad de Uso: IIIec
+Indice de Productividad: 68

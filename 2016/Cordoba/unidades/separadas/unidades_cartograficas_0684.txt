@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LA LEONCITA en fase ligeramente alcalina | NAMUNCURA
+Porcentajes: 50% | 50%
+Simbolo: LLe2
+Capacidad de Uso: Vw
+Indice de Productividad: 52

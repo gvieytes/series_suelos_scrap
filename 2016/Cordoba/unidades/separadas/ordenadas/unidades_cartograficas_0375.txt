@@ -1,0 +1,6 @@
+Simbolo: EPi
+Capacidad de Uso: IIIsc
+Indice de Productividad: 70
+Descripcion: Complejo de Series
+Series: EL PINO | EL PINO en fase moderadamente bien drenada | EL PINO en fase salina en profundidad
+Porcentajes: 40% | 40% | 20%

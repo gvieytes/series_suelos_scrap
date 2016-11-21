@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: CANADA LA CRUZ | ESTANCIA LA LEONA | suelos menores imperfectamente drenados
+Porcentajes: 40% | 30% | 30%
+Simbolo: CCz2
+Capacidad de Uso: VIws
+Indice de Productividad: 24

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: TANCACHA | suelos fluviales y fluvio eolicos franco arenosos y arenosos
+Porcentajes: 50% | 50%
+Simbolo: Tch1
+Capacidad de Uso: IVsc
+Indice de Productividad: 27

@@ -1,0 +1,6 @@
+Simbolo: LCr3
+Capacidad de Uso: IVsc
+Indice de Productividad: 60
+Descripcion: Asociacion de Series
+Series: LAS CORTADERAS | EL ALCALDE | LA EMILIA | suelos menores de texturas livianas areno francas
+Porcentajes: 40% | 20% | 20% | 20%

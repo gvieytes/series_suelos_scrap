@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente erosionada de Series
+Series: COLONIA PROGRESO | LA BELGICA
+Porcentajes: 60% | 40%
+Simbolo: CPg1
+Capacidad de Uso: IVws
+Indice de Productividad: 49

@@ -1,0 +1,6 @@
+Simbolo: TU1
+Capacidad de Uso: IIIc
+Indice de Productividad: 64
+Descripcion: Asociacion de Series
+Series: TERCERA USINA | SOCONCHO | ALMAFUERTE
+Porcentajes: 60% | 20% | 20%

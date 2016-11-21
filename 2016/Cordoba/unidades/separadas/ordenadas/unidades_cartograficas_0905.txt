@@ -1,0 +1,6 @@
+Simbolo: Rs25
+Capacidad de Uso: VIIws
+Indice de Productividad: 9
+Descripcion: Complejo de Series
+Series: ROSALES en fase salina | ESTANCIA LA ALICIA en fase muy inundable | ESTACION SALGUERO en fase muy inundable
+Porcentajes: 35% | 35% | 30%

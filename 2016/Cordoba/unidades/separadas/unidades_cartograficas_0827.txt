@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: OLAETA en fase moderadamente erosionada por viento | OLAETA en fase severamente erosionada por viento | suelos menores arenosos poco diferenciados
+Porcentajes: 40% | 30% | 30%
+Simbolo: Ota15
+Capacidad de Uso: VIes
+Indice de Productividad: 26

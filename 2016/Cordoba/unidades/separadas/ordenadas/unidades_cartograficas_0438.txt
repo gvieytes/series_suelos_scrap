@@ -1,0 +1,6 @@
+Simbolo: GSaII1
+Capacidad de Uso: VIsc
+Indice de Productividad: 24
+Descripcion: Asociacion de Series
+Series: GENERAL SAVIO II | TANCACHA | suelos menores
+Porcentajes: 50% | 40% | 10%

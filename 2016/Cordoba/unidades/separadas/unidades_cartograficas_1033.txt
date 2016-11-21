@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Villa del Transito de suelos fluviales arenosos
+Porcentajes:
+Simbolo: VTr
+Capacidad de Uso: VIIsc
+Indice de Productividad: 12

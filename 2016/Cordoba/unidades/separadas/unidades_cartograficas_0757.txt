@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: MARCOS JUAREZ en fase moderadamente bien drenada
+Porcentajes:
+Simbolo: MJ2
+Capacidad de Uso: I
+Indice de Productividad: 81

@@ -1,0 +1,6 @@
+Simbolo: LPo3
+Capacidad de Uso: IVec
+Indice de Productividad: 52
+Descripcion: Asociacion en fase moderadamente inclinada de Series
+Series: LOS POZOS | LAS MERCEDES I | EL DURAZNO | RODEO VIEJO
+Porcentajes: 40% | 30% | 15% | 15%

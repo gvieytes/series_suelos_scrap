@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE ALTO en fase ligera a moderadamente ondulada | MONTE ALTO en fase ligera a moderadamente erosionada
+Porcentajes: 60% | 40%
+Simbolo: MA14
+Capacidad de Uso: IIIec
+Indice de Productividad: 63

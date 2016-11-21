@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE ALTO en fase severamente erosionada | MONTE ALTO en fase gravemente erosionada | suelos menores someros, liticos y petrocalcicos
+Porcentajes: 40% | 40% | 20%
+Simbolo: MA16
+Capacidad de Uso: VIec
+Indice de Productividad: 23

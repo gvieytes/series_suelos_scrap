@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: MONTE ALTO
+Porcentajes:
+Simbolo: MA
+Capacidad de Uso: IIIc
+Indice de Productividad: 68

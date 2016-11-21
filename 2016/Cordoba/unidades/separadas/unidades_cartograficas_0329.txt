@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase severamente erosionada de Series
+Series: ESTANCIA ANA MARIA | LAS PENAS SUR | PUERTA COLORADA | suelos menores con arcilla en el subsuelo
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: EAM3
+Capacidad de Uso: VIec
+Indice de Productividad: 31

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA VICTORIA | LOS TAMARINDOS | WENCESLAO ESCALANTE
+Porcentajes: 30% | 30% | 40%
+Simbolo: LVt5
+Capacidad de Uso: VIws
+Indice de Productividad: 9

@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: MATORRALES
+Porcentajes:
+Simbolo: Mt
+Capacidad de Uso: IIIc
+Indice de Productividad: 80

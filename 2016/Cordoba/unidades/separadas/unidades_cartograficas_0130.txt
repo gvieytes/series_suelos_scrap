@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: BARRANCA YACO | LA EMILIA | PUERTA DE HIERRO II y otros suelos de textura arenosa franca poco desarrollados
+Porcentajes:
+Simbolo: BYc3
+Capacidad de Uso: IVsc
+Indice de Productividad: 45

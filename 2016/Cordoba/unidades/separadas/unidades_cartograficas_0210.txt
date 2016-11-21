@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de Alboles
+Porcentajes:
+Simbolo: Co41
+Capacidad de Uso: IVws
+Indice de Productividad:

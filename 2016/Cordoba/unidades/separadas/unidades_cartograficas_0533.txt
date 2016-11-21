@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LABOULAYE | LEGUIZAMON | LAS MARINAS
+Porcentajes: 50% | 25% | 25%
+Simbolo: Lby5
+Capacidad de Uso: IIIsc
+Indice de Productividad: 70

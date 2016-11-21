@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA BELGICA | COLONIA PROGRESO
+Porcentajes: 90% | 10%
+Simbolo: LBg6
+Capacidad de Uso: IIc
+Indice de Productividad: 84

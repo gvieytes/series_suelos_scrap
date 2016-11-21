@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: SAN PEDRO en fase inclinada y erosionada | LOS SAUCES en fase inclinada | LOS HOYOS en fase moderadamente erosionada y suelos arenosos poco diferenciados con gravas
+Porcentajes:
+Simbolo: SPd
+Capacidad de Uso: VIes
+Indice de Productividad: 34

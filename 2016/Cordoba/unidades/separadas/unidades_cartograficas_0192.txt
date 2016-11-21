@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos de valles interserranos y abanicos aluviales vinculados a afloramientos y rocas sedimentarias conglomeradicas, con suelos aluviales profundos
+Porcentajes:
+Simbolo: Co23
+Capacidad de Uso: IVes
+Indice de Productividad: 37

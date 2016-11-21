@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: CHILIBROSTE | SAN ANTONIO DE LITIN | EL EMBRUJO | EL PUMA
+Porcentajes: 60% | 15% | 15% | 10%
+Simbolo: Chb2
+Capacidad de Uso: IVws
+Indice de Productividad: 25

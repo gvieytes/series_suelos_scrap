@@ -1,0 +1,6 @@
+Simbolo: LLe1
+Capacidad de Uso: Vw
+Indice de Productividad: 60
+Descripcion: Asociacion de Series
+Series: LA LEONCITA | NAMUNCURA
+Porcentajes: 50% | 50%

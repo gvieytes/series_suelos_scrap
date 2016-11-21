@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ALEJO LEDESMA
+Porcentajes:
+Simbolo: ALd
+Capacidad de Uso: IIc
+Indice de Productividad: 64

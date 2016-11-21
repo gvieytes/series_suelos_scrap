@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: EL RODEO | RAYO CORTADO | SEBASTIAN ELCANO y suelos menores aluviales
+Porcentajes:
+Simbolo: ERo
+Capacidad de Uso: IVc
+Indice de Productividad: 57

@@ -1,0 +1,6 @@
+Simbolo: ACo5
+Capacidad de Uso: VIec
+Indice de Productividad: 27
+Descripcion: Complejo en fase severamente erosionada de Series
+Series: ALPA CORRAL | EL CANO | SAN BARTOLOME | suelos menores poco profundos, suelos enterrados y suelos en capas
+Porcentajes: 50% | 20% | 10% | 20%

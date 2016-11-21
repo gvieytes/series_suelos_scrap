@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL VEINTITRES | ALFALEGRE
+Porcentajes: 70% | 30%
+Simbolo: E23/9
+Capacidad de Uso: IVsc
+Indice de Productividad: 32

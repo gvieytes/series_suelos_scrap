@@ -1,0 +1,6 @@
+Simbolo: HR8
+Capacidad de Uso: VIes
+Indice de Productividad: 11
+Descripcion: Complejo en fase severamente erosionada de Series
+Series: HUINCA RENANCO | EL VEINTITRES | suelos arenosos poco diferenciados
+Porcentajes: 20% | 20% | 60%

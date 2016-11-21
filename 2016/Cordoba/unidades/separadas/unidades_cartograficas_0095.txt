@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: BAIGORRIA en fase moderada a severamente erosionada por viento | suelos menores arenosos poco diferenciados
+Porcentajes: 70% | 30%
+Simbolo: Bag12
+Capacidad de Uso: VIes
+Indice de Productividad: 23

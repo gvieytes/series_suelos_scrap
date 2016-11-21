@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase moderada a severamente erosionada de Series
+Series: LAS BAJADAS | MONTE RALO | suelos menores
+Porcentajes: 60% | 30% | 10%
+Simbolo: LBj7
+Capacidad de Uso: VIec
+Indice de Productividad: 35

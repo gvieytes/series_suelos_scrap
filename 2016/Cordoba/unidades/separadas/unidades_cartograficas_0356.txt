@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL GUANACO | LA ENCRUCIJADA | LAS ARRIAS en fase moderadamente alcalina | POZO DE LA OLLA
+Porcentajes: 40% | 30% | 15% | 15%
+Simbolo: EGu
+Capacidad de Uso: VIws
+Indice de Productividad: 14

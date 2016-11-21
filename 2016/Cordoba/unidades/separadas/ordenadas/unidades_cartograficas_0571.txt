@@ -1,0 +1,6 @@
+Simbolo: LEm9
+Capacidad de Uso: IIIc
+Indice de Productividad: 66
+Descripcion: Asociacion de Series
+Series: LA EMILIA | BARRANCA YACO | CONSTITUCION
+Porcentajes: 40% | 30% | 30%

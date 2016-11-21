@@ -1,0 +1,6 @@
+Simbolo: AsC
+Capacidad de Uso: IVec
+Indice de Productividad: 46
+Descripcion: Asociacion de Series
+Series: SANTA ROSA I | SANTA ROSA II | SANTA ROSA III | CALAMUCHITA IV | SAN IGNACIO III | SAN IGNACIO IV
+Porcentajes:

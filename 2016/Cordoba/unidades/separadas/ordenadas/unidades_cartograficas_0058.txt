@@ -1,0 +1,6 @@
+Simbolo: AsA
+Capacidad de Uso: IVec
+Indice de Productividad: 45
+Descripcion: Asociacion de Series
+Series: SANTA ROSA III | SAN IGNACIO III | SAN IGNACIO IV
+Porcentajes:

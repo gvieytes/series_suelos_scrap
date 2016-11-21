@@ -1,0 +1,6 @@
+Simbolo: Mt13
+Capacidad de Uso: IIIsc
+Indice de Productividad: 59
+Descripcion: Complejo de Series
+Series: MATORRALES | MATORRALES en fase sodica en el subsuelo | COSTA SACATE | LA FRANCIA
+Porcentajes: 40% | 20% | 20% | 20%

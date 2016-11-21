@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: PILAR | RIO SEGUNDO (dominante) | IMPIRA e IMPIRA en fase sodica de superficie y suelos enterrados y capas arenosas
+Porcentajes:
+Simbolo: Ip
+Capacidad de Uso: VIws
+Indice de Productividad: 16

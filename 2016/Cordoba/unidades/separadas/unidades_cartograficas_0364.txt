@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ESTANCIA LA LEONA | SACANTA en fase moderadamente bien drenada y/o engrosada | CANADA LA CRUZ
+Porcentajes: 20% | 60% | 20%
+Simbolo: ELL1
+Capacidad de Uso: IVws
+Indice de Productividad: 56

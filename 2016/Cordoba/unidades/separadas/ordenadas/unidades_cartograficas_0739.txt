@@ -1,0 +1,6 @@
+Simbolo: Mch5
+Capacidad de Uso: VIsc
+Indice de Productividad: 35
+Descripcion: Complejo de Series
+Series: MACHA en fase acumulada | LA EMILIA en fase acumulada | LA EMILIA
+Porcentajes: 40% | 30% | 30%

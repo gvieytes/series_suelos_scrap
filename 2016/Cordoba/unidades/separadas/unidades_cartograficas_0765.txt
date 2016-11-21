@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase engrosada de Series
+Series: MARCOS JUAREZ | COLONIA MORENO | MARIA MANUELA
+Porcentajes: 10% | 60% | 30%
+Simbolo: MJ10
+Capacidad de Uso: IVws
+Indice de Productividad: 50

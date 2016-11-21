@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: PUERTA COLORADA en fase moderada a fuertemente inclinada | MONTE ALTO en fase ondulada y ligeramente erosionada | suelos menores profundos de valles interserranos y someros de laderas
+Porcentajes: 40% | 40% | 20%
+Simbolo: PCo1
+Capacidad de Uso: IVec
+Indice de Productividad: 51

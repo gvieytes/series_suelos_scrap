@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: MONTE BUEY en fase muy poco inundable
+Porcentajes:
+Simbolo: MB7
+Capacidad de Uso: IIc
+Indice de Productividad: 86

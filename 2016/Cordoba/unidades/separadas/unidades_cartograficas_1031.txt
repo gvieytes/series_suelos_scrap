@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: VILLA ROSSI | SAN JULIAN | LOS MEDANITOS en fase salina
+Porcentajes:
+Simbolo: VRs3
+Capacidad de Uso: VIws
+Indice de Productividad: 28

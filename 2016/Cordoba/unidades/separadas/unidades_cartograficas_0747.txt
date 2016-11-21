@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MAGGIOLO | SANTA ISABEL
+Porcentajes: 50% | 50%
+Simbolo: Mg1
+Capacidad de Uso: I
+Indice de Productividad:

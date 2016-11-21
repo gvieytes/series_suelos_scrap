@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: HANSEN en fase moderadamente bien drenada y engrosada
+Porcentajes:
+Simbolo: Ha16
+Capacidad de Uso: IIw
+Indice de Productividad:

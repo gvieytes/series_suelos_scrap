@@ -1,0 +1,6 @@
+Simbolo: Rs12
+Capacidad de Uso: VIIws
+Indice de Productividad: 19
+Descripcion: Complejo de Series
+Series: ROSALES | ESTANCIA LA ALICIA | ESTACION SALGUERO
+Porcentajes: 30% | 30% | 40%

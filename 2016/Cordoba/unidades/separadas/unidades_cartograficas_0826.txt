@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: Olaeta | Olaeta en fase ligeramente erosionada por viento | Baigorria
+Porcentajes: 40% | 30% | 30%
+Simbolo: Ota14
+Capacidad de Uso: IIIes
+Indice de Productividad: 41

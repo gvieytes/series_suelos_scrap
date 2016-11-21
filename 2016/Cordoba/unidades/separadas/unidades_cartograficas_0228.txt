@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de colectores o desagues principales en la Pampa Loessica Alta
+Porcentajes:
+Simbolo: Co59
+Capacidad de Uso: IVws
+Indice de Productividad: 42

@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos desarrollados sobre sierras bajas del complejo metamorfico
+Porcentajes:
+Simbolo: Co47
+Capacidad de Uso: VIIes
+Indice de Productividad: 19

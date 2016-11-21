@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ALPA CORRAL | ESTANCIA LA TORRE en fase ligera a moderadamente erosionada | SAN BARTOLOME | SAN BARTOLOME en fase acumulada
+Porcentajes: 20% | 50% | 20% | 10%
+Simbolo: ACo1
+Capacidad de Uso: IIIec
+Indice de Productividad: 52

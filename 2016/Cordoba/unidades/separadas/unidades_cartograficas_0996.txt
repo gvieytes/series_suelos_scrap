@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SAIRA | SAIRA en fase moderadamente alcalina | LA SARA | suelos menores
+Porcentajes: 20% | 40% | 30% | 10%
+Simbolo: Sr3
+Capacidad de Uso: IVws
+Indice de Productividad: 39

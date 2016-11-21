@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LAGUNA AVILA | suelos menores
+Porcentajes: 90% | 10%
+Simbolo: LAv
+Capacidad de Uso: VIIIws
+Indice de Productividad: 3

@@ -1,0 +1,6 @@
+Simbolo: BE2
+Capacidad de Uso: VIes
+Indice de Productividad: 7
+Descripcion: Asociacion de Series
+Series: BUENA ESPERANZA | BUENA ESPERANZA en fase llana | relictos medanosos antiguos
+Porcentajes: 50% | 30% | 20%

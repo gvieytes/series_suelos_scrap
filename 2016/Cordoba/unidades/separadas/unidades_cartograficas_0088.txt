@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BAIGORRIA en fase moderadamente inclinada y moderadamente erosionada por agua
+Porcentajes:
+Simbolo: Bag5
+Capacidad de Uso: IVes
+Indice de Productividad: 38

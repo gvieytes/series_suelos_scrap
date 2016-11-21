@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: COLONIA MORENO | MARIA MANUELA | SCHIFFNER | CRISPI
+Porcentajes: 35% | 35% | 20% | 10%
+Simbolo: CM6
+Capacidad de Uso: IVws
+Indice de Productividad: 43

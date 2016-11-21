@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: VILLA HUIDOBRO
+Porcentajes:
+Simbolo: VHd
+Capacidad de Uso: IIIsc
+Indice de Productividad: 60

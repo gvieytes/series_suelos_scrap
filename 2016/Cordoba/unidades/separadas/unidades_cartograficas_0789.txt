@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MATORRALES en fase alcalina en profundidad | SACANTA en fase moderadamente bien drenada | PARAJE LOS ZORROS | suelos menores con alcalinidad y/o salinidad variable
+Porcentajes: 40% | 20% | 30% | 10%
+Simbolo: Mt11
+Capacidad de Uso: IVsc
+Indice de Productividad: 49

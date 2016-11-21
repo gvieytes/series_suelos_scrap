@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: CAVANAGH
+Porcentajes:
+Simbolo: Cv
+Capacidad de Uso: lIc
+Indice de Productividad: 86

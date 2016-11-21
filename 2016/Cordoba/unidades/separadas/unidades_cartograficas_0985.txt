@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: del flanco oriental de la Sierra Norte de Cordoba
+Porcentajes:
+Simbolo: SN
+Capacidad de Uso: VIIes
+Indice de Productividad: 10

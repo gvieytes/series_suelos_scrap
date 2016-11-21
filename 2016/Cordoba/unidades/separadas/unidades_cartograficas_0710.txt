@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE ALTO en fase ligeramente erosionada | MONTE ALTO en fase moderadamente erosionada | MONTE ALTO en fase severamente erosionada
+Porcentajes: 40% | 30% | 30%
+Simbolo: MA13
+Capacidad de Uso: IVec
+Indice de Productividad: 51

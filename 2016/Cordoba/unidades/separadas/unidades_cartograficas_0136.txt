@@ -1,0 +1,6 @@
+Descripcion: Carcavas
+Series:
+Porcentajes:
+Simbolo: C
+Capacidad de Uso: 8
+Indice de Productividad:

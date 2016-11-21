@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: EL CHACAY | EL CHACAY en fase somera | EL CHACAY en fase profunda y muy pedregosa | HUERTA VIEJA en fase profunda y extremadamente pedregosa | YACANTO III y afloramientos rocosos
+Porcentajes:
+Simbolo: CoM
+Capacidad de Uso: VIIes
+Indice de Productividad: 9

@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligera a severamente erosionada de Series
+Series: HANSEN | RIO TERCERO
+Porcentajes: 90% | 10%
+Simbolo: Ha3
+Capacidad de Uso: IIIes
+Indice de Productividad: 67

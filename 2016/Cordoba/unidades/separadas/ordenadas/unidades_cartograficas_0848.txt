@@ -1,0 +1,6 @@
+Simbolo: Pn
+Capacidad de Uso: IVws
+Indice de Productividad: 35
+Descripcion: Complejo de Series
+Series: PINCEN | EL VEINTITRES | EL VEINTITRES en fase moderadamente alcalina
+Porcentajes: 40% | 30% | 30%

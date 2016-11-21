@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SEBASTIAN ELCANO | CANDELARIA
+Porcentajes: 70% | 30%
+Simbolo: SEc9
+Capacidad de Uso: IVc
+Indice de Productividad: 65

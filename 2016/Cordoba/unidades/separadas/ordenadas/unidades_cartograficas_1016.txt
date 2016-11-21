@@ -1,0 +1,6 @@
+Simbolo: VE1
+Capacidad de Uso: I
+Indice de Productividad: 90
+Descripcion: Consociacion
+Series: VILLA ELOISA
+Porcentajes:

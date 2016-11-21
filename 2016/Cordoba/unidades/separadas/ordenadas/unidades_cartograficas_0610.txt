@@ -1,0 +1,6 @@
+Simbolo: LMt2
+Capacidad de Uso: IVc
+Indice de Productividad: 57
+Descripcion: Asociacion de Series
+Series: LOS MISTOLES | EL TACO | CANDELARIA
+Porcentajes: 40% | 40% | 20%

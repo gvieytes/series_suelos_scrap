@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA PLAYOSA | LAGUNA LAS LIEBRES | LAGUNA BLAIZOT
+Porcentajes: 30% | 40% | 30%
+Simbolo: LPs6
+Capacidad de Uso: VIIws
+Indice de Productividad: 12

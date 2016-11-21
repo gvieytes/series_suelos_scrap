@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos con alcalinidad subsuperficial moderada e imperfectamente drenados
+Porcentajes:
+Simbolo: Co15
+Capacidad de Uso: VIws
+Indice de Productividad: 20

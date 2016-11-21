@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LABORDE en fase muy poco anegable y engrosada
+Porcentajes:
+Simbolo: Lb2
+Capacidad de Uso: IIc
+Indice de Productividad: 69

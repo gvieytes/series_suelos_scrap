@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: BARRANCA YACO | LA EMILIA | TERRAZAS DEL RIO PINTO | LOS COMETIERRA
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: BYc6
+Capacidad de Uso: IIIsc
+Indice de Productividad: 65

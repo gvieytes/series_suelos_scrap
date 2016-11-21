@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ROSALES | LAS MARINAS | LABOULAYE
+Porcentajes: 40% | 40% | 20%
+Simbolo: Rs4
+Capacidad de Uso: IIIsc
+Indice de Productividad: 55

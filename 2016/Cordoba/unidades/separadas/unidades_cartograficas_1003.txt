@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos fluviales franco arenosos y arenosos
+Porcentajes:
+Simbolo: Tch2
+Capacidad de Uso: IVec
+Indice de Productividad: 49

@@ -1,0 +1,6 @@
+Simbolo: ACo13
+Capacidad de Uso: IVec
+Indice de Productividad: 54
+Descripcion: Complejo en fase moderadamente erosionada por agua y moderadamente inclinada de Series
+Series: ALPA CORRAL | EL CANO en fase acumulada | EL CANO en fase moderadamente erosionada por agua
+Porcentajes: 50% | 25% | 25%

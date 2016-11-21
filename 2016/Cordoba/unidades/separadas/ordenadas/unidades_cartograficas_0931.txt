@@ -1,0 +1,6 @@
+Simbolo: Sc10
+Capacidad de Uso: IVsc
+Indice de Productividad: 41
+Descripcion: Complejo de Series
+Series: SACANTA | SACANTA en fase moderadamente salina en profundidad | IMPIRA | RIO SEGUNDO
+Porcentajes: 20% | 40% | 20% | 20%

@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase muy poco inundable de Series
+Series: MONTE DE LOS GAUCHOS | GENERAL DEHEZA | ESTANCIA DON FRANCISCO
+Porcentajes: 40% | 40% | 20%
+Simbolo: MGa2
+Capacidad de Uso: IVws
+Indice de Productividad: 49

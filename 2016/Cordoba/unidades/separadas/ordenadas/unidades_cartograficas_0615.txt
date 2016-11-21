@@ -1,0 +1,6 @@
+Simbolo: LPn
+Capacidad de Uso: VIes
+Indice de Productividad: 27
+Descripcion: Complejo de Series
+Series: LOS PORTENOS | EL VEINTITRES | suelos arenosos poco diferenciados
+Porcentajes: 30% | 30% | 40%

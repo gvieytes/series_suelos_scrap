@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente anegable de Series
+Series: VILLA HUIDOBRO | LAS ISLETAS | EL VEINTITRES
+Porcentajes: 50% | 20% | 30%
+Simbolo: VHd5
+Capacidad de Uso: IIIc
+Indice de Productividad: 52

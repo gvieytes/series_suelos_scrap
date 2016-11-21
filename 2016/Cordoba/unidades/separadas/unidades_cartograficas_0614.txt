@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS PARAISOS | LA CARLOTA | EL ONCE | ASSUNTA
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: LPa3
+Capacidad de Uso: IVsc
+Indice de Productividad: 39

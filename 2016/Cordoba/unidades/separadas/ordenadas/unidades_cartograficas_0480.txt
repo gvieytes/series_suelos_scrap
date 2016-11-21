@@ -1,0 +1,6 @@
+Simbolo: It
+Capacidad de Uso: IIIsc
+Indice de Productividad: 45
+Descripcion: Complejo de Series
+Series: ITALO | PINCEN | EL VEINTITRES
+Porcentajes: 60% | 20% | 20%

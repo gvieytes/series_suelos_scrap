@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: OLAETA en fase ligeramente erosionada por viento | MONTE DE LOS GAUCHOS | ESTANCIA DON FRANCISCO
+Porcentajes: 60% | 30% | 10%
+Simbolo: Ota12
+Capacidad de Uso: IVes
+Indice de Productividad: 44

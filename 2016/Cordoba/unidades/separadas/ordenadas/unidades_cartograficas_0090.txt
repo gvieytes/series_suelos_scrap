@@ -1,0 +1,6 @@
+Simbolo: Bag7
+Capacidad de Uso: IIIes
+Indice de Productividad: 50
+Descripcion: Asociacion de Series
+Series: BAIGORRIA | BAIGORRIA en fase ligeramente erosionada por viento | BAIGORRIA en fase acumulada
+Porcentajes: 60% | 20% | 20%

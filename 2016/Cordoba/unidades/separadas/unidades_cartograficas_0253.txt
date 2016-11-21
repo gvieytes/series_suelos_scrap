@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: Pampa de Achala de Series ACHALA I | ACHALA II | ACHALA III | ACHALA IV | ACHALA V | ACHALA VI | ACHALA VII
+Porcentajes:
+Simbolo: CoJ
+Capacidad de Uso: VIIes
+Indice de Productividad: 20

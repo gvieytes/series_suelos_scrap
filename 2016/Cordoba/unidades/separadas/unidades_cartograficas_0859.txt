@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Pampayasta 3 de areas de inundacion con suelos degradados salino y sodicos
+Porcentajes:
+Simbolo: Pyt3
+Capacidad de Uso: VIIws
+Indice de Productividad: 3

@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: Pampa Serrana de Series YACANTO I | YACANTO II | YACANTO III | YACANTO IV | CALAMUCHITA III | SAN IGNACIO IV | FUNDACION | SAN PANCRACIO
+Porcentajes:
+Simbolo: CoD1
+Capacidad de Uso: IVes/VIes
+Indice de Productividad: 38

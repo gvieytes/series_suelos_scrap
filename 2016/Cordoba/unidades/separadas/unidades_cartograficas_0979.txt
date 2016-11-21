@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: SAN JOSE | LOS TAMARINDOS en fase fuertemente alcalina | LA VICTORIA en fase fuertemente alcalina
+Porcentajes:
+Simbolo: SJo
+Capacidad de Uso: VIIws
+Indice de Productividad: 5

@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase ligera a moderadamente erosionada de Series
+Series: LAS MERCEDES II | LAS MERCEDES I en fase acumulada | suelos menores y depositos arenosos recientes
+Porcentajes: 50% | 30% | 20%
+Simbolo: McII4
+Capacidad de Uso: IVec
+Indice de Productividad: 51

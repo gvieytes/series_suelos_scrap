@@ -1,0 +1,6 @@
+Simbolo: Mt10
+Capacidad de Uso: IVws
+Indice de Productividad: 53
+Descripcion: Complejo de Series
+Series: MATORRALES en fase imperfectamente drenada | COSTA SACATE en fase ligeramente sodica en profundidad | ARROYITO
+Porcentajes: 60% | 20% | 20%

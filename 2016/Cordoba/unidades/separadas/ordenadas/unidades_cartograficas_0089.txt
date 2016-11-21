@@ -1,0 +1,6 @@
+Simbolo: Bag6
+Capacidad de Uso: IVsc
+Indice de Productividad: 42
+Descripcion: Asociacion de Series
+Series: BAIGORRIA | suelos menores de derrames de desbordes de rios y arroyos de texturas variadas
+Porcentajes: 70% | 30%

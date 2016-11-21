@@ -1,0 +1,6 @@
+Simbolo: LPr1
+Capacidad de Uso: VIsc
+Indice de Productividad: 40
+Descripcion: Complejo de Series
+Series: LA PARA | ESTACION SANTA ROSA | suelos menores arenosos poco diferenciados en capas
+Porcentajes: 50% | 20% | 30%

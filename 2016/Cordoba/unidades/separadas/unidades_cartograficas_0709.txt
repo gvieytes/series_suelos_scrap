@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE ALTO en fase moderadamente inclinada y ligeramente erosionada | MONTE ALTO en fase moderadamente erosionada
+Porcentajes: 60% | 40%
+Simbolo: MA12
+Capacidad de Uso: IIIec
+Indice de Productividad: 56

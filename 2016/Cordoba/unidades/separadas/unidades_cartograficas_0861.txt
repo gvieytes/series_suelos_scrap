@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: POZO DE LA LOMA | LA QUINTA
+Porcentajes: 70% | 30%
+Simbolo: PzL1
+Capacidad de Uso: IIIc
+Indice de Productividad: 66

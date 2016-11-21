@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ALPA CORRAL | SAN BARTOLOME | EL CANO
+Porcentajes: 40% | 30% | 30%
+Simbolo: ACo12
+Capacidad de Uso: IIIec
+Indice de Productividad: 65

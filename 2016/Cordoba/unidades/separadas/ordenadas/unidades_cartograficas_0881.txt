@@ -1,0 +1,6 @@
+Simbolo: Rs1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 69
+Descripcion: Complejo de Series
+Series: ROSALES | LEGUIZAMON | suelos menores
+Porcentajes: 20% | 70% | 10%

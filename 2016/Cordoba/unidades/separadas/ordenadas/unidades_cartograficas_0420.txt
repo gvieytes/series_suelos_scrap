@@ -1,0 +1,6 @@
+Simbolo: EYl1
+Capacidad de Uso: IIIc
+Indice de Productividad: 56
+Descripcion: Asociacion de Series
+Series: ESTANCIA YOLANDA | ESTACION SANTA ROSA
+Porcentajes: 70% | 30%

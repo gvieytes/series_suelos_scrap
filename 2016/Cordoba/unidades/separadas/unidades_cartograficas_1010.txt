@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: TOTORAL | BARRANCA YACO
+Porcentajes: 60% | 40%
+Simbolo: Tt1
+Capacidad de Uso: IIIc
+Indice de Productividad: 70

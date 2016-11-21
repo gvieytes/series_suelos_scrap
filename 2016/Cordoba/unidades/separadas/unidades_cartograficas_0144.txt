@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: CANDELARIA | LOS MISTOLES | EL TACO
+Porcentajes: 40% | 40% | 20%
+Simbolo: Cdl3
+Capacidad de Uso: IVc
+Indice de Productividad: 59

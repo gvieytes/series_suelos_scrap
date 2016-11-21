@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: CINTRA | SANTA ELENA | NOETINGER en fase moderadamente bien drenada | CHILIBROSTE
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: Ct1
+Capacidad de Uso: IVws
+Indice de Productividad: 34

@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligera a severamente erosionada de Series
+Series: RIO TERCERO | MARCOS JUAREZ
+Porcentajes: 70% | 30%
+Simbolo: RT4
+Capacidad de Uso: VIes
+Indice de Productividad: 34

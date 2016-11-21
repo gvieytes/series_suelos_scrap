@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LOS MEDANITOS | CANALS en fase moderadamente alcalina en profundidad | suelos moderadamente alcalinos
+Porcentajes: 30% | 30% | 40%
+Simbolo: LMd7
+Capacidad de Uso: VIws
+Indice de Productividad: 28

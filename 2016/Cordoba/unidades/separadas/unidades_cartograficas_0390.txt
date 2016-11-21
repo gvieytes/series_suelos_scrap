@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL PUMA en fase imperfectamente drenada | LA FRANCIA | SAN ANTONIO DE LITIN | ESTANCIA SAN MIGUEL
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: EPm11
+Capacidad de Uso: IVsc
+Indice de Productividad: 51

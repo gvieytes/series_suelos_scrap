@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligera a moderadamente erosionada de Series
+Series: ALPA CORRAL | EL CANO
+Porcentajes: 70% | 30%
+Simbolo: ACo
+Capacidad de Uso: IIIec
+Indice de Productividad: 51

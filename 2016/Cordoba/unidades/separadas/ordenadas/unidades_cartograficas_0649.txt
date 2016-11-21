@@ -1,0 +1,6 @@
+Simbolo: LS
+Capacidad de Uso: IIIsc
+Indice de Productividad: 60
+Descripcion: Complejo de Series
+Series: LA SARA | suelos menores
+Porcentajes: 90% | 10%

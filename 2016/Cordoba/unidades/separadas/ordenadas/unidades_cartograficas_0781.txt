@@ -1,0 +1,6 @@
+Simbolo: Mt3
+Capacidad de Uso: IVws
+Indice de Productividad: 60
+Descripcion: Complejo de Series
+Series: MATORRALES en fase poco anegable | MATORRALES en fase moderadamente salina en profundidad | LA REYNA
+Porcentajes: 40% | 30% | 30%

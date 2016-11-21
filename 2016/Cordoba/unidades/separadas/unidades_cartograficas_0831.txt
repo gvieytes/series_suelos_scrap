@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ORDONEZ en fase muy poco inundable y engrosada
+Porcentajes:
+Simbolo: Oz2
+Capacidad de Uso: IIw
+Indice de Productividad: 81

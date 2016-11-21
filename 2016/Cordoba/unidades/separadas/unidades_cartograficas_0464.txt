@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: HUINCA RENANCO | SAN CARLOS | PINCEN
+Porcentajes: 60% | 20% | 20%
+Simbolo: HR2
+Capacidad de Uso: IVes
+Indice de Productividad: 20

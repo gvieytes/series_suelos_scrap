@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA REMONTA en fase ligera a moderadamente erosionada
+Porcentajes:
+Simbolo: LRe4
+Capacidad de Uso: IVes
+Indice de Productividad: 21

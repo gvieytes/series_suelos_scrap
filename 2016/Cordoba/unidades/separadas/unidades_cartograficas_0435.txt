@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: GENERAL PAZ en fase alcalina | CAYUQUEO en fase alcalina de superficie | LAS PLAYAS y suelos arenosos moderadamente alcalinos fluviales de paleocauces
+Porcentajes:
+Simbolo: GPz1
+Capacidad de Uso: VIIws
+Indice de Productividad: 25

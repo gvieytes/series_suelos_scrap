@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ROSALES en fase poco anegable | ROSALES en fase salina y anegable | VILLA ROSSI en fase anegable | suelos menores
+Porcentajes: 50% | 20% | 20% | 10%
+Simbolo: Rs21
+Capacidad de Uso: VIws
+Indice de Productividad: 17

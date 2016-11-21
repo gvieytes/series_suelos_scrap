@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: COLONIA PROGRESO | LA BELGICA
+Porcentajes: 75% | 25%
+Simbolo: CPg3
+Capacidad de Uso: IVws
+Indice de Productividad: 46

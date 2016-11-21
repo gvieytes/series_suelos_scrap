@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase ligeramente engrosada y erosionada de Series
+Series: MARCOS JUAREZ | NAMUNCURA
+Porcentajes: 80% | 20%
+Simbolo: MJ9
+Capacidad de Uso: IIw
+Indice de Productividad: 77

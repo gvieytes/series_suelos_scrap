@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase muy inundable de Series
+Series: ROSALES | ROSALES en fase salina | suelos menores salino sodicos
+Porcentajes: 50% | 40% | 10%
+Simbolo: Rs24
+Capacidad de Uso: VIws
+Indice de Productividad: 7

@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos arenosos (psammenticos) y medanos estabilizados
+Porcentajes:
+Simbolo: Tch4
+Capacidad de Uso: VIes
+Indice de Productividad: 24

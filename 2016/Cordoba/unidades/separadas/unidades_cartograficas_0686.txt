@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA LAGUNITA
+Porcentajes:
+Simbolo: LLg
+Capacidad de Uso: IIw
+Indice de Productividad: 77

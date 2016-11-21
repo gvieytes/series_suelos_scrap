@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Los Tamariscos de suelos hidromorficos salino sodicos
+Porcentajes:
+Simbolo: Tm
+Capacidad de Uso: VIIws
+Indice de Productividad: 3

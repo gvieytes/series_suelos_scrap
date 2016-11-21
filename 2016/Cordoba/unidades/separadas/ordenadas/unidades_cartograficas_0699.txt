@@ -1,0 +1,6 @@
+Simbolo: MA2
+Capacidad de Uso: IIIc
+Indice de Productividad: 70
+Descripcion: Asociacion de Series
+Series: MONTE ALTO | LAS ISLETILLAS
+Porcentajes: 80% | 20%

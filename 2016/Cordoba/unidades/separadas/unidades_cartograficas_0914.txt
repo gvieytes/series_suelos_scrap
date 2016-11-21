@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase ligeramente erosionada de Series
+Series: RIO TERCERO | NAMUNCURA
+Porcentajes: 70% | 30%
+Simbolo: RT6
+Capacidad de Uso: IVs
+Indice de Productividad: 31

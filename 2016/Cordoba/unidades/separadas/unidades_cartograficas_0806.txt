@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ONCATIVO | ONCATIVO en fase salina y sodica en profundidad | MANFREDI en fase sodica en profundidad
+Porcentajes: 60% | 20% | 20%
+Simbolo: Ot3
+Capacidad de Uso: IIIsc
+Indice de Productividad: 57

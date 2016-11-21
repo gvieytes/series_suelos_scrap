@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase moderadamente inclinada y ligeramente erosionada de Series
+Series: LA EMILIA | ALTO GRANDE | BARRANCA YACO
+Porcentajes: 40% | 30% | 30%
+Simbolo: LEm3
+Capacidad de Uso: IVec
+Indice de Productividad: 59

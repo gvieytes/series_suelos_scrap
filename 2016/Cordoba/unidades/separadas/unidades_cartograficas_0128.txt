@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: BARRANCA YACO | LA EMILIA | LA EMILIA en fase ligera a moderadamente erosionada por agua
+Porcentajes: 60% | 20% | 20%
+Simbolo: BYc1
+Capacidad de Uso: IIIec
+Indice de Productividad: 66

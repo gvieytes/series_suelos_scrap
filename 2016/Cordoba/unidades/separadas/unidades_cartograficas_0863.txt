@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: POZO DE LA OLLA | LA RINCONADA | POZO VERDE | EL ZAPALLAR | y de suelos menores arenosos moderadamente alcalinos
+Porcentajes: 30% | 15% | 15% | 20% | 20%
+Simbolo: PzO
+Capacidad de Uso: VIws
+Indice de Productividad: 10

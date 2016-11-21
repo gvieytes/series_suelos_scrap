@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: LAS ISLETILLAS | LAS SELVAS
+Porcentajes:
+Simbolo: LI1
+Capacidad de Uso: IIIw
+Indice de Productividad: 76

@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LAS BAJADAS en fase acumulada y moderadamente erosionada | LAS BAJADAS en fase moderadamente erosionada | suelos menores con acumulacion superficial
+Porcentajes: 40% | 40% | 20%
+Simbolo: LBj5
+Capacidad de Uso: IVec
+Indice de Productividad: 56

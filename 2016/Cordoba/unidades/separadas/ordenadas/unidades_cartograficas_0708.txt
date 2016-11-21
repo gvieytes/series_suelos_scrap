@@ -1,0 +1,6 @@
+Simbolo: MA11
+Capacidad de Uso: IVsc
+Indice de Productividad: 47
+Descripcion: Complejo de Series
+Series: MONTE ALTO en fase ligera a moderadamente erosionada (surcos) | ESTANCIA ANA MARIA en fase moderadamente erosionada | suelos menores enterrados por sedimentacion reciente
+Porcentajes: 40% | 40% | 20%

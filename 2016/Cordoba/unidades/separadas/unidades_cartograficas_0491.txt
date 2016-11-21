@@ -1,0 +1,6 @@
+Descripcion: Lagunas y Banados
+Series:
+Porcentajes:
+Simbolo: L+Bn
+Capacidad de Uso: VIII
+Indice de Productividad: 5

@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: LAS VARAS dominante | suelos con alcalinidad y salinidad subsuperficial
+Porcentajes:
+Simbolo: LVa1
+Capacidad de Uso: VIws
+Indice de Productividad: 38

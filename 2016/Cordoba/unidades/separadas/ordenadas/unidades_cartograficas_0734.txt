@@ -1,0 +1,6 @@
+Simbolo: MCt4
+Capacidad de Uso: IIIc
+Indice de Productividad: 67
+Descripcion: Asociacion de Series
+Series: MONTE CRISTO | LA EMILIA | suelos menores de transicion
+Porcentajes: 60% | 20% | 20%

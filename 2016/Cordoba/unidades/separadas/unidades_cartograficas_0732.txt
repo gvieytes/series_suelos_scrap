@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE CRISTO en fase poco anegable | LA REYNA
+Porcentajes: 70% | 30%
+Simbolo: MCt2
+Capacidad de Uso: IIIw
+Indice de Productividad: 62

@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase acumulada y ligera a moderadamente erosionada de Series
+Series: BAIGORRIA | OLAETA
+Porcentajes: 60% | 40%
+Simbolo: Bag2
+Capacidad de Uso: IVec
+Indice de Productividad: 36

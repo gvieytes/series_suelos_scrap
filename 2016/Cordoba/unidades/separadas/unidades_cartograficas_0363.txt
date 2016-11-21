@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ESTANCIA LA LEONA | EL PUMA en fase imperfectamente drenada | SANTA ELENA | SAN ANTONIO DE LITIN en fase anegable
+Porcentajes: 25% | 40% | 10% | 25%
+Simbolo: ELL
+Capacidad de Uso: VIws
+Indice de Productividad: 43

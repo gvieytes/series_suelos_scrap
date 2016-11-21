@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: San Marcos 1 de suelos arenosos aluviales de terrazas altas del Rio Tercero y paleocauces
+Porcentajes:
+Simbolo: SM1
+Capacidad de Uso: IIIsc
+Indice de Productividad: 46

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA CARLOTA en fase ligeramente erosionada por viento | OLAETA en fase ligera a moderadamente erosionada por viento
+Porcentajes: 60% | 40%
+Simbolo: LCt4
+Capacidad de Uso: IVes
+Indice de Productividad: 39

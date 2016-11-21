@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ROSALES | ESTANCIA DON FRANCISCO | ESTANCIA SANTA ANA
+Porcentajes: 40% | 30% | 30%
+Simbolo: Rs15
+Capacidad de Uso: IVws
+Indice de Productividad: 37

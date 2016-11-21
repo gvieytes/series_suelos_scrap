@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: Pampayasta I de suelos fluviales arenosos de albardones y paleocauces.
+Porcentajes:
+Simbolo: Pyt1
+Capacidad de Uso: VIsc
+Indice de Productividad: 34

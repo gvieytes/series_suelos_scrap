@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SANTA ELENA | CANADA LA CRUZ | ESTANCIA LA LEONA en fase imperfectamente drenada | suelos menores
+Porcentajes: 15% | 25% | 40% | 20%
+Simbolo: SEl4
+Capacidad de Uso: VIIws
+Indice de Productividad: 21

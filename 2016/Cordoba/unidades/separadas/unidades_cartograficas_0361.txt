@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: ESTANCIA LAS MERCEDES
+Porcentajes:
+Simbolo: ELM
+Capacidad de Uso: IVes
+Indice de Productividad: 34

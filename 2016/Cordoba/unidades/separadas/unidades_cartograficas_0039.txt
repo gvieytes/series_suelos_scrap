@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ALTO GRANDE en fase moderadamente inclinada | BELEN | LA PAZ en fase moderada a fuertemente inclinada
+Porcentajes: 50% | 30% | 20%
+Simbolo: AGr7
+Capacidad de Uso: IVec
+Indice de Productividad: 54

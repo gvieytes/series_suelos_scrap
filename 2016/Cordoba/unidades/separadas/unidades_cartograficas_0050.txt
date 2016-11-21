@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: ALEJO LEDESMA | ALEJO LEDESMA en fase moderadamente bien drenada | suelos menores imperfectamente drenados y moderadamente alcalinos subsuperficial
+Porcentajes: 60% | 20% | 20%
+Simbolo: ALd9
+Capacidad de Uso: IIIsc
+Indice de Productividad: 66

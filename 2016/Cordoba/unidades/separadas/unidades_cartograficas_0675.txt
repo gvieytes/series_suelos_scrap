@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LUXARDO | ESTANCIA DONA LUCIA | CRISPI | DEVOTO
+Porcentajes: 30% | 30% | 20% | 20%
+Simbolo: Lx
+Capacidad de Uso: IVws
+Indice de Productividad: 39

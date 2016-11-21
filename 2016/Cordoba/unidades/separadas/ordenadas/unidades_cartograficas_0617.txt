@@ -1,0 +1,6 @@
+Simbolo: LPo2
+Capacidad de Uso: IVes
+Indice de Productividad: 66
+Descripcion: Asociacion en fase moderadamente inclinada de Series
+Series: LOS POZOS | LOS POZOS variante calcarea | LAS MERCEDES I en fase acumulada
+Porcentajes: 60% | 20% | 20%

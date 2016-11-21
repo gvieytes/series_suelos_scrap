@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LOS SAUCES | LAS MACITAS | SEBASTIAN ELCANO
+Porcentajes: 70% | 20% | 10%
+Simbolo: LSc
+Capacidad de Uso: IVc
+Indice de Productividad: 67

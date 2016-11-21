@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos de valles interserranos estrechos y alargados
+Porcentajes:
+Simbolo: Co29
+Capacidad de Uso: VIsc
+Indice de Productividad: 36

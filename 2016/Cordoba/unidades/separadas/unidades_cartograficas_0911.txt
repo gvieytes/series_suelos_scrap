@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: RIO TERCERO en fase engrosada
+Porcentajes:
+Simbolo: RT3
+Capacidad de Uso: IVs
+Indice de Productividad: 22

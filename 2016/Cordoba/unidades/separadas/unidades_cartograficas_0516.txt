@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: LA BELGICA en fase muy poco inundable y engrosada
+Porcentajes:
+Simbolo: LBg2
+Capacidad de Uso: llw
+Indice de Productividad: 86

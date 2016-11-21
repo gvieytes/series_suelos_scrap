@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: LOS CARDOS | LOS CARDOS en fase moderadamente bien drenada
+Porcentajes:
+Simbolo: LCd3
+Capacidad de Uso: I-2
+Indice de Productividad: 86

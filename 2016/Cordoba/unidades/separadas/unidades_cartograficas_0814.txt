@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: OLAETA en fase muy poco anegable
+Porcentajes:
+Simbolo: Ota2
+Capacidad de Uso: IIIsc
+Indice de Productividad: 36

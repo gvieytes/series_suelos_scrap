@@ -1,0 +1,6 @@
+Simbolo: MA6
+Capacidad de Uso: IVws
+Indice de Productividad: 50
+Descripcion: Complejo de Series
+Series: MONTE ALTO en fase moderadamente bien drenada | LAS SELVAS en fase sodica en profundidad | JAMES CRAIK
+Porcentajes: 40% | 30% | 30%

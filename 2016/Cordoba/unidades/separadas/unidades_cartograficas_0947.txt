@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SEBASTIAN ELCANO | LOS HOYOS | SAN PEDRO
+Porcentajes: 60% | 20% | 20%
+Simbolo: SEc7
+Capacidad de Uso: IVsc
+Indice de Productividad: 61

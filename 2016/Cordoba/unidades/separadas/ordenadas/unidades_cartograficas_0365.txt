@@ -1,0 +1,6 @@
+Simbolo: ELL2
+Capacidad de Uso: IIIsc
+Indice de Productividad: 39
+Descripcion: Complejo de Series
+Series: ESTANCIA LA LEONA | LAGUNA BLAIZOT | SILVIO PELLICO en fase poco anegable | SILVIO PELLICO en fase moderadamente salina en profundidad
+Porcentajes: 20% | 20% | 30% | 30%

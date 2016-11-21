@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: EL PUMA | EL CHAJA | NOETINGER en fase moderadamente bien drenada
+Porcentajes: 40% | 30% | 30%
+Simbolo: EPm
+Capacidad de Uso: IIw
+Indice de Productividad: 77

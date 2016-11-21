@@ -1,0 +1,6 @@
+Simbolo: GC4
+Capacidad de Uso: IVec
+Indice de Productividad: 47
+Descripcion: Consociacion
+Series: GENERAL CABRERA en fase por erosion hidrica ligera a moderada
+Porcentajes:

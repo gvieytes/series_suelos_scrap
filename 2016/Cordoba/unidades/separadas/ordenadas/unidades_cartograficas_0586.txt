@@ -1,0 +1,6 @@
+Simbolo: LI5
+Capacidad de Uso: IVec
+Indice de Productividad: 37
+Descripcion: Asociacion en fase ligera a moderadamente erosionada de Series
+Series: LAS ISLETILLAS | PUERTA COLORADA | SAN BARTOLOME (inclusiones de fases acumuladas)
+Porcentajes: 60% | 20% | 20%

@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: GENERAL CABRERA en fase ligeramente engrosada | PUNTA DEL AGUA
+Porcentajes: 60% | 40%
+Simbolo: GC3
+Capacidad de Uso: IIIsc
+Indice de Productividad: 51

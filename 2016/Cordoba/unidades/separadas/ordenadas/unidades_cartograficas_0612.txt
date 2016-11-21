@@ -1,0 +1,6 @@
+Simbolo: LPa1
+Capacidad de Uso: IVsc
+Indice de Productividad: 47
+Descripcion: Complejo de Series
+Series: LOS PARAISOS | LOS PARAISOS en fase moderadamente alcalina | suelos menores moderadamente bien drenados, alcalinos y sodicos subsuperficial
+Porcentajes: 40% | 40% | 20%

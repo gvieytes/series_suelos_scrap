@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: MATORRALES | COSTA SACATE | VILLA DEL ROSARIO
+Porcentajes: 40% | 30% | 30%
+Simbolo: Mt6
+Capacidad de Uso: lIlc
+Indice de Productividad: 71

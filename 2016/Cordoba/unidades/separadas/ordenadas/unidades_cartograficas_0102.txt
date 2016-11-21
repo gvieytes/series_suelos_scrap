@@ -1,0 +1,6 @@
+Simbolo: Bds2
+Capacidad de Uso: llw
+Indice de Productividad: 86
+Descripcion: Consociacion
+Series: BALDISSERA en fase muy poco inundable
+Porcentajes:

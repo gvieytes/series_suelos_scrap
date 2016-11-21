@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: SAGRADA FAMILIA | SAGRADA FAMILIA en fase sodica desde la superficie LA QUINTA en fase alcalina en profundidad | BUEY MUERTO
+Porcentajes: 40% | 20% | 20% | 20%
+Simbolo: SFl5
+Capacidad de Uso: IVsc
+Indice de Productividad: 37

@@ -1,0 +1,6 @@
+Simbolo: Cs4
+Capacidad de Uso: IIIes
+Indice de Productividad: 41
+Descripcion: Asociacion de Series
+Series: CANALS | CANALS en fase moderadamente erosionada
+Porcentajes: 60% | 40%

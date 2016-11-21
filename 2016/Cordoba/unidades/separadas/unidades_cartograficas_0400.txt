@@ -1,0 +1,6 @@
+Descripcion: Complejo en fase muy inundable de Series
+Series: EL SILENCIO | LA ANGELITA | suelos menores halo-hidromorficos arcillosos
+Porcentajes: 60% | 20% | 20%
+Simbolo: ESi2
+Capacidad de Uso: VIIws
+Indice de Productividad: 2

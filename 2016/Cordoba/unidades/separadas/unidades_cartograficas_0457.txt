@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: HANSEN en fase moderadamente ondulada y moderadamente erosionada
+Porcentajes:
+Simbolo: Ha13
+Capacidad de Uso: IIe
+Indice de Productividad: 68

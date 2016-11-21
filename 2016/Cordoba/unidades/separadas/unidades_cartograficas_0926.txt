@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SACANTA en fase moderadamente bien drenada | LA REYNA
+Porcentajes: 70% | 30%
+Simbolo: Sc5
+Capacidad de Uso: IIIw
+Indice de Productividad: 70

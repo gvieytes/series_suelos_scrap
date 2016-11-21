@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SACANTA en fase moderadamente bien drenada | LA REYNA | COLONIA VIDELA
+Porcentajes: 50% | 30% | 20%
+Simbolo: Sc7
+Capacidad de Uso: IVw
+Indice de Productividad: 62

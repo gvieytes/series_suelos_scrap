@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: SAN FRANCISCO DEL CHANAR II | SAN FRANCISCO DEL CHANAR I | SAN FRANCISCO DEL CHANAR III
+Porcentajes: 40% | 30% | 30%
+Simbolo: SFC1
+Capacidad de Uso: VIsc
+Indice de Productividad: 47

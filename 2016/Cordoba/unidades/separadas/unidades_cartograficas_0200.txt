@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos halohidromorficos y degradados del Arroyo El Barreal y otros
+Porcentajes:
+Simbolo: Co31
+Capacidad de Uso: VIIws
+Indice de Productividad: 8

@@ -1,0 +1,6 @@
+Simbolo: Bn
+Capacidad de Uso: 8
+Indice de Productividad: 5
+Descripcion: Banados
+Series:
+Porcentajes:

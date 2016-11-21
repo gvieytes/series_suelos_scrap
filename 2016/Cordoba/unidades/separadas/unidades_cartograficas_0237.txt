@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de Sierras altas
+Porcentajes:
+Simbolo: CoA
+Capacidad de Uso: VIII/VIIes
+Indice de Productividad: 2

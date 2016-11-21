@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MONTE BUEY en fase moderadamente bien drenada | JUSTINIANO POSSE
+Porcentajes: 80% | 20%
+Simbolo: MB3
+Capacidad de Uso: IIw
+Indice de Productividad: 75

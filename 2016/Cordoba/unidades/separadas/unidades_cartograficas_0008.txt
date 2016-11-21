@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: AARON CASTELLANOS | ESTANCIA SANTA ANA | EL ABOLENGO
+Porcentajes: 30% | 40% | 30%
+Simbolo: AC7
+Capacidad de Uso: IVws
+Indice de Productividad: 50

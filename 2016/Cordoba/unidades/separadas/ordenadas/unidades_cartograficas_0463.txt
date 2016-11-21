@@ -1,0 +1,6 @@
+Simbolo: HR1
+Capacidad de Uso: VIIes
+Indice de Productividad: 8
+Descripcion: Complejo de Series
+Series: HUINCA RENANCO | suelos arenosos poco diferenciados y de relictos medanosos
+Porcentajes: 25% | 25% | 50%

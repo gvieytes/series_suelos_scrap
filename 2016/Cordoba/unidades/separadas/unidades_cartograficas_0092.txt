@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: BAIGORRIA en fase moderada a severamente erosionada por agua
+Porcentajes:
+Simbolo: Bag9
+Capacidad de Uso: VIes
+Indice de Productividad: 25

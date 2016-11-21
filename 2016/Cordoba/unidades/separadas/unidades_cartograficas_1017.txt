@@ -1,0 +1,6 @@
+Descripcion: Consociacion
+Series: VILLA ELOISA en fase moderada a severamente erosionada
+Porcentajes:
+Simbolo: VE2
+Capacidad de Uso: IIIe
+Indice de Productividad:

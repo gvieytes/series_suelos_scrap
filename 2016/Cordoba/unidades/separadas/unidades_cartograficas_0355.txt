@@ -1,0 +1,6 @@
+Descripcion: Asociacion en fase moderadamente inclinada de Series
+Series: EL DURAZNO | MACHA | CAMINO REAL
+Porcentajes: 50% | 25% | 25%
+Simbolo: EDu2
+Capacidad de Uso: VIec
+Indice de Productividad: 36

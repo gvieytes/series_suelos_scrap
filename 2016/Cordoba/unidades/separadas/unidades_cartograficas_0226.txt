@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: inundable de la terraza baja del Rio Suquia y otros
+Porcentajes:
+Simbolo: Co57
+Capacidad de Uso: VIIws
+Indice de Productividad: 8

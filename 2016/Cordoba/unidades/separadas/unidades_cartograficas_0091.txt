@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: BAIGORRIA | BAIGORRIA en fase poco anegable y acumulada | BAIGORRIA en fase moderadamente erosionada por viento
+Porcentajes: 50% | 20% | 30%
+Simbolo: Bag8
+Capacidad de Uso: IVes
+Indice de Productividad: 45

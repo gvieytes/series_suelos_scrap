@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado
+Series: CALAMUCHITA III | CALAMUCHITA V | SANTA ROSA II | SAN IGNACIO I | YACANTO III | rocas aflorantes
+Porcentajes:
+Simbolo: CoH
+Capacidad de Uso: VIIes/VIes
+Indice de Productividad: 21

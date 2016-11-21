@@ -1,0 +1,6 @@
+Descripcion: Complejo de Series
+Series: LA CARLOTA en fase ligeramente erosionada por viento | OLAETA en fase moderadamente erosionada | LAS MERCEDES en fase severamente erosionada
+Porcentajes: 40% | 40% | 20%
+Simbolo: LCt9
+Capacidad de Uso: VIes
+Indice de Productividad: 32

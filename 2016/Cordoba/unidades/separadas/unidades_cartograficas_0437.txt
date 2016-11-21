@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: GENERAL SAVIO I | GENERAL SAVIO I en fase acumulada y ligera a moderadamente erosionada | SOCONCHO
+Porcentajes: 40% | 40% | 20%
+Simbolo: GSaI1
+Capacidad de Uso: IVes
+Indice de Productividad: 60

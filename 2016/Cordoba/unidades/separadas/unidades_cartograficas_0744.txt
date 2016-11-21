@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: MANFREDI | MANFREDI en fase por erosion moderada a severa
+Porcentajes: 60% | 40%
+Simbolo: Mf4
+Capacidad de Uso: IVec
+Indice de Productividad: 61

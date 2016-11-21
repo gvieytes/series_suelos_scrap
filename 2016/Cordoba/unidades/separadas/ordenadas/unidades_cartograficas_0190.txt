@@ -1,0 +1,6 @@
+Simbolo: Co21
+Capacidad de Uso: VIes
+Indice de Productividad: 33
+Descripcion: Complejo indeterminado
+Series: de suelos aluviales de valles entre sierras de conglomerados con erosion lineal (surcos y zanjas profundas)
+Porcentajes:

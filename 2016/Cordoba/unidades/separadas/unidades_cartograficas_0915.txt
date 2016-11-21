@@ -1,0 +1,6 @@
+Descripcion: Complejo indeterminado
+Series: de suelos salinos alcalinos de terrazas intermedias del Rio Popopis
+Porcentajes:
+Simbolo: RV1
+Capacidad de Uso: VIIws
+Indice de Productividad: 6

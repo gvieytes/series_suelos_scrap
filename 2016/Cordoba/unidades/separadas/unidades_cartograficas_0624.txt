@@ -1,0 +1,6 @@
+Descripcion: Complejo indiferenciado de Series
+Series: LA PLAYOSA | AUSONIA | GENERAL PAZ y suelos menores alcalinos en profundidad
+Porcentajes:
+Simbolo: LPs4
+Capacidad de Uso: IVws
+Indice de Productividad: 25

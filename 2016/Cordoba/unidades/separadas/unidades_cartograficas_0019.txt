@@ -1,0 +1,6 @@
+Descripcion: Asociacion de Series
+Series: ALPA CORRAL en fase acumulada | SAN BARTOLOME en fase ligeramente erosionada | ELENA en fase ligeramente erosionada | suelos menores
+Porcentajes: 40% | 25% | 25% | 10%
+Simbolo: ACo6
+Capacidad de Uso: IIIec
+Indice de Productividad: 60
